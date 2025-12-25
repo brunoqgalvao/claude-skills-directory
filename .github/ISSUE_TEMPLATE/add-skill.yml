@@ -1,0 +1,36 @@
+name: "Add a Skill"
+description: "Submit a Claude Skill to the directory"
+title: "[Skill] <Name>"
+labels: ["submission"]
+body:
+  - type: input
+    id: name
+    attributes: { label: "Name" }
+    validations: { required: true }
+  - type: textarea
+    id: summary
+    attributes: { label: "Summary (≤180 chars)" }
+    validations: { required: true }
+  - type: input
+    id: verticals
+    attributes: { label: "Verticals (≤3, comma-separated e.g., Legal, Finance)" }
+    validations: { required: true }
+  - type: input
+    id: tags
+    attributes: { label: "Tags (comma-separated)" }
+  - type: input
+    id: repo
+    attributes: { label: "Repository URL (optional)" }
+  - type: input
+    id: skill_md
+    attributes: { label: "SKILL.md URL (optional)" }
+  - type: input
+    id: docs
+    attributes: { label: "Docs URL (optional)" }
+  - type: input
+    id: demo
+    attributes: { label: "Demo video URL (optional)" }
+  - type: input
+    id: last_updated
+    attributes: { label: "Last updated (YYYY-MM-DD)" }
+    validations: { required: true }

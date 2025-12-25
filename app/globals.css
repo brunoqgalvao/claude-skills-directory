@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --ring: #2FA7FF;
+}
+
+/* Page background: aurora + faint grid */
+body {
+  @apply bg-slate-950 text-white;
+  background-image: theme('backgroundImage.aurora'), theme('backgroundImage.grid');
+  background-size:
+    cover,
+    32px 32px;
+  background-position:
+    center,
+    top left;
+}
+
+/* Glass card util */
+.glass {
+  @apply bg-white/10 backdrop-blur-sm border border-white/10;
+}
+
+/* Focus ring */
+.focus-ring {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 3px color-mix(in srgb, var(--ring) 60%, transparent) !important;
+}
+
+/* Hide horizontal scrollbar for vertical pills */
+.scrollbar-none::-webkit-scrollbar { display: none; }
+.scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Reduced motion: disable tilts and transitions */
+@media (prefers-reduced-motion: reduce) {
+  * { animation-duration: 0.001ms !important; animation-iteration-count: 1 !important; transition-duration: 0.001ms !important; }
+}

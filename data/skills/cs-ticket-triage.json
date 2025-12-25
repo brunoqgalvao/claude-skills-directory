@@ -1,0 +1,24 @@
+{
+  "id": "cs-ticket-triage",
+  "name": "CS Ticket Triage",
+  "summary": "Classify and route support tickets to the right queues with reasons.",
+  "verticals": ["Support", "Operations"],
+  "tags": ["classification", "routing", "support"],
+  "author": {
+    "name": "Acme Corp",
+    "github": "acme"
+  },
+  "visibility": "public",
+  "links": {
+    "repo": "https://github.com/acme/cs-ticket-triage-skill",
+    "demo": "https://youtu.be/dQw4w9WgXcQ"
+  },
+  "installation": {
+    "type": "git"
+  },
+  "stats": {
+    "stars": 19,
+    "installs": 103
+  },
+  "last_updated": "2025-09-10"
+}

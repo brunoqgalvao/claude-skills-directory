@@ -1,0 +1,37 @@
+{
+  "name": "skill",
+  "version": "0.1.0",
+  "description": "NPM for AI agent skills - install, manage, and publish skills for Claude Code, Codex, and more",
+  "type": "module",
+  "bin": {
+    "skill": "./dist/index.js"
+  },
+  "scripts": {
+    "build": "tsup src/index.ts --format esm --dts --clean",
+    "dev": "tsup src/index.ts --format esm --watch",
+    "start": "node dist/index.js",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^12.1.0",
+    "conf": "^13.0.1",
+    "execa": "^9.5.1",
+    "fs-extra": "^11.2.0",
+    "inquirer": "^12.1.0",
+    "ora": "^8.1.1",
+    "simple-git": "^3.27.0",
+    "yaml": "^2.6.1"
+  },
+  "devDependencies": {
+    "@types/fs-extra": "^11.0.4",
+    "@types/node": "^22.10.2",
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": ["claude", "skills", "ai", "agent", "cli", "codex", "chatgpt"],
+  "license": "MIT"
+}

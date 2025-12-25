@@ -1,0 +1,24 @@
+{
+  "id": "legal-research-assistant",
+  "name": "Legal Research Assistant",
+  "summary": "Search precedents and assemble citations for motions and briefs.",
+  "verticals": ["Legal"],
+  "tags": ["case-law", "citations", "research"],
+  "author": {
+    "name": "Acme Corp",
+    "github": "acme"
+  },
+  "visibility": "public",
+  "links": {
+    "repo": "https://github.com/acme/legal-research-skill",
+    "docs": "https://acme.dev/docs/legal-research"
+  },
+  "installation": {
+    "type": "git"
+  },
+  "stats": {
+    "stars": 28,
+    "installs": 156
+  },
+  "last_updated": "2025-08-15"
+}

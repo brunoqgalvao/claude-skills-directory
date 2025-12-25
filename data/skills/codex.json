@@ -1,0 +1,29 @@
+{
+  "id": "codex",
+  "name": "Codex Integration",
+  "summary": "Integrate OpenAI Codex CLI for automated code analysis, refactoring, and editing workflows with model selection and session management.",
+  "verticals": ["Engineering"],
+  "tags": ["ai", "code-analysis", "refactoring", "automation", "openai"],
+  "author": {
+    "name": "Skills Directory",
+    "github": "skills-directory"
+  },
+  "visibility": "public",
+  "links": {
+    "repo": "https://github.com/skills-directory/skill-codex",
+    "skill_md": "https://raw.githubusercontent.com/skills-directory/skill-codex/main/SKILL.md"
+  },
+  "installation": {
+    "type": "git",
+    "command": "git clone --depth 1 https://github.com/skills-directory/skill-codex.git /tmp/skills-temp && mkdir -p ~/.claude/skills && cp -r /tmp/skills-temp/ ~/.claude/skills/codex && rm -rf /tmp/skills-temp",
+    "prerequisites": [
+      "Codex CLI installed and available on PATH",
+      "Valid Codex credentials configured"
+    ]
+  },
+  "stats": {
+    "stars": 42,
+    "installs": 128
+  },
+  "last_updated": "2025-11-05"
+}

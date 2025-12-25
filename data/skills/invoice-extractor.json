@@ -1,0 +1,24 @@
+{
+  "id": "invoice-extractor",
+  "name": "Invoice Extractor",
+  "summary": "Parse PDFs and export key fields to CSV for AR teams.",
+  "verticals": ["Finance", "Operations"],
+  "tags": ["pdf", "ocr", "csv", "receivables"],
+  "author": {
+    "name": "Acme Corp",
+    "github": "acme"
+  },
+  "visibility": "public",
+  "links": {
+    "repo": "https://github.com/acme/invoice-extractor-skill",
+    "skill_md": "https://raw.githubusercontent.com/acme/invoice-extractor-skill/main/SKILL.md"
+  },
+  "installation": {
+    "type": "git"
+  },
+  "stats": {
+    "stars": 15,
+    "installs": 87
+  },
+  "last_updated": "2025-10-01"
+}

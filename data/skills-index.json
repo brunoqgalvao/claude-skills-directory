@@ -1,0 +1,132 @@
+[
+  {
+    "id": "codex",
+    "name": "Codex Integration",
+    "summary": "Integrate OpenAI Codex CLI for automated code analysis, refactoring, and editing workflows with model selection and session management.",
+    "verticals": [
+      "Engineering"
+    ],
+    "tags": [
+      "ai",
+      "code-analysis",
+      "refactoring",
+      "automation",
+      "openai"
+    ],
+    "author": {
+      "name": "Skills Directory",
+      "github": "skills-directory"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/skills-directory/skill-codex",
+      "skill_md": "https://raw.githubusercontent.com/skills-directory/skill-codex/main/SKILL.md"
+    },
+    "installation": {
+      "type": "git",
+      "command": "git clone --depth 1 https://github.com/skills-directory/skill-codex.git /tmp/skills-temp && mkdir -p ~/.claude/skills && cp -r /tmp/skills-temp/ ~/.claude/skills/codex && rm -rf /tmp/skills-temp",
+      "prerequisites": [
+        "Codex CLI installed and available on PATH",
+        "Valid Codex credentials configured"
+      ]
+    },
+    "stats": {
+      "stars": 42,
+      "installs": 128
+    },
+    "last_updated": "2025-11-05"
+  },
+  {
+    "id": "cs-ticket-triage",
+    "name": "CS Ticket Triage",
+    "summary": "Classify and route support tickets to the right queues with reasons.",
+    "verticals": [
+      "Support",
+      "Operations"
+    ],
+    "tags": [
+      "classification",
+      "routing",
+      "support"
+    ],
+    "author": {
+      "name": "Acme Corp",
+      "github": "acme"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/acme/cs-ticket-triage-skill",
+      "demo": "https://youtu.be/dQw4w9WgXcQ"
+    },
+    "installation": {
+      "type": "git"
+    },
+    "stats": {
+      "stars": 19,
+      "installs": 103
+    },
+    "last_updated": "2025-09-10"
+  },
+  {
+    "id": "invoice-extractor",
+    "name": "Invoice Extractor",
+    "summary": "Parse PDFs and export key fields to CSV for AR teams.",
+    "verticals": [
+      "Finance",
+      "Operations"
+    ],
+    "tags": [
+      "pdf",
+      "ocr",
+      "csv",
+      "receivables"
+    ],
+    "author": {
+      "name": "Acme Corp",
+      "github": "acme"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/acme/invoice-extractor-skill",
+      "skill_md": "https://raw.githubusercontent.com/acme/invoice-extractor-skill/main/SKILL.md"
+    },
+    "installation": {
+      "type": "git"
+    },
+    "stats": {
+      "stars": 15,
+      "installs": 87
+    },
+    "last_updated": "2025-10-01"
+  },
+  {
+    "id": "legal-research-assistant",
+    "name": "Legal Research Assistant",
+    "summary": "Search precedents and assemble citations for motions and briefs.",
+    "verticals": [
+      "Legal"
+    ],
+    "tags": [
+      "case-law",
+      "citations",
+      "research"
+    ],
+    "author": {
+      "name": "Acme Corp",
+      "github": "acme"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/acme/legal-research-skill",
+      "docs": "https://acme.dev/docs/legal-research"
+    },
+    "installation": {
+      "type": "git"
+    },
+    "stats": {
+      "stars": 28,
+      "installs": 156
+    },
+    "last_updated": "2025-08-15"
+  }
+]
