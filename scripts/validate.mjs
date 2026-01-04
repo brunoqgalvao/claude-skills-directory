@@ -1,5 +1,3 @@
-// Simple data validator for /data/skills/*.json using zod.
-// Run: pnpm validate
 import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
@@ -16,17 +14,12 @@ const Skill = z.object({
   summary: z.string().max(180),
   verticals: z.array(z.string()).min(1).max(3),
   tags: z.array(z.string()).optional(),
-
-  // Author information
   author: z.object({
     name: z.string(),
     github: z.string().optional(),
     url: z.string().url().optional()
   }),
-
-  // Visibility control
   visibility: z.enum(["public", "private"]).default("public"),
-
   links: z
     .object({
       repo: z.string().url().optional(),
@@ -35,25 +28,30 @@ const Skill = z.object({
       demo: z.string().url().optional()
     })
     .refine((o) => Object.keys(o).length > 0, { message: "At least one link required" }),
-
-  // Installation metadata
   installation: z.object({
-    type: z.enum(["git", "inline", "npm"]),
-    command: z.string().optional(), // For git/npm based installs
-    prerequisites: z.array(z.string()).optional() // e.g., ["codex CLI installed"]
+    type: z.enum(["git", "inline", "npm", "cli"]),
+    command: z.string().optional(),
+    prerequisites: z.array(z.string()).optional()
   }).optional(),
-
-  // Community metrics
   stats: z.object({
     stars: z.number().default(0),
-    installs: z.number().default(0)
+    installs: z.number().default(0),
+    downloads: z.number().default(0),
+    thumbsUp: z.number().default(0)
   }).optional(),
-
+  comments: z.array(z.object({
+    id: z.string(),
+    author: z.string(),
+    authorGithub: z.string().optional(),
+    content: z.string(),
+    createdAt: z.string()
+  })).optional(),
   last_updated: z.string()
 });
 
 let ok = true;
 const ids = new Set();
+const allSkills = [];
 
 const files = fs.readdirSync(skillsDir).filter((f) => f.endsWith(".json"));
 for (const f of files) {
@@ -65,12 +63,12 @@ for (const f of files) {
     if (parsed.id + ".json" !== f) throw new Error(`filename must be ${parsed.id}.json`);
     if (ids.has(parsed.id)) throw new Error(`duplicate id: ${parsed.id}`);
     ids.add(parsed.id);
-    // quick URL sanity check if provided
     for (const key of ["repo", "skill_md", "docs", "demo"]) {
       if (parsed.links[key] && !/^https?:\/\//.test(parsed.links[key])) {
         throw new Error(`links.${key} must be http(s) URL`);
       }
     }
+    allSkills.push(parsed);
     console.log(`✓ ${f}`);
   } catch (e) {
     ok = false;
@@ -79,4 +77,10 @@ for (const f of files) {
 }
 
 if (!ok) process.exit(1);
+
+allSkills.sort((a, b) => new Date(b.last_updated) - new Date(a.last_updated));
+const indexPath = path.join(__dirname, "..", "data", "skills-index.json");
+fs.writeFileSync(indexPath, JSON.stringify(allSkills, null, 2));
+
 console.log(`\n✅ ${files.length} skills validated`);
+console.log(`📦 Generated skills-index.json`);
