@@ -2,6 +2,10 @@
 
 import { Command } from "commander";
 import chalk from "chalk";
+import { execSync } from "child_process";
+import { existsSync } from "fs";
+import { join } from "path";
+import { homedir } from "os";
 import { install } from "./commands/install.js";
 import { uninstall } from "./commands/uninstall.js";
 import { list } from "./commands/list.js";
@@ -13,6 +17,37 @@ import { update } from "./commands/update.js";
 import { run } from "./commands/run.js";
 import { open } from "./commands/open.js";
 
+// Check if running via npx and offer to install globally
+async function checkGlobalInstall(): Promise<void> {
+  // Skip if already installed globally or if this IS the global install
+  const markers = [
+    join(homedir(), ".skills-cli-installed"),
+    "/usr/local/bin/skills-cli",
+    "/usr/local/bin/skill",
+  ];
+
+  // Check common global bin locations
+  const isGloballyInstalled = markers.some(existsSync) ||
+    process.argv[1]?.includes("node_modules/.bin") === false;
+
+  // Detect if running via npx (npx sets npm_execpath or runs from cache)
+  const isNpx = process.env.npm_execpath?.includes("npx") ||
+    process.argv[1]?.includes("_npx");
+
+  if (isNpx && !isGloballyInstalled) {
+    console.log(chalk.cyan("\n📦 Installing skills-cli globally for faster access...\n"));
+    try {
+      execSync("npm install -g skills-cli", { stdio: "inherit" });
+      console.log(chalk.green("\n✔ Installed globally! You can now use: skills <command>\n"));
+    } catch {
+      // Silent fail - npx still works
+    }
+  }
+}
+
+// Run the check before parsing commands
+await checkGlobalInstall();
+
 const program = new Command();
 
 program
@@ -21,9 +56,10 @@ program
   .version("0.1.0");
 
 program
-  .command("install <source>")
+  .command("add <source>")
+  .alias("install")
   .alias("i")
-  .description("Install a skill from registry or git URL")
+  .description("Add a skill from registry or git URL")
   .option("-g, --global", "Install globally (~/.claude/skills/)")
   .option("-f, --force", "Force reinstall if already exists")
   .option("--skip-setup", "Skip running setup scripts")

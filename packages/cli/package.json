@@ -1,11 +1,11 @@
 {
   "name": "skills-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "NPM for AI agent skills - install, manage, and publish skills for Claude Code, Codex, and more",
   "type": "module",
   "bin": {
-    "skill": "./dist/index.js",
-    "skills-cli": "./dist/index.js"
+    "skills": "./dist/index.js",
+    "skill": "./dist/index.js"
   },
   "scripts": {
     "build": "tsup src/index.ts --format esm --dts --clean",
