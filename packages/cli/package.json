@@ -1,10 +1,11 @@
 {
   "name": "skills-cli",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "NPM for AI agent skills - install, manage, and publish skills for Claude Code, Codex, and more",
   "type": "module",
   "bin": {
-    "skill": "./dist/index.js"
+    "skill": "./dist/index.js",
+    "skills-cli": "./dist/index.js"
   },
   "scripts": {
     "build": "tsup src/index.ts --format esm --dts --clean",
@@ -47,6 +48,16 @@
   "engines": {
     "node": ">=18"
   },
-  "keywords": ["claude", "skills", "ai", "agent", "cli", "codex", "chatgpt", "anthropic", "openai"],
+  "keywords": [
+    "claude",
+    "skills",
+    "ai",
+    "agent",
+    "cli",
+    "codex",
+    "chatgpt",
+    "anthropic",
+    "openai"
+  ],
   "license": "MIT"
 }
