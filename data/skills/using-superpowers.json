@@ -1,0 +1,39 @@
+{
+  "id": "using-superpowers",
+  "name": "using-superpowers",
+  "version": "1.0.0",
+  "summary": "starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+  "verticals": [
+    "Design",
+    "Engineering"
+  ],
+  "tags": [
+    "using",
+    "superpowers",
+    "claude"
+  ],
+  "author": {
+    "name": "obra",
+    "github": "obra",
+    "avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/obra/superpowers/tree/main/skills/using-superpowers",
+    "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/using-superpowers/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install using-superpowers"
+  },
+  "stats": {
+    "stars": 13645,
+    "forks": 1125,
+    "installs": 0
+  },
+  "last_updated": "2025-12-27",
+  "created_at": "2025-10-09"
+}

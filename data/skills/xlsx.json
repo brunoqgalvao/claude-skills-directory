@@ -1,0 +1,38 @@
+{
+  "id": "xlsx",
+  "name": "xlsx",
+  "version": "1.0.0",
+  "summary": "\"Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xl",
+  "verticals": [
+    "Data",
+    "Design"
+  ],
+  "tags": [
+    "xlsx",
+    "claude"
+  ],
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics",
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+  },
+  "status": "ready",
+  "verified": true,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
+    "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/xlsx/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install xlsx"
+  },
+  "stats": {
+    "stars": 32783,
+    "forks": 2969,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20",
+  "created_at": "2025-09-22"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "writing-plans",
+  "name": "writing-plans",
+  "version": "1.0.0",
+  "summary": "you have a spec or requirements for a multi-step task, before touching code",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "writing",
+    "plans",
+    "ai",
+    "testing"
+  ],
+  "author": {
+    "name": "obra",
+    "github": "obra",
+    "avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/obra/superpowers/tree/main/skills/writing-plans",
+    "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-plans/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install writing-plans"
+  },
+  "stats": {
+    "stars": 13645,
+    "forks": 1125,
+    "installs": 0
+  },
+  "last_updated": "2025-12-27",
+  "created_at": "2025-10-09"
+}

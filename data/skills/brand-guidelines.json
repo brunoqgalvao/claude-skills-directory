@@ -1,0 +1,39 @@
+{
+  "id": "brand-guidelines",
+  "name": "brand-guidelines",
+  "version": "1.0.0",
+  "summary": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guideline",
+  "verticals": [
+    "Design",
+    "Marketing"
+  ],
+  "tags": [
+    "brand",
+    "guidelines",
+    "ai"
+  ],
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics",
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+  },
+  "status": "ready",
+  "verified": true,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
+    "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/brand-guidelines/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install brand-guidelines"
+  },
+  "stats": {
+    "stars": 32783,
+    "forks": 2969,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20",
+  "created_at": "2025-09-22"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "buslog",
+  "name": "Buslog",
+  "version": "1.0.0",
+  "summary": "# BusLog Skill - Business Logic Documentation",
+  "verticals": [
+    "Engineering",
+    "Operations"
+  ],
+  "tags": [
+    "buslog",
+    "api",
+    "workflow",
+    "documentation"
+  ],
+  "author": {
+    "name": "PoulpYBifle",
+    "github": "PoulpYBifle",
+    "avatar": "https://avatars.githubusercontent.com/u/58371552?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PoulpYBifle/BusLog/tree/main/.claude/skills/buslog/SKILL.MD",
+    "skill_md": "https://raw.githubusercontent.com/PoulpYBifle/BusLog/main/.claude/skills/buslog/SKILL.MD/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install buslog"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30",
+  "created_at": "2025-10-30"
+}

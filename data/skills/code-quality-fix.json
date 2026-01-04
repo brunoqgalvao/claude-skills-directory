@@ -1,0 +1,39 @@
+{
+  "id": "code-quality-fix",
+  "name": "Code Quality Fix",
+  "version": "1.0.0",
+  "summary": "Code Quality Fix skill for Claude Code",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "code",
+    "quality",
+    "fix"
+  ],
+  "author": {
+    "name": "DarkMonkDev",
+    "github": "DarkMonkDev",
+    "avatar": "https://avatars.githubusercontent.com/u/75149771?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DarkMonkDev/WitchCityRope/tree/main/.claude/skills/code-quality-fix/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/DarkMonkDev/WitchCityRope/main/.claude/skills/code-quality-fix/SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install code-quality-fix"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15",
+  "created_at": "2025-06-28"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pdf",
+  "name": "pdf",
+  "version": "1.0.0",
+  "summary": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form o",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "pdf",
+    "ai",
+    "claude"
+  ],
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics",
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+  },
+  "status": "ready",
+  "verified": true,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+    "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/pdf/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install pdf"
+  },
+  "stats": {
+    "stars": 32783,
+    "forks": 2969,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20",
+  "created_at": "2025-09-22"
+}

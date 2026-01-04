@@ -1,0 +1,38 @@
+{
+  "id": "nextjs-16",
+  "name": "Nextjs 16",
+  "version": "1.0.0",
+  "summary": "Nextjs 16 skill for Claude Code",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "nextjs",
+    "documentation"
+  ],
+  "author": {
+    "name": "putto11262002",
+    "github": "putto11262002",
+    "avatar": "https://avatars.githubusercontent.com/u/85939355?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/putto11262002/jimmodel/tree/main/.claude/skills/nextjs-16/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/putto11262002/jimmodel/main/.claude/skills/nextjs-16/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install nextjs-16"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-03",
+  "created_at": "2025-11-04"
+}

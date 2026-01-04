@@ -1,0 +1,23 @@
+{
+  "id": "skill-cli",
+  "name": "Skill CLI",
+  "tagline": "The package manager for AI agent skills",
+  "version": "0.1.0",
+  "summary": "Install, manage, search, and publish skills for Claude Code, OpenAI Codex CLI, and other AI coding agents.",
+  "installation": {
+    "command": "npm install -g @skills/cli",
+    "prerequisites": ["Node.js 18+"]
+  },
+  "links": {
+    "repo": "https://github.com/skills-directory/skill-cli",
+    "docs": "https://skillsdirectory.org/docs/cli",
+    "npm": "https://www.npmjs.com/package/@skills/cli"
+  },
+  "commands": [
+    { "name": "install", "example": "skill install invoice-extractor", "description": "Install a skill from the registry" },
+    { "name": "search", "example": "skill search legal", "description": "Search for skills" },
+    { "name": "list", "example": "skill list", "description": "List installed skills" },
+    { "name": "info", "example": "skill info codex", "description": "Get skill details" },
+    { "name": "publish", "example": "skill publish", "description": "Publish your skill" }
+  ]
+}

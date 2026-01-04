@@ -1,5 +1,1741 @@
 [
   {
+    "id": "debug-cuda-crash",
+    "name": "debug-cuda-crash",
+    "summary": "Tutorial for debugging CUDA crashes using API logging",
+    "verticals": [
+      "Engineering",
+      "Data"
+    ],
+    "tags": [
+      "attention",
+      "cuda",
+      "distributed-inference",
+      "gpu",
+      "jit",
+      "large-large-models",
+      "llm-inference",
+      "moe"
+    ],
+    "author": {
+      "name": "flashinfer-ai",
+      "github": "flashinfer-ai"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/flashinfer-ai/flashinfer/tree/main/.claude/skills/debug-cuda-crash/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/.claude/skills/debug-cuda-crash/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install debug-cuda-crash"
+    },
+    "stats": {
+      "stars": 4421,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-04"
+  },
+  {
+    "id": "deploy",
+    "name": "Deploy",
+    "summary": "# Deployment Checklist Skill",
+    "verticals": [
+      "Engineering",
+      "Data"
+    ],
+    "tags": [
+      "deploy"
+    ],
+    "author": {
+      "name": "WellFitCommunity",
+      "github": "WellFitCommunity"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/WellFitCommunity/WellFit-Community-Daily-Complete/tree/main/.claude/skills/deploy/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/WellFitCommunity/WellFit-Community-Daily-Complete/main/.claude/skills/deploy/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install deploy"
+    },
+    "stats": {
+      "stars": 1,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-04"
+  },
+  {
+    "id": "example-skill",
+    "name": "Example Skill",
+    "summary": "A simple example skill that demonstrates the basic structure and functionality. Use when you need to show how skills work or test skill loading.",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "acp",
+      "agent",
+      "ai",
+      "litellm",
+      "llm",
+      "llm-agent",
+      "mcp",
+      "pydantic"
+    ],
+    "author": {
+      "name": "phil65",
+      "github": "phil65"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/phil65/agentpool/tree/main/.claude/skills/example-skill/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/phil65/agentpool/main/.claude/skills/example-skill/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install example-skill"
+    },
+    "stats": {
+      "stars": 41,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-04"
+  },
+  {
+    "id": "hosting",
+    "name": "Hosting",
+    "summary": "# Hosting Skill - GCP Cloud Run Deployment",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "blog",
+      "nuxt",
+      "typescript",
+      "hosting"
+    ],
+    "author": {
+      "name": "ChrisTowles",
+      "github": "ChrisTowles"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/ChrisTowles/blog/tree/main/.claude/skills/hosting/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/ChrisTowles/blog/main/.claude/skills/hosting/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install hosting"
+    },
+    "stats": {
+      "stars": 4,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-04"
+  },
+  {
+    "id": "machine-manage",
+    "name": "Machine Manage",
+    "summary": "# Machine Management Skill",
+    "verticals": [
+      "Design",
+      "Support"
+    ],
+    "tags": [
+      "machine",
+      "manage",
+      "ai"
+    ],
+    "author": {
+      "name": "hsudatalks",
+      "github": "hsudatalks"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/hsudatalks/univers-machine/tree/main/.claude/skills/machine-manage/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/hsudatalks/univers-machine/main/.claude/skills/machine-manage/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install machine-manage"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-04"
+  },
+  {
+    "id": "supabase-skill",
+    "name": "Supabase Skill",
+    "summary": "# Supabase Skill for Agritech Project",
+    "verticals": [
+      "Data",
+      "Operations"
+    ],
+    "tags": [
+      "supabase",
+      "skill",
+      "ai"
+    ],
+    "author": {
+      "name": "boutchaz",
+      "github": "boutchaz"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/boutchaz/agritech/tree/main/.claude/skills/supabase-skill/SKILL.MD",
+      "skill_md": "https://raw.githubusercontent.com/boutchaz/agritech/main/.claude/skills/supabase-skill/SKILL.MD/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install supabase-skill"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-04"
+  },
+  {
+    "id": "taxasge-backend-dev",
+    "name": "TaxasGE Backend Dev",
+    "summary": "Patterns backend FastAPI architecture 3-tiers, complète DEV_AGENT avec best practices backend",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "taxasge",
+      "backend",
+      "dev",
+      "ai",
+      "claude",
+      "api",
+      "workflow"
+    ],
+    "author": {
+      "name": "KouemouSah",
+      "github": "KouemouSah"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/KouemouSah/taxasge/tree/main/.claude/skills/taxasge-backend-dev/Skill.md",
+      "skill_md": "https://raw.githubusercontent.com/KouemouSah/taxasge/main/.claude/skills/taxasge-backend-dev/Skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install taxasge-backend-dev"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-04"
+  },
+  {
+    "id": "typescript-hook-writer",
+    "name": "typescript-hook-writer",
+    "summary": "Expert guidance for developing Claude Code hooks in TypeScript with shared utilities, esbuild compilation, and Vitest testing - distributes compiled JS while maintaining TypeScript",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "claude",
+      "claude-code",
+      "cursor",
+      "cursor-ai-edit",
+      "cursorrules",
+      "package-manager",
+      "prompts",
+      "typescript"
+    ],
+    "author": {
+      "name": "pr-pm",
+      "github": "pr-pm"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/pr-pm/prpm/tree/main/.claude/skills/typescript-hook-writer/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/pr-pm/prpm/main/.claude/skills/typescript-hook-writer/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install typescript-hook-writer"
+    },
+    "stats": {
+      "stars": 72,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-04"
+  },
+  {
+    "id": "narwhals",
+    "name": "narwhals",
+    "summary": "Effectively use Narwhals to write dataframe-agnostic code that works seamlessly across multiple Python dataframe libraries. Write correct type annotations for code using Narwhals.",
+    "verticals": [
+      "Engineering",
+      "Data"
+    ],
+    "tags": [
+      "narwhals",
+      "git",
+      "api"
+    ],
+    "author": {
+      "name": "anam-org",
+      "github": "anam-org"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anam-org/metaxy/tree/main/.claude/skills/narwhals/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/anam-org/metaxy/main/.claude/skills/narwhals/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install narwhals"
+    },
+    "stats": {
+      "stars": 18,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-03"
+  },
+  {
+    "id": "nextjs-16",
+    "name": "Nextjs 16",
+    "summary": "Nextjs 16 skill for Claude Code",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "nextjs",
+      "documentation"
+    ],
+    "author": {
+      "name": "putto11262002",
+      "github": "putto11262002"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/putto11262002/jimmodel/tree/main/.claude/skills/nextjs-16/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/putto11262002/jimmodel/main/.claude/skills/nextjs-16/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install nextjs-16"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-03"
+  },
+  {
+    "id": "pages",
+    "name": "Pages",
+    "summary": "alias:: [[Claude Code Skills]]\n",
+    "verticals": [
+      "Engineering"
+    ],
+    "tags": [
+      "ai",
+      "logseq",
+      "pkm",
+      "python",
+      "pages",
+      "claude"
+    ],
+    "author": {
+      "name": "codekiln",
+      "github": "codekiln"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/codekiln/logseq-encode-garden/tree/main/pages/Claude Code___Skill.md",
+      "skill_md": "https://raw.githubusercontent.com/codekiln/logseq-encode-garden/main/pages/Claude Code___Skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install pages"
+    },
+    "stats": {
+      "stars": 4,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-03"
+  },
+  {
+    "id": "slipstream",
+    "name": "slipstream",
+    "summary": "Expert assistance for Slipstream static site generation. Use when building static websites with Slipstream, a SwiftUI-like static site generator.",
+    "verticals": [
+      "Design",
+      "Engineering"
+    ],
+    "tags": [
+      "slipstream",
+      "ai"
+    ],
+    "author": {
+      "name": "ClutchEngineering",
+      "github": "ClutchEngineering"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/ClutchEngineering/sidecar.clutch.engineering/tree/main/.claude/skills/slipstream/Skill.md",
+      "skill_md": "https://raw.githubusercontent.com/ClutchEngineering/sidecar.clutch.engineering/main/.claude/skills/slipstream/Skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install slipstream"
+    },
+    "stats": {
+      "stars": 11,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-03"
+  },
+  {
+    "id": "ui-ux-pro-max",
+    "name": "ui-ux-pro-max",
+    "summary": "\"UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 8 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind). Actions: plan, bu",
+    "verticals": [
+      "Design",
+      "Engineering"
+    ],
+    "tags": [
+      "anti-detect",
+      "anti-detect-browser",
+      "anti-detection",
+      "browser",
+      "browser-management",
+      "chromium",
+      "firefox",
+      "management"
+    ],
+    "author": {
+      "name": "zhom",
+      "github": "zhom"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/zhom/donutbrowser/tree/main/.claude/skills/ui-ux-pro-max/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/zhom/donutbrowser/main/.claude/skills/ui-ux-pro-max/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install ui-ux-pro-max"
+    },
+    "stats": {
+      "stars": 804,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-03"
+  },
+  {
+    "id": "beyond-mcp-v2",
+    "name": "Beyond Mcp V2",
+    "summary": "# Skill Approach Analysis",
+    "verticals": [
+      "Engineering",
+      "Data"
+    ],
+    "tags": [
+      "beyond",
+      "mcp"
+    ],
+    "author": {
+      "name": "basher83",
+      "github": "basher83"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/basher83/lunar-claude/tree/main/docs/research/beyond-mcp-v2/04-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/basher83/lunar-claude/main/docs/research/beyond-mcp-v2/04-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install beyond-mcp-v2"
+    },
+    "stats": {
+      "stars": 10,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-02"
+  },
+  {
+    "id": "beyond-mcp",
+    "name": "Beyond Mcp",
+    "summary": "# Skill Approach Analysis",
+    "verticals": [
+      "Engineering",
+      "Data"
+    ],
+    "tags": [
+      "beyond",
+      "mcp",
+      "claude"
+    ],
+    "author": {
+      "name": "basher83",
+      "github": "basher83"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/basher83/lunar-claude/tree/main/docs/research/beyond-mcp/04-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/basher83/lunar-claude/main/docs/research/beyond-mcp/04-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install beyond-mcp"
+    },
+    "stats": {
+      "stars": 10,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-02"
+  },
+  {
+    "id": "safe-file-reader",
+    "name": "safe-file-reader",
+    "summary": "Read files without making changes. Use when you need read-only file access.",
+    "verticals": [
+      "Marketing"
+    ],
+    "tags": [
+      "deno",
+      "go",
+      "hacktoberfest",
+      "lume",
+      "nix",
+      "personal-website",
+      "self-driving-car",
+      "web"
+    ],
+    "author": {
+      "name": "Xe",
+      "github": "Xe"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/Xe/site/tree/main/.claude/skills/safe-file-reader/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/Xe/site/main/.claude/skills/safe-file-reader/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install safe-file-reader"
+    },
+    "stats": {
+      "stars": 708,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-02"
+  },
+  {
+    "id": "zed-config",
+    "name": "zed-config",
+    "summary": "Configure Zed editor settings, keybindings, language servers, themes, and AI agents. Use when modifying Zed configuration, adding keybindings, setting up language servers, or confi",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "zed",
+      "config",
+      "ai",
+      "claude"
+    ],
+    "author": {
+      "name": "wcygan",
+      "github": "wcygan"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/wcygan/dotfiles/tree/main/.claude/skills/zed-config/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/wcygan/dotfiles/main/.claude/skills/zed-config/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install zed-config"
+    },
+    "stats": {
+      "stars": 182,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-02"
+  },
+  {
+    "id": "topsail-ci",
+    "name": "topsail-ci",
+    "summary": "Suite of tools to fetch TOPSAIL CI logs and artifacts for test troubleshooting",
+    "verticals": [
+      "Design",
+      "Engineering"
+    ],
+    "tags": [
+      "topsail",
+      "ai"
+    ],
+    "author": {
+      "name": "openshift-psap",
+      "github": "openshift-psap"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/openshift-psap/topsail/tree/main/.claude/skills/topsail-ci/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/openshift-psap/topsail/main/.claude/skills/topsail-ci/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install topsail-ci"
+    },
+    "stats": {
+      "stars": 16,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2026-01-01"
+  },
+  {
+    "id": "c-code-formatter",
+    "name": "\"C++ Code Formatter\"",
+    "summary": "\"Format C++ code in Sanmill project to ensure consistent code style; use when formatting C++ code or checking code style compliance.\"",
+    "verticals": [
+      "Design",
+      "Engineering"
+    ],
+    "tags": [
+      "ai",
+      "alpha-beta-pruning",
+      "bitboard",
+      "board-game",
+      "brettspiel",
+      "ea15e84462",
+      "flutter",
+      "game"
+    ],
+    "author": {
+      "name": "calcitem",
+      "github": "calcitem"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/calcitem/Sanmill/tree/main/.claude/skills/cpp-formatter/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/calcitem/Sanmill/main/.claude/skills/cpp-formatter/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install c-code-formatter"
+    },
+    "stats": {
+      "stars": 187,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-30"
+  },
+  {
+    "id": "clickup-cli-reference",
+    "name": "clickup-cli-reference",
+    "summary": "Complete command reference for the ClickUp Framework CLI (cum) with all shortcuts, options, examples, and usage patterns",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "clickup",
+      "cli",
+      "reference",
+      "git",
+      "api"
+    ],
+    "author": {
+      "name": "SOELexicon",
+      "github": "SOELexicon"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/SOELexicon/clickup_framework/tree/main/.claude/skills/cli-reference/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/SOELexicon/clickup_framework/main/.claude/skills/cli-reference/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install clickup-cli-reference"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-30"
+  },
+  {
+    "id": "clickup-setup-guide",
+    "name": "clickup-setup-guide",
+    "summary": "Complete setup and installation guide for the ClickUp Framework CLI with troubleshooting",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "clickup",
+      "setup",
+      "guide",
+      "git",
+      "api"
+    ],
+    "author": {
+      "name": "SOELexicon",
+      "github": "SOELexicon"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/SOELexicon/clickup_framework/tree/main/.claude/skills/setup-guide/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/SOELexicon/clickup_framework/main/.claude/skills/setup-guide/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install clickup-setup-guide"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-30"
+  },
+  {
+    "id": "clickup-workflow",
+    "name": "clickup-workflow",
+    "summary": "Guide for ClickUp + Git workflow - when and where to use commands",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "clickup",
+      "workflow",
+      "git",
+      "api"
+    ],
+    "author": {
+      "name": "SOELexicon",
+      "github": "SOELexicon"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/SOELexicon/clickup_framework/tree/main/.claude/skills/workflow/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/SOELexicon/clickup_framework/main/.claude/skills/workflow/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install clickup-workflow"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-30"
+  },
+  {
+    "id": "cursor-internals",
+    "name": "Cursor Internals",
+    "summary": "# Cursor Internals Skill",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "cursor",
+      "internals",
+      "testing",
+      "api"
+    ],
+    "author": {
+      "name": "dav-ell",
+      "github": "dav-ell"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/dav-ell/blink/tree/main/.cursor/rules/skills/cursor-internals/SKILL.mdc",
+      "skill_md": "https://raw.githubusercontent.com/dav-ell/blink/main/.cursor/rules/skills/cursor-internals/SKILL.mdc/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install cursor-internals"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-30"
+  },
+  {
+    "id": "plans",
+    "name": "Plans",
+    "summary": "# Module Authoring Skill Implementation Plan",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "plans",
+      "claude"
+    ],
+    "author": {
+      "name": "pumped-fn",
+      "github": "pumped-fn"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/pumped-fn/pumped-fn/tree/main/plans/2025-10-27-module-authoring-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/pumped-fn/pumped-fn/main/plans/2025-10-27-module-authoring-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install plans"
+    },
+    "stats": {
+      "stars": 5,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-29"
+  },
+  {
+    "id": "brainstorming",
+    "name": "brainstorming",
+    "summary": "\"You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design bef",
+    "verticals": [
+      "Design",
+      "Operations"
+    ],
+    "tags": [
+      "brainstorming",
+      "ai"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/brainstorming",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/brainstorming/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install brainstorming"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "dispatching-parallel-agents",
+    "name": "dispatching-parallel-agents",
+    "summary": "facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+    "verticals": [
+      "Engineering"
+    ],
+    "tags": [
+      "dispatching",
+      "parallel",
+      "agents",
+      "ai"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/dispatching-parallel-agents/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install dispatching-parallel-agents"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "executing-plans",
+    "name": "executing-plans",
+    "summary": "you have a written implementation plan to execute in a separate session with review checkpoints",
+    "verticals": [
+      "Operations",
+      "Design"
+    ],
+    "tags": [
+      "executing",
+      "plans",
+      "ai"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/executing-plans",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/executing-plans/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install executing-plans"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "finishing-a-development-branch",
+    "name": "finishing-a-development-branch",
+    "summary": "implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR,",
+    "verticals": [
+      "Operations",
+      "Engineering"
+    ],
+    "tags": [
+      "finishing",
+      "development",
+      "branch",
+      "workflow"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/finishing-a-development-branch",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/finishing-a-development-branch/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install finishing-a-development-branch"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "receiving-code-review",
+    "name": "receiving-code-review",
+    "summary": "receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not p",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "receiving",
+      "code",
+      "review",
+      "ai"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/receiving-code-review",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/receiving-code-review/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install receiving-code-review"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "requesting-code-review",
+    "name": "requesting-code-review",
+    "summary": "completing tasks, implementing major features, or before merging to verify work meets requirements",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "requesting",
+      "code",
+      "review",
+      "ai",
+      "git"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/requesting-code-review",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/requesting-code-review/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install requesting-code-review"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "subagent-driven-development",
+    "name": "subagent-driven-development",
+    "summary": "executing implementation plans with independent tasks in the current session",
+    "verticals": [
+      "Engineering",
+      "Legal"
+    ],
+    "tags": [
+      "subagent",
+      "driven",
+      "development"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/subagent-driven-development",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/subagent-driven-development/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install subagent-driven-development"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "systematic-debugging",
+    "name": "systematic-debugging",
+    "summary": "encountering any bug, test failure, or unexpected behavior, before proposing fixes",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "systematic",
+      "debugging",
+      "ai"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/systematic-debugging",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/systematic-debugging/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install systematic-debugging"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "test-driven-development",
+    "name": "test-driven-development",
+    "summary": "implementing any feature or bugfix, before writing implementation code",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "test",
+      "driven",
+      "development",
+      "ai"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/test-driven-development",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/test-driven-development/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install test-driven-development"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "using-git-worktrees",
+    "name": "using-git-worktrees",
+    "summary": "starting feature work that needs isolation from current workspace or before executing implementation plans - creates isolated git worktrees with smart directory selection and safet",
+    "verticals": [
+      "Operations",
+      "Engineering"
+    ],
+    "tags": [
+      "using",
+      "git",
+      "worktrees"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/using-git-worktrees",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/using-git-worktrees/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install using-git-worktrees"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "using-superpowers",
+    "name": "using-superpowers",
+    "summary": "starting any conversation - establishes how to find and use skills, requiring Skill tool invocation before ANY response including clarifying questions",
+    "verticals": [
+      "Design",
+      "Engineering"
+    ],
+    "tags": [
+      "using",
+      "superpowers",
+      "claude"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/using-superpowers",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/using-superpowers/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install using-superpowers"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "verification-before-completion",
+    "name": "verification-before-completion",
+    "summary": "about to claim work is complete, fixed, or passing, before committing or creating PRs - requires running verification commands and confirming output before making any success claim",
+    "verticals": [
+      "Design"
+    ],
+    "tags": [
+      "verification",
+      "before",
+      "completion",
+      "ai"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/verification-before-completion",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/verification-before-completion/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install verification-before-completion"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "writing-plans",
+    "name": "writing-plans",
+    "summary": "you have a spec or requirements for a multi-step task, before touching code",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "writing",
+      "plans",
+      "ai",
+      "testing"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/writing-plans",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-plans/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install writing-plans"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "writing-skills",
+    "name": "writing-skills",
+    "summary": "creating new skills, editing existing skills, or verifying skills work before deployment",
+    "verticals": [
+      "Engineering",
+      "Operations"
+    ],
+    "tags": [
+      "writing",
+      "skills",
+      "ai",
+      "claude",
+      "documentation"
+    ],
+    "author": {
+      "name": "obra",
+      "github": "obra"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/obra/superpowers/tree/main/skills/writing-skills",
+      "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/writing-skills/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install writing-skills"
+    },
+    "stats": {
+      "stars": 13645,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-27"
+  },
+  {
+    "id": "database",
+    "name": "database",
+    "summary": "Database management commands and the bin/run utility for executing Ruby scripts against specific event databases. Use when the user needs to query, manipulate, or run scripts again",
+    "verticals": [
+      "Data",
+      "Engineering"
+    ],
+    "tags": [
+      "database",
+      "ai"
+    ],
+    "author": {
+      "name": "rubys",
+      "github": "rubys"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/rubys/showcase/tree/main/.claude/skills/database/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/rubys/showcase/main/.claude/skills/database/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install database"
+    },
+    "stats": {
+      "stars": 34,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-24"
+  },
+  {
+    "id": "navigator",
+    "name": "navigator",
+    "summary": "Working with the Navigator Go submodule for web server fixes and enhancements. Use when deployment plans require Navigator changes, config parsing issues arise, or new routing/prox",
+    "verticals": [
+      "Engineering",
+      "Operations"
+    ],
+    "tags": [
+      "navigator",
+      "git"
+    ],
+    "author": {
+      "name": "rubys",
+      "github": "rubys"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/rubys/showcase/tree/main/.claude/skills/navigator/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/rubys/showcase/main/.claude/skills/navigator/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install navigator"
+    },
+    "stats": {
+      "stars": 34,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-24"
+  },
+  {
+    "id": "render-page",
+    "name": "render-page",
+    "summary": "Use this skill to inspect what a Rails page currently displays, extract HTML content, or verify rendering WITHOUT starting a dev server. Useful for understanding page output before",
+    "verticals": [
+      "Data",
+      "Engineering"
+    ],
+    "tags": [
+      "render",
+      "page",
+      "ai",
+      "testing"
+    ],
+    "author": {
+      "name": "rubys",
+      "github": "rubys"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/rubys/showcase/tree/main/.claude/skills/render-page/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/rubys/showcase/main/.claude/skills/render-page/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install render-page"
+    },
+    "stats": {
+      "stars": 34,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-24"
+  },
+  {
+    "id": "template-skill",
+    "name": "\"Template Skill\"",
+    "summary": "\"Replace with description of the skill and when Claude should use it.\"",
+    "verticals": [
+      "Engineering"
+    ],
+    "tags": [
+      "template",
+      "skill",
+      "claude"
+    ],
+    "author": {
+      "name": "bernierllc",
+      "github": "bernierllc"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/bernierllc/agents-environment-config/tree/main/.cursor/commands/skills/template-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/bernierllc/agents-environment-config/main/.cursor/commands/skills/template-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install template-skill"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-23"
+  },
+  {
+    "id": "niri",
+    "name": "Niri",
+    "summary": "Always include when making changes to niri",
+    "verticals": [
+      "Engineering"
+    ],
+    "tags": [
+      "niri"
+    ],
+    "author": {
+      "name": "tobi",
+      "github": "tobi"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/tobi/dotnix/tree/main/.claude/skills/niri/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/tobi/dotnix/main/.claude/skills/niri/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install niri"
+    },
+    "stats": {
+      "stars": 40,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-22"
+  },
+  {
+    "id": "waybar",
+    "name": "Waybar",
+    "summary": "Always include when making changes to waybar",
+    "verticals": [
+      "Design"
+    ],
+    "tags": [
+      "waybar"
+    ],
+    "author": {
+      "name": "tobi",
+      "github": "tobi"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/tobi/dotnix/tree/main/.claude/skills/waybar/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/tobi/dotnix/main/.claude/skills/waybar/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install waybar"
+    },
+    "stats": {
+      "stars": 40,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-22"
+  },
+  {
+    "id": "api-endpoint-guardian",
+    "name": "api-endpoint-guardian",
+    "summary": "Prevents API endpoint failures through systematic design validation and error handling review. Use when adding new endpoints, debugging API errors, implementing authentication, or ",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "api",
+      "endpoint",
+      "guardian",
+      "ai",
+      "documentation"
+    ],
+    "author": {
+      "name": "mkelam",
+      "github": "mkelam"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/mkelam/PDFLab/tree/main/.claude/skills/api-endpoint-guardian.SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/mkelam/PDFLab/main/.claude/skills/api-endpoint-guardian.SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install api-endpoint-guardian"
+    },
+    "stats": {
+      "stars": 1,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-21"
+  },
+  {
+    "id": "typescript-build-guardian",
+    "name": "typescript-build-guardian",
+    "summary": "Offensive TypeScript build pipeline optimization and validation. Triggered when reviewing tsconfig.json, TypeScript compilation errors, build performance issues, strict mode migrat",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "typescript",
+      "build",
+      "guardian",
+      "ai"
+    ],
+    "author": {
+      "name": "mkelam",
+      "github": "mkelam"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/mkelam/PDFLab/tree/main/.claude/skills/typescript-build-guardian.SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/mkelam/PDFLab/main/.claude/skills/typescript-build-guardian.SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install typescript-build-guardian"
+    },
+    "stats": {
+      "stars": 1,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-21"
+  },
+  {
+    "id": "vienna-cooking",
+    "name": "vienna-cooking",
+    "summary": "Traditional Viennese cuisine expertise covering classic dishes, techniques, and cultural context. Use when user asks about Austrian cooking, Viennese recipes, coffee house culture,",
+    "verticals": [
+      "Design",
+      "Data"
+    ],
+    "tags": [
+      "vienna",
+      "cooking",
+      "claude"
+    ],
+    "author": {
+      "name": "sandraschi",
+      "github": "sandraschi"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/sandraschi/advanced-memory-mcp/tree/main/docs/Skills/vienna-cooking-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/sandraschi/advanced-memory-mcp/main/docs/Skills/vienna-cooking-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install vienna-cooking"
+    },
+    "stats": {
+      "stars": 3,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-21"
+  },
+  {
+    "id": "algorithmic-art",
+    "name": "algorithmic-art",
+    "summary": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic ",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "algorithmic",
+      "art"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/algorithmic-art/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install algorithmic-art"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "brand-guidelines",
+    "name": "brand-guidelines",
+    "summary": "Applies Anthropic's official brand colors and typography to any sort of artifact that may benefit from having Anthropic's look-and-feel. Use it when brand colors or style guideline",
+    "verticals": [
+      "Design",
+      "Marketing"
+    ],
+    "tags": [
+      "brand",
+      "guidelines",
+      "ai"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/brand-guidelines",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/brand-guidelines/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install brand-guidelines"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "canvas-design",
+    "name": "canvas-design",
+    "summary": "Create beautiful visual art in .png and .pdf documents using design philosophy. You should use this skill when the user asks to create a poster, piece of art, design, or other stat",
+    "verticals": [
+      "Design",
+      "Marketing"
+    ],
+    "tags": [
+      "canvas",
+      "design"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/canvas-design",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/canvas-design/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install canvas-design"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
     "id": "codex",
     "name": "Codex Integration",
     "summary": "Integrate OpenAI Codex CLI for automated code analysis, refactoring, and editing workflows with model selection and session management.",
@@ -20,52 +1756,585 @@
     "visibility": "public",
     "links": {
       "repo": "https://github.com/skills-directory/skill-codex",
-      "skill_md": "https://raw.githubusercontent.com/skills-directory/skill-codex/main/SKILL.md"
+      "skill_md": "https://raw.githubusercontent.com/skills-directory/skill-codex/main/SKILL.md",
+      "docs": "https://skills-directory.github.io/skill-codex"
     },
     "installation": {
-      "type": "git",
-      "command": "git clone --depth 1 https://github.com/skills-directory/skill-codex.git /tmp/skills-temp && mkdir -p ~/.claude/skills && cp -r /tmp/skills-temp/ ~/.claude/skills/codex && rm -rf /tmp/skills-temp",
+      "type": "cli",
+      "command": "npx @skills/cli add codex",
       "prerequisites": [
         "Codex CLI installed and available on PATH",
         "Valid Codex credentials configured"
       ]
     },
     "stats": {
-      "stars": 42,
-      "installs": 128
+      "stars": 396,
+      "installs": 1284,
+      "downloads": 0,
+      "thumbsUp": 0
     },
-    "last_updated": "2025-11-05"
+    "last_updated": "2025-12-20"
   },
   {
-    "id": "cs-ticket-triage",
-    "name": "CS Ticket Triage",
-    "summary": "Classify and route support tickets to the right queues with reasons.",
+    "id": "doc-coauthoring",
+    "name": "doc-coauthoring",
+    "summary": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structur",
     "verticals": [
-      "Support",
-      "Operations"
+      "Design",
+      "Engineering"
     ],
     "tags": [
-      "classification",
-      "routing",
-      "support"
+      "doc",
+      "coauthoring",
+      "testing",
+      "workflow",
+      "documentation"
     ],
     "author": {
-      "name": "Acme Corp",
-      "github": "acme"
+      "name": "anthropics",
+      "github": "anthropics"
     },
     "visibility": "public",
     "links": {
-      "repo": "https://github.com/acme/cs-ticket-triage-skill",
-      "demo": "https://youtu.be/dQw4w9WgXcQ"
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/doc-coauthoring/SKILL.md"
     },
     "installation": {
-      "type": "git"
+      "type": "cli",
+      "command": "npx skills-cli install doc-coauthoring"
     },
     "stats": {
-      "stars": 19,
-      "installs": 103
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
     },
-    "last_updated": "2025-09-10"
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "docx",
+    "name": "docx",
+    "summary": "\"Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. When Claude needs to work with pro",
+    "verticals": [
+      "Marketing",
+      "Support"
+    ],
+    "tags": [
+      "docx",
+      "ai",
+      "claude",
+      "workflow"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/docx",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/docx/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install docx"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "frontend-design",
+    "name": "frontend-design",
+    "summary": "Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applicat",
+    "verticals": [
+      "Design",
+      "Engineering"
+    ],
+    "tags": [
+      "frontend",
+      "design",
+      "ai"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/frontend-design",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/frontend-design/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install frontend-design"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "internal-comms",
+    "name": "internal-comms",
+    "summary": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some ",
+    "verticals": [
+      "Operations",
+      "Design"
+    ],
+    "tags": [
+      "internal",
+      "comms",
+      "claude"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/internal-comms",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/internal-comms/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install internal-comms"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "mcp-builder",
+    "name": "mcp-builder",
+    "summary": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers ",
+    "verticals": [
+      "Engineering",
+      "Operations"
+    ],
+    "tags": [
+      "mcp",
+      "builder",
+      "ai",
+      "llm",
+      "api",
+      "workflow"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/mcp-builder/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install mcp-builder"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "pdf",
+    "name": "pdf",
+    "summary": "Comprehensive PDF manipulation toolkit for extracting text and tables, creating new PDFs, merging/splitting documents, and handling forms. When Claude needs to fill in a PDF form o",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "pdf",
+      "ai",
+      "claude"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/pdf",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/pdf/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install pdf"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "pptx",
+    "name": "pptx",
+    "summary": "\"Presentation creation, editing, and analysis. When Claude needs to work with presentations (.pptx files) for: (1) Creating new presentations, (2) Modifying or editing content, (3)",
+    "verticals": [
+      "Marketing",
+      "Operations"
+    ],
+    "tags": [
+      "pptx",
+      "ai",
+      "claude",
+      "workflow"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/pptx",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/pptx/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install pptx"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "skill-creator",
+    "name": "skill-creator",
+    "summary": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specializ",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "skill",
+      "creator",
+      "ai",
+      "claude",
+      "workflow"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/skill-creator",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/skill-creator/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install skill-creator"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "slack-gif-creator",
+    "name": "slack-gif-creator",
+    "summary": "Knowledge and utilities for creating animated GIFs optimized for Slack. Provides constraints, validation tools, and animation concepts. Use when users request animated GIFs for Sla",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "slack",
+      "gif",
+      "creator",
+      "ai",
+      "workflow"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/slack-gif-creator",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/slack-gif-creator/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install slack-gif-creator"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "theme-factory",
+    "name": "theme-factory",
+    "summary": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can app",
+    "verticals": [
+      "Design",
+      "Engineering"
+    ],
+    "tags": [
+      "theme",
+      "factory",
+      "ai"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/theme-factory/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install theme-factory"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "web-artifacts-builder",
+    "name": "web-artifacts-builder",
+    "summary": "Suite of tools for creating elaborate, multi-component claude.ai HTML artifacts using modern frontend web technologies (React, Tailwind CSS, shadcn/ui). Use for complex artifacts r",
+    "verticals": [
+      "Design",
+      "Engineering"
+    ],
+    "tags": [
+      "web",
+      "artifacts",
+      "builder",
+      "ai",
+      "claude"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/web-artifacts-builder",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/web-artifacts-builder/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install web-artifacts-builder"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "webapp-testing",
+    "name": "webapp-testing",
+    "summary": "Toolkit for interacting with and testing local web applications using Playwright. Supports verifying frontend functionality, debugging UI behavior, capturing browser screenshots, a",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "webapp",
+      "testing",
+      "ai"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/webapp-testing",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/webapp-testing/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install webapp-testing"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "xlsx",
+    "name": "xlsx",
+    "summary": "\"Comprehensive spreadsheet creation, editing, and analysis with support for formulas, formatting, data analysis, and visualization. When Claude needs to work with spreadsheets (.xl",
+    "verticals": [
+      "Data",
+      "Design"
+    ],
+    "tags": [
+      "xlsx",
+      "claude"
+    ],
+    "author": {
+      "name": "anthropics",
+      "github": "anthropics"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/anthropics/skills/tree/main/skills/xlsx",
+      "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/xlsx/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install xlsx"
+    },
+    "stats": {
+      "stars": 32783,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-20"
+  },
+  {
+    "id": "legal-research-assistant",
+    "name": "Legal Research Assistant",
+    "summary": "Search precedents and assemble citations for motions and briefs.",
+    "verticals": [
+      "Legal"
+    ],
+    "tags": [
+      "case-law",
+      "citations",
+      "research",
+      "briefs",
+      "litigation"
+    ],
+    "author": {
+      "name": "Acme Legal Tech",
+      "github": "acme-legal"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/acme-legal/legal-research-skill",
+      "skill_md": "https://raw.githubusercontent.com/acme-legal/legal-research-skill/main/SKILL.md",
+      "docs": "https://acme-legal.dev/docs/legal-research"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx @skills/cli add legal-research-assistant"
+    },
+    "stats": {
+      "stars": 156,
+      "installs": 2847,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-18"
+  },
+  {
+    "id": "notion-tasks",
+    "name": "notion-tasks",
+    "summary": "Query and manage Oak AI squad tasks and sprints in Notion. Use when checking current sprint, finding tasks by status, updating task information, or understanding team priorities an",
+    "verticals": [
+      "Data",
+      "Engineering"
+    ],
+    "tags": [
+      "ai",
+      "education",
+      "mit-license",
+      "notion",
+      "tasks",
+      "git"
+    ],
+    "author": {
+      "name": "oaknational",
+      "github": "oaknational"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/oaknational/oak-ai-lesson-assistant/tree/main/.claude/skills/notion-tasks/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/oaknational/oak-ai-lesson-assistant/main/.claude/skills/notion-tasks/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install notion-tasks"
+    },
+    "stats": {
+      "stars": 29,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-18"
+  },
+  {
+    "id": "code-quality-fix",
+    "name": "Code Quality Fix",
+    "summary": "Code Quality Fix skill for Claude Code",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "code",
+      "quality",
+      "fix"
+    ],
+    "author": {
+      "name": "DarkMonkDev",
+      "github": "DarkMonkDev"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/DarkMonkDev/WitchCityRope/tree/main/.claude/skills/code-quality-fix/SKILL.md",
+      "skill_md": "https://raw.githubusercontent.com/DarkMonkDev/WitchCityRope/main/.claude/skills/code-quality-fix/SKILL.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install code-quality-fix"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-15"
   },
   {
     "id": "invoice-extractor",
@@ -79,54 +2348,1055 @@
       "pdf",
       "ocr",
       "csv",
-      "receivables"
+      "receivables",
+      "accounting"
     ],
     "author": {
-      "name": "Acme Corp",
-      "github": "acme"
+      "name": "FinanceAI",
+      "github": "finance-ai"
     },
     "visibility": "public",
     "links": {
-      "repo": "https://github.com/acme/invoice-extractor-skill",
-      "skill_md": "https://raw.githubusercontent.com/acme/invoice-extractor-skill/main/SKILL.md"
+      "repo": "https://github.com/finance-ai/invoice-extractor-skill",
+      "skill_md": "https://raw.githubusercontent.com/finance-ai/invoice-extractor-skill/main/SKILL.md"
     },
     "installation": {
-      "type": "git"
+      "type": "cli",
+      "command": "npx @skills/cli add invoice-extractor"
     },
     "stats": {
-      "stars": 15,
-      "installs": 87
+      "stars": 89,
+      "installs": 987,
+      "downloads": 0,
+      "thumbsUp": 0
     },
-    "last_updated": "2025-10-01"
+    "last_updated": "2025-12-15"
   },
   {
-    "id": "legal-research-assistant",
-    "name": "Legal Research Assistant",
-    "summary": "Search precedents and assemble citations for motions and briefs.",
+    "id": "safe-refactoring",
+    "name": "safe-refactoring",
+    "summary": "Change code structure without changing behavior, with zero tolerance for behavioral changes",
     "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "safe",
+      "refactoring"
+    ],
+    "author": {
+      "name": "LorenFrankLab",
+      "github": "LorenFrankLab"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/LorenFrankLab/non_local_detector/tree/main/.claude/skills/safe-refactoring/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/LorenFrankLab/non_local_detector/main/.claude/skills/safe-refactoring/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install safe-refactoring"
+    },
+    "stats": {
+      "stars": 1,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-15"
+  },
+  {
+    "id": "cs-ticket-triage",
+    "name": "CS Ticket Triage",
+    "summary": "Classify and route support tickets to the right queues with reasons.",
+    "verticals": [
+      "Support",
+      "Operations"
+    ],
+    "tags": [
+      "classification",
+      "routing",
+      "support",
+      "customer-service"
+    ],
+    "author": {
+      "name": "SupportOps",
+      "github": "supportops"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/supportops/cs-ticket-triage-skill",
+      "demo": "https://supportops.dev/demo"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx @skills/cli add cs-ticket-triage",
+      "prerequisites": [
+        "API key for your helpdesk platform"
+      ]
+    },
+    "stats": {
+      "stars": 34,
+      "installs": 456,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-10"
+  },
+  {
+    "id": "posts",
+    "name": "Posts",
+    "summary": "在 Claude 的生态系统中,**Skill** 和 **MCP (Model Context Protocol)** 是两种为 AI Agent 提供额外能力的机制。<cite/>虽然它们都旨在扩展 Agent 的功能,但它们在设计理念、实现方式和适用场景上有着本质的区别。<cite/>",
+    "verticals": [
+      "Engineering"
+    ],
+    "tags": [
+      "posts",
+      "ai",
+      "claude"
+    ],
+    "author": {
+      "name": "Dustyposa",
+      "github": "Dustyposa"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/Dustyposa/dustyposa.github.io/tree/main/src/data/blog/_posts/2025-10-claude-code-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/Dustyposa/dustyposa.github.io/main/src/data/blog/_posts/2025-10-claude-code-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install posts"
+    },
+    "stats": {
+      "stars": 4,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-10"
+  },
+  {
+    "id": "claude-agent-ts-sdk",
+    "name": "claude-agent-ts-sdk",
+    "summary": "Build Claude agents using TypeScript with the @anthropic-ai/claude-agent-sdk. Use this skill when implementing conversational agents, building tools for agents, setting up streamin",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "claude",
+      "agent",
+      "sdk",
+      "ai"
+    ],
+    "author": {
+      "name": "szweibel",
+      "github": "szweibel"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/szweibel/claude-skills/tree/main/claude-agent-ts-sdk/SKILL.md.backup",
+      "skill_md": "https://raw.githubusercontent.com/szweibel/claude-skills/main/claude-agent-ts-sdk/SKILL.md.backup/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install claude-agent-ts-sdk"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-12-09"
+  },
+  {
+    "id": "spec",
+    "name": "Spec",
+    "summary": "Spec skill for Claude Code",
+    "verticals": [
+      "Engineering",
+      "HR"
+    ],
+    "tags": [
+      "spec",
+      "ai",
+      "claude",
+      "git"
+    ],
+    "author": {
+      "name": "unit-mesh",
+      "github": "unit-mesh"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/unit-mesh/autodev-docs/tree/main/docs/spec/claude-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/unit-mesh/autodev-docs/main/docs/spec/claude-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install spec"
+    },
+    "stats": {
+      "stars": 4,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-28"
+  },
+  {
+    "id": "qa-auditor",
+    "name": "Qa Auditor",
+    "summary": "# QA Auditor Automation Skill",
+    "verticals": [
+      "Engineering",
       "Legal"
     ],
     "tags": [
-      "case-law",
-      "citations",
-      "research"
+      "bloc",
+      "claude-code",
+      "clean-architecture",
+      "compliance",
+      "flutter",
+      "gdpr",
+      "gemini",
+      "hipaa"
     ],
     "author": {
-      "name": "Acme Corp",
-      "github": "acme"
+      "name": "Kandil7",
+      "github": "Kandil7"
     },
     "visibility": "public",
     "links": {
-      "repo": "https://github.com/acme/legal-research-skill",
-      "docs": "https://acme.dev/docs/legal-research"
+      "repo": "https://github.com/Kandil7/prprompts-flutter-generator/tree/main/.claude/skills/automation/qa-auditor/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/Kandil7/prprompts-flutter-generator/main/.claude/skills/automation/qa-auditor/skill.md/SKILL.md"
     },
     "installation": {
-      "type": "git"
+      "type": "cli",
+      "command": "npx skills-cli install qa-auditor"
     },
     "stats": {
-      "stars": 28,
-      "installs": 156
+      "stars": 3,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
     },
-    "last_updated": "2025-08-15"
+    "last_updated": "2025-11-27"
+  },
+  {
+    "id": "interactive-template-generator",
+    "name": "interactive-template-generator",
+    "summary": "Interactively guide users through selecting and customizing Claude Code templates when they ask to \"generate a template\" or \"create a new skill/command/agent\"",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "interactive",
+      "template",
+      "generator",
+      "claude"
+    ],
+    "author": {
+      "name": "Dexploarer",
+      "github": "Dexploarer"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/Dexploarer/claudius-skills/tree/main/templates/tools/interactive-template-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/Dexploarer/claudius-skills/main/templates/tools/interactive-template-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install interactive-template-generator"
+    },
+    "stats": {
+      "stars": 3,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-23"
+  },
+  {
+    "id": "tutorials",
+    "name": "Tutorials",
+    "summary": "# Tutorial: Creating Your First Skill",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "tutorials",
+      "claude"
+    ],
+    "author": {
+      "name": "Dexploarer",
+      "github": "Dexploarer"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/Dexploarer/claudius-skills/tree/main/examples/beginner/tutorials/your-first-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/Dexploarer/claudius-skills/main/examples/beginner/tutorials/your-first-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install tutorials"
+    },
+    "stats": {
+      "stars": 3,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-23"
+  },
+  {
+    "id": "quantconnect",
+    "name": "QuantConnect",
+    "summary": "QuantConnect strategy development with component library (project)",
+    "verticals": [
+      "Engineering",
+      "Operations"
+    ],
+    "tags": [
+      "quantconnect"
+    ],
+    "author": {
+      "name": "derekcrosslu",
+      "github": "derekcrosslu"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/derekcrosslu/CLAUDE_CODE_EXPLORE/tree/main/.claude/skills/quantconnect/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/derekcrosslu/CLAUDE_CODE_EXPLORE/main/.claude/skills/quantconnect/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install quantconnect"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-18"
+  },
+  {
+    "id": "create-config",
+    "name": "create-config",
+    "summary": "Create and manage configuration files for sports poetry generation with complete parameter collection",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "create",
+      "config",
+      "api",
+      "workflow"
+    ],
+    "author": {
+      "name": "msalganik",
+      "github": "msalganik"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/msalganik/sports-poetry-demo/tree/main/.claude/skills/create_config/SKILL.md.old",
+      "skill_md": "https://raw.githubusercontent.com/msalganik/sports-poetry-demo/main/.claude/skills/create_config/SKILL.md.old/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install create-config"
+    },
+    "stats": {
+      "stars": 2,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-16"
+  },
+  {
+    "id": "cs2-analyzer",
+    "name": "Cs2 Analyzer",
+    "summary": "Analyze CS2 demo files and generate comprehensive tactical reports",
+    "verticals": [
+      "Design",
+      "Data"
+    ],
+    "tags": [
+      "cs2",
+      "analyzer"
+    ],
+    "author": {
+      "name": "mwridgway",
+      "github": "mwridgway"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/mwridgway/akkr-gemini/tree/main/.claude/skills/cs2-analyzer/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/mwridgway/akkr-gemini/main/.claude/skills/cs2-analyzer/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install cs2-analyzer"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-14"
+  },
+  {
+    "id": "tools",
+    "name": "Tools",
+    "summary": "description: Create reusable command or Skill scaffolds tailored to your project's recurring tasks",
+    "verticals": [
+      "Operations"
+    ],
+    "tags": [
+      "tools",
+      "ai",
+      "claude"
+    ],
+    "author": {
+      "name": "flight505",
+      "github": "flight505"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/flight505/ClaudeCommands/tree/main/tools/newskill.md",
+      "skill_md": "https://raw.githubusercontent.com/flight505/ClaudeCommands/main/tools/newskill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install tools"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-12"
+  },
+  {
+    "id": "brainstorm",
+    "name": "Brainstorm",
+    "summary": "# Brainstorm Skill\r\n\r\n## Purpose\r\nRefines rough ideas and requirements into fully-formed designs through collaborative questioning, alternative exploration, and incremental validat",
+    "verticals": [
+      "Design",
+      "Operations"
+    ],
+    "tags": [
+      "brainstorm",
+      "ai"
+    ],
+    "author": {
+      "name": "Brownbull",
+      "github": "Brownbull"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/Brownbull/taskflow/tree/main/.claude/skills/core/brainstorm/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/Brownbull/taskflow/main/.claude/skills/core/brainstorm/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install brainstorm"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-10"
+  },
+  {
+    "id": "cleanup",
+    "name": "cleanup",
+    "summary": "Project organization expert - analyzes project state, detects redundancy, consolidates files, removes obsolete content, maintains structure integrity",
+    "verticals": [
+      "Engineering",
+      "Marketing"
+    ],
+    "tags": [
+      "cleanup",
+      "ai"
+    ],
+    "author": {
+      "name": "Brownbull",
+      "github": "Brownbull"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/Brownbull/taskflow/tree/main/.claude/skills/utility/cleanup/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/Brownbull/taskflow/main/.claude/skills/utility/cleanup/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install cleanup"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-10"
+  },
+  {
+    "id": "write-plan",
+    "name": "Write Plan",
+    "summary": "# Write-Plan Skill V3 - Pragmatic Planning\r\n\r\n## Purpose\r\nCreates adaptive implementation plans with phase-appropriate testing requirements",
+    "verticals": [
+      "Operations",
+      "Engineering"
+    ],
+    "tags": [
+      "write",
+      "plan",
+      "testing"
+    ],
+    "author": {
+      "name": "Brownbull",
+      "github": "Brownbull"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/Brownbull/taskflow/tree/main/.claude/skills/core/write-plan/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/Brownbull/taskflow/main/.claude/skills/core/write-plan/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install write-plan"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-10"
+  },
+  {
+    "id": "analyze-schema",
+    "name": "Analyze Schema",
+    "summary": "# Analyze Schema Skill",
+    "verticals": [
+      "Data",
+      "Operations"
+    ],
+    "tags": [
+      "analyze",
+      "schema",
+      "ai",
+      "workflow"
+    ],
+    "author": {
+      "name": "pauljbernard",
+      "github": "pauljbernard"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/pauljbernard/datamig/tree/main/.claude/skills/analyze-schema/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/pauljbernard/datamig/main/.claude/skills/analyze-schema/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install analyze-schema"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-06"
+  },
+  {
+    "id": "anonymize-pii",
+    "name": "Anonymize Pii",
+    "summary": "# Anonymize PII Skill",
+    "verticals": [
+      "Data"
+    ],
+    "tags": [
+      "anonymize",
+      "pii"
+    ],
+    "author": {
+      "name": "pauljbernard",
+      "github": "pauljbernard"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/pauljbernard/datamig/tree/main/.claude/skills/anonymize-pii/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/pauljbernard/datamig/main/.claude/skills/anonymize-pii/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install anonymize-pii"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-06"
+  },
+  {
+    "id": "generate-report",
+    "name": "Generate Report",
+    "summary": "# Generate Report Skill",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "generate",
+      "report"
+    ],
+    "author": {
+      "name": "pauljbernard",
+      "github": "pauljbernard"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/pauljbernard/datamig/tree/main/.claude/skills/generate-report/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/pauljbernard/datamig/main/.claude/skills/generate-report/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install generate-report"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-06"
+  },
+  {
+    "id": "load-to-cert",
+    "name": "Load To Cert",
+    "summary": "Load To Cert skill for Claude Code",
+    "verticals": [
+      "Data"
+    ],
+    "tags": [
+      "load",
+      "cert",
+      "ai"
+    ],
+    "author": {
+      "name": "pauljbernard",
+      "github": "pauljbernard"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/pauljbernard/datamig/tree/main/.claude/skills/load-to-cert/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/pauljbernard/datamig/main/.claude/skills/load-to-cert/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install load-to-cert"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-06"
+  },
+  {
+    "id": "select-districts",
+    "name": "Select Districts",
+    "summary": "# Select Districts Skill",
+    "verticals": [
+      "Data",
+      "Operations"
+    ],
+    "tags": [
+      "select",
+      "districts",
+      "workflow"
+    ],
+    "author": {
+      "name": "pauljbernard",
+      "github": "pauljbernard"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/pauljbernard/datamig/tree/main/.claude/skills/select-districts/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/pauljbernard/datamig/main/.claude/skills/select-districts/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install select-districts"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-06"
+  },
+  {
+    "id": "website-builder",
+    "name": "website-builder",
+    "summary": "Complete SEO-optimized website creation workflow orchestrator. Coordinates SEO analysis (keywords, competitors), sitemap planning, shadcn component selection, theme application, an",
+    "verticals": [
+      "Design",
+      "Marketing"
+    ],
+    "tags": [
+      "website",
+      "builder",
+      "workflow"
+    ],
+    "author": {
+      "name": "Manuelvillarvieites",
+      "github": "Manuelvillarvieites"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/Manuelvillarvieites/local-studios-website/tree/main/.claude/skills/website-builder/Skill.md",
+      "skill_md": "https://raw.githubusercontent.com/Manuelvillarvieites/local-studios-website/main/.claude/skills/website-builder/Skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install website-builder"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-06"
+  },
+  {
+    "id": "claude",
+    "name": "Claude",
+    "summary": "# OMNISIGHT Development Skill",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "claude",
+      "workflow"
+    ],
+    "author": {
+      "name": "oneshot2001",
+      "github": "oneshot2001"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/oneshot2001/OmniSight-dev/tree/main/.claude/omnisight-skill.md",
+      "skill_md": "https://raw.githubusercontent.com/oneshot2001/OmniSight-dev/main/.claude/omnisight-skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install claude"
+    },
+    "stats": {
+      "stars": 1,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-05"
+  },
+  {
+    "id": "your-skill-name",
+    "name": "Your Skill Name",
+    "summary": "Clear description of what this Skill does and when to use it (200 chars max)",
+    "verticals": [
+      "Support",
+      "Operations"
+    ],
+    "tags": [
+      "your",
+      "skill",
+      "name",
+      "ai",
+      "claude",
+      "workflow"
+    ],
+    "author": {
+      "name": "tryinhard1080",
+      "github": "tryinhard1080"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/tryinhard1080/ClaudeClodeCommander/tree/main/skills/Skill.md.template",
+      "skill_md": "https://raw.githubusercontent.com/tryinhard1080/ClaudeClodeCommander/main/skills/Skill.md.template/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install your-skill-name"
+    },
+    "stats": {
+      "stars": 1,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-11-05"
+  },
+  {
+    "id": "sync-gruvbox-theme",
+    "name": "sync-gruvbox-theme",
+    "summary": "Verify and sync gruvbox theme consistency across vim, neovim, tmux, and terminal",
+    "verticals": [
+      "Design",
+      "Support"
+    ],
+    "tags": [
+      "sync",
+      "gruvbox",
+      "theme"
+    ],
+    "author": {
+      "name": "bfowle",
+      "github": "bfowle"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/bfowle/dotfiles/tree/main/.claude/skills/sync-gruvbox-theme/Skill.md",
+      "skill_md": "https://raw.githubusercontent.com/bfowle/dotfiles/main/.claude/skills/sync-gruvbox-theme/Skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install sync-gruvbox-theme"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-10-31"
+  },
+  {
+    "id": "buslog",
+    "name": "Buslog",
+    "summary": "# BusLog Skill - Business Logic Documentation",
+    "verticals": [
+      "Engineering",
+      "Operations"
+    ],
+    "tags": [
+      "buslog",
+      "api",
+      "workflow",
+      "documentation"
+    ],
+    "author": {
+      "name": "PoulpYBifle",
+      "github": "PoulpYBifle"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/PoulpYBifle/BusLog/tree/main/.claude/skills/buslog/SKILL.MD",
+      "skill_md": "https://raw.githubusercontent.com/PoulpYBifle/BusLog/main/.claude/skills/buslog/SKILL.MD/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install buslog"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-10-30"
+  },
+  {
+    "id": "daily-pulse",
+    "name": "daily-pulse",
+    "summary": "Generates a personalized daily briefing by analyzing Google Calendar events and unread Gmail messages through Pica MCP Server. Use this when users request their daily overview, mor",
+    "verticals": [
+      "Engineering",
+      "Design"
+    ],
+    "tags": [
+      "agentic-ai",
+      "examples",
+      "pica",
+      "daily",
+      "pulse",
+      "ai"
+    ],
+    "author": {
+      "name": "picahq",
+      "github": "picahq"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/picahq/awesome-pica/tree/main/claude-skills/daily-pulse/Skill.md",
+      "skill_md": "https://raw.githubusercontent.com/picahq/awesome-pica/main/claude-skills/daily-pulse/Skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install daily-pulse"
+    },
+    "stats": {
+      "stars": 26,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-10-28"
+  },
+  {
+    "id": "hatena-blog-markdown-extractor",
+    "name": "\"hatena-blog-markdown-extractor\"",
+    "summary": "\"Extract content from Hatena Blog article URLs and convert to Markdown format with frontmatter. Preserves images as absolute URLs and removes sidebars, headers, footers, and ads.\"",
+    "verticals": [
+      "Design",
+      "Marketing"
+    ],
+    "tags": [
+      "hatena",
+      "blog",
+      "markdown",
+      "extractor"
+    ],
+    "author": {
+      "name": "shoji-sws",
+      "github": "shoji-sws"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/shoji-sws/hatena-md-skill/tree/main/.claude/skills/hatena-md/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/shoji-sws/hatena-md-skill/main/.claude/skills/hatena-md/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install hatena-blog-markdown-extractor"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-10-27"
+  },
+  {
+    "id": "templates",
+    "name": "Templates",
+    "summary": "# SERVICE Delegation Skill",
+    "verticals": [
+      "Engineering"
+    ],
+    "tags": [
+      "templates",
+      "ai",
+      "claude",
+      "api",
+      "documentation"
+    ],
+    "author": {
+      "name": "ryancnelson",
+      "github": "ryancnelson"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/ryancnelson/deli-gator/tree/main/templates/SKILL.md.template",
+      "skill_md": "https://raw.githubusercontent.com/ryancnelson/deli-gator/main/templates/SKILL.md.template/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install templates"
+    },
+    "stats": {
+      "stars": 32,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-10-23"
+  },
+  {
+    "id": "content-discovery",
+    "name": "content-discovery",
+    "summary": "|",
+    "verticals": [
+      "Engineering",
+      "Marketing"
+    ],
+    "tags": [
+      "content",
+      "discovery"
+    ],
+    "author": {
+      "name": "longkeyy",
+      "github": "longkeyy"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/longkeyy/claude-discover/tree/main/.claude/skills/content-discovery/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/longkeyy/claude-discover/main/.claude/skills/content-discovery/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install content-discovery"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-10-22"
+  },
+  {
+    "id": "wechat-ops",
+    "name": "Wechat Ops",
+    "summary": "Wechat Ops skill for Claude Code",
+    "verticals": [
+      "Engineering",
+      "Support"
+    ],
+    "tags": [
+      "wechat",
+      "ops"
+    ],
+    "author": {
+      "name": "garychai",
+      "github": "garychai"
+    },
+    "visibility": "public",
+    "links": {
+      "repo": "https://github.com/garychai/wechat-operation/tree/main/.claude/skills/wechat-ops/skill.md",
+      "skill_md": "https://raw.githubusercontent.com/garychai/wechat-operation/main/.claude/skills/wechat-ops/skill.md/SKILL.md"
+    },
+    "installation": {
+      "type": "cli",
+      "command": "npx skills-cli install wechat-ops"
+    },
+    "stats": {
+      "stars": 0,
+      "installs": 0,
+      "downloads": 0,
+      "thumbsUp": 0
+    },
+    "last_updated": "2025-10-21"
   }
 ]

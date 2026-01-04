@@ -1,0 +1,36 @@
+{
+  "id": "niri",
+  "name": "Niri",
+  "version": "1.0.0",
+  "summary": "Always include when making changes to niri",
+  "verticals": [
+    "Engineering"
+  ],
+  "tags": [
+    "niri"
+  ],
+  "author": {
+    "name": "tobi",
+    "github": "tobi",
+    "avatar": "https://avatars.githubusercontent.com/u/347?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tobi/dotnix/tree/main/.claude/skills/niri/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/tobi/dotnix/main/.claude/skills/niri/SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install niri"
+  },
+  "stats": {
+    "stars": 40,
+    "forks": 2,
+    "installs": 0
+  },
+  "last_updated": "2025-12-22",
+  "created_at": "2025-06-08"
+}

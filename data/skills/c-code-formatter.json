@@ -1,0 +1,44 @@
+{
+  "id": "c-code-formatter",
+  "name": "\"C++ Code Formatter\"",
+  "version": "1.0.0",
+  "summary": "\"Format C++ code in Sanmill project to ensure consistent code style; use when formatting C++ code or checking code style compliance.\"",
+  "verticals": [
+    "Design",
+    "Engineering"
+  ],
+  "tags": [
+    "ai",
+    "alpha-beta-pruning",
+    "bitboard",
+    "board-game",
+    "brettspiel",
+    "ea15e84462",
+    "flutter",
+    "game"
+  ],
+  "author": {
+    "name": "calcitem",
+    "github": "calcitem",
+    "avatar": "https://avatars.githubusercontent.com/u/51521682?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "GPL-3.0",
+  "links": {
+    "repo": "https://github.com/calcitem/Sanmill/tree/main/.claude/skills/cpp-formatter/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/calcitem/Sanmill/main/.claude/skills/cpp-formatter/SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install c-code-formatter"
+  },
+  "stats": {
+    "stars": 187,
+    "forks": 27,
+    "installs": 0
+  },
+  "last_updated": "2025-12-30",
+  "created_at": "2019-06-18"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "hatena-blog-markdown-extractor",
+  "name": "\"hatena-blog-markdown-extractor\"",
+  "version": "1.0.0",
+  "summary": "\"Extract content from Hatena Blog article URLs and convert to Markdown format with frontmatter. Preserves images as absolute URLs and removes sidebars, headers, footers, and ads.\"",
+  "verticals": [
+    "Design",
+    "Marketing"
+  ],
+  "tags": [
+    "hatena",
+    "blog",
+    "markdown",
+    "extractor"
+  ],
+  "author": {
+    "name": "shoji-sws",
+    "github": "shoji-sws",
+    "avatar": "https://avatars.githubusercontent.com/u/32668181?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shoji-sws/hatena-md-skill/tree/main/.claude/skills/hatena-md/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/shoji-sws/hatena-md-skill/main/.claude/skills/hatena-md/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install hatena-blog-markdown-extractor"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27",
+  "created_at": "2025-10-27"
+}

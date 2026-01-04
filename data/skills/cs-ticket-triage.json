@@ -1,24 +1,38 @@
 {
   "id": "cs-ticket-triage",
   "name": "CS Ticket Triage",
+  "version": "1.0.0",
   "summary": "Classify and route support tickets to the right queues with reasons.",
+  "description": "## Overview\n\nStreamline your customer support workflow with intelligent ticket classification and routing.\n\n## Features\n\n- **Auto Classification**: Categorize tickets by issue type, urgency, and sentiment\n- **Smart Routing**: Route to the right team based on content analysis\n- **Priority Detection**: Identify urgent issues automatically\n- **Reason Logging**: Document routing decisions for audit trails\n\n## Integrations\n\n- Zendesk\n- Freshdesk\n- Intercom\n- Custom webhooks",
   "verticals": ["Support", "Operations"],
-  "tags": ["classification", "routing", "support"],
+  "tags": ["classification", "routing", "support", "customer-service"],
   "author": {
-    "name": "Acme Corp",
-    "github": "acme"
+    "name": "SupportOps",
+    "github": "supportops",
+    "avatar": "https://github.com/supportops.png"
   },
+  "status": "beta",
+  "verified": false,
   "visibility": "public",
+  "setup_time": "10 min",
+  "license": "Apache-2.0",
   "links": {
-    "repo": "https://github.com/acme/cs-ticket-triage-skill",
-    "demo": "https://youtu.be/dQw4w9WgXcQ"
+    "repo": "https://github.com/supportops/cs-ticket-triage-skill",
+    "demo": "https://supportops.dev/demo"
   },
   "installation": {
-    "type": "git"
+    "type": "cli",
+    "command": "npx @skills/cli add cs-ticket-triage",
+    "prerequisites": [
+      "API key for your helpdesk platform"
+    ]
   },
   "stats": {
-    "stars": 19,
-    "installs": 103
+    "stars": 34,
+    "forks": 5,
+    "installs": 456,
+    "installs_weekly": [55, 62, 58, 71, 68, 74, 68]
   },
-  "last_updated": "2025-09-10"
+  "last_updated": "2025-12-10",
+  "created_at": "2025-09-01"
 }

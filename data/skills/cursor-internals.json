@@ -1,0 +1,40 @@
+{
+  "id": "cursor-internals",
+  "name": "Cursor Internals",
+  "version": "1.0.0",
+  "summary": "# Cursor Internals Skill",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "cursor",
+    "internals",
+    "testing",
+    "api"
+  ],
+  "author": {
+    "name": "dav-ell",
+    "github": "dav-ell",
+    "avatar": "https://avatars.githubusercontent.com/u/17986781?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dav-ell/blink/tree/main/.cursor/rules/skills/cursor-internals/SKILL.mdc",
+    "skill_md": "https://raw.githubusercontent.com/dav-ell/blink/main/.cursor/rules/skills/cursor-internals/SKILL.mdc/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install cursor-internals"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-30",
+  "created_at": "2025-11-11"
+}

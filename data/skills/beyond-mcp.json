@@ -1,0 +1,39 @@
+{
+  "id": "beyond-mcp",
+  "name": "Beyond Mcp",
+  "version": "1.0.0",
+  "summary": "# Skill Approach Analysis",
+  "verticals": [
+    "Engineering",
+    "Data"
+  ],
+  "tags": [
+    "beyond",
+    "mcp",
+    "claude"
+  ],
+  "author": {
+    "name": "basher83",
+    "github": "basher83",
+    "avatar": "https://avatars.githubusercontent.com/u/129473091?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/basher83/lunar-claude/tree/main/docs/research/beyond-mcp/04-skill.md",
+    "skill_md": "https://raw.githubusercontent.com/basher83/lunar-claude/main/docs/research/beyond-mcp/04-skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install beyond-mcp"
+  },
+  "stats": {
+    "stars": 10,
+    "forks": 1,
+    "installs": 0
+  },
+  "last_updated": "2026-01-02",
+  "created_at": "2025-10-24"
+}

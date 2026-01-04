@@ -1,0 +1,38 @@
+{
+  "id": "cleanup",
+  "name": "cleanup",
+  "version": "1.0.0",
+  "summary": "Project organization expert - analyzes project state, detects redundancy, consolidates files, removes obsolete content, maintains structure integrity",
+  "verticals": [
+    "Engineering",
+    "Marketing"
+  ],
+  "tags": [
+    "cleanup",
+    "ai"
+  ],
+  "author": {
+    "name": "Brownbull",
+    "github": "Brownbull",
+    "avatar": "https://avatars.githubusercontent.com/u/16549632?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Brownbull/taskflow/tree/main/.claude/skills/utility/cleanup/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/Brownbull/taskflow/main/.claude/skills/utility/cleanup/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install cleanup"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10",
+  "created_at": "2025-11-07"
+}

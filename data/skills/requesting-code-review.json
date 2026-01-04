@@ -1,0 +1,41 @@
+{
+  "id": "requesting-code-review",
+  "name": "requesting-code-review",
+  "version": "1.0.0",
+  "summary": "completing tasks, implementing major features, or before merging to verify work meets requirements",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "requesting",
+    "code",
+    "review",
+    "ai",
+    "git"
+  ],
+  "author": {
+    "name": "obra",
+    "github": "obra",
+    "avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/obra/superpowers/tree/main/skills/requesting-code-review",
+    "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/requesting-code-review/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install requesting-code-review"
+  },
+  "stats": {
+    "stars": 13645,
+    "forks": 1125,
+    "installs": 0
+  },
+  "last_updated": "2025-12-27",
+  "created_at": "2025-10-09"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "api-endpoint-guardian",
+  "name": "api-endpoint-guardian",
+  "version": "1.0.0",
+  "summary": "Prevents API endpoint failures through systematic design validation and error handling review. Use when adding new endpoints, debugging API errors, implementing authentication, or ",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "api",
+    "endpoint",
+    "guardian",
+    "ai",
+    "documentation"
+  ],
+  "author": {
+    "name": "mkelam",
+    "github": "mkelam",
+    "avatar": "https://avatars.githubusercontent.com/u/130832145?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mkelam/PDFLab/tree/main/.claude/skills/api-endpoint-guardian.SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/mkelam/PDFLab/main/.claude/skills/api-endpoint-guardian.SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install api-endpoint-guardian"
+  },
+  "stats": {
+    "stars": 1,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21",
+  "created_at": "2025-10-29"
+}

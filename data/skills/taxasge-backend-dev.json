@@ -1,0 +1,43 @@
+{
+  "id": "taxasge-backend-dev",
+  "name": "TaxasGE Backend Dev",
+  "version": "1.0.0",
+  "summary": "Patterns backend FastAPI architecture 3-tiers, complète DEV_AGENT avec best practices backend",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "taxasge",
+    "backend",
+    "dev",
+    "ai",
+    "claude",
+    "api",
+    "workflow"
+  ],
+  "author": {
+    "name": "KouemouSah",
+    "github": "KouemouSah",
+    "avatar": "https://avatars.githubusercontent.com/u/222217803?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "NOASSERTION",
+  "links": {
+    "repo": "https://github.com/KouemouSah/taxasge/tree/main/.claude/skills/taxasge-backend-dev/Skill.md",
+    "skill_md": "https://raw.githubusercontent.com/KouemouSah/taxasge/main/.claude/skills/taxasge-backend-dev/Skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install taxasge-backend-dev"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-04",
+  "created_at": "2025-07-22"
+}

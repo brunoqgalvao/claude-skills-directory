@@ -1,0 +1,41 @@
+{
+  "id": "clickup-cli-reference",
+  "name": "clickup-cli-reference",
+  "version": "1.0.0",
+  "summary": "Complete command reference for the ClickUp Framework CLI (cum) with all shortcuts, options, examples, and usage patterns",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "clickup",
+    "cli",
+    "reference",
+    "git",
+    "api"
+  ],
+  "author": {
+    "name": "SOELexicon",
+    "github": "SOELexicon",
+    "avatar": "https://avatars.githubusercontent.com/u/4205001?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SOELexicon/clickup_framework/tree/main/.claude/skills/cli-reference/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/SOELexicon/clickup_framework/main/.claude/skills/cli-reference/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install clickup-cli-reference"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-30",
+  "created_at": "2025-11-08"
+}

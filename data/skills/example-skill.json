@@ -1,0 +1,44 @@
+{
+  "id": "example-skill",
+  "name": "Example Skill",
+  "version": "1.0.0",
+  "summary": "A simple example skill that demonstrates the basic structure and functionality. Use when you need to show how skills work or test skill loading.",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "acp",
+    "agent",
+    "ai",
+    "litellm",
+    "llm",
+    "llm-agent",
+    "mcp",
+    "pydantic"
+  ],
+  "author": {
+    "name": "phil65",
+    "github": "phil65",
+    "avatar": "https://avatars.githubusercontent.com/u/110931?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phil65/agentpool/tree/main/.claude/skills/example-skill/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/phil65/agentpool/main/.claude/skills/example-skill/SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install example-skill"
+  },
+  "stats": {
+    "stars": 41,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-04",
+  "created_at": "2024-12-05"
+}

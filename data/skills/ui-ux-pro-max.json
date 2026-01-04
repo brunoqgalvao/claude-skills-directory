@@ -1,0 +1,44 @@
+{
+  "id": "ui-ux-pro-max",
+  "name": "ui-ux-pro-max",
+  "version": "1.0.0",
+  "summary": "\"UI/UX design intelligence. 50 styles, 21 palettes, 50 font pairings, 20 charts, 8 stacks (React, Next.js, Vue, Svelte, SwiftUI, React Native, Flutter, Tailwind). Actions: plan, bu",
+  "verticals": [
+    "Design",
+    "Engineering"
+  ],
+  "tags": [
+    "anti-detect",
+    "anti-detect-browser",
+    "anti-detection",
+    "browser",
+    "browser-management",
+    "chromium",
+    "firefox",
+    "management"
+  ],
+  "author": {
+    "name": "zhom",
+    "github": "zhom",
+    "avatar": "https://avatars.githubusercontent.com/u/2717306?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "AGPL-3.0",
+  "links": {
+    "repo": "https://github.com/zhom/donutbrowser/tree/main/.claude/skills/ui-ux-pro-max/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/zhom/donutbrowser/main/.claude/skills/ui-ux-pro-max/SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install ui-ux-pro-max"
+  },
+  "stats": {
+    "stars": 804,
+    "forks": 45,
+    "installs": 0
+  },
+  "last_updated": "2026-01-03",
+  "created_at": "2025-05-29"
+}

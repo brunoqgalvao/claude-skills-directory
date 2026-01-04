@@ -1,0 +1,39 @@
+{
+  "id": "select-districts",
+  "name": "Select Districts",
+  "version": "1.0.0",
+  "summary": "# Select Districts Skill",
+  "verticals": [
+    "Data",
+    "Operations"
+  ],
+  "tags": [
+    "select",
+    "districts",
+    "workflow"
+  ],
+  "author": {
+    "name": "pauljbernard",
+    "github": "pauljbernard",
+    "avatar": "https://avatars.githubusercontent.com/u/324344?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pauljbernard/datamig/tree/main/.claude/skills/select-districts/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/pauljbernard/datamig/main/.claude/skills/select-districts/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install select-districts"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06",
+  "created_at": "2025-11-06"
+}

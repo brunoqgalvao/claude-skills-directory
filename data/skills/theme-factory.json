@@ -1,0 +1,39 @@
+{
+  "id": "theme-factory",
+  "name": "theme-factory",
+  "version": "1.0.0",
+  "summary": "Toolkit for styling artifacts with a theme. These artifacts can be slides, docs, reportings, HTML landing pages, etc. There are 10 pre-set themes with colors/fonts that you can app",
+  "verticals": [
+    "Design",
+    "Engineering"
+  ],
+  "tags": [
+    "theme",
+    "factory",
+    "ai"
+  ],
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics",
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+  },
+  "status": "ready",
+  "verified": true,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anthropics/skills/tree/main/skills/theme-factory",
+    "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/theme-factory/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install theme-factory"
+  },
+  "stats": {
+    "stars": 32783,
+    "forks": 2969,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20",
+  "created_at": "2025-09-22"
+}

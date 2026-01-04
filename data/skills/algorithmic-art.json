@@ -1,0 +1,38 @@
+{
+  "id": "algorithmic-art",
+  "name": "algorithmic-art",
+  "version": "1.0.0",
+  "summary": "Creating algorithmic art using p5.js with seeded randomness and interactive parameter exploration. Use this when users request creating art using code, generative art, algorithmic ",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "algorithmic",
+    "art"
+  ],
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics",
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+  },
+  "status": "ready",
+  "verified": true,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anthropics/skills/tree/main/skills/algorithmic-art",
+    "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/algorithmic-art/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install algorithmic-art"
+  },
+  "stats": {
+    "stars": 32783,
+    "forks": 2969,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20",
+  "created_at": "2025-09-22"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tutorials",
+  "name": "Tutorials",
+  "version": "1.0.0",
+  "summary": "# Tutorial: Creating Your First Skill",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "tutorials",
+    "claude"
+  ],
+  "author": {
+    "name": "Dexploarer",
+    "github": "Dexploarer",
+    "avatar": "https://avatars.githubusercontent.com/u/211557447?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Dexploarer/claudius-skills/tree/main/examples/beginner/tutorials/your-first-skill.md",
+    "skill_md": "https://raw.githubusercontent.com/Dexploarer/claudius-skills/main/examples/beginner/tutorials/your-first-skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install tutorials"
+  },
+  "stats": {
+    "stars": 3,
+    "forks": 2,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23",
+  "created_at": "2025-10-31"
+}

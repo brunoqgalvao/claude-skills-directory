@@ -1,0 +1,40 @@
+{
+  "id": "claude-agent-ts-sdk",
+  "name": "claude-agent-ts-sdk",
+  "version": "1.0.0",
+  "summary": "Build Claude agents using TypeScript with the @anthropic-ai/claude-agent-sdk. Use this skill when implementing conversational agents, building tools for agents, setting up streamin",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "claude",
+    "agent",
+    "sdk",
+    "ai"
+  ],
+  "author": {
+    "name": "szweibel",
+    "github": "szweibel",
+    "avatar": "https://avatars.githubusercontent.com/u/1495183?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/szweibel/claude-skills/tree/main/claude-agent-ts-sdk/SKILL.md.backup",
+    "skill_md": "https://raw.githubusercontent.com/szweibel/claude-skills/main/claude-agent-ts-sdk/SKILL.md.backup/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install claude-agent-ts-sdk"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09",
+  "created_at": "2025-11-06"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "notion-tasks",
+  "name": "notion-tasks",
+  "version": "1.0.0",
+  "summary": "Query and manage Oak AI squad tasks and sprints in Notion. Use when checking current sprint, finding tasks by status, updating task information, or understanding team priorities an",
+  "verticals": [
+    "Data",
+    "Engineering"
+  ],
+  "tags": [
+    "ai",
+    "education",
+    "mit-license",
+    "notion",
+    "tasks",
+    "git"
+  ],
+  "author": {
+    "name": "oaknational",
+    "github": "oaknational",
+    "avatar": "https://avatars.githubusercontent.com/u/63889701?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oaknational/oak-ai-lesson-assistant/tree/main/.claude/skills/notion-tasks/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/oaknational/oak-ai-lesson-assistant/main/.claude/skills/notion-tasks/SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install notion-tasks"
+  },
+  "stats": {
+    "stars": 29,
+    "forks": 3,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18",
+  "created_at": "2024-08-21"
+}

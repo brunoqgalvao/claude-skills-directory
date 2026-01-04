@@ -1,29 +1,71 @@
 {
   "id": "codex",
   "name": "Codex Integration",
+  "version": "1.2.0",
   "summary": "Integrate OpenAI Codex CLI for automated code analysis, refactoring, and editing workflows with model selection and session management.",
-  "verticals": ["Engineering"],
-  "tags": ["ai", "code-analysis", "refactoring", "automation", "openai"],
+  "description": "## Overview\n\nThis skill enables seamless integration with OpenAI's Codex CLI, providing powerful code analysis and refactoring capabilities directly within your Claude workflow.\n\n## Features\n\n- **Automated Code Analysis**: Analyze codebases for patterns, issues, and improvements\n- **Smart Refactoring**: AI-powered code refactoring with context awareness\n- **Session Management**: Maintain context across multiple interactions\n- **Model Selection**: Choose the optimal model for your task\n\n## Usage\n\nOnce installed, you can invoke Codex commands directly:\n\n```\ncodex analyze ./src\ncodex refactor --file app.ts --pattern \"extract-method\"\n```",
+  "verticals": [
+    "Engineering"
+  ],
+  "tags": [
+    "ai",
+    "code-analysis",
+    "refactoring",
+    "automation",
+    "openai"
+  ],
   "author": {
     "name": "Skills Directory",
-    "github": "skills-directory"
+    "github": "skills-directory",
+    "avatar": "https://github.com/skills-directory.png"
   },
+  "attribution": {
+    "source": "OpenAI Codex",
+    "url": "https://openai.com/codex"
+  },
+  "collaborators": [
+    {
+      "name": "OpenAI",
+      "github": "openai"
+    },
+    {
+      "name": "Skills Team",
+      "github": "skills-directory"
+    }
+  ],
+  "status": "ready",
+  "verified": true,
   "visibility": "public",
+  "setup_time": "5 min",
+  "license": "MIT",
   "links": {
     "repo": "https://github.com/skills-directory/skill-codex",
-    "skill_md": "https://raw.githubusercontent.com/skills-directory/skill-codex/main/SKILL.md"
+    "skill_md": "https://raw.githubusercontent.com/skills-directory/skill-codex/main/SKILL.md",
+    "docs": "https://skills-directory.github.io/skill-codex",
+    "homepage": "https://openai.com/codex"
   },
   "installation": {
-    "type": "git",
-    "command": "git clone --depth 1 https://github.com/skills-directory/skill-codex.git /tmp/skills-temp && mkdir -p ~/.claude/skills && cp -r /tmp/skills-temp/ ~/.claude/skills/codex && rm -rf /tmp/skills-temp",
+    "type": "cli",
+    "command": "npx @skills/cli add codex",
     "prerequisites": [
       "Codex CLI installed and available on PATH",
       "Valid Codex credentials configured"
     ]
   },
   "stats": {
-    "stars": 42,
-    "installs": 128
+    "stars": 396,
+    "forks": 35,
+    "installs": 1284,
+    "installs_weekly": [
+      180,
+      195,
+      210,
+      198,
+      225,
+      240,
+      236
+    ]
   },
-  "last_updated": "2025-11-05"
+  "last_updated": "2025-12-20",
+  "created_at": "2025-10-15"
 }

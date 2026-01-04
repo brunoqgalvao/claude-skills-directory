@@ -1,0 +1,38 @@
+{
+  "id": "topsail-ci",
+  "name": "topsail-ci",
+  "version": "1.0.0",
+  "summary": "Suite of tools to fetch TOPSAIL CI logs and artifacts for test troubleshooting",
+  "verticals": [
+    "Design",
+    "Engineering"
+  ],
+  "tags": [
+    "topsail",
+    "ai"
+  ],
+  "author": {
+    "name": "openshift-psap",
+    "github": "openshift-psap",
+    "avatar": "https://avatars.githubusercontent.com/u/55542927?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "Apache-2.0",
+  "links": {
+    "repo": "https://github.com/openshift-psap/topsail/tree/main/.claude/skills/topsail-ci/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/openshift-psap/topsail/main/.claude/skills/topsail-ci/SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install topsail-ci"
+  },
+  "stats": {
+    "stars": 16,
+    "forks": 20,
+    "installs": 0
+  },
+  "last_updated": "2026-01-01",
+  "created_at": "2023-07-20"
+}

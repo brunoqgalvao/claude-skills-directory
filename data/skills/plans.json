@@ -1,0 +1,38 @@
+{
+  "id": "plans",
+  "name": "Plans",
+  "version": "1.0.0",
+  "summary": "# Module Authoring Skill Implementation Plan",
+  "verticals": [
+    "Engineering",
+    "Design"
+  ],
+  "tags": [
+    "plans",
+    "claude"
+  ],
+  "author": {
+    "name": "pumped-fn",
+    "github": "pumped-fn",
+    "avatar": "https://avatars.githubusercontent.com/u/199755659?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pumped-fn/pumped-fn/tree/main/plans/2025-10-27-module-authoring-skill.md",
+    "skill_md": "https://raw.githubusercontent.com/pumped-fn/pumped-fn/main/plans/2025-10-27-module-authoring-skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install plans"
+  },
+  "stats": {
+    "stars": 5,
+    "forks": 3,
+    "installs": 0
+  },
+  "last_updated": "2025-12-29",
+  "created_at": "2025-02-18"
+}

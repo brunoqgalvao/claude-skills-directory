@@ -1,0 +1,42 @@
+{
+  "id": "mcp-builder",
+  "name": "mcp-builder",
+  "version": "1.0.0",
+  "summary": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP servers ",
+  "verticals": [
+    "Engineering",
+    "Operations"
+  ],
+  "tags": [
+    "mcp",
+    "builder",
+    "ai",
+    "llm",
+    "api",
+    "workflow"
+  ],
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics",
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+  },
+  "status": "ready",
+  "verified": true,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anthropics/skills/tree/main/skills/mcp-builder",
+    "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/mcp-builder/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install mcp-builder"
+  },
+  "stats": {
+    "stars": 32783,
+    "forks": 2969,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20",
+  "created_at": "2025-09-22"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "anonymize-pii",
+  "name": "Anonymize Pii",
+  "version": "1.0.0",
+  "summary": "# Anonymize PII Skill",
+  "verticals": [
+    "Data"
+  ],
+  "tags": [
+    "anonymize",
+    "pii"
+  ],
+  "author": {
+    "name": "pauljbernard",
+    "github": "pauljbernard",
+    "avatar": "https://avatars.githubusercontent.com/u/324344?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pauljbernard/datamig/tree/main/.claude/skills/anonymize-pii/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/pauljbernard/datamig/main/.claude/skills/anonymize-pii/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install anonymize-pii"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06",
+  "created_at": "2025-11-06"
+}

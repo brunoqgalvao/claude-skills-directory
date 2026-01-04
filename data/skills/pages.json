@@ -1,0 +1,41 @@
+{
+  "id": "pages",
+  "name": "Pages",
+  "version": "1.0.0",
+  "summary": "alias:: [[Claude Code Skills]]\n",
+  "verticals": [
+    "Engineering"
+  ],
+  "tags": [
+    "ai",
+    "logseq",
+    "pkm",
+    "python",
+    "pages",
+    "claude"
+  ],
+  "author": {
+    "name": "codekiln",
+    "github": "codekiln",
+    "avatar": "https://avatars.githubusercontent.com/u/140930?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codekiln/logseq-encode-garden/tree/main/pages/Claude Code___Skill.md",
+    "skill_md": "https://raw.githubusercontent.com/codekiln/logseq-encode-garden/main/pages/Claude Code___Skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install pages"
+  },
+  "stats": {
+    "stars": 4,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-03",
+  "created_at": "2025-01-30"
+}

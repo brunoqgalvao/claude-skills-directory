@@ -1,0 +1,41 @@
+{
+  "id": "doc-coauthoring",
+  "name": "doc-coauthoring",
+  "version": "1.0.0",
+  "summary": "Guide users through a structured workflow for co-authoring documentation. Use when user wants to write documentation, proposals, technical specs, decision docs, or similar structur",
+  "verticals": [
+    "Design",
+    "Engineering"
+  ],
+  "tags": [
+    "doc",
+    "coauthoring",
+    "testing",
+    "workflow",
+    "documentation"
+  ],
+  "author": {
+    "name": "anthropics",
+    "github": "anthropics",
+    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+  },
+  "status": "ready",
+  "verified": true,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anthropics/skills/tree/main/skills/doc-coauthoring",
+    "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/doc-coauthoring/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install doc-coauthoring"
+  },
+  "stats": {
+    "stars": 32783,
+    "forks": 2969,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20",
+  "created_at": "2025-09-22"
+}

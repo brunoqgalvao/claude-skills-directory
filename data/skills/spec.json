@@ -1,0 +1,40 @@
+{
+  "id": "spec",
+  "name": "Spec",
+  "version": "1.0.0",
+  "summary": "Spec skill for Claude Code",
+  "verticals": [
+    "Engineering",
+    "HR"
+  ],
+  "tags": [
+    "spec",
+    "ai",
+    "claude",
+    "git"
+  ],
+  "author": {
+    "name": "unit-mesh",
+    "github": "unit-mesh",
+    "avatar": "https://avatars.githubusercontent.com/u/129267571?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/unit-mesh/autodev-docs/tree/main/docs/spec/claude-skill.md",
+    "skill_md": "https://raw.githubusercontent.com/unit-mesh/autodev-docs/main/docs/spec/claude-skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install spec"
+  },
+  "stats": {
+    "stars": 4,
+    "forks": 5,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28",
+  "created_at": "2025-04-22"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "deploy",
+  "name": "Deploy",
+  "version": "1.0.0",
+  "summary": "# Deployment Checklist Skill",
+  "verticals": [
+    "Engineering",
+    "Data"
+  ],
+  "tags": [
+    "deploy"
+  ],
+  "author": {
+    "name": "WellFitCommunity",
+    "github": "WellFitCommunity",
+    "avatar": "https://avatars.githubusercontent.com/u/207092865?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WellFitCommunity/WellFit-Community-Daily-Complete/tree/main/.claude/skills/deploy/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/WellFitCommunity/WellFit-Community-Daily-Complete/main/.claude/skills/deploy/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install deploy"
+  },
+  "stats": {
+    "stars": 1,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-04",
+  "created_at": "2025-04-17"
+}

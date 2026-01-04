@@ -1,0 +1,39 @@
+{
+  "id": "dispatching-parallel-agents",
+  "name": "dispatching-parallel-agents",
+  "version": "1.0.0",
+  "summary": "facing 2+ independent tasks that can be worked on without shared state or sequential dependencies",
+  "verticals": [
+    "Engineering"
+  ],
+  "tags": [
+    "dispatching",
+    "parallel",
+    "agents",
+    "ai"
+  ],
+  "author": {
+    "name": "obra",
+    "github": "obra",
+    "avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/obra/superpowers/tree/main/skills/dispatching-parallel-agents",
+    "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/dispatching-parallel-agents/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install dispatching-parallel-agents"
+  },
+  "stats": {
+    "stars": 13645,
+    "forks": 1125,
+    "installs": 0
+  },
+  "last_updated": "2025-12-27",
+  "created_at": "2025-10-09"
+}

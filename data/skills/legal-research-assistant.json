@@ -1,24 +1,39 @@
 {
   "id": "legal-research-assistant",
   "name": "Legal Research Assistant",
+  "version": "2.1.0",
   "summary": "Search precedents and assemble citations for motions and briefs.",
+  "description": "## Overview\n\nA comprehensive legal research skill that helps attorneys and legal professionals quickly find relevant case law, statutes, and regulations.\n\n## Features\n\n- **Precedent Search**: Find relevant case law across multiple jurisdictions\n- **Citation Assembly**: Automatically format citations in Bluebook style\n- **Brief Analysis**: Analyze opposing briefs and suggest counter-arguments\n- **Timeline Generation**: Create case timelines from documents\n\n## Supported Jurisdictions\n\n- Federal Courts\n- All 50 US States\n- EU Courts (beta)",
   "verticals": ["Legal"],
-  "tags": ["case-law", "citations", "research"],
+  "tags": ["case-law", "citations", "research", "briefs", "litigation"],
   "author": {
-    "name": "Acme Corp",
-    "github": "acme"
+    "name": "Acme Legal Tech",
+    "github": "acme-legal",
+    "avatar": "https://github.com/acme-legal.png"
   },
+  "collaborators": [
+    { "name": "Legal AI Labs", "github": "legal-ai-labs" }
+  ],
+  "status": "ready",
+  "verified": true,
   "visibility": "public",
+  "setup_time": "3 min",
+  "license": "MIT",
   "links": {
-    "repo": "https://github.com/acme/legal-research-skill",
-    "docs": "https://acme.dev/docs/legal-research"
+    "repo": "https://github.com/acme-legal/legal-research-skill",
+    "skill_md": "https://raw.githubusercontent.com/acme-legal/legal-research-skill/main/SKILL.md",
+    "docs": "https://acme-legal.dev/docs/legal-research"
   },
   "installation": {
-    "type": "git"
+    "type": "cli",
+    "command": "npx @skills/cli add legal-research-assistant"
   },
   "stats": {
-    "stars": 28,
-    "installs": 156
+    "stars": 156,
+    "forks": 23,
+    "installs": 2847,
+    "installs_weekly": [320, 345, 380, 410, 425, 398, 412]
   },
-  "last_updated": "2025-08-15"
+  "last_updated": "2025-12-18",
+  "created_at": "2025-06-10"
 }

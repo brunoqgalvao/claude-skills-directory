@@ -1,0 +1,39 @@
+{
+  "id": "machine-manage",
+  "name": "Machine Manage",
+  "version": "1.0.0",
+  "summary": "# Machine Management Skill",
+  "verticals": [
+    "Design",
+    "Support"
+  ],
+  "tags": [
+    "machine",
+    "manage",
+    "ai"
+  ],
+  "author": {
+    "name": "hsudatalks",
+    "github": "hsudatalks",
+    "avatar": "https://avatars.githubusercontent.com/u/1204758?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hsudatalks/univers-machine/tree/main/.claude/skills/machine-manage/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/hsudatalks/univers-machine/main/.claude/skills/machine-manage/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install machine-manage"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-04",
+  "created_at": "2025-10-24"
+}

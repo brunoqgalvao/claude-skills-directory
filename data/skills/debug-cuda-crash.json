@@ -1,0 +1,44 @@
+{
+  "id": "debug-cuda-crash",
+  "name": "debug-cuda-crash",
+  "version": "1.0.0",
+  "summary": "Tutorial for debugging CUDA crashes using API logging",
+  "verticals": [
+    "Engineering",
+    "Data"
+  ],
+  "tags": [
+    "attention",
+    "cuda",
+    "distributed-inference",
+    "gpu",
+    "jit",
+    "large-large-models",
+    "llm-inference",
+    "moe"
+  ],
+  "author": {
+    "name": "flashinfer-ai",
+    "github": "flashinfer-ai",
+    "avatar": "https://avatars.githubusercontent.com/u/145061914?v=4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "Apache-2.0",
+  "links": {
+    "repo": "https://github.com/flashinfer-ai/flashinfer/tree/main/.claude/skills/debug-cuda-crash/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/.claude/skills/debug-cuda-crash/SKILL.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install debug-cuda-crash"
+  },
+  "stats": {
+    "stars": 4421,
+    "forks": 622,
+    "installs": 0
+  },
+  "last_updated": "2026-01-04",
+  "created_at": "2023-07-22"
+}

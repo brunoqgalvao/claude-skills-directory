@@ -1,0 +1,44 @@
+{
+  "id": "qa-auditor",
+  "name": "Qa Auditor",
+  "version": "1.0.0",
+  "summary": "# QA Auditor Automation Skill",
+  "verticals": [
+    "Engineering",
+    "Legal"
+  ],
+  "tags": [
+    "bloc",
+    "claude-code",
+    "clean-architecture",
+    "compliance",
+    "flutter",
+    "gdpr",
+    "gemini",
+    "hipaa"
+  ],
+  "author": {
+    "name": "Kandil7",
+    "github": "Kandil7",
+    "avatar": "https://avatars.githubusercontent.com/u/105888370?v=4"
+  },
+  "status": "beta",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Kandil7/prprompts-flutter-generator/tree/main/.claude/skills/automation/qa-auditor/skill.md",
+    "skill_md": "https://raw.githubusercontent.com/Kandil7/prprompts-flutter-generator/main/.claude/skills/automation/qa-auditor/skill.md/SKILL.md"
+  },
+  "installation": {
+    "type": "cli",
+    "command": "npx skills-cli install qa-auditor"
+  },
+  "stats": {
+    "stars": 3,
+    "forks": 1,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27",
+  "created_at": "2025-10-15"
+}

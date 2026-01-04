@@ -1,24 +1,35 @@
 {
   "id": "invoice-extractor",
   "name": "Invoice Extractor",
+  "version": "1.5.0",
   "summary": "Parse PDFs and export key fields to CSV for AR teams.",
+  "description": "## Overview\n\nAutomate invoice processing with AI-powered document extraction. Perfect for accounts receivable teams handling high volumes of invoices.\n\n## Features\n\n- **PDF Parsing**: Extract data from scanned and digital PDFs\n- **Field Detection**: Automatically identify vendor, amount, date, line items\n- **CSV Export**: One-click export to spreadsheet-ready format\n- **Batch Processing**: Handle hundreds of invoices at once\n\n## Supported Formats\n\n- PDF (scanned & digital)\n- Images (PNG, JPG)\n- Email attachments",
   "verticals": ["Finance", "Operations"],
-  "tags": ["pdf", "ocr", "csv", "receivables"],
+  "tags": ["pdf", "ocr", "csv", "receivables", "accounting"],
   "author": {
-    "name": "Acme Corp",
-    "github": "acme"
+    "name": "FinanceAI",
+    "github": "finance-ai",
+    "avatar": "https://github.com/finance-ai.png"
   },
+  "status": "ready",
+  "verified": false,
   "visibility": "public",
+  "setup_time": "2 min",
+  "license": "MIT",
   "links": {
-    "repo": "https://github.com/acme/invoice-extractor-skill",
-    "skill_md": "https://raw.githubusercontent.com/acme/invoice-extractor-skill/main/SKILL.md"
+    "repo": "https://github.com/finance-ai/invoice-extractor-skill",
+    "skill_md": "https://raw.githubusercontent.com/finance-ai/invoice-extractor-skill/main/SKILL.md"
   },
   "installation": {
-    "type": "git"
+    "type": "cli",
+    "command": "npx @skills/cli add invoice-extractor"
   },
   "stats": {
-    "stars": 15,
-    "installs": 87
+    "stars": 89,
+    "forks": 12,
+    "installs": 987,
+    "installs_weekly": [120, 135, 142, 138, 155, 148, 149]
   },
-  "last_updated": "2025-10-01"
+  "last_updated": "2025-12-15",
+  "created_at": "2025-08-20"
 }
