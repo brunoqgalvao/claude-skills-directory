@@ -4,11 +4,11 @@
   "builds": [
     {
       "src": "packages/web/package.json",
-      "use": "@vercel/next",
-      "config": {
-        "installCommand": "cd ../.. && pnpm install",
-        "buildCommand": "cd ../.. && pnpm run build"
-      }
+      "use": "@vercel/next"
     }
+  ],
+  "routes": [
+    { "handle": "filesystem" },
+    { "src": "/(.*)", "dest": "/packages/web/$1" }
   ]
 }
