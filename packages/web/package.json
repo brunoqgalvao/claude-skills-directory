@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev -p 3050",
+    "prebuild": "rm -rf data && cp -r ../../data .",
     "build": "next build",
     "start": "next start -p 3050",
     "lint": "next lint",

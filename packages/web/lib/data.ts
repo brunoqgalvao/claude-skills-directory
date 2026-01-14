@@ -7,16 +7,14 @@ import { Skill, SkillZ, slugify } from "@skills/shared";
 function getDataDir(): string {
   // Try multiple paths for different environments
   const candidates = [
+    path.join(process.cwd(), "data"),              // copied into packages/web during build (Vercel)
     path.join(process.cwd(), "..", "..", "data"),  // from packages/web (local dev)
-    path.join(process.cwd(), "data"),              // from root (Vercel production)
     path.join(process.cwd(), "..", "data"),        // one level up
-    "/var/task/data",                               // Vercel serverless function path
   ];
 
   for (const dir of candidates) {
     try {
       if (fsSync.existsSync(dir) && fsSync.existsSync(path.join(dir, "skills"))) {
-        console.log(`[data.ts] Using data dir: ${dir}`);
         return dir;
       }
     } catch {
@@ -24,8 +22,7 @@ function getDataDir(): string {
     }
   }
 
-  console.error(`[data.ts] No valid data directory found! Candidates: ${candidates.join(", ")}`);
-  console.error(`[data.ts] CWD: ${process.cwd()}`);
+  console.error(`[data.ts] No valid data directory found! CWD: ${process.cwd()}`);
   return candidates[0]; // Default fallback
 }
 
