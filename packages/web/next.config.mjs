@@ -1,9 +1,15 @@
+import { fileURLToPath } from 'url';
+import path from 'path';
+
+const __dirname = path.dirname(fileURLToPath(import.meta.url));
+const rootDir = path.join(__dirname, "../..");
+
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
   output: "standalone",
   experimental: {
-    outputFileTracingRoot: new URL("../..", import.meta.url).pathname,
+    outputFileTracingRoot: rootDir,
     outputFileTracingIncludes: {
       "/**": ["../../data/**/*"]
     }

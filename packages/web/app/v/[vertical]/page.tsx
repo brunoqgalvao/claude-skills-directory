@@ -1,13 +1,15 @@
 import DirectoryClient from "@/components/DirectoryClient";
 import VerticalPills from "@/components/VerticalPills";
-import { getAllSkills, getAllVerticals, getSkillsForVerticalSlug, getVerticalsWithCounts } from "@/lib/data";
+import { getAllVerticals, getPaginatedSkills, getVerticalsWithCounts } from "@/lib/data";
 import { slugify } from "@/lib/types";
 import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import { SITE_URL, SITE_NAME } from "@/lib/constants";
 
-// Dynamic rendering to handle 18k+ skills
+// Dynamic rendering for pagination
 export const dynamic = "force-dynamic";
+
+const SKILLS_PER_PAGE = 60;
 
 export async function generateMetadata({ params }: { params: { vertical: string } }): Promise<Metadata> {
   const verticals = await getAllVerticals();
@@ -42,24 +44,32 @@ export async function generateMetadata({ params }: { params: { vertical: string 
   };
 }
 
-export default async function VerticalPage({ params }: { params: { vertical: string } }) {
-  const [verticals, skills] = await Promise.all([
+export default async function VerticalPage({
+  params,
+  searchParams
+}: {
+  params: { vertical: string };
+  searchParams: { page?: string; q?: string };
+}) {
+  const page = parseInt(searchParams.page || "1", 10);
+  const search = searchParams.q;
+
+  const [verticals, { skills, total, pages }] = await Promise.all([
     getVerticalsWithCounts(),
-    getSkillsForVerticalSlug(params.vertical)
+    getPaginatedSkills(page, SKILLS_PER_PAGE, search, params.vertical)
   ]);
 
   const exists = verticals.some((v) => slugify(v.name) === params.vertical);
   if (!exists) notFound();
 
-  // show only skills from this vertical; still allow search within them
   return (
     <div>
       <section className="text-center">
         <h1 className="text-3xl sm:text-4xl font-semibold tracking-tight capitalize">
           {params.vertical.replace(/-/g, " ")}
         </h1>
-        <p className="mt-2 text-white/70">
-          Showing skills in this vertical. Use search to narrow further.
+        <p className="mt-2 text-gray-500">
+          Showing {total.toLocaleString()} skills in this vertical.
         </p>
       </section>
 
@@ -67,7 +77,13 @@ export default async function VerticalPage({ params }: { params: { vertical: str
         <VerticalPills verticals={verticals} active={params.vertical} />
       </div>
 
-      <DirectoryClient allSkills={skills} />
+      <DirectoryClient
+        initialSkills={skills}
+        initialQuery={search || ""}
+        currentPage={page}
+        totalPages={pages}
+        totalSkills={total}
+      />
     </div>
   );
 }

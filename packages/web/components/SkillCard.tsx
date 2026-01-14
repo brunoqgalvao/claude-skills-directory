@@ -1,18 +1,18 @@
 "use client";
 
 import Link from "next/link";
-import { Skill, getTrustTier, isTrending, isRising, TRUST_TIER_CONFIG } from "@/lib/types";
+import { getTrustTier, isTrending, isRising, TRUST_TIER_CONFIG } from "@/lib/types";
+import type { SkillSummary } from "@/lib/data";
 import clsx from "clsx";
 import { useState, useMemo } from "react";
 
-export default function SkillCard({ skill }: { skill: Skill }) {
+export default function SkillCard({ skill }: { skill: SkillSummary }) {
   const [hover, setHover] = useState(false);
-  const status = skill.status || "ready";
 
-  // Calculate quality metrics
-  const tier = useMemo(() => getTrustTier(skill), [skill]);
-  const trending = useMemo(() => isTrending(skill), [skill]);
-  const rising = useMemo(() => isRising(skill), [skill]);
+  // Calculate quality metrics using summary data
+  const tier = useMemo(() => getTrustTier(skill as any), [skill]);
+  const trending = useMemo(() => isTrending(skill as any), [skill]);
+  const rising = useMemo(() => isRising(skill as any), [skill]);
   const tierConfig = TRUST_TIER_CONFIG[tier];
 
   return (
@@ -70,15 +70,7 @@ export default function SkillCard({ skill }: { skill: Skill }) {
                 📈
               </span>
             )}
-            {status === "beta" && (
-              <span className="text-[10px] px-1.5 py-0.5 rounded bg-amber-100 text-amber-700 font-medium shrink-0">
-                Beta
-              </span>
-            )}
           </div>
-          <p className="mt-0.5 text-xs text-gray-500 truncate">
-            by {skill.author.github ? `@${skill.author.github}` : skill.author.name}
-          </p>
         </div>
       </div>
 
@@ -89,7 +81,7 @@ export default function SkillCard({ skill }: { skill: Skill }) {
       <div className="relative mt-4 flex items-center gap-4 text-xs text-gray-500">
         {skill.stats && (
           <>
-            {skill.stats.stars > 0 && (
+            {(skill.stats.stars || 0) > 0 && (
               <span className="flex items-center gap-1">
                 <svg className="w-3.5 h-3.5 text-amber-500" fill="currentColor" viewBox="0 0 20 20">
                   <path d="M9.049 2.927c.3-.921 1.603-.921 1.902 0l1.07 3.292a1 1 0 00.95.69h3.462c.969 0 1.371 1.24.588 1.81l-2.8 2.034a1 1 0 00-.364 1.118l1.07 3.292c.3.921-.755 1.688-1.54 1.118l-2.8-2.034a1 1 0 00-1.175 0l-2.8 2.034c-.784.57-1.838-.197-1.539-1.118l1.07-3.292a1 1 0 00-.364-1.118L2.98 8.72c-.783-.57-.38-1.81.588-1.81h3.461a1 1 0 00.951-.69l1.07-3.292z" />
@@ -97,20 +89,12 @@ export default function SkillCard({ skill }: { skill: Skill }) {
                 {skill.stats.stars}
               </span>
             )}
-            {skill.stats.installs > 0 && (
+            {(skill.stats.installs || 0) > 0 && (
               <span className="flex items-center gap-1">
                 <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 16v1a3 3 0 003 3h10a3 3 0 003-3v-1m-4-4l-4 4m0 0l-4-4m4 4V4" />
                 </svg>
-                {skill.stats.installs.toLocaleString()}
-              </span>
-            )}
-            {skill.stats.forks > 0 && (
-              <span className="flex items-center gap-1">
-                <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8.684 13.342C8.886 12.938 9 12.482 9 12c0-.482-.114-.938-.316-1.342m0 2.684a3 3 0 110-2.684m0 2.684l6.632 3.316m-6.632-6l6.632-3.316m0 0a3 3 0 105.367-2.684 3 3 0 00-5.367 2.684zm0 9.316a3 3 0 105.368 2.684 3 3 0 00-5.368-2.684z" />
-                </svg>
-                {skill.stats.forks}
+                {(skill.stats.installs || 0).toLocaleString()}
               </span>
             )}
           </>
