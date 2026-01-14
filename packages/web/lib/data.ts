@@ -1,26 +1,31 @@
 import fs from "node:fs/promises";
+import fsSync from "node:fs";
 import path from "node:path";
 import { Skill, SkillZ, slugify } from "@skills/shared";
 
 // Handle both local dev (from packages/web) and Vercel production
-function getDataDir() {
+function getDataDir(): string {
   // Try multiple paths for different environments
   const candidates = [
-    path.join(process.cwd(), "..", "..", "data"),  // from packages/web
-    path.join(process.cwd(), "data"),              // from root (Vercel)
-    path.join(__dirname, "..", "..", "..", "..", "data"), // fallback
+    path.join(process.cwd(), "..", "..", "data"),  // from packages/web (local dev)
+    path.join(process.cwd(), "data"),              // from root (Vercel production)
+    path.join(process.cwd(), "..", "data"),        // one level up
+    "/var/task/data",                               // Vercel serverless function path
   ];
 
   for (const dir of candidates) {
     try {
-      // Sync check during module init
-      if (require("fs").existsSync(dir)) {
+      if (fsSync.existsSync(dir) && fsSync.existsSync(path.join(dir, "skills"))) {
+        console.log(`[data.ts] Using data dir: ${dir}`);
         return dir;
       }
     } catch {
       // Continue to next candidate
     }
   }
+
+  console.error(`[data.ts] No valid data directory found! Candidates: ${candidates.join(", ")}`);
+  console.error(`[data.ts] CWD: ${process.cwd()}`);
   return candidates[0]; // Default fallback
 }
 
@@ -156,10 +161,18 @@ export async function getSkillsForVerticalSlug(slug: string): Promise<Skill[]> {
 }
 
 export async function getSkillById(id: string): Promise<Skill | null> {
+  const filePath = path.join(skillsDir, `${id}.json`);
   try {
-    const raw = await fs.readFile(path.join(skillsDir, `${id}.json`), "utf8");
-    return SkillZ.parse(JSON.parse(raw));
-  } catch {
+    const raw = await fs.readFile(filePath, "utf8");
+    const parsed = JSON.parse(raw);
+    const result = SkillZ.safeParse(parsed);
+    if (!result.success) {
+      console.error(`[getSkillById] Validation failed for ${id}:`, result.error.issues);
+      return null;
+    }
+    return result.data;
+  } catch (err) {
+    console.error(`[getSkillById] Failed to load ${filePath}:`, err);
     return null;
   }
 }
