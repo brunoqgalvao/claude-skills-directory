@@ -1,1 +1,14 @@
-{}
+{
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/blog/page": "app/blog/page.js",
+  "/api/reports/route": "app/api/reports/route.js",
+  "/login/page": "app/login/page.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/page": "app/page.js",
+  "/add/page": "app/add/page.js",
+  "/v/[vertical]/page": "app/v/[vertical]/page.js",
+  "/blog/[slug]/page": "app/blog/[slug]/page.js",
+  "/docs/cli/page": "app/docs/cli/page.js",
+  "/skill/[slug]/page": "app/skill/[slug]/page.js"
+}

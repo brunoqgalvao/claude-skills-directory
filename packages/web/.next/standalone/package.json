@@ -1,0 +1,33 @@
+{
+  "name": "claude-skills-directory",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "pnpm --filter @skills/web dev",
+    "dev:nowatch": "pnpm run build:web && pnpm run start",
+    "build": "pnpm -r build",
+    "build:shared": "pnpm --filter @skills/shared build",
+    "build:web": "pnpm --filter @skills/web build",
+    "build:cli": "pnpm --filter @skills/cli build",
+    "track": "pnpm --filter @skills/competitors-tracker track",
+    "track:report": "pnpm --filter @skills/competitors-tracker track report",
+    "track:discover": "pnpm --filter @skills/competitors-tracker track discover",
+    "start": "pnpm --filter @skills/web start",
+    "lint": "pnpm --filter @skills/web lint",
+    "validate": "node scripts/validate.mjs",
+    "update-stats": "node scripts/update-github-stats.mjs",
+    "format": "prettier --write .",
+    "pipeline": "npx tsx scripts/pipeline/run.ts",
+    "pipeline:dry": "npx tsx scripts/pipeline/run.ts --dry-run"
+  },
+  "devDependencies": {
+    "prettier": "3.3.3",
+    "tsx": "^4.21.0",
+    "zod": "^3.24.1"
+  },
+  "dependencies": {
+    "@supabase/ssr": "^0.8.0",
+    "@supabase/supabase-js": "^2.89.0",
+    "sharp": "^0.34.5"
+  }
+}
