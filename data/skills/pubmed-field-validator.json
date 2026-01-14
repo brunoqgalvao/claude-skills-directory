@@ -1,0 +1,37 @@
+{
+  "id": "pubmed-field-validator",
+  "name": "pubmed-field-validator",
+  "version": "1.0.0",
+  "summary": "Validate PubMed search field tags against official NCBI documentation before implementing them. Use when adding new field tags to the query builder, debugging search queries, or...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "illumination-k",
+    "github": "illumination-k"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/illumination-k/pubmed-client",
+    "skill_md": "https://raw.githubusercontent.com/illumination-k/pubmed-client/main/.claude/skills/pubmed-field-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.482Z",
+  "created_at": "2025-12-23T01:29:41.409Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/illumination-k%2Fpubmed-client/.claude%2Fskills%2Fpubmed-field-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_89624c5b8a9e"
+  }
+}

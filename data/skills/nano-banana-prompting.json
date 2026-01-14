@@ -1,0 +1,35 @@
+{
+  "id": "nano-banana-prompting",
+  "name": "nano-banana-prompting",
+  "version": "1.0.0",
+  "summary": "This skill should be used when crafting prompts for Nano Banana Pro (Gemini image generation). Use when users want help writing image generation prompts, need guidance on prompt...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NikiforovAll",
+    "github": "NikiforovAll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NikiforovAll/claude-code-rules",
+    "skill_md": "https://raw.githubusercontent.com/NikiforovAll/claude-code-rules/main/plugins/handbook-nano-banana/skills/nano-banana-prompting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T07:30:19.000Z",
+  "created_at": "2025-12-23T01:29:02.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NikiforovAll%2Fclaude-code-rules/plugins%2Fhandbook-nano-banana%2Fskills%2Fnano-banana-prompting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.453Z",
+    "uniqueId": "sk_09e42b41d429"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "monitor-workloads",
+  "name": "monitor-workloads",
+  "version": "1.0.0",
+  "summary": "Monitor workload definitions, distribution, and TASM statistics using real-time resources to understand classification effectiveness and workload performance",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "teradata-labs",
+    "github": "teradata-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/teradata-labs/claude-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/teradata-labs/claude-cookbooks/main/skills/operations/workloadmanagement/monitoring/monitor-workloads/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:18:58.912Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/teradata-labs%2Fclaude-cookbooks/skills%2Foperations%2Fworkloadmanagement%2Fmonitoring%2Fmonitor-workloads%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_f4ae0d81e956"
+  }
+}

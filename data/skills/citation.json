@@ -1,0 +1,35 @@
+{
+  "id": "citation",
+  "name": "citation",
+  "version": "1.0.0",
+  "summary": "Formats citations and validates source attribution for answers generated from multiple document sources (ChromaDB and web search). Use when adding source references to generated...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "edangx100",
+    "github": "edangx100"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/edangx100/adaptive_rag_vercel",
+    "skill_md": "https://raw.githubusercontent.com/edangx100/adaptive_rag_vercel/main/.claude/skills/citation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.525Z",
+  "created_at": "2025-12-23T01:29:05.523Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/edangx100%2Fadaptive_rag_vercel/.claude%2Fskills%2Fcitation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.525Z",
+    "uniqueId": "sk_73ce7e573711"
+  }
+}

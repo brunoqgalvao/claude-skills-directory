@@ -1,0 +1,35 @@
+{
+  "id": "atlas-agent-security",
+  "name": "atlas-agent-security",
+  "version": "1.0.0",
+  "summary": "Security audits, vulnerability analysis, and security best practices enforcement",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ajstack22",
+    "github": "ajstack22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ajstack22/StackMap",
+    "skill_md": "https://raw.githubusercontent.com/ajstack22/StackMap/main/atlas-skills-generic/atlas-agent-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.596Z",
+  "created_at": "2025-12-23T00:19:42.565Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ajstack22%2FStackMap/atlas-skills-generic%2Fatlas-agent-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.596Z",
+    "uniqueId": "sk_0ca501ee884a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cfn-task-intelligence",
+  "name": "cfn-task-intelligence",
+  "version": "1.0.0",
+  "summary": "Classify tasks (type/domain), estimate complexity/iterations, recommend specialists from feedback themes",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masharratt",
+    "github": "masharratt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masharratt/claude-flow-novice",
+    "skill_md": "https://raw.githubusercontent.com/masharratt/claude-flow-novice/main/.claude/skills/cfn-task-intelligence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.872Z",
+  "created_at": "2025-12-22T15:04:48.036Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masharratt%2Fclaude-flow-novice/.claude%2Fskills%2Fcfn-task-intelligence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.872Z",
+    "uniqueId": "sk_ab4ddd6ad06d"
+  }
+}

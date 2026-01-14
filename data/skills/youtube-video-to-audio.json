@@ -1,0 +1,35 @@
+{
+  "id": "youtube-video-to-audio",
+  "name": "youtube-video-to-audio",
+  "version": "1.0.0",
+  "summary": "Download YouTube videos as audio files using yt-dlp",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MacHu-GWU",
+    "github": "MacHu-GWU"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MacHu-GWU/sanhe-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/MacHu-GWU/sanhe-claude-code-plugins/main/plugins/social-media-network/youtube/skills/youtube-video-to-audio/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T04:53:07.000Z",
+  "created_at": "2025-12-22T14:54:00.483Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MacHu-GWU%2Fsanhe-claude-code-plugins/plugins%2Fsocial-media-network%2Fyoutube%2Fskills%2Fyoutube-video-to-audio%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_2ebb478d20d8"
+  }
+}

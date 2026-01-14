@@ -1,0 +1,35 @@
+{
+  "id": "performance-profiler",
+  "name": "performance-profiler",
+  "version": "1.0.0",
+  "summary": "CPU/memory profiling, database query optimization, and performance analysis",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benreceveur",
+    "github": "benreceveur"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benreceveur/claude-workflow-engine",
+    "skill_md": "https://raw.githubusercontent.com/benreceveur/claude-workflow-engine/main/skills/performance-profiler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:49.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benreceveur%2Fclaude-workflow-engine/skills%2Fperformance-profiler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_189baafa677f"
+  }
+}

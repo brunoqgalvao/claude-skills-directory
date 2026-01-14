@@ -1,0 +1,35 @@
+{
+  "id": "kurrentdb",
+  "name": "kurrentdb",
+  "version": "1.0.0",
+  "summary": "Provides KurrentDB (EventStoreDB) client code for event sourcing and CQRS. Generates correct package names, connection strings, and API patterns for Python, Node.js, .NET, F#, G...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kurrent-io",
+    "github": "kurrent-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kurrent-io/coding-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/kurrent-io/coding-agent-skills/main/kurrent_skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.563Z",
+  "created_at": "2025-12-23T01:28:38.033Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kurrent-io%2Fcoding-agent-skills/kurrent_skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_bc38961a7dce"
+  }
+}

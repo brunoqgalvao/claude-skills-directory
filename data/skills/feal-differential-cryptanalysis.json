@@ -1,0 +1,36 @@
+{
+  "id": "feal-differential-cryptanalysis",
+  "name": "feal-differential-cryptanalysis",
+  "version": "1.0.0",
+  "summary": "Guidance for implementing differential cryptanalysis attacks on FEAL and similar Feistel ciphers. This skill should be used when asked to break FEAL encryption, recover cipher k...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "letta-ai",
+    "github": "letta-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/letta-ai/skills",
+    "skill_md": "https://raw.githubusercontent.com/letta-ai/skills/main/ai/benchmarks/letta/terminal-bench-2/trajectory-only/feal-differential-cryptanalysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:55.530Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/letta-ai%2Fskills/ai%2Fbenchmarks%2Fletta%2Fterminal-bench-2%2Ftrajectory-only%2Ffeal-differential-cryptanalysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_6ece05e4a801"
+  }
+}

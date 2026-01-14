@@ -1,0 +1,37 @@
+{
+  "id": "agent-deployment-pipeline",
+  "name": "agent-deployment-pipeline",
+  "version": "1.0.0",
+  "summary": "Implement CI/CD pipelines for AI agent deployment with evaluation gates. Use for GitHub Actions workflows, GitOps with ArgoCD, container image building, and automated testing. T...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "raphaelmansuy",
+    "github": "raphaelmansuy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/raphaelmansuy/k8s-agent-stack",
+    "skill_md": "https://raw.githubusercontent.com/raphaelmansuy/k8s-agent-stack/main/archive/skills/agent-deployment-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:19:00.952Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/raphaelmansuy%2Fk8s-agent-stack/archive%2Fskills%2Fagent-deployment-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_ff16a2c9cd83"
+  }
+}

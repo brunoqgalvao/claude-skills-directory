@@ -1,0 +1,37 @@
+{
+  "id": "frappe-external-api-connector",
+  "name": "frappe-external-api-connector",
+  "version": "1.0.0",
+  "summary": "Generate code to integrate Frappe with external REST APIs. Use when connecting to third-party services, payment gateways, or external data sources.",
+  "verticals": [
+    "engineering",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Venkateshvenki404224",
+    "github": "Venkateshvenki404224"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Venkateshvenki404224/frappe-apps-manager",
+    "skill_md": "https://raw.githubusercontent.com/Venkateshvenki404224/frappe-apps-manager/main/frappe-apps-manager/skills/frappe-external-api-connector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.550Z",
+  "created_at": "2025-12-23T01:28:49.599Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Venkateshvenki404224%2Ffrappe-apps-manager/frappe-apps-manager%2Fskills%2Ffrappe-external-api-connector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_ef232f80887e"
+  }
+}

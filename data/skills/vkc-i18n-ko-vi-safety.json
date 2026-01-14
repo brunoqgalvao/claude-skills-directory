@@ -1,0 +1,35 @@
+{
+  "id": "vkc-i18n-ko-vi-safety",
+  "name": "vkc-i18n-ko-vi-safety",
+  "version": "1.0.0",
+  "summary": "Prevent i18n regressions for ko/en/vi (missing keys, long Vietnamese text UI breakage). Use when changing messages/*.json or adding user-facing strings.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LEE-SANG-BOK",
+    "github": "LEE-SANG-BOK"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LEE-SANG-BOK/VKC-2-",
+    "skill_md": "https://raw.githubusercontent.com/LEE-SANG-BOK/VKC-2-/main/.codex/skills/vkc-i18n-ko-vi-safety/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:52:54.790Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LEE-SANG-BOK%2FVKC-2-/.codex%2Fskills%2Fvkc-i18n-ko-vi-safety%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_a7a16edbaa67"
+  }
+}

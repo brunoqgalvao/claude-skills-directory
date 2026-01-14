@@ -1,0 +1,35 @@
+{
+  "id": "docs-fetcher",
+  "name": "docs-fetcher",
+  "version": "1.0.0",
+  "summary": "Fetch up-to-date library documentation directly into context to prevent hallucinated APIs and outdated code examples. Use when user says \"use docs\", \"fetch docs for [library]\", ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvilrokx",
+    "github": "mvilrokx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvilrokx/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/mvilrokx/claude-skills/main/docs-fetcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.564Z",
+  "created_at": "2025-12-23T01:28:38.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvilrokx%2Fclaude-skills/docs-fetcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_391258fbc36d"
+  }
+}

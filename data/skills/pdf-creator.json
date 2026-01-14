@@ -1,0 +1,38 @@
+{
+  "id": "pdf-creator",
+  "name": "pdf-creator",
+  "version": "1.0.0",
+  "summary": "Create PDF documents from markdown with proper Chinese font support using weasyprint. This skill should be used when converting markdown to PDF, generating formal documents (leg...",
+  "description": "# PDF Creator\n\nCreate professional PDF documents from markdown with proper Chinese font support.\n\n## Quick Start\n\nConvert a single markdown file:\n\n```bash\nuv run --with weasyprint --with markdown scripts/md_to_pdf.py input.md output.pdf\n```\n\nBatch convert multiple files:\n\n```bash\nuv run --with weasyprint --with markdown scripts/batch_convert.py *.md --output-dir ./pdfs\n```\n\n## macOS Environment Setup\n\nIf encountering library errors, set these environment variables first:\n\n```bash\nexport DYLD_LIBRARY_PATH=\"/opt/homebrew/lib:$DYLD_LIBRARY_PATH\"\nexport PKG_CONFIG_PATH=\"/opt/homebrew/lib/pkgconfig:$PKG_CONFIG_PATH\"\n```\n\n## Font Configuration\n\nThe scripts use these Chinese fonts (with fallbacks):\n\n| Font Type | Primary | Fallbacks |\n|-----------|---------|-----------|\n| Body text | Songti SC | SimSun, STSong, Noto Serif CJK SC |\n| Headings | Heiti SC | SimHei, STHeiti, Noto Sans CJK SC |\n\n## Output Specifications\n\n- **Page size**: A4\n- **Margins**: 2.5cm top/bottom, 2cm left/right\n- **Body font**: 12pt, 1.8 line height\n- **Max file size**: Designed to stay under 2MB for form submissions\n\n## Common Use Cases\n\n1. **Legal documents**: Trademark filings, contracts, evidence lists\n2. **Reports**: Business reports, technical documentation\n3. **Formal letters**: Official correspondence requiring print format\n\n## Troubleshooting\n\n**Problem**: Chinese characters display as boxes\n**Solution**: Ensure Songti SC or other Chinese fonts are installed on the system\n\n**Problem**: `weasyprint` import error\n**Solution**: Run with `uv run --with weasyprint --with markdown` to ensure dependencies",
+  "verticals": [
+    "legal",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daymade",
+    "github": "daymade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daymade/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/pdf-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 154,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:30:48Z",
+  "created_at": "2025-10-22T11:17:31Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/daymade/claude-code-skills/blob/main/pdf-creator/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_18f3bb2b2024"
+  }
+}

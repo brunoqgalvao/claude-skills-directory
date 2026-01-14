@@ -1,0 +1,36 @@
+{
+  "id": "ux-flow-diagram",
+  "name": "ux-flow-diagram",
+  "version": "1.0.0",
+  "summary": "[UI/UX] Visualizes user flows and screen transitions as ASCII diagrams. Represents navigation flows, user journeys, and screen-to-screen paths. Use when requesting 'flow diagram...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CANTAGESTUDIO",
+    "github": "CANTAGESTUDIO"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CANTAGESTUDIO/CosmicAtlasPacker",
+    "skill_md": "https://raw.githubusercontent.com/CANTAGESTUDIO/CosmicAtlasPacker/main/.factory/skills/ux-flow-diagram/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:51:11.765Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CANTAGESTUDIO%2FCosmicAtlasPacker/.factory%2Fskills%2Fux-flow-diagram%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_17a02e4e7d9b"
+  }
+}

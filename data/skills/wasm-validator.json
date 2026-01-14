@@ -1,0 +1,36 @@
+{
+  "id": "wasm-validator",
+  "name": "wasm-validator",
+  "version": "1.0.0",
+  "summary": "Diagnose WASM build failures, explain browser WebGPU constraints, help debug wasm-bindgen and web-sys integration issues, and guide getting your renderer working on the web again",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fazil47",
+    "github": "fazil47"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fazil47/wgpu-renderer",
+    "skill_md": "https://raw.githubusercontent.com/fazil47/wgpu-renderer/main/.claude/skills/wasm-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:24.649Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fazil47%2Fwgpu-renderer/.claude%2Fskills%2Fwasm-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_5102f777be19"
+  }
+}

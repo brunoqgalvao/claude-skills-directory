@@ -1,0 +1,37 @@
+{
+  "id": "grpc-protobuf",
+  "name": "grpc-protobuf",
+  "version": "1.0.0",
+  "summary": "gRPC and Protocol Buffers - use for service-to-service communication, API definitions, streaming, and inter-service contracts",
+  "verticals": [
+    "engineering",
+    "legal",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ashchupliak",
+    "github": "ashchupliak"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ashchupliak/dream-team",
+    "skill_md": "https://raw.githubusercontent.com/ashchupliak/dream-team/main/skills/grpc-protobuf/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T14:36:36.000Z",
+  "created_at": "2025-12-22T20:06:51.734Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ashchupliak%2Fdream-team/skills%2Fgrpc-protobuf%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_d64a7ab327a4"
+  }
+}

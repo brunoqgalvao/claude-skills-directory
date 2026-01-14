@@ -1,0 +1,35 @@
+{
+  "id": "extract-voice",
+  "name": "extract-voice",
+  "version": "1.0.0",
+  "summary": "Use when the user wants to analyze writing samples to extract voice patterns, create voice-replicating prompts, or refine content generation prompts to match a specific writing ...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Alevsk",
+    "github": "Alevsk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Alevsk/nix",
+    "skill_md": "https://raw.githubusercontent.com/Alevsk/nix/main/modules/ai/claude/skills/extract-voice/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:21.422Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Alevsk%2Fnix/modules%2Fai%2Fclaude%2Fskills%2Fextract-voice%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_81bff12f1fa7"
+  }
+}

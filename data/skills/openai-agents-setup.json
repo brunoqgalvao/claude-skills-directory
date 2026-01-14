@@ -1,0 +1,36 @@
+{
+  "id": "openai-agents-setup",
+  "name": "openai-agents-setup",
+  "version": "1.0.0",
+  "summary": "Initialize and configure OpenAI Agents SDK for building AI-powered chatbots. Uses NATIVE MCP integration via MCPServerStreamableHttp - no @function_tool wrappers needed! Use whe...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maneeshanif",
+    "github": "maneeshanif"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maneeshanif/todo-spec-driven",
+    "skill_md": "https://raw.githubusercontent.com/maneeshanif/todo-spec-driven/main/.claude/skills/openai-agents-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.679Z",
+  "created_at": "2025-12-22T22:11:45.691Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maneeshanif%2Ftodo-spec-driven/.claude%2Fskills%2Fopenai-agents-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.679Z",
+    "uniqueId": "sk_4d6c0e475b82"
+  }
+}

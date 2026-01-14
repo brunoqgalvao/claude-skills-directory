@@ -1,0 +1,37 @@
+{
+  "id": "gitignore-config",
+  "name": "gitignore-config",
+  "version": "1.0.0",
+  "summary": "Git ignore configuration patterns for MetaSaver monorepos. Includes 10 required pattern categories (dependencies, build outputs, environment files with security-critical .env an...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/config/version-control/gitignore-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T03:24:54.000Z",
+  "created_at": "2025-12-23T01:28:59.388Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fconfig%2Fversion-control%2Fgitignore-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_36ff708179f4"
+  }
+}

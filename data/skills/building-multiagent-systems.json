@@ -1,0 +1,37 @@
+{
+  "id": "building-multiagent-systems",
+  "name": "building-multiagent-systems",
+  "version": "1.0.0",
+  "summary": "Use when designing or implementing systems with orchestrators, sub-agents, and tool coordination - guides through architecture patterns, coordination mechanisms, and production-...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "2389-research",
+    "github": "2389-research"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/2389-research/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/2389-research/claude-plugins/main/building-multiagent-systems/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:58.347Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/2389-research%2Fclaude-plugins/building-multiagent-systems%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_0ab3ed48958a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "code-search-selector",
+  "name": "code-search-selector",
+  "version": "1.0.0",
+  "summary": "⚡ AUTO-INVOKE when user asks: 'audit', 'investigate', 'how does X work', 'find all', 'where is', 'trace', 'understand', 'map the codebase', 'comprehensive'. MUST run BEFORE Read...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claude-code/main/plugins/code-analysis/skills/code-search-selector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.483Z",
+  "created_at": "2025-12-23T01:29:40.829Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaude-code/plugins%2Fcode-analysis%2Fskills%2Fcode-search-selector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.483Z",
+    "uniqueId": "sk_a9b882e3f20b"
+  }
+}

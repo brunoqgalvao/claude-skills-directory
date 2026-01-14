@@ -1,0 +1,36 @@
+{
+  "id": "data-seeding",
+  "name": "data-seeding",
+  "version": "1.0.0",
+  "summary": "Create database seed scripts with realistic test data for development and testing. Use when setting up development environment or creating demo data.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PrasadTelasula",
+    "github": "PrasadTelasula"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PrasadTelasula/EvokeQOne",
+    "skill_md": "https://raw.githubusercontent.com/PrasadTelasula/EvokeQOne/main/.claude/skills/data-seeding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.605Z",
+  "created_at": "2025-12-23T00:03:42.173Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PrasadTelasula%2FEvokeQOne/.claude%2Fskills%2Fdata-seeding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.605Z",
+    "uniqueId": "sk_b51d0898dc20"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rails-state-machines",
+  "name": "rails-state-machines",
+  "version": "1.0.0",
+  "summary": "Implement state machines for managing complex workflows and state transitions. Use when models have distinct states with defined transitions, business rules for state changes, o...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nekorush14",
+    "github": "nekorush14"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nekorush14/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nekorush14/dotfiles/main/configs/claude/skills/rails-state-machines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:27.436Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nekorush14%2Fdotfiles/configs%2Fclaude%2Fskills%2Frails-state-machines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_f33d5cf7b31b"
+  }
+}

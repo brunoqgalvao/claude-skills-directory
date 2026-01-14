@@ -1,0 +1,36 @@
+{
+  "id": "gemini-cli-integration",
+  "name": "gemini-cli-integration",
+  "version": "1.0.0",
+  "summary": "Use the gemini-cli-integration skill PROACTIVELY when analyzing large codebases, multiple files, or directories. Leverages Google Gemini's massive context window with @ syntax f...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Whamp",
+    "github": "Whamp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Whamp/whamp-claude-tools",
+    "skill_md": "https://raw.githubusercontent.com/Whamp/whamp-claude-tools/main/gemini-cli-plugin/skills/gemini-cli-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:57:08.647Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Whamp%2Fwhamp-claude-tools/gemini-cli-plugin%2Fskills%2Fgemini-cli-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_2fde18f04878"
+  }
+}

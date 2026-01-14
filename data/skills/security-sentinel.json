@@ -1,0 +1,37 @@
+{
+  "id": "security-sentinel",
+  "name": "security-sentinel",
+  "version": "1.0.0",
+  "summary": "Use when working with authentication, API routes, user input, or sensitive data. Audits code for security vulnerabilities based on OWASP Top 10. Critical for payment processing,...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Barnhardt-Enterprises-Inc",
+    "github": "Barnhardt-Enterprises-Inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Barnhardt-Enterprises-Inc/quetrex-plugin",
+    "skill_md": "https://raw.githubusercontent.com/Barnhardt-Enterprises-Inc/quetrex-plugin/main/templates/skills/security-sentinel/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:56.734Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Barnhardt-Enterprises-Inc%2Fquetrex-plugin/templates%2Fskills%2Fsecurity-sentinel%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_1e15ed10d291"
+  }
+}

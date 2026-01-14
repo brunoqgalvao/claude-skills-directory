@@ -1,0 +1,35 @@
+{
+  "id": "analyzing-tam",
+  "name": "analyzing-tam",
+  "version": "1.0.0",
+  "summary": "Calculates Total Addressable Market (TAM), Serviceable Addressable Market (SAM), and Serviceable Obtainable Market (SOM) using multiple methodologies including top-down, bottom-...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jesseotremblay",
+    "github": "jesseotremblay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jesseotremblay/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jesseotremblay/claude-skills/main/tam-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.171Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jesseotremblay%2Fclaude-skills/tam-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_1d7e22d326f5"
+  }
+}

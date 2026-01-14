@@ -1,0 +1,36 @@
+{
+  "id": "expo-build-deploy",
+  "name": "expo-build-deploy",
+  "version": "1.0.0",
+  "summary": "Building and deploying Expo React Native apps to iOS. Use when configuring EAS Build, submitting to TestFlight, App Store deployment, managing certificates, or troubleshooting b...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CJHarmath",
+    "github": "CJHarmath"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CJHarmath/claude-agents-skills",
+    "skill_md": "https://raw.githubusercontent.com/CJHarmath/claude-agents-skills/main/skills/expo-build-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:13.879Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CJHarmath%2Fclaude-agents-skills/skills%2Fexpo-build-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_fbb80059b0d3"
+  }
+}

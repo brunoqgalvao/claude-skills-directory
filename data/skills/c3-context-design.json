@@ -1,0 +1,35 @@
+{
+  "id": "c3-context-design",
+  "name": "c3-context-design",
+  "version": "1.0.0",
+  "summary": "Use when exploring Context level impact during scoping - system boundaries, actors, cross-container interactions, and high-level concerns",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lagz0ne",
+    "github": "lagz0ne"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lagz0ne/c3-skill",
+    "skill_md": "https://raw.githubusercontent.com/lagz0ne/c3-skill/main/skills/c3-context-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:20.855Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lagz0ne%2Fc3-skill/skills%2Fc3-context-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_9b672071aafc"
+  }
+}

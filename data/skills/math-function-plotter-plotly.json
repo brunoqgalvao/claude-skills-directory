@@ -1,0 +1,36 @@
+{
+  "id": "math-function-plotter-plotly",
+  "name": "math-function-plotter-plotly",
+  "version": "1.0.0",
+  "summary": "This skill generates interactive mathematical function plots using Plotly.js for iframe embedding in intelligent textbooks. Creates visualizations with hover tooltips, interacti...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vishalsachdev",
+    "github": "vishalsachdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vishalsachdev/database-management",
+    "skill_md": "https://raw.githubusercontent.com/vishalsachdev/database-management/main/.claude-skills/skills/math-function-plotter-plotly/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T23:07:23.991Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vishalsachdev%2Fdatabase-management/.claude-skills%2Fskills%2Fmath-function-plotter-plotly%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_2f9d8dfaf085"
+  }
+}

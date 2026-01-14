@@ -1,0 +1,35 @@
+{
+  "id": "gh-reply-review-comment",
+  "name": "gh-reply-review-comment",
+  "version": "1.0.0",
+  "summary": "Reply to PR review comments using the correct GitHub API endpoint. Use when responding to inline code review feedback (not gh pr comment).",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/gh-reply-review-comment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.858Z",
+  "created_at": "2025-12-22T15:11:19.184Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Fgh-reply-review-comment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_de1dc4709852"
+  }
+}

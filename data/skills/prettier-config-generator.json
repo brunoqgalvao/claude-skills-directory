@@ -1,0 +1,35 @@
+{
+  "id": "prettier-config-generator",
+  "name": "prettier-config-generator",
+  "version": "1.0.0",
+  "summary": "Generate Prettier configuration files for consistent code formatting across JavaScript, TypeScript, CSS, and other file types. Triggers on \"create prettier config\", \"generate pr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/prettier-config-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:51:48.981Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/prettier-config-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_cae5245e0569"
+  }
+}

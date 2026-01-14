@@ -1,0 +1,35 @@
+{
+  "id": "database-migrations",
+  "name": "database-migrations",
+  "version": "1.0.0",
+  "summary": "Create, manage, and apply database migrations using Doctrine ODM for MongoDB. Use when modifying entities, adding fields, managing database schema changes, creating repositories...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "VilnaCRM-Org",
+    "github": "VilnaCRM-Org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/VilnaCRM-Org/core-service",
+    "skill_md": "https://raw.githubusercontent.com/VilnaCRM-Org/core-service/main/.claude/skills/database-migrations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:41.351Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/VilnaCRM-Org%2Fcore-service/.claude%2Fskills%2Fdatabase-migrations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_13261e8a2777"
+  }
+}

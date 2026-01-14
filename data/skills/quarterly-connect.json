@@ -1,0 +1,37 @@
+{
+  "id": "quarterly-connect",
+  "name": "quarterly-connect",
+  "version": "1.0.0",
+  "summary": "Assist users in creating quarterly connects that act as a strategic partner to guide employees through comprehensive quarterly reflections, helping craft insightful narratives f...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "toddward",
+    "github": "toddward"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/toddward/claude-skills-playground",
+    "skill_md": "https://raw.githubusercontent.com/toddward/claude-skills-playground/main/quarterly-connect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:19:20.139Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/toddward%2Fclaude-skills-playground/quarterly-connect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_e51904d50d2d"
+  }
+}

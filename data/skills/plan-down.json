@@ -1,0 +1,35 @@
+{
+  "id": "plan-down",
+  "name": "plan-down",
+  "version": "1.0.0",
+  "summary": "Method clarity-driven planning workflow using zen-mcp tools (chat, planner, consensus). Phase 0 uses chat to judge if user provides clear implementation method. Four execution p...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "VCnoC",
+    "github": "VCnoC"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work",
+    "skill_md": "https://raw.githubusercontent.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work/main/skills/plan-down/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.467Z",
+  "created_at": "2025-12-23T01:30:56.667Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/VCnoC%2FClaude-Code-Zen-mcp-Skill-Work/skills%2Fplan-down%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_0cedd1cf33e0"
+  }
+}

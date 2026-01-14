@@ -1,0 +1,37 @@
+{
+  "id": "agent-observability",
+  "name": "agent-observability",
+  "version": "1.0.0",
+  "summary": "Real-time observability dashboard for multi-agent Claude Code sessions.\n\nVisualize agent interactions, tool usage, and session flows in real-time through a web dashboard. Track ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "multicam",
+    "github": "multicam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/multicam/qara",
+    "skill_md": "https://raw.githubusercontent.com/multicam/qara/main/.claude/skills/agent-observability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.788Z",
+  "created_at": "2025-12-22T19:01:20.257Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/multicam%2Fqara/.claude%2Fskills%2Fagent-observability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_6bdb538e3329"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "client-state-management",
+  "name": "client-state-management",
+  "version": "1.0.0",
+  "summary": "Guide for implementing client-side state management in React applications. Use when building state architecture, selecting state libraries (Context, Zustand, Redux, Jotai), impl...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MUmerRazzaq",
+    "github": "MUmerRazzaq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MUmerRazzaq/fast-next-todo",
+    "skill_md": "https://raw.githubusercontent.com/MUmerRazzaq/fast-next-todo/main/.claude/skills/client-state-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T02:09:48.000Z",
+  "created_at": "2025-12-23T01:28:46.873Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MUmerRazzaq%2Ffast-next-todo/.claude%2Fskills%2Fclient-state-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_944b9a3a8db1"
+  }
+}

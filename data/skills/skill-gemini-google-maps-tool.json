@@ -1,0 +1,35 @@
+{
+  "id": "skill-gemini-google-maps-tool",
+  "name": "skill-gemini-google-maps-tool",
+  "version": "1.0.0",
+  "summary": "Query Gemini with Google Maps grounding",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dnvriend",
+    "github": "dnvriend"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dnvriend/gemini-google-maps-tool",
+    "skill_md": "https://raw.githubusercontent.com/dnvriend/gemini-google-maps-tool/main/plugins/gemini-google-maps-tool/skills/gemini-google-maps-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.689Z",
+  "created_at": "2025-12-22T22:07:15.077Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dnvriend%2Fgemini-google-maps-tool/plugins%2Fgemini-google-maps-tool%2Fskills%2Fgemini-google-maps-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.689Z",
+    "uniqueId": "sk_0c69c1bebe46"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rate-limiting-apis",
+  "name": "rate-limiting-apis",
+  "version": "1.0.0",
+  "summary": "Implement sophisticated rate limiting with sliding windows, token buckets, and quotas.\nUse when protecting APIs from excessive requests.\nTrigger with phrases like \"add rate limi...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/api-development/api-rate-limiter/skills/api-rate-limiter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T17:56:19.783Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fapi-development%2Fapi-rate-limiter%2Fskills%2Fapi-rate-limiter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_76c260455b49"
+  }
+}

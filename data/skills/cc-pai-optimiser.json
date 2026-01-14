@@ -1,0 +1,35 @@
+{
+  "id": "cc-pai-optimiser",
+  "name": "cc-pai-optimiser",
+  "version": "1.0.0",
+  "summary": "Review and optimize PAI (Personal AI Infrastructure) codebases as Claude Code evolves. Use when analyzing PAI repositories against 12-factor agent principles, checking for Claud...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "multicam",
+    "github": "multicam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/multicam/qara",
+    "skill_md": "https://raw.githubusercontent.com/multicam/qara/main/.claude/skills/cc-pai-optimiser/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.533Z",
+  "created_at": "2025-12-23T01:28:58.694Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/multicam%2Fqara/.claude%2Fskills%2Fcc-pai-optimiser%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.533Z",
+    "uniqueId": "sk_a7dd5a882bea"
+  }
+}

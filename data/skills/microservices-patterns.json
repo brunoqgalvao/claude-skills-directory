@@ -1,0 +1,37 @@
+{
+  "id": "microservices-patterns",
+  "name": "microservices-patterns",
+  "version": "1.0.0",
+  "summary": "Design microservices architectures with service boundaries, event-driven communication, and resilience patterns. Use when building distributed systems, decomposing monoliths, or...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HermeticOrmus",
+    "github": "HermeticOrmus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HermeticOrmus/after-the-third-cup",
+    "skill_md": "https://raw.githubusercontent.com/HermeticOrmus/after-the-third-cup/main/plugins/backend-development/skills/microservices-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:07.829Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HermeticOrmus%2Fafter-the-third-cup/plugins%2Fbackend-development%2Fskills%2Fmicroservices-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_2ef4be86789e"
+  }
+}

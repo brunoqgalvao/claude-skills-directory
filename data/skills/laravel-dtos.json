@@ -1,0 +1,36 @@
+{
+  "id": "laravel-dtos",
+  "name": "laravel-dtos",
+  "version": "1.0.0",
+  "summary": "Data Transfer Objects using Spatie Laravel Data. Use when handling data transfer, API requests/responses, or when user mentions DTOs, data objects, Spatie Data, formatters, tran...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-laravel",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-laravel/main/skills/laravel-dtos/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.573Z",
+  "created_at": "2025-12-23T01:28:28.268Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-laravel/skills%2Flaravel-dtos%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_1b8ce68481f4"
+  }
+}

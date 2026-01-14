@@ -1,0 +1,36 @@
+{
+  "id": "lint-fixer",
+  "name": "lint-fixer",
+  "version": "1.0.0",
+  "summary": "Use this skill to run npm run lint and fix linting issues. Triggers on fixing lint errors after code changes or validating code against project style guidelines.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yamadashy",
+    "github": "yamadashy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yamadashy/repomix",
+    "skill_md": "https://raw.githubusercontent.com/yamadashy/repomix/main/.claude/skills/lint-fixer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.576Z",
+  "created_at": "2025-12-23T01:28:24.451Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yamadashy%2Frepomix/.claude%2Fskills%2Flint-fixer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.576Z",
+    "uniqueId": "sk_9570b79cb78c"
+  }
+}

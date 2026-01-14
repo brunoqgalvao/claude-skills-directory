@@ -1,0 +1,35 @@
+{
+  "id": "aws-discover",
+  "name": "aws-discover",
+  "version": "1.0.0",
+  "summary": "Discover AWS infrastructure and save to JSON. Use when user asks to \"discover AWS\", \"explore AWS account\", \"scan AWS infrastructure\", or \"create infrastructure JSON\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpuig",
+    "github": "mpuig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpuig/claude-cloud-diagrams",
+    "skill_md": "https://raw.githubusercontent.com/mpuig/claude-cloud-diagrams/main/skills/aws-discover/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:13:08.130Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpuig%2Fclaude-cloud-diagrams/skills%2Faws-discover%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_6889fe05f02c"
+  }
+}

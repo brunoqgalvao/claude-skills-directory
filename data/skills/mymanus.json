@@ -1,0 +1,35 @@
+{
+  "id": "mymanus",
+  "name": "mymanus",
+  "version": "1.0.0",
+  "summary": "Autonomous agent for complex multi-step tasks with structured planning, execution, and research capabilities",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "emsi",
+    "github": "emsi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/emsi/MyManus",
+    "skill_md": "https://raw.githubusercontent.com/emsi/MyManus/main/mymanus-plugin/skills/mymanus/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T16:57:28.000Z",
+  "created_at": "2025-12-22T22:07:30.273Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/emsi%2FMyManus/mymanus-plugin%2Fskills%2Fmymanus%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.688Z",
+    "uniqueId": "sk_52efdd8642a2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "openq-tools",
+  "name": "openq-tools",
+  "version": "1.0.0",
+  "summary": "Open questions register. Use for: QID generation, OQ-SIG-001 format IDs, append questions, open_questions.md. Generate sequential QIDs, append questions with context. Use in cla...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EffortlessMetrics",
+    "github": "EffortlessMetrics"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EffortlessMetrics/demo-swarm",
+    "skill_md": "https://raw.githubusercontent.com/EffortlessMetrics/demo-swarm/main/.claude/skills/openq-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:58:20.445Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EffortlessMetrics%2Fdemo-swarm/.claude%2Fskills%2Fopenq-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_ce1bff09cd6e"
+  }
+}

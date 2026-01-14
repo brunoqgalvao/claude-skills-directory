@@ -1,0 +1,35 @@
+{
+  "id": "initializing-memory",
+  "name": "initializing-memory",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for initializing or reorganizing agent memory. Load this skill when running /init, when the user asks you to set up your memory, or when you need guidance on...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "letta-ai",
+    "github": "letta-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/letta-ai/letta-code",
+    "skill_md": "https://raw.githubusercontent.com/letta-ai/letta-code/main/src/skills/builtin/initializing-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:41.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/letta-ai%2Fletta-code/src%2Fskills%2Fbuiltin%2Finitializing-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_675323640ac7"
+  }
+}

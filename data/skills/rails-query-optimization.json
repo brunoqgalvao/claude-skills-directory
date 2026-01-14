@@ -1,0 +1,35 @@
+{
+  "id": "rails-query-optimization",
+  "name": "rails-query-optimization",
+  "version": "1.0.0",
+  "summary": "Optimize ActiveRecord queries to prevent N+1 queries and improve performance. Use when experiencing slow queries, optimizing database access, or implementing eager loading strat...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nekorush14",
+    "github": "nekorush14"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nekorush14/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nekorush14/dotfiles/main/configs/claude/skills/rails-query-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:04.806Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nekorush14%2Fdotfiles/configs%2Fclaude%2Fskills%2Frails-query-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_eb232343467e"
+  }
+}

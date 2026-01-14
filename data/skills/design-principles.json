@@ -1,0 +1,36 @@
+{
+  "id": "design-principles",
+  "name": "design-principles",
+  "version": "1.0.0",
+  "summary": "Code design patterns including pure functions, immutability, composition, single responsibility, and async patterns. Use when designing code structure, writing functions, or dis...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eser",
+    "github": "eser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eser/stack",
+    "skill_md": "https://raw.githubusercontent.com/eser/stack/main/.claude/skills/design-principles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:52:22.359Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eser%2Fstack/.claude%2Fskills%2Fdesign-principles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_fbfaff0c9ed0"
+  }
+}

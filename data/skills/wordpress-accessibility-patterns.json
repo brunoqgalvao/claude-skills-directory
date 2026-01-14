@@ -1,0 +1,36 @@
+{
+  "id": "wordpress-accessibility-patterns",
+  "name": "wordpress-accessibility-patterns",
+  "version": "1.0.0",
+  "summary": "WordPress accessibility (a11y) patterns and WCAG 2.1 compliance guidelines. Use when reviewing WordPress themes, templates, forms, or interactive elements for accessibility, imp...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattcowan",
+    "github": "mattcowan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattcowan/claude-wordpress-utilities",
+    "skill_md": "https://raw.githubusercontent.com/mattcowan/claude-wordpress-utilities/main/skills/wordpress-accessibility-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.627Z",
+  "created_at": "2025-12-22T23:16:03.846Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattcowan%2Fclaude-wordpress-utilities/skills%2Fwordpress-accessibility-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.627Z",
+    "uniqueId": "sk_6ab1abb6ec35"
+  }
+}

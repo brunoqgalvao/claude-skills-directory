@@ -1,0 +1,35 @@
+{
+  "id": "output-configurator",
+  "name": "output-configurator",
+  "version": "1.0.0",
+  "summary": "Use this skill when users need help configuring outputs to route telemetry to SIEMs, data lakes, or other destinations.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tekgrunt",
+    "github": "tekgrunt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tekgrunt/boot-test",
+    "skill_md": "https://raw.githubusercontent.com/tekgrunt/boot-test/main/.claude-plugin/plugins/limacharlie-skills/skills/output-configurator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.607Z",
+  "created_at": "2025-12-23T00:01:30.484Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tekgrunt%2Fboot-test/.claude-plugin%2Fplugins%2Flimacharlie-skills%2Fskills%2Foutput-configurator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.607Z",
+    "uniqueId": "sk_9af2775f4366"
+  }
+}

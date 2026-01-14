@@ -1,0 +1,35 @@
+{
+  "id": "ln-222-story-creator",
+  "name": "ln-222-story-creator",
+  "version": "1.0.0",
+  "summary": "Creates Stories from IDEAL plan (CREATE) or appends user-requested Stories (ADD). Generates 8-section documents, validates INVEST, creates in Linear. Invoked by ln-220.",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-222-story-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T20:42:12.000Z",
+  "created_at": "2025-12-22T19:30:41.544Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-222-story-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_2d7eca70d1d4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "complexity-estimation",
+  "name": "complexity-estimation",
+  "version": "1.0.0",
+  "summary": "Framework for estimating task complexity using T-shirt sizing. Provides scoring criteria, risk factors, and guidance on when spikes/POCs are needed. Use at the start of features...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zate",
+    "github": "Zate"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zate/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/Zate/cc-plugins/main/plugins/devloop/skills/complexity-estimation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:50.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zate%2Fcc-plugins/plugins%2Fdevloop%2Fskills%2Fcomplexity-estimation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_bcbd4c7fec53"
+  }
+}

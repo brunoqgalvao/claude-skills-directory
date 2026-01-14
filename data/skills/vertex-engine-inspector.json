@@ -1,0 +1,36 @@
+{
+  "id": "vertex-engine-inspector",
+  "name": "vertex-engine-inspector",
+  "version": "1.0.0",
+  "summary": "Inspect and validate Vertex AI Agent Engine deployments including Code Execution Sandbox, Memory Bank, A2A protocol compliance, and security posture. Generates production readin...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/ai-ml/jeremy-vertex-engine/skills/vertex-engine-inspector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-23T01:29:27.252Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Fai-ml%2Fjeremy-vertex-engine%2Fskills%2Fvertex-engine-inspector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_a9dab1796c06"
+  }
+}

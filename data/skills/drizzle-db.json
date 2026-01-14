@@ -1,0 +1,37 @@
+{
+  "id": "drizzle-db",
+  "name": "drizzle-db",
+  "version": "1.0.0",
+  "summary": "Query the project's database using Drizzle ORM. Use when the user asks about database contents, schema inspection, or data queries. Supports read-only mode for safety.",
+  "verticals": [
+    "marketing",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Fawwaz-2009",
+    "github": "Fawwaz-2009"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Fawwaz-2009/tally",
+    "skill_md": "https://raw.githubusercontent.com/Fawwaz-2009/tally/main/.claude/skills/drizzle-db/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:36.715Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Fawwaz-2009%2Ftally/.claude%2Fskills%2Fdrizzle-db%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_ec029a4bbf2a"
+  }
+}

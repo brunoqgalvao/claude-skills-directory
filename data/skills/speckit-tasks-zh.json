@@ -1,0 +1,36 @@
+{
+  "id": "speckit-tasks-zh",
+  "name": "speckit-tasks-zh",
+  "version": "1.0.0",
+  "summary": "基于speckit工作流的任务生成技能，用于根据可用设计文档生成可操作的、依赖有序的tasks.md。当需要基于spec.md、plan.md、data-model.md、contracts/等设计文档为功能开发生成详细任务列表时使用此技能。触发词包括\"speckit tasks\"、\"生成任务\"、\"任务规划\"、\"功能任务分解\"、\"创建tasks.md\"等。",
+  "verticals": [
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "forztf",
+    "github": "forztf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/forztf/open-skilled-sdd",
+    "skill_md": "https://raw.githubusercontent.com/forztf/open-skilled-sdd/main/skills/speckit-tasks-zh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:13:27.400Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/forztf%2Fopen-skilled-sdd/skills%2Fspeckit-tasks-zh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_aeaff28914a1"
+  }
+}

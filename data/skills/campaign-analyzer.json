@@ -1,0 +1,36 @@
+{
+  "id": "campaign-analyzer",
+  "name": "campaign-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyze processed D&D sessions to extract and summarize campaign knowledge including NPCs, locations, quests, items, and factions. Use when the user wants to review campaign con...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Gambitnl",
+    "github": "Gambitnl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Gambitnl/Video_chunking",
+    "skill_md": "https://raw.githubusercontent.com/Gambitnl/Video_chunking/main/.claude/skills/campaign-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T19:00:24.594Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Gambitnl%2FVideo_chunking/.claude%2Fskills%2Fcampaign-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_5fa19d7d972f"
+  }
+}

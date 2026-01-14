@@ -1,0 +1,36 @@
+{
+  "id": "e2e-test-design",
+  "name": "e2e-test-design",
+  "version": "1.0.0",
+  "summary": "Design E2E tests following user-story-driven patterns with verification checkpoints. Use when creating end-to-end tests, validating complete user journeys, or designing Playwrig...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/e2e-test-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:13.411Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Fe2e-test-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_1695e137d8a8"
+  }
+}

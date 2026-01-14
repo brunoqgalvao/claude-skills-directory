@@ -1,0 +1,37 @@
+{
+  "id": "prerequisite-validator",
+  "name": "prerequisite-validator",
+  "version": "1.0.0",
+  "summary": "Automatically validates Treasure Data environment and prerequisites before CDP workflow creation. Checks database connectivity, table existence, schema validation, and credentia...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "treasure-data",
+    "github": "treasure-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/treasure-data/aps_claude_tools",
+    "skill_md": "https://raw.githubusercontent.com/treasure-data/aps_claude_tools/main/.claude/skills/prerequisite-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:10:51.282Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/treasure-data%2Faps_claude_tools/.claude%2Fskills%2Fprerequisite-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_a7a7b98c6c1c"
+  }
+}

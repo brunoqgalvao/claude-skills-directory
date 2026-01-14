@@ -1,0 +1,35 @@
+{
+  "id": "create-improvement-issue",
+  "name": "create-improvement-issue",
+  "version": "1.0.0",
+  "summary": "개선 이슈 생성. Use when (1) \"개선 이슈 만들어줘\", (2) \"리팩토링 이슈 생성\",\n(3) \"기술 부채 이슈 등록\". docs 레포에 개선 이슈를 생성.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/ops/improve/skills/create-improvement-issue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:45.810Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fops%2Fimprove%2Fskills%2Fcreate-improvement-issue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_a486df8e8eb7"
+  }
+}

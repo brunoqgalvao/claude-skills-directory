@@ -1,0 +1,35 @@
+{
+  "id": "cloud-native-checklist",
+  "name": "cloud-native-checklist",
+  "version": "1.0.0",
+  "summary": "Generate CNCF/12-Factor compliance checklists and ADRs for cloud-native applications. Use when reviewing application architecture, planning containerization, or documenting clou...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cameronsjo",
+    "github": "cameronsjo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cameronsjo/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/cameronsjo/claude-marketplace/main/plugins/cloud/skills/cloud-native-checklist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:14:05.301Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cameronsjo%2Fclaude-marketplace/plugins%2Fcloud%2Fskills%2Fcloud-native-checklist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_a66d749362f5"
+  }
+}

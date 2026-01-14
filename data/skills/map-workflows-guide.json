@@ -1,0 +1,36 @@
+{
+  "id": "map-workflows-guide",
+  "name": "map-workflows-guide",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for choosing the right MAP workflow based on task type and requirements",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "azalio",
+    "github": "azalio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/azalio/map-framework",
+    "skill_md": "https://raw.githubusercontent.com/azalio/map-framework/main/src/mapify_cli/templates/skills/map-workflows-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.630Z",
+  "created_at": "2025-12-22T23:13:57.874Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/azalio%2Fmap-framework/src%2Fmapify_cli%2Ftemplates%2Fskills%2Fmap-workflows-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.630Z",
+    "uniqueId": "sk_8f0cf3593b9a"
+  }
+}

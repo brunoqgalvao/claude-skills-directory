@@ -1,0 +1,35 @@
+{
+  "id": "plan-pr",
+  "name": "plan-pr",
+  "version": "1.0.0",
+  "summary": "プルリクエストのレビューコメントを確認し、対応用のタスクファイル作成をサポートします。githubスキルを使用してレビューコメントを取得し、Claude Codeがその情報を元にtmp/todoフォルダにタスクファイルを作成します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canpok1",
+    "github": "canpok1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canpok1/ai-feed",
+    "skill_md": "https://raw.githubusercontent.com/canpok1/ai-feed/main/.claude/skills/plan-pr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.550Z",
+  "created_at": "2025-12-23T01:28:49.623Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canpok1%2Fai-feed/.claude%2Fskills%2Fplan-pr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_ae99a31e836a"
+  }
+}

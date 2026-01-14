@@ -1,0 +1,37 @@
+{
+  "id": "spec-architect",
+  "name": "spec-architect",
+  "version": "1.0.0",
+  "summary": "Coordinate multi-agent software development from requirements through verified implementation using spec-driven workflows. Use when planning features, creating technical specifi...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codethread",
+    "github": "codethread"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codethread/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/codethread/claude-code-plugins/main/plugins/spec-dev/skills/spec-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:49.842Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codethread%2Fclaude-code-plugins/plugins%2Fspec-dev%2Fskills%2Fspec-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_91e8c115c734"
+  }
+}

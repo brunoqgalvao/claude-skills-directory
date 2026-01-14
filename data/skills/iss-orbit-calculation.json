@@ -1,0 +1,35 @@
+{
+  "id": "iss-orbit-calculation",
+  "name": "iss-orbit-calculation",
+  "version": "1.0.0",
+  "summary": "Calculate ISS orbital positions, propagate TLEs, and validate satellite tracking accuracy. Use when working with satellite.js, TLE data, orbital mechanics, position calculations...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maheshbabugorantla",
+    "github": "maheshbabugorantla"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maheshbabugorantla/live-iss-tracker",
+    "skill_md": "https://raw.githubusercontent.com/maheshbabugorantla/live-iss-tracker/main/.claude/skills/iss-orbit-calculation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.621Z",
+  "created_at": "2025-12-22T23:19:22.226Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maheshbabugorantla%2Flive-iss-tracker/.claude%2Fskills%2Fiss-orbit-calculation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.621Z",
+    "uniqueId": "sk_62e444713d2d"
+  }
+}

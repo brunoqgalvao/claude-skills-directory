@@ -1,0 +1,35 @@
+{
+  "id": "auth-personalization",
+  "name": "auth-personalization",
+  "version": "1.0.0",
+  "summary": "Add Better Auth signup/signin, personalize chapter content, and persist user preferences. Use when implementing authentication, user sessions, or personalized content delivery.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maneeshanif",
+    "github": "maneeshanif"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maneeshanif/Textbook_hackhathon",
+    "skill_md": "https://raw.githubusercontent.com/maneeshanif/Textbook_hackhathon/main/.claude/skills/auth-personalization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T10:50:16.000Z",
+  "created_at": "2025-12-23T01:28:34.546Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maneeshanif%2FTextbook_hackhathon/.claude%2Fskills%2Fauth-personalization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_efc8640b0da5"
+  }
+}

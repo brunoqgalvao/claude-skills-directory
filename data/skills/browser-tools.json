@@ -1,0 +1,37 @@
+{
+  "id": "browser-tools",
+  "name": "browser-tools",
+  "version": "1.0.0",
+  "summary": "Interactive browser automation via Chrome DevTools Protocol. Use when you need to interact with web pages, test frontends, or when user interaction with a visible browser is req...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "badlogic",
+    "github": "badlogic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/badlogic/pi-skills",
+    "skill_md": "https://raw.githubusercontent.com/badlogic/pi-skills/main/browser-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:42.544Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/badlogic%2Fpi-skills/browser-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_9786d335fd3d"
+  }
+}

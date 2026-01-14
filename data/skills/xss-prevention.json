@@ -1,0 +1,36 @@
+{
+  "id": "xss-prevention",
+  "name": "xss-prevention",
+  "version": "1.0.0",
+  "summary": "Prevent Cross-Site Scripting (XSS) attacks through input sanitization, output encoding, and Content Security Policy. Use when handling user-generated content in web applications.",
+  "verticals": [
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/xss-prevention/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:32.180Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fxss-prevention%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_55c2aa037d9d"
+  }
+}

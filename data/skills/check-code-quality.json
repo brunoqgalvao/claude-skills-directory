@@ -1,0 +1,35 @@
+{
+  "id": "check-code-quality",
+  "name": "check-code-quality",
+  "version": "1.0.0",
+  "summary": "Run comprehensive Rust code quality checks including compilation, linting, documentation, and tests. Use after completing code changes and before creating commits.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "r3bl-org",
+    "github": "r3bl-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/r3bl-org/r3bl-open-core",
+    "skill_md": "https://raw.githubusercontent.com/r3bl-org/r3bl-open-core/main/.claude/skills/check-code-quality/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:42.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/r3bl-org%2Fr3bl-open-core/.claude%2Fskills%2Fcheck-code-quality%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_5be336ab2aa4"
+  }
+}

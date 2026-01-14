@@ -1,0 +1,35 @@
+{
+  "id": "skill-sync",
+  "name": "skill-sync",
+  "version": "1.0.0",
+  "summary": "Syncs Claude Skills with other AI coding tools like Cursor, Copilot, and Codeium by creating cross-references and shared knowledge bases. Invoke when user wants to leverage skil...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KyleKing",
+    "github": "KyleKing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KyleKing/vcr-tui",
+    "skill_md": "https://raw.githubusercontent.com/KyleKing/vcr-tui/main/.claude/skills/skill-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:27.172Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KyleKing%2Fvcr-tui/.claude%2Fskills%2Fskill-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_2ea9ee450caa"
+  }
+}

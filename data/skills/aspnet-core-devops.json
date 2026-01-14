@@ -1,0 +1,37 @@
+{
+  "id": "aspnet-core-devops",
+  "name": "aspnet-core-devops",
+  "version": "1.0.0",
+  "summary": "Master ASP.NET Core deployment, Docker, Azure cloud, CI/CD pipelines, and production infrastructure for enterprise applications.",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-aspnet-core",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-aspnet-core/main/skills/aspnet-core-devops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:33.125Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-aspnet-core/skills%2Faspnet-core-devops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_a5103b12bc4e"
+  }
+}

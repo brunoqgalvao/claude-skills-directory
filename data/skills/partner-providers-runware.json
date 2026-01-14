@@ -1,0 +1,35 @@
+{
+  "id": "partner-providers-runware",
+  "name": "partner-providers-runware",
+  "version": "1.0.0",
+  "summary": "Discover new Runware AI models from documentation and implement providers.\nUse when: checking for new Runware models, implementing Runware providers,\nupdating providers.md statu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "imgly",
+    "github": "imgly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/imgly/plugins",
+    "skill_md": "https://raw.githubusercontent.com/imgly/plugins/main/.claude/skills/partner-providers-runware/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T11:53:12.000Z",
+  "created_at": "2025-12-22T18:56:50.141Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/imgly%2Fplugins/.claude%2Fskills%2Fpartner-providers-runware%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_1ea404539a21"
+  }
+}

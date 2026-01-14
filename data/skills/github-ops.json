@@ -1,0 +1,37 @@
+{
+  "id": "github-ops",
+  "name": "github-ops",
+  "version": "1.0.0",
+  "summary": "Provides comprehensive GitHub operations using gh CLI and GitHub API. Activates when working with pull requests, issues, repositories, workflows, or GitHub API operations includ...",
+  "description": "# GitHub Operations\n\n## Overview\n\nThis skill provides comprehensive guidance for GitHub operations using the `gh` CLI tool and GitHub REST/GraphQL APIs. Use this skill when performing any GitHub-related tasks including pull request management, issue tracking, repository operations, workflow automation, and API interactions.\n\n## When to Use This Skill\n\nThis skill activates for tasks involving:\n- Creating, viewing, editing, or merging pull requests\n- Managing GitHub issues or repository settings\n- Querying GitHub API endpoints (REST or GraphQL)\n- Working with GitHub Actions workflows\n- Performing bulk operations on repositories\n- Integrating with GitHub Enterprise\n- Automating GitHub operations via CLI or API\n\n## Core Operations\n\n### Pull Requests\n\n```bash\n# Create PR with NOJIRA prefix (bypasses JIRA enforcement checks)\ngh pr create --title \"NOJIRA: Your PR title\" --body \"PR description\"\n\n# List and view PRs\ngh pr list --state open\ngh pr view 123\n\n# Manage PRs\ngh pr merge 123 --squash\ngh pr review 123 --approve\ngh pr comment 123 --body \"LGTM\"\n```\n\n📚 See `references/pr_operations.md` for comprehensive PR workflows\n\n**PR Title Convention:**\n- With JIRA ticket: `GR-1234: Descriptive title`\n- Without JIRA ticket: `NOJIRA: Descriptive title`\n\n### Issues\n\n```bash\n# Create and manage issues\ngh issue create --title \"Bug: Issue title\" --body \"Issue description\"\ngh issue list --state open --label bug\ngh issue edit 456 --add-label \"priority-high\"\ngh issue close 456\n```\n\n📚 See `references/issue_operations.md` for detailed issue management\n\n### Repositories\n\n```bash\n# View and manage repos\ngh repo view --web\ngh repo clone owner/repo\ngh repo create my-new-repo --public\n```\n\n### Workflows\n\n```bash\n# Manage GitHub Actions\ngh workflow list\ngh workflow run workflow-name\ngh run watch run-id\ngh run download run-id\n```\n\n📚 See `references/workflow_operations.md` for advanced workflow operations\n\n### GitHub API\n\nThe `gh api` command provides direct access to GitHub REST API endpoints. Refer to `references/api_reference.md` for comprehensive API endpoint documentation.\n\n**Basic API operations:**\n```bash\n# Get PR details via API\ngh api repos/{owner}/{repo}/pulls/{pr_number}\n\n# Add PR comment\ngh api repos/{owner}/{repo}/issues/{pr_number}/comments \\\n  -f body=\"Comment text\"\n\n# List workflow runs\ngh api repos/{owner}/{repo}/actions/runs\n```\n\nFor complex queries requiring multiple related resources, use GraphQL. See `references/api_reference.md` for GraphQL examples.\n\n## Authentication and Configuration\n\n```bash\n# Login to GitHub\ngh auth login\n\n# Login to GitHub Enterprise\ngh auth login --hostname github.enterprise.com\n\n# Check authentication status\ngh auth status\n\n# Set default repository\ngh repo set-default owner/repo\n\n# Configure gh settings\ngh config set editor vim\ngh config set git_protocol ssh\ngh config list\n```\n\n## Output Formats\n\nControl output format for programmatic processing:\n\n```bash\n# JSON output\ngh pr list --json number,title,state,author\n\n# JSON with jq processing\ngh pr list --json number,title | jq '.[] | select(.title | contains(\"bug\"))'\n\n# Template output\ngh pr list --template '{{range .}}{{.number}}: {{.title}}{{\"\\n\"}}{{end}}'\n```\n\n📚 See `references/best_practices.md` for shell patterns and automation strategies\n\n## Quick Reference\n\n**Most Common Operations:**\n```bash\ngh pr create --title \"NOJIRA: Title\" --body \"Description\"  # Create PR\ngh pr list                                                  # List PRs\ngh pr view 123                                              # View PR details\ngh pr checks 123                                            # Check PR status\ngh pr merge 123 --squash                                    # Merge PR\ngh pr comment 123 --body \"LGTM\"                            # Comment on PR\ngh issue create --title \"Title\" --body \"Description\"       # Create issue\ngh workflow run workflow-name                               # Run workflow\ngh repo view --web                                          # Open repo in browser\ngh api repos/{owner}/{repo}/pulls/{pr_number}              # Direct API call\n```\n\n## Resources\n\n### references/pr_operations.md\n\nComprehensive pull request operations including:\n- Detailed PR creation patterns (JIRA integration, body from file, targeting branches)\n- Viewing and filtering strategies\n- Review workflows and approval patterns\n- PR lifecycle management\n- Bulk operations and automation examples\n\nLoad this reference when working with complex PR workflows or bulk operations.\n\n### references/issue_operations.md\n\nDetailed issue management examples including:\n- Issue creation with labels and assignees\n- Advanced filtering and search\n- Issue lifecycle and state management\n- Bulk operations on multiple issues\n- Integration with PRs and projects\n\nLoad this reference when managing issues at scale or setting up issue workflows.\n\n### references/workflow_operations.md\n\nAdvanced GitHub Actions workflow operations including:\n- Workflow triggers and manual runs\n- Run monitoring and debugging\n- Artifact management\n- Secrets and variables\n- Performance optimization strategies\n\nLoad this reference when working with CI/CD workflows or debugging failed runs.\n\n### references/best_practices.md\n\nShell scripting patterns and automation strategies including:\n- Output formatting (JSON, templates, jq)\n- Pagination and large result sets\n- Error handling and retry logic\n- Bulk operations and parallel execution\n- Enterprise GitHub patterns\n- Performance optimization\n\nLoad this reference when building automation scripts or handling enterprise deployments.\n\n### references/api_reference.md\n\nContains comprehensive GitHub REST API endpoint documentation including:\n- Complete API endpoint reference with examples\n- Request/response formats\n- Authentication patterns\n- Rate limiting guidance\n- Webhook configurations\n- Advanced GraphQL query patterns\n\nLoad this reference when performing complex API operations or when needing detailed endpoint specifications.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daymade",
+    "github": "daymade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daymade/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/github-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 154,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:30:48Z",
+  "created_at": "2025-10-22T11:17:31Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/daymade/claude-code-skills/blob/main/github-ops/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_dc12feef7677"
+  }
+}

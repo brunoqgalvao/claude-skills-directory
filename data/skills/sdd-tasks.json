@@ -1,0 +1,37 @@
+{
+  "id": "sdd-tasks",
+  "name": "sdd-tasks",
+  "version": "1.0.0",
+  "summary": "Generate actionable, dependency-ordered task lists from implementation plans using\nSpecification-Driven Development (SDD) methodology. Use when creating executable\nwork breakdow...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aseesy",
+    "github": "aseesy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aseesy/DEMO",
+    "skill_md": "https://raw.githubusercontent.com/aseesy/DEMO/main/.claude/skills/sdd-workflow/sdd-tasks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.663Z",
+  "created_at": "2025-12-22T22:17:22.215Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aseesy%2FDEMO/.claude%2Fskills%2Fsdd-workflow%2Fsdd-tasks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.663Z",
+    "uniqueId": "sk_584cdaade242"
+  }
+}

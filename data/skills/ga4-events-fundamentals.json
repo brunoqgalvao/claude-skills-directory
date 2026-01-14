@@ -1,0 +1,35 @@
+{
+  "id": "ga4-events-fundamentals",
+  "name": "ga4-events-fundamentals",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide to GA4 event architecture including automatically collected events, enhanced measurement, recommended events, and custom events. Use when understanding GA4 e...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henkisdabro",
+    "github": "henkisdabro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henkisdabro/wookstar-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-code-plugins/main/ga-suite/skills/ga4-events-fundamentals/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:06.346Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henkisdabro%2Fwookstar-claude-code-plugins/ga-suite%2Fskills%2Fga4-events-fundamentals%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_e31d4f670a45"
+  }
+}

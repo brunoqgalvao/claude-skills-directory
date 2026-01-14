@@ -1,0 +1,36 @@
+{
+  "id": "flow-nexus-swarm",
+  "name": "flow-nexus-swarm",
+  "version": "1.0.0",
+  "summary": "Cloud-based AI swarm deployment and event-driven workflow automation with Flow Nexus platform",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bjpl",
+    "github": "bjpl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bjpl/open_learn_co",
+    "skill_md": "https://raw.githubusercontent.com/bjpl/open_learn_co/main/.claude/skills/flow-nexus-swarm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:38.353Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bjpl%2Fopen_learn_co/.claude%2Fskills%2Fflow-nexus-swarm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_e108bdcb6814"
+  }
+}

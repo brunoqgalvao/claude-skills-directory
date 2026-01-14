@@ -1,0 +1,35 @@
+{
+  "id": "responsibility-mapper",
+  "name": "responsibility-mapper",
+  "version": "1.0.0",
+  "summary": "作業の責任範囲を整理し、エージェント定義に必要な情報を抽出する。エージェント設計時、責任範囲整理時、またはユーザーが責任範囲、役割分担、責任境界、エージェント構成に言及した際に使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-plugin-generator/skills/responsibility-mapper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.657Z",
+  "created_at": "2025-12-22T23:00:33.880Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-plugin-generator%2Fskills%2Fresponsibility-mapper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.657Z",
+    "uniqueId": "sk_4a7443436619"
+  }
+}

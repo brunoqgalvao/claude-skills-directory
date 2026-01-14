@@ -1,0 +1,37 @@
+{
+  "id": "moai-platform-firestore",
+  "name": "moai-platform-firestore",
+  "version": "1.0.0",
+  "summary": "Firebase Firestore specialist covering NoSQL patterns, real-time sync, offline caching, and Security Rules. Use when building mobile-first apps with offline support, implementin...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "modu-ai",
+    "github": "modu-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/modu-ai/moai-adk",
+    "skill_md": "https://raw.githubusercontent.com/modu-ai/moai-adk/main/src/moai_adk/templates/.claude/skills/moai-platform-firestore/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:05.114Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/modu-ai%2Fmoai-adk/src%2Fmoai_adk%2Ftemplates%2F.claude%2Fskills%2Fmoai-platform-firestore%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_1f0397e81a5b"
+  }
+}

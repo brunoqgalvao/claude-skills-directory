@@ -1,0 +1,35 @@
+{
+  "id": "coze-api",
+  "name": "coze-api",
+  "version": "1.0.0",
+  "summary": "调用扣子(Coze)智能体 API 进行对话、工作流执行等操作。当用户需要集成 Coze 智能体、调用 Coze API、或开发 Coze 相关应用时使用。支持流式和非流式对话、工作流调用等功能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smallnest",
+    "github": "smallnest"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smallnest/goskills",
+    "skill_md": "https://raw.githubusercontent.com/smallnest/goskills/main/testdata/skills/coze-api/coze-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.458Z",
+  "created_at": "2025-12-22T21:19:49.227Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smallnest%2Fgoskills/testdata%2Fskills%2Fcoze-api%2Fcoze-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.458Z",
+    "uniqueId": "sk_e35cb20360c0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "using-github-search",
+  "name": "using-github-search",
+  "version": "1.0.0",
+  "summary": "Use when researching GitHub issues, PRs, and discussions for community solutions and known gotchas - searches via WebSearch with site filters and extracts problem-solution patterns",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seanGSISG",
+    "github": "seanGSISG"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seanGSISG/crispy-claude",
+    "skill_md": "https://raw.githubusercontent.com/seanGSISG/crispy-claude/main/cc/skills/using-github-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T03:05:42.000Z",
+  "created_at": "2025-12-22T20:04:50.368Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seanGSISG%2Fcrispy-claude/cc%2Fskills%2Fusing-github-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_f96338cafcb9"
+  }
+}

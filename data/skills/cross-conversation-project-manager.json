@@ -1,0 +1,35 @@
+{
+  "id": "cross-conversation-project-manager",
+  "name": "cross-conversation-project-manager",
+  "version": "1.0.0",
+  "summary": "Maintain project state across MULTIPLE conversations over days/weeks. Track tasks, decisions, blockers, resources. Auto-update when project mentioned. Generate status reports an...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gked2121",
+    "github": "gked2121"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gked2121/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gked2121/claude-skills/main/cross-conversation-project-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.464Z",
+  "created_at": "2025-12-22T15:06:04.078Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gked2121%2Fclaude-skills/cross-conversation-project-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.464Z",
+    "uniqueId": "sk_b4067d60c3e7"
+  }
+}

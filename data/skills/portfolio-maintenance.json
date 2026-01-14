@@ -1,0 +1,36 @@
+{
+  "id": "portfolio-maintenance",
+  "name": "portfolio-maintenance",
+  "version": "1.0.0",
+  "summary": "Maintains portfolio documentation following project-specific guidelines. Use when adding projects to the portfolio, updating README entries, managing git submodules, fixing docu...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yuichkun",
+    "github": "yuichkun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yuichkun/creative-coding",
+    "skill_md": "https://raw.githubusercontent.com/yuichkun/creative-coding/main/.claude/skills/portfolio-maintenance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:27.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yuichkun%2Fcreative-coding/.claude%2Fskills%2Fportfolio-maintenance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_9cd730b35dc1"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "brain-dump-ingestion",
+  "name": "brain-dump-ingestion",
+  "version": "1.0.0",
+  "summary": "Process unstructured brain dumps, transcripts, and stream-of-consciousness notes into structured knowledge base content. Use when converting raw ideas, meeting notes, or recorde...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wlfmnstr",
+    "github": "wlfmnstr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wlfmnstr/agentic-knowledge-base",
+    "skill_md": "https://raw.githubusercontent.com/wlfmnstr/agentic-knowledge-base/main/.claude/skills/brain-dump-ingestion/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:11.883Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wlfmnstr%2Fagentic-knowledge-base/.claude%2Fskills%2Fbrain-dump-ingestion%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_a260a8d69d4a"
+  }
+}

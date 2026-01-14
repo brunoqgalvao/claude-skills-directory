@@ -1,0 +1,37 @@
+{
+  "id": "ui-audio-theme",
+  "name": "ui-audio-theme",
+  "version": "1.0.0",
+  "summary": "Generate cohesive UI audio themes with subtle, minimal sound effects for applications. This skill should be used when users want to create a set of coordinated interface sounds ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "b-open-io",
+    "github": "b-open-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/b-open-io/prompts",
+    "skill_md": "https://raw.githubusercontent.com/b-open-io/prompts/main/user/.claude/skills/ui-audio-theme/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:07:02.911Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/b-open-io%2Fprompts/user%2F.claude%2Fskills%2Fui-audio-theme%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_4da1b7c22424"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "amcs-prompt-composer",
+  "name": "amcs-prompt-composer",
+  "version": "1.0.0",
+  "summary": "Merge style, lyrics, and producer notes into render-ready composed prompt. Enforces character limits, resolves tag conflicts, normalizes living artist influences, and formats wi...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "miethe",
+    "github": "miethe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/miethe/MeatyMusic",
+    "skill_md": "https://raw.githubusercontent.com/miethe/MeatyMusic/main/.claude/skills/workflow/compose/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:12.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/miethe%2FMeatyMusic/.claude%2Fskills%2Fworkflow%2Fcompose%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_1a7632196984"
+  }
+}

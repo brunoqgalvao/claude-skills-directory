@@ -1,0 +1,35 @@
+{
+  "id": "abp-infrastructure-patterns",
+  "name": "abp-infrastructure-patterns",
+  "version": "1.0.0",
+  "summary": "ABP Framework cross-cutting patterns including authorization, background jobs, distributed events, multi-tenancy, and module configuration. Use when: (1) defining permissions, (...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/abp-infrastructure-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:40.602Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fabp-infrastructure-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_4ab900cf1479"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "yanex-experiment-tracking",
+  "name": "yanex-experiment-tracking",
+  "version": "1.0.0",
+  "summary": "Use this skill when running, managing, or analyzing yanex experiments. Includes executing experiments via CLI, parameter sweeps, dependencies, querying experiment history, compa...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rueckstiess",
+    "github": "rueckstiess"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rueckstiess/yanex",
+    "skill_md": "https://raw.githubusercontent.com/rueckstiess/yanex/main/yanex/claude-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.741Z",
+  "created_at": "2025-12-22T21:10:38.350Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rueckstiess%2Fyanex/yanex%2Fclaude-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_c5d6c8bd6892"
+  }
+}

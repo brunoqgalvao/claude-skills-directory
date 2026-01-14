@@ -1,0 +1,35 @@
+{
+  "id": "agileflow-retro-facilitator",
+  "name": "agileflow-retro-facilitator",
+  "version": "1.0.0",
+  "summary": "Structures retrospective discussions using Start/Stop/Continue format with action items and accountability. Loads during retrospective conversations or sprint reviews.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "projectquestorg",
+    "github": "projectquestorg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/projectquestorg/AgileFlow",
+    "skill_md": "https://raw.githubusercontent.com/projectquestorg/AgileFlow/main/packages/cli/src/core/skills/agileflow-retro-facilitator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:10.295Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/projectquestorg%2FAgileFlow/packages%2Fcli%2Fsrc%2Fcore%2Fskills%2Fagileflow-retro-facilitator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_8caca200f966"
+  }
+}

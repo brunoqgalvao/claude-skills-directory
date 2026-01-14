@@ -1,0 +1,37 @@
+{
+  "id": "microsoft-agent-framework",
+  "name": "microsoft-agent-framework",
+  "version": "1.0.0",
+  "summary": "CRITICAL development guide for Microsoft Agent Framework (MAF) in IPA Platform.\n\nMUST READ when working with:\n- Agents (ChatAgent, AgentThread)\n- Builders (ConcurrentBuilder, Gr...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "laitim2001",
+    "github": "laitim2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/laitim2001/ai-semantic-kernel-framework-project",
+    "skill_md": "https://raw.githubusercontent.com/laitim2001/ai-semantic-kernel-framework-project/main/.claude/skills/microsoft-agent-framework/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:08:45.025Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/laitim2001%2Fai-semantic-kernel-framework-project/.claude%2Fskills%2Fmicrosoft-agent-framework%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_fb068a525a3d"
+  }
+}

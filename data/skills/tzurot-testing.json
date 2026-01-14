@@ -1,0 +1,35 @@
+{
+  "id": "tzurot-testing",
+  "name": "tzurot-testing",
+  "version": "1.0.0",
+  "summary": "Use when writing tests, debugging test failures, mocking dependencies, or using fake timers. Covers Vitest patterns, mock factories, and promise rejection handling.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lbds137",
+    "github": "lbds137"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lbds137/tzurot",
+    "skill_md": "https://raw.githubusercontent.com/lbds137/tzurot/main/.claude/skills/tzurot-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:45.480Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lbds137%2Ftzurot/.claude%2Fskills%2Ftzurot-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_b59a2ffcac25"
+  }
+}

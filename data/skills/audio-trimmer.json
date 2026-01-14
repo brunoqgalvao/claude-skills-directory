@@ -1,0 +1,35 @@
+{
+  "id": "audio-trimmer",
+  "name": "audio-trimmer",
+  "version": "1.0.0",
+  "summary": "Cut, trim, and edit audio segments with fade effects, speed control, concatenation, and basic audio manipulations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkyazzentwatwa",
+    "github": "dkyazzentwatwa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "skill_md": "https://raw.githubusercontent.com/dkyazzentwatwa/chatgpt-skills/main/audio-trimmer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.521Z",
+  "created_at": "2025-12-23T01:29:09.441Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkyazzentwatwa%2Fchatgpt-skills/audio-trimmer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.521Z",
+    "uniqueId": "sk_44fd0abdf026"
+  }
+}

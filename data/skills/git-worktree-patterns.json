@@ -1,0 +1,35 @@
+{
+  "id": "git-worktree-patterns",
+  "name": "git-worktree-patterns",
+  "version": "1.0.0",
+  "summary": "Git worktree patterns for parallel development. Use when working on multiple branches simultaneously or when you need to maintain separate working directories for different bran...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "L-Sypniewski",
+    "github": "L-Sypniewski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/L-Sypniewski/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/L-Sypniewski/claude-code-toolkit/main/plugins/git-project-management/skills/git-worktree-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T16:55:46.000Z",
+  "created_at": "2025-12-23T01:29:00.907Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/L-Sypniewski%2Fclaude-code-toolkit/plugins%2Fgit-project-management%2Fskills%2Fgit-worktree-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_34320aa76904"
+  }
+}

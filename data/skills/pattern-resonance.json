@@ -1,0 +1,36 @@
+{
+  "id": "pattern-resonance",
+  "name": "pattern-resonance",
+  "version": "1.0.0",
+  "summary": "Surface patterns across data, notes, code, and thoughts. Reveal what is already sensed but not yet articulated. Use when feeling \"something here\" but unable to pinpoint it, or w...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Kingly-Agency",
+    "github": "Kingly-Agency"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Kingly-Agency/kingly-claude-adapter",
+    "skill_md": "https://raw.githubusercontent.com/Kingly-Agency/kingly-claude-adapter/main/skills/pattern-resonance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:34.652Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Kingly-Agency%2Fkingly-claude-adapter/skills%2Fpattern-resonance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_e3c534f39db0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "veo3-image-prompt",
+  "name": "veo3-image-prompt",
+  "version": "1.0.0",
+  "summary": "Analyzes images and generates optimized prompts for Google's Veo 3.1 video generation model. Use when users provide an image and want to animate it or create a video prompt from...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "the-ai-engineer",
+    "github": "the-ai-engineer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/the-ai-engineer/ai-engineer-tutorials",
+    "skill_md": "https://raw.githubusercontent.com/the-ai-engineer/ai-engineer-tutorials/main/src/01-claude-skills/skills/veo3-image-prompt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:52:09.039Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/the-ai-engineer%2Fai-engineer-tutorials/src%2F01-claude-skills%2Fskills%2Fveo3-image-prompt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_445051df1bb0"
+  }
+}

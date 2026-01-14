@@ -1,0 +1,35 @@
+{
+  "id": "reddit-sentiment-analysis",
+  "name": "reddit-sentiment-analysis",
+  "version": "1.0.0",
+  "summary": "Conduct comprehensive sentiment analysis of Reddit discussions for any product, brand, company, or topic. Analyzes what people like, dislike, and wish were different with struct...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "natea",
+    "github": "natea"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/natea/fitfinder",
+    "skill_md": "https://raw.githubusercontent.com/natea/fitfinder/main/.claude/skills/reddit-sentiment-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:39.002Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/natea%2Ffitfinder/.claude%2Fskills%2Freddit-sentiment-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_09e1a550fe28"
+  }
+}

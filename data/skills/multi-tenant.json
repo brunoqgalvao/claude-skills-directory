@@ -1,0 +1,37 @@
+{
+  "id": "multi-tenant",
+  "name": "multi-tenant",
+  "version": "1.0.0",
+  "summary": "Use when building SaaS applications needing data isolation between customers - implements owner-based filtering for secure multi-tenant document storage and search with workspac...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "juanre",
+    "github": "juanre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/juanre/llmemory",
+    "skill_md": "https://raw.githubusercontent.com/juanre/llmemory/main/skills/multi-tenant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:03:34.673Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanre%2Fllmemory/skills%2Fmulti-tenant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_240c05a0a328"
+  }
+}

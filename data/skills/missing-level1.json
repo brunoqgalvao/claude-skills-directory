@@ -1,0 +1,35 @@
+{
+  "id": "missing-level1",
+  "name": "missing-level1",
+  "version": "1.0.0",
+  "summary": "A skill missing Level 1 section",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "williamzujkowski",
+    "github": "williamzujkowski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/williamzujkowski/standards",
+    "skill_md": "https://raw.githubusercontent.com/williamzujkowski/standards/main/tests/scripts/fixtures/skills/missing-level1/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-17T17:55:18.000Z",
+  "created_at": "2025-12-23T01:28:04.167Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/williamzujkowski%2Fstandards/tests%2Fscripts%2Ffixtures%2Fskills%2Fmissing-level1%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_2344783aa485"
+  }
+}

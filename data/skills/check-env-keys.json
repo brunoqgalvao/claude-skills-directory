@@ -1,0 +1,35 @@
+{
+  "id": "check-env-keys",
+  "name": "check-env-keys",
+  "version": "1.0.0",
+  "summary": "Verify which environment variable keys are present in .env files or shell environment without exposing their values. Use when you need to check env configuration or compare keys...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "iamladi",
+    "github": "iamladi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/iamladi/cautious-computing-machine--primitives-plugin",
+    "skill_md": "https://raw.githubusercontent.com/iamladi/cautious-computing-machine--primitives-plugin/main/skills/check-env-keys/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:08:09.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/iamladi%2Fcautious-computing-machine--primitives-plugin/skills%2Fcheck-env-keys%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_52d367f005b5"
+  }
+}

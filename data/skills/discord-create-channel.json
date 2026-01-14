@@ -1,0 +1,36 @@
+{
+  "id": "discord-create-channel",
+  "name": "discord-create-channel",
+  "version": "1.0.0",
+  "summary": "Create new channels in Discord guilds/servers via the Discord API. Use this skill when the user wants to create text channels, voice channels, announcement channels, or categori...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nice-Wolf-Studio",
+    "github": "Nice-Wolf-Studio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nice-Wolf-Studio/agent-discord-skills",
+    "skill_md": "https://raw.githubusercontent.com/Nice-Wolf-Studio/agent-discord-skills/main/discord-create-channel/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:13.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nice-Wolf-Studio%2Fagent-discord-skills/discord-create-channel%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_fb1087184250"
+  }
+}

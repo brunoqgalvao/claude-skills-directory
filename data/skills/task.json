@@ -1,0 +1,37 @@
+{
+  "id": "task",
+  "name": "task",
+  "version": "1.0.0",
+  "summary": "Rapid task capture without breaking flow. Use when the user types /task or wants to quickly add a todo item to tasks.md. Supports priority flags (!high, !low). Use this instead ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "braselog",
+    "github": "braselog"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/braselog/researchAssistant",
+    "skill_md": "https://raw.githubusercontent.com/braselog/researchAssistant/main/.ra/skills/task/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T13:30:15.000Z",
+  "created_at": "2025-12-22T16:29:01.965Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/braselog%2FresearchAssistant/.ra%2Fskills%2Ftask%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_5df88a48e66f"
+  }
+}

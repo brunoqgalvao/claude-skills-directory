@@ -1,0 +1,35 @@
+{
+  "id": "epub-publication-validator",
+  "name": "epub-publication-validator",
+  "version": "1.0.0",
+  "summary": "Run EPUBCheck and Ace accessibility validation. Use before final EPUB packaging or distribution to ensure publication readiness.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "miketui",
+    "github": "miketui"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/miketui/Fm",
+    "skill_md": "https://raw.githubusercontent.com/miketui/Fm/main/.claude/skills/epub-publication-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:20.665Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/miketui%2FFm/.claude%2Fskills%2Fepub-publication-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_88f82a4a13e2"
+  }
+}

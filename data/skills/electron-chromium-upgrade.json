@@ -1,0 +1,37 @@
+{
+  "id": "electron-chromium-upgrade",
+  "name": "electron-chromium-upgrade",
+  "version": "1.0.0",
+  "summary": "Guide for performing Chromium version upgrades in the Electron project. Use when working on the roller/chromium/main branch to fix patch conflicts during `e sync --3`. Covers th...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "electron",
+    "github": "electron"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/electron/electron",
+    "skill_md": "https://raw.githubusercontent.com/electron/electron/main/.claude/skills/electron-chromium-upgrade/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T00:07:58.000Z",
+  "created_at": "2025-12-23T01:29:22.589Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/electron%2Felectron/.claude%2Fskills%2Felectron-chromium-upgrade%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_3e0f2f588cd4"
+  }
+}

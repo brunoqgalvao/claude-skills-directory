@@ -1,0 +1,37 @@
+{
+  "id": "design-tokens-validator",
+  "name": "design-tokens-validator",
+  "version": "1.0.0",
+  "summary": "[Design System] Validate that code and styles use official design tokens instead of hard-coded values. Use when (1) reviewing CSS/SCSS/Tailwind/styled-components for hard-coded ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CANTAGESTUDIO",
+    "github": "CANTAGESTUDIO"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CANTAGESTUDIO/CosmicAtlasPacker",
+    "skill_md": "https://raw.githubusercontent.com/CANTAGESTUDIO/CosmicAtlasPacker/main/.factory/skills/design-tokens-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:58:32.305Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CANTAGESTUDIO%2FCosmicAtlasPacker/.factory%2Fskills%2Fdesign-tokens-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_f9755c60f62e"
+  }
+}

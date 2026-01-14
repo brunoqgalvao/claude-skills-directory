@@ -1,0 +1,35 @@
+{
+  "id": "dev-testing",
+  "name": "dev-testing",
+  "version": "1.0.0",
+  "summary": "Development cycle testing gate (Gate 3) - ensures unit test coverage for all\nacceptance criteria using TDD methodology (RED-GREEN-REFACTOR).\nFocus: Unit tests only.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/dev-team/skills/dev-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:08:55.253Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/dev-team%2Fskills%2Fdev-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_c40a138b3652"
+  }
+}

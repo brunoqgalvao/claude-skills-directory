@@ -1,0 +1,35 @@
+{
+  "id": "schema-research",
+  "name": "schema-research",
+  "version": "1.0.0",
+  "summary": "Schema.org research assistant for Logseq Template Graph. Investigates Schema.org classes and properties, suggests standard vocabulary, validates hierarchies, and provides integr...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C0ntr0lledCha0s",
+    "github": "C0ntr0lledCha0s"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C0ntr0lledCha0s/logseq-template-graph",
+    "skill_md": "https://raw.githubusercontent.com/C0ntr0lledCha0s/logseq-template-graph/main/.claude/skills/schema-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T21:12:46.000Z",
+  "created_at": "2025-12-23T01:29:32.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C0ntr0lledCha0s%2Flogseq-template-graph/.claude%2Fskills%2Fschema-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.491Z",
+    "uniqueId": "sk_ae9414f730e9"
+  }
+}

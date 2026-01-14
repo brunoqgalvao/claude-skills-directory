@@ -1,0 +1,35 @@
+{
+  "id": "software-engineering",
+  "name": "software-engineering",
+  "version": "1.0.0",
+  "summary": "Core engineering principles for quality, maintainable code.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xtribr",
+    "github": "xtribr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xtribr/xtri-provas",
+    "skill_md": "https://raw.githubusercontent.com/xtribr/xtri-provas/main/claude/skills/software-engineering/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:32.973Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xtribr%2Fxtri-provas/claude%2Fskills%2Fsoftware-engineering%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_296ba48f578f"
+  }
+}

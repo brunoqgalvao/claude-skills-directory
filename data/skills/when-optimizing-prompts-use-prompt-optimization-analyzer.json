@@ -1,0 +1,35 @@
+{
+  "id": "when-optimizing-prompts-use-prompt-optimization-analyzer",
+  "name": "when-optimizing-prompts-use-prompt-optimization-analyzer",
+  "version": "1.0.0",
+  "summary": "Active diagnostic tool for analyzing prompt quality, detecting anti-patterns, identifying token waste, and providing optimization recommendations",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/ai-chrome-extension",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/ai-chrome-extension/main/.claude/skills/meta-tools/when-optimizing-prompts-use-prompt-optimization-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:07.004Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fai-chrome-extension/.claude%2Fskills%2Fmeta-tools%2Fwhen-optimizing-prompts-use-prompt-optimization-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_82759001f004"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "hello-extended",
+  "name": "hello-extended",
+  "version": "1.0.0",
+  "summary": "Multi-language greetings in 6 languages. Use for non-English greetings or multiple people.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielscholl",
+    "github": "danielscholl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielscholl/agent-base",
+    "skill_md": "https://raw.githubusercontent.com/danielscholl/agent-base/main/src/agent/_bundled_skills/hello-extended/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T16:50:17.000Z",
+  "created_at": "2025-12-23T01:28:36.743Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielscholl%2Fagent-base/src%2Fagent%2F_bundled_skills%2Fhello-extended%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.565Z",
+    "uniqueId": "sk_223db2683a82"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "caching-strategies-gha",
+  "name": "caching-strategies-gha",
+  "version": "1.0.0",
+  "summary": "GitHub Actions ワークフロー高速化のためのキャッシング戦略。\n📚 リソース参照:\nこのスキルには以下のリソースが含まれています。\n必要に応じて該当するリソースを参照してください:\n\n- `.claude/skills/caching-strategies-gha/resources/cache-action.md`: actions/c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/caching-strategies-gha/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:39.888Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fcaching-strategies-gha%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_149b77dfa8ce"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "migration-best-practices",
+  "name": "migration-best-practices",
+  "version": "1.0.0",
+  "summary": "データベースマイグレーションのベストプラクティス。\nスキーマ変更時に自動適用される。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nakamura-shuta",
+    "github": "nakamura-shuta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nakamura-shuta/dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/nakamura-shuta/dev-marketplace/main/plugins/database-migration-plugin/skills/migration-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:21:54.261Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nakamura-shuta%2Fdev-marketplace/plugins%2Fdatabase-migration-plugin%2Fskills%2Fmigration-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_3133acf28727"
+  }
+}

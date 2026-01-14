@@ -1,0 +1,35 @@
+{
+  "id": "goose-recipes",
+  "name": "goose-recipes",
+  "version": "1.0.0",
+  "summary": "Create, validate, and work with Goose recipes - reusable AI agent configurations that package specific setups for tasks. Use when creating recipe.yaml/recipe.json files, configu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpazaryna",
+    "github": "mpazaryna"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpazaryna/claude-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/mpazaryna/claude-toolkit/main/generated-skills/goose-recipes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.526Z",
+  "created_at": "2025-12-23T01:29:05.421Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpazaryna%2Fclaude-toolkit/generated-skills%2Fgoose-recipes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_a2102eeb41b9"
+  }
+}

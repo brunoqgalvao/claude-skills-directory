@@ -1,0 +1,36 @@
+{
+  "id": "detecting-database-deadlocks",
+  "name": "detecting-database-deadlocks",
+  "version": "1.0.0",
+  "summary": "This skill uses the database-deadlock-detector plugin to detect, analyze, and prevent database deadlocks. It monitors database lock contention, analyzes transaction patterns, an...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skill-structure-cleanup-20251108-073936/plugins/database/database-deadlock-detector/skills/database-deadlock-detector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T07:44:44.000Z",
+  "created_at": "2025-12-22T15:59:43.299Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskill-structure-cleanup-20251108-073936%2Fplugins%2Fdatabase%2Fdatabase-deadlock-detector%2Fskills%2Fdatabase-deadlock-detector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_652b6094c2d2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "windows-cupy-nvrtc",
+  "name": "windows-cupy-nvrtc",
+  "version": "1.0.0",
+  "summary": "Fix CuPy NVRTC compilation errors on Windows. Trigger: NVRTC_ERROR_BUILTIN_OPERATION_FAILURE, nvrtc-builtins64 not found",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smith6jt-cop",
+    "github": "smith6jt-cop"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smith6jt-cop/Skills_Registry",
+    "skill_md": "https://raw.githubusercontent.com/smith6jt-cop/Skills_Registry/main/plugins/scientific/windows-cupy-nvrtc/skills/windows-cupy-nvrtc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T19:34:17.000Z",
+  "created_at": "2025-12-22T16:59:44.731Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smith6jt-cop%2FSkills_Registry/plugins%2Fscientific%2Fwindows-cupy-nvrtc%2Fskills%2Fwindows-cupy-nvrtc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.827Z",
+    "uniqueId": "sk_4b6f6ef46fe2"
+  }
+}

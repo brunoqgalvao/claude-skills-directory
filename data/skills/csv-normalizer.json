@@ -1,0 +1,36 @@
+{
+  "id": "csv-normalizer",
+  "name": "csv-normalizer",
+  "version": "1.0.0",
+  "summary": "Database normalization for CSV files. Analyzes data structure, detects functional dependencies, and decomposes into normalized tables (1NF-BCNF). Outputs multiple CSV files, SQL...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elertan",
+    "github": "elertan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elertan/claude-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/elertan/claude-dotfiles/main/skills/csv-normalizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T12:22:20.000Z",
+  "created_at": "2025-12-23T01:28:53.061Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elertan%2Fclaude-dotfiles/skills%2Fcsv-normalizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_97bbcdc45729"
+  }
+}

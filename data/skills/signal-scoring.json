@@ -1,0 +1,35 @@
+{
+  "id": "signal-scoring",
+  "name": "signal-scoring",
+  "version": "1.0.0",
+  "summary": "Use to design composite intent scoring models with decay, weighting, and governance.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/intent-signal-orchestration/skills/signal-scoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.574Z",
+  "created_at": "2025-12-23T01:28:27.064Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fintent-signal-orchestration%2Fskills%2Fsignal-scoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_16dedc69572d"
+  }
+}

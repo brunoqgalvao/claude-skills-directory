@@ -1,0 +1,35 @@
+{
+  "id": "netbox-powerdns-integration",
+  "name": "netbox-powerdns-integration",
+  "version": "1.0.0",
+  "summary": "NetBox IPAM and PowerDNS integration for automated DNS record management.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "basher83",
+    "github": "basher83"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/basher83/lunar-claude",
+    "skill_md": "https://raw.githubusercontent.com/basher83/lunar-claude/main/plugins/homelab/netbox-powerdns-integration/skills/netbox-powerdns-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:16:02.936Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/basher83%2Flunar-claude/plugins%2Fhomelab%2Fnetbox-powerdns-integration%2Fskills%2Fnetbox-powerdns-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_7fc072499a28"
+  }
+}

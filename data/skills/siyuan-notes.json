@@ -1,0 +1,35 @@
+{
+  "id": "siyuan-notes",
+  "name": "siyuan-notes",
+  "version": "1.0.0",
+  "summary": "思源笔记查询工具，如果用户的请求涉及查找、检索、浏览他们的笔记内容，就应该使用这个技能，例如:查询我的xxx",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "2234839",
+    "github": "2234839"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/2234839/siyuan-notes-skill",
+    "skill_md": "https://raw.githubusercontent.com/2234839/siyuan-notes-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:22.331Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/2234839%2Fsiyuan-notes-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_752a8124164e"
+  }
+}

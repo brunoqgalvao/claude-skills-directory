@@ -1,0 +1,35 @@
+{
+  "id": "adr-writing",
+  "name": "adr-writing",
+  "version": "1.0.0",
+  "summary": "Use when documenting significant architectural decisions. Creates focused ADRs explaining context, decision, and alternatives. Prevents vague documentation and implementation de...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebnow",
+    "github": "sebnow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebnow/configs",
+    "skill_md": "https://raw.githubusercontent.com/sebnow/configs/main/home-manager/agentic/skills/adr-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:11.008Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebnow%2Fconfigs/home-manager%2Fagentic%2Fskills%2Fadr-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_2e71983ed4d4"
+  }
+}

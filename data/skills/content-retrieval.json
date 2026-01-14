@@ -1,0 +1,35 @@
+{
+  "id": "content-retrieval",
+  "name": "content-retrieval",
+  "version": "1.0.0",
+  "summary": "Token-efficient retrieval using depth levels (L0-L5) and heading-based sections. Use for any file reads.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/content-retrieval/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T06:41:21.000Z",
+  "created_at": "2025-12-23T01:29:18.979Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fcontent-retrieval%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_0bf3a3eb6d48"
+  }
+}

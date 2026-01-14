@@ -1,0 +1,35 @@
+{
+  "id": "a2a-sdk-patterns",
+  "name": "a2a-sdk-patterns",
+  "version": "1.0.0",
+  "summary": "SDK installation and setup patterns for Agent-to-Agent Protocol across Python, TypeScript, Java, C#, and Go. Use when implementing A2A protocol, setting up SDKs, configuring aut...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/a2a-protocol/skills/a2a-sdk-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T19:00:39.040Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fa2a-protocol%2Fskills%2Fa2a-sdk-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_7d69ab933b98"
+  }
+}

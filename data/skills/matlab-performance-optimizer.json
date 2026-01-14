@@ -1,0 +1,36 @@
+{
+  "id": "matlab-performance-optimizer",
+  "name": "matlab-performance-optimizer",
+  "version": "1.0.0",
+  "summary": "Optimize MATLAB code for better performance through vectorization, memory management, and profiling. Use when user requests optimization, mentions slow code, performance issues,...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matlab",
+    "github": "matlab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matlab/skills",
+    "skill_md": "https://raw.githubusercontent.com/matlab/skills/main/skills/matlab-performance-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:38.325Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matlab%2Fskills/skills%2Fmatlab-performance-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_db842757e1a9"
+  }
+}

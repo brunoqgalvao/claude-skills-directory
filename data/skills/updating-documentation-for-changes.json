@@ -1,0 +1,36 @@
+{
+  "id": "updating-documentation-for-changes",
+  "name": "updating-documentation-for-changes",
+  "version": "1.0.0",
+  "summary": "Use before committing staged changes when you need to verify all related documentation is current - systematically checks README, CLAUDE.md, CHANGELOG, API docs, package metadat...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thurstonsand",
+    "github": "thurstonsand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thurstonsand/nixonomicon",
+    "skill_md": "https://raw.githubusercontent.com/thurstonsand/nixonomicon/main/.claude/skills/updating-documentation-for-changes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:35.174Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thurstonsand%2Fnixonomicon/.claude%2Fskills%2Fupdating-documentation-for-changes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_9e07eee96ef5"
+  }
+}

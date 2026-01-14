@@ -1,0 +1,36 @@
+{
+  "id": "inbox-processing",
+  "name": "inbox-processing",
+  "version": "1.0.0",
+  "summary": "Workflow for processing large Things3 inboxes (100+ items) using LLM-driven confidence matching and intelligent automation. Integrates with personal taxonomy and MCP tools for e...",
+  "verticals": [
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Avery2",
+    "github": "Avery2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Avery2/things3-mcp-tools",
+    "skill_md": "https://raw.githubusercontent.com/Avery2/things3-mcp-tools/main/.claude/skills/inbox-processing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:17:19.744Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Avery2%2Fthings3-mcp-tools/.claude%2Fskills%2Finbox-processing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_1dfaa020f11a"
+  }
+}

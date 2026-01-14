@@ -1,0 +1,36 @@
+{
+  "id": "ghostmind-system",
+  "name": "ghostmind-system",
+  "version": "1.0.0",
+  "summary": "This skill should be used when working with the Ghostmind development system, which uses meta.json as a central configuration for Docker, Compose, Terraform, and Tmux. Use this ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ghostmind-dev",
+    "github": "ghostmind-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ghostmind-dev/system",
+    "skill_md": "https://raw.githubusercontent.com/ghostmind-dev/system/main/plugins/system/skills/system/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:04.014Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ghostmind-dev%2Fsystem/plugins%2Fsystem%2Fskills%2Fsystem%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_f6c17147cb9f"
+  }
+}

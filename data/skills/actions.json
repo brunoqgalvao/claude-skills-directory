@@ -1,0 +1,37 @@
+{
+  "id": "actions",
+  "name": "actions",
+  "version": "1.0.0",
+  "summary": "GitHub Actions workflow management using GitHub CLI. Trigger when user wants to check CI status (\"check CI\", \"is the build passing\"), view workflow runs (\"show recent runs\", \"vi...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robbyt",
+    "github": "robbyt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robbyt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/robbyt/claude-skills/main/plugins/gh-cli/skills/actions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:57:51.916Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robbyt%2Fclaude-skills/plugins%2Fgh-cli%2Fskills%2Factions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_d4699c40cb8d"
+  }
+}

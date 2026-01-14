@@ -1,0 +1,35 @@
+{
+  "id": "extract-version",
+  "name": "extract-version",
+  "version": "1.0.0",
+  "summary": "Parse and validate semantic version strings from various formats. Use for extracting versions from text, validating semver compliance, or comparing version numbers.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maslennikov-ig",
+    "github": "maslennikov-ig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maslennikov-ig/claude-code-orchestrator-kit",
+    "skill_md": "https://raw.githubusercontent.com/maslennikov-ig/claude-code-orchestrator-kit/main/.claude/skills/extract-version/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T11:17:18.000Z",
+  "created_at": "2025-12-23T01:28:53.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maslennikov-ig%2Fclaude-code-orchestrator-kit/.claude%2Fskills%2Fextract-version%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_8bbe38116a75"
+  }
+}

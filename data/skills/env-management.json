@@ -1,0 +1,35 @@
+{
+  "id": "env-management",
+  "name": "env-management",
+  "version": "1.0.0",
+  "summary": "Manage environment variables with split .env.client and .env.api structure. Use when adding new env vars, debugging config issues, or setting up environments.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jonit-dev",
+    "github": "jonit-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jonit-dev/pixelperfect",
+    "skill_md": "https://raw.githubusercontent.com/jonit-dev/pixelperfect/main/.claude/skills/env-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T07:12:26.000Z",
+  "created_at": "2025-12-22T14:58:06.358Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jonit-dev%2Fpixelperfect/.claude%2Fskills%2Fenv-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_6f07ba3baadf"
+  }
+}

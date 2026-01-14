@@ -1,0 +1,35 @@
+{
+  "id": "beads-retrospective",
+  "name": "beads-retrospective",
+  "version": "1.0.0",
+  "summary": "PROACTIVELY analyze completed Beads issues to identify patterns, tech debt, and gaps. Suggests new OpenSpec proposals based on discovered work. Use after closing issues or when ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lucastamoios",
+    "github": "lucastamoios"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lucastamoios/celeiro",
+    "skill_md": "https://raw.githubusercontent.com/lucastamoios/celeiro/main/.claude/skills/beads-retrospective/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:37.092Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lucastamoios%2Fceleiro/.claude%2Fskills%2Fbeads-retrospective%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_e3759fba186c"
+  }
+}

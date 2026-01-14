@@ -1,0 +1,37 @@
+{
+  "id": "task-assistant",
+  "name": "task-assistant",
+  "version": "1.0.0",
+  "summary": "Intelligent task management via the `task` CLI. Invoke when users ask to: create/list/update/delete tasks, search tasks (text or semantic), track work items with due dates, orga...",
+  "verticals": [
+    "support",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lauriliivamagi",
+    "github": "lauriliivamagi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lauriliivamagi/task",
+    "skill_md": "https://raw.githubusercontent.com/lauriliivamagi/task/main/skills/task-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:07:22.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lauriliivamagi%2Ftask/skills%2Ftask-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_6ede3e5c3ad9"
+  }
+}

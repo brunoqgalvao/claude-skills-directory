@@ -1,0 +1,35 @@
+{
+  "id": "local-methylation-profile",
+  "name": "local-methylation-profile",
+  "version": "1.0.0",
+  "summary": "This skill analyzes the local DNA methylation profiles around target genomic regions provide by user. Use this skill when you want to vasulize the average methylation profile ar...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BIsnake2001",
+    "github": "BIsnake2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BIsnake2001/ChromSkills",
+    "skill_md": "https://raw.githubusercontent.com/BIsnake2001/ChromSkills/main/22.local-methylation-profile/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.857Z",
+  "created_at": "2025-12-22T15:50:58.895Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BIsnake2001%2FChromSkills/22.local-methylation-profile%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_c52e2958707b"
+  }
+}

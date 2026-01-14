@@ -1,0 +1,36 @@
+{
+  "id": "airbyte-connection-setup",
+  "name": "airbyte-connection-setup",
+  "version": "1.0.0",
+  "summary": "Эксперт Airbyte. Используй для настройки ETL/ELT пайплайнов, коннекторов, синхронизации данных и data pipelines.",
+  "verticals": [
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dengineproblem",
+    "github": "dengineproblem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dengineproblem/agents-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/dengineproblem/agents-monorepo/main/.claude/skills/airbyte-connection-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T13:57:12.000Z",
+  "created_at": "2025-12-22T17:10:29.757Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dengineproblem%2Fagents-monorepo/.claude%2Fskills%2Fairbyte-connection-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_2f262877de48"
+  }
+}

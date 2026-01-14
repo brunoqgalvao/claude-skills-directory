@@ -1,0 +1,35 @@
+{
+  "id": "when-reviewing-code-comprehensively-use-code-review-assistant",
+  "name": "when-reviewing-code-comprehensively-use-code-review-assistant",
+  "version": "1.0.0",
+  "summary": "Comprehensive PR review with multi-agent swarm specialization for security, performance, style, tests, and documentation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/ai-chrome-extension",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/ai-chrome-extension/main/.claude/skills/testing-quality/when-reviewing-code-comprehensively-use-code-review-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:15:34.544Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fai-chrome-extension/.claude%2Fskills%2Ftesting-quality%2Fwhen-reviewing-code-comprehensively-use-code-review-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_9c1d78d4a048"
+  }
+}

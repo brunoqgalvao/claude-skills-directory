@@ -1,0 +1,37 @@
+{
+  "id": "pm-orchestrator-website",
+  "name": "pm-orchestrator-website",
+  "version": "1.0.0",
+  "summary": "Project management orchestration for website design and development projects. Use this skill when coordinating multi-agent website projects that require design, frontend develop...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andaydvice",
+    "github": "andaydvice"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andaydvice/landing-page",
+    "skill_md": "https://raw.githubusercontent.com/andaydvice/landing-page/main/.claude/skills/pm-orchestrator-website/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:23.831Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andaydvice%2Flanding-page/.claude%2Fskills%2Fpm-orchestrator-website%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_746a53511ee2"
+  }
+}

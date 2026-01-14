@@ -1,0 +1,35 @@
+{
+  "id": "github-authenticator",
+  "name": "github-authenticator",
+  "version": "1.0.0",
+  "summary": "Verify and troubleshoot GitHub CLI authentication. Use when gh commands fail with auth errors or when setting up GitHub integration for the first time.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EdanStarfire",
+    "github": "EdanStarfire"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EdanStarfire/claudecode_webui",
+    "skill_md": "https://raw.githubusercontent.com/EdanStarfire/claudecode_webui/main/.claude/skills/github-authenticator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T02:52:07.000Z",
+  "created_at": "2025-12-23T01:28:45.511Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EdanStarfire%2Fclaudecode_webui/.claude%2Fskills%2Fgithub-authenticator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_11438bd78c63"
+  }
+}

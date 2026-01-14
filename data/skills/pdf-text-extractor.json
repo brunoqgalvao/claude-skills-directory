@@ -1,0 +1,35 @@
+{
+  "id": "pdf-text-extractor",
+  "name": "pdf-text-extractor",
+  "version": "1.0.0",
+  "summary": "Extracts text content from one or more PDF documents.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "okgoogle13",
+    "github": "okgoogle13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/okgoogle13/careercopilot",
+    "skill_md": "https://raw.githubusercontent.com/okgoogle13/careercopilot/main/.claude/skills/document-skills/pdf/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T20:41:32.000Z",
+  "created_at": "2025-12-22T16:29:04.847Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/okgoogle13%2Fcareercopilot/.claude%2Fskills%2Fdocument-skills%2Fpdf%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_5630e1900602"
+  }
+}

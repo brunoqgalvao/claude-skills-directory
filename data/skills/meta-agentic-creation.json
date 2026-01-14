@@ -1,0 +1,36 @@
+{
+  "id": "meta-agentic-creation",
+  "name": "meta-agentic-creation",
+  "version": "1.0.0",
+  "summary": "Create meta prompts, meta agents, and meta skills that build other agentic components. Use when scaling agentic layer development, creating generators/templates, or implementing...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/meta-agentic-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:52.683Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Fmeta-agentic-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_5a3a29e23138"
+  }
+}

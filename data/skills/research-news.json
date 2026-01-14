@@ -1,0 +1,35 @@
+{
+  "id": "research-news",
+  "name": "research-news",
+  "version": "1.0.0",
+  "summary": "Yahoo! Japan ニュースから最新ニュースを収集・整理するスキル。「主要」「国内」「国際」「経済」の4ジャンルから各3件のニュースを取得し、タイトル・概要・ポイントを整理して通知する。ニュースリサーチ、最新情報の収集、ニュースサマリー作成時に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "umaidashi",
+    "github": "umaidashi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/umaidashi/cc-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/umaidashi/cc-marketplace/main/skills/research-news/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:15.179Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/umaidashi%2Fcc-marketplace/skills%2Fresearch-news%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_4d16e2f37db8"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "alert-manager",
+  "name": "alert-manager",
+  "version": "1.0.0",
+  "summary": "Sets up and manages alerts for critical SEO and GEO metrics including ranking drops, traffic changes, technical issues, and competitor movements. Enables proactive monitoring an...",
+  "verticals": [
+    "marketing",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aaron-he-zhu",
+    "github": "aaron-he-zhu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/aaron-he-zhu/seo-geo-claude-skills/main/monitor/alert-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.657Z",
+  "created_at": "2025-12-22T23:00:31.965Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aaron-he-zhu%2Fseo-geo-claude-skills/monitor%2Falert-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.657Z",
+    "uniqueId": "sk_26347bd4e55d"
+  }
+}

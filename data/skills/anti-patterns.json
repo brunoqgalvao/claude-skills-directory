@@ -1,0 +1,35 @@
+{
+  "id": "anti-patterns",
+  "name": "anti-patterns",
+  "version": "1.0.0",
+  "summary": "Gentle reminder skill for common mistakes to avoid. Non-blocking suggestions.\nAUTO-ACTIVATE when user mentions (FR/EN): - erreur, error, bug, problème, problem - anti-pattern, m...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vperreard",
+    "github": "vperreard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vperreard/Mathildanesth",
+    "skill_md": "https://raw.githubusercontent.com/vperreard/Mathildanesth/main/.claude/skills/anti-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:58.980Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vperreard%2FMathildanesth/.claude%2Fskills%2Fanti-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_6196f683bacc"
+  }
+}

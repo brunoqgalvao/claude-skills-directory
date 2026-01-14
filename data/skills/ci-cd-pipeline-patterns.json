@@ -1,0 +1,37 @@
+{
+  "id": "ci-cd-pipeline-patterns",
+  "name": "ci-cd-pipeline-patterns",
+  "version": "1.0.0",
+  "summary": "Comprehensive CI/CD pipeline patterns skill covering GitHub Actions, workflows, automation, testing, deployment strategies, and release management for modern software delivery",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/luxor-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/manutej/luxor-claude-marketplace/main/plugins/luxor-devops-suite/skills/ci-cd-pipeline-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:24:55.568Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fluxor-claude-marketplace/plugins%2Fluxor-devops-suite%2Fskills%2Fci-cd-pipeline-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_1c142af8df00"
+  }
+}

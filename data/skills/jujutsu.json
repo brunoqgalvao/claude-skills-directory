@@ -1,0 +1,35 @@
+{
+  "id": "jujutsu",
+  "name": "jujutsu",
+  "version": "1.0.0",
+  "summary": "Jujutsu (jj) version control commands and workflows. Use when performing version control operations, committing changes, managing branches/bookmarks, or syncing with remotes. Al...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "laulauland",
+    "github": "laulauland"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/laulauland/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/laulauland/dotfiles/main/shared/.claude/skills/jujutsu/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T10:55:52.000Z",
+  "created_at": "2025-12-22T16:57:52.090Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/laulauland%2Fdotfiles/shared%2F.claude%2Fskills%2Fjujutsu%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_cc88e41d3d97"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "julien-workflow-advice-codex",
+  "name": "julien-workflow-advice-codex",
+  "version": "1.0.0",
+  "summary": "Get OpenAI Codex CLI's opinion on code, bugs, or implementation. Use when you want a second AI perspective during coding sessions.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theflysurfer",
+    "github": "theflysurfer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theflysurfer/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/theflysurfer/claude-skills-marketplace/main/skills/julien-workflow-advice-codex/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:51.257Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theflysurfer%2Fclaude-skills-marketplace/skills%2Fjulien-workflow-advice-codex%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_f1937a7ca547"
+  }
+}

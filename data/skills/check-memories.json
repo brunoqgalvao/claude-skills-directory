@@ -1,0 +1,35 @@
+{
+  "id": "check-memories",
+  "name": "check-memories",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks \"how did we solve this before\", \"what was the decision about X\", \"have we done this before\", \"what do you remember about\", \"check yo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SyntesseraAI",
+    "github": "SyntesseraAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SyntesseraAI/local-recall",
+    "skill_md": "https://raw.githubusercontent.com/SyntesseraAI/local-recall/main/local-recall-plugin/skills/check-memories/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T22:31:44.000Z",
+  "created_at": "2025-12-23T01:28:42.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SyntesseraAI%2Flocal-recall/local-recall-plugin%2Fskills%2Fcheck-memories%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_5607dcfda2d4"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tdd-workflow",
+  "name": "tdd-workflow",
+  "version": "1.0.0",
+  "summary": "Test-Driven Development (TDD) red-green-refactor cycle for GMailArchiver. Use when implementing features, fixing bugs, or following the 6-phase workflow. Triggers on: TDD, test-...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tumma72",
+    "github": "tumma72"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tumma72/GMailArchiver",
+    "skill_md": "https://raw.githubusercontent.com/tumma72/GMailArchiver/main/.claude/skills/tdd-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:07.243Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tumma72%2FGMailArchiver/.claude%2Fskills%2Ftdd-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_bbe4549c41f8"
+  }
+}

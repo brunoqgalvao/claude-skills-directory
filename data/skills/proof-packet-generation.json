@@ -1,0 +1,35 @@
+{
+  "id": "proof-packet-generation",
+  "name": "proof-packet-generation",
+  "version": "1.0.0",
+  "summary": "Generate cryptographic proof packets for verification.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "starwreckntx",
+    "github": "starwreckntx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/starwreckntx/IRP__METHODOLOGIES-",
+    "skill_md": "https://raw.githubusercontent.com/starwreckntx/IRP__METHODOLOGIES-/main/skills/proof-packet-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.585Z",
+  "created_at": "2025-12-23T01:28:11.509Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/starwreckntx%2FIRP__METHODOLOGIES-/skills%2Fproof-packet-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.585Z",
+    "uniqueId": "sk_cf051827b4e1"
+  }
+}

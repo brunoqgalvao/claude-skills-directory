@@ -1,0 +1,35 @@
+{
+  "id": "note-writer",
+  "name": "note-writer",
+  "version": "1.0.0",
+  "summary": "Write structured notes from source materials following academic standards.\nLOAD THIS SKILL WHEN: User says \"寫筆記\", \"write notes\", \"摘要\", \"summarize\", \"整理重點\" | has source content t...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "u9401066",
+    "github": "u9401066"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/u9401066/copilot-capability-manager",
+    "skill_md": "https://raw.githubusercontent.com/u9401066/copilot-capability-manager/main/.claude/skills/note-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.537Z",
+  "created_at": "2025-12-23T01:28:56.313Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/u9401066%2Fcopilot-capability-manager/.claude%2Fskills%2Fnote-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.537Z",
+    "uniqueId": "sk_4b254a98337d"
+  }
+}

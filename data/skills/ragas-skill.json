@@ -1,0 +1,35 @@
+{
+  "id": "ragas-skill",
+  "name": "ragas-skill",
+  "version": "1.0.0",
+  "summary": "RAGAS를 사용하여 LLM 애플리케이션을 체계적으로 평가하는 방법을 제공합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MiddleKD",
+    "github": "MiddleKD"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MiddleKD/prompt-eval-tuning",
+    "skill_md": "https://raw.githubusercontent.com/MiddleKD/prompt-eval-tuning/main/.claude/skills/ragas-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:22:05.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MiddleKD%2Fprompt-eval-tuning/.claude%2Fskills%2Fragas-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_3a0077841598"
+  }
+}

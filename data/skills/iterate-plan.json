@@ -1,0 +1,36 @@
+{
+  "id": "iterate-plan",
+  "name": "iterate-plan",
+  "version": "1.0.0",
+  "summary": "Update existing implementation plans through user feedback with thorough research and validation. This skill should be used when iterating on implementation plans, updating plan...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mhylle",
+    "github": "mhylle"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mhylle/claude-skills-collection",
+    "skill_md": "https://raw.githubusercontent.com/mhylle/claude-skills-collection/main/skills/iterate-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T16:01:56.000Z",
+  "created_at": "2025-12-22T18:00:58.602Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mhylle%2Fclaude-skills-collection/skills%2Fiterate-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_0bfbf557bef1"
+  }
+}

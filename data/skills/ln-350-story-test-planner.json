@@ -1,0 +1,35 @@
+{
+  "id": "ln-350-story-test-planner",
+  "name": "ln-350-story-test-planner",
+  "version": "1.0.0",
+  "summary": "Plans Story test task by Risk-Based Testing after manual testing. Calculates priorities, selects E2E/Integration/Unit, delegates to ln-311-task-creator. Invoked by ln-340-story-...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-350-story-test-planner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.478Z",
+  "created_at": "2025-12-23T01:29:46.212Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-350-story-test-planner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_99d9994a2cd3"
+  }
+}

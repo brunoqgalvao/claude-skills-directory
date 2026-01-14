@@ -1,0 +1,35 @@
+{
+  "id": "terminal-docs",
+  "name": "terminal-docs",
+  "version": "1.0.0",
+  "summary": "Reference terminal documentation for TTY/PTY, streams, signals, and cross-platform patterns",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mwguerra",
+    "github": "mwguerra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mwguerra/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mwguerra/claude-code-plugins/main/terminal-specialist/skills/terminal-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:56:58.779Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mwguerra%2Fclaude-code-plugins/terminal-specialist%2Fskills%2Fterminal-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_207a74a11bfe"
+  }
+}

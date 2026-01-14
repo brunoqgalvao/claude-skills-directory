@@ -1,0 +1,37 @@
+{
+  "id": "cva-concepts-agent-types",
+  "name": "cva-concepts-agent-types",
+  "version": "1.0.0",
+  "summary": "Agent system taxonomy (A/B/C/D) based on capabilities - Type A (pure AI), Type B (AI+database context), Type C (AI+web grounding), Type D (AI+database+web). Includes latency/cos...",
+  "verticals": [
+    "finance",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joaopelegrino",
+    "github": "joaopelegrino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joaopelegrino/hello-word-closure",
+    "skill_md": "https://raw.githubusercontent.com/joaopelegrino/hello-word-closure/main/.claude-plugin/clojure-vertex-adk/skills/cva-concepts-agent-types/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:30.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joaopelegrino%2Fhello-word-closure/.claude-plugin%2Fclojure-vertex-adk%2Fskills%2Fcva-concepts-agent-types%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_d1756525b5bb"
+  }
+}

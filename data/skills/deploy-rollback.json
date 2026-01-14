@@ -1,0 +1,36 @@
+{
+  "id": "deploy-rollback",
+  "name": "deploy-rollback",
+  "version": "1.0.0",
+  "summary": "Use when a deployment needs to be reverted - rolls back to a previous version with health verification. Premium feature (Pro+). Supports Docker, Vercel, and npm targets. Shows d...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jrc1883",
+    "github": "jrc1883"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jrc1883/popkit-claude",
+    "skill_md": "https://raw.githubusercontent.com/jrc1883/popkit-claude/main/skills/pop-deploy-rollback/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:31.105Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jrc1883%2Fpopkit-claude/skills%2Fpop-deploy-rollback%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_a2fdc6d9c5d6"
+  }
+}

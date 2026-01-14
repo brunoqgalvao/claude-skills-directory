@@ -1,0 +1,35 @@
+{
+  "id": "zachman-analysis",
+  "name": "zachman-analysis",
+  "version": "1.0.0",
+  "summary": "Apply Zachman Framework perspective analysis with honest limitations. Analyze architecture from specific row/column perspectives.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/enterprise-architecture/skills/zachman-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:07.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fenterprise-architecture%2Fskills%2Fzachman-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_63cf9be29254"
+  }
+}

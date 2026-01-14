@@ -1,0 +1,35 @@
+{
+  "id": "creating-modules",
+  "name": "creating-modules",
+  "version": "1.0.0",
+  "summary": "Creates new modules within existing packages following project conventions. Handles file structure, barrel exports, namespace files, package.json imports/exports, and internal i...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jasonkuhrt",
+    "github": "jasonkuhrt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jasonkuhrt/kit",
+    "skill_md": "https://raw.githubusercontent.com/jasonkuhrt/kit/main/.claude/skills/creating-modules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:35.088Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jasonkuhrt%2Fkit/.claude%2Fskills%2Fcreating-modules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_3b6281500493"
+  }
+}

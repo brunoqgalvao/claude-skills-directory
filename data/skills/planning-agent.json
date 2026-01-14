@@ -1,0 +1,37 @@
+{
+  "id": "planning-agent",
+  "name": "planning-agent",
+  "version": "1.0.0",
+  "summary": "Step-by-step procedural guidance for executing the /plan command workflow. Covers Phase 0 (Research), Phase 1 (Design), and Phase 2 (Validation) for implementation planning with...",
+  "verticals": [
+    "legal",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aseesy",
+    "github": "aseesy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aseesy/DEMO",
+    "skill_md": "https://raw.githubusercontent.com/aseesy/DEMO/main/.claude/skills/sdd-workflow/planning-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.543Z",
+  "created_at": "2025-12-23T01:28:55.012Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aseesy%2FDEMO/.claude%2Fskills%2Fsdd-workflow%2Fplanning-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_0ee69a780f7f"
+  }
+}

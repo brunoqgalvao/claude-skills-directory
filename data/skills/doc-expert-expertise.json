@@ -1,0 +1,35 @@
+{
+  "id": "doc-expert-expertise",
+  "name": "doc-expert-expertise",
+  "version": "1.0.0",
+  "summary": "Deep expertise for documentation lifecycle orchestration. Quality assessment frameworks, workflow patterns, delegation protocols, and release checklists. Auto-loads for doc-expe...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arimxyer",
+    "github": "arimxyer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arimxyer/doc-manager-mcp",
+    "skill_md": "https://raw.githubusercontent.com/arimxyer/doc-manager-mcp/main/plugin/skills/doc-expert-expertise/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T18:59:44.000Z",
+  "created_at": "2025-12-23T01:28:42.826Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arimxyer%2Fdoc-manager-mcp/plugin%2Fskills%2Fdoc-expert-expertise%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_5913fd55d237"
+  }
+}

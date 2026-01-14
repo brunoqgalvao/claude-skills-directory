@@ -1,0 +1,35 @@
+{
+  "id": "performance-regression-detection",
+  "name": "performance-regression-detection",
+  "version": "1.0.0",
+  "summary": "Track performance benchmarks and detect regressions exceeding 10% threshold. Analyze historical trends and alert on degradation. Calculate regression score (0.00-1.00) for perfo...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/shannon-framework",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/shannon-framework/main/skills/performance-regression-detection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:35.403Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fshannon-framework/skills%2Fperformance-regression-detection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_069cf0211bf0"
+  }
+}

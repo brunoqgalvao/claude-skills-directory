@@ -1,0 +1,35 @@
+{
+  "id": "ctx-collector",
+  "name": "ctx-collector",
+  "version": "1.0.0",
+  "summary": "Scan and aggregate task checkboxes from Speckit (.specify/) and context-planning (specs/) formats into a unified backlog.yaml, with automatic project context analysis and auto-u...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Real-AI-Engineering",
+    "github": "Real-AI-Engineering"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Real-AI-Engineering/context-planning-system",
+    "skill_md": "https://raw.githubusercontent.com/Real-AI-Engineering/context-planning-system/main/.claude/skills/ctx-collector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:04:17.691Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Real-AI-Engineering%2Fcontext-planning-system/.claude%2Fskills%2Fctx-collector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_5e5f2488a9c1"
+  }
+}

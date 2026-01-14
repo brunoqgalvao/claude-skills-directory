@@ -1,0 +1,37 @@
+{
+  "id": "sleeptrack-foundation",
+  "name": "sleeptrack-foundation",
+  "version": "1.0.0",
+  "summary": "This skill provides foundational knowledge about Asleep sleep tracking platform, covering core concepts, authentication, data structures, error handling, and platform-agnostic b...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asleep-ai",
+    "github": "asleep-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asleep-ai/sleeptrack-skills",
+    "skill_md": "https://raw.githubusercontent.com/asleep-ai/sleeptrack-skills/main/skills/sleeptrack-foundation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:24.995Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asleep-ai%2Fsleeptrack-skills/skills%2Fsleeptrack-foundation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_164b7b488735"
+  }
+}

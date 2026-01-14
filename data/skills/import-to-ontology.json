@@ -1,0 +1,35 @@
+{
+  "id": "import-to-ontology",
+  "name": "import-to-ontology",
+  "version": "1.0.0",
+  "summary": "Intelligently parse and move content from source markdown files to appropriate ontology locations with validation, enrichment, and web content integration",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/sindri",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/sindri/main/docker/lib/extensions/vf-import-to-ontology/resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:48.843Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fsindri/docker%2Flib%2Fextensions%2Fvf-import-to-ontology%2Fresources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_4ad890b0eaac"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "esa-daily-report",
+  "name": "esa-daily-report",
+  "version": "1.0.0",
+  "summary": "Automatic daily report creator for esa.io with Google Calendar integration. Triggers on keywords: \"日報\", \"daily report\", \"振り返り\", \"reflection\", \"今日の記録\", \"today's summary\", \"esa\", ...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thkt",
+    "github": "thkt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thkt/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/thkt/claude-config/main/skills.bak/esa-daily-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T10:03:15.000Z",
+  "created_at": "2025-12-20T05:14:10.371Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thkt%2Fclaude-config/skills.bak%2Fesa-daily-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_ac81863f01f1"
+  }
+}

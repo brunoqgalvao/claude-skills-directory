@@ -1,0 +1,35 @@
+{
+  "id": "editor-agent",
+  "name": "editor-agent",
+  "version": "1.0.0",
+  "summary": "Specialized agent for line-level editing focused on clarity, concision, and style. Improves sentence structure, word choice, and rhythm. Use when user asks for \"line editing\", \"...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathan-a-king",
+    "github": "nathan-a-king"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathan-a-king/writing-infrastructure",
+    "skill_md": "https://raw.githubusercontent.com/nathan-a-king/writing-infrastructure/main/editor-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.681Z",
+  "created_at": "2025-12-22T22:10:46.583Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathan-a-king%2Fwriting-infrastructure/editor-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.681Z",
+    "uniqueId": "sk_857d93e56fb8"
+  }
+}

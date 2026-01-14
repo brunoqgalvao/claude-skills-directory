@@ -1,0 +1,37 @@
+{
+  "id": "claude-git-branching",
+  "name": "claude-git-branching",
+  "version": "1.0.0",
+  "summary": "Expert Git workflow management for Claude Code sessions with branch naming conventions, push retry logic, conflict resolution, and PR automation specifically designed for AI-ass...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/claude-git-branching/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.636Z",
+  "created_at": "2025-12-22T23:09:50.892Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fclaude-git-branching%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.636Z",
+    "uniqueId": "sk_6f54f7ab3242"
+  }
+}

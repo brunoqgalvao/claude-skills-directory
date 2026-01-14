@@ -1,0 +1,36 @@
+{
+  "id": "database-architect",
+  "name": "database-architect",
+  "version": "1.0.0",
+  "summary": "Expert database schema designer and Drizzle ORM specialist. Use when user needs database design, schema creation, migrations, query optimization, or Postgres-specific features. ...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcioaltoe",
+    "github": "marcioaltoe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcioaltoe/claude-craftkit",
+    "skill_md": "https://raw.githubusercontent.com/marcioaltoe/claude-craftkit/main/plugins/db-tools/skills/database-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.630Z",
+  "created_at": "2025-12-22T23:14:25.991Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcioaltoe%2Fclaude-craftkit/plugins%2Fdb-tools%2Fskills%2Fdatabase-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.630Z",
+    "uniqueId": "sk_34a4a01aac92"
+  }
+}

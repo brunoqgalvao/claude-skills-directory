@@ -1,0 +1,36 @@
+{
+  "id": "iwc-workflow-recommender",
+  "name": "iwc-workflow-recommender",
+  "version": "1.0.0",
+  "summary": "Recommends appropriate IWC (Intergalactic Workflow Commission) Galaxy workflows for genomic analysis. Use this skill when users need to analyze genomic data - the skill searches...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dannon",
+    "github": "dannon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dannon/taxonomy-resolver",
+    "skill_md": "https://raw.githubusercontent.com/dannon/taxonomy-resolver/main/iwc-workflow-recommender/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:37.975Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dannon%2Ftaxonomy-resolver/iwc-workflow-recommender%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_d53d705e1c98"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "deployment-pipeline-design",
+  "name": "deployment-pipeline-design",
+  "version": "1.0.0",
+  "summary": "Design multi-stage CI/CD pipelines with approval gates, security checks, and deployment orchestration. Use when architecting deployment workflows, setting up continuous delivery...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "neo-picasso-2112",
+    "github": "neo-picasso-2112"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/neo-picasso-2112/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/neo-picasso-2112/dotfiles/main/.claude/skills/deployment-pipeline-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:30:03.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/neo-picasso-2112%2Fdotfiles/.claude%2Fskills%2Fdeployment-pipeline-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_fda05ef1def8"
+  }
+}

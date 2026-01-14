@@ -1,0 +1,35 @@
+{
+  "id": "lambda-labs-gpu-cloud",
+  "name": "lambda-labs-gpu-cloud",
+  "version": "1.0.0",
+  "summary": "Reserved and on-demand GPU cloud instances for ML training and inference. Use when you need dedicated GPU instances with simple SSH access, persistent filesystems, or high-perfo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/09-infrastructure/lambda-labs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:16:00.845Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/09-infrastructure%2Flambda-labs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_7b05e7b698e6"
+  }
+}

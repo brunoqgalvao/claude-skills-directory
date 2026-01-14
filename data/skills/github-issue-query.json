@@ -1,0 +1,35 @@
+{
+  "id": "github-issue-query",
+  "name": "github-issue-query",
+  "version": "1.0.0",
+  "summary": "Query GitHub issues efficiently with jq argument support for filtering",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "githubnext",
+    "github": "githubnext"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/githubnext/gh-aw",
+    "skill_md": "https://raw.githubusercontent.com/githubnext/gh-aw/main/skills/github-issue-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:32.184Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/githubnext%2Fgh-aw/skills%2Fgithub-issue-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_7a302be3f918"
+  }
+}

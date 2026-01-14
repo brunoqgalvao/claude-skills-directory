@@ -1,0 +1,35 @@
+{
+  "id": "internal-linking-optimizer",
+  "name": "internal-linking-optimizer",
+  "version": "1.0.0",
+  "summary": "Analyzes and optimizes internal link structure to improve site architecture, distribute page authority, and help search engines understand content relationships. Creates strateg...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aaron-he-zhu",
+    "github": "aaron-he-zhu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/aaron-he-zhu/seo-geo-claude-skills/main/optimize/internal-linking-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:44.283Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aaron-he-zhu%2Fseo-geo-claude-skills/optimize%2Finternal-linking-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_163b60c86f39"
+  }
+}

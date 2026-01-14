@@ -1,0 +1,35 @@
+{
+  "id": "docs",
+  "name": "docs",
+  "version": "1.0.0",
+  "summary": "Get official Claude Code documentation. Use when the user asks about Claude Code features OR when you need to create/implement plugins, skills, hooks, subagents, slash commands,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkmaker",
+    "github": "dkmaker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkmaker/my-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/dkmaker/my-claude-plugins/main/claude-expert/skills/docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:55.295Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkmaker%2Fmy-claude-plugins/claude-expert%2Fskills%2Fdocs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_277a2566ff78"
+  }
+}

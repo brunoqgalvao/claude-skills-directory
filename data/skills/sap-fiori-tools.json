@@ -1,0 +1,37 @@
+{
+  "id": "sap-fiori-tools",
+  "name": "sap-fiori-tools",
+  "version": "1.0.0",
+  "summary": "Develops SAP Fiori applications using SAP Fiori tools extensions for VS Code and SAP Business Application Studio.\nUse when: generating Fiori Elements or Freestyle SAPUI5 applica...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "secondsky",
+    "github": "secondsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/secondsky/sap-skills",
+    "skill_md": "https://raw.githubusercontent.com/secondsky/sap-skills/main/skills/sap-fiori-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:11:00.664Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/secondsky%2Fsap-skills/skills%2Fsap-fiori-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_3fb279c0a9aa"
+  }
+}

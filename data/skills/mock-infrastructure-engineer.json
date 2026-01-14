@@ -1,0 +1,37 @@
+{
+  "id": "mock-infrastructure-engineer",
+  "name": "mock-infrastructure-engineer",
+  "version": "1.0.0",
+  "summary": "Creates and optimizes MSW (Mock Service Worker) handlers for Playwright E2E tests, implementing handler caching, fixture management, and AI Gateway mocking patterns. Use when mo...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-oit",
+    "github": "d-oit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-oit/do-novelist-ai",
+    "skill_md": "https://raw.githubusercontent.com/d-oit/do-novelist-ai/main/.claude/skills/mock-infrastructure-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:22.651Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-oit%2Fdo-novelist-ai/.claude%2Fskills%2Fmock-infrastructure-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_da703c132630"
+  }
+}

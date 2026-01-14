@@ -1,0 +1,35 @@
+{
+  "id": "shader-creator",
+  "name": "shader-creator",
+  "version": "1.0.0",
+  "summary": "Creating GLSL shaders with interactive parameter exploration. Use this when users request creating shaders, fragment shaders, visual effects, procedural textures, or shader art....",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "polats",
+    "github": "polats"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/polats/gg-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/polats/gg-monorepo/main/.claude/skills/shader-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.620Z",
+  "created_at": "2025-12-22T23:20:08.993Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/polats%2Fgg-monorepo/.claude%2Fskills%2Fshader-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.620Z",
+    "uniqueId": "sk_33ee131dca48"
+  }
+}

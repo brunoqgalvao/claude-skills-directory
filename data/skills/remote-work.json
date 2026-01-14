@@ -1,0 +1,35 @@
+{
+  "id": "remote-work",
+  "name": "remote-work",
+  "version": "1.0.0",
+  "summary": "Execute amplihack work on remote Azure VMs with automatic region and resource selection",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rysweet",
+    "github": "rysweet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rysweet/AzureHayMaker",
+    "skill_md": "https://raw.githubusercontent.com/rysweet/AzureHayMaker/main/.claude/skills/remote-work/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T20:31:06.000Z",
+  "created_at": "2025-12-22T17:52:10.903Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rysweet%2FAzureHayMaker/.claude%2Fskills%2Fremote-work%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_e6a39dbbd2b2"
+  }
+}

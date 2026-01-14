@@ -1,0 +1,35 @@
+{
+  "id": "subagent-creator",
+  "name": "subagent-creator",
+  "version": "1.0.0",
+  "summary": "创建具有自定义系统提示和工具配置的专业化 Claude Code 子代理。当用户要求创建新的子代理、自定义代理、专业助手，或为 Claude Code 配置特定任务的 AI 工作流时使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evanfang0054",
+    "github": "evanfang0054"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evanfang0054/cc-system-creator-scripts",
+    "skill_md": "https://raw.githubusercontent.com/evanfang0054/cc-system-creator-scripts/main/.claude/skills/subagent-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:44.466Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evanfang0054%2Fcc-system-creator-scripts/.claude%2Fskills%2Fsubagent-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_888bc488350c"
+  }
+}

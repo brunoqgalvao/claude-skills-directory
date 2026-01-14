@@ -1,0 +1,35 @@
+{
+  "id": "speckit-analyze-zh",
+  "name": "speckit-analyze-zh",
+  "version": "1.0.0",
+  "summary": "对spec.md、plan.md和tasks.md三个核心文档进行非破坏性跨工件一致性和质量分析。在任务生成后识别不一致、重复、模糊和规范不足的项目。触发词包括：\"speckit-analyze\"、\"speckit分析\"、\"文档一致性分析\"、\"规范分析\"、\"质量检查\"、\"工件分析\"、\"spec分析\"、\"plan分析\"、\"task分析\"。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "forztf",
+    "github": "forztf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/forztf/open-skilled-sdd",
+    "skill_md": "https://raw.githubusercontent.com/forztf/open-skilled-sdd/main/skills/speckit-analyze-zh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:13.268Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/forztf%2Fopen-skilled-sdd/skills%2Fspeckit-analyze-zh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_33bb13dff85f"
+  }
+}

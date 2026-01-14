@@ -1,0 +1,37 @@
+{
+  "id": "dast-nuclei",
+  "name": "dast-nuclei",
+  "version": "1.0.0",
+  "summary": "Fast, template-based vulnerability scanning using ProjectDiscovery's Nuclei with extensive community templates covering CVEs, OWASP Top 10, misconfigurations, and security issue...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentSecOps",
+    "github": "AgentSecOps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentSecOps/SecOpsAgentKit",
+    "skill_md": "https://raw.githubusercontent.com/AgentSecOps/SecOpsAgentKit/main/skills/appsec/dast-nuclei/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T10:05:50.000Z",
+  "created_at": "2025-12-23T01:29:49.935Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentSecOps%2FSecOpsAgentKit/skills%2Fappsec%2Fdast-nuclei%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_b45248fa630a"
+  }
+}

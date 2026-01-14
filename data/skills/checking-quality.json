@@ -1,0 +1,37 @@
+{
+  "id": "checking-quality",
+  "name": "checking-quality",
+  "version": "1.0.0",
+  "summary": "Ensures code quality through comprehensive checks including TDD practices, lint/test/build validation, and prevention of common mistakes. Use after completing implementations, f...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "team-mirai-volunteer",
+    "github": "team-mirai-volunteer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/team-mirai-volunteer/kokkai-join",
+    "skill_md": "https://raw.githubusercontent.com/team-mirai-volunteer/kokkai-join/main/.claude/skills/checking-quality/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T09:31:12.000Z",
+  "created_at": "2025-12-23T01:28:53.145Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/team-mirai-volunteer%2Fkokkai-join/.claude%2Fskills%2Fchecking-quality%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_b05ef63991fd"
+  }
+}

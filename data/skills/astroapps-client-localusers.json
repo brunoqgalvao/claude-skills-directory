@@ -1,0 +1,36 @@
+{
+  "id": "astroapps-client-localusers",
+  "name": "astroapps-client-localusers",
+  "version": "1.0.0",
+  "summary": "React hooks for local user authentication UI including login, signup, password reset, MFA, and account management. Use when building authentication pages for email/password auth...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astrolabe-apps",
+    "github": "astrolabe-apps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astrolabe-apps/astrolabe-common",
+    "skill_md": "https://raw.githubusercontent.com/astrolabe-apps/astrolabe-common/main/skills/astroapps-client-localusers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.627Z",
+  "created_at": "2025-12-22T23:16:07.002Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astrolabe-apps%2Fastrolabe-common/skills%2Fastroapps-client-localusers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.627Z",
+    "uniqueId": "sk_37965b83ab3f"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "accessibility-auditor",
+  "name": "accessibility-auditor",
+  "version": "1.0.0",
+  "summary": "Reviews UI components for WCAG compliance, ARIA attributes, keyboard navigation, and screen reader support. Use when building frontend components or user requests accessibility ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CrazyDubya",
+    "github": "CrazyDubya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CrazyDubya/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/CrazyDubya/claude-skills/main/accessibility-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T02:10:32.000Z",
+  "created_at": "2025-12-23T01:29:04.061Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CrazyDubya%2Fclaude-skills/accessibility-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_3564de746fe1"
+  }
+}

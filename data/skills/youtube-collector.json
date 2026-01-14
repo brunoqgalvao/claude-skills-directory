@@ -1,0 +1,35 @@
+{
+  "id": "youtube-collector",
+  "name": "youtube-collector",
+  "version": "1.0.0",
+  "summary": "유튜브 채널을 등록하고 새 컨텐츠를 수집하여 자막 기반 요약을 생성하는 skill. 사용자가 (1) 유튜브 채널 등록/관리를 요청하거나, (2) 등록된 채널의 새 영상 수집을 요청하거나, (3) 유튜브 영상 요약을 요청할 때 사용. 데이터는 .reference/ 폴더에 YAML 형식으로 저장됨.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greatSumini",
+    "github": "greatSumini"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greatSumini/cc-system",
+    "skill_md": "https://raw.githubusercontent.com/greatSumini/cc-system/main/.claude/skills/youtube-collector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:40.800Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greatSumini%2Fcc-system/.claude%2Fskills%2Fyoutube-collector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_e75ef23638bf"
+  }
+}

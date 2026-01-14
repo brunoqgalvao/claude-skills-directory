@@ -1,0 +1,36 @@
+{
+  "id": "cass-memory",
+  "name": "cass-memory",
+  "version": "1.0.0",
+  "summary": "Contextual learning system that remembers patterns and rules from past sessions. Use to get relevant context before tasks, record outcomes, and build a personal playbook of codi...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/claude",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/claude/main/skills/cass-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:08:14.982Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fclaude/skills%2Fcass-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_26518d643c5e"
+  }
+}

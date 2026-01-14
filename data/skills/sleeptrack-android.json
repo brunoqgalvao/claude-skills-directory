@@ -1,0 +1,36 @@
+{
+  "id": "sleeptrack-android",
+  "name": "sleeptrack-android",
+  "version": "1.0.0",
+  "summary": "This skill helps Android developers integrate the Asleep SDK for sleep tracking functionality. Use this skill when developers ask about Android implementation, MVVM architecture...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asleep-ai",
+    "github": "asleep-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asleep-ai/sleeptrack-skills",
+    "skill_md": "https://raw.githubusercontent.com/asleep-ai/sleeptrack-skills/main/skills/sleeptrack-android/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.637Z",
+  "created_at": "2025-12-22T23:09:30.099Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asleep-ai%2Fsleeptrack-skills/skills%2Fsleeptrack-android%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.637Z",
+    "uniqueId": "sk_4b04119bd73c"
+  }
+}

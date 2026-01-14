@@ -1,0 +1,35 @@
+{
+  "id": "component-organization",
+  "name": "component-organization",
+  "version": "1.0.0",
+  "summary": "Maintain consistent file structure - components/ui for base shadcn, components/shared for composed components, pages for routes, always use barrel exports",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JewelsHovan",
+    "github": "JewelsHovan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JewelsHovan/pain-plus-site",
+    "skill_md": "https://raw.githubusercontent.com/JewelsHovan/pain-plus-site/main/frontend/.claude/skills/component-organization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.617Z",
+  "created_at": "2025-12-22T23:20:23.452Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JewelsHovan%2Fpain-plus-site/frontend%2F.claude%2Fskills%2Fcomponent-organization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.617Z",
+    "uniqueId": "sk_2dea08084f32"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "firstspirit-templating",
+  "name": "firstspirit-templating",
+  "version": "1.0.0",
+  "summary": "This skill provides comprehensive knowledge for templating in the FirstSpirit CMS, specifically focused on SiteArchitect development. This skill should be used when working with...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rawe",
+    "github": "rawe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rawe/claude-dev-skills",
+    "skill_md": "https://raw.githubusercontent.com/rawe/claude-dev-skills/main/firstspirit-templating/skills/firstspirit-templating/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:13.987Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rawe%2Fclaude-dev-skills/firstspirit-templating%2Fskills%2Ffirstspirit-templating%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_a3d9b08fd299"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ln-300-story-pipeline",
+  "name": "ln-300-story-pipeline",
+  "version": "1.0.0",
+  "summary": "Orchestrates complete Story workflow from task planning to Done. Delegates to ln-310-story-decomposer, ln-320-story-validator, ln-330-story-executor for full automation.",
+  "verticals": [
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-300-story-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:09.217Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-300-story-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_004d69f8101b"
+  }
+}

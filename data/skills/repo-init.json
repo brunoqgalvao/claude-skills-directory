@@ -1,0 +1,35 @@
+{
+  "id": "repo-init",
+  "name": "repo-init",
+  "version": "1.0.0",
+  "summary": "This skill initializes the bgf project by cloning the two subproject git repositories (bgf-dawn Shopify theme and bgf_2024 informational website). Use when setting up the projec...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylermorganme",
+    "github": "tylermorganme"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylermorganme/bgf",
+    "skill_md": "https://raw.githubusercontent.com/tylermorganme/bgf/main/.claude/skills/repo-init/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.580Z",
+  "created_at": "2025-12-23T01:28:17.969Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylermorganme%2Fbgf/.claude%2Fskills%2Frepo-init%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_a4a11862ceed"
+  }
+}

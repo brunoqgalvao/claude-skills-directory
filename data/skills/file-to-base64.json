@@ -1,0 +1,36 @@
+{
+  "id": "file-to-base64",
+  "name": "file-to-base64",
+  "version": "1.0.0",
+  "summary": "Convert files (PDF, images) to Base64 encoding with MIME type detection for API attachments. Use when you need to prepare file attachments for the FreeAgent API or any other API...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WavingCatApps",
+    "github": "WavingCatApps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WavingCatApps/freeagent-mcp-vercel",
+    "skill_md": "https://raw.githubusercontent.com/WavingCatApps/freeagent-mcp-vercel/main/skills/file-to-base64/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:29.679Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WavingCatApps%2Ffreeagent-mcp-vercel/skills%2Ffile-to-base64%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_bddd711e837c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "feature-spec-writer",
+  "name": "feature-spec-writer",
+  "version": "1.0.0",
+  "summary": "PM framework for writing product specs from insights. Use when translating analysis into actionable feature requirements.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cncorp",
+    "github": "cncorp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cncorp/arsenal",
+    "skill_md": "https://raw.githubusercontent.com/cncorp/arsenal/main/dot-claude/skills/feature-spec-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:14:56.074Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cncorp%2Farsenal/dot-claude%2Fskills%2Ffeature-spec-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_f54b0f1128a2"
+  }
+}

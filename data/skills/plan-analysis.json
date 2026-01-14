@@ -1,0 +1,35 @@
+{
+  "id": "plan-analysis",
+  "name": "plan-analysis",
+  "version": "1.0.0",
+  "summary": "Use when the user provides an implementation plan file and asks to analyze it, assess impact, update specifications, or verify planned changes. Triggers on keywords like \"analyz...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "duc01226",
+    "github": "duc01226"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/duc01226/EasyPlatform",
+    "skill_md": "https://raw.githubusercontent.com/duc01226/EasyPlatform/main/.github/skills/plan-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.517Z",
+  "created_at": "2025-12-23T01:29:11.796Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/duc01226%2FEasyPlatform/.github%2Fskills%2Fplan-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.517Z",
+    "uniqueId": "sk_ac8c3d12487a"
+  }
+}

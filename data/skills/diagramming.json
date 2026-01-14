@@ -1,0 +1,35 @@
+{
+  "id": "diagramming",
+  "name": "diagramming",
+  "version": "1.0.0",
+  "summary": "Creates and edits Mermaid diagrams for flowcharts, sequence diagrams, ERDs, state machines, architecture diagrams, process flows, timelines, and more. Use when user mentions dia...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joaquimscosta",
+    "github": "joaquimscosta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joaquimscosta/arkhe-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/joaquimscosta/arkhe-claude-plugins/main/doc/skills/mermaid/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T03:32:37.000Z",
+  "created_at": "2025-12-23T01:28:48.288Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joaquimscosta%2Farkhe-claude-plugins/doc%2Fskills%2Fmermaid%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_81c07aa70d0c"
+  }
+}

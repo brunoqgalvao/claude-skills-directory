@@ -1,0 +1,35 @@
+{
+  "id": "git-message-guide",
+  "name": "git-message-guide",
+  "version": "1.0.0",
+  "summary": "コミットメッセージとPRメッセージのガイドライン。Conventional Commits形式での日本語コミットメッセージ作成、PRの概要・レビュー観点・関連Issue記載をサポート。git commit、PR作成、コミットメッセージの書き方を聞かれた時に使用する。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "natsuume",
+    "github": "natsuume"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/natsuume/cc-sample-code",
+    "skill_md": "https://raw.githubusercontent.com/natsuume/cc-sample-code/main/examples/chapter04/.claude/skills/git-message-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:22.390Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/natsuume%2Fcc-sample-code/examples%2Fchapter04%2F.claude%2Fskills%2Fgit-message-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_66d5ae96abfb"
+  }
+}

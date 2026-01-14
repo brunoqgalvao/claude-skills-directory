@@ -1,0 +1,37 @@
+{
+  "id": "braiins-cache-strategist",
+  "name": "braiins-cache-strategist",
+  "version": "1.0.0",
+  "summary": "Designs Redis caching strategies for Braiins API data, optimizing for\ndata freshness vs. API rate limits and response latency.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ryno-Crypto-Mining-Services",
+    "github": "Ryno-Crypto-Mining-Services"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server/main/.claude/skills/braiins-cache-strategist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:08:51.421Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ryno-Crypto-Mining-Services%2Fbraiins-pool-mcp-server/.claude%2Fskills%2Fbraiins-cache-strategist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_2d9f1b816c93"
+  }
+}

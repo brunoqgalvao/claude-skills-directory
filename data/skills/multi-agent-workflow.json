@@ -1,0 +1,36 @@
+{
+  "id": "multi-agent-workflow",
+  "name": "multi-agent-workflow",
+  "version": "1.0.0",
+  "summary": "Manager session that launches worker Claude instances in parallel git worktrees for concurrent implementations. Observer subagents monitor workers and report results. Manager ev...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oikon48",
+    "github": "oikon48"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oikon48/cc-web-playground",
+    "skill_md": "https://raw.githubusercontent.com/oikon48/cc-web-playground/main/.claude/skills/multi-agent-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:35.794Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oikon48%2Fcc-web-playground/.claude%2Fskills%2Fmulti-agent-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_e41c0b2cb0c4"
+  }
+}

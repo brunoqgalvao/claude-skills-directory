@@ -1,0 +1,35 @@
+{
+  "id": "docker-setup",
+  "name": "docker-setup",
+  "version": "1.0.0",
+  "summary": "Docker 容器化配置指南",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Leavesfly",
+    "github": "Leavesfly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Leavesfly/Jimi",
+    "skill_md": "https://raw.githubusercontent.com/Leavesfly/Jimi/main/src/main/resources/skills/docker-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T05:52:54.000Z",
+  "created_at": "2025-12-22T14:54:08.891Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Leavesfly%2FJimi/src%2Fmain%2Fresources%2Fskills%2Fdocker-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_dd1171fc0566"
+  }
+}

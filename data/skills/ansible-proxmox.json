@@ -1,0 +1,35 @@
+{
+  "id": "ansible-proxmox",
+  "name": "ansible-proxmox",
+  "version": "1.0.0",
+  "summary": "This skill should be used when automating Proxmox VE with Ansible, creating VMs or templates, managing Proxmox clusters, using community.proxmox collection, or deciding between ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "basher83",
+    "github": "basher83"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/basher83/lunar-claude",
+    "skill_md": "https://raw.githubusercontent.com/basher83/lunar-claude/main/plugins/infrastructure/ansible-workflows/skills/ansible-proxmox/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T04:44:48.000Z",
+  "created_at": "2025-12-22T20:07:09.289Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/basher83%2Flunar-claude/plugins%2Finfrastructure%2Fansible-workflows%2Fskills%2Fansible-proxmox%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_0f6865d0957a"
+  }
+}

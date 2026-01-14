@@ -1,0 +1,36 @@
+{
+  "id": "pdf-processor",
+  "name": "pdf-processor",
+  "version": "1.0.0",
+  "summary": "Process PDF files for text extraction, form filling, and document analysis. Use when you need to extract content from PDFs, fill forms, or analyze document structure.",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aig787",
+    "github": "aig787"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aig787/agpm",
+    "skill_md": "https://raw.githubusercontent.com/aig787/agpm/main/examples/deps/skills/pdf-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:30:14.308Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aig787%2Fagpm/examples%2Fdeps%2Fskills%2Fpdf-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_f6ddd7029922"
+  }
+}

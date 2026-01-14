@@ -1,0 +1,35 @@
+{
+  "id": "dst-tables",
+  "name": "dst-tables",
+  "version": "1.0.0",
+  "summary": "Search and list Danmarks Statistik tables by subject or keyword. Use when user needs to find specific tables or browse tables within a subject area.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikkelkrogsholm",
+    "github": "mikkelkrogsholm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikkelkrogsholm/dst-skills",
+    "skill_md": "https://raw.githubusercontent.com/mikkelkrogsholm/dst-skills/main/.claude/skills/dst-tables/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:57.974Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikkelkrogsholm%2Fdst-skills/.claude%2Fskills%2Fdst-tables%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_a878f860aef9"
+  }
+}

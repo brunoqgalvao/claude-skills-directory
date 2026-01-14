@@ -1,0 +1,35 @@
+{
+  "id": "session-execution",
+  "name": "session-execution",
+  "version": "1.0.0",
+  "summary": "Use when working on or reviewing session execution, command handling, shell state, FIFO-based streaming, or stdout/stderr separation. Relevant for session.ts, command handlers, ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cloudflare",
+    "github": "cloudflare"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cloudflare/sandbox-sdk",
+    "skill_md": "https://raw.githubusercontent.com/cloudflare/sandbox-sdk/main/.claude/skills/session-execution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:16:03.000Z",
+  "created_at": "2025-12-23T01:28:43.518Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cloudflare%2Fsandbox-sdk/.claude%2Fskills%2Fsession-execution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.557Z",
+    "uniqueId": "sk_dba1d679eb1a"
+  }
+}

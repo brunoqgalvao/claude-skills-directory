@@ -1,0 +1,35 @@
+{
+  "id": "documentation",
+  "name": "documentation",
+  "version": "1.0.0",
+  "summary": "Provides documentation standards for README, API docs, code comments, changelogs, and project cleanup. Use when writing documentation, README files, API references, or cleaning ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kcenon",
+    "github": "kcenon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kcenon/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/kcenon/claude-config/main/project/.claude/skills/documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:11.723Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kcenon%2Fclaude-config/project%2F.claude%2Fskills%2Fdocumentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_ec6629798134"
+  }
+}

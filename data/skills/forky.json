@@ -1,0 +1,35 @@
+{
+  "id": "forky",
+  "name": "forky",
+  "version": "1.0.0",
+  "summary": "Fork Claude sessions to handle side tasks in parallel without losing context",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tomWhiting",
+    "github": "tomWhiting"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tomWhiting/forky",
+    "skill_md": "https://raw.githubusercontent.com/tomWhiting/forky/main/skills/forky/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T07:05:25.000Z",
+  "created_at": "2025-12-23T01:28:45.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tomWhiting%2Fforky/skills%2Fforky%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_5024d855768d"
+  }
+}

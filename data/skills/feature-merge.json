@@ -1,0 +1,35 @@
+{
+  "id": "feature-merge",
+  "name": "feature-merge",
+  "version": "1.0.0",
+  "summary": "Merge feature branches into main using squash commits with comprehensive commit messages. Use this skill when the user requests to merge, ship, or integrate a feature branch int...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "haleyrc",
+    "github": "haleyrc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/haleyrc/stele",
+    "skill_md": "https://raw.githubusercontent.com/haleyrc/stele/main/.claude/skills/feature-merge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T18:28:59.000Z",
+  "created_at": "2025-12-22T18:02:16.187Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/haleyrc%2Fstele/.claude%2Fskills%2Ffeature-merge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_f440c5f84ed3"
+  }
+}

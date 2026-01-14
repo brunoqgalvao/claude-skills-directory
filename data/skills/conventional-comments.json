@@ -1,0 +1,35 @@
+{
+  "id": "conventional-comments",
+  "name": "conventional-comments",
+  "version": "1.0.0",
+  "summary": "Write structured code review comments using Conventional Comments format.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hairihou",
+    "github": "hairihou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hairihou/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/hairihou/dotfiles/main/src/.claude/skills/conventional-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:59:06.579Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hairihou%2Fdotfiles/src%2F.claude%2Fskills%2Fconventional-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_e9d9d7b46ec9"
+  }
+}

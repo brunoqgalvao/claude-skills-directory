@@ -1,0 +1,36 @@
+{
+  "id": "user-story-templates",
+  "name": "user-story-templates",
+  "version": "1.0.0",
+  "summary": "Master user story templates including As-a/I-want/So-that format, acceptance criteria (Given-When-Then), story splitting, and INVEST criteria. Use when writing user stories, def...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "slgoodrich",
+    "github": "slgoodrich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/slgoodrich/agents",
+    "skill_md": "https://raw.githubusercontent.com/slgoodrich/agents/main/plugins/ai-pm-copilot/skills/user-story-templates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.710Z",
+  "created_at": "2025-12-22T21:16:50.617Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/slgoodrich%2Fagents/plugins%2Fai-pm-copilot%2Fskills%2Fuser-story-templates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.710Z",
+    "uniqueId": "sk_6059637f8438"
+  }
+}

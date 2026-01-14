@@ -1,0 +1,36 @@
+{
+  "id": "notification-integration-gha",
+  "name": "notification-integration-gha",
+  "version": "1.0.0",
+  "summary": "GitHub Actions通知統合スキル - Slack、Discord、MS Teams、Email等への自動通知設定。\n以下の場合に自動発動:\n- 「通知」「notification」「alert」「Slack」「Discord」「Teams」キーワード検出時\n- ワークフロー成功/失敗時の通知設定が必要な時\n- チーム連携のための通知チャネル構...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/notification-integration-gha/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T16:24:42.000Z",
+  "created_at": "2025-12-23T01:29:19.105Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fnotification-integration-gha%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.508Z",
+    "uniqueId": "sk_7b097cacfb31"
+  }
+}

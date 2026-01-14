@@ -1,0 +1,35 @@
+{
+  "id": "openrewrite",
+  "name": "openrewrite",
+  "version": "1.0.0",
+  "summary": "OpenRewrite recipe development and test maintenance. Use when writing OpenRewrite recipes, fixing test failures, or working with import ordering in recipe tests.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "motlin",
+    "github": "motlin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/motlin/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/motlin/claude-code-plugins/main/plugins/java/skills/openrewrite/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.827Z",
+  "created_at": "2025-12-22T16:59:36.807Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/motlin%2Fclaude-code-plugins/plugins%2Fjava%2Fskills%2Fopenrewrite%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.827Z",
+    "uniqueId": "sk_a52a4bd39d53"
+  }
+}

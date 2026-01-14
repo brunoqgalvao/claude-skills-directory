@@ -1,0 +1,37 @@
+{
+  "id": "pg-data",
+  "name": "pg-data",
+  "version": "1.0.0",
+  "summary": "Generate safe, read-only PostgreSQL queries from natural language. Use when users need to query blog_small, ecommerce_medium, or saas_crm_large databases. Supports query generat...",
+  "verticals": [
+    "sales",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tyrchen",
+    "github": "tyrchen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tyrchen/geektime-bootcamp-ai",
+    "skill_md": "https://raw.githubusercontent.com/tyrchen/geektime-bootcamp-ai/main/.claude/skills/pg-data/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:19.869Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tyrchen%2Fgeektime-bootcamp-ai/.claude%2Fskills%2Fpg-data%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_c2fc75881c13"
+  }
+}

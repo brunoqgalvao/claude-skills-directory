@@ -1,0 +1,36 @@
+{
+  "id": "quality-engineer",
+  "name": "quality-engineer",
+  "version": "1.0.0",
+  "summary": "Expert in code quality, formatting, linting, and quality gates workflow. Use when user needs to setup quality tools, fix linting errors, configure Biome/Prettier, setup pre-comm...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcioaltoe",
+    "github": "marcioaltoe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcioaltoe/claude-craftkit",
+    "skill_md": "https://raw.githubusercontent.com/marcioaltoe/claude-craftkit/main/plugins/quality/skills/quality-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:21.532Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcioaltoe%2Fclaude-craftkit/plugins%2Fquality%2Fskills%2Fquality-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_56574d0eb01f"
+  }
+}

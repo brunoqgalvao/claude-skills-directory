@@ -1,0 +1,37 @@
+{
+  "id": "sqlite-best-practices",
+  "name": "sqlite-best-practices",
+  "version": "1.0.0",
+  "summary": "SQLite best practices including WAL checkpoint timing for multiprocessing, stateful batch connections for atomicity, and performance configuration. Use when working with SQLite ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "randalmurphal",
+    "github": "randalmurphal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/randalmurphal/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/randalmurphal/claude-config/main/skills/sqlite-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.477Z",
+  "created_at": "2025-12-23T01:29:51.215Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/randalmurphal%2Fclaude-config/skills%2Fsqlite-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_4d0f5a797b12"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "frontend-debug",
+  "name": "frontend-debug",
+  "version": "1.0.0",
+  "summary": "Autonomously debug frontend issues through empirical browser observation using Chrome DevTools MCP. This skill should be used when debugging UI/UX issues, visual bugs, interacti...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arlenagreer",
+    "github": "arlenagreer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arlenagreer/claude_configuration_docs",
+    "skill_md": "https://raw.githubusercontent.com/arlenagreer/claude_configuration_docs/main/skills/frontend-debug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:03:36.153Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arlenagreer%2Fclaude_configuration_docs/skills%2Ffrontend-debug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_9fd4118bc3b5"
+  }
+}

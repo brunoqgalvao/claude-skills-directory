@@ -1,0 +1,35 @@
+{
+  "id": "trino",
+  "name": "trino",
+  "version": "1.0.0",
+  "summary": "Expert assistance for writing, analyzing, and optimizing Trino SQL queries for Treasure Data. Use this skill when users need help with Trino queries, performance optimization, o...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "treasure-data",
+    "github": "treasure-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/treasure-data/td-skills",
+    "skill_md": "https://raw.githubusercontent.com/treasure-data/td-skills/main/sql-skills/trino/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:18.432Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/treasure-data%2Ftd-skills/sql-skills%2Ftrino%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_411b7e89934d"
+  }
+}

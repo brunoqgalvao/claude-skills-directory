@@ -1,0 +1,35 @@
+{
+  "id": "setup-knip",
+  "name": "setup-knip",
+  "version": "1.0.0",
+  "summary": "Install and configure Knip for dead code detection. Use before running dead-code-hunter or dependency-auditor to ensure Knip is available. Handles installation, configuration cr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maslennikov-ig",
+    "github": "maslennikov-ig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maslennikov-ig/claude-code-orchestrator-kit",
+    "skill_md": "https://raw.githubusercontent.com/maslennikov-ig/claude-code-orchestrator-kit/main/.claude/skills/setup-knip/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:22.258Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maslennikov-ig%2Fclaude-code-orchestrator-kit/.claude%2Fskills%2Fsetup-knip%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_85654a873404"
+  }
+}

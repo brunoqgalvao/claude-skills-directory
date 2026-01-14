@@ -1,0 +1,36 @@
+{
+  "id": "python-expert",
+  "name": "python-expert",
+  "version": "1.0.0",
+  "summary": "Use for Python development requiring async programming, type system expertise, testing patterns, or performance optimization.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rstarkey",
+    "github": "rstarkey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rstarkey/s5y-plugins",
+    "skill_md": "https://raw.githubusercontent.com/rstarkey/s5y-plugins/main/skills/python-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.827Z",
+  "created_at": "2025-12-22T16:59:50.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rstarkey%2Fs5y-plugins/skills%2Fpython-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.827Z",
+    "uniqueId": "sk_0ede27c60489"
+  }
+}

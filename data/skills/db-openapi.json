@@ -1,0 +1,35 @@
+{
+  "id": "db-openapi",
+  "name": "db-openapi",
+  "version": "1.0.0",
+  "summary": "查询集成连接器和API配置（v3_openapi数据库）。使用 exec_sql 工具执行查询。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SeSiTing",
+    "github": "SeSiTing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SeSiTing/siti-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/SeSiTing/siti-claude-marketplace/main/plugins/blacklake-plugin/skills/db-openapi/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.855Z",
+  "created_at": "2025-12-22T15:52:28.686Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SeSiTing%2Fsiti-claude-marketplace/plugins%2Fblacklake-plugin%2Fskills%2Fdb-openapi%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_bfebe471a93b"
+  }
+}

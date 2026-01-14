@@ -1,0 +1,35 @@
+{
+  "id": "audit-logging",
+  "name": "audit-logging",
+  "version": "1.0.0",
+  "summary": "Implement comprehensive audit logging for all admin actions, capturing user ID, action type, entity changes, IP address, and user agent. Use when tracking system activities or a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PrasadTelasula",
+    "github": "PrasadTelasula"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PrasadTelasula/EvokeQOne",
+    "skill_md": "https://raw.githubusercontent.com/PrasadTelasula/EvokeQOne/main/.claude/skills/audit-logging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:15:53.827Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PrasadTelasula%2FEvokeQOne/.claude%2Fskills%2Faudit-logging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_9213541df061"
+  }
+}

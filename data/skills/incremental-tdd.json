@@ -1,0 +1,36 @@
+{
+  "id": "incremental-tdd",
+  "name": "incremental-tdd",
+  "version": "1.0.0",
+  "summary": "Use when implementing features or refactoring with TDD - enforces writing ONE test at a time, implementing minimal code to pass, then repeating, preventing batch test writing th...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zgagnon",
+    "github": "zgagnon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zgagnon/skills",
+    "skill_md": "https://raw.githubusercontent.com/zgagnon/skills/main/incremental-tdd/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.796Z",
+  "created_at": "2025-12-22T18:16:23.882Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zgagnon%2Fskills/incremental-tdd%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.796Z",
+    "uniqueId": "sk_8ede18d4497d"
+  }
+}

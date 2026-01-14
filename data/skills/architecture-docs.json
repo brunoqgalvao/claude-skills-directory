@@ -1,0 +1,37 @@
+{
+  "id": "architecture-docs",
+  "name": "architecture-docs",
+  "version": "1.0.0",
+  "summary": "Use this skill when creating, updating, or maintaining ARCHITECTURE.md files, when users ask about \"my architecture documentation\" or \"architecture\", when generating presentatio...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shadowX4fox",
+    "github": "shadowX4fox"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shadowX4fox/solutions-architect-skills",
+    "skill_md": "https://raw.githubusercontent.com/shadowX4fox/solutions-architect-skills/main/skills/architecture-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:58.395Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shadowX4fox%2Fsolutions-architect-skills/skills%2Farchitecture-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_68fd77b1cce1"
+  }
+}

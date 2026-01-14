@@ -1,0 +1,35 @@
+{
+  "id": "github-issue-reader",
+  "name": "github-issue-reader",
+  "version": "1.0.0",
+  "summary": "Load comprehensive GitHub issue information including title, description, comments, labels, assignees, milestones, and related items (linked PRs and cross-references). This skil...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jumppad-labs",
+    "github": "jumppad-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jumppad-labs/jumppad",
+    "skill_md": "https://raw.githubusercontent.com/jumppad-labs/jumppad/main/.claude/skills/github-issue-reader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.832Z",
+  "created_at": "2025-12-22T16:54:04.073Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jumppad-labs%2Fjumppad/.claude%2Fskills%2Fgithub-issue-reader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.832Z",
+    "uniqueId": "sk_3d3e1734aa59"
+  }
+}

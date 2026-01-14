@@ -1,0 +1,37 @@
+{
+  "id": "rails-devops",
+  "name": "rails-devops",
+  "version": "1.0.0",
+  "summary": "DevOps and infrastructure specialist for Rails applications. Use when setting up Docker, CI/CD pipelines, deployment configurations, monitoring, logging, or production optimizat...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alec-c4",
+    "github": "alec-c4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alec-c4/claude-skills-rails-dev",
+    "skill_md": "https://raw.githubusercontent.com/alec-c4/claude-skills-rails-dev/main/rails-devops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.188Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alec-c4%2Fclaude-skills-rails-dev/rails-devops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_ec25307dfda1"
+  }
+}

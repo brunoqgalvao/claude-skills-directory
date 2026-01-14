@@ -1,0 +1,36 @@
+{
+  "id": "mps",
+  "name": "mps",
+  "version": "1.0.0",
+  "summary": "MPS(Media Processing Suite) - PDF 및 이미지(PNG, JPG)의 워터마크 제거, 블로그 최적화(1200px, WebP/JPEG). PNG 10MB 자동 압축으로 네이버 블로그 한도 준수. PDF는 DPI 자동 계산으로 메모리 절약. 여러 이미지 합치기 지원. 한글 깨짐 및 맞춤법 자동 체크...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "choi0ne",
+    "github": "choi0ne"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/choi0ne/djd_STillCut_Generator",
+    "skill_md": "https://raw.githubusercontent.com/choi0ne/djd_STillCut_Generator/main/mps/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.649Z",
+  "created_at": "2025-12-22T23:03:21.932Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/choi0ne%2Fdjd_STillCut_Generator/mps%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.649Z",
+    "uniqueId": "sk_8346c7e706f5"
+  }
+}

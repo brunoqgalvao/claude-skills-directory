@@ -1,0 +1,36 @@
+{
+  "id": "database-schema-expert",
+  "name": "database-schema-expert",
+  "version": "1.0.0",
+  "summary": "Expert knowledge on Supabase Postgres schema, Drizzle ORM patterns, normalized user tables, relations, query patterns, and migrations. Use this skill when user asks about \"datab...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sanchay-T",
+    "github": "Sanchay-T"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sanchay-T/influencer-platform-app",
+    "skill_md": "https://raw.githubusercontent.com/Sanchay-T/influencer-platform-app/main/.claude/skills/database-schema-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.652Z",
+  "created_at": "2025-12-22T23:03:15.549Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sanchay-T%2Finfluencer-platform-app/.claude%2Fskills%2Fdatabase-schema-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.652Z",
+    "uniqueId": "sk_b82a78d2a53d"
+  }
+}

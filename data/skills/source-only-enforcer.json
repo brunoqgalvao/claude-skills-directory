@@ -1,0 +1,36 @@
+{
+  "id": "source-only-enforcer",
+  "name": "source-only-enforcer",
+  "version": "1.0.0",
+  "summary": "CRITICAL QUALITY GATE: Enforces source-only policy for ALL medical study guide creation.\n\nACTIVATES when creating study guides for ANY medical specialty: pharmacology, pathophys...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dung-nguyen3",
+    "github": "dung-nguyen3"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dung-nguyen3/Skills",
+    "skill_md": "https://raw.githubusercontent.com/dung-nguyen3/Skills/main/.claude/skills/source-only-enforcer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T00:02:03.000Z",
+  "created_at": "2025-12-23T01:29:21.339Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dung-nguyen3%2FSkills/.claude%2Fskills%2Fsource-only-enforcer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_5d6ab33e8822"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "code-profiler",
+  "name": "code-profiler",
+  "version": "1.0.0",
+  "summary": "Use when asked to profile Python code performance, identify bottlenecks, measure execution time, or analyze function call statistics.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkyazzentwatwa",
+    "github": "dkyazzentwatwa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "skill_md": "https://raw.githubusercontent.com/dkyazzentwatwa/chatgpt-skills/main/code-profiler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.573Z",
+  "created_at": "2025-12-23T01:28:28.333Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkyazzentwatwa%2Fchatgpt-skills/code-profiler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_d667d7f27f84"
+  }
+}

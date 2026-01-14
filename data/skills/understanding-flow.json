@@ -1,0 +1,37 @@
+{
+  "id": "understanding-flow",
+  "name": "understanding-flow",
+  "version": "1.0.0",
+  "summary": "Use when learning walkerOS architecture, understanding data flow, or designing composable event pipelines. Covers Source→Collector→Destination pattern and separation of concerns.",
+  "verticals": [
+    "sales",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elbwalker",
+    "github": "elbwalker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elbwalker/walkerOS",
+    "skill_md": "https://raw.githubusercontent.com/elbwalker/walkerOS/main/skills/understanding-flow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T10:11:09.000Z",
+  "created_at": "2025-12-22T16:28:59.250Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elbwalker%2FwalkerOS/skills%2Funderstanding-flow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_f0084ec2d1df"
+  }
+}

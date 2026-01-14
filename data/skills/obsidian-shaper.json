@@ -1,0 +1,35 @@
+{
+  "id": "obsidian-shaper",
+  "name": "obsidian-shaper",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"create a note in Obsidian\", \"add to my vault\", \"search notes by tag\", \"find orphaned notes\", \"list recent notes\", \"analyze vault...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "noopz",
+    "github": "noopz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/noopz/obsidian-shaper",
+    "skill_md": "https://raw.githubusercontent.com/noopz/obsidian-shaper/main/skills/obsidian-shaper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.532Z",
+  "created_at": "2025-12-23T01:29:00.087Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/noopz%2Fobsidian-shaper/skills%2Fobsidian-shaper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_f60e3e4455a5"
+  }
+}

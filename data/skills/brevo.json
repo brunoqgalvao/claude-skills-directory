@@ -1,0 +1,37 @@
+{
+  "id": "brevo",
+  "name": "brevo",
+  "version": "1.0.0",
+  "summary": "Full access to Brevo (email marketing, newsletters) using curl and the Brevo REST API directly - no MCP server or additional dependencies required.",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "getzenai",
+    "github": "getzenai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/getzenai/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/getzenai/claude-plugins/main/plugins/brevo/skills/brevo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:06:10.027Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/getzenai%2Fclaude-plugins/plugins%2Fbrevo%2Fskills%2Fbrevo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_ccfafbb6dde6"
+  }
+}

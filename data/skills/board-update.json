@@ -1,0 +1,35 @@
+{
+  "id": "board-update",
+  "name": "board-update",
+  "version": "1.0.0",
+  "summary": "Update GitHub issues after Daily Sync. Use when user says 'Daily Sync done', 'update issues', 'Board aktualisieren', or provides sync notes/transcript to process. Bulk updates w...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DaveX2001",
+    "github": "DaveX2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DaveX2001/deliverable-tracking",
+    "skill_md": "https://raw.githubusercontent.com/DaveX2001/deliverable-tracking/main/.claude/skills/board-update/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T17:53:11.000Z",
+  "created_at": "2025-12-22T15:58:10.321Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DaveX2001%2Fdeliverable-tracking/.claude%2Fskills%2Fboard-update%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_edd71a1cfd89"
+  }
+}

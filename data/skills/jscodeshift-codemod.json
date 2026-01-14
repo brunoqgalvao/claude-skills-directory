@@ -1,0 +1,35 @@
+{
+  "id": "jscodeshift-codemod",
+  "name": "jscodeshift-codemod",
+  "version": "1.0.0",
+  "summary": "Write jscodeshift codemods for TypeScript/JavaScript transformations. Use when creating automated code migrations, refactoring patterns, or transforming React components. Handle...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "third774",
+    "github": "third774"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/third774/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/third774/dotfiles/main/.claude/skills/jscodeshift-codemod/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.630Z",
+  "created_at": "2025-12-22T23:14:02.404Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/third774%2Fdotfiles/.claude%2Fskills%2Fjscodeshift-codemod%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.630Z",
+    "uniqueId": "sk_f74069bafa37"
+  }
+}

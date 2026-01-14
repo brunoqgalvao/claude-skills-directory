@@ -1,0 +1,37 @@
+{
+  "id": "markdown-linting",
+  "name": "markdown-linting",
+  "version": "1.0.0",
+  "summary": "Comprehensive markdown linting guidance using markdownlint-cli2. Run, execute, check, and validate markdown files. Fix linting errors (MD0XX rules). Configure .markdownlint-cli2...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/code-quality/skills/markdown-linting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:24.782Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fcode-quality%2Fskills%2Fmarkdown-linting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_8af3f9c84b3c"
+  }
+}

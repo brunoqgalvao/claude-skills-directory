@@ -1,0 +1,37 @@
+{
+  "id": "supabase-dev",
+  "name": "supabase-dev",
+  "version": "1.0.0",
+  "summary": "Supabase development guidelines for Next.js applications. Use when working with Supabase Auth SSR, database migrations, RLS policies, database functions, Edge Functions, or decl...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seungwonme",
+    "github": "seungwonme"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seungwonme/nextjs-boilerplate",
+    "skill_md": "https://raw.githubusercontent.com/seungwonme/nextjs-boilerplate/main/.claude/skills/supabase-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:07:20.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seungwonme%2Fnextjs-boilerplate/.claude%2Fskills%2Fsupabase-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_276e1f08c866"
+  }
+}

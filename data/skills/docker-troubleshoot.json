@@ -1,0 +1,35 @@
+{
+  "id": "docker-troubleshoot",
+  "name": "docker-troubleshoot",
+  "version": "1.0.0",
+  "summary": "Diagnose container failures, networking issues, permissions, and port conflicts",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mwguerra",
+    "github": "mwguerra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mwguerra/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mwguerra/claude-code-plugins/main/docker-specialist/skills/docker-troubleshoot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T11:57:50.000Z",
+  "created_at": "2025-12-23T01:28:54.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mwguerra%2Fclaude-code-plugins/docker-specialist%2Fskills%2Fdocker-troubleshoot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_8238a4eedb92"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "retail-agent-customizer",
+  "name": "retail-agent-customizer",
+  "version": "1.0.0",
+  "summary": "Customize the retail agent for different use cases. Use when adapting for different business types, industries, or output formats, or when modifying prompts, adding verticals, o...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lavinigam-gcp",
+    "github": "lavinigam-gcp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lavinigam-gcp/build-with-adk",
+    "skill_md": "https://raw.githubusercontent.com/lavinigam-gcp/build-with-adk/main/retail-ai-location-strategy/.ai/.claude/skills/retail-agent-customizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T07:19:19.000Z",
+  "created_at": "2025-12-23T01:28:42.811Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lavinigam-gcp%2Fbuild-with-adk/retail-ai-location-strategy%2F.ai%2F.claude%2Fskills%2Fretail-agent-customizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_c07d2a174baf"
+  }
+}

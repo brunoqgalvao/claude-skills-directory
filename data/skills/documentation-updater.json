@@ -1,0 +1,35 @@
+{
+  "id": "documentation-updater",
+  "name": "documentation-updater",
+  "version": "1.0.0",
+  "summary": "Keep CLAUDE.md and README.md documentation in sync with the actual dotfiles configuration. Use when the user wants to update documentation, sync README with changes, maintain CL...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ruchernchong",
+    "github": "ruchernchong"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ruchernchong/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ruchernchong/dotfiles/main/.claude/skills/documentation-updater/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:10.660Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ruchernchong%2Fdotfiles/.claude%2Fskills%2Fdocumentation-updater%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_257ca15eb407"
+  }
+}

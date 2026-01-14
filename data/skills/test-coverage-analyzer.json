@@ -1,0 +1,36 @@
+{
+  "id": "test-coverage-analyzer",
+  "name": "test-coverage-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes test coverage gaps and suggests test cases for untested code paths. Use when user requests test improvements, coverage analysis, or wants to increase test coverage.",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CrazyDubya",
+    "github": "CrazyDubya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CrazyDubya/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/CrazyDubya/claude-skills/main/test-coverage-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:25.424Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CrazyDubya%2Fclaude-skills/test-coverage-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_b071c8510705"
+  }
+}

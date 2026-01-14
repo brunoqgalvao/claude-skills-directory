@@ -1,0 +1,37 @@
+{
+  "id": "accessible-web-dev",
+  "name": "accessible-web-dev",
+  "version": "1.0.0",
+  "summary": "Build WCAG 2.1 AA compliant web applications for University of Sheffield. Covers semantic HTML, ARIA patterns, form accessibility, keyboard navigation, color contrast, alt text,...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rcgsheffield",
+    "github": "rcgsheffield"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rcgsheffield/skills",
+    "skill_md": "https://raw.githubusercontent.com/rcgsheffield/skills/main/skills/accessible-web-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:18:52.389Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rcgsheffield%2Fskills/skills%2Faccessible-web-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_8b276b58c877"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cinema-booking",
+  "name": "cinema-booking",
+  "version": "1.0.0",
+  "summary": "Browse movies and book tickets at Classic Cinemas Elsternwick. Use when Nathan asks what's showing, wants movie details, or wants to book tickets.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanvale",
+    "github": "nathanvale"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanvale/side-quest-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/nathanvale/side-quest-marketplace/main/plugins/the-cinema-bandit/skills/cinema-booking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T03:01:25.000Z",
+  "created_at": "2025-12-22T16:52:27.230Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanvale%2Fside-quest-marketplace/plugins%2Fthe-cinema-bandit%2Fskills%2Fcinema-booking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_fb5754674eb9"
+  }
+}

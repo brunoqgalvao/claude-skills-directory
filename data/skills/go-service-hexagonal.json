@@ -1,0 +1,36 @@
+{
+  "id": "go-service-hexagonal",
+  "name": "go-service-hexagonal",
+  "version": "1.0.0",
+  "summary": "Define, review, and scaffold Go service directory structures using hexagonal (ports-and-adapters / “jexagonal”) architecture and Go best practices. Use when creating or refactor...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nsadovskiy",
+    "github": "nsadovskiy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nsadovskiy/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/nsadovskiy/agent-skills/main/go-service-hexagonal/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:43.485Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nsadovskiy%2Fagent-skills/go-service-hexagonal%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_8ba54cc893c3"
+  }
+}

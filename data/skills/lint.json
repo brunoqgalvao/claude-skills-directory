@@ -1,0 +1,35 @@
+{
+  "id": "lint",
+  "name": "lint",
+  "version": "1.0.0",
+  "summary": "Lint and format the codebase",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "segersniels",
+    "github": "segersniels"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/segersniels/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/segersniels/dotfiles/main/.codex/skills/lint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.586Z",
+  "created_at": "2025-12-23T01:28:10.035Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/segersniels%2Fdotfiles/.codex%2Fskills%2Flint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.586Z",
+    "uniqueId": "sk_45f7a0a1879f"
+  }
+}

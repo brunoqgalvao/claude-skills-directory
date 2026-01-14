@@ -1,0 +1,35 @@
+{
+  "id": "multi-llm-agent",
+  "name": "multi-llm-agent",
+  "version": "1.0.0",
+  "summary": "여러 LLM(OpenAI, Gemini, Ollama 등)을 통합하여 멀티 에이전트 협업을 수행합니다. 역할 분담, 토론/합의, 체인 파이프라인, 병렬 처리 등 다양한 협업 패턴을 지원하며, 사용 시점에 시나리오를 동적으로 구성할 수 있습니다. 복잡한 작업을 여러 LLM에게 분산하여 더 나은 결과를 얻고 싶을 때 사...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/agents/multi-llm-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:57.642Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/agents%2Fmulti-llm-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_8e013b7132e3"
+  }
+}

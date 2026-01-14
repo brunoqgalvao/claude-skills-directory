@@ -1,0 +1,36 @@
+{
+  "id": "nano-banana-pro",
+  "name": "nano-banana-pro",
+  "version": "1.0.0",
+  "summary": "Generate images using Google's Gemini 2.5 Flash (Nano Banana Pro) for frontend designs. Use this skill when the user needs AI-generated images for web designs, landing pages, da...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "buildatscale-tv",
+    "github": "buildatscale-tv"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/buildatscale-tv/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/buildatscale-tv/claude-code-plugins/main/skills/nano-banana-pro/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T03:55:53.000Z",
+  "created_at": "2025-12-19T19:57:43.011Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/buildatscale-tv%2Fclaude-code-plugins/skills%2Fnano-banana-pro%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_0b33e10e5b7d"
+  }
+}

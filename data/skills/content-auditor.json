@@ -1,0 +1,35 @@
+{
+  "id": "content-auditor",
+  "name": "content-auditor",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to evaluate course content, workshop materials, or training programs against a set of evaluation criteria (such as ICP-BAF learning out...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adaptiveX-gh",
+    "github": "adaptiveX-gh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adaptiveX-gh/coursekit-mcp",
+    "skill_md": "https://raw.githubusercontent.com/adaptiveX-gh/coursekit-mcp/main/.claude/skills/content-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:12:45.306Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adaptiveX-gh%2Fcoursekit-mcp/.claude%2Fskills%2Fcontent-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_b380083e219e"
+  }
+}

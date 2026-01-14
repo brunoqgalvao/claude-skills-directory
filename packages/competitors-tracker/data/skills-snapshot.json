@@ -1,0 +1,70 @@
+[
+  {
+    "source": "Skills Directory",
+    "url": "https://skillsdirectory.org",
+    "fetchedAt": "2025-12-25T00:00:00.000Z",
+    "totalSkills": 23956,
+    "skills": [
+      { "name": "template-skill" },
+      { "name": "docx" },
+      { "name": "webapp-testing" },
+      { "name": "pdf" },
+      { "name": "theme-factory" },
+      { "name": "brand-guidelines" },
+      { "name": "mcp-builder" },
+      { "name": "canvas-design" },
+      { "name": "internal-comms" },
+      { "name": "xlsx" },
+      { "name": "pptx" },
+      { "name": "skill-creator" },
+      { "name": "algorithmic-art" },
+      { "name": "artifacts-builder" },
+      { "name": "frontend-design" },
+      { "name": "github-project-management" },
+      { "name": "flow-nexus-platform" },
+      { "name": "swarm-advanced" },
+      { "name": "slack-gif-creator" },
+      { "name": "hive-mind-advanced" }
+    ]
+  },
+  {
+    "source": "SkillsMP",
+    "url": "https://skillsmp.com",
+    "fetchedAt": "2025-12-25T00:00:00.000Z",
+    "totalSkills": 25000,
+    "categories": [
+      { "name": "Tools", "count": 10575 },
+      { "name": "Development", "count": 10349 },
+      { "name": "Data & AI", "count": 6562 },
+      { "name": "Business", "count": 5529 },
+      { "name": "DevOps", "count": 5132 },
+      { "name": "Testing & Security", "count": 3764 },
+      { "name": "Documentation", "count": 2803 },
+      { "name": "Content & Media", "count": 2752 },
+      { "name": "Lifestyle", "count": 2213 },
+      { "name": "Research", "count": 1227 },
+      { "name": "Databases", "count": 763 },
+      { "name": "Blockchain", "count": 201 }
+    ],
+    "skills": []
+  },
+  {
+    "source": "awesome-claude-skills",
+    "url": "https://github.com/travisvn/awesome-claude-skills",
+    "fetchedAt": "2025-12-25T00:00:00.000Z",
+    "skills": [
+      { "name": "superpowers-skills", "repo": "https://github.com/obra/superpowers" },
+      { "name": "claude-code-skills", "repo": "https://github.com/daymade/claude-code-skills" }
+    ]
+  },
+  {
+    "source": "anthropics/skills",
+    "url": "https://github.com/anthropics/skills",
+    "fetchedAt": "2025-12-25T00:00:00.000Z",
+    "skills": [
+      { "name": "skills" },
+      { "name": "spec" },
+      { "name": "template" }
+    ]
+  }
+]

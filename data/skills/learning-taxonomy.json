@@ -1,0 +1,35 @@
+{
+  "id": "learning-taxonomy",
+  "name": "learning-taxonomy",
+  "version": "1.0.0",
+  "summary": "Expert knowledge for categorizing learnings and routing them to appropriate improvement targets. Use when analyzing session learnings to determine where context improvements sho...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yebot",
+    "github": "yebot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yebot/rad-cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/yebot/rad-cc-plugins/main/plugins/learning-loop/skills/learning-taxonomy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:19.848Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yebot%2Frad-cc-plugins/plugins%2Flearning-loop%2Fskills%2Flearning-taxonomy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_aaeb0e5880d1"
+  }
+}

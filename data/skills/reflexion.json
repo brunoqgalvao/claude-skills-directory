@@ -1,0 +1,35 @@
+{
+  "id": "reflexion",
+  "name": "reflexion",
+  "version": "1.0.0",
+  "summary": "Record feedback on whether patterns retrieved via get-pattern were helpful. Essential for training the recommendation system.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dug-21",
+    "github": "dug-21"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dug-21/neural-data-platform",
+    "skill_md": "https://raw.githubusercontent.com/dug-21/neural-data-platform/main/.claude/skills/reflexion/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:59:19.574Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dug-21%2Fneural-data-platform/.claude%2Fskills%2Freflexion%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_f2ddbba3579c"
+  }
+}

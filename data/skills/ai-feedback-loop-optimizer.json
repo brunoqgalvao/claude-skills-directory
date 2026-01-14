@@ -1,0 +1,35 @@
+{
+  "id": "ai-feedback-loop-optimizer",
+  "name": "ai-feedback-loop-optimizer",
+  "version": "1.0.0",
+  "summary": "AIフィードバックループ最適化スキル。プロンプト→出力→評価→改善の反復サイクルを自動化。段階的改善、A/Bテスト、収束判定、ベスト出力選択で最高品質の結果を生成。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/ai-feedback-loop-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:19.425Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Fai-feedback-loop-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_12347b9ec44f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "appstore-connect",
+  "name": "appstore-connect",
+  "version": "1.0.0",
+  "summary": "App Store Connect 자동화 스킬. JWT API/Playwright 하이브리드 방식으로 앱 정보, 빌드, TestFlight 배포, 스크린샷 업로드, 앱 제출 지원. \"ASC\", \"TestFlight\", \"앱스토어\" 키워드로 활성화.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/integrations/appstore-connect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:40.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/integrations%2Fappstore-connect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_4ed58f59c482"
+  }
+}

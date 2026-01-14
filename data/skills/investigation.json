@@ -1,0 +1,37 @@
+{
+  "id": "investigation",
+  "name": "investigation",
+  "version": "1.0.0",
+  "summary": "Scaffolds a template for a small investigation for empirical experimentation. Use when the user asks for an investigation, experiment or research to support making design decisi...",
+  "verticals": [
+    "support",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "talmolab",
+    "github": "talmolab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/talmolab/sleap-io",
+    "skill_md": "https://raw.githubusercontent.com/talmolab/sleap-io/main/.claude/skills/investigation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-15T00:47:30.000Z",
+  "created_at": "2025-12-22T14:57:02.834Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/talmolab%2Fsleap-io/.claude%2Fskills%2Finvestigation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_62605724393a"
+  }
+}

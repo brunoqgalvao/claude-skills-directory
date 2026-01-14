@@ -1,0 +1,35 @@
+{
+  "id": "create-task-spec",
+  "name": "create-task-spec",
+  "version": "1.0.0",
+  "summary": "Create hyper-detailed task specifications with embedded context, eliminating implementation lookups. This skill should be used for breaking features into implementable tasks wit...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adolfoaranaes12",
+    "github": "adolfoaranaes12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adolfoaranaes12/BMAD-ENHANCED",
+    "skill_md": "https://raw.githubusercontent.com/adolfoaranaes12/BMAD-ENHANCED/main/.claude/skills/create-task-spec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:01:24.880Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adolfoaranaes12%2FBMAD-ENHANCED/.claude%2Fskills%2Fcreate-task-spec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_bee55824eadd"
+  }
+}

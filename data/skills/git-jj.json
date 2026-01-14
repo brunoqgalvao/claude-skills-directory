@@ -1,0 +1,35 @@
+{
+  "id": "git-jj",
+  "name": "git-jj",
+  "version": "1.0.0",
+  "summary": "Used when working with vcs/git/jj/commit task, triggered by phrase like [git], [git commit], [diff], [push], [check git status], [create git branch], [git worktree], [git sqaush...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "towry",
+    "github": "towry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/towry/dots",
+    "skill_md": "https://raw.githubusercontent.com/towry/dots/main/conf/claude-local-marketplace/skills/git-jj/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:56.905Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/towry%2Fdots/conf%2Fclaude-local-marketplace%2Fskills%2Fgit-jj%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_d55d99af0267"
+  }
+}

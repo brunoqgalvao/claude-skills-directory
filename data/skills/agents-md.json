@@ -1,0 +1,36 @@
+{
+  "id": "agents-md",
+  "name": "agents-md",
+  "version": "1.0.0",
+  "summary": "Create or update root and nested AGENTS.md files that document scoped conventions, monorepo module maps, cross-domain workflows, and (optionally) per-module feature maps (featur...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nymbo",
+    "github": "Nymbo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nymbo/Skills",
+    "skill_md": "https://raw.githubusercontent.com/Nymbo/Skills/main/agents-md/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.553Z",
+  "created_at": "2025-12-23T01:28:47.537Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nymbo%2FSkills/agents-md%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.553Z",
+    "uniqueId": "sk_9431e9f41c14"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ledger",
+  "name": "ledger",
+  "version": "1.0.0",
+  "summary": "Financial ledger - transactions, audit trails. Use when tracking money.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SylphxAI",
+    "github": "SylphxAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SylphxAI/flow",
+    "skill_md": "https://raw.githubusercontent.com/SylphxAI/flow/main/.claude/skills/ledger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T14:36:16.000Z",
+  "created_at": "2025-12-23T01:28:29.633Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SylphxAI%2Fflow/.claude%2Fskills%2Fledger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_e7afa637a7a5"
+  }
+}

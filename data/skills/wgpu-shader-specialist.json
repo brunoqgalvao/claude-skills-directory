@@ -1,0 +1,35 @@
+{
+  "id": "wgpu-shader-specialist",
+  "name": "wgpu-shader-specialist",
+  "version": "1.0.0",
+  "summary": "Expert on wgpu GPU rendering, WGSL shaders, and GPU pipeline configuration. Use when discussing rendering, shaders, GPU, textures, or graphics pipeline.",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanyastaff",
+    "github": "vanyastaff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanyastaff/flui",
+    "skill_md": "https://raw.githubusercontent.com/vanyastaff/flui/main/.claude/skills/wgpu-shader-specialist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T08:29:37.000Z",
+  "created_at": "2025-12-22T16:58:37.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanyastaff%2Fflui/.claude%2Fskills%2Fwgpu-shader-specialist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_3527d418fee5"
+  }
+}

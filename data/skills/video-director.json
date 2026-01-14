@@ -1,0 +1,35 @@
+{
+  "id": "video-director",
+  "name": "video-director",
+  "version": "1.0.0",
+  "summary": "Creative director for educational video content. Generates scene-by-scene narrative direction specifying character actions, emotions, visual metaphors, and storytelling flow wit...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "outscal",
+    "github": "outscal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/outscal/test_release",
+    "skill_md": "https://raw.githubusercontent.com/outscal/test_release/main/.claude/skills/video-director/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:19.042Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/outscal%2Ftest_release/.claude%2Fskills%2Fvideo-director%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_0608d773b9e2"
+  }
+}

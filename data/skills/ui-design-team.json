@@ -1,0 +1,36 @@
+{
+  "id": "ui-design-team",
+  "name": "ui-design-team",
+  "version": "1.0.0",
+  "summary": "Multi-specialist UI design and implementation team for cross-platform applications.\nUse when working on: (1) UI/UX design decisions - colors, layout, typography, accessibility,\n...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maxxentropy",
+    "github": "maxxentropy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maxxentropy/claude-tools",
+    "skill_md": "https://raw.githubusercontent.com/maxxentropy/claude-tools/main/skills/ui-design-team/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:57:26.772Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maxxentropy%2Fclaude-tools/skills%2Fui-design-team%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_c842506e6c6a"
+  }
+}

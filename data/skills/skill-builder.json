@@ -1,0 +1,37 @@
+{
+  "id": "skill-builder",
+  "name": "skill-builder",
+  "version": "1.0.0",
+  "summary": "This skill exists to create new skills via the bundled CLI workflow.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jphetphoumy",
+    "github": "jphetphoumy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jphetphoumy/skillstack",
+    "skill_md": "https://raw.githubusercontent.com/jphetphoumy/skillstack/main/skills/skill-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:21:58.128Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jphetphoumy%2Fskillstack/skills%2Fskill-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_69a2ed060d2a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pce-collection",
+  "name": "pce-collection",
+  "version": "1.0.0",
+  "summary": "PCE (Process-Context Engine) のContext Delta収集スキル。開発プロセス中に生まれた知見を体系的に収集・記録する。\n\nトリガー条件:\n- 意思決定を行った時（「なぜこの設計にしたか記録して」）\n- バグを解決した時（「このバグ修正の知見を残して」）\n- アーキテクチャ決定をした時（「ADRを作成して」）\n- パター...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/pce-collection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:36.003Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Fpce-collection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_001255f058ab"
+  }
+}

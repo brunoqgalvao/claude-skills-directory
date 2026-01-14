@@ -1,0 +1,35 @@
+{
+  "id": "emergency-response",
+  "name": "emergency-response",
+  "version": "1.0.0",
+  "summary": "🚨 Critical emergency management protocols for festivals including medical response, evacuation procedures, crisis communication, and incident command.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "UffaModey",
+    "github": "UffaModey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/UffaModey/advent_of_ai",
+    "skill_md": "https://raw.githubusercontent.com/UffaModey/advent_of_ai/main/day_14_operations_management/skills/emergency-response/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:01:58.225Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/UffaModey%2Fadvent_of_ai/day_14_operations_management%2Fskills%2Femergency-response%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_e4f624d4c501"
+  }
+}

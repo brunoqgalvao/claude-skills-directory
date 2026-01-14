@@ -1,0 +1,35 @@
+{
+  "id": "backlog-scan",
+  "name": "backlog-scan",
+  "version": "1.0.0",
+  "summary": "Bulk backlog scanner that analyzes the entire finans codebase vs CLAUDE.md, identifies ALL gaps, and generates a comprehensive, prioritized, numbered task backlog. Uses broad→na...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andersnygaard",
+    "github": "andersnygaard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andersnygaard/ettsted2",
+    "skill_md": "https://raw.githubusercontent.com/andersnygaard/ettsted2/main/.claude/skills/backlog-scan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:09:30.524Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andersnygaard%2Fettsted2/.claude%2Fskills%2Fbacklog-scan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_fc15666e35e1"
+  }
+}

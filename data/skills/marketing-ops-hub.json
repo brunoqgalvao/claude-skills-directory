@@ -1,0 +1,37 @@
+{
+  "id": "marketing-ops-hub",
+  "name": "marketing-ops-hub",
+  "version": "1.0.0",
+  "summary": "This skill should be used when starting the work day for marketing and PR work, planning content production, managing campaigns, organizing media relations, or coordinating mult...",
+  "verticals": [
+    "marketing",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synapz-org",
+    "github": "synapz-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synapz-org/marketing-ops-hub",
+    "skill_md": "https://raw.githubusercontent.com/synapz-org/marketing-ops-hub/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.677Z",
+  "created_at": "2025-12-22T22:12:50.511Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synapz-org%2Fmarketing-ops-hub/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.677Z",
+    "uniqueId": "sk_063306bf25f8"
+  }
+}

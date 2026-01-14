@@ -1,0 +1,35 @@
+{
+  "id": "resilience4j",
+  "name": "resilience4j",
+  "version": "1.0.0",
+  "summary": "Avaliar circuit breakers, retries e rate limiters configurados com Resilience4j para proteger integrações de resultados.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Wibson82",
+    "github": "Wibson82"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Wibson82/conexao-de-sorte-backend-resultados",
+    "skill_md": "https://raw.githubusercontent.com/Wibson82/conexao-de-sorte-backend-resultados/main/.claude/skills/resilience4j/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:37.350Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Wibson82%2Fconexao-de-sorte-backend-resultados/.claude%2Fskills%2Fresilience4j%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_31677def5c1a"
+  }
+}

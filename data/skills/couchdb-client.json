@@ -1,0 +1,35 @@
+{
+  "id": "couchdb-client",
+  "name": "couchdb-client",
+  "version": "1.0.0",
+  "summary": "Obsidian LiveSync の CouchDbClient の構造と使用方法を説明します。CouchDbRepository トレイトの実装方法、HTTP プロキシパターン（forward_request）、longpoll リクエストの処理、メトリクス収集、ヘルスチェックの実装を理解・拡張する際に使用します。CouchDB 関連の機能追加、ト...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ystk-kai",
+    "github": "ystk-kai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ystk-kai/obsidian-sync",
+    "skill_md": "https://raw.githubusercontent.com/ystk-kai/obsidian-sync/main/.claude/skills/couchdb-client/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.491Z",
+  "created_at": "2025-12-23T01:29:32.918Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ystk-kai%2Fobsidian-sync/.claude%2Fskills%2Fcouchdb-client%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.491Z",
+    "uniqueId": "sk_f255ba53dd47"
+  }
+}

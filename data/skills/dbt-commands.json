@@ -1,0 +1,37 @@
+{
+  "id": "dbt-commands",
+  "name": "dbt-commands",
+  "version": "1.0.0",
+  "summary": "dbt command-line operations, model selection syntax, Jinja patterns, troubleshooting, and debugging. Use this skill when running dbt commands, selecting specific models, debuggi...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sfc-gh-dflippo",
+    "github": "sfc-gh-dflippo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sfc-gh-dflippo/snowflake-dbt-demo",
+    "skill_md": "https://raw.githubusercontent.com/sfc-gh-dflippo/snowflake-dbt-demo/main/.claude/skills/dbt-commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T00:18:07.000Z",
+  "created_at": "2025-12-22T22:03:08.434Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sfc-gh-dflippo%2Fsnowflake-dbt-demo/.claude%2Fskills%2Fdbt-commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_ee9e710fdd90"
+  }
+}

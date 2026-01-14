@@ -1,0 +1,35 @@
+{
+  "id": "ddd-feature",
+  "name": "ddd-feature",
+  "version": "1.0.0",
+  "summary": "Use when creating new domain features or adding new business capabilities. Triggers on requests to \"create feature\", \"add new domain\", \"new module\", \"scaffold feature\", or when ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielsogl",
+    "github": "danielsogl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielsogl/copilot-workflow-demo",
+    "skill_md": "https://raw.githubusercontent.com/danielsogl/copilot-workflow-demo/main/.claude/skills/ddd-feature/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:11:07.163Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielsogl%2Fcopilot-workflow-demo/.claude%2Fskills%2Fddd-feature%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_e90108d2d551"
+  }
+}

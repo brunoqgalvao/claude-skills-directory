@@ -1,0 +1,37 @@
+{
+  "id": "finance-charts",
+  "name": "finance-charts",
+  "version": "1.0.0",
+  "summary": "Financial data collection and visualization using TradingView lightweight-charts.\nFetches market data from trusted sources and renders interactive charts.\n\nUSE WHEN user says \"c...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "multicam",
+    "github": "multicam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/multicam/qara",
+    "skill_md": "https://raw.githubusercontent.com/multicam/qara/main/.claude/skills/finance-charts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T19:56:13.000Z",
+  "created_at": "2025-12-22T20:12:38.594Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/multicam%2Fqara/.claude%2Fskills%2Ffinance-charts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.759Z",
+    "uniqueId": "sk_1bb80b37cd8f"
+  }
+}

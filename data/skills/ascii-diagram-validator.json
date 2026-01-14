@@ -1,0 +1,35 @@
+{
+  "id": "ascii-diagram-validator",
+  "name": "ascii-diagram-validator",
+  "version": "1.0.0",
+  "summary": "Validates ASCII box-drawing diagram alignment in markdown files. Use when creating architecture diagrams, checking diagram alignment, fixing ASCII art, or before committing docu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/doc-tools/skills/ascii-diagram-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:51:11.804Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fdoc-tools%2Fskills%2Fascii-diagram-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_15fc9503aca2"
+  }
+}

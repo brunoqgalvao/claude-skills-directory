@@ -1,0 +1,35 @@
+{
+  "id": "adr-knowledge-base",
+  "name": "adr-knowledge-base",
+  "version": "1.0.0",
+  "summary": "ADR知見の体系的参照・適用。主要ADR抜粋（ADR_010, 013, 016, 019, 020, 021）・ADR検索・参照方法・技術決定パターン集・ADR作成判断基準。Phase C以降の技術決定時に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-kishi",
+    "github": "d-kishi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-kishi/ubiquitous-lang-mng",
+    "skill_md": "https://raw.githubusercontent.com/d-kishi/ubiquitous-lang-mng/main/.claude/skills/adr-knowledge-base/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-01T10:08:42.000Z",
+  "created_at": "2025-12-22T19:15:39.146Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-kishi%2Fubiquitous-lang-mng/.claude%2Fskills%2Fadr-knowledge-base%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_b0bbc85af8ec"
+  }
+}

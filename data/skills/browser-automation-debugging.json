@@ -1,0 +1,37 @@
+{
+  "id": "browser-automation-debugging",
+  "name": "browser-automation-debugging",
+  "version": "1.0.0",
+  "summary": "Use when debugging web applications or automating browser tasks. Leverage Chrome DevTools MCP for inspection, performance analysis, and automated testing.",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "liauw-media",
+    "github": "liauw-media"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/liauw-media/CodeAssist",
+    "skill_md": "https://raw.githubusercontent.com/liauw-media/CodeAssist/main/skills/debugging/browser-automation-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:26.168Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/liauw-media%2FCodeAssist/skills%2Fdebugging%2Fbrowser-automation-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_9aa9c1c7f916"
+  }
+}

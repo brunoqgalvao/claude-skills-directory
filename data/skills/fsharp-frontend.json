@@ -1,0 +1,37 @@
+{
+  "id": "fsharp-frontend",
+  "name": "fsharp-frontend",
+  "version": "1.0.0",
+  "summary": "Implement F# frontend using Elmish MVU architecture with Feliz for React components.\nUse when: \"add UI\", \"create component\", \"build form\", \"frontend\", \"client-side\", \"user inter...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "heimeshoff",
+    "github": "heimeshoff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/heimeshoff/Cinemarco",
+    "skill_md": "https://raw.githubusercontent.com/heimeshoff/Cinemarco/main/.claude/skills/fsharp-frontend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:37.499Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/heimeshoff%2FCinemarco/.claude%2Fskills%2Ffsharp-frontend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_bcdf5c2f8632"
+  }
+}

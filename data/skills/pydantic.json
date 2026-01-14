@@ -1,0 +1,37 @@
+{
+  "id": "pydantic",
+  "name": "pydantic",
+  "version": "1.0.0",
+  "summary": "Comprehensive Pydantic data validation skill for customer support tech enablement - covering BaseModel, Field validation, custom validators, FastAPI integration, BaseSettings, s...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/luxor-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/manutej/luxor-claude-marketplace/main/plugins/luxor-specialized-tools/skills/pydantic/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.593Z",
+  "created_at": "2025-12-23T00:23:51.753Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fluxor-claude-marketplace/plugins%2Fluxor-specialized-tools%2Fskills%2Fpydantic%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.593Z",
+    "uniqueId": "sk_53673a76a641"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "git-code-review",
+  "name": "git-code-review",
+  "version": "1.0.0",
+  "summary": "Get git records for specified users and days, perform code review for each commit, and generate detailed code review reports",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chaorenex1",
+    "github": "chaorenex1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chaorenex1/coding-agent-workflow",
+    "skill_md": "https://raw.githubusercontent.com/chaorenex1/coding-agent-workflow/main/skills/git-code-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:07:31.430Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chaorenex1%2Fcoding-agent-workflow/skills%2Fgit-code-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_3ac3e2f4ab34"
+  }
+}

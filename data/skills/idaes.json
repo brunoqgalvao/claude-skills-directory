@@ -1,0 +1,36 @@
+{
+  "id": "idaes",
+  "name": "idaes",
+  "version": "1.0.0",
+  "summary": "Comprehensive guidance for using IDAES (Institute for the Design of Advanced Energy Systems)\nfor process systems engineering. Covers flowsheet modeling, property packages, unit ...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkitchin",
+    "github": "jkitchin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkitchin/skillz",
+    "skill_md": "https://raw.githubusercontent.com/jkitchin/skillz/main/skills/programming/idaes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:18:54.933Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkitchin%2Fskillz/skills%2Fprogramming%2Fidaes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_4d3af92bc247"
+  }
+}

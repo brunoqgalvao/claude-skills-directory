@@ -1,0 +1,36 @@
+{
+  "id": "clojure-test-check",
+  "name": "clojure-test-check",
+  "version": "1.0.0",
+  "summary": "Property-based testing with clojure.test.check. Use when writing generative tests, creating custom generators, or debugging shrinking behavior. Triggers on test.check imports, p...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ramblurr",
+    "github": "Ramblurr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ramblurr/nix-devenv",
+    "skill_md": "https://raw.githubusercontent.com/Ramblurr/nix-devenv/main/prompts/skills/clojure-test-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:24.187Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ramblurr%2Fnix-devenv/prompts%2Fskills%2Fclojure-test-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_833d09925a5a"
+  }
+}

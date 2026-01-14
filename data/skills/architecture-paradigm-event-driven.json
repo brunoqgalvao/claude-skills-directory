@@ -1,0 +1,37 @@
+{
+  "id": "architecture-paradigm-event-driven",
+  "name": "architecture-paradigm-event-driven",
+  "version": "1.0.0",
+  "summary": "Structure systems around asynchronous, event-based communication to decouple producers and consumers for improved scalability and resilience. Use when building loosely coupled s...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/archetypes/skills/architecture-paradigm-event-driven/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:04:55.098Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Farchetypes%2Fskills%2Farchitecture-paradigm-event-driven%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_d9e13affcb0f"
+  }
+}

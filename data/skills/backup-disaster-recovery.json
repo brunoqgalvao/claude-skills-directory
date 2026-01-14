@@ -1,0 +1,35 @@
+{
+  "id": "backup-disaster-recovery",
+  "name": "backup-disaster-recovery",
+  "version": "1.0.0",
+  "summary": "Implement backup strategies, disaster recovery plans, and data restoration procedures for protecting critical infrastructure and data.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/backup-disaster-recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:39.349Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fbackup-disaster-recovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_d5f86508926d"
+  }
+}

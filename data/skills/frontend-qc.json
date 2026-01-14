@@ -1,0 +1,37 @@
+{
+  "id": "frontend-qc",
+  "name": "frontend-qc",
+  "version": "1.0.0",
+  "summary": "Performs comprehensive frontend quality assurance reviews using browser automation. Systematically tests UI elements, discovers and reports bugs to GitHub Issues, and provides i...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arlenagreer",
+    "github": "arlenagreer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arlenagreer/claude_configuration_docs",
+    "skill_md": "https://raw.githubusercontent.com/arlenagreer/claude_configuration_docs/main/skills/frontend-qc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:04.641Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arlenagreer%2Fclaude_configuration_docs/skills%2Ffrontend-qc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_6ecfc7be57f5"
+  }
+}

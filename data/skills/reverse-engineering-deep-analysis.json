@@ -1,0 +1,35 @@
+{
+  "id": "reverse-engineering-deep-analysis",
+  "name": "reverse-engineering-deep-analysis",
+  "version": "1.0.0",
+  "summary": "Advanced binary analysis with runtime execution and symbolic path exploration (RE Levels 3-4). Use when need runtime behavior, memory dumps, secret extraction, or input synthesi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/context-cascade",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/context-cascade/main/skills/security/reverse-engineering-deep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:26:00.842Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fcontext-cascade/skills%2Fsecurity%2Freverse-engineering-deep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_d4a1969e7f60"
+  }
+}

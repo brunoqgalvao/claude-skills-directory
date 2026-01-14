@@ -1,0 +1,37 @@
+{
+  "id": "brainstorming-skill",
+  "name": "brainstorming-skill",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to generate ideas, explore creative solutions, or systematically brainstorm approaches to problems. Use when users request help with id...",
+  "verticals": [
+    "marketing",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jamie-BitFlight",
+    "github": "Jamie-BitFlight"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jamie-BitFlight/claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/brainstorming-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T19:25:39.000Z",
+  "created_at": "2025-12-23T01:29:29.322Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jamie-BitFlight%2Fclaude_skills/brainstorming-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_7b9f5e2e9842"
+  }
+}

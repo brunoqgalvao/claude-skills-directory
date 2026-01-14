@@ -1,0 +1,35 @@
+{
+  "id": "ai-native-dev",
+  "name": "ai-native-dev",
+  "version": "1.0.0",
+  "summary": "Proactively manage development tasks in TASKS.md. Automatically tracks progress, updates status, prioritizes backlog, and estimates effort. Runs in background during development...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "junhua",
+    "github": "junhua"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/junhua/forth-ai-homepage",
+    "skill_md": "https://raw.githubusercontent.com/junhua/forth-ai-homepage/main/.claude/skills/ai-native-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:35.565Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/junhua%2Fforth-ai-homepage/.claude%2Fskills%2Fai-native-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_553e739ed7c7"
+  }
+}

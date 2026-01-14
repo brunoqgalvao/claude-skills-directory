@@ -1,0 +1,37 @@
+{
+  "id": "mcp-code-execution",
+  "name": "mcp-code-execution",
+  "version": "1.0.0",
+  "summary": "Context-efficient MCP integration using code execution patterns. Use when building agents that interact with MCP servers, need to manage large tool sets (50+ tools), process lar...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "linus-mcmanamey",
+    "github": "linus-mcmanamey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/linus-mcmanamey/multi-agent-user-story-development",
+    "skill_md": "https://raw.githubusercontent.com/linus-mcmanamey/multi-agent-user-story-development/main/.claude/skills/mcp-code-execution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:30:41.472Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/linus-mcmanamey%2Fmulti-agent-user-story-development/.claude%2Fskills%2Fmcp-code-execution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_69cd68f9f21d"
+  }
+}

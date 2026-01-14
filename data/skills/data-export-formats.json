@@ -1,0 +1,36 @@
+{
+  "id": "data-export-formats",
+  "name": "data-export-formats",
+  "version": "1.0.0",
+  "summary": "Use when exporting data for ad platforms (Google Ads, Meta) or working with project datasets. Documents exact CSV formats for Enhanced Conversions, Customer Match, and project d...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FunnelEnvy",
+    "github": "FunnelEnvy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FunnelEnvy/agents_webinar_demos",
+    "skill_md": "https://raw.githubusercontent.com/FunnelEnvy/agents_webinar_demos/main/.claude/skills/data-export-formats/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:01.658Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FunnelEnvy%2Fagents_webinar_demos/.claude%2Fskills%2Fdata-export-formats%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_96f5f7dae8c5"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "explore-and-document",
+  "name": "explore-and-document",
+  "version": "1.0.0",
+  "summary": "Systematically explore unfamiliar codebases and document findings using Julie's code intelligence, Sherpa's exploration workflow, and Goldfish's documentation. Activates when le...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anortham",
+    "github": "anortham"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anortham/mcp-toolbox-workflows",
+    "skill_md": "https://raw.githubusercontent.com/anortham/mcp-toolbox-workflows/main/skills/explore-and-document/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T00:11:40.000Z",
+  "created_at": "2025-12-22T17:56:48.801Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anortham%2Fmcp-toolbox-workflows/skills%2Fexplore-and-document%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_bd302267ad31"
+  }
+}

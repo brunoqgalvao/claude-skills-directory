@@ -1,0 +1,36 @@
+{
+  "id": "crafting-instructions",
+  "name": "crafting-instructions",
+  "version": "1.0.0",
+  "summary": "Generate optimized instructions for Claude (Project instructions, Skills, or standalone prompts). Use when users request creating project setups, writing effective prompts, buil...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oaustegard",
+    "github": "oaustegard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oaustegard/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/crafting-instructions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T17:01:28.000Z",
+  "created_at": "2025-12-22T21:03:42.435Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oaustegard%2Fclaude-skills/crafting-instructions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_7b035a2f2b10"
+  }
+}

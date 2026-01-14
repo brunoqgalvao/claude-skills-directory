@@ -1,0 +1,35 @@
+{
+  "id": "java-reviewer",
+  "name": "java-reviewer",
+  "version": "1.0.0",
+  "summary": "WHEN: Java code review, Java idioms, exception handling, collections, streams, Java 17+ features\nWHAT: Exception patterns + resource management + null safety + stream usage + mo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "physics91",
+    "github": "physics91"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/physics91/claude-vibe",
+    "skill_md": "https://raw.githubusercontent.com/physics91/claude-vibe/main/skills/java-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:52:32.000Z",
+  "created_at": "2025-12-23T01:29:30.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/physics91%2Fclaude-vibe/skills%2Fjava-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_430dd55b3646"
+  }
+}

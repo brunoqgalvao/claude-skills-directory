@@ -1,0 +1,35 @@
+{
+  "id": "creating-custom-utilities",
+  "name": "creating-custom-utilities",
+  "version": "1.0.0",
+  "summary": "Create custom utilities with @utility directive supporting static utilities, functional utilities with values, theme-based utilities, and multi-value utilities. Use when extendi...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/tailwind-4/skills/creating-custom-utilities/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T00:44:15.000Z",
+  "created_at": "2025-12-23T01:29:18.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/tailwind-4%2Fskills%2Fcreating-custom-utilities%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_728e480aaf49"
+  }
+}

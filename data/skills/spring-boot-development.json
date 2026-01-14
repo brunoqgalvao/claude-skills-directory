@@ -1,0 +1,36 @@
+{
+  "id": "spring-boot-development",
+  "name": "spring-boot-development",
+  "version": "1.0.0",
+  "summary": "Comprehensive Spring Boot development skill covering auto-configuration, dependency injection, REST APIs, Spring Data, security, and enterprise Java applications",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/luxor-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/manutej/luxor-claude-marketplace/main/plugins/luxor-backend-toolkit/skills/spring-boot-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.829Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fluxor-claude-marketplace/plugins%2Fluxor-backend-toolkit%2Fskills%2Fspring-boot-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_34d112031f1a"
+  }
+}

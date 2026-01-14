@@ -1,0 +1,37 @@
+{
+  "id": "mydetailarea-testing",
+  "name": "mydetailarea-testing",
+  "version": "1.0.0",
+  "summary": "Comprehensive E2E testing suite for MyDetailArea dealership workflows. Implements Playwright test scenarios for critical user journeys including order creation, invoice generati...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rruiz22",
+    "github": "rruiz22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rruiz22/my-detail-area",
+    "skill_md": "https://raw.githubusercontent.com/rruiz22/my-detail-area/main/.claude/skills/mydetailarea-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:12:44.287Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rruiz22%2Fmy-detail-area/.claude%2Fskills%2Fmydetailarea-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_29708cacb324"
+  }
+}

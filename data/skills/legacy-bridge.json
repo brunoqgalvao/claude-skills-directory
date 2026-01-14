@@ -1,0 +1,35 @@
+{
+  "id": "legacy-bridge",
+  "name": "legacy-bridge",
+  "version": "1.0.0",
+  "summary": "Backward compatibility bridge that translates legacy @load patterns to new Skills format. Enables seamless migration with zero breaking changes during 6-month transition period.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "williamzujkowski",
+    "github": "williamzujkowski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/williamzujkowski/standards",
+    "skill_md": "https://raw.githubusercontent.com/williamzujkowski/standards/main/skills/legacy-bridge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T03:39:57.000Z",
+  "created_at": "2025-12-23T01:29:30.599Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/williamzujkowski%2Fstandards/skills%2Flegacy-bridge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.494Z",
+    "uniqueId": "sk_2cc01ee4e2a0"
+  }
+}

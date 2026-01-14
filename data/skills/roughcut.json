@@ -1,0 +1,35 @@
+{
+  "id": "roughcut",
+  "name": "roughcut",
+  "version": "1.0.0",
+  "summary": "Creates video rough cut yaml file for use with Buttercut gem. Concatenates visual transcripts with file markers, creates a roughcut yaml with clip selections, then exports to XM...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "barefootford",
+    "github": "barefootford"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/barefootford/buttercut",
+    "skill_md": "https://raw.githubusercontent.com/barefootford/buttercut/main/.claude/skills/roughcut/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T22:07:59.000Z",
+  "created_at": "2025-12-22T15:57:51.621Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/barefootford%2Fbuttercut/.claude%2Fskills%2Froughcut%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_ce55f6e5e4ab"
+  }
+}

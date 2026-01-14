@@ -1,0 +1,37 @@
+{
+  "id": "just",
+  "name": "just",
+  "version": "1.0.0",
+  "summary": "just is a handy command runner for saving and running project-specific commands. Features include recipe parameters, .env file loading, shell completion, cross-platform support,...",
+  "verticals": [
+    "finance",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SecKatie",
+    "github": "SecKatie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SecKatie/katies-ai-skills",
+    "skill_md": "https://raw.githubusercontent.com/SecKatie/katies-ai-skills/main/skills/just/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:12:50.776Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SecKatie%2Fkaties-ai-skills/skills%2Fjust%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_cfc1116acc1a"
+  }
+}

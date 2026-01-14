@@ -1,0 +1,36 @@
+{
+  "id": "json-validator",
+  "name": "json-validator",
+  "version": "1.0.0",
+  "summary": "Validate, format, and fix JSON data. Use this skill when working with JSON files, API responses, or configuration files that need validation or formatting.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Alon2904",
+    "github": "Alon2904"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Alon2904/claude-code-skill-creator",
+    "skill_md": "https://raw.githubusercontent.com/Alon2904/claude-code-skill-creator/main/examples/json-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:00:35.548Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Alon2904%2Fclaude-code-skill-creator/examples%2Fjson-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_91f0d02457cc"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-convention",
+  "name": "git-convention",
+  "version": "1.0.0",
+  "summary": "Git convention for branch naming, commit messages, and issue labels based on GitFlow and Conventional Commits. Use when creating branches, writing commit messages, or setting up...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seungwonme",
+    "github": "seungwonme"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seungwonme/nextjs-boilerplate",
+    "skill_md": "https://raw.githubusercontent.com/seungwonme/nextjs-boilerplate/main/.claude/skills/git-convention/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.575Z",
+  "created_at": "2025-12-23T01:28:26.321Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seungwonme%2Fnextjs-boilerplate/.claude%2Fskills%2Fgit-convention%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_a67a4861e83e"
+  }
+}

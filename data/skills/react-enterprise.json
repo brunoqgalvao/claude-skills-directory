@@ -1,0 +1,35 @@
+{
+  "id": "react-enterprise",
+  "name": "react-enterprise",
+  "version": "1.0.0",
+  "summary": "React 19 with TypeScript 5.9.3, TanStack Query V5, Zustand, and modern patterns. React Compiler handles memoization automatically. No manual optimization needed.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nauanbek",
+    "github": "nauanbek"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nauanbek/deeps",
+    "skill_md": "https://raw.githubusercontent.com/nauanbek/deeps/main/.claude/skills/react-enterprise/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:31.893Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nauanbek%2Fdeeps/.claude%2Fskills%2Freact-enterprise%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_55e5adf1392a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "article-recommender",
+  "name": "article-recommender",
+  "version": "1.0.0",
+  "summary": "Generate three-version article recommendations (standard, concise, and personal commentary) in both Chinese and English for BestBlogs.dev weekly newsletter. Use when users reque...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ginobefun",
+    "github": "ginobefun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ginobefun/article-recommender-skill",
+    "skill_md": "https://raw.githubusercontent.com/ginobefun/article-recommender-skill/main/src/article-recommender/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T05:10:49.000Z",
+  "created_at": "2025-12-22T21:05:20.728Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ginobefun%2Farticle-recommender-skill/src%2Farticle-recommender%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_d0da8157d502"
+  }
+}

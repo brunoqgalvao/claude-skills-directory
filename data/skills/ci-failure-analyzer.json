@@ -1,0 +1,37 @@
+{
+  "id": "ci-failure-analyzer",
+  "name": "ci-failure-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyze GitHub Actions CI failures for the current branch. Use when the user asks about CI status, test failures, build errors, GitHub Actions problems, or mentions checking CI,...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mintiti",
+    "github": "mintiti"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mintiti/pyrat-rust",
+    "skill_md": "https://raw.githubusercontent.com/mintiti/pyrat-rust/main/.claude/skills/ci-failure-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T13:57:34.000Z",
+  "created_at": "2025-12-23T01:28:42.716Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mintiti%2Fpyrat-rust/.claude%2Fskills%2Fci-failure-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.559Z",
+    "uniqueId": "sk_6970d20ad611"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "analyze-m1-module-for-migration",
+  "name": "analyze-m1-module-for-migration",
+  "version": "1.0.0",
+  "summary": "Systematically analyze a Magento 1 module to determine its purpose, usage, and migration requirements for Magento 2. Use when you need to decide whether to migrate a M1 module, ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ProxiBlue",
+    "github": "ProxiBlue"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ProxiBlue/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ProxiBlue/claude-skills/main/analyze-m1-module-for-migration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:16.440Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ProxiBlue%2Fclaude-skills/analyze-m1-module-for-migration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_e25a1f2b62ab"
+  }
+}

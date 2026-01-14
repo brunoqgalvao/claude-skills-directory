@@ -1,0 +1,36 @@
+{
+  "id": "explain-code",
+  "name": "explain-code",
+  "version": "1.0.0",
+  "summary": "Gives guidelines on how to explain code with pseudocode.\nInvoke this when creating code explanations.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rstacruz",
+    "github": "rstacruz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rstacruz/agentic-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/rstacruz/agentic-toolkit/main/skills/explain-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T23:45:14.000Z",
+  "created_at": "2025-12-22T15:12:35.094Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rstacruz%2Fagentic-toolkit/skills%2Fexplain-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_6a8aba5492b4"
+  }
+}

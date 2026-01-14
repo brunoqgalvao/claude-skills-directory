@@ -1,0 +1,35 @@
+{
+  "id": "pull-request-automation",
+  "name": "pull-request-automation",
+  "version": "1.0.0",
+  "summary": "Automate pull request workflows with templates, checklists, auto-merge rules, and review assignments. Reduce manual overhead and improve consistency.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/pull-request-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.772Z",
+  "created_at": "2025-12-22T20:00:28.716Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fpull-request-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_4a7a86b62754"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "error-tracking-integrator",
+  "name": "error-tracking-integrator",
+  "version": "1.0.0",
+  "summary": "Adds comprehensive error tracking with Sentry, Rollbar, or similar services including error boundaries, context, and breadcrumbs. Use when user requests error monitoring or ment...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CrazyDubya",
+    "github": "CrazyDubya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CrazyDubya/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/CrazyDubya/claude-skills/main/error-tracking-integrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T02:10:32.000Z",
+  "created_at": "2025-12-23T01:28:53.087Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CrazyDubya%2Fclaude-skills/error-tracking-integrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_ecb096426e84"
+  }
+}

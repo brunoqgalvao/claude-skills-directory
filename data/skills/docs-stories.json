@@ -1,0 +1,35 @@
+{
+  "id": "docs-stories",
+  "name": "docs-stories",
+  "version": "1.0.0",
+  "summary": "Complete CRUD for SDLC documentation (stories, tasks, context retrieval). Use when creating/managing stories, creating/managing tasks, updating task state, or retrieving full co...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shredbx",
+    "github": "shredbx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shredbx/demo-3d-model",
+    "skill_md": "https://raw.githubusercontent.com/shredbx/demo-3d-model/main/.claude/skills/docs-stories/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:57:35.441Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shredbx%2Fdemo-3d-model/.claude%2Fskills%2Fdocs-stories%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_8a75185959ad"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "modes",
+  "name": "modes",
+  "version": "1.0.0",
+  "summary": "Domain-specific development mode guidelines for UI, API, database, integration, migration, and specialized workflows. Each mode provides tailored principles, checklists, and pat...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tstomtimes",
+    "github": "tstomtimes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tstomtimes/orchestra",
+    "skill_md": "https://raw.githubusercontent.com/tstomtimes/orchestra/main/skills/modes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:41.939Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tstomtimes%2Forchestra/skills%2Fmodes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_d847cb7e6ea8"
+  }
+}

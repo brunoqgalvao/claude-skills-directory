@@ -1,0 +1,36 @@
+{
+  "id": "security-pattern-detection",
+  "name": "security-pattern-detection",
+  "version": "1.0.0",
+  "summary": "Detect OWASP Top 10 vulnerabilities via static analysis. Calculate security score (0.00-1.00) for code quality. Auto-generate remediation suggestions with implementation example...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/shannon-framework",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/shannon-framework/main/skills/security-pattern-detection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:26.171Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fshannon-framework/skills%2Fsecurity-pattern-detection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_706abaec9270"
+  }
+}

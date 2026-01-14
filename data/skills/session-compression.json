@@ -1,0 +1,35 @@
+{
+  "id": "session-compression",
+  "name": "session-compression",
+  "version": "1.0.0",
+  "summary": "AI session compression techniques for managing multi-turn conversations efficiently through summarization, embedding-based retrieval, and intelligent context management.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-ai-techniques-session-compression/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T00:27:33.589Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-ai-techniques-session-compression%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_a45a7fb2c4e4"
+  }
+}

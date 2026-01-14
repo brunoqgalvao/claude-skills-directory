@@ -1,0 +1,35 @@
+{
+  "id": "git-precommit",
+  "name": "git-precommit",
+  "version": "1.0.0",
+  "summary": "提交前編排器。觸發：commit、提交、推送、做完了、收工。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "u9401066",
+    "github": "u9401066"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/u9401066/med-paper-assistant",
+    "skill_md": "https://raw.githubusercontent.com/u9401066/med-paper-assistant/main/.claude/skills/git-precommit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:00:38.000Z",
+  "created_at": "2025-12-22T16:29:51.919Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/u9401066%2Fmed-paper-assistant/.claude%2Fskills%2Fgit-precommit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_77aa8a198322"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-commit-crafter",
+  "name": "git-commit-crafter",
+  "version": "1.0.0",
+  "summary": "Creates atomic git commits following Conventional Commits specification with detailed, well-structured messages. Analyzes changes and splits them into logical units. Use when co...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryoppippi",
+    "github": "ryoppippi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryoppippi/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ryoppippi/dotfiles/main/claude/skills/git-commit-crafter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:55:01.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryoppippi%2Fdotfiles/claude%2Fskills%2Fgit-commit-crafter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_be62aa9ad249"
+  }
+}

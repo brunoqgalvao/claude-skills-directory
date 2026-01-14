@@ -1,0 +1,37 @@
+{
+  "id": "azure-wiki-generator",
+  "name": "azure-wiki-generator",
+  "version": "1.0.0",
+  "summary": "Generate and manage Azure DevOps Wiki pages with markdown content. Use when creating project documentation or wiki pages.",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/azure-wiki-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:53:37.092Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Fazure-wiki-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_4990f200ca26"
+  }
+}

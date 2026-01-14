@@ -1,0 +1,35 @@
+{
+  "id": "planning",
+  "name": "planning",
+  "version": "1.0.0",
+  "summary": "Proactively use when making a plan.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hdemers",
+    "github": "hdemers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hdemers/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/hdemers/dotfiles/main/.claude/skills.symlink/planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T18:26:54.000Z",
+  "created_at": "2025-12-22T14:20:44.267Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hdemers%2Fdotfiles/.claude%2Fskills.symlink%2Fplanning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_e2a1eed9ef08"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ci-job-analysis",
+  "name": "ci-job-analysis",
+  "version": "1.0.0",
+  "summary": "CI Job 失败分析知识库，包含失败类型分类、置信度评估、技术栈识别和常见错误模式",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "penkzhou",
+    "github": "penkzhou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/penkzhou/swiss-army-knife-plugin",
+    "skill_md": "https://raw.githubusercontent.com/penkzhou/swiss-army-knife-plugin/main/swiss-army-knife/skills/ci-job-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:42.437Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/penkzhou%2Fswiss-army-knife-plugin/swiss-army-knife%2Fskills%2Fci-job-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_91d14a64e1cf"
+  }
+}

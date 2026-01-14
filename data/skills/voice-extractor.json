@@ -1,0 +1,35 @@
+{
+  "id": "voice-extractor",
+  "name": "voice-extractor",
+  "version": "1.0.0",
+  "summary": "Extract voice patterns from transcripts - speaking style, phrases, vocabulary for authentic author profiles",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mwguerra",
+    "github": "mwguerra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mwguerra/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mwguerra/claude-code-plugins/main/article-writer/skills/voice-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:17:34.689Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mwguerra%2Fclaude-code-plugins/article-writer%2Fskills%2Fvoice-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_df7e3f37c487"
+  }
+}

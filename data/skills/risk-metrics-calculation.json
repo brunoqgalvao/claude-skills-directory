@@ -1,0 +1,37 @@
+{
+  "id": "risk-metrics-calculation",
+  "name": "risk-metrics-calculation",
+  "version": "1.0.0",
+  "summary": "Calculate portfolio risk metrics including VaR, CVaR, Sharpe, Sortino, and drawdown analysis. Use when measuring portfolio risk, implementing risk limits, or building risk monit...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wshobson/agents",
+    "skill_md": "https://raw.githubusercontent.com/wshobson/agents/main/plugins/quantitative-trading/skills/risk-metrics-calculation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:41.835Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wshobson%2Fagents/plugins%2Fquantitative-trading%2Fskills%2Frisk-metrics-calculation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_cd20ab3872bb"
+  }
+}

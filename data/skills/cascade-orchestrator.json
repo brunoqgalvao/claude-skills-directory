@@ -1,0 +1,37 @@
+{
+  "id": "cascade-orchestrator",
+  "name": "cascade-orchestrator",
+  "version": "1.0.0",
+  "summary": "Creates sophisticated workflow cascades coordinating multiple micro-skills with sequential pipelines, parallel execution, conditional branching, and Codex sandbox iteration. Enh...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/context-cascade",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/context-cascade/main/skills/orchestration/cascade-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.597Z",
+  "created_at": "2025-12-23T00:19:23.716Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fcontext-cascade/skills%2Forchestration%2Fcascade-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.597Z",
+    "uniqueId": "sk_db8c60c70820"
+  }
+}

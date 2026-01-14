@@ -1,0 +1,35 @@
+{
+  "id": "claude-marketplace-setup",
+  "name": "claude-marketplace-setup",
+  "version": "1.0.0",
+  "summary": "Creates and manages plugin marketplaces for Claude Code, enabling plugin discovery, distribution, and team sharing. Generates marketplace.json files with proper schema, configur...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "outfitter-dev",
+    "github": "outfitter-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/outfitter-dev/agents",
+    "skill_md": "https://raw.githubusercontent.com/outfitter-dev/agents/main/agent-kit/skills/claude-marketplace-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:37.565Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/outfitter-dev%2Fagents/agent-kit%2Fskills%2Fclaude-marketplace-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_eefa965e2e34"
+  }
+}

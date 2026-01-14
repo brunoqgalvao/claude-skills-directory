@@ -1,0 +1,36 @@
+{
+  "id": "cover-letter-voice",
+  "name": "cover-letter-voice",
+  "version": "1.0.0",
+  "summary": "Develop authentic cover letter narrative using philosophy, patterns, and job's cultural requirements",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AJBcoding",
+    "github": "AJBcoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AJBcoding/claude-skill-eval",
+    "skill_md": "https://raw.githubusercontent.com/AJBcoding/claude-skill-eval/main/.claude/skills/cover-letter-voice/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:27:16.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AJBcoding%2Fclaude-skill-eval/.claude%2Fskills%2Fcover-letter-voice%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_96e576f23a57"
+  }
+}

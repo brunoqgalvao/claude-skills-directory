@@ -1,0 +1,37 @@
+{
+  "id": "browser-task-and-automation-and-delegation",
+  "name": "browser-task-and-automation-and-delegation",
+  "version": "1.0.0",
+  "summary": "【强制】所有浏览器操作必须使用本技能，禁止在主对话中直接使用 mcp__chrome-devtools 工具。触发关键词：打开/访问/浏览网页、点击/填写/提交表单、截图/快照、性能分析、自动化测试、数据采集/爬取、网络模拟。本技能通过 chrome-devtools-expert agent 执行浏览器操作，避免大量页面快照、截图、网络请求数据污染主...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "727474430",
+    "github": "727474430"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/727474430/cli-rule-swtich",
+    "skill_md": "https://raw.githubusercontent.com/727474430/cli-rule-swtich/main/templates/claude/jige/skills/browser-task-and-automation-and-delegation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:56:48.633Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/727474430%2Fcli-rule-swtich/templates%2Fclaude%2Fjige%2Fskills%2Fbrowser-task-and-automation-and-delegation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_d813f2bffa9f"
+  }
+}

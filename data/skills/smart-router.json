@@ -1,0 +1,35 @@
+{
+  "id": "smart-router",
+  "name": "smart-router",
+  "version": "1.0.0",
+  "summary": "Use when multiple tools are available for a task and intelligent routing is needed. Activates when routing-detector hook suggests it, or when user asks \"which tool should I use\"...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Blockchain-Oracle",
+    "github": "Blockchain-Oracle"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Blockchain-Oracle/smart-router",
+    "skill_md": "https://raw.githubusercontent.com/Blockchain-Oracle/smart-router/main/skills/smart-router/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.683Z",
+  "created_at": "2025-12-22T22:10:28.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Blockchain-Oracle%2Fsmart-router/skills%2Fsmart-router%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.683Z",
+    "uniqueId": "sk_43d06bfb7cf9"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mastra",
+  "name": "mastra",
+  "version": "1.0.0",
+  "summary": "Mastra TypeScript framework for AI agents with memory, tools, workflows, and RAG. Use when working with @mastra/* packages or building AI agents.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hashintel",
+    "github": "hashintel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hashintel/hash",
+    "skill_md": "https://raw.githubusercontent.com/hashintel/hash/main/.claude/skills/mastra/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T15:49:02.000Z",
+  "created_at": "2025-12-23T01:28:02.505Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hashintel%2Fhash/.claude%2Fskills%2Fmastra%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_0adaebb66938"
+  }
+}

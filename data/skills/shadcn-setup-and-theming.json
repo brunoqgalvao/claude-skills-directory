@@ -1,0 +1,36 @@
+{
+  "id": "shadcn-setup-and-theming",
+  "name": "shadcn-setup-and-theming",
+  "version": "1.0.0",
+  "summary": "Use this skill whenever the user wants to install, configure, or adjust shadcn/ui itself (CLI, components.json, Tailwind integration, theming, radius/colors/typography, dark mod...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentiveCity",
+    "github": "AgentiveCity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentiveCity/SkillFactory",
+    "skill_md": "https://raw.githubusercontent.com/AgentiveCity/SkillFactory/main/.claude/skills/shadcn-setup-and-theming/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:16.430Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentiveCity%2FSkillFactory/.claude%2Fskills%2Fshadcn-setup-and-theming%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_25c52ffa0035"
+  }
+}

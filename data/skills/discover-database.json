@@ -1,0 +1,36 @@
+{
+  "id": "discover-database",
+  "name": "discover-database",
+  "version": "1.0.0",
+  "summary": "Automatically discover database skills when working with SQL, PostgreSQL, MongoDB, Redis, database schema design, query optimization, migrations, connection pooling, ORMs, or da...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rand",
+    "github": "rand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rand/cc-polymath",
+    "skill_md": "https://raw.githubusercontent.com/rand/cc-polymath/main/skills/discover-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T05:34:12.000Z",
+  "created_at": "2025-12-23T01:29:27.970Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rand%2Fcc-polymath/skills%2Fdiscover-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_93fe7b607cd3"
+  }
+}

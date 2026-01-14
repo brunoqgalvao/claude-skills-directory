@@ -1,0 +1,35 @@
+{
+  "id": "foundry",
+  "name": "foundry",
+  "version": "1.0.0",
+  "summary": "Ethereum development with foundry (forge, cast, anvil)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jacobhjkim",
+    "github": "jacobhjkim"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jacobhjkim/gachi-amm",
+    "skill_md": "https://raw.githubusercontent.com/jacobhjkim/gachi-amm/main/.claude/skills/foundry/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:10.897Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jacobhjkim%2Fgachi-amm/.claude%2Fskills%2Ffoundry%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_f657ac61a6d4"
+  }
+}

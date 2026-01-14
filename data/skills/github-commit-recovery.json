@@ -1,0 +1,36 @@
+{
+  "id": "github-commit-recovery",
+  "name": "github-commit-recovery",
+  "version": "1.0.0",
+  "summary": "Recover deleted commits from GitHub using REST API, web interface, and git fetch. Use when you have commit SHAs and need to retrieve actual commit content, diffs, or patches. In...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gadievron",
+    "github": "gadievron"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gadievron/raptor",
+    "skill_md": "https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/oss-forensics/github-commit-recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.768Z",
+  "created_at": "2025-12-22T20:04:17.843Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gadievron%2Fraptor/.claude%2Fskills%2Foss-forensics%2Fgithub-commit-recovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_0c97c9711536"
+  }
+}

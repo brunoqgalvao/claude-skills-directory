@@ -1,0 +1,35 @@
+{
+  "id": "newsletter-events-setup",
+  "name": "newsletter-events-setup",
+  "version": "1.0.0",
+  "summary": "Set up environment for local newsletter events plugin. Use when first installing, updating dependencies, or verifying configuration.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aniketpanjwani",
+    "github": "aniketpanjwani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aniketpanjwani/local_media_tools",
+    "skill_md": "https://raw.githubusercontent.com/aniketpanjwani/local_media_tools/main/skills/newsletter-events-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T00:59:27.000Z",
+  "created_at": "2025-12-23T01:28:33.913Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aniketpanjwani%2Flocal_media_tools/skills%2Fnewsletter-events-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_7e03544e0500"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cooking-best-practices",
+  "name": "cooking-best-practices",
+  "version": "1.0.0",
+  "summary": "Reference for how I like to cook.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dsummersl",
+    "github": "dsummersl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dsummersl/llm-tools-skills",
+    "skill_md": "https://raw.githubusercontent.com/dsummersl/llm-tools-skills/main/tests/fixtures/cooking-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.582Z",
+  "created_at": "2025-12-23T01:28:16.005Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dsummersl%2Fllm-tools-skills/tests%2Ffixtures%2Fcooking-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.582Z",
+    "uniqueId": "sk_3b06163f2fd4"
+  }
+}

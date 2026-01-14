@@ -1,0 +1,36 @@
+{
+  "id": "dev-context",
+  "name": "dev-context",
+  "version": "1.0.0",
+  "summary": "Context architecture skill for aligning work. Use when starting new features, making architectural decisions, or setting up implementation work. Generates interconnected ADR/Des...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpazaryna",
+    "github": "mpazaryna"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpazaryna/claude-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/mpazaryna/claude-toolkit/main/generated-skills/dev-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:32.455Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpazaryna%2Fclaude-toolkit/generated-skills%2Fdev-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_9e580d257e00"
+  }
+}

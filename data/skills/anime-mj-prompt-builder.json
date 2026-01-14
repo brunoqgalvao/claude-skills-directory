@@ -1,0 +1,36 @@
+{
+  "id": "anime-mj-prompt-builder",
+  "name": "anime-mj-prompt-builder",
+  "version": "1.0.0",
+  "summary": "Generates anime/manga prompts for Midjourney Niji mode with 30+ artist styles, SREF code library",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jawhnycooke",
+    "github": "jawhnycooke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jawhnycooke/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jawhnycooke/claude-plugins/main/plugins/anime-mj/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.677Z",
+  "created_at": "2025-12-22T22:12:37.550Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jawhnycooke%2Fclaude-plugins/plugins%2Fanime-mj%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.677Z",
+    "uniqueId": "sk_41a6c2d498fb"
+  }
+}

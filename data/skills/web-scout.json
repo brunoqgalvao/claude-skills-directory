@@ -1,0 +1,35 @@
+{
+  "id": "web-scout",
+  "name": "web-scout",
+  "version": "1.0.0",
+  "summary": "Search the web, get news, and verify facts. Use when you need up-to-date information, news, or fact-checking.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "isaacsight",
+    "github": "isaacsight"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/isaacsight/does-this-feel-right-",
+    "skill_md": "https://raw.githubusercontent.com/isaacsight/does-this-feel-right-/main/admin/skills/web_scout/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T00:29:48.000Z",
+  "created_at": "2025-12-23T01:28:25.762Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/isaacsight%2Fdoes-this-feel-right-/admin%2Fskills%2Fweb_scout%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_2612e2e6d0fa"
+  }
+}

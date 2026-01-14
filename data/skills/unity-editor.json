@@ -1,0 +1,35 @@
+{
+  "id": "unity-editor",
+  "name": "unity-editor",
+  "version": "1.0.0",
+  "summary": "Remote control Unity Editor via CLI using unityctl. Use when working with Unity projects to enter/exit play mode, compile scripts, view console logs, load scenes, run tests, cap...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DirtybitGames",
+    "github": "DirtybitGames"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DirtybitGames/unityctl",
+    "skill_md": "https://raw.githubusercontent.com/DirtybitGames/unityctl/main/examples/unity-editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T13:55:25.000Z",
+  "created_at": "2025-12-22T16:58:32.141Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DirtybitGames%2Funityctl/examples%2Funity-editor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_1c14dded3ee6"
+  }
+}

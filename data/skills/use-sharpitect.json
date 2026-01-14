@@ -1,0 +1,35 @@
+{
+  "id": "use-sharpitect",
+  "name": "use-sharpitect",
+  "version": "1.0.0",
+  "summary": "Navigate and analyze C# codebases using Sharpitect's semantic tools. Use when searching for C# declarations, understanding inheritance, finding method callers/callees, or explor...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nick-boey",
+    "github": "nick-boey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nick-boey/Sharpitect",
+    "skill_md": "https://raw.githubusercontent.com/nick-boey/Sharpitect/main/sharpitect-plugin/skills/use-sharpitect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.114Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nick-boey%2FSharpitect/sharpitect-plugin%2Fskills%2Fuse-sharpitect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_0c1b15456f57"
+  }
+}

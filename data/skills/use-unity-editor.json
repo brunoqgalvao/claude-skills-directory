@@ -1,0 +1,35 @@
+{
+  "id": "use-unity-editor",
+  "name": "use-unity-editor",
+  "version": "1.0.0",
+  "summary": "Read and edit scenes and prefabs as you would in the Unity editor. You can't do anything in the Unity editor without this skill.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pocketzworld",
+    "github": "pocketzworld"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pocketzworld/studio-ai",
+    "skill_md": "https://raw.githubusercontent.com/pocketzworld/studio-ai/main/rosie/skills/use-unity-editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:26.543Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pocketzworld%2Fstudio-ai/rosie%2Fskills%2Fuse-unity-editor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_60ffc02d96d3"
+  }
+}

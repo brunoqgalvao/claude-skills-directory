@@ -1,0 +1,36 @@
+{
+  "id": "terraform-module-builder",
+  "name": "terraform-module-builder",
+  "version": "1.0.0",
+  "summary": "Generate Terraform configuration files for infrastructure as code including AWS, GCP, and Azure resources with modules and best practices. Triggers on \"create Terraform config\",...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/terraform-module-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:01:13.629Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/terraform-module-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_dc415b5097d6"
+  }
+}

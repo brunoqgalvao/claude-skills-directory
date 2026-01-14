@@ -1,0 +1,35 @@
+{
+  "id": "stacked-pr",
+  "name": "stacked-pr",
+  "version": "1.0.0",
+  "summary": "Create and update stacked pull requests. Use this after completing an implementation phase to commit changed files.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elliotsteene",
+    "github": "elliotsteene"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elliotsteene/polypy",
+    "skill_md": "https://raw.githubusercontent.com/elliotsteene/polypy/main/.claude/skills/stacked-pr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T13:26:28.000Z",
+  "created_at": "2025-12-22T20:01:19.018Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elliotsteene%2Fpolypy/.claude%2Fskills%2Fstacked-pr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_0eba5e29b346"
+  }
+}

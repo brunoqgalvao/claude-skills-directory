@@ -1,0 +1,35 @@
+{
+  "id": "language-patterns-base",
+  "name": "language-patterns-base",
+  "version": "1.0.0",
+  "summary": "Base template for language-specific pattern skills. Defines common sections (error handling, testing, project structure, anti-patterns) that language skills extend with language...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zate",
+    "github": "Zate"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zate/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/Zate/cc-plugins/main/plugins/devloop/skills/language-patterns-base/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.778Z",
+  "created_at": "2025-12-22T19:31:13.536Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zate%2Fcc-plugins/plugins%2Fdevloop%2Fskills%2Flanguage-patterns-base%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_0704582e0c4e"
+  }
+}

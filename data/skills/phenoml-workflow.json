@@ -1,0 +1,36 @@
+{
+  "id": "phenoml-workflow",
+  "name": "phenoml-workflow",
+  "version": "1.0.0",
+  "summary": "Create and execute PhenoML workflows for healthcare data processing, including condition creation from clinical notes and patient registration with deduplication",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PhenoML",
+    "github": "PhenoML"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PhenoML/phenoml-skills",
+    "skill_md": "https://raw.githubusercontent.com/PhenoML/phenoml-skills/main/skills/phenoml-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.627Z",
+  "created_at": "2025-12-22T23:16:01.162Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PhenoML%2Fphenoml-skills/skills%2Fphenoml-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.627Z",
+    "uniqueId": "sk_29809f13cca6"
+  }
+}

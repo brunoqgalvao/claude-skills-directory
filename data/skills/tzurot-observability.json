@@ -1,0 +1,37 @@
+{
+  "id": "tzurot-observability",
+  "name": "tzurot-observability",
+  "version": "1.0.0",
+  "summary": "Use when adding logging, debugging production issues, checking service health, or performing routine operations (adding personalities, database queries). Covers structured loggi...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lbds137",
+    "github": "lbds137"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lbds137/tzurot",
+    "skill_md": "https://raw.githubusercontent.com/lbds137/tzurot/main/.claude/skills/tzurot-observability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:24.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lbds137%2Ftzurot/.claude%2Fskills%2Ftzurot-observability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_bc98126e5796"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "managing-forks",
+  "name": "managing-forks",
+  "version": "1.0.0",
+  "summary": "Manages parallel conversation branches using git worktrees. Use when you want to explore multiple solution approaches simultaneously, need to try different implementations, or w...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcfearsome",
+    "github": "mcfearsome"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcfearsome/fork-yeah",
+    "skill_md": "https://raw.githubusercontent.com/mcfearsome/fork-yeah/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T18:32:08.000Z",
+  "created_at": "2025-12-23T01:29:18.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcfearsome%2Ffork-yeah/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_d9911e68ff7a"
+  }
+}

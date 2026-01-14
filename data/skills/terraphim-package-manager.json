@@ -1,0 +1,36 @@
+{
+  "id": "terraphim-package-manager",
+  "name": "terraphim-package-manager",
+  "version": "1.0.0",
+  "summary": "Automatically replace package manager commands (npm, yarn, pnpm) with bun using Terraphim's knowledge graph system. Use this when the user mentions package managers, installatio...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terraphim",
+    "github": "terraphim"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terraphim/terraphim-ai",
+    "skill_md": "https://raw.githubusercontent.com/terraphim/terraphim-ai/main/examples/claude-skills/terraphim-package-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:44.794Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terraphim%2Fterraphim-ai/examples%2Fclaude-skills%2Fterraphim-package-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_77867a091cb6"
+  }
+}

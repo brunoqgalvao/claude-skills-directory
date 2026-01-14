@@ -1,0 +1,37 @@
+{
+  "id": "tech-stack-adapter",
+  "name": "tech-stack-adapter",
+  "version": "1.0.0",
+  "summary": "Detects Python project configuration and provides commands for\ntesting, building, coverage, and containerization.\n\nUse when: Starting workflow, detecting project stack, need TES...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stharrold",
+    "github": "stharrold"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stharrold/german",
+    "skill_md": "https://raw.githubusercontent.com/stharrold/german/main/.claude/skills/tech-stack-adapter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T10:09:46.000Z",
+  "created_at": "2025-12-22T15:51:52.307Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stharrold%2Fgerman/.claude%2Fskills%2Ftech-stack-adapter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_6d288c5ee059"
+  }
+}

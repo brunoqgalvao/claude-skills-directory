@@ -1,0 +1,36 @@
+{
+  "id": "timezone",
+  "name": "timezone",
+  "version": "1.0.0",
+  "summary": "REQUIRED for ANY date/time code - prevents timezone bugs by enforcing Mountain Time utilities instead of native Date objects. Use when working with dates, times, timestamps, sch...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zacjones93",
+    "github": "zacjones93"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zacjones93/sweet-angel-bakery",
+    "skill_md": "https://raw.githubusercontent.com/zacjones93/sweet-angel-bakery/main/.claude/skills/timezone/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:36.928Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zacjones93%2Fsweet-angel-bakery/.claude%2Fskills%2Ftimezone%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_2a1a88b5b566"
+  }
+}

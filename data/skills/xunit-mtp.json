@@ -1,0 +1,35 @@
+{
+  "id": "xunit-mtp",
+  "name": "xunit-mtp",
+  "version": "1.0.0",
+  "summary": "use this skill when creating new or reviewing xunit v3 test projects using Microsoft Testing Platform (MTP) to ensure best patterns, practices, and proper configuration",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rcmx",
+    "github": "rcmx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rcmx/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/rcmx/claude-plugins/main/plugins/dotnet-developer/skills/xunit-mtp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.513Z",
+  "created_at": "2025-12-23T01:29:15.708Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rcmx%2Fclaude-plugins/plugins%2Fdotnet-developer%2Fskills%2Fxunit-mtp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_f56a4f81f4e0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "redmine-timetrack",
+  "name": "redmine-timetrack",
+  "version": "1.0.0",
+  "summary": "이 스킬은 사용자가 \"작업 시간 기록\", \"시간 등록\", \"타임 로그\", \"작업 시간 조회\", \"몇 시간 일했어\", \"time entry\", \"log hours\", \"time tracking\", \"work hours\" 등을 언급할 때 사용됩니다. Redmine 작업 시간 관리 기능을 제공합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ncuritylabs",
+    "github": "ncuritylabs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ncuritylabs/ncurion-plugins-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/ncuritylabs/ncurion-plugins-marketplace/main/plugins/ncurion-plugin/skills/redmine-timetrack/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T03:56:23.000Z",
+  "created_at": "2025-12-23T01:28:48.255Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ncuritylabs%2Fncurion-plugins-marketplace/plugins%2Fncurion-plugin%2Fskills%2Fredmine-timetrack%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_49f91a87f2ee"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "marketing-sync",
+  "name": "marketing-sync",
+  "version": "1.0.0",
+  "summary": "Sync ClaudeKit Marketing with Engineer updates using natural language. Handles the two-step sync process, reports what changed, and helps review updates.",
+  "verticals": [
+    "marketing",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "skinred78",
+    "github": "skinred78"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/skinred78/neuro-db-2",
+    "skill_md": "https://raw.githubusercontent.com/skinred78/neuro-db-2/main/.claude/skills/marketing-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T21:59:59.216Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/skinred78%2Fneuro-db-2/.claude%2Fskills%2Fmarketing-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_a0016cab4d74"
+  }
+}

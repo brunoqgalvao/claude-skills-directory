@@ -1,0 +1,36 @@
+{
+  "id": "theme-system",
+  "name": "theme-system",
+  "version": "1.0.0",
+  "summary": "CSS custom properties theme architecture for 4 themes (studio, earth, athlete, gradient) with data-theme attribute switching and theme-aware components. Use when implementing th...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canatufkansu",
+    "github": "canatufkansu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canatufkansu/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/canatufkansu/claude-skills/main/theme-system/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:14.699Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canatufkansu%2Fclaude-skills/theme-system%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_7ac12f667afa"
+  }
+}

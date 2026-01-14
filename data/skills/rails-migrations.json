@@ -1,0 +1,36 @@
+{
+  "id": "rails-migrations",
+  "name": "rails-migrations",
+  "version": "1.0.0",
+  "summary": "Safe Rails database migration patterns. Use when writing migrations, removing columns, or making schema changes. Covers two-phase deployments, Strong Migrations, and pre-deploym...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stephendolan",
+    "github": "stephendolan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stephendolan/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/stephendolan/dotfiles/main/claude/skills/rails-migrations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:40.427Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stephendolan%2Fdotfiles/claude%2Fskills%2Frails-migrations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_c773373a509c"
+  }
+}

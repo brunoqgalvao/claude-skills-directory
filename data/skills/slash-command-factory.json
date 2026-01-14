@@ -1,0 +1,37 @@
+{
+  "id": "slash-command-factory",
+  "name": "slash-command-factory",
+  "version": "1.0.0",
+  "summary": "Generate custom Claude Code slash commands through intelligent 5-7 question flow. Creates powerful commands for business research, content analysis, healthcare compliance, API i...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/productivity-tools/skills/slash-command-factory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:18:24.286Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fproductivity-tools%2Fskills%2Fslash-command-factory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_ff8f4c7658af"
+  }
+}

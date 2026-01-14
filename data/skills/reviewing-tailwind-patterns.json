@@ -1,0 +1,35 @@
+{
+  "id": "reviewing-tailwind-patterns",
+  "name": "reviewing-tailwind-patterns",
+  "version": "1.0.0",
+  "summary": "Review Tailwind CSS v4 patterns for configuration, theming, and utility usage. Use when reviewing CSS files, Vite configs, or components using Tailwind.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/tailwind-4/skills/reviewing-tailwind-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T00:44:15.000Z",
+  "created_at": "2025-12-23T01:29:20.640Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/tailwind-4%2Fskills%2Freviewing-tailwind-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_32e090834a42"
+  }
+}

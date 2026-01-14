@@ -1,0 +1,37 @@
+{
+  "id": "claudish-usage",
+  "name": "claudish-usage",
+  "version": "1.0.0",
+  "summary": "CRITICAL - Guide for using Claudish CLI ONLY through sub-agents to run Claude Code with OpenRouter models (Grok, GPT-5, Gemini, MiniMax). NEVER run Claudish directly in main con...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claudish",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claudish/main/skills/claudish-usage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.472Z",
+  "created_at": "2025-12-23T01:29:58.991Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaudish/skills%2Fclaudish-usage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.472Z",
+    "uniqueId": "sk_3435e3e1252e"
+  }
+}

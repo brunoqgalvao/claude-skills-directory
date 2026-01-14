@@ -1,0 +1,37 @@
+{
+  "id": "gtm-variables",
+  "name": "gtm-variables",
+  "version": "1.0.0",
+  "summary": "Expert guidance for configuring Google Tag Manager variables including built-in variables (Page URL, Page Path, Referrer, Click variables, Form variables), data layer variables,...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henkisdabro",
+    "github": "henkisdabro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henkisdabro/wookstar-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-code-plugins/main/gtm-suite/skills/gtm-variables/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:59:17.197Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henkisdabro%2Fwookstar-claude-code-plugins/gtm-suite%2Fskills%2Fgtm-variables%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_28b380896b1b"
+  }
+}

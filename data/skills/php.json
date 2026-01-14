@@ -1,0 +1,35 @@
+{
+  "id": "php",
+  "name": "php",
+  "version": "1.0.0",
+  "summary": "Modern PHP development best practices including PHP 8.x features, OOP patterns, error handling, security, testing, and performance optimization. Use when writing PHP code, revie...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vapvarun",
+    "github": "vapvarun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vapvarun/claude-backup",
+    "skill_md": "https://raw.githubusercontent.com/vapvarun/claude-backup/main/skills/php/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:03:58.707Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vapvarun%2Fclaude-backup/skills%2Fphp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_9646ce442d03"
+  }
+}

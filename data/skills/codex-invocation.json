@@ -1,0 +1,35 @@
+{
+  "id": "codex-invocation",
+  "name": "codex-invocation",
+  "version": "1.0.0",
+  "summary": "Invoke OpenAI Codex CLI with the correct configuration for autonomous code generation. Use when you need Codex to generate or regenerate code files, implement features, or execu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nodays-off",
+    "github": "nodays-off"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nodays-off/rack-reserve",
+    "skill_md": "https://raw.githubusercontent.com/nodays-off/rack-reserve/main/.claude/skills/codex-invocation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:00:49.032Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nodays-off%2Frack-reserve/.claude%2Fskills%2Fcodex-invocation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_cf6fbe2dd051"
+  }
+}

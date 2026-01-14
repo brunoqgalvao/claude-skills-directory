@@ -1,0 +1,36 @@
+{
+  "id": "troubleshooting-guide",
+  "name": "troubleshooting-guide",
+  "version": "1.0.0",
+  "summary": "Create comprehensive troubleshooting guides, FAQ documents, known issues lists, and debug guides. Use when documenting common problems, error messages, or debugging procedures.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/troubleshooting-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.692Z",
+  "created_at": "2025-12-22T22:05:04.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Ftroubleshooting-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.692Z",
+    "uniqueId": "sk_a3265781483c"
+  }
+}

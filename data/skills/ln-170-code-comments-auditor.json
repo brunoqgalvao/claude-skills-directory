@@ -1,0 +1,37 @@
+{
+  "id": "ln-170-code-comments-auditor",
+  "name": "ln-170-code-comments-auditor",
+  "version": "1.0.0",
+  "summary": "Audit code comments and docstrings quality across 6 categories (WHY-not-WHAT, Density, Forbidden Content, Docstrings, Actuality, Legacy). Use when code needs comment review, aft...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-170-code-comments-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:36.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-170-code-comments-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_0eb995c0f6e4"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "openwebf-release-cdn-deploy",
+  "name": "openwebf-release-cdn-deploy",
+  "version": "1.0.0",
+  "summary": "Plan and implement CDN deployment of built WebF app assets (Vercel/Netlify/S3+CloudFront/GitHub Pages), including cache headers and verification. Use when the user mentions CDN,...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "archview-ai",
+    "github": "archview-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/archview-ai/webf-plugin",
+    "skill_md": "https://raw.githubusercontent.com/archview-ai/webf-plugin/main/webf-plugin/skills/openwebf-release-cdn-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.578Z",
+  "created_at": "2025-12-23T01:28:23.046Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/archview-ai%2Fwebf-plugin/webf-plugin%2Fskills%2Fopenwebf-release-cdn-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_2e5769cd6a24"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "implement-design",
+  "name": "implement-design",
+  "version": "1.0.0",
+  "summary": "Translates Figma designs into production-ready code with 1:1 visual fidelity. Use when implementing UI from Figma files, when user mentions \"implement design\", \"generate code\", ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "figma",
+    "github": "figma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/figma/mcp-server-guide",
+    "skill_md": "https://raw.githubusercontent.com/figma/mcp-server-guide/main/skills/implement-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T17:56:40.000Z",
+  "created_at": "2025-12-22T21:03:32.973Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/figma%2Fmcp-server-guide/skills%2Fimplement-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_370ecd6ee3f8"
+  }
+}

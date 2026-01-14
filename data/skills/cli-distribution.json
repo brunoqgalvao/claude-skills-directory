@@ -1,0 +1,35 @@
+{
+  "id": "cli-distribution",
+  "name": "cli-distribution",
+  "version": "1.0.0",
+  "summary": "Distribution and packaging patterns including shell completions, man pages, cross-compilation, and release automation. Use when preparing CLI tools for distribution.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "geoffjay",
+    "github": "geoffjay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/geoffjay/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/geoffjay/claude-plugins/main/plugins/rust-cli-developer/skills/cli-distribution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:14:35.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/geoffjay%2Fclaude-plugins/plugins%2Frust-cli-developer%2Fskills%2Fcli-distribution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_bdf343366725"
+  }
+}

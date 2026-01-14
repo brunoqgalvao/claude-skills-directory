@@ -1,0 +1,35 @@
+{
+  "id": "quality-auditor",
+  "name": "quality-auditor",
+  "version": "1.0.0",
+  "summary": "Comprehensive quality auditing and evaluation of tools, frameworks, and systems against industry best practices with detailed scoring across 12 critical dimensions",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daffy0208",
+    "github": "daffy0208"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daffy0208/ai-dev-standards",
+    "skill_md": "https://raw.githubusercontent.com/daffy0208/ai-dev-standards/main/SKILLS/quality-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.612Z",
+  "created_at": "2025-12-22T23:57:20.391Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daffy0208%2Fai-dev-standards/SKILLS%2Fquality-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.612Z",
+    "uniqueId": "sk_2b44fe3215b5"
+  }
+}

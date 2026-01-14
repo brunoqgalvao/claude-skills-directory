@@ -1,0 +1,36 @@
+{
+  "id": "running-performance-benchmarks",
+  "name": "running-performance-benchmarks",
+  "version": "1.0.0",
+  "summary": "Use this skill when running performance benchmarks, measuring API endpoint response times, detecting performance regressions, running load tests, comparing performance before/af...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wolfiesch",
+    "github": "wolfiesch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wolfiesch/UFC-pokedex",
+    "skill_md": "https://raw.githubusercontent.com/wolfiesch/UFC-pokedex/main/.claude/skills/running-performance-benchmarks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:06.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wolfiesch%2FUFC-pokedex/.claude%2Fskills%2Frunning-performance-benchmarks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_8461e6607037"
+  }
+}

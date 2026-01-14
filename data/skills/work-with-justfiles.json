@@ -1,0 +1,35 @@
+{
+  "id": "work-with-justfiles",
+  "name": "work-with-justfiles",
+  "version": "1.0.0",
+  "summary": "Guidance for structuring and organizing justfiles. Use when creating, editing, or discussing justfile organization, command grouping, or repo CLI conventions.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kyldvs",
+    "github": "kyldvs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kyldvs/setup",
+    "skill_md": "https://raw.githubusercontent.com/kyldvs/setup/main/.claude/skills/work-with-justfiles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:10.971Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kyldvs%2Fsetup/.claude%2Fskills%2Fwork-with-justfiles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_97e796d518a9"
+  }
+}

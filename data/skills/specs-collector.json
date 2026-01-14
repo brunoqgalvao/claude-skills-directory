@@ -1,0 +1,36 @@
+{
+  "id": "specs-collector",
+  "name": "specs-collector",
+  "version": "1.0.0",
+  "summary": "Collects complete technical specifications from manufacturer sites, Amazon, and review sites with schema validation. Use when user asks to 'get specs', 'collect specifications',...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lola69160",
+    "github": "lola69160"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lola69160/claude-product-comparison",
+    "skill_md": "https://raw.githubusercontent.com/lola69160/claude-product-comparison/main/skills/specs-collector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:05:59.274Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lola69160%2Fclaude-product-comparison/skills%2Fspecs-collector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_7f542949c340"
+  }
+}

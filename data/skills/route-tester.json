@@ -1,0 +1,35 @@
+{
+  "id": "route-tester",
+  "name": "route-tester",
+  "version": "1.0.0",
+  "summary": "Test authenticated routes in the your project using cookie-based authentication. Use this skill when testing API endpoints, validating route functionality, or debugging authenti...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/route-tester_diet103/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.757Z",
+  "created_at": "2025-12-22T20:15:01.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Froute-tester_diet103%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.757Z",
+    "uniqueId": "sk_78d027dcfd16"
+  }
+}

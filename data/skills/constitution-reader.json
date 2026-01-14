@@ -1,0 +1,35 @@
+{
+  "id": "constitution-reader",
+  "name": "constitution-reader",
+  "version": "1.0.0",
+  "summary": "Read and summarize constitution principles for the AI-Native Robotics Textbook project. Use when checking project rules, validating compliance, or understanding constraints.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zeeshan080",
+    "github": "zeeshan080"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zeeshan080/ai-native-robotics",
+    "skill_md": "https://raw.githubusercontent.com/zeeshan080/ai-native-robotics/main/.claude/skills/constitution-reader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T13:35:34.000Z",
+  "created_at": "2025-12-23T01:28:26.348Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zeeshan080%2Fai-native-robotics/.claude%2Fskills%2Fconstitution-reader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_e5bf0eef4fba"
+  }
+}

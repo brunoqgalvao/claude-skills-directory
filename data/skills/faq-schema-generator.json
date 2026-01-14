@@ -1,0 +1,35 @@
+{
+  "id": "faq-schema-generator",
+  "name": "faq-schema-generator",
+  "version": "1.0.0",
+  "summary": "Generate FAQ sections with proper FAQPage schema markup for therapy pages. Creates 10-12 therapy-specific questions, 50-100 word answers, and valid JSON-LD schema. Optimized for...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jhcynamon1",
+    "github": "jhcynamon1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jhcynamon1/NextStepTherapySite-v2",
+    "skill_md": "https://raw.githubusercontent.com/jhcynamon1/NextStepTherapySite-v2/main/.claude/skills/faq-schema-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:09:21.001Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jhcynamon1%2FNextStepTherapySite-v2/.claude%2Fskills%2Ffaq-schema-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_ecc46ac34fd0"
+  }
+}

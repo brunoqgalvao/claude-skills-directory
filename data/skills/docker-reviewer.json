@@ -1,0 +1,36 @@
+{
+  "id": "docker-reviewer",
+  "name": "docker-reviewer",
+  "version": "1.0.0",
+  "summary": "WHEN: Dockerfile review, multi-stage builds, layer optimization, docker-compose\nWHAT: Image optimization + Layer caching + Security scanning + Compose best practices + Build eff...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "physics91",
+    "github": "physics91"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/physics91/claude-vibe",
+    "skill_md": "https://raw.githubusercontent.com/physics91/claude-vibe/main/skills/docker-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.139Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/physics91%2Fclaude-vibe/skills%2Fdocker-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_420e2923e5c4"
+  }
+}

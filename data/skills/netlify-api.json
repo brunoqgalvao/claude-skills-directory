@@ -1,0 +1,35 @@
+{
+  "id": "netlify-api",
+  "name": "netlify-api",
+  "version": "1.0.0",
+  "summary": "Netlify API を使用したコードを書く際に使用。ZIPデプロイ、サイト作成、ky/fflate/zod を使った実装パターンを提供。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cuzic",
+    "github": "cuzic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cuzic/ClipShip",
+    "skill_md": "https://raw.githubusercontent.com/cuzic/ClipShip/main/.claude/skills/netlify-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T06:46:03.000Z",
+  "created_at": "2025-12-22T15:58:13.067Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cuzic%2FClipShip/.claude%2Fskills%2Fnetlify-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_6a8ca369c140"
+  }
+}

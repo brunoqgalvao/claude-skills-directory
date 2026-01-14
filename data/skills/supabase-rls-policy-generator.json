@@ -1,0 +1,36 @@
+{
+  "id": "supabase-rls-policy-generator",
+  "name": "supabase-rls-policy-generator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user requests to generate, create, or add Row-Level Security (RLS) policies for Supabase databases in multi-tenant or role-based applications....",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/plugins/supabase-rls-policy-generator/skills/supabase-rls-policy-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T19:00:32.029Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/plugins%2Fsupabase-rls-policy-generator%2Fskills%2Fsupabase-rls-policy-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_9a52c47d9561"
+  }
+}

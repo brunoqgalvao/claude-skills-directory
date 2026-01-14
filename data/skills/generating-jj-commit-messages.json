@@ -1,0 +1,35 @@
+{
+  "id": "generating-jj-commit-messages",
+  "name": "generating-jj-commit-messages",
+  "version": "1.0.0",
+  "summary": "Generates clear commit messages from jj diffs. Use when writing commit messages or reviewing staged changes.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alistairstead",
+    "github": "alistairstead"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alistairstead/dotfiles2",
+    "skill_md": "https://raw.githubusercontent.com/alistairstead/dotfiles2/main/claude/.claude/skills/generate-jj-commit-message/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.580Z",
+  "created_at": "2025-12-23T01:28:18.569Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alistairstead%2Fdotfiles2/claude%2F.claude%2Fskills%2Fgenerate-jj-commit-message%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_0a265eb853af"
+  }
+}

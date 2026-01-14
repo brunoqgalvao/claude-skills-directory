@@ -1,0 +1,35 @@
+{
+  "id": "forecast-discipline",
+  "name": "forecast-discipline",
+  "version": "1.0.0",
+  "summary": "Use to drive consistent forecast methodology, grading, and inspection cadences.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/sales-pipeline/skills/forecast-discipline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.845Z",
+  "created_at": "2025-12-22T16:04:27.790Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fsales-pipeline%2Fskills%2Fforecast-discipline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_6426a3422ab1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cote-teacher",
+  "name": "cote-teacher",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user requests learning materials for algorithm or data structure patterns (e.g., \"Create learning material for sliding window pattern\"). It au...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "homveloper",
+    "github": "homveloper"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/homveloper/CoTe",
+    "skill_md": "https://raw.githubusercontent.com/homveloper/CoTe/main/.claude/skills/cote-teacher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:06.786Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/homveloper%2FCoTe/.claude%2Fskills%2Fcote-teacher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_e3cffb047c2a"
+  }
+}

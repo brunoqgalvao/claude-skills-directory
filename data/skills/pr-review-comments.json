@@ -1,0 +1,35 @@
+{
+  "id": "pr-review-comments",
+  "name": "pr-review-comments",
+  "version": "1.0.0",
+  "summary": "Fetch and analyze GitHub PR review comments and code-level feedback using the prc CLI. Use this skill whenever the user mentions PR comments, PR feedback, reviewer feedback, rev...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "praveenperera",
+    "github": "praveenperera"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/praveenperera/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/praveenperera/dotfiles/main/claude/skills/pr-review-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.855Z",
+  "created_at": "2025-12-22T15:52:28.179Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/praveenperera%2Fdotfiles/claude%2Fskills%2Fpr-review-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_48ecb788c00b"
+  }
+}

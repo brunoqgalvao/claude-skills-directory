@@ -1,0 +1,37 @@
+{
+  "id": "us-gov-shutdown-tracker",
+  "name": "us-gov-shutdown-tracker",
+  "version": "1.0.0",
+  "summary": "Track and analyze US government shutdown liquidity impacts by monitoring TGA (Treasury General Account), bank reserves, EFFR, and SOFR data from FRED API. Use when user wants to...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Mann1988",
+    "github": "Mann1988"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Mann1988/awesome-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Mann1988/awesome-claude-skills/main/us-gov-shutdown-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.460Z",
+  "created_at": "2025-12-22T20:05:33.603Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Mann1988%2Fawesome-claude-skills/us-gov-shutdown-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_6d8a2ee1ac0d"
+  }
+}

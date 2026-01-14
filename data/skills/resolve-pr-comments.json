@@ -1,0 +1,36 @@
+{
+  "id": "resolve-pr-comments",
+  "name": "resolve-pr-comments",
+  "version": "1.0.0",
+  "summary": "GitHub PR의 미해결 Review thread를 일괄 Resolve한다. GraphQL API를 사용해 미해결 Review thread(코드 특정 라인에 대한 코멘트)를 조회한 뒤, resolveReviewThread mutation으로 모두 자동 Resolve한다. Issue comment(대화 탭)는 원래 ...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gaebalai",
+    "github": "gaebalai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gaebalai/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/gaebalai/claude-code-marketplace/main/gaebalai/skills/resolve-pr-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T19:06:53.000Z",
+  "created_at": "2025-12-22T14:18:14.220Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gaebalai%2Fclaude-code-marketplace/gaebalai%2Fskills%2Fresolve-pr-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_82d387158e1e"
+  }
+}

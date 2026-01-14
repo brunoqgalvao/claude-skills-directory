@@ -1,0 +1,36 @@
+{
+  "id": "basilica-cli-helper",
+  "name": "basilica-cli-helper",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to rent GPUs, run ML training jobs, or manage compute resources on Basilica's decentralized GPU marketplace. Use it for PyTorch/TensorF...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synapz-org",
+    "github": "synapz-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synapz-org/basilica-cli-claude-skill",
+    "skill_md": "https://raw.githubusercontent.com/synapz-org/basilica-cli-claude-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T14:25:17.000Z",
+  "created_at": "2025-12-23T01:29:29.323Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synapz-org%2Fbasilica-cli-claude-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_3a92821b3993"
+  }
+}

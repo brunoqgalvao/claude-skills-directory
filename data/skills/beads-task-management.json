@@ -1,0 +1,35 @@
+{
+  "id": "beads-task-management",
+  "name": "beads-task-management",
+  "version": "1.0.0",
+  "summary": "Use beads for structured task tracking with dependencies, recovery cards, and cross-session context management",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aesirsystems",
+    "github": "aesirsystems"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aesirsystems/claude-beads-skill",
+    "skill_md": "https://raw.githubusercontent.com/aesirsystems/claude-beads-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T17:15:22.000Z",
+  "created_at": "2025-12-23T01:29:23.805Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aesirsystems%2Fclaude-beads-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_e5755dc3a7db"
+  }
+}

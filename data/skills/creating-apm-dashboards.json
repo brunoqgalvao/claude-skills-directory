@@ -1,0 +1,36 @@
+{
+  "id": "creating-apm-dashboards",
+  "name": "creating-apm-dashboards",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to create Application Performance Monitoring (APM) dashboards. It is triggered when the user requests the creation of a new APM dashboard, monitoring d...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/backups/skills-batch-20251204-000554/plugins/performance/apm-dashboard-creator/skills/apm-dashboard-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T06:09:39.000Z",
+  "created_at": "2025-12-19T16:03:18.154Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/backups%2Fskills-batch-20251204-000554%2Fplugins%2Fperformance%2Fapm-dashboard-creator%2Fskills%2Fapm-dashboard-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_9e7d99955daa"
+  }
+}

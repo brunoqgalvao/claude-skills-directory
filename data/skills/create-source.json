@@ -1,0 +1,35 @@
+{
+  "id": "create-source",
+  "name": "create-source",
+  "version": "1.0.0",
+  "summary": "Use when creating a new walkerOS source. Example-driven workflow starting with research and input examples before implementation.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elbwalker",
+    "github": "elbwalker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elbwalker/walkerOS",
+    "skill_md": "https://raw.githubusercontent.com/elbwalker/walkerOS/main/skills/create-source/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.637Z",
+  "created_at": "2025-12-22T23:09:39.164Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elbwalker%2FwalkerOS/skills%2Fcreate-source%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.637Z",
+    "uniqueId": "sk_d82bbeb88eeb"
+  }
+}

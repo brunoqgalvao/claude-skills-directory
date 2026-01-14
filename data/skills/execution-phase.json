@@ -1,0 +1,36 @@
+{
+  "id": "execution-phase",
+  "name": "execution-phase",
+  "version": "1.0.0",
+  "summary": "TDD-paired Gantt-style execution with compact waves. Each story gets tester agent (writes tests) BEFORE implementation agent (passes tests). Compact before each wave to avoid co...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/workflow-steps/execution-phase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T23:30:39.000Z",
+  "created_at": "2025-12-22T20:58:27.950Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fworkflow-steps%2Fexecution-phase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_e67fb0d0a6e0"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "openai-responses",
+  "name": "openai-responses",
+  "version": "1.0.0",
+  "summary": "Build agentic AI applications with OpenAI's Responses API - the stateful successor to Chat Completions. Preserves reasoning across turns for 5% better multi-turn performance and...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jezweb",
+    "github": "jezweb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jezweb/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/openai-responses/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:58:05.725Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jezweb%2Fclaude-skills/skills%2Fopenai-responses%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_89209c4622ab"
+  }
+}

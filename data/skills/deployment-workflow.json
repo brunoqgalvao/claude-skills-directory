@@ -1,0 +1,37 @@
+{
+  "id": "deployment-workflow",
+  "name": "deployment-workflow",
+  "version": "1.0.0",
+  "summary": "Guides production deployment workflow with safety checks and rollback procedures. Use when deploying applications to staging or production environments.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HelloWorldSungin",
+    "github": "HelloWorldSungin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HelloWorldSungin/AI_agents",
+    "skill_md": "https://raw.githubusercontent.com/HelloWorldSungin/AI_agents/main/skills/custom/examples/deployment-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:17:59.510Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HelloWorldSungin%2FAI_agents/skills%2Fcustom%2Fexamples%2Fdeployment-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_34e322896990"
+  }
+}

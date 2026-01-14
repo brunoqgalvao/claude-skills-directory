@@ -1,0 +1,35 @@
+{
+  "id": "database-replication-setup",
+  "name": "database-replication-setup",
+  "version": "1.0.0",
+  "summary": "Эксперт DB replication. Используй для настройки репликации MySQL, PostgreSQL, MongoDB, failover и high availability.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dengineproblem",
+    "github": "dengineproblem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dengineproblem/agents-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/dengineproblem/agents-monorepo/main/.claude/skills/database-replication-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:56.032Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dengineproblem%2Fagents-monorepo/.claude%2Fskills%2Fdatabase-replication-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_181497816079"
+  }
+}

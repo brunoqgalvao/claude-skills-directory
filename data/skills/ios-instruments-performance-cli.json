@@ -1,0 +1,35 @@
+{
+  "id": "ios-instruments-performance-cli",
+  "name": "ios-instruments-performance-cli",
+  "version": "1.0.0",
+  "summary": "Use Xcode Instruments command line tools to analyze iOS app performance, detect memory leaks, optimize launch times, monitor CPU usage, and identify performance bottlenecks for ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daispacy",
+    "github": "daispacy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daispacy/py-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/daispacy/py-claude-marketplace/main/py-plugin/skills/instruments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:39.944Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daispacy%2Fpy-claude-marketplace/py-plugin%2Fskills%2Finstruments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_a3435c1434f9"
+  }
+}

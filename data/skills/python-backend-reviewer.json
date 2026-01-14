@@ -1,0 +1,36 @@
+{
+  "id": "python-backend-reviewer",
+  "name": "python-backend-reviewer",
+  "version": "1.0.0",
+  "summary": "Expert Python backend code reviewer that identifies over-complexity, duplicates, bad optimizations, and violations of best practices. Use when asked to review Python code qualit...",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Qredence",
+    "github": "Qredence"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Qredence/agentic-fleet",
+    "skill_md": "https://raw.githubusercontent.com/Qredence/agentic-fleet/main/.github/skills/python-backend-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.692Z",
+  "created_at": "2025-12-22T22:04:18.887Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Qredence%2Fagentic-fleet/.github%2Fskills%2Fpython-backend-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.692Z",
+    "uniqueId": "sk_ddc2ed419f8d"
+  }
+}

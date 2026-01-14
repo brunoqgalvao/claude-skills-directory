@@ -1,0 +1,37 @@
+{
+  "id": "claude-agent-sdk",
+  "name": "claude-agent-sdk",
+  "version": "1.0.0",
+  "summary": "Build coding agents with the Claude Agent SDK. Use when creating agentic workflows, implementing todo tracking, monitoring agent progress, building multi-turn conversations, str...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Anveio",
+    "github": "Anveio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Anveio/conveaux",
+    "skill_md": "https://raw.githubusercontent.com/Anveio/conveaux/main/.claude/skills/claude-agent-sdk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.688Z",
+  "created_at": "2025-12-22T22:08:09.436Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Anveio%2Fconveaux/.claude%2Fskills%2Fclaude-agent-sdk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.688Z",
+    "uniqueId": "sk_adac14943c61"
+  }
+}

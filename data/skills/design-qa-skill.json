@@ -1,0 +1,35 @@
+{
+  "id": "design-qa-skill",
+  "name": "design-qa-skill",
+  "version": "1.0.0",
+  "summary": "Skill providing design QA checklists and principles for visual review across lanes. Used by design-review agents to enforce hierarchy, spacing, color, and responsiveness.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adilkalam",
+    "github": "adilkalam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adilkalam/orca-os",
+    "skill_md": "https://raw.githubusercontent.com/adilkalam/orca-os/main/skills/design-qa-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.888Z",
+  "created_at": "2025-12-19T19:36:24.979Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adilkalam%2Forca-os/skills%2Fdesign-qa-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.888Z",
+    "uniqueId": "sk_d5f02d561062"
+  }
+}

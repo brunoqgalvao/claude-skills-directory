@@ -1,0 +1,37 @@
+{
+  "id": "image-enhancement-suite",
+  "name": "image-enhancement-suite",
+  "version": "1.0.0",
+  "summary": "Batch image processing: resize, crop, watermark, color correction, format conversion, compression. Quality presets for web, print, and social media.",
+  "verticals": [
+    "marketing",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkyazzentwatwa",
+    "github": "dkyazzentwatwa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "skill_md": "https://raw.githubusercontent.com/dkyazzentwatwa/chatgpt-skills/main/image-enhancement-suite/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:20.683Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkyazzentwatwa%2Fchatgpt-skills/image-enhancement-suite%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_b13e2e2ef6d8"
+  }
+}

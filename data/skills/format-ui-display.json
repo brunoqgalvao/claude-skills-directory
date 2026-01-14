@@ -1,0 +1,35 @@
+{
+  "id": "format-ui-display",
+  "name": "format-ui-display",
+  "version": "1.0.0",
+  "summary": "UI表示用の日付、enum値をフォーマットします。日本語形式の日付、相対日付が必要な場合に使用します。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nayukata",
+    "github": "nayukata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nayukata/notify-patch-notes",
+    "skill_md": "https://raw.githubusercontent.com/nayukata/notify-patch-notes/main/.claude/skills/format-ui-display/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:17.162Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nayukata%2Fnotify-patch-notes/.claude%2Fskills%2Fformat-ui-display%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_3d8ecb8da6ad"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "plugin-settings",
+  "name": "plugin-settings",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks about \"plugin settings\", \"store plugin configuration\", \"user-configurable plugin\", \".local.md files\", \"plugin state files\", \"read YA...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fcakyon",
+    "github": "fcakyon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fcakyon/claude-codex-settings",
+    "skill_md": "https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/plugin-dev/skills/plugin-settings/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:15:15.099Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fcakyon%2Fclaude-codex-settings/plugins%2Fplugin-dev%2Fskills%2Fplugin-settings%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_de471ae29020"
+  }
+}

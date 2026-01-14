@@ -1,0 +1,35 @@
+{
+  "id": "perf",
+  "name": "perf",
+  "version": "1.0.0",
+  "summary": "Performance profiling and optimization. Use for benchmarking code, analyzing performance, running Lighthouse audits, and finding hotspots.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/claude",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/claude/main/skills/perf/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:27.161Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fclaude/skills%2Fperf%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_9dab4a044d09"
+  }
+}

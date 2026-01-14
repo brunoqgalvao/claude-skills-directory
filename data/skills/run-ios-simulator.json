@@ -1,0 +1,36 @@
+{
+  "id": "run-ios-simulator",
+  "name": "run-ios-simulator",
+  "version": "1.0.0",
+  "summary": "Build and run an iPlug2 iOS app in the iOS Simulator",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "iPlug2",
+    "github": "iPlug2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/iPlug2/iPlug2OOS",
+    "skill_md": "https://raw.githubusercontent.com/iPlug2/iPlug2OOS/main/.claude/skills/run-ios-simulator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:42.210Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/iPlug2%2FiPlug2OOS/.claude%2Fskills%2Frun-ios-simulator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_4822eff91c31"
+  }
+}

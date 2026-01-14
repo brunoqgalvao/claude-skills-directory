@@ -1,0 +1,36 @@
+{
+  "id": "security-reporter",
+  "name": "security-reporter",
+  "version": "1.0.0",
+  "summary": "Use when generating comprehensive security audit reports, analyzing security scan results, calculating security posture, or creating OWASP Top 10 compliance assessments. Invoked...",
+  "verticals": [
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoley",
+    "github": "jpoley"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoley/flowspec",
+    "skill_md": "https://raw.githubusercontent.com/jpoley/flowspec/main/templates/skills/security-reporter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.484Z",
+  "created_at": "2025-12-23T01:29:39.626Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoley%2Fflowspec/templates%2Fskills%2Fsecurity-reporter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.484Z",
+    "uniqueId": "sk_de553056b7af"
+  }
+}

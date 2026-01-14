@@ -1,0 +1,36 @@
+{
+  "id": "rad",
+  "name": "rad",
+  "version": "1.0.0",
+  "summary": "Response-Aware Development (RAD) - Systematic verification of code assumptions using multi-model AI analysis. Auto-activates on keywords assumption, verify assumptions, list ass...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "williaby",
+    "github": "williaby"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/williaby/.claude",
+    "skill_md": "https://raw.githubusercontent.com/williaby/.claude/main/skills/rad/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.788Z",
+  "created_at": "2025-12-22T19:00:59.893Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/williaby%2F.claude/skills%2Frad%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_fc5291d28391"
+  }
+}

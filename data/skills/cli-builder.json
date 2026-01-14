@@ -1,0 +1,36 @@
+{
+  "id": "cli-builder",
+  "name": "cli-builder",
+  "version": "1.0.0",
+  "summary": "Guide for building TypeScript CLIs with Bun. Use when creating command-line tools, adding subcommands to existing CLIs, or building developer tooling. Covers argument parsing, s...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joelhooks",
+    "github": "joelhooks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joelhooks/swarm-tools",
+    "skill_md": "https://raw.githubusercontent.com/joelhooks/swarm-tools/main/packages/opencode-swarm-plugin/global-skills/cli-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:11.032Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joelhooks%2Fswarm-tools/packages%2Fopencode-swarm-plugin%2Fglobal-skills%2Fcli-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_3803346bc45b"
+  }
+}

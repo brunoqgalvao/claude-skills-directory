@@ -1,0 +1,35 @@
+{
+  "id": "plan-generation",
+  "name": "plan-generation",
+  "version": "1.0.0",
+  "summary": "Assist in generating comprehensive plans from templates using extended thinking. Use when generating plans from meta-prompt templates, reviewing plan quality, or ensuring plans ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/plan-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:28.822Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Fplan-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_2e63ad7c3e22"
+  }
+}

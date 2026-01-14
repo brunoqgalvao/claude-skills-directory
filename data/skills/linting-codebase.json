@@ -1,0 +1,35 @@
+{
+  "id": "linting-codebase",
+  "name": "linting-codebase",
+  "version": "1.0.0",
+  "summary": "Parallel lint fixing pattern - runs lint checks, groups issues into independent\nstreams, and dispatches AI agents to fix all issues until the codebase is clean.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/default/skills/linting-codebase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:50:31.000Z",
+  "created_at": "2025-12-22T18:01:40.604Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/default%2Fskills%2Flinting-codebase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_ec7c6606a6fa"
+  }
+}

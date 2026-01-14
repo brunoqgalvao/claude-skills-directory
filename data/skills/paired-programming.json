@@ -1,0 +1,36 @@
+{
+  "id": "paired-programming",
+  "name": "paired-programming",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user wants collaborative, iterative development instead of autonomous implementation. It transforms Claude from \"autonomous implementer\" to \"p...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matthew-bram",
+    "github": "matthew-bram"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matthew-bram/enterprise-confluent-test-probe",
+    "skill_md": "https://raw.githubusercontent.com/matthew-bram/enterprise-confluent-test-probe/main/.claude/skills/paired-programming/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:49.479Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matthew-bram%2Fenterprise-confluent-test-probe/.claude%2Fskills%2Fpaired-programming%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_ca2ec1c58141"
+  }
+}

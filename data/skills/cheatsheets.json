@@ -1,0 +1,37 @@
+{
+  "id": "cheatsheets",
+  "name": "cheatsheets",
+  "version": "1.0.0",
+  "summary": "Quick reference cheatsheets for Kailash SDK patterns, nodes, workflows, and best practices. Use when asking about 'quick tips', 'cheat sheet', 'quick reference', 'common mistake...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Integrum-Global",
+    "github": "Integrum-Global"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Integrum-Global/new_project_template",
+    "skill_md": "https://raw.githubusercontent.com/Integrum-Global/new_project_template/main/.claude/skills/06-cheatsheets/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-18T02:48:54.000Z",
+  "created_at": "2025-12-23T01:28:59.265Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Integrum-Global%2Fnew_project_template/.claude%2Fskills%2F06-cheatsheets%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.533Z",
+    "uniqueId": "sk_abef940de6db"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pbir-visual-creator",
+  "name": "pbir-visual-creator",
+  "version": "1.0.0",
+  "summary": "Create Power BI PBIR visuals from templates. Use when users need to add visuals (cards, charts, tables, slicers, maps) to Power BI Enhanced Report Format projects. Handles templ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cn-dataworks",
+    "github": "cn-dataworks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cn-dataworks/pbir-visuals",
+    "skill_md": "https://raw.githubusercontent.com/cn-dataworks/pbir-visuals/main/skills/pbir-visual-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:45.146Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cn-dataworks%2Fpbir-visuals/skills%2Fpbir-visual-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_fb532460ebce"
+  }
+}

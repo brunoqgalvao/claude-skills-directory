@@ -1,0 +1,35 @@
+{
+  "id": "olivenet-brand",
+  "name": "olivenet-brand",
+  "version": "1.0.0",
+  "summary": "Olivenet marka sesi ve icin strateji referansi. Use when creating content, captions, hooks, or understanding brand voice.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "olivenet-iot",
+    "github": "olivenet-iot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/olivenet-iot/olivenet-social-bot",
+    "skill_md": "https://raw.githubusercontent.com/olivenet-iot/olivenet-social-bot/main/.claude/skills/olivenet-brand/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:28.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/olivenet-iot%2Folivenet-social-bot/.claude%2Fskills%2Folivenet-brand%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_ee3fde86942d"
+  }
+}

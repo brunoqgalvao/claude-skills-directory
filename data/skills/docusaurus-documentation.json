@@ -1,0 +1,35 @@
+{
+  "id": "docusaurus-documentation",
+  "name": "docusaurus-documentation",
+  "version": "1.0.0",
+  "summary": "Use when looking up information from the latest Docusaurus documentation at https://docusaurus.io/docs",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codatio",
+    "github": "codatio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codatio/codat-docs",
+    "skill_md": "https://raw.githubusercontent.com/codatio/codat-docs/main/.claude/skills/docusaurus-documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T14:36:22.000Z",
+  "created_at": "2025-12-22T15:52:02.083Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codatio%2Fcodat-docs/.claude%2Fskills%2Fdocusaurus-documentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_eaa96bf7265e"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "neon-vercel-postgres",
+  "name": "neon-vercel-postgres",
+  "version": "1.0.0",
+  "summary": "Set up serverless Postgres with Neon or Vercel Postgres for Cloudflare Workers/Edge. Includes connection pooling, git-like branching for preview environments, and Drizzle/Prisma...",
+  "verticals": [
+    "support",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jezweb",
+    "github": "jezweb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jezweb/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/neon-vercel-postgres/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.597Z",
+  "created_at": "2025-12-23T00:19:33.499Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jezweb%2Fclaude-skills/skills%2Fneon-vercel-postgres%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.597Z",
+    "uniqueId": "sk_c325ff1d90da"
+  }
+}

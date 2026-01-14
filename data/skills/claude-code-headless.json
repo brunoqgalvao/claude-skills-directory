@@ -1,0 +1,37 @@
+{
+  "id": "claude-code-headless",
+  "name": "claude-code-headless",
+  "version": "1.0.0",
+  "summary": "Run Claude Code programmatically without interactive UI. Triggers on: headless, CLI automation, --print, output-format, stream-json, CI/CD, scripting.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "0xDarkMatter",
+    "github": "0xDarkMatter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/0xDarkMatter/claude-mods",
+    "skill_md": "https://raw.githubusercontent.com/0xDarkMatter/claude-mods/main/skills/claude-code-headless/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.842Z",
+  "created_at": "2025-12-22T16:06:32.975Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/0xDarkMatter%2Fclaude-mods/skills%2Fclaude-code-headless%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.842Z",
+    "uniqueId": "sk_cf3a7429e34d"
+  }
+}

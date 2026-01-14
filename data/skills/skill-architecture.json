@@ -1,0 +1,35 @@
+{
+  "id": "skill-architecture",
+  "name": "skill-architecture",
+  "version": "1.0.0",
+  "summary": "Meta-skill for creating Claude Code skills. TRIGGERS - create skill, YAML frontmatter, validate skill, TodoWrite templates, bundled resources (scripts/references/assets), progre...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/skill-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.483Z",
+  "created_at": "2025-12-23T01:29:40.831Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fskill-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.483Z",
+    "uniqueId": "sk_d8d04758a5eb"
+  }
+}

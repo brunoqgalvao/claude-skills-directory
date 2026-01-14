@@ -1,0 +1,37 @@
+{
+  "id": "unocss-onmax",
+  "name": "unocss-onmax",
+  "version": "1.0.0",
+  "summary": "Use when writing UnoCSS with presetOnmax workflow - covers attribute mode patterns, fluid spacing (f- prefix), scale-to-pixel (1px base), custom variants (hocus, reka-*, data-st...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onmax",
+    "github": "onmax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onmax/unocss-skill",
+    "skill_md": "https://raw.githubusercontent.com/onmax/unocss-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T13:08:56.000Z",
+  "created_at": "2025-12-22T15:07:25.375Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onmax%2Funocss-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_a909662b2c20"
+  }
+}

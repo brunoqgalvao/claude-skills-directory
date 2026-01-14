@@ -1,0 +1,37 @@
+{
+  "id": "serena",
+  "name": "serena",
+  "version": "1.0.0",
+  "summary": "Serena MCP usage guide for semantic code operations, symbol manipulation, project memory, and session persistence. Use when invoking any mcp__serena__* tools, performing symbol ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ZhuMon",
+    "github": "ZhuMon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ZhuMon/claude-code-hubs",
+    "skill_md": "https://raw.githubusercontent.com/ZhuMon/claude-code-hubs/main/plugins/serena/skills/serena/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T10:14:32.000Z",
+  "created_at": "2025-12-22T16:56:59.115Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ZhuMon%2Fclaude-code-hubs/plugins%2Fserena%2Fskills%2Fserena%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_20c39328ab1a"
+  }
+}

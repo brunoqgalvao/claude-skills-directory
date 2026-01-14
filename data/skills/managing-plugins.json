@@ -1,0 +1,36 @@
+{
+  "id": "managing-plugins",
+  "name": "managing-plugins",
+  "version": "1.0.0",
+  "summary": "Creates, packs, bundles, and manages Claude Code plugins with manifest generation, directory structure, marketplace configuration. Use when user asks how plugins work, what plug...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thoeltig",
+    "github": "thoeltig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thoeltig/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/thoeltig/claude-code-toolkit/main/plugins/claude-code-capabilities/skills/managing-plugins/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:05:45.520Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thoeltig%2Fclaude-code-toolkit/plugins%2Fclaude-code-capabilities%2Fskills%2Fmanaging-plugins%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_5306941626fc"
+  }
+}

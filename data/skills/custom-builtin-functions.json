@@ -1,0 +1,35 @@
+{
+  "id": "custom-builtin-functions",
+  "name": "custom-builtin-functions",
+  "version": "1.0.0",
+  "summary": "Create a custom builtin function to be used in the Rego policy engine",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chainloop-dev",
+    "github": "chainloop-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chainloop-dev/chainloop",
+    "skill_md": "https://raw.githubusercontent.com/chainloop-dev/chainloop/main/.claude/skills/custom-builtin-functions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T12:17:29.000Z",
+  "created_at": "2025-12-22T15:11:43.337Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chainloop-dev%2Fchainloop/.claude%2Fskills%2Fcustom-builtin-functions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_df42cbe5c5b9"
+  }
+}

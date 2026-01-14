@@ -1,0 +1,36 @@
+{
+  "id": "qr-code-generator",
+  "name": "qr-code-generator",
+  "version": "1.0.0",
+  "summary": "Generate QR codes with URLs and UTM tracking. Exports PNG/SVG with captions. Use for single codes, batch generation, or marketing campaigns with tracking parameters.",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkyazzentwatwa",
+    "github": "dkyazzentwatwa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "skill_md": "https://raw.githubusercontent.com/dkyazzentwatwa/chatgpt-skills/main/qr-code-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.568Z",
+  "created_at": "2025-12-23T01:28:33.939Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkyazzentwatwa%2Fchatgpt-skills/qr-code-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_4f3a3652fbef"
+  }
+}

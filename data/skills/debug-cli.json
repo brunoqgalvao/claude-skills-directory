@@ -1,0 +1,35 @@
+{
+  "id": "debug-cli",
+  "name": "debug-cli",
+  "version": "1.0.0",
+  "summary": "Use when users need to debug, modify, or extend the code-forge application's CLI commands, argument parsing, or CLI behavior. This includes adding new commands, fixing CLI bugs,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "antinomyhq",
+    "github": "antinomyhq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/antinomyhq/forge",
+    "skill_md": "https://raw.githubusercontent.com/antinomyhq/forge/main/.forge/skills/debug-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T06:21:02.000Z",
+  "created_at": "2025-12-22T18:15:43.940Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/antinomyhq%2Fforge/.forge%2Fskills%2Fdebug-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_edf32f6694cf"
+  }
+}

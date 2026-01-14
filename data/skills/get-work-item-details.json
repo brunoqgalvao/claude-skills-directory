@@ -1,0 +1,35 @@
+{
+  "id": "get-work-item-details",
+  "name": "get-work-item-details",
+  "version": "1.0.0",
+  "summary": "Retrieve full details of work items including comments, history, and related items. Use when user wants complete information about specific work items.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusshepp",
+    "github": "marcusshepp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusshepp/useful",
+    "skill_md": "https://raw.githubusercontent.com/marcusshepp/useful/main/network/.github/skills/get-work-item-details/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.858Z",
+  "created_at": "2025-12-22T15:11:19.584Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusshepp%2Fuseful/network%2F.github%2Fskills%2Fget-work-item-details%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_16ae312c6755"
+  }
+}

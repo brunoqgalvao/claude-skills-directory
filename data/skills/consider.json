@@ -1,0 +1,35 @@
+{
+  "id": "consider",
+  "name": "consider",
+  "version": "1.0.0",
+  "summary": "Selects and applies mental models for structured problem analysis. Triggers when user asks \"why\", \"what if\", \"how should we\", needs systematic problem-solving, or mentions analy...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rayk",
+    "github": "rayk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rayk/lucid-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/rayk/lucid-toolkit/main/plugins/analyst/skills/consider/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T07:39:02.000Z",
+  "created_at": "2025-12-23T01:29:42.740Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rayk%2Flucid-toolkit/plugins%2Fanalyst%2Fskills%2Fconsider%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_659a642fb5f2"
+  }
+}

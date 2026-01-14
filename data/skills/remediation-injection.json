@@ -1,0 +1,35 @@
+{
+  "id": "remediation-injection",
+  "name": "remediation-injection",
+  "version": "1.0.0",
+  "summary": "Security fix patterns for injection vulnerabilities (SQL, Command, XSS). Provides language-specific code examples showing vulnerable and secure implementations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zate",
+    "github": "Zate"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zate/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/Zate/cc-plugins/main/plugins/security/skills/remediation-injection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T03:33:54.000Z",
+  "created_at": "2025-12-23T01:29:26.050Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zate%2Fcc-plugins/plugins%2Fsecurity%2Fskills%2Fremediation-injection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_939465ae8d8e"
+  }
+}

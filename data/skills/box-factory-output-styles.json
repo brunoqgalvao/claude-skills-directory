@@ -1,0 +1,37 @@
+{
+  "id": "box-factory-output-styles",
+  "name": "box-factory-output-styles",
+  "version": "1.0.0",
+  "summary": "Interpretive guidance for Claude Code output styles - when they add value, when they don't, and how they relate to agents. Use when considering output styles or wondering if you...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "racurry",
+    "github": "racurry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/racurry/neat-little-package",
+    "skill_md": "https://raw.githubusercontent.com/racurry/neat-little-package/main/plugins/box-factory/skills/output-styles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:15.903Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/racurry%2Fneat-little-package/plugins%2Fbox-factory%2Fskills%2Foutput-styles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_08ac8c5a3e64"
+  }
+}

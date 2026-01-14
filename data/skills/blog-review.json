@@ -1,0 +1,35 @@
+{
+  "id": "blog-review",
+  "name": "blog-review",
+  "version": "1.0.0",
+  "summary": "執筆済みのブログ記事をレビューし、構成・論理・読みやすさ・トーン・具体性・正確性・新規性・炎上リスクの観点で改善提案を行う。ユーザーが「ブログ記事のレビュー」を依頼したときのみ使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ayuzaka",
+    "github": "ayuzaka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ayuzaka/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ayuzaka/dotfiles/main/dot_codex/skills/skills/blog-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.560Z",
+  "created_at": "2025-12-23T01:28:41.344Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ayuzaka%2Fdotfiles/dot_codex%2Fskills%2Fskills%2Fblog-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_db91cbb943a6"
+  }
+}

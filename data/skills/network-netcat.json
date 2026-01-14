@@ -1,0 +1,37 @@
+{
+  "id": "network-netcat",
+  "name": "network-netcat",
+  "version": "1.0.0",
+  "summary": "Network utility for reading and writing data across TCP/UDP connections, port scanning, file transfers, and backdoor communication channels. Use when: (1) Testing network connec...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentSecOps",
+    "github": "AgentSecOps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentSecOps/SecOpsAgentKit",
+    "skill_md": "https://raw.githubusercontent.com/AgentSecOps/SecOpsAgentKit/main/skills/offsec/network-netcat/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.672Z",
+  "created_at": "2025-12-22T22:15:49.226Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentSecOps%2FSecOpsAgentKit/skills%2Foffsec%2Fnetwork-netcat%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.672Z",
+    "uniqueId": "sk_f5cd2bbcc640"
+  }
+}

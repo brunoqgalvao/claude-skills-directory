@@ -1,0 +1,35 @@
+{
+  "id": "dependency-analyzer",
+  "name": "dependency-analyzer",
+  "version": "1.0.0",
+  "summary": "ライブラリのEOL状況と互換性要件を確認する。endoflife.dateやnpmからバージョン互換性情報を取得する",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "snhrm",
+    "github": "snhrm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/snhrm/claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/snhrm/claude-plugin/main/plugin/skills/dependency-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:30.435Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/snhrm%2Fclaude-plugin/plugin%2Fskills%2Fdependency-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_e9b3ef65fdf2"
+  }
+}

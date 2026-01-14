@@ -1,0 +1,35 @@
+{
+  "id": "hsl-to-oklch-converter",
+  "name": "hsl-to-oklch-converter",
+  "version": "1.0.0",
+  "summary": "This skill converts HSL color values to OKLCH color values. It can process single or multiple colors, provided either directly by the user or from a specified file.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "syeda-hoorain-ali",
+    "github": "syeda-hoorain-ali"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/syeda-hoorain-ali/physical-ai",
+    "skill_md": "https://raw.githubusercontent.com/syeda-hoorain-ali/physical-ai/main/.claude/skills/hsl-to-oklch-converter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T10:15:16.000Z",
+  "created_at": "2025-12-23T01:28:37.385Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/syeda-hoorain-ali%2Fphysical-ai/.claude%2Fskills%2Fhsl-to-oklch-converter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_e32dfea694a4"
+  }
+}

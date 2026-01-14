@@ -1,0 +1,35 @@
+{
+  "id": "review-agent",
+  "name": "review-agent",
+  "version": "1.0.0",
+  "summary": "ReviewAgent スキル - コード品質判定・静的解析・セキュリティスキャン・品質スコアリング。\n生成されたコードに対して100点満点で品質評価し、80点以上で合格判定。\n\nUse when:\n- コード品質をレビューする時\n- 静的解析（ESLint、TypeScript）が必要な時\n- セキュリティスキャンが必要な時\n- 品質スコアを算出する...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ShunsukeHayashi",
+    "github": "ShunsukeHayashi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ShunsukeHayashi/omakase-ai",
+    "skill_md": "https://raw.githubusercontent.com/ShunsukeHayashi/omakase-ai/main/.claude/skills/review-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:54:46.530Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ShunsukeHayashi%2Fomakase-ai/.claude%2Fskills%2Freview-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_a9d1ff321108"
+  }
+}

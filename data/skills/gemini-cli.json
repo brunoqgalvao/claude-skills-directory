@@ -1,0 +1,35 @@
+{
+  "id": "gemini-cli",
+  "name": "gemini-cli",
+  "version": "1.0.0",
+  "summary": "Reference for Gemini CLI usage patterns. Consult before calling gemini via Bash.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "GantisStorm",
+    "github": "GantisStorm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/GantisStorm/claude-code-pair-planning-framework",
+    "skill_md": "https://raw.githubusercontent.com/GantisStorm/claude-code-pair-planning-framework/main/gemini-swarm/skills/gemini-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T03:56:35.000Z",
+  "created_at": "2025-12-22T14:56:52.680Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/GantisStorm%2Fclaude-code-pair-planning-framework/gemini-swarm%2Fskills%2Fgemini-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_d37241f3c2bc"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "review-format",
+  "name": "review-format",
+  "version": "1.0.0",
+  "summary": "Output in the specified format when a review of specific markdown is requested.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "uuta",
+    "github": "uuta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/uuta/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/uuta/dotfiles/main/skills/review-format/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.582Z",
+  "created_at": "2025-12-23T01:28:14.108Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/uuta%2Fdotfiles/skills%2Freview-format%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.582Z",
+    "uniqueId": "sk_88c011240bbf"
+  }
+}

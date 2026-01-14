@@ -1,0 +1,35 @@
+{
+  "id": "claude-light",
+  "name": "claude-light",
+  "version": "1.0.0",
+  "summary": "Expert assistant for conducting remote experiments with Claude-Light - a web-accessible RGB LED and spectral sensor instrument for statistics, regression, optimization, and desi...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkitchin",
+    "github": "jkitchin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkitchin/skillz",
+    "skill_md": "https://raw.githubusercontent.com/jkitchin/skillz/main/skills/programming/claude-light/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T14:36:31.000Z",
+  "created_at": "2025-12-23T01:29:42.697Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkitchin%2Fskillz/skills%2Fprogramming%2Fclaude-light%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_857f87cda2cc"
+  }
+}

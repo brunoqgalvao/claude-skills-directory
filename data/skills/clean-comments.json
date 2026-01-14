@@ -1,0 +1,35 @@
+{
+  "id": "clean-comments",
+  "name": "clean-comments",
+  "version": "1.0.0",
+  "summary": "Remove unnecessary, redundant, or obvious code comments while preserving valuable explanations. Use when cleaning up comments, removing verbose documentation, simplifying inline...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sorryhyun",
+    "github": "sorryhyun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sorryhyun/DiPeO",
+    "skill_md": "https://raw.githubusercontent.com/sorryhyun/DiPeO/main/.claude/skills/clean-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-18T05:53:53.000Z",
+  "created_at": "2025-12-23T01:28:49.522Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sorryhyun%2FDiPeO/.claude%2Fskills%2Fclean-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_97ad660aca78"
+  }
+}

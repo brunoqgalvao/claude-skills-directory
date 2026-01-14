@@ -1,0 +1,36 @@
+{
+  "id": "ecs-api-reference",
+  "name": "ecs-api-reference",
+  "version": "1.0.0",
+  "summary": "Amazon ECS API specification reference. Use when implementing ECS-compatible APIs in KECS to accurately reproduce request/response structures, parameters, error codes, and behav...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nandemo-ya",
+    "github": "nandemo-ya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nandemo-ya/kecs",
+    "skill_md": "https://raw.githubusercontent.com/nandemo-ya/kecs/main/.claude/skills/ecs-api-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.851Z",
+  "created_at": "2025-12-22T15:56:48.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nandemo-ya%2Fkecs/.claude%2Fskills%2Fecs-api-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_4bc3497b9e5d"
+  }
+}

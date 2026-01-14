@@ -1,0 +1,36 @@
+{
+  "id": "vibesafe",
+  "name": "vibesafe",
+  "version": "1.0.0",
+  "summary": "Uses the Vibesafe MCP server to scan, compile, test, save, diff, and report status for Vibesafe units. Activate when the user asks to run vibesafe CLI commands (scan/compile/tes...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julep-ai",
+    "github": "julep-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julep-ai/vibesafe",
+    "skill_md": "https://raw.githubusercontent.com/julep-ai/vibesafe/main/skills/vibesafe/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T09:09:12.000Z",
+  "created_at": "2025-12-22T14:57:28.286Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julep-ai%2Fvibesafe/skills%2Fvibesafe%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_383d1e19dde1"
+  }
+}

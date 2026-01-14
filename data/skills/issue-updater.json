@@ -1,0 +1,35 @@
+{
+  "id": "issue-updater",
+  "name": "issue-updater",
+  "version": "1.0.0",
+  "summary": "Update issue title and description via Fractary CLI",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fractary",
+    "github": "fractary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fractary/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fractary/claude-plugins/main/plugins/work/skills/issue-updater/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T20:58:30.000Z",
+  "created_at": "2025-12-22T17:53:25.896Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fractary%2Fclaude-plugins/plugins%2Fwork%2Fskills%2Fissue-updater%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_ca5ffc27fed7"
+  }
+}

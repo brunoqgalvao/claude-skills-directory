@@ -1,0 +1,35 @@
+{
+  "id": "markdown-converter",
+  "name": "markdown-converter",
+  "version": "1.0.0",
+  "summary": "Convert documents and files to Markdown using markitdown. Use when converting PDF, Word (.docx), PowerPoint (.pptx), Excel (.xlsx, .xls), HTML, CSV, JSON, XML, images (with EXIF...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "steipete",
+    "github": "steipete"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/steipete/agent-scripts",
+    "skill_md": "https://raw.githubusercontent.com/steipete/agent-scripts/main/skills/markdown-converter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.568Z",
+  "created_at": "2025-12-23T01:28:34.682Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/steipete%2Fagent-scripts/skills%2Fmarkdown-converter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_40dc8b33588c"
+  }
+}

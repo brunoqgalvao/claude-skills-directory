@@ -1,0 +1,35 @@
+{
+  "id": "multi-query",
+  "name": "multi-query",
+  "version": "1.0.0",
+  "summary": "Use when search queries need better recall through query expansion - generates multiple query variants, retrieves with each, and fuses results using RRF for improved retrieval q...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "juanre",
+    "github": "juanre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/juanre/llmemory",
+    "skill_md": "https://raw.githubusercontent.com/juanre/llmemory/main/skills/multi-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.608Z",
+  "created_at": "2025-12-23T00:01:25.202Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanre%2Fllmemory/skills%2Fmulti-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.608Z",
+    "uniqueId": "sk_88a29719487d"
+  }
+}

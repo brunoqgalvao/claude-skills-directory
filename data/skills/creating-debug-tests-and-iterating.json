@@ -1,0 +1,35 @@
+{
+  "id": "creating-debug-tests-and-iterating",
+  "name": "creating-debug-tests-and-iterating",
+  "version": "1.0.0",
+  "summary": "Use this skill when faced with a difficult debugging task where you need to replicate some bug or behavior in order to see what is going wrong.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tilework-tech",
+    "github": "tilework-tech"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tilework-tech/nori-profiles",
+    "skill_md": "https://raw.githubusercontent.com/tilework-tech/nori-profiles/main/src/cli/features/claude-code/profiles/config/_mixins/_swe/skills/creating-debug-tests-and-iterating/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T03:34:28.000Z",
+  "created_at": "2025-12-22T15:08:51.304Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tilework-tech%2Fnori-profiles/src%2Fcli%2Ffeatures%2Fclaude-code%2Fprofiles%2Fconfig%2F_mixins%2F_swe%2Fskills%2Fcreating-debug-tests-and-iterating%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_d3b25244d073"
+  }
+}

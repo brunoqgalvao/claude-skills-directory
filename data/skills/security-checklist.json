@@ -1,0 +1,35 @@
+{
+  "id": "security-checklist",
+  "name": "security-checklist",
+  "version": "1.0.0",
+  "summary": "Application security best practices and vulnerability prevention. Use when reviewing code for security issues, implementing authentication, or discussing OWASP vulnerabilities. ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eous",
+    "github": "eous"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eous/dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/eous/dotclaude/main/skills/security-checklist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T18:59:42.652Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eous%2Fdotclaude/skills%2Fsecurity-checklist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_4a3a1ac2a6f9"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nb-notebook-manager",
+  "name": "nb-notebook-manager",
+  "version": "1.0.0",
+  "summary": "Searches, retrieves, and manages notes and bookmarks using the nb command-line tool. Primary use case is finding and retrieving existing content, with secondary support for crea...",
+  "verticals": [
+    "legal",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benswift",
+    "github": "benswift"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benswift/.dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/benswift/.dotfiles/main/claude/skills/nb-notebook-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:13:08.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benswift%2F.dotfiles/claude%2Fskills%2Fnb-notebook-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_c5e7406c85a1"
+  }
+}

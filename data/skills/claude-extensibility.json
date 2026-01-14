@@ -1,0 +1,35 @@
+{
+  "id": "claude-extensibility",
+  "name": "claude-extensibility",
+  "version": "1.0.0",
+  "summary": "Claude Code extensibility: agents, skills, output styles. Capabilities: create/update/delete agents and skills, YAML frontmatter, system prompts, tool/model selection, resumable...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samhvw8",
+    "github": "samhvw8"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samhvw8/dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/samhvw8/dot-claude/main/skills/claude-extensibility/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:28.031Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samhvw8%2Fdot-claude/skills%2Fclaude-extensibility%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_051e7c71d27d"
+  }
+}

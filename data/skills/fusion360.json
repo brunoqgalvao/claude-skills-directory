@@ -1,0 +1,36 @@
+{
+  "id": "fusion360",
+  "name": "fusion360",
+  "version": "1.0.0",
+  "summary": "Control Autodesk Fusion 360 CAD software via the Claude Bridge add-in. Create sketches, draw shapes, extrude 3D objects, and build complex models interactively.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "altjx",
+    "github": "altjx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/altjx/ClaudeBridge",
+    "skill_md": "https://raw.githubusercontent.com/altjx/ClaudeBridge/main/.claude/skills/fusion360/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:07:19.955Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/altjx%2FClaudeBridge/.claude%2Fskills%2Ffusion360%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_06ec9973e912"
+  }
+}

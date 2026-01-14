@@ -1,0 +1,37 @@
+{
+  "id": "write-integration",
+  "name": "write-integration",
+  "version": "1.0.0",
+  "summary": "Write external integrations following the Epic architecture patterns. Use when creating services for third-party APIs, email, payments, or complex business logic. Triggers on \"c...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "coeus-ventures",
+    "github": "coeus-ventures"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/coeus-ventures/web-template",
+    "skill_md": "https://raw.githubusercontent.com/coeus-ventures/web-template/main/.claude/skills/write-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T14:56:25.000Z",
+  "created_at": "2025-12-22T18:59:43.681Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/coeus-ventures%2Fweb-template/.claude%2Fskills%2Fwrite-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_9217fc79ec62"
+  }
+}

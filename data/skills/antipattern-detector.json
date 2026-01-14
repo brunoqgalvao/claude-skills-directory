@@ -1,0 +1,35 @@
+{
+  "id": "antipattern-detector",
+  "name": "antipattern-detector",
+  "version": "1.0.0",
+  "summary": "Detect common technical and organizational anti-patterns in proposals, architectures, and plans. Use when strategic-cto-mentor needs to identify red flags before they become pro...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alirezarezvani",
+    "github": "alirezarezvani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alirezarezvani/claude-cto-team",
+    "skill_md": "https://raw.githubusercontent.com/alirezarezvani/claude-cto-team/main/skills/antipattern-detector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T11:59:58.000Z",
+  "created_at": "2025-12-22T19:30:31.891Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alirezarezvani%2Fclaude-cto-team/skills%2Fantipattern-detector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_021d43736360"
+  }
+}

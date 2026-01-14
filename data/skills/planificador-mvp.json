@@ -1,0 +1,35 @@
+{
+  "id": "planificador-mvp",
+  "name": "planificador-mvp",
+  "version": "1.0.0",
+  "summary": "Crea planes de implementación realistas para MVPs de 2-4 semanas. Define alcance mínimo, stack tecnológico, tareas priorizadas y cronograma. Úsalo después de validar una idea pa...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ecolonco",
+    "github": "ecolonco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ecolonco/skill",
+    "skill_md": "https://raw.githubusercontent.com/ecolonco/skill/main/.claude/skills/planificador-mvp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:08:21.263Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ecolonco%2Fskill/.claude%2Fskills%2Fplanificador-mvp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_38466fe27def"
+  }
+}

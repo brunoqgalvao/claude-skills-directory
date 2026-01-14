@@ -1,0 +1,35 @@
+{
+  "id": "writing-rules",
+  "name": "writing-rules",
+  "version": "1.0.0",
+  "summary": "Extract and manage writing rules (style, structure, persona, publisher, custom) (project)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "boringdata",
+    "github": "boringdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/boringdata/kurt-demo",
+    "skill_md": "https://raw.githubusercontent.com/boringdata/kurt-demo/main/.claude/skills/content-writing/writing-rules-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:37.350Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/boringdata%2Fkurt-demo/.claude%2Fskills%2Fcontent-writing%2Fwriting-rules-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_926c5b90dd0d"
+  }
+}

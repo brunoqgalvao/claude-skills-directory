@@ -1,0 +1,35 @@
+{
+  "id": "creating-swot-analysis",
+  "name": "creating-swot-analysis",
+  "version": "1.0.0",
+  "summary": "Creates structured SWOT (Strengths, Weaknesses, Opportunities, Threats) analysis with strategic implications and action planning. Use when the user requests SWOT analysis, strat...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jesseotremblay",
+    "github": "jesseotremblay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jesseotremblay/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jesseotremblay/claude-skills/main/creating-swot-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.481Z",
+  "created_at": "2025-12-23T01:29:42.747Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jesseotremblay%2Fclaude-skills/creating-swot-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_ac5a550b29e6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "trino-optimizer",
+  "name": "trino-optimizer",
+  "version": "1.0.0",
+  "summary": "Expert assistance for optimizing Trino query performance in Treasure Data. Use this skill when users need help with slow queries, memory issues, timeouts, or performance tuning....",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "treasure-data",
+    "github": "treasure-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/treasure-data/td-skills",
+    "skill_md": "https://raw.githubusercontent.com/treasure-data/td-skills/main/sql-skills/trino-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:11:01.934Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/treasure-data%2Ftd-skills/sql-skills%2Ftrino-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_303df53f8095"
+  }
+}

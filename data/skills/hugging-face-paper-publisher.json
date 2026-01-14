@@ -1,0 +1,36 @@
+{
+  "id": "hugging-face-paper-publisher",
+  "name": "hugging-face-paper-publisher",
+  "version": "1.0.0",
+  "summary": "Publish and manage research papers on Hugging Face Hub. Supports creating paper pages, linking papers to models/datasets, claiming authorship, and generating professional markdo...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "huggingface",
+    "github": "huggingface"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/huggingface/skills",
+    "skill_md": "https://raw.githubusercontent.com/huggingface/skills/main/hf-paper-publisher/skills/hugging-face-paper-publisher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.650Z",
+  "created_at": "2025-12-22T23:03:19.177Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/huggingface%2Fskills/hf-paper-publisher%2Fskills%2Fhugging-face-paper-publisher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.650Z",
+    "uniqueId": "sk_df3c893b8a8b"
+  }
+}

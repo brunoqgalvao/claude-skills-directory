@@ -1,0 +1,37 @@
+{
+  "id": "daw-compatibility-guide",
+  "name": "daw-compatibility-guide",
+  "version": "1.0.0",
+  "summary": "DAW-specific quirks, known issues, and workarounds for Logic Pro, Ableton Live, Pro Tools, Cubase, Reaper, FL Studio, Bitwig with format-specific requirements (AU/VST3/AAX). Use...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yebot",
+    "github": "yebot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yebot/rad-cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/yebot/rad-cc-plugins/main/plugins/juce-dev-team/skills/daw-compatibility-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:35.608Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yebot%2Frad-cc-plugins/plugins%2Fjuce-dev-team%2Fskills%2Fdaw-compatibility-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_4e9c290f92d5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-github",
+  "name": "git-github",
+  "version": "1.0.0",
+  "summary": "Flutter 项目的 Git 和 GitHub 操作，包括分支管理、提交、推送、创建仓库、Pull Request、合并流程。当用户提到\"git\"、\"github\"、\"提交\"、\"推送\"、\"分支\"、\"PR\"、\"合并\"、\"仓库\"、\"rebase\"时使用此 skill。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aidenreed937",
+    "github": "aidenreed937"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aidenreed937/comet",
+    "skill_md": "https://raw.githubusercontent.com/aidenreed937/comet/main/.claude/skills/git-github/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T10:31:17.000Z",
+  "created_at": "2025-12-22T20:06:24.563Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aidenreed937%2Fcomet/.claude%2Fskills%2Fgit-github%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_b79bb4956ceb"
+  }
+}

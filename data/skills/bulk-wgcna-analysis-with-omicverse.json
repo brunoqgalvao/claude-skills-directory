@@ -1,0 +1,36 @@
+{
+  "id": "bulk-wgcna-analysis-with-omicverse",
+  "name": "bulk-wgcna-analysis-with-omicverse",
+  "version": "1.0.0",
+  "summary": "Assist Claude in running PyWGCNA through omicverse—preprocessing expression matrices, constructing co-expression modules, visualising eigengenes, and extracting hub genes.",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Starlitnightly",
+    "github": "Starlitnightly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Starlitnightly/omicverse",
+    "skill_md": "https://raw.githubusercontent.com/Starlitnightly/omicverse/main/.claude/skills/bulk-wgcna-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T11:30:17.000Z",
+  "created_at": "2025-12-23T01:28:47.459Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Starlitnightly%2Fomicverse/.claude%2Fskills%2Fbulk-wgcna-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_8d69b478129f"
+  }
+}

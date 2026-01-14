@@ -1,0 +1,36 @@
+{
+  "id": "atlassian-cli",
+  "name": "atlassian-cli",
+  "version": "1.0.0",
+  "summary": "Execute Atlassian CLI (acli) commands for Jira work items, projects, sprints, boards, and organization administration. Use when the user wants to manage Jira issues, projects, s...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "doug-skinner",
+    "github": "doug-skinner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/doug-skinner/acli-claude-skill",
+    "skill_md": "https://raw.githubusercontent.com/doug-skinner/acli-claude-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T17:35:09.000Z",
+  "created_at": "2025-12-22T20:13:59.513Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/doug-skinner%2Facli-claude-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_d700191d5328"
+  }
+}

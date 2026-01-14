@@ -1,0 +1,36 @@
+{
+  "id": "client-discovery",
+  "name": "client-discovery",
+  "version": "1.0.0",
+  "summary": "Sales qualification and client discovery. Use when starting a new client engagement, qualifying leads, identifying pain points, or calculating ROI for automation proposals. Gene...",
+  "verticals": [
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dvorkinguy",
+    "github": "dvorkinguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dvorkinguy/claude-skills-agents",
+    "skill_md": "https://raw.githubusercontent.com/dvorkinguy/claude-skills-agents/main/skills/client-discovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:10:58.567Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dvorkinguy%2Fclaude-skills-agents/skills%2Fclient-discovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_40c85f157fe2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "auth-configs",
+  "name": "auth-configs",
+  "version": "1.0.0",
+  "summary": "Configure Supabase authentication providers (OAuth, JWT, email). Use when setting up authentication, configuring OAuth providers (Google/GitHub/Discord), implementing auth flows...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/supabase/skills/auth-configs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T21:28:13.000Z",
+  "created_at": "2025-12-23T01:29:16.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fsupabase%2Fskills%2Fauth-configs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_6aa8788577a4"
+  }
+}

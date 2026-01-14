@@ -1,0 +1,36 @@
+{
+  "id": "advanced-text-search-matching",
+  "name": "advanced-text-search-matching",
+  "version": "1.0.0",
+  "summary": "Production-grade text search algorithms for finding and matching text in large documents with millisecond performance. Includes Boyer-Moore search, n-gram similarity, fuzzy matc...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vishalsachdev",
+    "github": "vishalsachdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vishalsachdev/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/vishalsachdev/claude-skills/main/advanced-text-search-matching/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-22T23:58:35.097Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vishalsachdev%2Fclaude-skills/advanced-text-search-matching%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_e96413e85bd8"
+  }
+}

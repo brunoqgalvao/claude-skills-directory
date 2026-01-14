@@ -1,0 +1,35 @@
+{
+  "id": "aps-doc-golden",
+  "name": "aps-doc-golden",
+  "version": "1.0.0",
+  "summary": "Expert documentation generation for golden layers. Detects SCD types, documents business rules, metric definitions, aggregation logic, and data quality scoring. Use when documen...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "treasure-data",
+    "github": "treasure-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/treasure-data/td-skills",
+    "skill_md": "https://raw.githubusercontent.com/treasure-data/td-skills/main/aps-doc-skills/golden/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.495Z",
+  "created_at": "2025-12-23T01:29:29.344Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/treasure-data%2Ftd-skills/aps-doc-skills%2Fgolden%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_11e65548d868"
+  }
+}

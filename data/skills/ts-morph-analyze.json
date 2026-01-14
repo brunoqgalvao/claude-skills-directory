@@ -1,0 +1,35 @@
+{
+  "id": "ts-morph-analyze",
+  "name": "ts-morph-analyze",
+  "version": "1.0.0",
+  "summary": "Analyze TypeScript code structure using ts-morph. Use for summarizing class/interface APIs, listing exports, showing inheritance hierarchies, or extracting interfaces from class...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dafthunk-com",
+    "github": "dafthunk-com"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dafthunk-com/dafthunk",
+    "skill_md": "https://raw.githubusercontent.com/dafthunk-com/dafthunk/main/.claude/skills/ts-morph-analyze/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:51:06.136Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dafthunk-com%2Fdafthunk/.claude%2Fskills%2Fts-morph-analyze%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_1a3deadd971f"
+  }
+}

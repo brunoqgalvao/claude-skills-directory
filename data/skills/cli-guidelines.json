@@ -1,0 +1,36 @@
+{
+  "id": "cli-guidelines",
+  "name": "cli-guidelines",
+  "version": "1.0.0",
+  "summary": "CLI 도구 개발 시 proactively 사용하세요. argparse, Click, clap 등 CLI 라이브러리 사용, 플래그/인자 설계, 도움말 작성, 오류 메시지, 출력 포맷팅이 필요할 때 자동으로 호출됩니다. (clig.dev 기반)",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ssiumha",
+    "github": "ssiumha"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ssiumha/dots",
+    "skill_md": "https://raw.githubusercontent.com/ssiumha/dots/main/prompts/skills/cli-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T13:16:12.000Z",
+  "created_at": "2025-12-23T01:28:58.578Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ssiumha%2Fdots/prompts%2Fskills%2Fcli-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.533Z",
+    "uniqueId": "sk_34ba5d5cd2d0"
+  }
+}

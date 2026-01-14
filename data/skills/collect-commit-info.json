@@ -1,0 +1,35 @@
+{
+  "id": "collect-commit-info",
+  "name": "collect-commit-info",
+  "version": "1.0.0",
+  "summary": "Analyze staged files, group by category, and generate conventional commit specs as JSON.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reedom",
+    "github": "reedom"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reedom/claude-code-commands",
+    "skill_md": "https://raw.githubusercontent.com/reedom/claude-code-commands/main/git/skills/collect-commit-info/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.558Z",
+  "created_at": "2025-12-23T01:28:42.773Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reedom%2Fclaude-code-commands/git%2Fskills%2Fcollect-commit-info%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_8b79f9946a81"
+  }
+}

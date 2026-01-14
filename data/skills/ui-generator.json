@@ -1,0 +1,35 @@
+{
+  "id": "ui-generator",
+  "name": "ui-generator",
+  "version": "1.0.0",
+  "summary": "Generate UI components from natural language descriptions.\nUse when: user asks for a page, component, or UI element.\nTriggers: \"create page\", \"add component\", \"show form\", \"make...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/vibe-coder/skills/ui-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:02.329Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/vibe-coder%2Fskills%2Fui-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_10a7f8e2bf25"
+  }
+}

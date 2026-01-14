@@ -1,0 +1,35 @@
+{
+  "id": "webpage-screenshotter",
+  "name": "webpage-screenshotter",
+  "version": "1.0.0",
+  "summary": "High-resolution Playwright-based screenshot capture skill that takes full-page screenshots of any URL with optimized settings for quality and reliability",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rkreddyp",
+    "github": "rkreddyp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rkreddyp/investrecipes",
+    "skill_md": "https://raw.githubusercontent.com/rkreddyp/investrecipes/main/.claude/skills/webpage-screenshotter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:14:48.454Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rkreddyp%2Finvestrecipes/.claude%2Fskills%2Fwebpage-screenshotter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_949a1fafc8a8"
+  }
+}

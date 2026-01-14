@@ -1,0 +1,36 @@
+{
+  "id": "typescript-type-safety",
+  "name": "typescript-type-safety",
+  "version": "1.0.0",
+  "summary": "Use when encountering TypeScript any types, type errors, or lax type checking - eliminates type holes and enforces strict type safety through proper interfaces, type guards, and...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pr-pm",
+    "github": "pr-pm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pr-pm/prpm",
+    "skill_md": "https://raw.githubusercontent.com/pr-pm/prpm/main/.claude/skills/typescript-type-safety/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:13.480Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pr-pm%2Fprpm/.claude%2Fskills%2Ftypescript-type-safety%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_ac1cd200c9a3"
+  }
+}

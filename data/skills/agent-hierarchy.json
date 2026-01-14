@@ -1,0 +1,35 @@
+{
+  "id": "agent-hierarchy",
+  "name": "agent-hierarchy",
+  "version": "1.0.0",
+  "summary": "Agent階層管理 - PO→Manager→Developer階層の必須使用。小規模修正以外は必ずこの順序で実行。並列実行でパフォーマンス最適化。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sumik5",
+    "github": "sumik5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sumik5/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sumik5/dotfiles/main/claude-code/skills/agent-hierarchy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.551Z",
+  "created_at": "2025-12-23T01:28:49.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sumik5%2Fdotfiles/claude-code%2Fskills%2Fagent-hierarchy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_615b1aae685d"
+  }
+}

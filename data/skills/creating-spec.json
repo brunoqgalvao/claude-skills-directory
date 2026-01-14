@@ -1,0 +1,36 @@
+{
+  "id": "creating-spec",
+  "name": "creating-spec",
+  "version": "1.0.0",
+  "summary": "Initialize a new spec with requirements, design, and task planning. Orchestrates the entire spec-driven workflow from feature idea to actionable task list.",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ArjenSchwarz",
+    "github": "ArjenSchwarz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ArjenSchwarz/agentic-coding",
+    "skill_md": "https://raw.githubusercontent.com/ArjenSchwarz/agentic-coding/main/claude/skills/creating-spec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T12:00:26.000Z",
+  "created_at": "2025-12-23T01:29:27.254Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ArjenSchwarz%2Fagentic-coding/claude%2Fskills%2Fcreating-spec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_ce24bbd7d7d4"
+  }
+}

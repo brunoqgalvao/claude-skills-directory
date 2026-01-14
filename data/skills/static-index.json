@@ -1,0 +1,35 @@
+{
+  "id": "static-index",
+  "name": "static-index",
+  "version": "1.0.0",
+  "summary": "글로벌 정적 컨텍스트 파일의 인덱스를 제공합니다. 다른 스킬이나 에이전트가 정보를 찾을 때 먼저 참조해야 할 파일을 자연어 쿼리로 찾아줍니다. \"내 정보\", \"보안 규칙\" 등의 요청에 적절한 static 파일 경로를 반환합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/context/static-index/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T06:44:44.000Z",
+  "created_at": "2025-12-23T01:29:19.766Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/context%2Fstatic-index%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.508Z",
+    "uniqueId": "sk_7a0fff451e39"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "product-analytics",
+  "name": "product-analytics",
+  "version": "1.0.0",
+  "summary": "Product analytics and growth expert. Use when designing event tracking, defining metrics, running A/B tests, or analyzing retention. Covers AARRR framework, funnel analysis, coh...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majiayu000",
+    "github": "majiayu000"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majiayu000/claude-arsenal",
+    "skill_md": "https://raw.githubusercontent.com/majiayu000/claude-arsenal/main/skills/product-analytics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.670Z",
+  "created_at": "2025-12-22T22:16:26.338Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majiayu000%2Fclaude-arsenal/skills%2Fproduct-analytics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.670Z",
+    "uniqueId": "sk_fdfb06e7efb4"
+  }
+}

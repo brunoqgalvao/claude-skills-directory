@@ -1,0 +1,37 @@
+{
+  "id": "odoo-knowledge-agent",
+  "name": "odoo-knowledge-agent",
+  "version": "1.0.0",
+  "summary": "Scrape Odoo forum solved threads to build error prevention guardrails and auto-fix scripts. Extract patterns from 1000+ solved issues to prevent common mistakes before deploymen...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jgtolentino",
+    "github": "jgtolentino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jgtolentino/insightpulse-odoo",
+    "skill_md": "https://raw.githubusercontent.com/jgtolentino/insightpulse-odoo/main/docs/claude-code-skills/community/odoo-knowledge-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:15:32.671Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jgtolentino%2Finsightpulse-odoo/docs%2Fclaude-code-skills%2Fcommunity%2Fodoo-knowledge-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_10ea6ad5a572"
+  }
+}

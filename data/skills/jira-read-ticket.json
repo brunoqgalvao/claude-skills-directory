@@ -1,0 +1,35 @@
+{
+  "id": "jira-read-ticket",
+  "name": "jira-read-ticket",
+  "version": "1.0.0",
+  "summary": "Use whenever a user mentions or references a Jira ticket and you want to pull out description, comments, or more.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bkircher",
+    "github": "bkircher"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bkircher/skills",
+    "skill_md": "https://raw.githubusercontent.com/bkircher/skills/main/jira-read-ticket/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.564Z",
+  "created_at": "2025-12-23T01:28:37.989Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bkircher%2Fskills/jira-read-ticket%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_3ae73484b542"
+  }
+}

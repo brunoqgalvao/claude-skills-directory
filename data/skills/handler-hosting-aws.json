@@ -1,0 +1,36 @@
+{
+  "id": "handler-hosting-aws",
+  "name": "handler-hosting-aws",
+  "version": "1.0.0",
+  "summary": "AWS hosting handler - centralized AWS operations including authentication, resource deployment,\nverification, and querying. Provides standard interface for AWS-specific logic us...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fractary",
+    "github": "fractary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fractary/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fractary/claude-plugins/main/plugins/faber-cloud/skills/handler-hosting-aws/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.479Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fractary%2Fclaude-plugins/plugins%2Ffaber-cloud%2Fskills%2Fhandler-hosting-aws%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_18eac022af8d"
+  }
+}

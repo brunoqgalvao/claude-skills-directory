@@ -1,0 +1,35 @@
+{
+  "id": "anti-scraping",
+  "name": "anti-scraping",
+  "version": "1.0.0",
+  "summary": "Use when need to bypass Cloudflare protection, scrape websites with anti-bot measures, render JavaScript pages, or simulate real browser behavior for web scraping",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aixier",
+    "github": "aixier"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aixier/n8n-automation-hub",
+    "skill_md": "https://raw.githubusercontent.com/aixier/n8n-automation-hub/main/.claude/skills/anti-scraping/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T05:39:26.000Z",
+  "created_at": "2025-12-23T01:28:54.876Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aixier%2Fn8n-automation-hub/.claude%2Fskills%2Fanti-scraping%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_194bea6d49e1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "denote-org",
+  "name": "denote-org",
+  "version": "1.0.0",
+  "summary": "Use this skill when working with ~/org/ directory, Denote files (YYYYMMDDTHHMMSS--title__tags.org), or org-mode knowledge bases. Provides scripts for: parsing Denote filenames/m...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "junghan0611",
+    "github": "junghan0611"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/junghan0611/org-mode-skills",
+    "skill_md": "https://raw.githubusercontent.com/junghan0611/org-mode-skills/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:18.438Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/junghan0611%2Forg-mode-skills/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_6bcd7814e1c7"
+  }
+}

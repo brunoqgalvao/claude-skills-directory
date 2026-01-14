@@ -1,0 +1,37 @@
+{
+  "id": "enterprise-architecture-patterns",
+  "name": "enterprise-architecture-patterns",
+  "version": "1.0.0",
+  "summary": "Complete guide for enterprise architecture patterns including domain-driven design, event sourcing, CQRS, saga patterns, API gateway, service mesh, and scalability",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/luxor-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/manutej/luxor-claude-marketplace/main/plugins/luxor-devops-suite/skills/enterprise-architecture-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.471Z",
+  "created_at": "2025-12-23T01:30:48.434Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fluxor-claude-marketplace/plugins%2Fluxor-devops-suite%2Fskills%2Fenterprise-architecture-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.471Z",
+    "uniqueId": "sk_473c7fd867b8"
+  }
+}

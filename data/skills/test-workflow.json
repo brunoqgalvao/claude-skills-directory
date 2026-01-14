@@ -1,0 +1,36 @@
+{
+  "id": "test-workflow",
+  "name": "test-workflow",
+  "version": "1.0.0",
+  "summary": "Automated testing workflow for backend and frontend. Use when writing tests, fixing test failures, or validating code changes. Runs pytest for backend and jest/vitest for frontend.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Plabrum",
+    "github": "Plabrum"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Plabrum/arive",
+    "skill_md": "https://raw.githubusercontent.com/Plabrum/arive/main/.claude/skills/test-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:12.271Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Plabrum%2Farive/.claude%2Fskills%2Ftest-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_46ab7af1e235"
+  }
+}

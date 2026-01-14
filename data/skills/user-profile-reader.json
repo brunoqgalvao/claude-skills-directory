@@ -1,0 +1,35 @@
+{
+  "id": "user-profile-reader",
+  "name": "user-profile-reader",
+  "version": "1.0.0",
+  "summary": "Read user profile from workspace and calculate content relevance.\nUse to personalize output based on user interests.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "memorysaver",
+    "github": "memorysaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/memorysaver/looplia-core",
+    "skill_md": "https://raw.githubusercontent.com/memorysaver/looplia-core/main/plugins/looplia-writer/skills/user-profile-reader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T08:17:53.000Z",
+  "created_at": "2025-12-23T01:28:36.732Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/memorysaver%2Flooplia-core/plugins%2Flooplia-writer%2Fskills%2Fuser-profile-reader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.565Z",
+    "uniqueId": "sk_995e4db12d7e"
+  }
+}

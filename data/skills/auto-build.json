@@ -1,0 +1,37 @@
+{
+  "id": "auto-build",
+  "name": "auto-build",
+  "version": "1.0.0",
+  "summary": "Skill for auto-detecting project type and executing builds. Suggests builds after code changes, proposes fixes for build errors. Supports Node.js, Rust, Python, Go, and Makefile...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dobachi",
+    "github": "dobachi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dobachi/AI_Instruction_Kits",
+    "skill_md": "https://raw.githubusercontent.com/dobachi/AI_Instruction_Kits/main/templates/claude-skills/en/auto-build/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:51:07.413Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dobachi%2FAI_Instruction_Kits/templates%2Fclaude-skills%2Fen%2Fauto-build%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_7061dbd20e7b"
+  }
+}

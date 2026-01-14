@@ -1,0 +1,36 @@
+{
+  "id": "polishing-issues",
+  "name": "polishing-issues",
+  "version": "1.0.0",
+  "summary": "Use when GitHub issue lacks scope, has ambiguities, or needs technical definition - researches codebase, identifies gaps, presents options with recommendations, updates issue de...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chrisrodz",
+    "github": "chrisrodz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chrisrodz/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/chrisrodz/dotfiles/main/claude/skills/polishing-issues/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:39.004Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chrisrodz%2Fdotfiles/claude%2Fskills%2Fpolishing-issues%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_1dd585b051fc"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "file-todos",
+  "name": "file-todos",
+  "version": "1.0.0",
+  "summary": "This skill should be used when managing the file-based todo tracking system in the todos/ directory. It provides workflows for creating todos, managing status and dependencies, ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EveryInc",
+    "github": "EveryInc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EveryInc/compound-engineering-plugin",
+    "skill_md": "https://raw.githubusercontent.com/EveryInc/compound-engineering-plugin/main/plugins/compound-engineering/skills/file-todos/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.520Z",
+  "created_at": "2025-12-23T01:29:09.636Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EveryInc%2Fcompound-engineering-plugin/plugins%2Fcompound-engineering%2Fskills%2Ffile-todos%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.520Z",
+    "uniqueId": "sk_81905cbf0496"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "refactoring-advisor",
+  "name": "refactoring-advisor",
+  "version": "1.0.0",
+  "summary": "Provides refactoring recommendations for PHP/CakePHP code to improve maintainability, performance, and adherence to best practices",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masanao-ohba",
+    "github": "masanao-ohba"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masanao-ohba/claude-manifests",
+    "skill_md": "https://raw.githubusercontent.com/masanao-ohba/claude-manifests/main/skills/php-cakephp/refactoring-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:12:32.772Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masanao-ohba%2Fclaude-manifests/skills%2Fphp-cakephp%2Frefactoring-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_f7b34e7d394a"
+  }
+}

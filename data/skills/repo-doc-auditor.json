@@ -1,0 +1,35 @@
+{
+  "id": "repo-doc-auditor",
+  "name": "repo-doc-auditor",
+  "version": "1.0.0",
+  "summary": "Perform a repo-wide, evidence-based audit of documentation against the current codebase and recent changes. Produces a proposed, fully rewritten documentation set in TempDoc-For...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ogprotege",
+    "github": "ogprotege"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ogprotege/Skills",
+    "skill_md": "https://raw.githubusercontent.com/ogprotege/Skills/main/Categories/Documentation/repo-doc-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.513Z",
+  "created_at": "2025-12-23T01:29:14.521Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ogprotege%2FSkills/Categories%2FDocumentation%2Frepo-doc-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_5201f3fd781a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "serverless-aws",
+  "name": "serverless-aws",
+  "version": "1.0.0",
+  "summary": "Patterns for AWS Lambda, DynamoDB, SQS, and Secrets Manager. Use when working on serverless AWS projects.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HexSleeves",
+    "github": "HexSleeves"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HexSleeves/yadmdots",
+    "skill_md": "https://raw.githubusercontent.com/HexSleeves/yadmdots/main/.config/dotfiles/ai/claude/skills/serverless-aws/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.449Z",
+  "created_at": "2025-12-22T16:04:46.753Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HexSleeves%2Fyadmdots/.config%2Fdotfiles%2Fai%2Fclaude%2Fskills%2Fserverless-aws%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_f713da36590e"
+  }
+}

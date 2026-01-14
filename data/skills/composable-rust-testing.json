@@ -1,0 +1,35 @@
+{
+  "id": "composable-rust-testing",
+  "name": "composable-rust-testing",
+  "version": "1.0.0",
+  "summary": "Expert knowledge for testing Composable Rust applications. Use when writing unit tests for reducers, setting up integration tests with real dependencies, using test utilities (T...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jonathanbelolo",
+    "github": "jonathanbelolo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jonathanbelolo/composable-rust",
+    "skill_md": "https://raw.githubusercontent.com/jonathanbelolo/composable-rust/main/.claude/skills/composable-rust-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:22.138Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jonathanbelolo%2Fcomposable-rust/.claude%2Fskills%2Fcomposable-rust-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_ae9bdfe157d2"
+  }
+}

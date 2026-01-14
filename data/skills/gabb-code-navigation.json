@@ -1,0 +1,35 @@
+{
+  "id": "gabb-code-navigation",
+  "name": "gabb-code-navigation",
+  "version": "1.0.0",
+  "summary": "Use gabb MCP tools for semantic code navigation. Prefer gabb over grep/ripgrep\nwhen navigating code structure: finding definitions, usages, implementations.\nGabb understands cod...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gabb-software",
+    "github": "gabb-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gabb-software/gabb-cli",
+    "skill_md": "https://raw.githubusercontent.com/gabb-software/gabb-cli/main/.claude/skills/gabb/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T19:02:18.000Z",
+  "created_at": "2025-12-22T21:09:45.837Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gabb-software%2Fgabb-cli/.claude%2Fskills%2Fgabb%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_2bd99e9972a1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "laravel-providers",
+  "name": "laravel-providers",
+  "version": "1.0.0",
+  "summary": "Service providers, bootstrapping, and application configuration. Use when working with service providers, app configuration, bootstrapping, or when user mentions service provide...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-laravel",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-laravel/main/skills/laravel-providers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T14:33:42.000Z",
+  "created_at": "2025-12-23T01:28:31.671Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-laravel/skills%2Flaravel-providers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_e57e5337b5b1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dialog-generator",
+  "name": "dialog-generator",
+  "version": "1.0.0",
+  "summary": "Generate modal and modeless dialog windows for Tkinter applications. Use when creating dialogs, popups, or secondary windows, when user mentions \"dialog\", \"popup\", \"modal\", or w...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gizix",
+    "github": "gizix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gizix/cc_projects",
+    "skill_md": "https://raw.githubusercontent.com/gizix/cc_projects/main/tkinter-template/.claude/skills/dialog-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.171Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gizix%2Fcc_projects/tkinter-template%2F.claude%2Fskills%2Fdialog-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_52d01907cfc9"
+  }
+}

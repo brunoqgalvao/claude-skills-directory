@@ -1,0 +1,36 @@
+{
+  "id": "prd-authoring",
+  "name": "prd-authoring",
+  "version": "1.0.0",
+  "summary": "Use this skill for early-stage project planning. It leverages the Gemini CLI to generate high-quality first drafts of Product Briefs, Research Documents, and full PRDs, guiding ...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Reading-Advantage-Thailand",
+    "github": "Reading-Advantage-Thailand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Reading-Advantage-Thailand/codecamp-advantage",
+    "skill_md": "https://raw.githubusercontent.com/Reading-Advantage-Thailand/codecamp-advantage/main/.claude/skills/prd-authoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:14.422Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Reading-Advantage-Thailand%2Fcodecamp-advantage/.claude%2Fskills%2Fprd-authoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_7691fc1517ac"
+  }
+}

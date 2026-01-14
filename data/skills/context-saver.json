@@ -1,0 +1,35 @@
+{
+  "id": "context-saver",
+  "name": "context-saver",
+  "version": "1.0.0",
+  "summary": "Save session context to disk for seamless continuation in new chat sessions. This skill should be used when the user asks to save context, preserve work state, checkpoint progre...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mhylle",
+    "github": "mhylle"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mhylle/claude-skills-collection",
+    "skill_md": "https://raw.githubusercontent.com/mhylle/claude-skills-collection/main/skills/context-saver/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:09:55.525Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mhylle%2Fclaude-skills-collection/skills%2Fcontext-saver%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_e9f7c338a3c3"
+  }
+}

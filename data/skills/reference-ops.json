@@ -1,0 +1,37 @@
+{
+  "id": "reference-ops",
+  "name": "reference-ops",
+  "version": "1.0.0",
+  "summary": "Use to manage workflows, compliance, and measurement for customer references.",
+  "verticals": [
+    "legal",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_all/reference-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T20:36:35.000Z",
+  "created_at": "2025-12-23T01:28:25.103Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_all%2Freference-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.455Z",
+    "uniqueId": "sk_3d57ee6c6cc6"
+  }
+}

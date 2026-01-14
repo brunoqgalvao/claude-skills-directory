@@ -1,0 +1,35 @@
+{
+  "id": "sdd-next",
+  "name": "sdd-next",
+  "version": "1.0.0",
+  "summary": "Task preparation skill for spec-driven workflows. Reads specifications, identifies next actionable tasks, and creates detailed execution plans. Use when ready to implement a tas...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-sdd-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-sdd-toolkit/main/skills/sdd-next/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:39.221Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-sdd-toolkit/skills%2Fsdd-next%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_7843b71e80b6"
+  }
+}

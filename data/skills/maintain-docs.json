@@ -1,0 +1,35 @@
+{
+  "id": "maintain-docs",
+  "name": "maintain-docs",
+  "version": "1.0.0",
+  "summary": "Update and maintain documentation to reflect current implementation after code changes, refactoring, or new features. Remove temporal language, verify accuracy against code, and...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sorryhyun",
+    "github": "sorryhyun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sorryhyun/DiPeO",
+    "skill_md": "https://raw.githubusercontent.com/sorryhyun/DiPeO/main/.claude/skills/maintain-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.690Z",
+  "created_at": "2025-12-22T22:05:47.035Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sorryhyun%2FDiPeO/.claude%2Fskills%2Fmaintain-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.690Z",
+    "uniqueId": "sk_923be8bfc8fb"
+  }
+}

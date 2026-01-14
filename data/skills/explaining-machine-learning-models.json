@@ -1,0 +1,35 @@
+{
+  "id": "explaining-machine-learning-models",
+  "name": "explaining-machine-learning-models",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to provide interpretability and explainability for machine learning models. It is triggered when the user requests explanations for model predictions, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/ai-ml/model-explainability-tool/skills/model-explainability-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T07:07:39.000Z",
+  "created_at": "2025-12-22T16:29:08.146Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskills-migration-20251108-070147%2Fplugins%2Fai-ml%2Fmodel-explainability-tool%2Fskills%2Fmodel-explainability-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_9c019d124ad4"
+  }
+}

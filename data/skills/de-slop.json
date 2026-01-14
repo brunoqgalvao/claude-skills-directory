@@ -1,0 +1,36 @@
+{
+  "id": "de-slop",
+  "name": "de-slop",
+  "version": "1.0.0",
+  "summary": "This skill should be used to remove AI-generated artifacts and unnecessary code before committing. It scans changed files for redundant comments, AI TODOs, excessive docstrings,...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "iamladi",
+    "github": "iamladi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/iamladi/cautious-computing-machine--primitives-plugin",
+    "skill_md": "https://raw.githubusercontent.com/iamladi/cautious-computing-machine--primitives-plugin/main/skills/de-slop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:03:43.326Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/iamladi%2Fcautious-computing-machine--primitives-plugin/skills%2Fde-slop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_466e69f491c7"
+  }
+}

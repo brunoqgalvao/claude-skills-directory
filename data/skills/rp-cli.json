@@ -1,0 +1,35 @@
+{
+  "id": "rp-cli",
+  "name": "rp-cli",
+  "version": "1.0.0",
+  "summary": "Reference for rp-cli usage patterns. Consult before calling rp-cli via Bash.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "GantisStorm",
+    "github": "GantisStorm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/GantisStorm/claude-code-pair-planning-framework",
+    "skill_md": "https://raw.githubusercontent.com/GantisStorm/claude-code-pair-planning-framework/main/repoprompt-pair-pipeline/skills/rp-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:02:54.039Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/GantisStorm%2Fclaude-code-pair-planning-framework/repoprompt-pair-pipeline%2Fskills%2Frp-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_3f80266c48c9"
+  }
+}

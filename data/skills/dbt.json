@@ -1,0 +1,37 @@
+{
+  "id": "dbt",
+  "name": "dbt",
+  "version": "1.0.0",
+  "summary": "dbt with TD Trino. Covers profiles.yml setup (method:none, user:TD_API_KEY), required override macros (no CREATE VIEW), TD_INTERVAL in models, and TD Workflow deployment.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "treasure-data",
+    "github": "treasure-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/treasure-data/td-skills",
+    "skill_md": "https://raw.githubusercontent.com/treasure-data/td-skills/main/workflow-skills/dbt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:12.062Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/treasure-data%2Ftd-skills/workflow-skills%2Fdbt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_ce27709d0cbb"
+  }
+}

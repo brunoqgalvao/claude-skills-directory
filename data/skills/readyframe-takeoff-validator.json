@@ -1,0 +1,35 @@
+{
+  "id": "readyframe-takeoff-validator",
+  "name": "readyframe-takeoff-validator",
+  "version": "1.0.0",
+  "summary": "Validates ReadyFrame material takeoffs against all system rules and specifications to catch errors before materials are ordered. Use when validating takeoffs, checking material ...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CBoser",
+    "github": "CBoser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CBoser/ConstructionPlatform",
+    "skill_md": "https://raw.githubusercontent.com/CBoser/ConstructionPlatform/main/docs/archive/skills/claude_skills/ReadyFrame_Process/readyframe-takeoff-validator/readyframe-takeoff-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:59:18.865Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CBoser%2FConstructionPlatform/docs%2Farchive%2Fskills%2Fclaude_skills%2FReadyFrame_Process%2Freadyframe-takeoff-validator%2Freadyframe-takeoff-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_8e9ecacfbe00"
+  }
+}

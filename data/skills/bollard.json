@@ -1,0 +1,35 @@
+{
+  "id": "bollard",
+  "name": "bollard",
+  "version": "1.0.0",
+  "summary": "Rust製非同期Docker APIクライアント「Bollard」の使い方と実装パターン",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chronista-club",
+    "github": "chronista-club"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chronista-club/fleetflow",
+    "skill_md": "https://raw.githubusercontent.com/chronista-club/fleetflow/main/.claude/skills/bollard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:14.985Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chronista-club%2Ffleetflow/.claude%2Fskills%2Fbollard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_2cc68a9fb2c4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "design-tokens",
+  "name": "design-tokens",
+  "version": "1.0.0",
+  "summary": "Manage design tokens for consistent theming across platforms. Use when defining colors, typography, spacing, or other design system values.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoeffer",
+    "github": "astoeffer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoeffer/plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/astoeffer/plugin-marketplace/main/plugins/cloodle-moodle-theming/skills/design-tokens/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:46.122Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoeffer%2Fplugin-marketplace/plugins%2Fcloodle-moodle-theming%2Fskills%2Fdesign-tokens%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_8a1dd0dc48d1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "backfill",
+  "name": "backfill",
+  "version": "1.0.0",
+  "summary": "Backfill missing GitHub streak dates using the streakify.sh script. Use this when the user asks to backfill dates, fix missing streak days, or catch up on streak commits.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jontsai",
+    "github": "jontsai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jontsai/github-streak",
+    "skill_md": "https://raw.githubusercontent.com/jontsai/github-streak/main/.claude/skills/backfill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T07:54:24.000Z",
+  "created_at": "2025-12-22T14:56:31.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jontsai%2Fgithub-streak/.claude%2Fskills%2Fbackfill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_fdaf16b85607"
+  }
+}

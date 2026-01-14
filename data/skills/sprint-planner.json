@@ -1,0 +1,35 @@
+{
+  "id": "sprint-planner",
+  "name": "sprint-planner",
+  "version": "1.0.0",
+  "summary": "Use this skill when planning a new sprint by selecting approved specs from the project board and creating atomic GitHub issues for the development team. Triggers include \"plan s...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bodangren",
+    "github": "bodangren"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bodangren/bus-math-v2",
+    "skill_md": "https://raw.githubusercontent.com/bodangren/bus-math-v2/main/.claude/skills/sprint-planner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:10:09.873Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bodangren%2Fbus-math-v2/.claude%2Fskills%2Fsprint-planner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_f3cf1cf2d832"
+  }
+}

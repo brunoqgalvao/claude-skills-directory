@@ -1,0 +1,35 @@
+{
+  "id": "committing-changes",
+  "name": "committing-changes",
+  "version": "1.0.0",
+  "summary": "Creates commits following project conventions. Handles Conventional Commits with project-specific scopes, PR title requirements, changesets for releases, and CI validation rules.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jasonkuhrt",
+    "github": "jasonkuhrt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jasonkuhrt/kit",
+    "skill_md": "https://raw.githubusercontent.com/jasonkuhrt/kit/main/.claude/skills/committing-changes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.567Z",
+  "created_at": "2025-12-23T01:28:35.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jasonkuhrt%2Fkit/.claude%2Fskills%2Fcommitting-changes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_88fb354ece1b"
+  }
+}

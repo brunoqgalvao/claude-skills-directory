@@ -1,0 +1,35 @@
+{
+  "id": "verify-deployment",
+  "name": "verify-deployment",
+  "version": "1.0.0",
+  "summary": "Run E2E verification tests against production after deployment. Called by yolo1 before claiming delivery.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "coopeverything",
+    "github": "coopeverything"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/coopeverything/TogetherOS",
+    "skill_md": "https://raw.githubusercontent.com/coopeverything/TogetherOS/main/.claude/skills/verify-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T05:41:39.000Z",
+  "created_at": "2025-12-22T14:52:00.541Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/coopeverything%2FTogetherOS/.claude%2Fskills%2Fverify-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_406042621688"
+  }
+}

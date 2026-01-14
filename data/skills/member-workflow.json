@@ -1,0 +1,37 @@
+{
+  "id": "member-workflow",
+  "name": "member-workflow",
+  "version": "1.0.0",
+  "summary": "Guides implementation of member lifecycle workflows including registration, renewal, engagement tracking, and duplicate detection for 20,000+ members across national, state, and...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "markus41",
+    "github": "markus41"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/markus41/nabip-association-ma",
+    "skill_md": "https://raw.githubusercontent.com/markus41/nabip-association-ma/main/.claude/skills/member-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:25.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/markus41%2Fnabip-association-ma/.claude%2Fskills%2Fmember-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_cc594aed2ebe"
+  }
+}

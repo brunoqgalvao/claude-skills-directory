@@ -1,0 +1,36 @@
+{
+  "id": "changelog-writer",
+  "name": "changelog-writer",
+  "version": "1.0.0",
+  "summary": "Create user-focused, SEO-optimized changelog entries for software releases. Use when writing release notes, version updates, product changelogs, or \"what's new\" documentation fo...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lightfastai",
+    "github": "lightfastai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lightfastai/lightfast",
+    "skill_md": "https://raw.githubusercontent.com/lightfastai/lightfast/main/.claude/skills/changelog-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:27.467Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lightfastai%2Flightfast/.claude%2Fskills%2Fchangelog-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_f5db77a31caa"
+  }
+}

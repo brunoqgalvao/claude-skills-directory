@@ -1,0 +1,35 @@
+{
+  "id": "custom-hooks",
+  "name": "custom-hooks",
+  "version": "1.0.0",
+  "summary": "Implement custom React hooks for reusable logic including state management, side effects, and data fetching. Use when extracting component logic into reusable hooks.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gizix",
+    "github": "gizix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gizix/cc_projects",
+    "skill_md": "https://raw.githubusercontent.com/gizix/cc_projects/main/react-template/.claude/skills/custom-hooks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:12.029Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gizix%2Fcc_projects/react-template%2F.claude%2Fskills%2Fcustom-hooks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_67a050e2131b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "jules-cli",
+  "name": "jules-cli",
+  "version": "1.0.0",
+  "summary": "docs/tasks.mdに記載されたタスクをJules CLIを使って依頼・管理します。タスクを日本語でフォーマットしてJulesに送信し、進捗を追跡して完了後にtasks.mdを更新します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "windschord",
+    "github": "windschord"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/windschord/claude_skils",
+    "skill_md": "https://raw.githubusercontent.com/windschord/claude_skils/main/jules-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:12.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/windschord%2Fclaude_skils/jules-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_5af6fbea2260"
+  }
+}

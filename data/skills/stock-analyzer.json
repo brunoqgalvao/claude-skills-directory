@@ -1,0 +1,35 @@
+{
+  "id": "stock-analyzer",
+  "name": "stock-analyzer",
+  "version": "1.0.0",
+  "summary": "Provides comprehensive technical analysis for stocks and ETFs using RSI, MACD, Bollinger Bands, and other indicators. Activates when user requests stock analysis, technical indi...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FrancyJGLisboa",
+    "github": "FrancyJGLisboa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FrancyJGLisboa/agent-skill-creator",
+    "skill_md": "https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/references/examples/stock-analyzer-cskill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:34.371Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FrancyJGLisboa%2Fagent-skill-creator/references%2Fexamples%2Fstock-analyzer-cskill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_556ef2d5496c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "angular-migration",
+  "name": "angular-migration",
+  "version": "1.0.0",
+  "summary": "Migrate from AngularJS to Angular using hybrid mode, incremental component rewriting, and dependency injection updates. Use when upgrading AngularJS applications, planning frame...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HermeticOrmus",
+    "github": "HermeticOrmus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HermeticOrmus/after-the-third-cup",
+    "skill_md": "https://raw.githubusercontent.com/HermeticOrmus/after-the-third-cup/main/plugins/framework-migration/skills/angular-migration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T19:58:00.000Z",
+  "created_at": "2025-12-22T20:13:51.126Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HermeticOrmus%2Fafter-the-third-cup/plugins%2Fframework-migration%2Fskills%2Fangular-migration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_7a4385d131f1"
+  }
+}

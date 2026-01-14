@@ -1,0 +1,35 @@
+{
+  "id": "check-dependencies",
+  "name": "check-dependencies",
+  "version": "1.0.0",
+  "summary": "Validate and verify dependencies are available and compatible. Use when setting up environments.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/tier-2/check-dependencies/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T21:58:57.000Z",
+  "created_at": "2025-12-22T14:58:12.133Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Ftier-2%2Fcheck-dependencies%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_01ec62670fcc"
+  }
+}

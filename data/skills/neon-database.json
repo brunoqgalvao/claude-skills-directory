@@ -1,0 +1,35 @@
+{
+  "id": "neon-database",
+  "name": "neon-database",
+  "version": "1.0.0",
+  "summary": "Use when working with Neon serverless PostgreSQL database. Covers database setup, CLI commands, Drizzle ORM integration, schema migrations, connection pooling, and user data sto...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "muhammad-anas35",
+    "github": "muhammad-anas35"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/muhammad-anas35/RAGai",
+    "skill_md": "https://raw.githubusercontent.com/muhammad-anas35/RAGai/main/.claude/skills/neon-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T23:25:55.000Z",
+  "created_at": "2025-12-23T01:28:36.728Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/muhammad-anas35%2FRAGai/.claude%2Fskills%2Fneon-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.565Z",
+    "uniqueId": "sk_32139ec3fec5"
+  }
+}

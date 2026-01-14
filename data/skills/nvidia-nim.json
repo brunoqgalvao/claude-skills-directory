@@ -1,0 +1,37 @@
+{
+  "id": "nvidia-nim",
+  "name": "nvidia-nim",
+  "version": "1.0.0",
+  "summary": "NVIDIA NIM (NVIDIA Inference Microservices) for deploying and managing AI models. Use for NIM microservices, model inference, API integration, and building AI applications with ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rish2jain",
+    "github": "rish2jain"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rish2jain/paperresearchagent",
+    "skill_md": "https://raw.githubusercontent.com/rish2jain/paperresearchagent/main/.claude/skills/nvidia-nim/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.982Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rish2jain%2Fpaperresearchagent/.claude%2Fskills%2Fnvidia-nim%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_6057ec39ce56"
+  }
+}

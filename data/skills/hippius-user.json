@@ -1,0 +1,35 @@
+{
+  "id": "hippius-user",
+  "name": "hippius-user",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to upload files to Hippius, has questions about Hippius decentralized storage (Bittensor Subnet 75), needs to query storage status, ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synapz-org",
+    "github": "synapz-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synapz-org/hippius-claude-skill",
+    "skill_md": "https://raw.githubusercontent.com/synapz-org/hippius-claude-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:14:49.169Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synapz-org%2Fhippius-claude-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_a83c0f13174f"
+  }
+}

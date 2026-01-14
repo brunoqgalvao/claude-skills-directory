@@ -1,0 +1,37 @@
+{
+  "id": "signal-capture",
+  "name": "signal-capture",
+  "version": "1.0.0",
+  "summary": "Detect and capture technical preferences, naming conventions, and architectural practices from user messages into Packmind standards. Trigger when user prescribes HOW to code ra...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PackmindHub",
+    "github": "PackmindHub"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PackmindHub/packmind",
+    "skill_md": "https://raw.githubusercontent.com/PackmindHub/packmind/main/.claude/skills/signal-capture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.498Z",
+  "created_at": "2025-12-23T01:29:26.692Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PackmindHub%2Fpackmind/.claude%2Fskills%2Fsignal-capture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_343e31a1e179"
+  }
+}

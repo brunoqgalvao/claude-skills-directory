@@ -1,0 +1,35 @@
+{
+  "id": "using-simulation-tactics",
+  "name": "using-simulation-tactics",
+  "version": "1.0.0",
+  "summary": "Router skill - analyze requirements and direct to appropriate tactics",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tachyon-beep",
+    "github": "tachyon-beep"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tachyon-beep/skillpacks",
+    "skill_md": "https://raw.githubusercontent.com/tachyon-beep/skillpacks/main/plugins/bravos-simulation-tactics/skills/using-simulation-tactics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T18:30:50.000Z",
+  "created_at": "2025-12-23T01:30:58.819Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tachyon-beep%2Fskillpacks/plugins%2Fbravos-simulation-tactics%2Fskills%2Fusing-simulation-tactics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_db01b9856f87"
+  }
+}

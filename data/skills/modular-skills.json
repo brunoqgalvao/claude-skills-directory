@@ -1,0 +1,36 @@
+{
+  "id": "modular-skills",
+  "name": "modular-skills",
+  "version": "1.0.0",
+  "summary": "Design skills as modular building blocks for predictable token usage and maintainable architecture. Use when creating new skills that need modular structure, refactoring large s...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/abstract/skills/modular-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T20:20:50.000Z",
+  "created_at": "2025-12-22T18:56:49.941Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fabstract%2Fskills%2Fmodular-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_1d016c90d2cc"
+  }
+}

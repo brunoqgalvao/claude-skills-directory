@@ -1,0 +1,37 @@
+{
+  "id": "nestjs",
+  "name": "nestjs",
+  "version": "1.0.0",
+  "summary": "Provides NestJS framework development standards and architectural patterns. Ensures domain-centric architecture, proper dependency injection, and decorator pattern utilization. ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KubrickCode",
+    "github": "KubrickCode"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KubrickCode/Repo-Management",
+    "skill_md": "https://raw.githubusercontent.com/KubrickCode/Repo-Management/main/.claude/skills/nestjs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:20.359Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KubrickCode%2FRepo-Management/.claude%2Fskills%2Fnestjs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_d5c6f2acae12"
+  }
+}

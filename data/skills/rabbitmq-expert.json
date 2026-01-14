@@ -1,0 +1,37 @@
+{
+  "id": "rabbitmq-expert",
+  "name": "rabbitmq-expert",
+  "version": "1.0.0",
+  "summary": "Expert RabbitMQ administrator and developer specializing in message broker architecture, exchange patterns, clustering, high availability, and production monitoring. Use when de...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martinholovsky",
+    "github": "martinholovsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martinholovsky/claude-skills-generator",
+    "skill_md": "https://raw.githubusercontent.com/martinholovsky/claude-skills-generator/main/skills/rabbitmq-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.470Z",
+  "created_at": "2025-12-23T01:30:50.903Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martinholovsky%2Fclaude-skills-generator/skills%2Frabbitmq-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.470Z",
+    "uniqueId": "sk_665f9d3f31b9"
+  }
+}

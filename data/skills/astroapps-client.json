@@ -1,0 +1,36 @@
+{
+  "id": "astroapps-client",
+  "name": "astroapps-client",
+  "version": "1.0.0",
+  "summary": "Core React client library for authentication (SecurityService), navigation with URL query syncing, API clients, form validation, toast notifications, and breadcrumbs. Foundation...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astrolabe-apps",
+    "github": "astrolabe-apps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astrolabe-apps/astrolabe-common",
+    "skill_md": "https://raw.githubusercontent.com/astrolabe-apps/astrolabe-common/main/skills/astroapps-client/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.694Z",
+  "created_at": "2025-12-22T22:03:57.705Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astrolabe-apps%2Fastrolabe-common/skills%2Fastroapps-client%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.694Z",
+    "uniqueId": "sk_4660e17777e8"
+  }
+}

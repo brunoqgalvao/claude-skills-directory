@@ -1,0 +1,35 @@
+{
+  "id": "index-tracker",
+  "name": "index-tracker",
+  "version": "1.0.0",
+  "summary": "Manage and query the documentation dependency index. Use this to identify which documents need to be updated when code changes.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julwrites",
+    "github": "julwrites"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julwrites/agent-harness",
+    "skill_md": "https://raw.githubusercontent.com/julwrites/agent-harness/main/.claude/skills/index/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:15.495Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julwrites%2Fagent-harness/.claude%2Fskills%2Findex%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_2c876bf35922"
+  }
+}

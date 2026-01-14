@@ -1,0 +1,36 @@
+{
+  "id": "pure-data",
+  "name": "pure-data",
+  "version": "1.0.0",
+  "summary": "Pure Data reference documentation for audio patch development. Use when writing .pd patches, working with OSC/audio/sampling, or implementing Pure Data code.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "schuyler",
+    "github": "schuyler"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/schuyler/corazonn",
+    "skill_md": "https://raw.githubusercontent.com/schuyler/corazonn/main/.claude/skills/pure-data/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:42.132Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/schuyler%2Fcorazonn/.claude%2Fskills%2Fpure-data%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_151f45e6966d"
+  }
+}

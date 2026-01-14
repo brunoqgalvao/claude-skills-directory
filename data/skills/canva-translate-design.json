@@ -1,0 +1,35 @@
+{
+  "id": "canva-translate-design",
+  "name": "canva-translate-design",
+  "version": "1.0.0",
+  "summary": "Translate all text in a Canva design to another language, creating a translated copy. Faster than manually copying and editing each text box in Canva's editor. Use when users sa...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canva-sdks",
+    "github": "canva-sdks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canva-sdks/canva-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/canva-sdks/canva-claude-skills/main/design-translation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:37.182Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canva-sdks%2Fcanva-claude-skills/design-translation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_da7e996f086b"
+  }
+}

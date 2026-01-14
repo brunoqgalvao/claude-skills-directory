@@ -1,0 +1,35 @@
+{
+  "id": "cleanup-function",
+  "name": "cleanup-function",
+  "version": "1.0.0",
+  "summary": "Decompilation can produce very low quality C code in an attempt to get a 100% match. This code can often be improved without compromising the match. This skill will clean up C f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cdlewis",
+    "github": "cdlewis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cdlewis/snowboardkids2-decomp",
+    "skill_md": "https://raw.githubusercontent.com/cdlewis/snowboardkids2-decomp/main/.claude/skills/cleanup-function/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.342Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cdlewis%2Fsnowboardkids2-decomp/.claude%2Fskills%2Fcleanup-function%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_78e0d411503a"
+  }
+}

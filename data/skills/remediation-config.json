@@ -1,0 +1,35 @@
+{
+  "id": "remediation-config",
+  "name": "remediation-config",
+  "version": "1.0.0",
+  "summary": "Security fix patterns for configuration and deployment vulnerabilities (path traversal, debug mode, security headers). Provides language-specific secure implementations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zate",
+    "github": "Zate"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zate/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/Zate/cc-plugins/main/plugins/security/skills/remediation-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:03.333Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zate%2Fcc-plugins/plugins%2Fsecurity%2Fskills%2Fremediation-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_ef63cb4a61e9"
+  }
+}

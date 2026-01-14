@@ -1,0 +1,37 @@
+{
+  "id": "livekit-stt-selfhosted",
+  "name": "livekit-stt-selfhosted",
+  "version": "1.0.0",
+  "summary": "Build self-hosted speech-to-text APIs using Hugging Face models (Whisper, Wav2Vec2) and create LiveKit voice agent plugins. Use when building STT infrastructure, creating custom...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Okeysir198",
+    "github": "Okeysir198"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Okeysir198/P20251122-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Okeysir198/P20251122-claude-skills/main/.claude/skills/livekit-stt-selfhosted/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:15:02.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Okeysir198%2FP20251122-claude-skills/.claude%2Fskills%2Flivekit-stt-selfhosted%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_5aefcb5ca0ce"
+  }
+}

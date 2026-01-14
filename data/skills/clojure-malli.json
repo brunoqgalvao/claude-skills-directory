@@ -1,0 +1,37 @@
+{
+  "id": "clojure-malli",
+  "name": "clojure-malli",
+  "version": "1.0.0",
+  "summary": "Data validation with Malli schemas in Clojure. Use when working with: (0)\nmalli, (1) data validation or coercion, (2) defining schemas for maps,\ncollections, or domain models, (...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ramblurr",
+    "github": "Ramblurr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ramblurr/nix-devenv",
+    "skill_md": "https://raw.githubusercontent.com/Ramblurr/nix-devenv/main/prompts/skills/clojure-malli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:32.012Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ramblurr%2Fnix-devenv/prompts%2Fskills%2Fclojure-malli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_b7b46de98eff"
+  }
+}

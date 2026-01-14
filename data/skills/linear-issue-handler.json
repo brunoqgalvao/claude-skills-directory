@@ -1,0 +1,35 @@
+{
+  "id": "linear-issue-handler",
+  "name": "linear-issue-handler",
+  "version": "1.0.0",
+  "summary": "Comprehensive workflow for managing Linear issues using the linearis CLI tool. Handles issue creation, status tracking, commenting, and file downloads with clear decision trees ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trounceabout",
+    "github": "trounceabout"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trounceabout/skills-library",
+    "skill_md": "https://raw.githubusercontent.com/trounceabout/skills-library/main/Skills/linear-issue-handler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.741Z",
+  "created_at": "2025-12-22T21:10:34.857Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trounceabout%2Fskills-library/Skills%2Flinear-issue-handler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_f2e6dd1596e4"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "release-coordinator",
+  "name": "release-coordinator",
+  "version": "1.0.0",
+  "summary": "Coordinates multi-repository releases with dependency management, release order orchestration, and cross-repo validation. Handles coordinated releases (lockstep versioning), ind...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave-release/skills/release-coordinator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.677Z",
+  "created_at": "2025-12-22T22:12:45.838Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave-release%2Fskills%2Frelease-coordinator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.677Z",
+    "uniqueId": "sk_208a197f2fab"
+  }
+}

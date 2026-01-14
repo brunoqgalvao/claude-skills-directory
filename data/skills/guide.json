@@ -1,0 +1,35 @@
+{
+  "id": "guide",
+  "name": "guide",
+  "version": "1.0.0",
+  "summary": "LLM Memory 完整使用指南 - 使用 llm-memory MCP 工具时必须调用此 Skill。提供计划(Plan)、待办(Todo)、记忆(Memory)的完整管理指南，包括新对话初始化、项目规划、任务管理、知识记录等工作流。Use when: llm-memory MCP is available, new conversation st...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "XiaoLFeng",
+    "github": "XiaoLFeng"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/XiaoLFeng/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/XiaoLFeng/claude-marketplace/main/llm-memory/skills/guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:40.004Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/XiaoLFeng%2Fclaude-marketplace/llm-memory%2Fskills%2Fguide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_e9def1213cb0"
+  }
+}

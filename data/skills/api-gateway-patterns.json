@@ -1,0 +1,37 @@
+{
+  "id": "api-gateway-patterns",
+  "name": "api-gateway-patterns",
+  "version": "1.0.0",
+  "summary": "API Gateway patterns for routing, authentication, rate limiting, and service composition in microservices architectures. Use when implementing API gateways, building BFF layers,...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NickCrew",
+    "github": "NickCrew"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NickCrew/claude-cortex",
+    "skill_md": "https://raw.githubusercontent.com/NickCrew/claude-cortex/main/skills/api-gateway-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.620Z",
+  "created_at": "2025-12-22T23:20:19.688Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NickCrew%2Fclaude-cortex/skills%2Fapi-gateway-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.620Z",
+    "uniqueId": "sk_1e98bd961585"
+  }
+}

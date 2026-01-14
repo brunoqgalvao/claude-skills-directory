@@ -1,0 +1,37 @@
+{
+  "id": "devops-excellence",
+  "name": "devops-excellence",
+  "version": "1.0.0",
+  "summary": "DevOps and CI/CD expert. Use when setting up pipelines, containerizing applications, deploying to Kubernetes, or implementing release strategies. Covers GitHub Actions, Docker, ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majiayu000",
+    "github": "majiayu000"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majiayu000/claude-arsenal",
+    "skill_md": "https://raw.githubusercontent.com/majiayu000/claude-arsenal/main/skills/devops-excellence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:03:35.023Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majiayu000%2Fclaude-arsenal/skills%2Fdevops-excellence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_7c9d3c5e2b18"
+  }
+}

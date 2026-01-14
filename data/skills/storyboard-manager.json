@@ -1,0 +1,35 @@
+{
+  "id": "storyboard-manager",
+  "name": "storyboard-manager",
+  "version": "1.0.0",
+  "summary": "Assist writers with story planning, character development, plot structuring, chapter writing, timeline tracking, and consistency checking. Use this skill when working with creat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tmoody1973",
+    "github": "tmoody1973"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tmoody1973/hakivo-v2",
+    "skill_md": "https://raw.githubusercontent.com/tmoody1973/hakivo-v2/main/hakivo-api/.claude/skills/storyboard-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.447Z",
+  "created_at": "2025-12-22T23:14:38.614Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tmoody1973%2Fhakivo-v2/hakivo-api%2F.claude%2Fskills%2Fstoryboard-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.447Z",
+    "uniqueId": "sk_6a8776460e4e"
+  }
+}

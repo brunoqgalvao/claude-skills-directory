@@ -1,0 +1,35 @@
+{
+  "id": "todo-sync",
+  "name": "todo-sync",
+  "version": "1.0.0",
+  "summary": "Synchronize sprint tasks with the TodoWrite tool to provide real-time visibility into task progress. Use when starting a sprint task (create todos), breaking down work (add sub-...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AlexBaum-ai",
+    "github": "AlexBaum-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AlexBaum-ai/NEURM",
+    "skill_md": "https://raw.githubusercontent.com/AlexBaum-ai/NEURM/main/.claude/skills/todo-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.975Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AlexBaum-ai%2FNEURM/.claude%2Fskills%2Ftodo-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_6f65e24afaeb"
+  }
+}

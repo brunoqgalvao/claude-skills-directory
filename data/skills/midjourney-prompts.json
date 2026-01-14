@@ -1,0 +1,35 @@
+{
+  "id": "midjourney-prompts",
+  "name": "midjourney-prompts",
+  "version": "1.0.0",
+  "summary": "Generate Midjourney V7 image prompts for website sections. Analyzes page components, extracts aspect ratios from CSS, outputs prompts with SEO filenames. Use after completing pa...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "deomiarn",
+    "github": "deomiarn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/deomiarn/website-template",
+    "skill_md": "https://raw.githubusercontent.com/deomiarn/website-template/main/.claude/skills/midjourney-prompts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T13:59:29.000Z",
+  "created_at": "2025-12-23T01:28:30.954Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/deomiarn%2Fwebsite-template/.claude%2Fskills%2Fmidjourney-prompts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.454Z",
+    "uniqueId": "sk_0f12e8a47bba"
+  }
+}

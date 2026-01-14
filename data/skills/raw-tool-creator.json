@@ -1,0 +1,37 @@
+{
+  "id": "raw-tool-creator",
+  "name": "raw-tool-creator",
+  "version": "1.0.0",
+  "summary": "Create reusable RAW tools that workflows can import. Use when the user asks to create a tool, extract reusable functionality, or build a new capability for workflows.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpuig",
+    "github": "mpuig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpuig/raw",
+    "skill_md": "https://raw.githubusercontent.com/mpuig/raw/main/skills/raw-tool-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.690Z",
+  "created_at": "2025-12-22T22:06:45.198Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpuig%2Fraw/skills%2Fraw-tool-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.690Z",
+    "uniqueId": "sk_bc38bcd13a2b"
+  }
+}

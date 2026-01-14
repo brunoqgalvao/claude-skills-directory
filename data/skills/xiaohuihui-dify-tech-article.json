@@ -1,0 +1,35 @@
+{
+  "id": "xiaohuihui-dify-tech-article",
+  "name": "xiaohuihui-dify-tech-article",
+  "version": "1.0.0",
+  "summary": "专为Dify工作流案例分享设计的公众号文章生成器,遵循小灰灰公众号写作规范,自动生成包含前言、工作流制作、总结的完整Dify案例文章,配有详细的节点配置、插件安装步骤、代码示例,并支持自动生成图片上传到腾讯云COS图床",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wwwzhouhui",
+    "github": "wwwzhouhui"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wwwzhouhui/skills_collection",
+    "skill_md": "https://raw.githubusercontent.com/wwwzhouhui/skills_collection/main/xiaohuihui-dify-tech-article/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:56:54.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wwwzhouhui%2Fskills_collection/xiaohuihui-dify-tech-article%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_d6d5f846f663"
+  }
+}

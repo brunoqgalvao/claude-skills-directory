@@ -1,0 +1,35 @@
+{
+  "id": "task-board",
+  "name": "task-board",
+  "version": "1.0.0",
+  "summary": "Planning specialist that creates structured implementation plans for the finans project. Use this skill to transform user requests into comprehensive, well-researched plan files...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andersnygaard",
+    "github": "andersnygaard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andersnygaard/ettsted2",
+    "skill_md": "https://raw.githubusercontent.com/andersnygaard/ettsted2/main/.claude/skills/task-board/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:12:53.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andersnygaard%2Fettsted2/.claude%2Fskills%2Ftask-board%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_a86149124757"
+  }
+}

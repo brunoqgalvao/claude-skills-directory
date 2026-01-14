@@ -1,0 +1,36 @@
+{
+  "id": "shell-engineering",
+  "name": "shell-engineering",
+  "version": "1.0.0",
+  "summary": "Comprehensive shell/bash engineering guidelines based on Google's Shell Style Guide. This skill should be used when writing shell scripts, reviewing bash code, or answering ques...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gonzaloserrano",
+    "github": "gonzaloserrano"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gonzaloserrano/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/gonzaloserrano/dotfiles/main/claude/skills/shell-engineering/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:44.583Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gonzaloserrano%2Fdotfiles/claude%2Fskills%2Fshell-engineering%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_ec401f107560"
+  }
+}

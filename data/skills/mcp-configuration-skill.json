@@ -1,0 +1,36 @@
+{
+  "id": "mcp-configuration-skill",
+  "name": "mcp-configuration-skill",
+  "version": "1.0.0",
+  "summary": "Manage 84 automation scripts and environment configurations via MCP. Use when validating deployments, running automation scripts, managing environments, or checking script avail...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "okgoogle13",
+    "github": "okgoogle13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/okgoogle13/careercopilot",
+    "skill_md": "https://raw.githubusercontent.com/okgoogle13/careercopilot/main/.claude/skills/mcp-configuration-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.833Z",
+  "created_at": "2025-12-22T16:53:51.965Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/okgoogle13%2Fcareercopilot/.claude%2Fskills%2Fmcp-configuration-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.833Z",
+    "uniqueId": "sk_8692304c01d1"
+  }
+}

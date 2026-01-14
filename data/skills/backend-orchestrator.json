@@ -1,0 +1,37 @@
+{
+  "id": "backend-orchestrator",
+  "name": "backend-orchestrator",
+  "version": "1.0.0",
+  "summary": "Coordinates backend development tasks (APIs, services, databases). Use when implementing REST APIs, business logic, data models, or service integrations. Applies backend-standar...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Brownbull",
+    "github": "Brownbull"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Brownbull/ayni_core",
+    "skill_md": "https://raw.githubusercontent.com/Brownbull/ayni_core/main/.claude/skills/backend-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:50:57.884Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Brownbull%2Fayni_core/.claude%2Fskills%2Fbackend-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_1384c527f91b"
+  }
+}

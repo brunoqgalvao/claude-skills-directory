@@ -1,0 +1,36 @@
+{
+  "id": "editor-ui-infrastructure",
+  "name": "editor-ui-infrastructure",
+  "version": "1.0.0",
+  "summary": "Guide proper usage of Editor UI infrastructure including Drawers (ButtonDrawer, ModalDrawer, TableDrawer, etc.), Elements (drag-drop targets, ComponentSelector), FieldEditors, a...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kateusz",
+    "github": "kateusz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kateusz/GameEngine",
+    "skill_md": "https://raw.githubusercontent.com/kateusz/GameEngine/main/.claude/skills/editor-ui-infrastructure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:22.956Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kateusz%2FGameEngine/.claude%2Fskills%2Feditor-ui-infrastructure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_cbb243ca2e4d"
+  }
+}

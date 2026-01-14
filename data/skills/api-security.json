@@ -1,0 +1,36 @@
+{
+  "id": "api-security",
+  "name": "api-security",
+  "version": "1.0.0",
+  "summary": "API security best practices and common vulnerability prevention. Enforces security checks for authentication, input validation, SQL injection, XSS, and OWASP Top 10 vulnerabilit...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elevanaltd",
+    "github": "elevanaltd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elevanaltd/oa",
+    "skill_md": "https://raw.githubusercontent.com/elevanaltd/oa/main/.claude/skills/api-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T05:48:19.000Z",
+  "created_at": "2025-12-22T01:39:13.554Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elevanaltd%2Foa/.claude%2Fskills%2Fapi-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_b25a0f7c0f93"
+  }
+}

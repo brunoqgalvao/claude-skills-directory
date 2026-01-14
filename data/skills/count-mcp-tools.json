@@ -1,0 +1,35 @@
+{
+  "id": "count-mcp-tools",
+  "name": "count-mcp-tools",
+  "version": "1.0.0",
+  "summary": "Count the total number of MCP tools in the Umbraco MCP Server project and provide a breakdown by collection. Use when the user asks about tool counts, tool statistics, or how ma...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "umbraco",
+    "github": "umbraco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/umbraco/Umbraco-CMS-MCP-Dev",
+    "skill_md": "https://raw.githubusercontent.com/umbraco/Umbraco-CMS-MCP-Dev/main/.claude/skills/count-mcp-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T18:43:11.000Z",
+  "created_at": "2025-12-22T15:06:43.163Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/umbraco%2FUmbraco-CMS-MCP-Dev/.claude%2Fskills%2Fcount-mcp-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_bf31c31b839f"
+  }
+}

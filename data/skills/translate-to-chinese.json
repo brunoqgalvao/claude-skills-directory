@@ -1,0 +1,35 @@
+{
+  "id": "translate-to-chinese",
+  "name": "translate-to-chinese",
+  "version": "1.0.0",
+  "summary": "请将以下英文文章，翻译成通俗流畅、引人入胜的简体中文，并保存。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zsutxz",
+    "github": "zsutxz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zsutxz/AICodingWithBMad",
+    "skill_md": "https://raw.githubusercontent.com/zsutxz/AICodingWithBMad/main/.claude/skills/translate-to-chinese/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T10:48:05.000Z",
+  "created_at": "2025-12-22T14:50:53.789Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zsutxz%2FAICodingWithBMad/.claude%2Fskills%2Ftranslate-to-chinese%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_e9486b157c40"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mcp-provider",
+  "name": "mcp-provider",
+  "version": "1.0.0",
+  "summary": "Discovers, validates, and integrates Model Context Protocol (MCP) tools into Claude Code skills. Searches MCP catalogs, scores candidates, generates tool configurations, and opt...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bacoco",
+    "github": "bacoco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bacoco/EvolveSkill",
+    "skill_md": "https://raw.githubusercontent.com/bacoco/EvolveSkill/main/.claude/skills/mcp-provider/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T17:18:49.000Z",
+  "created_at": "2025-12-22T17:51:43.679Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bacoco%2FEvolveSkill/.claude%2Fskills%2Fmcp-provider%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_5dc589ed4315"
+  }
+}

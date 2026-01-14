@@ -1,0 +1,37 @@
+{
+  "id": "google-chat-api",
+  "name": "google-chat-api",
+  "version": "1.0.0",
+  "summary": "Build Google Chat bots and webhooks with Cards v2, interactive forms, and Cloudflare Workers integration. Includes webhook handlers, card builders, form validation, bearer token...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jezweb",
+    "github": "jezweb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jezweb/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/google-chat-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:09:17.071Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jezweb%2Fclaude-skills/skills%2Fgoogle-chat-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_390ffbf67bf8"
+  }
+}

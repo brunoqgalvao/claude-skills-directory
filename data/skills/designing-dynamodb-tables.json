@@ -1,0 +1,36 @@
+{
+  "id": "designing-dynamodb-tables",
+  "name": "designing-dynamodb-tables",
+  "version": "1.0.0",
+  "summary": "Specialized skill for designing AWS DynamoDB single-table schemas with optimized access patterns. Use when modeling data, designing table structure, or optimizing DynamoDB queri...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "swapkats",
+    "github": "swapkats"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/swapkats/robin",
+    "skill_md": "https://raw.githubusercontent.com/swapkats/robin/main/skills/designing-dynamodb-tables/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.686Z",
+  "created_at": "2025-12-22T22:09:45.122Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/swapkats%2Frobin/skills%2Fdesigning-dynamodb-tables%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.686Z",
+    "uniqueId": "sk_d45508dcbc88"
+  }
+}

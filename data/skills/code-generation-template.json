@@ -1,0 +1,35 @@
+{
+  "id": "code-generation-template",
+  "name": "code-generation-template",
+  "version": "1.0.0",
+  "summary": "Generate code from templates and patterns including scaffolding, boilerplate generation, AST-based code generation, and template engines. Use when generating code, scaffolding p...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/code-generation-template/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.476Z",
+  "created_at": "2025-12-23T01:29:52.680Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fcode-generation-template%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.476Z",
+    "uniqueId": "sk_1041df88ccf8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "managing-prompts",
+  "name": "managing-prompts",
+  "version": "1.0.0",
+  "summary": "Creates, analyzes, updates, and optimizes prompts using Claude 4.5 best practices, guardrails, context management, and prompt engineering patterns. Use when user asks how to wri...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thoeltig",
+    "github": "thoeltig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thoeltig/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/thoeltig/claude-code-toolkit/main/plugins/claude-code-capabilities/skills/managing-prompts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:43.241Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thoeltig%2Fclaude-code-toolkit/plugins%2Fclaude-code-capabilities%2Fskills%2Fmanaging-prompts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_30045bf26e39"
+  }
+}

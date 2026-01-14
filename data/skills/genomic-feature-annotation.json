@@ -1,0 +1,35 @@
+{
+  "id": "genomic-feature-annotation",
+  "name": "genomic-feature-annotation",
+  "version": "1.0.0",
+  "summary": "This skill is used to perform genomic feature annotation and visualization for any file containing genomic region information using Homer (Hypergeometric Optimization of Motif E...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BIsnake2001",
+    "github": "BIsnake2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BIsnake2001/ChromSkills",
+    "skill_md": "https://raw.githubusercontent.com/BIsnake2001/ChromSkills/main/10_toolBased.genomic-feature-annotation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:09:43.202Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BIsnake2001%2FChromSkills/10_toolBased.genomic-feature-annotation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_9992f2fb2b50"
+  }
+}

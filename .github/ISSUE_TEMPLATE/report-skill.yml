@@ -1,0 +1,65 @@
+name: "Report a Skill"
+description: "Report an issue with a skill in the directory (broken, outdated, malicious, etc.)"
+title: "[Report] <Skill Name>"
+labels: ["report", "needs-review"]
+body:
+  - type: input
+    id: skill_id
+    attributes:
+      label: "Skill ID"
+      description: "The ID of the skill you're reporting (e.g., codex, legal-research-assistant)"
+      placeholder: "skill-id"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: reason
+    attributes:
+      label: "Report Reason"
+      description: "Why are you reporting this skill?"
+      options:
+        - Broken / Not Working
+        - Outdated Information
+        - Security Concern
+        - Misleading Description
+        - Duplicate Skill
+        - Spam / Low Quality
+        - Licensing Issue
+        - Other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "Description"
+      description: "Please describe the issue in detail"
+      placeholder: "The skill fails to install because..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: "Steps to Reproduce (if applicable)"
+      description: "How can we reproduce the issue?"
+      placeholder: |
+        1. Run `npx @skills/cli add skill-id`
+        2. See error...
+
+  - type: input
+    id: environment
+    attributes:
+      label: "Environment (if applicable)"
+      description: "OS, Node version, Claude Code version, etc."
+      placeholder: "macOS 14, Node 20, Claude Code 1.0.0"
+
+  - type: checkboxes
+    id: confirmation
+    attributes:
+      label: "Confirmation"
+      options:
+        - label: "I have checked the skill's repository for existing issues"
+          required: false
+        - label: "I believe this report is accurate and made in good faith"
+          required: true

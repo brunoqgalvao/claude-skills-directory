@@ -1,0 +1,36 @@
+{
+  "id": "write-model",
+  "name": "write-model",
+  "version": "1.0.0",
+  "summary": "Write database models following the Epic architecture patterns. Use when creating Active Record models for database tables with CRUD operations. Triggers on \"create a model\", \"a...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "coeus-ventures",
+    "github": "coeus-ventures"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/coeus-ventures/web-template",
+    "skill_md": "https://raw.githubusercontent.com/coeus-ventures/web-template/main/.claude/skills/write-model/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.521Z",
+  "created_at": "2025-12-23T01:29:09.536Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/coeus-ventures%2Fweb-template/.claude%2Fskills%2Fwrite-model%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.521Z",
+    "uniqueId": "sk_34a8ac7de917"
+  }
+}

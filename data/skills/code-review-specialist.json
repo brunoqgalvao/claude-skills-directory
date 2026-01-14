@@ -1,0 +1,35 @@
+{
+  "id": "code-review-specialist",
+  "name": "code-review-specialist",
+  "version": "1.0.0",
+  "summary": "Comprehensive code review with security, performance, and quality analysis. Use when users ask to review code, analyze code quality, evaluate pull requests, or mention code revi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "luongnv89",
+    "github": "luongnv89"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/luongnv89/claude-howto",
+    "skill_md": "https://raw.githubusercontent.com/luongnv89/claude-howto/main/03-skills/code-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:55.770Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/luongnv89%2Fclaude-howto/03-skills%2Fcode-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_6173c9615b66"
+  }
+}

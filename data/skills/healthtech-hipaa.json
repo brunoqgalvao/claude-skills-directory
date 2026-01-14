@@ -1,0 +1,35 @@
+{
+  "id": "healthtech-hipaa",
+  "name": "healthtech-hipaa",
+  "version": "1.0.0",
+  "summary": "HIPAA establishes national standards for protecting patient health information (PHI). Enforced by HHS Office for Civil Rights.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "williamzujkowski",
+    "github": "williamzujkowski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/williamzujkowski/standards",
+    "skill_md": "https://raw.githubusercontent.com/williamzujkowski/standards/main/skills/compliance/healthtech/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:29.040Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/williamzujkowski%2Fstandards/skills%2Fcompliance%2Fhealthtech%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_d6d561a45517"
+  }
+}

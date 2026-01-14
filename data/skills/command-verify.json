@@ -1,0 +1,35 @@
+{
+  "id": "command-verify",
+  "name": "command-verify",
+  "version": "1.0.0",
+  "summary": "Intelligent command verification for documentation. Discovers all commands in markdown files, validates them using git diff-based cache invalidation, and ensures documentation a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-oit",
+    "github": "d-oit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-oit/command-verify",
+    "skill_md": "https://raw.githubusercontent.com/d-oit/command-verify/main/.claude/skills/command-verify/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T17:35:52.000Z",
+  "created_at": "2025-12-23T01:29:27.406Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-oit%2Fcommand-verify/.claude%2Fskills%2Fcommand-verify%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_cf4d26fac604"
+  }
+}

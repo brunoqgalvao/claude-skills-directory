@@ -1,0 +1,36 @@
+{
+  "id": "hetzner-cluster",
+  "name": "hetzner-cluster",
+  "version": "1.0.0",
+  "summary": "Toolkit for creating and managing server clusters on Hetzner Cloud using Terraform. Use this skill when users request deploying VMs, creating test infrastructure, or setting up ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rcoder",
+    "github": "rcoder"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rcoder/cs-toolbox",
+    "skill_md": "https://raw.githubusercontent.com/rcoder/cs-toolbox/main/.claude/skills/hetzner-cluster/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T18:14:41.000Z",
+  "created_at": "2025-12-23T01:29:44.755Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rcoder%2Fcs-toolbox/.claude%2Fskills%2Fhetzner-cluster%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_699c813a0351"
+  }
+}

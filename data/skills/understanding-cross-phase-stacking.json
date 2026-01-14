@@ -1,0 +1,35 @@
+{
+  "id": "understanding-cross-phase-stacking",
+  "name": "understanding-cross-phase-stacking",
+  "version": "1.0.0",
+  "summary": "Use before starting any new phase - explains how sequential and parallel phases automatically chain together through base branch inheritance (main worktree tracks progress, para...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arittr",
+    "github": "arittr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arittr/spectacular",
+    "skill_md": "https://raw.githubusercontent.com/arittr/spectacular/main/skills/understanding-cross-phase-stacking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:16.368Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arittr%2Fspectacular/skills%2Funderstanding-cross-phase-stacking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_74f3a3a9f6b9"
+  }
+}

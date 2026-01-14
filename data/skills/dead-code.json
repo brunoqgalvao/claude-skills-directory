@@ -1,0 +1,37 @@
+{
+  "id": "dead-code",
+  "name": "dead-code",
+  "version": "1.0.0",
+  "summary": "Find and remove unused code added in the current branch. Use when asked to find dead code, remove unused functions, clean up unreferenced code, or check for orphaned controllers...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "franchiseai",
+    "github": "franchiseai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/franchiseai/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/franchiseai/claude-code-plugins/main/plugins/dead-code/skills/dead-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T14:56:14.000Z",
+  "created_at": "2025-12-22T15:52:16.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/franchiseai%2Fclaude-code-plugins/plugins%2Fdead-code%2Fskills%2Fdead-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_27fd8568a77d"
+  }
+}

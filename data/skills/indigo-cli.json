@@ -1,0 +1,35 @@
+{
+  "id": "indigo-cli",
+  "name": "indigo-cli",
+  "version": "1.0.0",
+  "summary": "Supplement unit tests, and compare behavior with Kakoune, by running the full editor and executing keys via the CLI.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evanrelf",
+    "github": "evanrelf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evanrelf/indigo",
+    "skill_md": "https://raw.githubusercontent.com/evanrelf/indigo/main/.claude/skills/indigo-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T01:28:08.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evanrelf%2Findigo/.claude%2Fskills%2Findigo-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_021ffa1dc9e3"
+  }
+}

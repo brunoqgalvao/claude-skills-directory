@@ -1,0 +1,36 @@
+{
+  "id": "api-contracts",
+  "name": "api-contracts",
+  "version": "1.0.0",
+  "summary": "Sync API contracts between FastAPI backend and React frontend. Triggers on \"sync api\", \"update contracts\", \"generate types\", \"оновити контракти\", \"згенерувати типи\", or when bac...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djimontyp",
+    "github": "djimontyp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djimontyp/task-tracker",
+    "skill_md": "https://raw.githubusercontent.com/djimontyp/task-tracker/main/.claude/skills/api-contracts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:38.166Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djimontyp%2Ftask-tracker/.claude%2Fskills%2Fapi-contracts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_434a9139634a"
+  }
+}

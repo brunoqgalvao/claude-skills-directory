@@ -1,0 +1,37 @@
+{
+  "id": "sap-btp-business-application-studio",
+  "name": "sap-btp-business-application-studio",
+  "version": "1.0.0",
+  "summary": "This skill provides comprehensive guidance for SAP Business Application Studio (BAS), the cloud-based IDE on SAP BTP built on Code-OSS. Use when setting up BAS subscriptions, cr...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "secondsky",
+    "github": "secondsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/secondsky/sap-skills",
+    "skill_md": "https://raw.githubusercontent.com/secondsky/sap-skills/main/skills/sap-btp-business-application-studio/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:57.188Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/secondsky%2Fsap-skills/skills%2Fsap-btp-business-application-studio%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_4e1df91bdf13"
+  }
+}

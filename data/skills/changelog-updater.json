@@ -1,0 +1,35 @@
+{
+  "id": "changelog-updater",
+  "name": "changelog-updater",
+  "version": "1.0.0",
+  "summary": "Auto-update CHANGELOG.md following Keep a Changelog format.\nLOAD THIS SKILL WHEN: User mentions \"changelog\", \"version\", \"release notes\" | says \"更新日誌\", \"版本\", \"變更記錄\" | before rele...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "u9401066",
+    "github": "u9401066"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/u9401066/copilot-capability-manager",
+    "skill_md": "https://raw.githubusercontent.com/u9401066/copilot-capability-manager/main/.claude/skills/changelog-updater/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:57:04.695Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/u9401066%2Fcopilot-capability-manager/.claude%2Fskills%2Fchangelog-updater%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_bf53f39c0548"
+  }
+}

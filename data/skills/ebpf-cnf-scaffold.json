@@ -1,0 +1,36 @@
+{
+  "id": "ebpf-cnf-scaffold",
+  "name": "ebpf-cnf-scaffold",
+  "version": "1.0.0",
+  "summary": "Scaffold new eBPF-based Cloud Native Network Function (CNF) projects with proper directory structure, boilerplate C kernel code, Go userspace application, bpf2go generation, and...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cassamajor",
+    "github": "cassamajor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cassamajor/xcnf",
+    "skill_md": "https://raw.githubusercontent.com/cassamajor/xcnf/main/.claude/skills/ebpf-cnf-scaffold/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T06:22:50.000Z",
+  "created_at": "2025-12-23T01:29:21.330Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cassamajor%2Fxcnf/.claude%2Fskills%2Febpf-cnf-scaffold%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_0cadea469ff1"
+  }
+}

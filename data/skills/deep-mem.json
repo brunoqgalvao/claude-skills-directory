@@ -1,0 +1,35 @@
+{
+  "id": "deep-mem",
+  "name": "deep-mem",
+  "version": "1.0.0",
+  "summary": "Search and retrieve memories from Nowledge Mem knowledge base with progressive disclosure. This skill should be used when the user asks to search memories, recall past knowledge...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ferstar",
+    "github": "ferstar"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ferstar/deep-mem",
+    "skill_md": "https://raw.githubusercontent.com/ferstar/deep-mem/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:51:42.637Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ferstar%2Fdeep-mem/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_1d70801648c9"
+  }
+}

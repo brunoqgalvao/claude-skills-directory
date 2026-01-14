@@ -1,0 +1,37 @@
+{
+  "id": "nervecentre-browser-automation",
+  "name": "nervecentre-browser-automation",
+  "version": "1.0.0",
+  "summary": "Browser automation for NHS Nervecentre EPR systems using local MCP servers. Use when asked to scrape, extract, or interact with Nervecentre patient data, worklists, clinical not...",
+  "verticals": [
+    "marketing",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lukaj99",
+    "github": "lukaj99"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lukaj99/nervecentre-browser-automation",
+    "skill_md": "https://raw.githubusercontent.com/lukaj99/nervecentre-browser-automation/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:07.403Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lukaj99%2Fnervecentre-browser-automation/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_3779068120ee"
+  }
+}

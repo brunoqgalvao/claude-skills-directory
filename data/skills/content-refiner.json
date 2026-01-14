@@ -1,0 +1,37 @@
+{
+  "id": "content-refiner",
+  "name": "content-refiner",
+  "version": "1.0.0",
+  "summary": "This skill should be used when refining video scripts, articles, essays, or newsletters to align with Menfem's work principles, content guidelines, and signature voices. Use whe...",
+  "verticals": [
+    "marketing",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "menfem",
+    "github": "menfem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/menfem/menfem-vercel",
+    "skill_md": "https://raw.githubusercontent.com/menfem/menfem-vercel/main/.claude/skills/content-refiner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.467Z",
+  "created_at": "2025-12-23T01:30:54.202Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/menfem%2Fmenfem-vercel/.claude%2Fskills%2Fcontent-refiner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_28699257381b"
+  }
+}

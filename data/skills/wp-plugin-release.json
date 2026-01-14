@@ -1,0 +1,37 @@
+{
+  "id": "wp-plugin-release",
+  "name": "wp-plugin-release",
+  "version": "1.0.0",
+  "summary": "Generate README.md, build.sh, and GitHub release workflows for WordPress plugins. Activate when creating release infrastructure for a WordPress plugin, setting up distribution p...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanonn",
+    "github": "nathanonn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanonn/abilities-api-internal-links",
+    "skill_md": "https://raw.githubusercontent.com/nathanonn/abilities-api-internal-links/main/.claude/skills/wp-plugin-release/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T08:38:16.000Z",
+  "created_at": "2025-12-23T01:29:00.751Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanonn%2Fabilities-api-internal-links/.claude%2Fskills%2Fwp-plugin-release%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.531Z",
+    "uniqueId": "sk_1a4f4894cbd6"
+  }
+}

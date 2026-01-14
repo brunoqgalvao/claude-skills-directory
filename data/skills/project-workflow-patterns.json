@@ -1,0 +1,36 @@
+{
+  "id": "project-workflow-patterns",
+  "name": "project-workflow-patterns",
+  "version": "1.0.0",
+  "summary": "Common GitHub Projects workflow patterns and best practices for team collaboration. Use when designing workflows, setting up new projects, or optimizing existing processes.",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yebot",
+    "github": "yebot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yebot/rad-cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/yebot/rad-cc-plugins/main/plugins/github-project-manager/skills/project-workflow-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.490Z",
+  "created_at": "2025-12-23T01:29:33.791Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yebot%2Frad-cc-plugins/plugins%2Fgithub-project-manager%2Fskills%2Fproject-workflow-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_1d959ec980d0"
+  }
+}

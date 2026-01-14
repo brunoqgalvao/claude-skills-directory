@@ -1,0 +1,36 @@
+{
+  "id": "migrations-api-reference",
+  "name": "migrations-api-reference",
+  "version": "1.0.0",
+  "summary": "Use when working with database migrations in pgdbm - provides complete AsyncMigrationManager API with all methods and migration file format",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "juanre",
+    "github": "juanre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/juanre/pgdbm",
+    "skill_md": "https://raw.githubusercontent.com/juanre/pgdbm/main/skills/migrations-api-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:46.405Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanre%2Fpgdbm/skills%2Fmigrations-api-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_8841d9973739"
+  }
+}

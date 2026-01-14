@@ -1,0 +1,36 @@
+{
+  "id": "home-assistant-api",
+  "name": "home-assistant-api",
+  "version": "1.0.0",
+  "summary": "Orchestrates access to the Home Assistant REST API for programmatic control of smart home devices. Routes requests to specialized resource files based on task type - authenticat...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "markpitt",
+    "github": "markpitt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/markpitt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/markpitt/claude-skills/main/skills/home-assistant-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.684Z",
+  "created_at": "2025-12-22T22:10:12.737Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/markpitt%2Fclaude-skills/skills%2Fhome-assistant-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.684Z",
+    "uniqueId": "sk_4f6a2406a4df"
+  }
+}

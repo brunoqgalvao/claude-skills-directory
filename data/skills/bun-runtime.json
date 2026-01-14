@@ -1,0 +1,36 @@
+{
+  "id": "bun-runtime",
+  "name": "bun-runtime",
+  "version": "1.0.0",
+  "summary": "Master Bun runtime workflows for full-stack development. Monorepos, bunx, lockfiles, performance optimization, and integration patterns.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanvale",
+    "github": "nathanvale"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanvale/side-quest-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/nathanvale/side-quest-marketplace/main/plugins/dev-toolkit/skills/bun-runtime/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:15.121Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanvale%2Fside-quest-marketplace/plugins%2Fdev-toolkit%2Fskills%2Fbun-runtime%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_0e8a8bdd8a55"
+  }
+}

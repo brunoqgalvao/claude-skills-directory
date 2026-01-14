@@ -1,0 +1,35 @@
+{
+  "id": "mechinterp-overview",
+  "name": "mechinterp-overview",
+  "version": "1.0.0",
+  "summary": "Quick \"first look\" overview of SAE features - top tokens, activation stats, weapons, families, sample contexts",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cesaregarza",
+    "github": "cesaregarza"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cesaregarza/SplatNLP",
+    "skill_md": "https://raw.githubusercontent.com/cesaregarza/SplatNLP/main/.claude/skills/mechinterp-overview/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.483Z",
+  "created_at": "2025-12-23T01:29:40.844Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cesaregarza%2FSplatNLP/.claude%2Fskills%2Fmechinterp-overview%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.483Z",
+    "uniqueId": "sk_fa626727d898"
+  }
+}

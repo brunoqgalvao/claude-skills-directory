@@ -1,0 +1,35 @@
+{
+  "id": "apple-mail",
+  "name": "apple-mail",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for accessing and automating Apple Mail using AppleScript, including reading emails, sending messages, and managing mailboxes.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BfdCampos",
+    "github": "BfdCampos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BfdCampos/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/BfdCampos/dotfiles/main/claude/skills/apple-mail/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:28.545Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BfdCampos%2Fdotfiles/claude%2Fskills%2Fapple-mail%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_0a26c17bffae"
+  }
+}

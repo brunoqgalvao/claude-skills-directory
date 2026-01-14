@@ -1,0 +1,35 @@
+{
+  "id": "paper-translate",
+  "name": "paper-translate",
+  "version": "1.0.0",
+  "summary": "論文PDFをページ単位で画像化・テキスト抽出・和訳し、メモに出力するスキル。さらに章ごとの要約と新規性分析も自動生成。ユーザーが「論文を翻訳して」「PDFをページごとに翻訳」「この論文を日本語にして」などと指示した時に使用。ClaudeCLIを使って各ページのテキストを和訳する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishir0",
+    "github": "daishir0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishir0/Papernote",
+    "skill_md": "https://raw.githubusercontent.com/daishir0/Papernote/main/.claude/skills/paper-translate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:15:39.321Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishir0%2FPapernote/.claude%2Fskills%2Fpaper-translate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_d21863ba983e"
+  }
+}

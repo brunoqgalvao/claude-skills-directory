@@ -1,0 +1,36 @@
+{
+  "id": "dev-workflow-planning",
+  "name": "dev-workflow-planning",
+  "version": "1.0.0",
+  "summary": "Structured development workflows using /brainstorm, /write-plan, and /execute-plan patterns. Transform ad-hoc conversations into systematic project execution with hypothesis-dri...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vasilyu1983",
+    "github": "vasilyu1983"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vasilyu1983/AI-Agents-public",
+    "skill_md": "https://raw.githubusercontent.com/vasilyu1983/AI-Agents-public/main/frameworks/claude-code-kit/framework/skills/dev-workflow-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T09:33:13.000Z",
+  "created_at": "2025-12-23T01:29:04.657Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vasilyu1983%2FAI-Agents-public/frameworks%2Fclaude-code-kit%2Fframework%2Fskills%2Fdev-workflow-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_dab35b2c3fd6"
+  }
+}

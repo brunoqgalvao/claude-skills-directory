@@ -1,0 +1,35 @@
+{
+  "id": "sqlite-agent-amplification",
+  "name": "sqlite-agent-amplification",
+  "version": "1.0.0",
+  "summary": "Dynamically create tools and consult peer agents for enhanced capabilities",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codetalcott",
+    "github": "codetalcott"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codetalcott/fixiplug",
+    "skill_md": "https://raw.githubusercontent.com/codetalcott/fixiplug/main/.claude/skills/sqlite-agent-amplification/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:08:58.091Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codetalcott%2Ffixiplug/.claude%2Fskills%2Fsqlite-agent-amplification%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_3da1a43ecb39"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "uikit-animation-debugging",
+  "name": "uikit-animation-debugging",
+  "version": "1.0.0",
+  "summary": "Use when CAAnimation completion handler doesn't fire, spring physics look wrong on device, animation duration mismatches actual time, gesture + animation interaction causes jank...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CharlesWiltgen",
+    "github": "CharlesWiltgen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CharlesWiltgen/Axiom",
+    "skill_md": "https://raw.githubusercontent.com/CharlesWiltgen/Axiom/main/.claude-plugin/plugins/axiom/skills/uikit-animation-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.645Z",
+  "created_at": "2025-12-22T23:04:24.500Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CharlesWiltgen%2FAxiom/.claude-plugin%2Fplugins%2Faxiom%2Fskills%2Fuikit-animation-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.645Z",
+    "uniqueId": "sk_caffc96dc7c3"
+  }
+}

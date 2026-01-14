@@ -1,0 +1,35 @@
+{
+  "id": "quantum-research",
+  "name": "quantum-research",
+  "version": "1.0.0",
+  "summary": "Comprehensive research combining web search, quantum analysis, and persistent memory. Use when researching topics that need current information plus deep cognitive analysis.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ExpressedAi",
+    "github": "ExpressedAi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ExpressedAi/Cli",
+    "skill_md": "https://raw.githubusercontent.com/ExpressedAi/Cli/main/.claude/skills/quantum-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:28.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ExpressedAi%2FCli/.claude%2Fskills%2Fquantum-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_f341c1ef2255"
+  }
+}

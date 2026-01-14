@@ -1,0 +1,35 @@
+{
+  "id": "materials-databases",
+  "name": "materials-databases",
+  "version": "1.0.0",
+  "summary": "Expert assistant for accessing materials databases (AFLOW and Materials Project) - query crystal structures, materials properties, thermodynamic data, and computational results ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkitchin",
+    "github": "jkitchin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkitchin/skillz",
+    "skill_md": "https://raw.githubusercontent.com/jkitchin/skillz/main/skills/research/materials-databases/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:52.479Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkitchin%2Fskillz/skills%2Fresearch%2Fmaterials-databases%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_953cdc8965f4"
+  }
+}

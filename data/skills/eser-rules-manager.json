@@ -1,0 +1,35 @@
+{
+  "id": "eser-rules-manager",
+  "name": "eser-rules-manager",
+  "version": "1.0.0",
+  "summary": "Manages development practice rules. Use when user states a preference, practice, or approach to add as a rule. Also use when user asks to add, modify, or categorize rules coveri...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eser",
+    "github": "eser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eser/stack",
+    "skill_md": "https://raw.githubusercontent.com/eser/stack/main/.claude/skills/eser-rules-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.575Z",
+  "created_at": "2025-12-23T01:28:26.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eser%2Fstack/.claude%2Fskills%2Feser-rules-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_097e46360f63"
+  }
+}

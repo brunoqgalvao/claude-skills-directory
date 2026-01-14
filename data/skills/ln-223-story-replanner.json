@@ -1,0 +1,37 @@
+{
+  "id": "ln-223-story-replanner",
+  "name": "ln-223-story-replanner",
+  "version": "1.0.0",
+  "summary": "Replans Stories when Epic requirements change. Compares IDEAL vs existing, categorizes operations (KEEP/UPDATE/OBSOLETE/CREATE), executes in Linear.",
+  "verticals": [
+    "sales",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-223-story-replanner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.768Z",
+  "created_at": "2025-12-22T20:04:18.847Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-223-story-replanner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_1c72c17e3cc2"
+  }
+}

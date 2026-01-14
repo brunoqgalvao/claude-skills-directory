@@ -1,0 +1,37 @@
+{
+  "id": "variant-consistency-checker",
+  "name": "variant-consistency-checker",
+  "version": "1.0.0",
+  "summary": "[Design System] Validate UI component usage against design system specifications. Use when (1) checking component variants/sizes are valid, (2) verifying required props are pres...",
+  "verticals": [
+    "legal",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CANTAGESTUDIO",
+    "github": "CANTAGESTUDIO"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CANTAGESTUDIO/CosmicAtlasPacker",
+    "skill_md": "https://raw.githubusercontent.com/CANTAGESTUDIO/CosmicAtlasPacker/main/.factory/skills/variant-consistency-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:12.181Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CANTAGESTUDIO%2FCosmicAtlasPacker/.factory%2Fskills%2Fvariant-consistency-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_4b4434c8fead"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pulumi-esc",
+  "name": "pulumi-esc",
+  "version": "1.0.0",
+  "summary": "Pulumi ESC patterns for hybrid OIDC architecture. GitHub OIDC for AWS identity, ESC for config via pulumi-stacks and aws-secrets providers.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aitchwhy",
+    "github": "aitchwhy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aitchwhy/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/aitchwhy/dotfiles/main/config/agents/skills/pulumi-esc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:09:45.132Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aitchwhy%2Fdotfiles/config%2Fagents%2Fskills%2Fpulumi-esc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_1c9b9fbcf64e"
+  }
+}

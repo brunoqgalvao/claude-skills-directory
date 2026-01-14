@@ -1,0 +1,35 @@
+{
+  "id": "security-fixer",
+  "name": "security-fixer",
+  "version": "1.0.0",
+  "summary": "Use when generating security patches, fixing vulnerabilities, or creating code remediation for security findings. Invoked for automated fix generation, patch creation, and vulne...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoley",
+    "github": "jpoley"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoley/flowspec",
+    "skill_md": "https://raw.githubusercontent.com/jpoley/flowspec/main/.claude/skills/security-fixer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T21:37:58.000Z",
+  "created_at": "2025-12-22T20:57:56.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoley%2Fflowspec/.claude%2Fskills%2Fsecurity-fixer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_fd5699993553"
+  }
+}

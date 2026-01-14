@@ -1,0 +1,35 @@
+{
+  "id": "reinvoke-agent-fixes",
+  "name": "reinvoke-agent-fixes",
+  "version": "1.0.0",
+  "summary": "Re-invoke agents to fix issues found during validation (style, tests, logic)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cowwoc",
+    "github": "cowwoc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cowwoc/styler",
+    "skill_md": "https://raw.githubusercontent.com/cowwoc/styler/main/.claude/skills/reinvoke-agent-fixes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:10.477Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cowwoc%2Fstyler/.claude%2Fskills%2Freinvoke-agent-fixes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_8f13facd6373"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "chronicle-project-tracker",
+  "name": "chronicle-project-tracker",
+  "version": "1.0.0",
+  "summary": "Manage Chronicle project development using database-tracked milestones, next steps, and roadmap visualization. Works with MCP tools (fast, structured) or CLI commands (portable)...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChandlerHardy",
+    "github": "ChandlerHardy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChandlerHardy/chronicle",
+    "skill_md": "https://raw.githubusercontent.com/ChandlerHardy/chronicle/main/chronicle-skills/chronicle-project-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:01.562Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChandlerHardy%2Fchronicle/chronicle-skills%2Fchronicle-project-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_b6be137ef2ba"
+  }
+}

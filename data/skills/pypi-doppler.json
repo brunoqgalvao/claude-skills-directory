@@ -1,0 +1,35 @@
+{
+  "id": "pypi-doppler",
+  "name": "pypi-doppler",
+  "version": "1.0.0",
+  "summary": "LOCAL-ONLY PyPI publishing with Doppler credential management. Use when publishing to PyPI from LOCAL machine ONLY. NEVER use in CI/CD pipelines. Workspace-wide policy enforces ...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/itp/skills/pypi-doppler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.676Z",
+  "created_at": "2025-12-22T22:12:52.867Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fitp%2Fskills%2Fpypi-doppler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.676Z",
+    "uniqueId": "sk_ba74728c2b1d"
+  }
+}

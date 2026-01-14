@@ -1,0 +1,36 @@
+{
+  "id": "learning-system",
+  "name": "learning-system",
+  "version": "1.0.0",
+  "summary": "Process learning resources from markdown files, extract content, identify clusters, and create Ship-Learn-Next learning paths",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tolgaio",
+    "github": "tolgaio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tolgaio/neo",
+    "skill_md": "https://raw.githubusercontent.com/tolgaio/neo/main/skills/learning-system/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.772Z",
+  "created_at": "2025-12-22T20:00:19.392Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tolgaio%2Fneo/skills%2Flearning-system%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_9f5223e72615"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "charting-vega-lite",
+  "name": "charting-vega-lite",
+  "version": "1.0.0",
+  "summary": "Create interactive data visualizations using Vega-Lite declarative JSON grammar. Supports 20+ chart types (bar, line, scatter, histogram, boxplot, grouped/stacked variations, et...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oaustegard",
+    "github": "oaustegard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oaustegard/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/charting-vega-lite/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T04:19:45.000Z",
+  "created_at": "2025-12-23T01:29:25.259Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oaustegard%2Fclaude-skills/charting-vega-lite%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.501Z",
+    "uniqueId": "sk_faaf5d8bafec"
+  }
+}

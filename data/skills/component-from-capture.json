@@ -1,0 +1,35 @@
+{
+  "id": "component-from-capture",
+  "name": "component-from-capture",
+  "version": "1.0.0",
+  "summary": "画像キャプチャ（直接貼り付けまたはファイルパス指定）から既存のWindows Forms風Astroコンポーネントを組み合わせて画面ページを自動生成します。UIデザインを解析し、レイアウト、色、サイズ、テキストを再現した画面を作成します。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/windows-design-astro-components",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/windows-design-astro-components/main/.claude/skills/component-from-capture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.467Z",
+  "created_at": "2025-12-23T01:30:54.209Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fwindows-design-astro-components/.claude%2Fskills%2Fcomponent-from-capture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_4181e59979ec"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "managing-database-migrations",
+  "name": "managing-database-migrations",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to manage database schema changes through version-controlled migrations. It is activated when the user requests to create, apply, or rollback database ...",
+  "verticals": [
+    "support",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/database/database-migration-manager/skills/database-migration-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T07:07:39.000Z",
+  "created_at": "2025-12-22T15:55:04.869Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskills-migration-20251108-070147%2Fplugins%2Fdatabase%2Fdatabase-migration-manager%2Fskills%2Fdatabase-migration-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_571af235579f"
+  }
+}

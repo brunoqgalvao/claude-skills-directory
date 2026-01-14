@@ -1,0 +1,36 @@
+{
+  "id": "sitrep-coordinator",
+  "name": "sitrep-coordinator",
+  "version": "1.0.0",
+  "summary": "Military-style Situation Report (SITREP) generation for multi-agent coordination. Creates structured status updates with completed/in-progress/blocked sections, authorization co...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hummbl-dev",
+    "github": "hummbl-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hummbl-dev/HUMMBL-Unified-Tier-Framework",
+    "skill_md": "https://raw.githubusercontent.com/hummbl-dev/HUMMBL-Unified-Tier-Framework/main/sitrep-coordinator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.654Z",
+  "created_at": "2025-12-22T23:02:15.088Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hummbl-dev%2FHUMMBL-Unified-Tier-Framework/sitrep-coordinator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.654Z",
+    "uniqueId": "sk_bdc9a8ed1439"
+  }
+}

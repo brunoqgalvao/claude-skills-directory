@@ -1,0 +1,37 @@
+{
+  "id": "subagent-factory",
+  "name": "subagent-factory",
+  "version": "1.0.0",
+  "summary": "Create specialized Claude Code agents on-the-fly. Guides through agent definition file creation with proper frontmatter, effective prompts, and tool scoping. USE WHEN user says ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AaronAbuUsama",
+    "github": "AaronAbuUsama"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AaronAbuUsama/alpha-arena",
+    "skill_md": "https://raw.githubusercontent.com/AaronAbuUsama/alpha-arena/main/.claude/skills/subagent-factory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:53.924Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AaronAbuUsama%2Falpha-arena/.claude%2Fskills%2Fsubagent-factory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_5a42ece46db1"
+  }
+}

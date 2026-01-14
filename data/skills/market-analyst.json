@@ -1,0 +1,35 @@
+{
+  "id": "market-analyst",
+  "name": "market-analyst",
+  "version": "1.0.0",
+  "summary": "Synthesize multiple sentiment analyses to identify market trends, gaps, opportunities, and predict likely hits. Cross-analyzes patterns to find underserved markets and highlight...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "natea",
+    "github": "natea"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/natea/fitfinder",
+    "skill_md": "https://raw.githubusercontent.com/natea/fitfinder/main/.claude/skills/market-analyst/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:57:50.798Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/natea%2Ffitfinder/.claude%2Fskills%2Fmarket-analyst%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_12cd934f625b"
+  }
+}

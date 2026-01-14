@@ -1,0 +1,35 @@
+{
+  "id": "feature-spec-author",
+  "name": "feature-spec-author",
+  "version": "1.0.0",
+  "summary": "Draft detailed engineering specs from an approved PRD. Use when generating or updating the engineering specification for a feature, before implementation begins.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pcortes",
+    "github": "pcortes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pcortes/swarm-attack",
+    "skill_md": "https://raw.githubusercontent.com/pcortes/swarm-attack/main/default-skills/feature-spec-author/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T21:36:33.000Z",
+  "created_at": "2025-12-22T16:57:00.467Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pcortes%2Fswarm-attack/default-skills%2Ffeature-spec-author%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_011211f9ad5a"
+  }
+}

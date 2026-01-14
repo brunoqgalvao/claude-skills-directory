@@ -1,0 +1,35 @@
+{
+  "id": "issue-management",
+  "name": "issue-management",
+  "version": "1.0.0",
+  "summary": "Work with GitHub issues - create, list, update, comment, and search issues using gh CLI",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nice-Wolf-Studio",
+    "github": "Nice-Wolf-Studio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nice-Wolf-Studio/agent-github-skills",
+    "skill_md": "https://raw.githubusercontent.com/Nice-Wolf-Studio/agent-github-skills/main/skills/issue-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:15.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nice-Wolf-Studio%2Fagent-github-skills/skills%2Fissue-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_176c3b6858dc"
+  }
+}

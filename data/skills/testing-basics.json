@@ -1,0 +1,35 @@
+{
+  "id": "testing-basics",
+  "name": "testing-basics",
+  "version": "1.0.0",
+  "summary": "Essential testing patterns for any project.\nUse when: writing tests, setting up testing, or fixing test issues.\nTriggers: \"test\", \"testing\", \"unit test\", \"write tests\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/vibe-coder/skills/testing-basics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:07.389Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/vibe-coder%2Fskills%2Ftesting-basics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_9c9789a15e08"
+  }
+}

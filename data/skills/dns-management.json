@@ -1,0 +1,35 @@
+{
+  "id": "dns-management",
+  "name": "dns-management",
+  "version": "1.0.0",
+  "summary": "Manage DNS records, routing policies, and failover configurations for high availability and disaster recovery.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/dns-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:28.244Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fdns-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_5c191259daeb"
+  }
+}

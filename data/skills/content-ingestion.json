@@ -1,0 +1,35 @@
+{
+  "id": "content-ingestion",
+  "name": "content-ingestion",
+  "version": "1.0.0",
+  "summary": "Ingest web content into Kurt. Map sitemaps to discover URLs, then fetch content selectively.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "boringdata",
+    "github": "boringdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/boringdata/kurt-demo",
+    "skill_md": "https://raw.githubusercontent.com/boringdata/kurt-demo/main/_archived/ingest-content-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:54.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/boringdata%2Fkurt-demo/_archived%2Fingest-content-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_af19e651a087"
+  }
+}

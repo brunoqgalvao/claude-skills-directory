@@ -1,0 +1,35 @@
+{
+  "id": "github-stats",
+  "name": "github-stats",
+  "version": "1.0.0",
+  "summary": "Get GitHub repository statistics including stars, forks, and watchers",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-cookbooks/main/111-daily-data-report/daily-report-volume/skills/github-stats/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:55.563Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-cookbooks/111-daily-data-report%2Fdaily-report-volume%2Fskills%2Fgithub-stats%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_b72cad33f9d0"
+  }
+}

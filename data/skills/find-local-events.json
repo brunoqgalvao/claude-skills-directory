@@ -1,0 +1,35 @@
+{
+  "id": "find-local-events",
+  "name": "find-local-events",
+  "version": "1.0.0",
+  "summary": "Search for local events, activities, and happenings in a specified location and timeframe. Use when the user asks about events, concerts, festivals, meetups, or things to do in ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tnez",
+    "github": "tnez"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tnez/dot-agents",
+    "skill_md": "https://raw.githubusercontent.com/tnez/dot-agents/main/skills/examples/find-local-events/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:13.217Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tnez%2Fdot-agents/skills%2Fexamples%2Ffind-local-events%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_b0ff6f1948f4"
+  }
+}

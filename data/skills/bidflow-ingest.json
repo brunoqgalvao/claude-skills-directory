@@ -1,0 +1,35 @@
+{
+  "id": "bidflow-ingest",
+  "name": "bidflow-ingest",
+  "version": "1.0.0",
+  "summary": "V2 데이터 수집 파이프라인 - TED/SAM.gov API 연동, 공고 수집, 정규화, DB 저장. 수집/인제스트/커넥터 관련 작업 시 자동 호출",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sihu-dev",
+    "github": "sihu-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sihu-dev/bidflow",
+    "skill_md": "https://raw.githubusercontent.com/sihu-dev/bidflow/main/.claude/skills/bidflow-ingest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:53:59.763Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sihu-dev%2Fbidflow/.claude%2Fskills%2Fbidflow-ingest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_9d9c9e68c417"
+  }
+}

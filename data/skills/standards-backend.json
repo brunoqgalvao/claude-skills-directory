@@ -1,0 +1,37 @@
+{
+  "id": "standards-backend",
+  "name": "standards-backend",
+  "version": "1.0.0",
+  "summary": "Backend standards for modern TypeScript applications covering Convex, Supabase, Drizzle ORM, Stripe, tRPC, and API design patterns. Load when implementing server-side code, data...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "korallis",
+    "github": "korallis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/korallis/Amp-OS",
+    "skill_md": "https://raw.githubusercontent.com/korallis/Amp-OS/main/profiles/default/skills/standards-backend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:54:34.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/korallis%2FAmp-OS/profiles%2Fdefault%2Fskills%2Fstandards-backend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_80a82dacca6a"
+  }
+}

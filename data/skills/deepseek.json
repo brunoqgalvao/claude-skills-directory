@@ -1,0 +1,35 @@
+{
+  "id": "deepseek",
+  "name": "deepseek",
+  "version": "1.0.0",
+  "summary": "DeepSeek AI large language model API via curl. Use this skill for chat completions, reasoning, and code generation with OpenAI-compatible endpoints.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-skills",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-skills/main/deepseek/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:06:56.774Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-skills/deepseek%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_c4c8a520fa23"
+  }
+}

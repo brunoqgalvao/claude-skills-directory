@@ -1,0 +1,37 @@
+{
+  "id": "project-indexing",
+  "name": "project-indexing",
+  "version": "1.0.0",
+  "summary": "Generates SHANNON_INDEX for 94% token reduction (58K → 3K tokens). Compresses large codebases\ninto structured summaries with Quick Stats, Tech Stack, Core Modules, Dependencies,...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/shannon-framework",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/shannon-framework/main/skills/project-indexing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.467Z",
+  "created_at": "2025-12-23T01:30:54.179Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fshannon-framework/skills%2Fproject-indexing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_651bbbc555eb"
+  }
+}

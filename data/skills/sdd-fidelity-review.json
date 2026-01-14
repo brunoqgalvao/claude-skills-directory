@@ -1,0 +1,37 @@
+{
+  "id": "sdd-fidelity-review",
+  "name": "sdd-fidelity-review",
+  "version": "1.0.0",
+  "summary": "Review implementation fidelity against specifications by comparing actual code to spec requirements. Identifies deviations, assesses impact, and generates compliance reports for...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-foundry",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-foundry/main/skills/sdd-fidelity-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T17:23:26.000Z",
+  "created_at": "2025-12-22T19:06:51.874Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-foundry/skills%2Fsdd-fidelity-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_90302aec1eaf"
+  }
+}

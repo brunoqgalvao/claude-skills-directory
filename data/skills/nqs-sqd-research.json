@@ -1,0 +1,35 @@
+{
+  "id": "nqs-sqd-research",
+  "name": "nqs-sqd-research",
+  "version": "1.0.0",
+  "summary": "Deep technical assistant for projects that combine Neural Quantum States (FFNN and Transformer-based) with Sample-based Quantum Diagonalization (SQD). Trigger this skill wheneve...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thc1006",
+    "github": "thc1006"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thc1006/nqs-sqd-transformer-lab",
+    "skill_md": "https://raw.githubusercontent.com/thc1006/nqs-sqd-transformer-lab/main/.claude/skills/nqs-sqd-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T00:19:58.000Z",
+  "created_at": "2025-12-23T01:28:47.612Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thc1006%2Fnqs-sqd-transformer-lab/.claude%2Fskills%2Fnqs-sqd-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_589fad19993a"
+  }
+}

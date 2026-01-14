@@ -1,0 +1,35 @@
+{
+  "id": "add-changeset",
+  "name": "add-changeset",
+  "version": "1.0.0",
+  "summary": "Create a changeset file for versioning and changelog generation. Use when the user asks to add a changeset, bump version, or prepare a release.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "richardgill",
+    "github": "richardgill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/richardgill/patchy",
+    "skill_md": "https://raw.githubusercontent.com/richardgill/patchy/main/.claude/skills/add-changeset/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:34.112Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/richardgill%2Fpatchy/.claude%2Fskills%2Fadd-changeset%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_b0a1dc43ae22"
+  }
+}

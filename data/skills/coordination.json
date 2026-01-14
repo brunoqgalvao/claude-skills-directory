@@ -1,0 +1,37 @@
+{
+  "id": "coordination",
+  "name": "coordination",
+  "version": "1.0.0",
+  "summary": "Advanced multi-agent coordination patterns including mesh, hierarchical, and adaptive topologies with state synchronization, consensus mechanisms, and distributed task execution...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/context-cascade",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/context-cascade/main/skills/orchestration/coordination/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.605Z",
+  "created_at": "2025-12-23T00:03:56.771Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fcontext-cascade/skills%2Forchestration%2Fcoordination%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.605Z",
+    "uniqueId": "sk_30fc04dd239f"
+  }
+}

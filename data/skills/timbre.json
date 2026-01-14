@@ -1,0 +1,35 @@
+{
+  "id": "timbre",
+  "name": "timbre",
+  "version": "1.0.0",
+  "summary": "Pure Clojure/Script logging library with flexible configuration and powerful features",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hugoduncan",
+    "github": "hugoduncan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hugoduncan/library-skills",
+    "skill_md": "https://raw.githubusercontent.com/hugoduncan/library-skills/main/plugins/clojure-libraries/skills/timbre/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:57:32.848Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hugoduncan%2Flibrary-skills/plugins%2Fclojure-libraries%2Fskills%2Ftimbre%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_b84c61a1c129"
+  }
+}

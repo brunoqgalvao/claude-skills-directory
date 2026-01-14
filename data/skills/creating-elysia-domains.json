@@ -1,0 +1,36 @@
+{
+  "id": "creating-elysia-domains",
+  "name": "creating-elysia-domains",
+  "version": "1.0.0",
+  "summary": "Creates new domain modules in the Nexus Elysia API with proper typing for Eden Treaty consumers (Dashboard, The Machine)",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "saavy1",
+    "github": "saavy1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/saavy1/sb",
+    "skill_md": "https://raw.githubusercontent.com/saavy1/sb/main/docs/.claude/skills/creating-elysia-domains/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:12.473Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/saavy1%2Fsb/docs%2F.claude%2Fskills%2Fcreating-elysia-domains%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_710cb2ce97da"
+  }
+}

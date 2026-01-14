@@ -1,0 +1,35 @@
+{
+  "id": "atmos-auth",
+  "name": "atmos-auth",
+  "version": "1.0.0",
+  "summary": "Use when authenticating with AWS via Atmos. Covers ATMOS_PROFILE setup, SSO login, and how Atmos automatically assumes the correct identity per stack. Use for authentication set...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cloudposse",
+    "github": "cloudposse"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cloudposse/docs",
+    "skill_md": "https://raw.githubusercontent.com/cloudposse/docs/main/examples/snippets/.claude/skills/atmos-auth/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:00:17.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cloudposse%2Fdocs/examples%2Fsnippets%2F.claude%2Fskills%2Fatmos-auth%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_bec23d84ec37"
+  }
+}

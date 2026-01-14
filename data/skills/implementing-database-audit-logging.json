@@ -1,0 +1,37 @@
+{
+  "id": "implementing-database-audit-logging",
+  "name": "implementing-database-audit-logging",
+  "version": "1.0.0",
+  "summary": "This skill helps implement database audit logging for tracking changes and ensuring compliance. It is triggered when the user requests to \"implement database audit logging\", \"ad...",
+  "verticals": [
+    "legal",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/backups/skills-migration-20251108-070147/plugins/database/database-audit-logger/skills/database-audit-logger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T07:07:39.000Z",
+  "created_at": "2025-12-19T19:56:44.758Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/backups%2Fskills-migration-20251108-070147%2Fplugins%2Fdatabase%2Fdatabase-audit-logger%2Fskills%2Fdatabase-audit-logger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.887Z",
+    "uniqueId": "sk_7e7b57ad1e21"
+  }
+}

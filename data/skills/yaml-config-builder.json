@@ -1,0 +1,37 @@
+{
+  "id": "yaml-config-builder",
+  "name": "yaml-config-builder",
+  "version": "1.0.0",
+  "summary": "Generate properly structured YAML configuration files for applications, services, and infrastructure with correct syntax and common patterns. Triggers on \"create YAML config\", \"...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/yaml-config-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:06.080Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/yaml-config-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_445c6cb5e701"
+  }
+}

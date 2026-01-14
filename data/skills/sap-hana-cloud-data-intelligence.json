@@ -1,0 +1,37 @@
+{
+  "id": "sap-hana-cloud-data-intelligence",
+  "name": "sap-hana-cloud-data-intelligence",
+  "version": "1.0.0",
+  "summary": "Develops data processing pipelines, integrations, and machine learning scenarios in SAP Data Intelligence Cloud. Use when building graphs/pipelines with operators, integrating A...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "secondsky",
+    "github": "secondsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/secondsky/sap-skills",
+    "skill_md": "https://raw.githubusercontent.com/secondsky/sap-skills/main/skills/sap-hana-cloud-data-intelligence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:06:59.819Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/secondsky%2Fsap-skills/skills%2Fsap-hana-cloud-data-intelligence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_e1ccc50035ab"
+  }
+}

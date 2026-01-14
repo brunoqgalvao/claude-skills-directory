@@ -1,0 +1,37 @@
+{
+  "id": "deploy-vercel",
+  "name": "deploy-vercel",
+  "version": "1.0.0",
+  "summary": "Use when deploying to Vercel - generates vercel.json, preview deployment workflows, and environment variable templates. Handles Next.js, Nuxt, SvelteKit, Astro, and static sites...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jrc1883",
+    "github": "jrc1883"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jrc1883/popkit-claude",
+    "skill_md": "https://raw.githubusercontent.com/jrc1883/popkit-claude/main/skills/pop-deploy-vercel/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:30.185Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jrc1883%2Fpopkit-claude/skills%2Fpop-deploy-vercel%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_5da5a19d0ca1"
+  }
+}

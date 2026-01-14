@@ -1,0 +1,35 @@
+{
+  "id": "ios-add-file",
+  "name": "ios-add-file",
+  "version": "1.0.0",
+  "summary": "Add a Swift file to an Xcode project without opening Xcode. Programmatically edits project.pbxproj to include the file. Use when adding new Swift files to iOS projects from comm...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asnar00",
+    "github": "asnar00"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asnar00/miso",
+    "skill_md": "https://raw.githubusercontent.com/asnar00/miso/main/.claude/skills/ios-add-file/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T15:02:23.000Z",
+  "created_at": "2025-12-22T17:51:29.678Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asnar00%2Fmiso/.claude%2Fskills%2Fios-add-file%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_70e674c03863"
+  }
+}

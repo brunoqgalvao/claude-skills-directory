@@ -1,0 +1,37 @@
+{
+  "id": "command-guide",
+  "name": "command-guide",
+  "version": "1.0.0",
+  "summary": "Workflow command guide for Claude Code Workflow (78 commands). Search/browse commands, get next-step recommendations, view documentation, report issues. Triggers \"CCW-help\", \"CC...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "catlog22",
+    "github": "catlog22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/catlog22/Claude-Code-Workflow",
+    "skill_md": "https://raw.githubusercontent.com/catlog22/Claude-Code-Workflow/main/.claude/skills/command-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:44.517Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/catlog22%2FClaude-Code-Workflow/.claude%2Fskills%2Fcommand-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_edb17e59c655"
+  }
+}

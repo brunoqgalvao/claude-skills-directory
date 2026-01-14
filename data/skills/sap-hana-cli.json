@@ -1,0 +1,37 @@
+{
+  "id": "sap-hana-cli",
+  "name": "sap-hana-cli",
+  "version": "1.0.0",
+  "summary": "Assists with SAP HANA Developer CLI (hana-cli) for database development and administration.\nUse when: installing hana-cli, connecting to SAP HANA databases, inspecting database ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "secondsky",
+    "github": "secondsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/secondsky/sap-skills",
+    "skill_md": "https://raw.githubusercontent.com/secondsky/sap-skills/main/skills/sap-hana-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.778Z",
+  "created_at": "2025-12-22T19:30:32.403Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/secondsky%2Fsap-skills/skills%2Fsap-hana-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_4e3bdb1d922d"
+  }
+}

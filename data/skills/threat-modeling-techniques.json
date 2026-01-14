@@ -1,0 +1,36 @@
+{
+  "id": "threat-modeling-techniques",
+  "name": "threat-modeling-techniques",
+  "version": "1.0.0",
+  "summary": "Threat modeling methodologies using STRIDE, attack trees, and risk assessment for proactive security analysis. Use when designing secure systems, conducting security reviews, or...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NickCrew",
+    "github": "NickCrew"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NickCrew/claude-cortex",
+    "skill_md": "https://raw.githubusercontent.com/NickCrew/claude-cortex/main/skills/threat-modeling-techniques/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.608Z",
+  "created_at": "2025-12-23T00:01:24.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NickCrew%2Fclaude-cortex/skills%2Fthreat-modeling-techniques%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.608Z",
+    "uniqueId": "sk_78e3d9d5c983"
+  }
+}

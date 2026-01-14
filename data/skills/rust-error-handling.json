@@ -1,0 +1,35 @@
+{
+  "id": "rust-error-handling",
+  "name": "rust-error-handling",
+  "version": "1.0.0",
+  "summary": "Rustでのエラー設計を、境界ごとに thiserror / anyhow を使い分けて実装する。ドメイン/ライブラリは型付きエラー(thiserror)、アプリ境界のみ anyow。context付与、unwrap禁止、HTTP/CLI変換の指針を含む。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "See2et",
+    "github": "See2et"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/See2et/bakopa-vr",
+    "skill_md": "https://raw.githubusercontent.com/See2et/bakopa-vr/main/.codex/skills/rust-error-handling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T15:46:19.000Z",
+  "created_at": "2025-12-23T01:29:02.685Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/See2et%2Fbakopa-vr/.codex%2Fskills%2Frust-error-handling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_bf321304d22f"
+  }
+}

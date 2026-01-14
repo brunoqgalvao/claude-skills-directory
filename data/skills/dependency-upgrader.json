@@ -1,0 +1,36 @@
+{
+  "id": "dependency-upgrader",
+  "name": "dependency-upgrader",
+  "version": "1.0.0",
+  "summary": "Upgrade dependencies for Java/Kotlin (Gradle/Maven) and TypeScript/Node projects with minimal risk: plan the bump, apply changes incrementally, run tests/builds, and document br...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nymbo",
+    "github": "Nymbo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nymbo/Skills",
+    "skill_md": "https://raw.githubusercontent.com/Nymbo/Skills/main/dependency-upgrader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:29.152Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nymbo%2FSkills/dependency-upgrader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_60dadf5d5668"
+  }
+}

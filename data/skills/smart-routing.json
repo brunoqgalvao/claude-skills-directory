@@ -1,0 +1,35 @@
+{
+  "id": "smart-routing",
+  "name": "smart-routing",
+  "version": "1.0.0",
+  "summary": "Intelligent request routing for /toh command. Analyzes user intent, assesses confidence, detects IDE environment, and routes to the  appropriate agent(s). Memory-first approach ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wasintoh",
+    "github": "wasintoh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wasintoh/toh-framework",
+    "skill_md": "https://raw.githubusercontent.com/wasintoh/toh-framework/main/src/skills/smart-routing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.929Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wasintoh%2Ftoh-framework/src%2Fskills%2Fsmart-routing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_6402c0af5ad3"
+  }
+}

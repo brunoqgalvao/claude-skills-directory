@@ -1,0 +1,36 @@
+{
+  "id": "cloudflare-worker-deployment",
+  "name": "cloudflare-worker-deployment",
+  "version": "1.0.0",
+  "summary": "Use this skill whenever the user wants to deploy, configure, or refine deployment of a Hono/TypeScript backend (or similar Worker) to Cloudflare Workers/Pages using Wrangler, in...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentiveCity",
+    "github": "AgentiveCity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentiveCity/SkillFactory",
+    "skill_md": "https://raw.githubusercontent.com/AgentiveCity/SkillFactory/main/.claude/skills/cloudflare-worker-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:35.855Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentiveCity%2FSkillFactory/.claude%2Fskills%2Fcloudflare-worker-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_6d6e08b92713"
+  }
+}

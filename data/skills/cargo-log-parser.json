@@ -1,0 +1,36 @@
+{
+  "id": "cargo-log-parser",
+  "name": "cargo-log-parser",
+  "version": "1.0.0",
+  "summary": "Parse and filter cargo build logs to extract errors, warnings, and diagnostics with regex-based filtering. Use when debugging Rust projects, analyzing cargo build output, filter...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matbeedotcom",
+    "github": "matbeedotcom"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matbeedotcom/cargo-log-parser",
+    "skill_md": "https://raw.githubusercontent.com/matbeedotcom/cargo-log-parser/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:37.983Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matbeedotcom%2Fcargo-log-parser/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_537d4f2755cf"
+  }
+}

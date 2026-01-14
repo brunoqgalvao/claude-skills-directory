@@ -1,0 +1,37 @@
+{
+  "id": "e2e-playwright",
+  "name": "e2e-playwright",
+  "version": "1.0.0",
+  "summary": "End-to-end browser automation and testing expert using Playwright. Tests web applications, validates user flows, captures screenshots, checks accessibility, and verifies functio...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/sw-soccer-manager",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/sw-soccer-manager/main/plugins/specweave-testing/skills/e2e-playwright/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.710Z",
+  "created_at": "2025-12-22T21:16:51.391Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fsw-soccer-manager/plugins%2Fspecweave-testing%2Fskills%2Fe2e-playwright%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.710Z",
+    "uniqueId": "sk_28de93c47886"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "setup-tagpr",
+  "name": "setup-tagpr",
+  "version": "1.0.0",
+  "summary": "Set up tagpr for automated release management in a repository. tagpr automatically creates and updates pull requests for unreleased items, tags them when merged, and creates Git...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "handlename",
+    "github": "handlename"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/handlename/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/handlename/dotfiles/main/config/claude/skills/setup-tagpr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:03:42.698Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/handlename%2Fdotfiles/config%2Fclaude%2Fskills%2Fsetup-tagpr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_c56cf92f09d9"
+  }
+}

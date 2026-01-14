@@ -1,0 +1,37 @@
+{
+  "id": "mastra-skills",
+  "name": "mastra-skills",
+  "version": "1.0.0",
+  "summary": "Use when building or working with Mastra agents - establishes best practices for agent development, tool creation, and workflow orchestration",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yuann3",
+    "github": "yuann3"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yuann3/skills",
+    "skill_md": "https://raw.githubusercontent.com/yuann3/skills/main/.claude/skills/mastra-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:31.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yuann3%2Fskills/.claude%2Fskills%2Fmastra-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_52a54a22a19e"
+  }
+}

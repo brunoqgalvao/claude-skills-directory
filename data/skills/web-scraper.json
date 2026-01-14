@@ -1,0 +1,37 @@
+{
+  "id": "web-scraper",
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to scrape content from websites, extract text from web pages, crawl and follow links, or download documentation from online sources. It...",
+  "verticals": [
+    "marketing",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Igosuki",
+    "github": "Igosuki"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Igosuki/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Igosuki/claude-skills/main/web-scraper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-21T12:25:44.000Z",
+  "created_at": "2025-12-23T01:29:36.922Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Igosuki%2Fclaude-skills/web-scraper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_5311f8c601e3"
+  }
+}

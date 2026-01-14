@@ -2,37 +2,36 @@
   "id": "brainstorming",
   "name": "brainstorming",
   "version": "1.0.0",
-  "summary": "\"You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design bef",
+  "summary": "\"You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design ...",
+  "description": "# Brainstorming Ideas Into Designs\n\n## Overview\n\nHelp turn ideas into fully formed designs and specs through natural collaborative dialogue.\n\nStart by understanding the current project context, then ask questions one at a time to refine the idea. Once you understand what you're building, present the design in small sections (200-300 words), checking after each section whether it looks right so far.\n\n## The Process\n\n**Understanding the idea:**\n- Check out the current project state first (files, docs, recent commits)\n- Ask questions one at a time to refine the idea\n- Prefer multiple choice questions when possible, but open-ended is fine too\n- Only one question per message - if a topic needs more exploration, break it into multiple questions\n- Focus on understanding: purpose, constraints, success criteria\n\n**Exploring approaches:**\n- Propose 2-3 different approaches with trade-offs\n- Present options conversationally with your recommendation and reasoning\n- Lead with your recommended option and explain why\n\n**Presenting the design:**\n- Once you believe you understand what you're building, present the design\n- Break it into sections of 200-300 words\n- Ask after each section whether it looks right so far\n- Cover: architecture, components, data flow, error handling, testing\n- Be ready to go back and clarify if something doesn't make sense\n\n## After the Design\n\n**Documentation:**\n- Write the validated design to `docs/plans/YYYY-MM-DD-<topic>-design.md`\n- Use elements-of-style:writing-clearly-and-concisely skill if available\n- Commit the design document to git\n\n**Implementation (if continuing):**\n- Ask: \"Ready to set up for implementation?\"\n- Use superpowers:using-git-worktrees to create isolated workspace\n- Use superpowers:writing-plans to create detailed implementation plan\n\n## Key Principles\n\n- **One question at a time** - Don't overwhelm with multiple questions\n- **Multiple choice preferred** - Easier to answer than open-ended when possible\n- **YAGNI ruthlessly** - Remove unnecessary features from all designs\n- **Explore alternatives** - Always propose 2-3 approaches before settling\n- **Incremental validation** - Present design in sections, validate each\n- **Be flexible** - Go back and clarify when something doesn't make sense",
   "verticals": [
-    "Design",
-    "Operations"
+    "engineering",
+    "design"
   ],
-  "tags": [
-    "brainstorming",
-    "ai"
-  ],
+  "tags": [],
   "author": {
     "name": "obra",
-    "github": "obra",
-    "avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
+    "github": "obra"
   },
   "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/obra/superpowers/tree/main/skills/brainstorming",
+    "repo": "https://github.com/obra/superpowers",
     "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/brainstorming/SKILL.md"
   },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install brainstorming"
-  },
   "stats": {
-    "stars": 13645,
-    "forks": 1125,
+    "stars": 14350,
+    "forks": 1171,
     "installs": 0
   },
-  "last_updated": "2025-12-27",
-  "created_at": "2025-10-09"
+  "last_updated": "2026-01-07T16:58:03Z",
+  "created_at": "2025-10-09T19:45:18Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/obra/superpowers/blob/main/skills/brainstorming/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_3b4b556fd323"
+  }
 }

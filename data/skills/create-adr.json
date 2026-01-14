@@ -1,0 +1,35 @@
+{
+  "id": "create-adr",
+  "name": "create-adr",
+  "version": "1.0.0",
+  "summary": "Creates a NEW Architectural Decision Record (ADR) documenting a specific architectural decision. Use when the user requests \"Create ADR for [topic]\", \"Document decision about [t...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codenamev",
+    "github": "codenamev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codenamev/ai-software-architect",
+    "skill_md": "https://raw.githubusercontent.com/codenamev/ai-software-architect/main/.claude/skills/create-adr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:43.499Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codenamev%2Fai-software-architect/.claude%2Fskills%2Fcreate-adr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_c686f1469362"
+  }
+}

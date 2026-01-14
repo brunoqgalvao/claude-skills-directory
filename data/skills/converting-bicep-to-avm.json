@@ -1,0 +1,35 @@
+{
+  "id": "converting-bicep-to-avm",
+  "name": "converting-bicep-to-avm",
+  "version": "1.0.0",
+  "summary": "Converts raw Bicep resource definitions to Azure Verified Modules (AVM). Use when user asks to convert to AVM, replace resources with modules, use verified modules, or modernize...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlokerse",
+    "github": "johnlokerse"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlokerse/azure-bicep-custom-chat-modes",
+    "skill_md": "https://raw.githubusercontent.com/johnlokerse/azure-bicep-custom-chat-modes/main/skills/converting-bicep-to-avm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:20.894Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlokerse%2Fazure-bicep-custom-chat-modes/skills%2Fconverting-bicep-to-avm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_02aaad338a15"
+  }
+}

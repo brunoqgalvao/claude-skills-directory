@@ -1,0 +1,36 @@
+{
+  "id": "reddit-content-style",
+  "name": "reddit-content-style",
+  "version": "1.0.0",
+  "summary": "Reddit writing conventions and content guidelines. Use when creating posts or comments for Reddit.",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "blueif16",
+    "github": "blueif16"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/blueif16/browser-automation-with-skills",
+    "skill_md": "https://raw.githubusercontent.com/blueif16/browser-automation-with-skills/main/.claude/plugins/reddit-automation/skills/reddit-content-style/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T01:35:13.000Z",
+  "created_at": "2025-12-23T01:28:24.428Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/blueif16%2Fbrowser-automation-with-skills/.claude%2Fplugins%2Freddit-automation%2Fskills%2Freddit-content-style%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.576Z",
+    "uniqueId": "sk_84cc209a9aea"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "direction-setting",
+  "name": "direction-setting",
+  "version": "1.0.0",
+  "summary": "킹핀 문제를 발견하고 문제해결 방향성을 Needs Statement로 정의합니다. 핵심 문제를 해결할 때 사용하세요.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cna-bootcamp",
+    "github": "cna-bootcamp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cna-bootcamp/aiguide",
+    "skill_md": "https://raw.githubusercontent.com/cna-bootcamp/aiguide/main/.claude/skills/09-direction-setting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T06:57:37.000Z",
+  "created_at": "2025-12-23T01:29:27.330Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cna-bootcamp%2Faiguide/.claude%2Fskills%2F09-direction-setting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_dfe5bdaedb1c"
+  }
+}

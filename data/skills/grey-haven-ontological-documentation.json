@@ -1,0 +1,36 @@
+{
+  "id": "grey-haven-ontological-documentation",
+  "name": "grey-haven-ontological-documentation",
+  "version": "1.0.0",
+  "summary": "Create comprehensive ontological documentation for Grey Haven systems - extract domain concepts from TanStack Start and FastAPI codebases, model semantic relationships, generate...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greyhaven-ai",
+    "github": "greyhaven-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greyhaven-ai/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/greyhaven-ai/claude-code-config/main/grey-haven-plugins/developer-experience/skills/ontological-documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.965Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greyhaven-ai%2Fclaude-code-config/grey-haven-plugins%2Fdeveloper-experience%2Fskills%2Fontological-documentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_27b934689a2f"
+  }
+}

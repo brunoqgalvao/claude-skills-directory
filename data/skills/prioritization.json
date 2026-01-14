@@ -1,0 +1,36 @@
+{
+  "id": "prioritization",
+  "name": "prioritization",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"prioritize requirements\", \"prioritize epics\", \"prioritize stories\", \"prioritize tasks\", \"prioritize backlog\", \"use MoSCoW\", \"app...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sjnims",
+    "github": "sjnims"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sjnims/requirements-expert",
+    "skill_md": "https://raw.githubusercontent.com/sjnims/requirements-expert/main/plugins/requirements-expert/skills/prioritization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:44.409Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sjnims%2Frequirements-expert/plugins%2Frequirements-expert%2Fskills%2Fprioritization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_8661ea202edf"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ontology-access-kit",
+  "name": "ontology-access-kit",
+  "version": "1.0.0",
+  "summary": "Skills for querying ontologies using the Ontology Access Kit (OAK). This should only be used for complex ontology operations, for basic external ontology searching use the OLS MCP",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ai4curation",
+    "github": "ai4curation"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ai4curation/curation-skills",
+    "skill_md": "https://raw.githubusercontent.com/ai4curation/curation-skills/main/ontology-access-kit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T00:26:11.000Z",
+  "created_at": "2025-12-23T01:28:46.882Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ai4curation%2Fcuration-skills/ontology-access-kit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_34df44cf47e6"
+  }
+}

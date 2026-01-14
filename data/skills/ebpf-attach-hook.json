@@ -1,0 +1,35 @@
+{
+  "id": "ebpf-attach-hook",
+  "name": "ebpf-attach-hook",
+  "version": "1.0.0",
+  "summary": "Implement eBPF program attachment logic for various hooks (XDP, TC/tcx, netkit, kprobe, tracepoint, cgroup) with proper error handling, cleanup, and link management. Includes Go...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cassamajor",
+    "github": "cassamajor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cassamajor/xcnf",
+    "skill_md": "https://raw.githubusercontent.com/cassamajor/xcnf/main/.claude/skills/ebpf-attach-hook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:57.074Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cassamajor%2Fxcnf/.claude%2Fskills%2Febpf-attach-hook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_7e2c1b9298f9"
+  }
+}

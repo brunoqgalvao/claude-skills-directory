@@ -1,0 +1,37 @@
+{
+  "id": "pre-dev-prd-creation",
+  "name": "pre-dev-prd-creation",
+  "version": "1.0.0",
+  "summary": "Gate 1: Business requirements document - defines WHAT/WHY before HOW.\nCreates PRD with problem definition, user stories, success metrics.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/pm-team/skills/pre-dev-prd-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:03.105Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/pm-team%2Fskills%2Fpre-dev-prd-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_3b4632537fe3"
+  }
+}

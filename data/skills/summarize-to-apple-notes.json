@@ -1,0 +1,35 @@
+{
+  "id": "summarize-to-apple-notes",
+  "name": "summarize-to-apple-notes",
+  "version": "1.0.0",
+  "summary": "Summarize conversation content and save to Apple Notes app using HTML format. Use when user asks to \"总结并保存到备忘录\", \"summarize and save to Notes\". Handles both summarization and sa...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cuiguojie",
+    "github": "cuiguojie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cuiguojie/my-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/cuiguojie/my-claude-marketplace/main/handy-toolbox/skills/summarize-to-apple-notes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:50.859Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cuiguojie%2Fmy-claude-marketplace/handy-toolbox%2Fskills%2Fsummarize-to-apple-notes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_bb8077e16d72"
+  }
+}

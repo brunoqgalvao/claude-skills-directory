@@ -1,0 +1,35 @@
+{
+  "id": "context-passport",
+  "name": "context-passport",
+  "version": "1.0.0",
+  "summary": "Solve context fragmentation across Claude sessions. Use when users mention re-explaining themselves, losing conversation context, starting over, \"you forgot,\" context loss, sess...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bree-jeune",
+    "github": "bree-jeune"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bree-jeune/context-passport",
+    "skill_md": "https://raw.githubusercontent.com/bree-jeune/context-passport/main/context-passport/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T21:39:06.000Z",
+  "created_at": "2025-12-23T01:28:31.609Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bree-jeune%2Fcontext-passport/context-passport%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_8c8a971f7f99"
+  }
+}

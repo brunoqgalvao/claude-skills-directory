@@ -1,0 +1,36 @@
+{
+  "id": "llm-icon-finder",
+  "name": "llm-icon-finder",
+  "version": "1.0.0",
+  "summary": "Finding and accessing AI/LLM model brand icons from lobe-icons library. Use when users need icon URLs, want to download brand logos for AI models/providers/applications (Claude,...",
+  "description": "# Finding AI/LLM Brand Icons\n\nAccess AI/LLM model brand icons and logos from the [lobe-icons](https://github.com/lobehub/lobe-icons) library. The library contains 100+ icons for models (Claude, GPT, Gemini), providers (OpenAI, Anthropic, Google), and applications (ComfyUI, LobeChat).\n\n## Icon Formats and Variants\n\n**Available formats**: SVG (scalable), PNG (raster), WEBP (compressed)\n**Theme variants**: light, dark, and color (some icons)\n\n## CDN URL Patterns\n\nConstruct URLs using these patterns:\n\n```\n# SVG\nhttps://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-svg/{light|dark}/{icon-name}.svg\n\n# PNG\nhttps://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/{light|dark}/{icon-name}.png\n\n# WEBP\nhttps://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-webp/{light|dark}/{icon-name}.webp\n\n# Color variant (append -color to icon-name)\nhttps://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/{icon-name}-color.png\n```\n\n**Icon naming convention**: Lowercase, hyphenated (e.g., `claude`, `chatglm`, `openai`, `huggingface`)\n\n## Workflow\n\nWhen users request icons:\n\n1. Identify icon name (usually lowercase company/model name, hyphenated if multi-word)\n2. Determine format (default: PNG) and theme (default: dark)\n3. Construct CDN URL using pattern above\n4. Provide URL to user\n5. If download requested, use Bash tool with curl\n6. Include web viewer link: `https://lobehub.com/icons/{icon-name}`\n\n## Finding Icon Names\n\n**Common icons**: See `references/icons-list.md` for comprehensive list organized by category (Models, Providers, Applications, Chinese AI)\n\n**Uncertain names**:\n- Browse https://lobehub.com/icons\n- Try variations (e.g., company name vs product name: `alibaba` vs `alibabacloud`)\n- Check for `-color` variants if standard URL fails\n\n**Chinese AI models**: Support Chinese queries (e.g., \"智谱\" → `chatglm`, \"月之暗面\" → `moonshot`)\n\n## Examples\n\n**Single icon request**:\n```\nUser: \"Claude icon\"\n→ Provide: https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/claude.png\n→ Also mention color variant and web viewer link\n```\n\n**Multiple icons download**:\n```bash\ncurl -o openai.svg \"https://raw.githubusercontent.com/lobehub/lobe-icons/.../dark/openai.svg\"\ncurl -o anthropic.svg \"https://raw.githubusercontent.com/lobehub/lobe-icons/.../dark/anthropic.svg\"\n```\n\n**Chinese query**:\n```\nUser: \"找一下智谱的图标\"\n→ Identify: 智谱 = ChatGLM → icon name: chatglm\n→ Provide URLs and mention related icons (zhipu, codegeex)\n```\n\n## Troubleshooting\n\nIf URL returns 404:\n1. Try `-color` suffix variant\n2. Check alternate naming (e.g., `chatgpt` vs `gpt`, `google` vs `gemini`)\n3. Direct user to https://lobehub.com/icons to browse\n4. Search repository: https://github.com/lobehub/lobe-icons\n\n## Reference Files\n\n- `references/icons-list.md` - Comprehensive list of 100+ available icons by category\n- `references/developer-info.md` - npm installation and React usage examples",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daymade",
+    "github": "daymade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daymade/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/llm-icon-finder/SKILL.md"
+  },
+  "stats": {
+    "stars": 154,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:30:48Z",
+  "created_at": "2025-10-22T11:17:31Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/daymade/claude-code-skills/blob/main/llm-icon-finder/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_5ffb91227fb5"
+  }
+}

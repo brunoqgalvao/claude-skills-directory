@@ -1,0 +1,36 @@
+{
+  "id": "openapi-overlay-generator",
+  "name": "openapi-overlay-generator",
+  "version": "1.0.0",
+  "summary": "Generate OpenAPI overlay files for Seqera Platform API documentation. Use when working with API documentation updates, analyzing comparison overlays from Speakeasy, creating ope...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seqeralabs",
+    "github": "seqeralabs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seqeralabs/docs",
+    "skill_md": "https://raw.githubusercontent.com/seqeralabs/docs/main/.claude/skills/openapi-overlay-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:46.281Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seqeralabs%2Fdocs/.claude%2Fskills%2Fopenapi-overlay-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_cedf4b72a96f"
+  }
+}

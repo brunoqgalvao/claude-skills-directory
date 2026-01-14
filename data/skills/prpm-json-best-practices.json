@@ -1,0 +1,35 @@
+{
+  "id": "prpm-json-best-practices",
+  "name": "prpm-json-best-practices",
+  "version": "1.0.0",
+  "summary": "Best practices for structuring prpm.json package manifests with required fields, tags, organization, multi-package management, enhanced file format, and conversion hints",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "khaliqgant",
+    "github": "khaliqgant"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/khaliqgant/lobber",
+    "skill_md": "https://raw.githubusercontent.com/khaliqgant/lobber/main/.claude/skills/prpm-json-best-practices-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T20:22:44.000Z",
+  "created_at": "2025-12-23T00:21:52.562Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/khaliqgant%2Flobber/.claude%2Fskills%2Fprpm-json-best-practices-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.594Z",
+    "uniqueId": "sk_1eb290854451"
+  }
+}

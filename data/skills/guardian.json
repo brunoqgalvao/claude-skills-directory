@@ -1,0 +1,35 @@
+{
+  "id": "guardian",
+  "name": "guardian",
+  "version": "1.0.0",
+  "summary": "Automatic quality gate and session health monitor. Spawns focused Haiku agents for code review and task planning when degradation detected. Validates suggestions against Oracle ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Overlord-Z",
+    "github": "Overlord-Z"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Overlord-Z/ClaudeShack",
+    "skill_md": "https://raw.githubusercontent.com/Overlord-Z/ClaudeShack/main/skills/guardian/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:09:51.475Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Overlord-Z%2FClaudeShack/skills%2Fguardian%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_a83fe06fa6a0"
+  }
+}

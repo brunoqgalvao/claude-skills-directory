@@ -1,0 +1,36 @@
+{
+  "id": "evaluating-rag",
+  "name": "evaluating-rag",
+  "version": "1.0.0",
+  "summary": "Evaluate RAG systems with hit rate, MRR, faithfulness metrics and compare retrieval strategies. Use when testing retrieval quality, generating evaluation datasets, comparing emb...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tkhongsap",
+    "github": "tkhongsap"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tkhongsap/llama-index-rag-pipeline",
+    "skill_md": "https://raw.githubusercontent.com/tkhongsap/llama-index-rag-pipeline/main/.claude/skills/evaluating-rag/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.677Z",
+  "created_at": "2025-12-22T22:12:42.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tkhongsap%2Fllama-index-rag-pipeline/.claude%2Fskills%2Fevaluating-rag%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.677Z",
+    "uniqueId": "sk_91b0a2a8230a"
+  }
+}

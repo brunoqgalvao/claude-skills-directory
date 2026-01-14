@@ -1,0 +1,37 @@
+{
+  "id": "aprapipes-devops",
+  "name": "aprapipes-devops",
+  "version": "1.0.0",
+  "summary": "Diagnose and fix ApraPipes CI/CD build failures across all platforms (Windows, Linux x64/ARM64, Jetson, macOS, Docker, WSL). Handles vcpkg dependencies, GitHub Actions workflows...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Apra-Labs",
+    "github": "Apra-Labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Apra-Labs/ApraPipes",
+    "skill_md": "https://raw.githubusercontent.com/Apra-Labs/ApraPipes/main/.claude/skills/aprapipes-devops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:15:03.442Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Apra-Labs%2FApraPipes/.claude%2Fskills%2Faprapipes-devops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_825ae4b11187"
+  }
+}

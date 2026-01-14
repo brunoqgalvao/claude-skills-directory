@@ -1,0 +1,37 @@
+{
+  "id": "claude-plugin-authoring",
+  "name": "claude-plugin-authoring",
+  "version": "1.0.0",
+  "summary": "Creates complete Claude Code plugins with proper structure, configuration, and best practices. Handles plugin.json metadata, slash commands, agent configurations, event hooks, a...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "outfitter-dev",
+    "github": "outfitter-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/outfitter-dev/agents",
+    "skill_md": "https://raw.githubusercontent.com/outfitter-dev/agents/main/claude-dev/skills/claude-plugin-authoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T20:00:07.967Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/outfitter-dev%2Fagents/claude-dev%2Fskills%2Fclaude-plugin-authoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_9717b2ef1769"
+  }
+}

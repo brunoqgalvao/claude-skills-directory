@@ -1,0 +1,35 @@
+{
+  "id": "dna-insert",
+  "name": "dna-insert",
+  "version": "1.0.0",
+  "summary": "Guide for designing DNA insertion primers for site-directed mutagenesis (SDM) using Q5 or similar kits. This skill should be used when tasks involve inserting DNA sequences into...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "letta-ai",
+    "github": "letta-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/letta-ai/skills",
+    "skill_md": "https://raw.githubusercontent.com/letta-ai/skills/main/ai/benchmarks/letta/terminal-bench-2/trajectory-feedback/dna-insert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T20:35:02.000Z",
+  "created_at": "2025-12-23T01:29:26.022Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/letta-ai%2Fskills/ai%2Fbenchmarks%2Fletta%2Fterminal-bench-2%2Ftrajectory-feedback%2Fdna-insert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_d00b39a4833c"
+  }
+}

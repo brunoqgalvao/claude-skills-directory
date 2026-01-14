@@ -1,0 +1,35 @@
+{
+  "id": "commit-prepare",
+  "name": "commit-prepare",
+  "version": "1.0.0",
+  "summary": "Prepare git commit messages for template changes following conventional commits. Activates on: commit, prepare commit, commit this, commit message, ready to commit",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ByronWilliamsCPA",
+    "github": "ByronWilliamsCPA"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ByronWilliamsCPA/cookiecutter-python-template",
+    "skill_md": "https://raw.githubusercontent.com/ByronWilliamsCPA/cookiecutter-python-template/main/.claude/skills/commit-prepare/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:56:27.887Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ByronWilliamsCPA%2Fcookiecutter-python-template/.claude%2Fskills%2Fcommit-prepare%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_a2d8418bfddb"
+  }
+}

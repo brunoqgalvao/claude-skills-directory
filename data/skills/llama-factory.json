@@ -1,0 +1,37 @@
+{
+  "id": "llama-factory",
+  "name": "llama-factory",
+  "version": "1.0.0",
+  "summary": "Expert guidance for fine-tuning LLMs with LLaMA-Factory - WebUI no-code, 100+ models, 2/3/4/5/6/8-bit QLoRA, multimodal support",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/03-fine-tuning/llama-factory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T22:51:38.000Z",
+  "created_at": "2025-12-22T15:52:01.285Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/03-fine-tuning%2Fllama-factory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.463Z",
+    "uniqueId": "sk_c1af22929bb2"
+  }
+}

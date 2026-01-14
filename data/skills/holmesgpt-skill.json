@@ -1,0 +1,37 @@
+{
+  "id": "holmesgpt-skill",
+  "name": "holmesgpt-skill",
+  "version": "1.0.0",
+  "summary": "Guide for implementing HolmesGPT - an AI agent for troubleshooting cloud-native environments. Use when investigating Kubernetes issues, analyzing alerts from Prometheus/AlertMan...",
+  "verticals": [
+    "hr",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julianobarbosa",
+    "github": "julianobarbosa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julianobarbosa/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/holmesgpt-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:08.742Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julianobarbosa%2Fclaude-code-skills/skills%2Fholmesgpt-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_f79ed6c5cb3c"
+  }
+}

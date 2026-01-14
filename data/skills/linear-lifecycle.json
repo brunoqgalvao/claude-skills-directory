@@ -1,0 +1,36 @@
+{
+  "id": "linear-lifecycle",
+  "name": "linear-lifecycle",
+  "version": "1.0.0",
+  "summary": "Use when working with Linear issues across development workflow - uses Linearis CLI with JSON output for zero-context issue management. Get details, create issues, update status...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattforni",
+    "github": "mattforni"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattforni/skillset",
+    "skill_md": "https://raw.githubusercontent.com/mattforni/skillset/main/plugins/linear-lifecycle/skills/linear-lifecycle/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:17:14.761Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattforni%2Fskillset/plugins%2Flinear-lifecycle%2Fskills%2Flinear-lifecycle%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_8e97b8a87cdd"
+  }
+}

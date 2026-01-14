@@ -1,0 +1,35 @@
+{
+  "id": "ux-evaluator",
+  "name": "ux-evaluator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when evaluating UI components against UX best practices. Use for reviewing buttons, navigation elements, spacing, visual hierarchy, or any interface el...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "panaversity",
+    "github": "panaversity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/panaversity/ai-native-software-development",
+    "skill_md": "https://raw.githubusercontent.com/panaversity/ai-native-software-development/main/.claude/skills/ux-evaluator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:30.115Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/panaversity%2Fai-native-software-development/.claude%2Fskills%2Fux-evaluator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_e2575a4c7f39"
+  }
+}

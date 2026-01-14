@@ -1,0 +1,36 @@
+{
+  "id": "project-manager-backlog",
+  "name": "project-manager-backlog",
+  "version": "1.0.0",
+  "summary": "Manages project tasks using the backlog.md CLI tool. Creates, edits, and tracks tasks following proper format and guidelines, breaks down large tasks into atomic units, and main...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benswift",
+    "github": "benswift"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benswift/.dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/benswift/.dotfiles/main/claude/skills/project-manager-backlog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:53.017Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benswift%2F.dotfiles/claude%2Fskills%2Fproject-manager-backlog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_6fccf9403750"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "credits-handler",
+  "name": "credits-handler",
+  "version": "1.0.0",
+  "summary": "Manage the credit system (allocation, purchasing, usage). Use when adding credit types, configuring pricing, or building credit UI.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AayushBaniya2006",
+    "github": "AayushBaniya2006"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AayushBaniya2006/blinkfund",
+    "skill_md": "https://raw.githubusercontent.com/AayushBaniya2006/blinkfund/main/.claude/skills/credits-handler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T07:40:01.000Z",
+  "created_at": "2025-12-22T17:55:42.742Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AayushBaniya2006%2Fblinkfund/.claude%2Fskills%2Fcredits-handler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_a963c40a552d"
+  }
+}

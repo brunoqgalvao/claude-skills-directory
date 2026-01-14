@@ -1,0 +1,35 @@
+{
+  "id": "xlsform",
+  "name": "xlsform",
+  "version": "1.0.0",
+  "summary": "Authoring data collection forms in Excel for mobile surveys. XLSForm converts Excel files to XForms for ODK, KoBoToolbox, and similar platforms. Use for field surveys, data coll...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mberg",
+    "github": "mberg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mberg/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/mberg/claude-skills/main/skills/xlsform/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:50.875Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mberg%2Fclaude-skills/skills%2Fxlsform%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_72fb291a5439"
+  }
+}

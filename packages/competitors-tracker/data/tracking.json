@@ -1,0 +1,142 @@
+{
+  "lastUpdated": "2025-12-25T10:22:09.884Z",
+  "competitors": [
+    {
+      "name": "SkillsMP",
+      "url": "https://skillsmp.com",
+      "type": "skills",
+      "description": "Agent skills marketplace for Claude, Codex, ChatGPT (25k+ skills)"
+    },
+    {
+      "name": "awesome-claude-skills",
+      "url": "https://github.com/travisvn/awesome-claude-skills",
+      "github": "travisvn/awesome-claude-skills",
+      "type": "skills",
+      "description": "Curated list of Claude Skills and resources"
+    },
+    {
+      "name": "superpowers",
+      "url": "https://github.com/obra/superpowers",
+      "github": "obra/superpowers",
+      "type": "skills",
+      "description": "Core skills library for Claude Code (20+ skills)"
+    },
+    {
+      "name": "claude-code-skills",
+      "url": "https://github.com/daymade/claude-code-skills",
+      "github": "daymade/claude-code-skills",
+      "type": "skills",
+      "description": "Professional Claude Code skills marketplace"
+    },
+    {
+      "name": "anthropics/skills",
+      "url": "https://github.com/anthropics/skills",
+      "github": "anthropics/skills",
+      "type": "skills",
+      "description": "Official Anthropic skills repository"
+    },
+    {
+      "name": "MCP.so",
+      "url": "https://mcp.so",
+      "type": "mcp",
+      "description": "Community-driven MCP marketplace (17k+ servers)"
+    },
+    {
+      "name": "Smithery",
+      "url": "https://smithery.ai",
+      "github": "smithery-ai/reference-servers",
+      "type": "mcp",
+      "description": "Largest open marketplace of MCP servers"
+    },
+    {
+      "name": "Glama",
+      "url": "https://glama.ai/mcp/servers",
+      "type": "mcp",
+      "description": "MCP hosting platform with security ranking"
+    },
+    {
+      "name": "PulseMCP",
+      "url": "https://pulsemcp.com/servers",
+      "type": "mcp",
+      "description": "Daily-updated MCP server directory (7.4k+ servers)"
+    },
+    {
+      "name": "mcpservers.org",
+      "url": "https://mcpservers.org",
+      "type": "both",
+      "description": "Awesome MCP Servers and Claude Skills"
+    }
+  ],
+  "snapshots": [
+    {
+      "name": "SkillsMP",
+      "date": "2025-12-25"
+    },
+    {
+      "name": "awesome-claude-skills",
+      "date": "2025-12-25",
+      "github": {
+        "stars": 3662,
+        "forks": 235,
+        "issues": 5,
+        "lastCommit": "2025-12-19T03:06:54Z"
+      }
+    },
+    {
+      "name": "superpowers",
+      "date": "2025-12-25",
+      "github": {
+        "stars": 11323,
+        "forks": 937,
+        "issues": 33,
+        "lastCommit": "2025-12-24T07:03:46Z"
+      }
+    },
+    {
+      "name": "claude-code-skills",
+      "date": "2025-12-25",
+      "github": {
+        "stars": 121,
+        "forks": 12,
+        "issues": 0,
+        "lastCommit": "2025-12-21T05:06:23Z"
+      }
+    },
+    {
+      "name": "anthropics/skills",
+      "date": "2025-12-25",
+      "github": {
+        "stars": 26933,
+        "forks": 2475,
+        "issues": 110,
+        "lastCommit": "2025-12-20T18:09:45Z"
+      }
+    },
+    {
+      "name": "mcpservers.org",
+      "date": "2025-12-25"
+    },
+    {
+      "name": "MCP.so",
+      "date": "2025-12-25"
+    },
+    {
+      "name": "Smithery",
+      "date": "2025-12-25",
+      "github": {
+        "stars": 434,
+        "forks": 57,
+        "issues": 3,
+        "lastCommit": "2025-05-04T23:04:02Z"
+      }
+    },
+    {
+      "name": "Glama",
+      "date": "2025-12-25"
+    },
+    {
+      "name": "PulseMCP",
+      "date": "2025-12-25"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rust-style-conventions",
+  "name": "rust-style-conventions",
+  "version": "1.0.0",
+  "summary": "Foundational Rust style conventions that apply universally to all Rust code. Covers import organization, naming conventions, and code formatting standards. This skill is automat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matthewharwood",
+    "github": "matthewharwood"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matthewharwood/engmanager.xyz",
+    "skill_md": "https://raw.githubusercontent.com/matthewharwood/engmanager.xyz/main/.claude/skills/rust-style-conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:11:33.126Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matthewharwood%2Fengmanager.xyz/.claude%2Fskills%2Frust-style-conventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_cc4cd0f5ec2e"
+  }
+}

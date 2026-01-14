@@ -1,0 +1,35 @@
+{
+  "id": "optimizing-deep-learning-models",
+  "name": "optimizing-deep-learning-models",
+  "version": "1.0.0",
+  "summary": "Optimize deep learning models using Adam, SGD, and learning rate scheduling to improve accuracy and reduce training time. Use when asked to \"optimize deep learning model\" or \"im...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/ai-ml/deep-learning-optimizer/skills/deep-learning-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T16:00:20.889Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fai-ml%2Fdeep-learning-optimizer%2Fskills%2Fdeep-learning-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_272dfcc92707"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "positron-intake-rotation",
+  "name": "positron-intake-rotation",
+  "version": "1.0.0",
+  "summary": "This skill should be used when handling issue intake rotation duties for the Positron repository. It provides workflows for reviewing and organizing new issues, responding to di...",
+  "verticals": [
+    "marketing",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "posit-dev",
+    "github": "posit-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/posit-dev/positron",
+    "skill_md": "https://raw.githubusercontent.com/posit-dev/positron/main/.claude/skills/positron-intake-rotation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T18:46:04.000Z",
+  "created_at": "2025-12-23T01:29:34.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/posit-dev%2Fpositron/.claude%2Fskills%2Fpositron-intake-rotation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.451Z",
+    "uniqueId": "sk_0755d3f5d761"
+  }
+}

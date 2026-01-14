@@ -1,0 +1,37 @@
+{
+  "id": "postgresql-rails-analyzer",
+  "name": "postgresql-rails-analyzer",
+  "version": "1.0.0",
+  "summary": "Comprehensive PostgreSQL configuration and usage analysis for Rails applications. Use when Claude Code needs to analyze a Rails codebase for database performance issues, optimiz...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "el-feo",
+    "github": "el-feo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/el-feo/ai-context",
+    "skill_md": "https://raw.githubusercontent.com/el-feo/ai-context/main/skills/postgresql-rails-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T04:28:08.000Z",
+  "created_at": "2025-12-23T01:29:28.066Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/el-feo%2Fai-context/skills%2Fpostgresql-rails-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_09d83c04bebc"
+  }
+}

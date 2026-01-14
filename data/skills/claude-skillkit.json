@@ -1,0 +1,37 @@
+{
+  "id": "claude-skillkit",
+  "name": "claude-skillkit",
+  "version": "1.0.0",
+  "summary": "Professional skill creation with research-driven workflow and automated validation.\nUSE WHEN: Creating new skills, validating existing skills, deciding between Skills  vs Subage...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rfxlamia",
+    "github": "rfxlamia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rfxlamia/claude-skillkit",
+    "skill_md": "https://raw.githubusercontent.com/rfxlamia/claude-skillkit/main/skills/claude-skillkit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:58:55.484Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rfxlamia%2Fclaude-skillkit/skills%2Fclaude-skillkit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_6185ec0fc9b8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "terraform-module-writer",
+  "name": "terraform-module-writer",
+  "version": "1.0.0",
+  "summary": "Эксперт по Terraform модулям. Используй для создания переиспользуемых модулей, variables, outputs и best practices.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dengineproblem",
+    "github": "dengineproblem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dengineproblem/agents-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/dengineproblem/agents-monorepo/main/.claude/skills/terraform-module-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.621Z",
+  "created_at": "2025-12-22T23:19:54.401Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dengineproblem%2Fagents-monorepo/.claude%2Fskills%2Fterraform-module-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.621Z",
+    "uniqueId": "sk_3afd437e2f7e"
+  }
+}

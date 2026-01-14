@@ -1,0 +1,35 @@
+{
+  "id": "gastrohem-media-processor",
+  "name": "gastrohem-media-processor",
+  "version": "1.0.0",
+  "summary": "Automatically process unprocessed audio and image files in Gastrohem daily WhatsApp folders. This skill should be used when the user asks to transcribe audio files, perform OCR ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asapMaki",
+    "github": "asapMaki"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asapMaki/vozzy-whatsapp",
+    "skill_md": "https://raw.githubusercontent.com/asapMaki/vozzy-whatsapp/main/.claude/skills/gastrohem-media-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:14:19.989Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asapMaki%2Fvozzy-whatsapp/.claude%2Fskills%2Fgastrohem-media-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_21fb3b080a63"
+  }
+}

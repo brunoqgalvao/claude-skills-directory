@@ -1,0 +1,35 @@
+{
+  "id": "discover-zig",
+  "name": "discover-zig",
+  "version": "1.0.0",
+  "summary": "Automatically discover Zig programming skills when working with Zig. Activates for zig development tasks.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rand",
+    "github": "rand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rand/cc-polymath",
+    "skill_md": "https://raw.githubusercontent.com/rand/cc-polymath/main/skills/discover-zig/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.572Z",
+  "created_at": "2025-12-23T01:28:30.192Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rand%2Fcc-polymath/skills%2Fdiscover-zig%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_0d084eb92e87"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "researching-web",
+  "name": "researching-web",
+  "version": "1.0.0",
+  "summary": "Search the web using Perplexity AI. Use when needing to search, look up, research, find current information, best practices, compare technologies, or answer factual questions ab...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julianobarbosa",
+    "github": "julianobarbosa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julianobarbosa/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/researching-web-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.465Z",
+  "created_at": "2025-12-22T14:21:09.623Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julianobarbosa%2Fclaude-code-skills/skills%2Fresearching-web-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_f671e3c44afa"
+  }
+}

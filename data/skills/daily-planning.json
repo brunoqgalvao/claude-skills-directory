@@ -1,0 +1,35 @@
+{
+  "id": "daily-planning",
+  "name": "daily-planning",
+  "version": "1.0.0",
+  "summary": "Context-aware daily check-ins for morning planning, midday adjustments, and evening reviews. Use when the user wants to plan their day, check in on progress, or review their eve...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ninjasenap",
+    "github": "Ninjasenap"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ninjasenap/AIDA",
+    "skill_md": "https://raw.githubusercontent.com/Ninjasenap/AIDA/main/.claude/skills/daily-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T20:13:22.000Z",
+  "created_at": "2025-12-23T01:29:03.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ninjasenap%2FAIDA/.claude%2Fskills%2Fdaily-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_ae9832626b99"
+  }
+}

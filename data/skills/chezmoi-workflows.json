@@ -1,0 +1,36 @@
+{
+  "id": "chezmoi-workflows",
+  "name": "chezmoi-workflows",
+  "version": "1.0.0",
+  "summary": "Dotfile backup, sync, and version control with chezmoi. Tracks shell configs (.zshrc, .bashrc, .zshenv), git (.gitconfig), editors (helix, vim, nvim), terminal tools (broot, sta...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/dotfiles-tools/skills/chezmoi-workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T21:49:49.000Z",
+  "created_at": "2025-12-22T17:54:01.533Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fdotfiles-tools%2Fskills%2Fchezmoi-workflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_52395da00cef"
+  }
+}

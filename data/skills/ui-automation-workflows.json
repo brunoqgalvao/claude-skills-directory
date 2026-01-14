@@ -1,0 +1,37 @@
+{
+  "id": "ui-automation-workflows",
+  "name": "ui-automation-workflows",
+  "version": "1.0.0",
+  "summary": "Accessibility-first UI automation using IDB. Query accessibility tree (fast, 50 tokens) before screenshots (slow, 170 tokens). Use when automating simulator interactions, tappin...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "conorluddy",
+    "github": "conorluddy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/conorluddy/xclaude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/conorluddy/xclaude-plugin/main/skills/ui-automation-workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.774Z",
+  "created_at": "2025-12-22T19:58:14.626Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/conorluddy%2Fxclaude-plugin/skills%2Fui-automation-workflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.774Z",
+    "uniqueId": "sk_7ad30a1b91e2"
+  }
+}

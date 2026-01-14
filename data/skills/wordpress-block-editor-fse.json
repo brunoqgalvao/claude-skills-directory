@@ -1,0 +1,36 @@
+{
+  "id": "wordpress-block-editor-fse",
+  "name": "wordpress-block-editor-fse",
+  "version": "1.0.0",
+  "summary": "Modern WordPress block development and Full Site Editing with theme.json, block themes, and custom blocks for WordPress 6.7+. Use this skill when building block themes with FSE ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-php-frameworks-wordpress-block-editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:33.252Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-php-frameworks-wordpress-block-editor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_3591ec29a839"
+  }
+}

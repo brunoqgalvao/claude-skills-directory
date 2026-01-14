@@ -1,0 +1,36 @@
+{
+  "id": "vkc-admin-ops-workflow",
+  "name": "vkc-admin-ops-workflow",
+  "version": "1.0.0",
+  "summary": "Standardize admin operations workflow (Draft -> Review -> Scheduled publish -> Published) using DB states + admin API routes + scheduled visibility. Use when implementing admin-...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LEE-SANG-BOK",
+    "github": "LEE-SANG-BOK"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LEE-SANG-BOK/VKC-2-",
+    "skill_md": "https://raw.githubusercontent.com/LEE-SANG-BOK/VKC-2-/main/.codex/skills/vkc-admin-ops-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:07.024Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LEE-SANG-BOK%2FVKC-2-/.codex%2Fskills%2Fvkc-admin-ops-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_83a984b1e0c9"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "testing-patterns",
+  "name": "testing-patterns",
+  "version": "1.0.0",
+  "summary": "Write effective tests with proper structure and coverage. Use when writing unit tests, integration tests, or improving test quality.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "neokn",
+    "github": "neokn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/neokn/dotClaude",
+    "skill_md": "https://raw.githubusercontent.com/neokn/dotClaude/main/skills/testing-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:03:24.956Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/neokn%2FdotClaude/skills%2Ftesting-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_1f224bc68a9c"
+  }
+}

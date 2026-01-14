@@ -1,0 +1,35 @@
+{
+  "id": "suggest-refactoring",
+  "name": "suggest-refactoring",
+  "version": "1.0.0",
+  "summary": "리팩토링 제안. Use when (1) \"리팩토링 제안\", (2) \"코드 개선 방안\",\n(3) \"이 코드 어떻게 개선?\". 기술 부채 분석 기반 구체적 리팩토링 방안 제시.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/ops/improve/skills/suggest-refactoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:30:34.250Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fops%2Fimprove%2Fskills%2Fsuggest-refactoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_243052a8e0b8"
+  }
+}

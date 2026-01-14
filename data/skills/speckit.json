@@ -1,0 +1,35 @@
+{
+  "id": "speckit",
+  "name": "speckit",
+  "version": "1.0.0",
+  "summary": "依照 speckit 的標準工作流程，引導式地產生規格文件、澄清需求、產生實作計劃與任務清單，每個階段都需要人工審核確認",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MilesChou",
+    "github": "MilesChou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MilesChou/claude-spec-kit-workflow",
+    "skill_md": "https://raw.githubusercontent.com/MilesChou/claude-spec-kit-workflow/main/skills/speckit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:14:56.794Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MilesChou%2Fclaude-spec-kit-workflow/skills%2Fspeckit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_4a666f9a92d2"
+  }
+}

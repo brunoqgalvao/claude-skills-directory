@@ -1,0 +1,35 @@
+{
+  "id": "looking",
+  "name": "looking",
+  "version": "1.0.0",
+  "summary": "Take screenshots to see what's on screen. Use when user says 'have a look', 'can you see', 'what does it look like', 'check this', or 'it looks like'. Also use proactively to ve...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "spm1001",
+    "github": "spm1001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/spm1001/claude-config-public",
+    "skill_md": "https://raw.githubusercontent.com/spm1001/claude-config-public/main/skills/looking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.550Z",
+  "created_at": "2025-12-23T01:28:49.635Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/spm1001%2Fclaude-config-public/skills%2Flooking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_d75f4f82494c"
+  }
+}

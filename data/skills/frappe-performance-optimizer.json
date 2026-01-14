@@ -1,0 +1,35 @@
+{
+  "id": "frappe-performance-optimizer",
+  "name": "frappe-performance-optimizer",
+  "version": "1.0.0",
+  "summary": "Generate optimized queries, caching, and indexes for Frappe performance. Use when optimizing slow queries, implementing caching, or improving performance.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Venkateshvenki404224",
+    "github": "Venkateshvenki404224"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Venkateshvenki404224/frappe-apps-manager",
+    "skill_md": "https://raw.githubusercontent.com/Venkateshvenki404224/frappe-apps-manager/main/frappe-apps-manager/skills/frappe-performance-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:30.092Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Venkateshvenki404224%2Ffrappe-apps-manager/frappe-apps-manager%2Fskills%2Ffrappe-performance-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_a3b67f6e3445"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "elo-ratings-math",
+  "name": "elo-ratings-math",
+  "version": "1.0.0",
+  "summary": "Explains the mathematical principles behind Elo rating systems, including expected score calculation, rating updates, and the K-factor. Use when implementing or understanding co...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/elo-elo",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/elo-elo/main/.claude/skills/elo-ratings-math/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:32.439Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Felo-elo/.claude%2Fskills%2Felo-ratings-math%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_f25b6c7f24d3"
+  }
+}

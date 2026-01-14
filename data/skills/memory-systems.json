@@ -1,0 +1,36 @@
+{
+  "id": "memory-systems",
+  "name": "memory-systems",
+  "version": "1.0.0",
+  "summary": "Design and implement memory architectures for agent systems. Use when building agents that need to persist state across sessions, maintain entity consistency, or reason over str...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ftchvs",
+    "github": "ftchvs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ftchvs/ftchvs_26",
+    "skill_md": "https://raw.githubusercontent.com/ftchvs/ftchvs_26/main/.claude/skills/memory-systems/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.458Z",
+  "created_at": "2025-12-22T21:59:50.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ftchvs%2Fftchvs_26/.claude%2Fskills%2Fmemory-systems%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.458Z",
+    "uniqueId": "sk_7b6446fe8c81"
+  }
+}

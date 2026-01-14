@@ -1,0 +1,35 @@
+{
+  "id": "copilot-review",
+  "name": "copilot-review",
+  "version": "1.0.0",
+  "summary": "GitHub Copilotを使用してコードレビューを実施します。GitHubとの親和性を活かし、実践的なコード改善提案を提供します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sekka",
+    "github": "sekka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sekka/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sekka/dotfiles/main/home/.claude/skills/copilot-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.169Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sekka%2Fdotfiles/home%2F.claude%2Fskills%2Fcopilot-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_abcf9b4d6db5"
+  }
+}

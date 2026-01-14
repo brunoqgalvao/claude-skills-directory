@@ -1,0 +1,37 @@
+{
+  "id": "mydetailarea-integrations",
+  "name": "mydetailarea-integrations",
+  "version": "1.0.0",
+  "summary": "Third-party integration connectors for MyDetailArea. Implements secure API integrations with accounting software (QuickBooks, Xero), CRM systems, inventory management, payment p...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rruiz22",
+    "github": "rruiz22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rruiz22/my-detail-area",
+    "skill_md": "https://raw.githubusercontent.com/rruiz22/my-detail-area/main/.claude/skills/mydetailarea-integrations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T14:50:49.000Z",
+  "created_at": "2025-12-23T01:29:31.532Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rruiz22%2Fmy-detail-area/.claude%2Fskills%2Fmydetailarea-integrations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_887fbeee356b"
+  }
+}

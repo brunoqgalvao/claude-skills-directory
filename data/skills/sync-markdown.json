@@ -1,0 +1,36 @@
+{
+  "id": "sync-markdown",
+  "name": "sync-markdown",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users want to sync content from text.md files to gallery project index.html files. Trigger phrases include \"sync markdown\", \"sync text.md\", \"updat...",
+  "verticals": [
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hancyhxy",
+    "github": "hancyhxy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hancyhxy/xinyihanwork",
+    "skill_md": "https://raw.githubusercontent.com/hancyhxy/xinyihanwork/main/.claude/skills/sync-markdown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:53:59.231Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hancyhxy%2Fxinyihanwork/.claude%2Fskills%2Fsync-markdown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_84ea66307f01"
+  }
+}

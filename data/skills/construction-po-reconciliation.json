@@ -1,0 +1,37 @@
+{
+  "id": "construction-po-reconciliation",
+  "name": "construction-po-reconciliation",
+  "version": "1.0.0",
+  "summary": "Automated reconciliation of construction purchase orders across multiple PO types (Framing, Options, Siding, Add-ons). Use when working with BuildPro POs, tracking combined cont...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CBoser",
+    "github": "CBoser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CBoser/ConstructionPlatform",
+    "skill_md": "https://raw.githubusercontent.com/CBoser/ConstructionPlatform/main/docs/archive/skills/claude_skills/PO_Integration/construction-po-reconciliation/construction-po-reconciliation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T00:21:27.000Z",
+  "created_at": "2025-12-22T17:54:35.192Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CBoser%2FConstructionPlatform/docs%2Farchive%2Fskills%2Fclaude_skills%2FPO_Integration%2Fconstruction-po-reconciliation%2Fconstruction-po-reconciliation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_022db121c257"
+  }
+}

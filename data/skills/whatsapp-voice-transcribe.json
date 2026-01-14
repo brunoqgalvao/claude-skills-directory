@@ -1,0 +1,35 @@
+{
+  "id": "whatsapp-voice-transcribe",
+  "name": "whatsapp-voice-transcribe",
+  "version": "1.0.0",
+  "summary": "Download and transcribe WhatsApp voice notes with mining site name corrections",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "karstegg",
+    "github": "karstegg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/karstegg/MarthaVault",
+    "skill_md": "https://raw.githubusercontent.com/karstegg/MarthaVault/main/.claude/skills/whatsapp-transcribe/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:07:01.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/karstegg%2FMarthaVault/.claude%2Fskills%2Fwhatsapp-transcribe%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_aeb069fb381f"
+  }
+}

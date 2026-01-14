@@ -1,0 +1,35 @@
+{
+  "id": "sprint-planning",
+  "name": "sprint-planning",
+  "version": "1.0.0",
+  "summary": "効果的なスプリント計画の立案と実行管理手法。\nチームが一丸となって価値を提供できる明確な目標と実行計画を策定します。\n\n専門分野:\n- スプリントゴール設定: SMART目標、価値ベースのゴール定義\n- キャパシティプランニング: ベロシティ、可用性、バッファ計算\n- タスク分解: ユーザーストーリー分解、見積もり、依存関係管理\n- コミットメント: ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/sprint-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:43.259Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fsprint-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_8ea9887f8509"
+  }
+}

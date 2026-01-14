@@ -1,0 +1,37 @@
+{
+  "id": "bash-defensive-patterns",
+  "name": "bash-defensive-patterns",
+  "version": "1.0.0",
+  "summary": "Master defensive Bash programming techniques for production-grade scripts. Use when writing robust shell scripts, CI/CD pipelines, or system utilities requiring fault tolerance ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HermeticOrmus",
+    "github": "HermeticOrmus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HermeticOrmus/after-the-third-cup",
+    "skill_md": "https://raw.githubusercontent.com/HermeticOrmus/after-the-third-cup/main/plugins/shell-scripting/skills/bash-defensive-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.708Z",
+  "created_at": "2025-12-22T21:18:00.515Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HermeticOrmus%2Fafter-the-third-cup/plugins%2Fshell-scripting%2Fskills%2Fbash-defensive-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.708Z",
+    "uniqueId": "sk_3cd2a31cf140"
+  }
+}

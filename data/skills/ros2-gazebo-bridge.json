@@ -1,0 +1,35 @@
+{
+  "id": "ros2-gazebo-bridge",
+  "name": "ros2-gazebo-bridge",
+  "version": "1.0.0",
+  "summary": "Configure ros_gz_bridge to connect Gazebo topics with ROS 2 for closed-loop control",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mjunaidca",
+    "github": "mjunaidca"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mjunaidca/robolearn",
+    "skill_md": "https://raw.githubusercontent.com/mjunaidca/robolearn/main/.claude/skills/authoring/ros2-gazebo-bridge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:24.760Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mjunaidca%2Frobolearn/.claude%2Fskills%2Fauthoring%2Fros2-gazebo-bridge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_56a75d4a1e60"
+  }
+}

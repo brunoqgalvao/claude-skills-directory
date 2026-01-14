@@ -1,0 +1,35 @@
+{
+  "id": "verify-reactive",
+  "name": "verify-reactive",
+  "version": "1.0.0",
+  "summary": "Reactive 패턴 검증. Use when:\n(1) 구현 완료 후 Reactive 준수 확인, (2) .block() 호출 감지,\n(3) Coroutine/Flow 패턴 검증.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/spring/skills/verify-reactive/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:06:51.341Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fspring%2Fskills%2Fverify-reactive%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_ff2cf2d57eb3"
+  }
+}

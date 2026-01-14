@@ -1,0 +1,35 @@
+{
+  "id": "game-generator",
+  "name": "game-generator",
+  "version": "1.0.0",
+  "summary": "Generate GameSpec JSON and Lua scripts for the AI Game Platform. Use when creating games, adding features like player movement, enemies, collectibles, or fixing Lua script issue...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "syuhei176",
+    "github": "syuhei176"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/syuhei176/sandbox",
+    "skill_md": "https://raw.githubusercontent.com/syuhei176/sandbox/main/.claude/skills/game-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:12.456Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/syuhei176%2Fsandbox/.claude%2Fskills%2Fgame-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_e8ce5bb2d17e"
+  }
+}

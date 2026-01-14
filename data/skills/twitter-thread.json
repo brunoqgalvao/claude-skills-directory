@@ -1,0 +1,36 @@
+{
+  "id": "twitter-thread",
+  "name": "twitter-thread",
+  "version": "1.0.0",
+  "summary": "Create viral Twitter/X threads that educate, entertain, and grow your audience. Use when the user wants to write threads, needs to break down complex topics, or wants to repurpo...",
+  "verticals": [
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "az9713",
+    "github": "az9713"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/az9713/ai-co-writing-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/az9713/ai-co-writing-claude-skills/main/.claude/skills/twitter-thread/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:32.398Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/az9713%2Fai-co-writing-claude-skills/.claude%2Fskills%2Ftwitter-thread%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_89b17d5ef73b"
+  }
+}

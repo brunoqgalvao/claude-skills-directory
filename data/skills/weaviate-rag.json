@@ -1,0 +1,37 @@
+{
+  "id": "weaviate-rag",
+  "name": "weaviate-rag",
+  "version": "1.0.0",
+  "summary": "Implement RAG systems using Weaviate vector database. Use when building semantic search, document retrieval, or knowledge base systems.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoeffer",
+    "github": "astoeffer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoeffer/plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/astoeffer/plugin-marketplace/main/plugins/cloodle-ai-integration/skills/weaviate-rag/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:08.713Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoeffer%2Fplugin-marketplace/plugins%2Fcloodle-ai-integration%2Fskills%2Fweaviate-rag%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_f34dd0f8aa0a"
+  }
+}

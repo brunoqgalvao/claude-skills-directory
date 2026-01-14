@@ -1,0 +1,37 @@
+{
+  "id": "professional-pr-workflow",
+  "name": "professional-pr-workflow",
+  "version": "1.0.0",
+  "summary": "Automatisiert Pull-Request-Erstellung mit Branch-Management, Code-Formatierung und Integration mit professional-commit-workflow. Unterstützt GitHub CLI, automatische PR-Beschrei...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "talent-factory",
+    "github": "talent-factory"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/talent-factory/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/talent-factory/dotfiles/main/agents/claude/skills/professional-pr-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.549Z",
+  "created_at": "2025-12-23T01:28:50.448Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/talent-factory%2Fdotfiles/agents%2Fclaude%2Fskills%2Fprofessional-pr-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_5f9a4a001ea3"
+  }
+}

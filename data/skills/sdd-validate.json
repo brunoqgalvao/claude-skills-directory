@@ -1,0 +1,35 @@
+{
+  "id": "sdd-validate",
+  "name": "sdd-validate",
+  "version": "1.0.0",
+  "summary": "Validate SDD JSON specs, auto-fix common issues, generate detailed reports, and analyze dependencies.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-sdd-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-sdd-toolkit/main/skills/sdd-validate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.757Z",
+  "created_at": "2025-12-22T20:15:43.333Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-sdd-toolkit/skills%2Fsdd-validate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.757Z",
+    "uniqueId": "sk_f5275c093084"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sdd-update",
+  "name": "sdd-update",
+  "version": "1.0.0",
+  "summary": "Progress tracking for spec-driven development. Use to update task status, track progress, journal decisions, move specs between folders, and maintain spec files. Handles the adm...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-foundry",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-foundry/main/skills/sdd-update/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:03.625Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-foundry/skills%2Fsdd-update%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_cd7caf0d86eb"
+  }
+}

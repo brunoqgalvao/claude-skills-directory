@@ -1,0 +1,35 @@
+{
+  "id": "ms365-tenant-manager",
+  "name": "ms365-tenant-manager",
+  "version": "1.0.0",
+  "summary": "Comprehensive Microsoft 365 tenant administration skill for setup, configuration, user management, security policies, and organizational structure optimization for Global Admini...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alirezarezvani",
+    "github": "alirezarezvani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alirezarezvani/claude-code-skill-factory",
+    "skill_md": "https://raw.githubusercontent.com/alirezarezvani/claude-code-skill-factory/main/generated-skills/ms365-tenant-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-21T15:23:26.000Z",
+  "created_at": "2025-12-23T01:29:25.305Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alirezarezvani%2Fclaude-code-skill-factory/generated-skills%2Fms365-tenant-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.444Z",
+    "uniqueId": "sk_6ad9949c530d"
+  }
+}

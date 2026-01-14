@@ -1,0 +1,35 @@
+{
+  "id": "typescript-react-reviewer",
+  "name": "typescript-react-reviewer",
+  "version": "1.0.0",
+  "summary": "Expert code reviewer for TypeScript + React 19 applications. Use when reviewing React code, identifying anti-patterns, evaluating state management, or assessing code maintainabi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dotneet",
+    "github": "dotneet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dotneet/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/dotneet/claude-code-marketplace/main/review-tool/skills/typescript-react-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:07.682Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dotneet%2Fclaude-code-marketplace/review-tool%2Fskills%2Ftypescript-react-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_fa2483ee1c4d"
+  }
+}

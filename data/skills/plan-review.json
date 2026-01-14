@@ -1,0 +1,35 @@
+{
+  "id": "plan-review",
+  "name": "plan-review",
+  "version": "1.0.0",
+  "summary": "Use after plan is written to validate implementation plans across completeness, quality, feasibility, and scope dimensions - spawns specialized validators for failed dimensions ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seanGSISG",
+    "github": "seanGSISG"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seanGSISG/crispy-claude",
+    "skill_md": "https://raw.githubusercontent.com/seanGSISG/crispy-claude/main/.claude/skills/plan-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:30:07.302Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seanGSISG%2Fcrispy-claude/.claude%2Fskills%2Fplan-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_3031c19ea313"
+  }
+}

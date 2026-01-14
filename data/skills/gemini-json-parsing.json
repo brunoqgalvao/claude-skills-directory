@@ -1,0 +1,35 @@
+{
+  "id": "gemini-json-parsing",
+  "name": "gemini-json-parsing",
+  "version": "1.0.0",
+  "summary": "Parse Gemini CLI headless output (JSON and stream-JSON formats). Covers response extraction, stats interpretation, error handling, and tool call analysis. Use when processing Ge...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/google-ecosystem/skills/gemini-json-parsing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:14:02.138Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fgoogle-ecosystem%2Fskills%2Fgemini-json-parsing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_e78621cb5d43"
+  }
+}

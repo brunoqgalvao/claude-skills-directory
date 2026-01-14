@@ -1,0 +1,35 @@
+{
+  "id": "environment-bootstrap",
+  "name": "environment-bootstrap",
+  "version": "1.0.0",
+  "summary": "Use for development environment setup - create and maintain init scripts, run smoke tests, ensure consistent environment across sessions",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "troykelly",
+    "github": "troykelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/troykelly/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/troykelly/claude-skills/main/skills/environment-bootstrap/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.513Z",
+  "created_at": "2025-12-23T01:29:15.701Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/troykelly%2Fclaude-skills/skills%2Fenvironment-bootstrap%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_ee4c65906d28"
+  }
+}

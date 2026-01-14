@@ -1,0 +1,37 @@
+{
+  "id": "box-factory-status-line",
+  "name": "box-factory-status-line",
+  "version": "1.0.0",
+  "summary": "Practical guidance for Claude Code status lines - what to display for real workflow benefits, not just configuration syntax. Use when setting up status lines or wondering what i...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "racurry",
+    "github": "racurry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/racurry/neat-little-package",
+    "skill_md": "https://raw.githubusercontent.com/racurry/neat-little-package/main/plugins/box-factory/skills/status-line/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.494Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/racurry%2Fneat-little-package/plugins%2Fbox-factory%2Fskills%2Fstatus-line%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_3392728a33fd"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "using-security-architect",
+  "name": "using-security-architect",
+  "version": "1.0.0",
+  "summary": "Routes to security architecture skills - threat modeling, controls, compliance, authorization",
+  "verticals": [
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tachyon-beep",
+    "github": "tachyon-beep"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tachyon-beep/skillpacks",
+    "skill_md": "https://raw.githubusercontent.com/tachyon-beep/skillpacks/main/plugins/ordis-security-architect/skills/using-security-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:39.549Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tachyon-beep%2Fskillpacks/plugins%2Fordis-security-architect%2Fskills%2Fusing-security-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_f92707d90eb1"
+  }
+}

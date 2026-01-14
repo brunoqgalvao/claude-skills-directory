@@ -1,0 +1,36 @@
+{
+  "id": "ros2-node-patterns",
+  "name": "ros2-node-patterns",
+  "version": "1.0.0",
+  "summary": "Encodes ROS 2 best practices for node design, topic naming, publisher/subscriber patterns, and message handling. Used when creating ROS 2 code examples or architectural designs ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DevHammad0",
+    "github": "DevHammad0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DevHammad0/physical-ai-robotics-textbook",
+    "skill_md": "https://raw.githubusercontent.com/DevHammad0/physical-ai-robotics-textbook/main/.claude/skills/ros2-node-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:35.795Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DevHammad0%2Fphysical-ai-robotics-textbook/.claude%2Fskills%2Fros2-node-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_905a004a90a4"
+  }
+}

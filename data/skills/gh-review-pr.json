@@ -1,0 +1,35 @@
+{
+  "id": "gh-review-pr",
+  "name": "gh-review-pr",
+  "version": "1.0.0",
+  "summary": "Comprehensively review a pull request including code changes, CI status, and adherence to project standards. Use when asked to review a PR.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/gh-review-pr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T01:14:39.000Z",
+  "created_at": "2025-12-23T01:28:40.109Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Fgh-review-pr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_cb6f2a0abe2a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "gh-fix-pr-feedback",
+  "name": "gh-fix-pr-feedback",
+  "version": "1.0.0",
+  "summary": "Address PR review feedback by making changes and replying to comments. Use when a PR has open review comments needing responses.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/gh-fix-pr-feedback/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T01:14:39.000Z",
+  "created_at": "2025-12-23T01:28:38.000Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Fgh-fix-pr-feedback%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_ba3d793dc0a4"
+  }
+}

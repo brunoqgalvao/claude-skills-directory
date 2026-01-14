@@ -1,0 +1,35 @@
+{
+  "id": "tavily",
+  "name": "tavily",
+  "version": "1.0.0",
+  "summary": "Tavily AI search API integration via curl. Use this skill to perform live web search and RAG-style retrieval.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-skills",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-skills/main/tavily/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:58.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-skills/tavily%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_e1f1872e23cc"
+  }
+}

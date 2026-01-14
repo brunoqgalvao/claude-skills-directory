@@ -1,0 +1,37 @@
+{
+  "id": "performance-patterns",
+  "name": "performance-patterns",
+  "version": "1.0.0",
+  "summary": "Use when user asks about N+1 queries, performance optimization, query optimization, reduce API calls, improve render performance, fix slow code, optimize database, or reduce bun...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hculap",
+    "github": "hculap"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hculap/better-code",
+    "skill_md": "https://raw.githubusercontent.com/hculap/better-code/main/plugins/n1-optimizer/skills/performance-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:43.324Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hculap%2Fbetter-code/plugins%2Fn1-optimizer%2Fskills%2Fperformance-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_a18cb6a76ab4"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "text-message",
+  "name": "text-message",
+  "version": "1.0.0",
+  "summary": "Send text messages via Apple Messages app with automatic contact lookup and attachment support. This skill should be used when sending SMS/iMessage to contacts. Supports name-ba...",
+  "verticals": [
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arlenagreer",
+    "github": "arlenagreer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arlenagreer/claude_configuration_docs",
+    "skill_md": "https://raw.githubusercontent.com/arlenagreer/claude_configuration_docs/main/skills/text-message/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.591Z",
+  "created_at": "2025-12-23T00:23:57.839Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arlenagreer%2Fclaude_configuration_docs/skills%2Ftext-message%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.591Z",
+    "uniqueId": "sk_a4e8ad4bd3fe"
+  }
+}

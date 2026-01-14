@@ -1,0 +1,36 @@
+{
+  "id": "nextjs-v16",
+  "name": "nextjs-v16",
+  "version": "1.0.0",
+  "summary": "Next.js 16 specific features, breaking changes, and migration guide. Use when upgrading from Next.js 15, implementing Cache Components with \"use cache\", working with Turbopack, ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-nextjs-v16/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T01:47:15.000Z",
+  "created_at": "2025-12-23T01:29:00.793Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-nextjs-v16%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_138e1b3b77b1"
+  }
+}

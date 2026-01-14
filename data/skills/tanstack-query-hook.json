@@ -1,0 +1,35 @@
+{
+  "id": "tanstack-query-hook",
+  "name": "tanstack-query-hook",
+  "version": "1.0.0",
+  "summary": "Generate TanStack Query hooks for data fetching and mutations. Triggers on \"create tanstack query hook\", \"generate react query\", \"useQuery hook\", \"useMutation hook\".",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/tanstack-query-hook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.580Z",
+  "created_at": "2025-12-23T01:28:17.957Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/tanstack-query-hook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_9b14ac5d4087"
+  }
+}

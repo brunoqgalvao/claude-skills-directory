@@ -1,0 +1,36 @@
+{
+  "id": "firstspirit-fs-cli",
+  "name": "firstspirit-fs-cli",
+  "version": "1.0.0",
+  "summary": "FirstSpirit CMS template development using fs-cli. Helps set up fs-cli environment, export templates from FirstSpirit server, modify templates with Claude Code, and import chang...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rawe",
+    "github": "rawe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rawe/claude-dev-skills",
+    "skill_md": "https://raw.githubusercontent.com/rawe/claude-dev-skills/main/firstspirit-fs-cli/skills/firstspirit-fs-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T20:33:34.000Z",
+  "created_at": "2025-12-22T20:13:02.195Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rawe%2Fclaude-dev-skills/firstspirit-fs-cli%2Fskills%2Ffirstspirit-fs-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.759Z",
+    "uniqueId": "sk_efb68a6ee3bf"
+  }
+}

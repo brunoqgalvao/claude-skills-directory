@@ -1,0 +1,35 @@
+{
+  "id": "code-static-analysis-security",
+  "name": "code-static-analysis-security",
+  "version": "1.0.0",
+  "summary": "コード静的解析によるセキュリティ脆弱性検出のベストプラクティスを提供します。\nSAST（Static Application Security Testing）ツール、パターンベース検出、\nデータフロー分析によるSQLインジェクション、XSS、コマンドインジェクション、\nセンシティブデータ露出、危険な関数使用の検出を行います。\n\n使用タイミング:\n- ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/code-static-analysis-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:36.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fcode-static-analysis-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_30694879553a"
+  }
+}

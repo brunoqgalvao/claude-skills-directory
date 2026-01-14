@@ -1,0 +1,35 @@
+{
+  "id": "sentry-and-otel-setup",
+  "name": "sentry-and-otel-setup",
+  "version": "1.0.0",
+  "summary": "This skill should be used when adding error tracking and performance monitoring with Sentry and OpenTelemetry tracing to Next.js applications. Apply when setting up error monito...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/plugins/sentry-and-otel-setup/skills/sentry-and-otel-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.756Z",
+  "created_at": "2025-12-22T20:15:56.673Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/plugins%2Fsentry-and-otel-setup%2Fskills%2Fsentry-and-otel-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_1e7504c3c73a"
+  }
+}

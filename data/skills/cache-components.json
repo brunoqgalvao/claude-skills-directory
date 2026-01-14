@@ -1,0 +1,35 @@
+{
+  "id": "cache-components",
+  "name": "cache-components",
+  "version": "1.0.0",
+  "summary": "Implement Next.js 16 Cache Components with use cache directives, Suspense boundaries, and cacheLife profiles. Use when optimizing page performance or migrating components to cac...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sgcarstrends",
+    "github": "sgcarstrends"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sgcarstrends/sgcarstrends",
+    "skill_md": "https://raw.githubusercontent.com/sgcarstrends/sgcarstrends/main/.claude/skills/cache-components/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.677Z",
+  "created_at": "2025-12-22T22:12:38.940Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sgcarstrends%2Fsgcarstrends/.claude%2Fskills%2Fcache-components%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.677Z",
+    "uniqueId": "sk_a66091a6479b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "check-service-status",
+  "name": "check-service-status",
+  "version": "1.0.0",
+  "summary": "서비스 상태 확인. Use when (1) \"현황 알려줘\", (2) \"서비스 상태 확인\",\n(3) \"cm-* 상태 체크\". GitHub 레포 상태 및 최근 배포 정보 조회.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/ops/monitor/skills/check-service-status/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.857Z",
+  "created_at": "2025-12-22T15:12:27.265Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fops%2Fmonitor%2Fskills%2Fcheck-service-status%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_95d07d7f1f09"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pce-structuring",
+  "name": "pce-structuring",
+  "version": "1.0.0",
+  "summary": "PCE (Process-Context Engine) のコンテキスト構造化スキル。収集した知識を適切な場所・粒度で構造化し、再利用可能にする。\n\nトリガー条件:\n- 「CLAUDE.mdを更新して」\n- 「ADRを整理して」\n- 「知識を構造化して」\n- 「pce-memoryに登録して」\n- pce-collectionで蓄積された知見の整理時",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/pce-structuring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:24.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Fpce-structuring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_196bc931a013"
+  }
+}

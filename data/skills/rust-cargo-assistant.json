@@ -1,0 +1,36 @@
+{
+  "id": "rust-cargo-assistant",
+  "name": "rust-cargo-assistant",
+  "version": "1.0.0",
+  "summary": "Cargo build system, crate management, and Rust project configuration assistance.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CuriousLearner",
+    "github": "CuriousLearner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CuriousLearner/devkit",
+    "skill_md": "https://raw.githubusercontent.com/CuriousLearner/devkit/main/skills/rust-cargo-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:19:00.112Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CuriousLearner%2Fdevkit/skills%2Frust-cargo-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_f54c84b0feea"
+  }
+}

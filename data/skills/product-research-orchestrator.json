@@ -1,0 +1,35 @@
+{
+  "id": "product-research-orchestrator",
+  "name": "product-research-orchestrator",
+  "version": "1.0.0",
+  "summary": "Coordinates complete comparison of 2 products with parallel subagents and result aggregation. Use when user asks to 'compare X vs Y', 'compare two products', 'research products ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lola69160",
+    "github": "lola69160"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lola69160/claude-product-comparison",
+    "skill_md": "https://raw.githubusercontent.com/lola69160/claude-product-comparison/main/skills/product-research-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:36.613Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lola69160%2Fclaude-product-comparison/skills%2Fproduct-research-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_8702f6f298ed"
+  }
+}

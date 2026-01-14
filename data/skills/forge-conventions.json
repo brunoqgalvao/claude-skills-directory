@@ -1,0 +1,35 @@
+{
+  "id": "forge-conventions",
+  "name": "forge-conventions",
+  "version": "1.0.0",
+  "summary": "Project conventions for git commits, branch naming, and code style. Use when committing code, creating branches, or reviewing code style.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martimramos",
+    "github": "martimramos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martimramos/claude-forge",
+    "skill_md": "https://raw.githubusercontent.com/martimramos/claude-forge/main/skills/conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:46.907Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martimramos%2Fclaude-forge/skills%2Fconventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_19a4793efb58"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "self-extracting-script",
+  "name": "self-extracting-script",
+  "version": "1.0.0",
+  "summary": "Create self-extracting Bash scripts that embed any payload (archives, executables, configs) using base64 encoding. Use when creating portable single-file installers, deployment ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "apanoia",
+    "github": "apanoia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/apanoia/my_completely_irrelevant_claude_skillls",
+    "skill_md": "https://raw.githubusercontent.com/apanoia/my_completely_irrelevant_claude_skillls/main/skills/self-extracting-script/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T19:51:42.000Z",
+  "created_at": "2025-12-23T01:28:40.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/apanoia%2Fmy_completely_irrelevant_claude_skillls/skills%2Fself-extracting-script%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_4497fb6e66c5"
+  }
+}

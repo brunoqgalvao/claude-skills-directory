@@ -1,0 +1,36 @@
+{
+  "id": "postgresql",
+  "name": "postgresql",
+  "version": "1.0.0",
+  "summary": "PostgreSQL database documentation - SQL queries, database design, administration, performance tuning, and advanced features. Use when working with PostgreSQL databases, writing ...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "2025Emma",
+    "github": "2025Emma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/2025Emma/vibe-coding-cn",
+    "skill_md": "https://raw.githubusercontent.com/2025Emma/vibe-coding-cn/main/i18n/zh/skills/postgresql/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T00:27:42.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/2025Emma%2Fvibe-coding-cn/i18n%2Fzh%2Fskills%2Fpostgresql%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_085314eea277"
+  }
+}

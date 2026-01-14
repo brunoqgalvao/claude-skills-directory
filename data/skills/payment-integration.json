@@ -1,0 +1,37 @@
+{
+  "id": "payment-integration",
+  "name": "payment-integration",
+  "version": "1.0.0",
+  "summary": "Implement payment integrations with SePay (Vietnamese payment gateway with VietQR, bank transfers, cards) and Polar (global SaaS monetization platform with subscriptions, usage-...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "untangledfinance",
+    "github": "untangledfinance"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/untangledfinance/untangled-web",
+    "skill_md": "https://raw.githubusercontent.com/untangledfinance/untangled-web/main/.claude/skills/payment-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:56:35.165Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/untangledfinance%2Funtangled-web/.claude%2Fskills%2Fpayment-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_ae706f3b384b"
+  }
+}

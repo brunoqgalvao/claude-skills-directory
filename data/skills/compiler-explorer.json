@@ -1,0 +1,35 @@
+{
+  "id": "compiler-explorer",
+  "name": "compiler-explorer",
+  "version": "1.0.0",
+  "summary": "Optimize functions by generating and analyzing compiler assembly output. Use when asked to optimize a function, analyze generated assembly, or improve performance by examining w...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rockorager",
+    "github": "rockorager"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rockorager/skills",
+    "skill_md": "https://raw.githubusercontent.com/rockorager/skills/main/compiler-explorer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.210Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rockorager%2Fskills/compiler-explorer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_7bcff764f2a0"
+  }
+}

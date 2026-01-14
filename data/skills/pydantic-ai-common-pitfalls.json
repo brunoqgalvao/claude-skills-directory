@@ -1,0 +1,35 @@
+{
+  "id": "pydantic-ai-common-pitfalls",
+  "name": "pydantic-ai-common-pitfalls",
+  "version": "1.0.0",
+  "summary": "Avoid common mistakes and debug issues in PydanticAI agents. Use when encountering errors, unexpected behavior, or when reviewing agent implementations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "existential-birds",
+    "github": "existential-birds"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/existential-birds/beagle",
+    "skill_md": "https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-common-pitfalls/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:11:17.709Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/existential-birds%2Fbeagle/skills%2Fpydantic-ai-common-pitfalls%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_5a6e21d5332e"
+  }
+}

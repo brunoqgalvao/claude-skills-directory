@@ -1,0 +1,35 @@
+{
+  "id": "advisor",
+  "name": "advisor",
+  "version": "1.0.0",
+  "summary": "Use this skill when Claude needs an outside perspective on complex problems, is stuck on a technical challenge, needs validation of an approach, or wants consultation on archite...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "qduc",
+    "github": "qduc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/qduc/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/qduc/claude-skills/main/skills/advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T06:37:06.000Z",
+  "created_at": "2025-12-23T01:29:22.497Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/qduc%2Fclaude-skills/skills%2Fadvisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_7344599f17df"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "managing-cargo-dependencies",
+  "name": "managing-cargo-dependencies",
+  "version": "1.0.0",
+  "summary": "Cargo.toml dependency management patterns for HASH workspace. Use when adding dependencies, managing workspace dependencies, organizing Cargo.toml sections, setting version pinn...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_categorized/package-distribution/managing-cargo-dependencies/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:08:25.731Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_categorized%2Fpackage-distribution%2Fmanaging-cargo-dependencies%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_950132a571a2"
+  }
+}

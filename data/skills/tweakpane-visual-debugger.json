@@ -1,0 +1,36 @@
+{
+  "id": "tweakpane-visual-debugger",
+  "name": "tweakpane-visual-debugger",
+  "version": "1.0.0",
+  "summary": "This skill should be used when debugging visual CSS and layout issues in the tweakpane-table plugin, specifically for investigating column alignment problems between table heade...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amir-arad",
+    "github": "amir-arad"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amir-arad/tweakpane-table",
+    "skill_md": "https://raw.githubusercontent.com/amir-arad/tweakpane-table/main/.claude/skills/tweakpane-visual-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T22:51:54.000Z",
+  "created_at": "2025-12-22T20:03:19.957Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amir-arad%2Ftweakpane-table/.claude%2Fskills%2Ftweakpane-visual-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_d97b47685376"
+  }
+}

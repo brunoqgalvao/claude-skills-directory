@@ -1,0 +1,35 @@
+{
+  "id": "meeting-processor",
+  "name": "meeting-processor",
+  "version": "1.0.0",
+  "summary": "Process meeting notes from Granola (and future sources) into structured vault notes.\nExtracts decisions, action items, and key discussions while abstracting sensitive details.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sysylvia",
+    "github": "sysylvia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sysylvia/ssylvia-website",
+    "skill_md": "https://raw.githubusercontent.com/sysylvia/ssylvia-website/main/.claude/skills/meeting-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.160Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sysylvia%2Fssylvia-website/.claude%2Fskills%2Fmeeting-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_09eeca9b39b0"
+  }
+}

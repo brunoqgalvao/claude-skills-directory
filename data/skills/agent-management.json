@@ -1,0 +1,36 @@
+{
+  "id": "agent-management",
+  "name": "agent-management",
+  "version": "1.0.0",
+  "summary": "Use PROACTIVELY this agent when you need to design and create optimal Claude Code subagents, update existing agents with new capabilities, revise agent configurations, analyze p...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Emz1998",
+    "github": "Emz1998"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Emz1998/nexly-notes",
+    "skill_md": "https://raw.githubusercontent.com/Emz1998/nexly-notes/main/.claude/skills/agents-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:02:13.975Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Emz1998%2Fnexly-notes/.claude%2Fskills%2Fagents-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_167bb92b236a"
+  }
+}

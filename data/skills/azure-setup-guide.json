@@ -1,0 +1,36 @@
+{
+  "id": "azure-setup-guide",
+  "name": "azure-setup-guide",
+  "version": "1.0.0",
+  "summary": "Research and generate Azure deployment guide with EasyAuth (Google + Facebook) and CosmosDB. This skill searches for current documentation and screenshots to produce an up-to-da...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andersnygaard",
+    "github": "andersnygaard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andersnygaard/ettsted2",
+    "skill_md": "https://raw.githubusercontent.com/andersnygaard/ettsted2/main/.claude/skills/azure-setup-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:53.149Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andersnygaard%2Fettsted2/.claude%2Fskills%2Fazure-setup-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_b06fbf71c6d0"
+  }
+}

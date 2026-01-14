@@ -1,0 +1,37 @@
+{
+  "id": "integration-test",
+  "name": "integration-test",
+  "version": "1.0.0",
+  "summary": "Guide for writing integration tests with Vitest and Testing Library. Use when testing multi-component workflows, database interactions, React components with context providers, ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wodsmith",
+    "github": "wodsmith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wodsmith/thewodapp",
+    "skill_md": "https://raw.githubusercontent.com/wodsmith/thewodapp/main/.claude/skills/integration-test/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:14.547Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wodsmith%2Fthewodapp/.claude%2Fskills%2Fintegration-test%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_9c8c87897055"
+  }
+}

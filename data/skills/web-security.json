@@ -1,0 +1,35 @@
+{
+  "id": "web-security",
+  "name": "web-security",
+  "version": "1.0.0",
+  "summary": "Exploits web application vulnerabilities. Use when working with SQL injection, XSS, SSRF, SSTI, command injection, path traversal, authentication bypass, deserialization, or any...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kiwamizamurai",
+    "github": "kiwamizamurai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kiwamizamurai/cctf",
+    "skill_md": "https://raw.githubusercontent.com/kiwamizamurai/cctf/main/.claude/skills/web-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:03:11.072Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kiwamizamurai%2Fcctf/.claude%2Fskills%2Fweb-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_d568e649bef4"
+  }
+}

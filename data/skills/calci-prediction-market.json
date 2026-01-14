@@ -1,0 +1,35 @@
+{
+  "id": "calci-prediction-market",
+  "name": "calci-prediction-market",
+  "version": "1.0.0",
+  "summary": "Context and working knowledge for Calci’s prediction-market domain, which is powered by Kalshi. Use this skill whenever the user asks about Calci prediction markets, Kalshi mark...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ratacat",
+    "github": "ratacat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ratacat/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ratacat/claude-skills/main/skills/kalshi-prediction-market/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T04:12:32.000Z",
+  "created_at": "2025-12-22T17:12:23.575Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ratacat%2Fclaude-skills/skills%2Fkalshi-prediction-market%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_2f9ec778d13c"
+  }
+}

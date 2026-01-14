@@ -1,0 +1,36 @@
+{
+  "id": "symbols",
+  "name": "symbols",
+  "version": "1.0.0",
+  "summary": "Token-efficient codebase navigation through intelligent symbol loading and querying. Use this skill when implementing new features (find existing patterns), exploring codebase s...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "miethe",
+    "github": "miethe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/miethe/ai-scratchpad",
+    "skill_md": "https://raw.githubusercontent.com/miethe/ai-scratchpad/main/.claude/skills/symbols/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.593Z",
+  "created_at": "2025-12-23T00:23:39.008Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/miethe%2Fai-scratchpad/.claude%2Fskills%2Fsymbols%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.593Z",
+    "uniqueId": "sk_ef1ea0bb0d24"
+  }
+}

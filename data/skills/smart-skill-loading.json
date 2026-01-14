@@ -1,0 +1,36 @@
+{
+  "id": "smart-skill-loading",
+  "name": "smart-skill-loading",
+  "version": "1.0.0",
+  "summary": "Auto-detect and load minimal context from Skills folders using progressive disclosure, trimming 1400 tokens from system prompt through metadata-first loading. Use when optimizin...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dredd-us",
+    "github": "dredd-us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dredd-us/seashells",
+    "skill_md": "https://raw.githubusercontent.com/dredd-us/seashells/main/.claude/skills/smart-skill-loading/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T20:49:58.000Z",
+  "created_at": "2025-12-22T20:04:24.456Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dredd-us%2Fseashells/.claude%2Fskills%2Fsmart-skill-loading%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_94853ed6c10e"
+  }
+}

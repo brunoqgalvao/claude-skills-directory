@@ -1,0 +1,37 @@
+{
+  "id": "ops-devops-platform",
+  "name": "ops-devops-platform",
+  "version": "1.0.0",
+  "summary": "Production-grade DevOps patterns with Kubernetes 1.34+, Terraform 1.9+, Docker 27+, ArgoCD/FluxCD GitOps, SRE, eBPF-based observability, AI-driven monitoring, CI/CD security, an...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vasilyu1983",
+    "github": "vasilyu1983"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vasilyu1983/AI-Agents-public",
+    "skill_md": "https://raw.githubusercontent.com/vasilyu1983/AI-Agents-public/main/frameworks/claude-code-kit/framework/skills/ops-devops-platform/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:08:21.918Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vasilyu1983%2FAI-Agents-public/frameworks%2Fclaude-code-kit%2Fframework%2Fskills%2Fops-devops-platform%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_d5a5e9fca6e6"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "buck2-local-resources",
+  "name": "buck2-local-resources",
+  "version": "1.0.0",
+  "summary": "Create Buck2 tests with local resources (processes, services, databases) using LocalResourceInfo and ExternalRunnerTestInfo. Use when tests need external dependencies like datab...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thoughtpolice",
+    "github": "thoughtpolice"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thoughtpolice/a",
+    "skill_md": "https://raw.githubusercontent.com/thoughtpolice/a/main/.claude/skills/buck2-local-resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:54.461Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thoughtpolice%2Fa/.claude%2Fskills%2Fbuck2-local-resources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_283ba84a27a7"
+  }
+}

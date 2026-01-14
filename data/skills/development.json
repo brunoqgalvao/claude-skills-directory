@@ -1,0 +1,35 @@
+{
+  "id": "development",
+  "name": "development",
+  "version": "1.0.0",
+  "summary": "テスト駆動開発（TDD）方法論に従って新機能の実装やバグ修正を行う。新機能の実装、バグ修正、既存機能の拡張時に使用する。RED→GREEN→REFACTORサイクルをテストファーストアプローチで厳格に遵守する。高凝集度・低結合度・コロケーションを意識したアーキテクチャ設計を適用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "skanehira",
+    "github": "skanehira"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/skanehira/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/skanehira/dotfiles/main/claude/skills/development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:58.788Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/skanehira%2Fdotfiles/claude%2Fskills%2Fdevelopment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_a7b17ccc3c9f"
+  }
+}

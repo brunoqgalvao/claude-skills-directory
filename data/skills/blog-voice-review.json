@@ -1,0 +1,36 @@
+{
+  "id": "blog-voice-review",
+  "name": "blog-voice-review",
+  "version": "1.0.0",
+  "summary": "Review blog content for authentic voice and tone. Checks if content sounds like Fabio's conversational, honest technical writing style.\nTrigger phrases: \"voice\", \"voice review\",...",
+  "verticals": [
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fgrehm",
+    "github": "fgrehm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fgrehm/fabiorehm.com",
+    "skill_md": "https://raw.githubusercontent.com/fgrehm/fabiorehm.com/main/.claude/skills/blog-voice-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T22:05:29.000Z",
+  "created_at": "2025-12-23T01:28:34.530Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fgrehm%2Ffabiorehm.com/.claude%2Fskills%2Fblog-voice-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_8b1a0265d07d"
+  }
+}

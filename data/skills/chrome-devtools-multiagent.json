@@ -1,0 +1,37 @@
+{
+  "id": "chrome-devtools-multiagent",
+  "name": "chrome-devtools-multiagent",
+  "version": "1.0.0",
+  "summary": "Use when performing UI testing with Chrome DevTools MCP in a multi-agent worktree environment - ensures proper Chrome instance isolation to prevent cross-contamination between a...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brannonwinn",
+    "github": "brannonwinn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brannonwinn/theme-music-creator",
+    "skill_md": "https://raw.githubusercontent.com/brannonwinn/theme-music-creator/main/.claude/skills/chrome-devtools-multiagent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:15.310Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brannonwinn%2Ftheme-music-creator/.claude%2Fskills%2Fchrome-devtools-multiagent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_15bac8d4cf8a"
+  }
+}

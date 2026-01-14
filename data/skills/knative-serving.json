@@ -1,0 +1,36 @@
+{
+  "id": "knative-serving",
+  "name": "knative-serving",
+  "version": "1.0.0",
+  "summary": "Deploy serverless workloads with Knative Serving for scale-to-zero and autoscaling. Use for creating Knative Services, configuring autoscaling, traffic splitting, and revisions....",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "raphaelmansuy",
+    "github": "raphaelmansuy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/raphaelmansuy/k8s-agent-stack",
+    "skill_md": "https://raw.githubusercontent.com/raphaelmansuy/k8s-agent-stack/main/archive/skills/knative-serving/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:32.246Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/raphaelmansuy%2Fk8s-agent-stack/archive%2Fskills%2Fknative-serving%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_52701aa00661"
+  }
+}

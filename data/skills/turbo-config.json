@@ -1,0 +1,37 @@
+{
+  "id": "turbo-config",
+  "name": "turbo-config",
+  "version": "1.0.0",
+  "summary": "Turbo.json configuration template and validation logic for Turborepo pipelines. Use when creating or auditing turbo.json files to ensure correct pipeline task configuration, cac...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/config/build-tools/turbo-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:24.220Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fconfig%2Fbuild-tools%2Fturbo-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_71e6b609f092"
+  }
+}

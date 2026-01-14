@@ -1,0 +1,35 @@
+{
+  "id": "rls-validator",
+  "name": "rls-validator",
+  "version": "1.0.0",
+  "summary": "Supabase RLS 정책 자동 검증 - 테넌트 격리, 권한 흐름, 정책 활성화 상태 확인",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sihu-dev",
+    "github": "sihu-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sihu-dev/bidflow",
+    "skill_md": "https://raw.githubusercontent.com/sihu-dev/bidflow/main/.claude/skills/rls-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.509Z",
+  "created_at": "2025-12-23T01:29:19.007Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sihu-dev%2Fbidflow/.claude%2Fskills%2Frls-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_4aba7edea7fd"
+  }
+}

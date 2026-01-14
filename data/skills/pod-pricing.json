@@ -1,0 +1,35 @@
+{
+  "id": "pod-pricing",
+  "name": "pod-pricing",
+  "version": "1.0.0",
+  "summary": "Deterministic Etsy pricing calculator that respects fee structure and margin policies for POD products.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thebird-create",
+    "github": "thebird-create"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thebird-create/MOM",
+    "skill_md": "https://raw.githubusercontent.com/thebird-create/MOM/main/.claude/skills/pod-pricing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:05:59.619Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thebird-create%2FMOM/.claude%2Fskills%2Fpod-pricing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_161fe1d10913"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cloudflare-agents",
+  "name": "cloudflare-agents",
+  "version": "1.0.0",
+  "summary": "Build AI agents with Cloudflare Agents SDK on Workers + Durable Objects. Includes critical guidance on choosing between Agents SDK (infrastructure/state) vs AI SDK (simpler flow...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ovachiever",
+    "github": "ovachiever"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ovachiever/droid-tings",
+    "skill_md": "https://raw.githubusercontent.com/ovachiever/droid-tings/main/skills/cloudflare-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.468Z",
+  "created_at": "2025-12-23T01:30:52.904Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ovachiever%2Fdroid-tings/skills%2Fcloudflare-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.468Z",
+    "uniqueId": "sk_eac51d51a325"
+  }
+}

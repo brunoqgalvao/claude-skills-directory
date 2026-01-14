@@ -1,0 +1,35 @@
+{
+  "id": "lde-link-map",
+  "name": "lde-link-map",
+  "version": "1.0.0",
+  "summary": "LDE（Law-Driven Engineering）のLink Map（連結表）管理スキル。\nLaw ↔ Term の相互参照関係を可視化し、孤立の検出と影響分析を行う。\n使用タイミング: (1) Law Cardを作成した後、(2) Term Cardを作成した後、\n(3) 「Link Mapを更新して」「孤立チェックして」、(4) 変更影響分析時",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/lde-link-map/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:11:03.622Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Flde-link-map%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_61e4417a22ed"
+  }
+}

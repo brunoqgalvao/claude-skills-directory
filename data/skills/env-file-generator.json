@@ -1,0 +1,35 @@
+{
+  "id": "env-file-generator",
+  "name": "env-file-generator",
+  "version": "1.0.0",
+  "summary": "Generate properly structured .env environment files with common variables, documentation comments, and secure placeholder patterns. Triggers on \"create .env file\", \"generate env...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/env-file-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:56:54.748Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/env-file-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_64e5b23a6ee6"
+  }
+}

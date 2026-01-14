@@ -1,0 +1,35 @@
+{
+  "id": "go-developer",
+  "name": "go-developer",
+  "version": "1.0.0",
+  "summary": "Instructions for writing Go code following idiomatic Go practices and community standards",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "barrydobson",
+    "github": "barrydobson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/barrydobson/dotfiles_extra",
+    "skill_md": "https://raw.githubusercontent.com/barrydobson/dotfiles_extra/main/packages/claude/.claude/skills/go-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:00:56.204Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/barrydobson%2Fdotfiles_extra/packages%2Fclaude%2F.claude%2Fskills%2Fgo-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_b08c74e7f6f2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "drag-and-drop",
+  "name": "drag-and-drop",
+  "version": "1.0.0",
+  "summary": "Implement drag and drop using @atlaskit/pragmatic-drag-and-drop. Use when implementing sortable lists, reorderable items, kanban boards, or any drag-drop interactions. Covers dr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wodsmith",
+    "github": "wodsmith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wodsmith/thewodapp",
+    "skill_md": "https://raw.githubusercontent.com/wodsmith/thewodapp/main/.claude/skills/drag-and-drop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T18:59:50.798Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wodsmith%2Fthewodapp/.claude%2Fskills%2Fdrag-and-drop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_924a78ad9c5c"
+  }
+}

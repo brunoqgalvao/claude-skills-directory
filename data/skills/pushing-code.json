@@ -1,0 +1,35 @@
+{
+  "id": "pushing-code",
+  "name": "pushing-code",
+  "version": "1.0.0",
+  "summary": "Commits and pushes code changes. Used when work should be committed and/or pushed to Git.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fletchgqc",
+    "github": "fletchgqc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fletchgqc/heather",
+    "skill_md": "https://raw.githubusercontent.com/fletchgqc/heather/main/.claude/skills/accessing-github/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:30.540Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fletchgqc%2Fheather/.claude%2Fskills%2Faccessing-github%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_e196e5ffce42"
+  }
+}

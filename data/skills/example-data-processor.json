@@ -1,0 +1,36 @@
+{
+  "id": "example-data-processor",
+  "name": "example-data-processor",
+  "version": "1.0.0",
+  "summary": "Process CSV data files by cleaning, transforming, and analyzing them. Use this when users need to work with CSV files, clean data, or perform basic data analysis tasks.",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fkesheh",
+    "github": "fkesheh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fkesheh/skill-mcp",
+    "skill_md": "https://raw.githubusercontent.com/fkesheh/skill-mcp/main/example-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:06:11.617Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fkesheh%2Fskill-mcp/example-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_d4606bc60885"
+  }
+}

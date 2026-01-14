@@ -1,0 +1,35 @@
+{
+  "id": "editorial-image-generator",
+  "name": "editorial-image-generator",
+  "version": "1.0.0",
+  "summary": "Creates sophisticated HBR-style editorial illustrations for any content using AI understanding and visual analysis. Use when creating conceptual illustrations, analyzing generat...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tallyfy",
+    "github": "tallyfy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tallyfy/documentation",
+    "skill_md": "https://raw.githubusercontent.com/tallyfy/documentation/main/.claude/skills/article-image-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:48.751Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tallyfy%2Fdocumentation/.claude%2Fskills%2Farticle-image-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_15aeaaffcef2"
+  }
+}

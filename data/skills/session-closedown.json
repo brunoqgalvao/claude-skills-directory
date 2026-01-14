@@ -1,0 +1,35 @@
+{
+  "id": "session-closedown",
+  "name": "session-closedown",
+  "version": "1.0.0",
+  "summary": "End-of-session ritual for tidying artifacts, committing work, and extracting learnings for CLAUDE.md. Invoke when wrapping up a session, especially after significant work or dis...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "spm1001",
+    "github": "spm1001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/spm1001/claude-config-public",
+    "skill_md": "https://raw.githubusercontent.com/spm1001/claude-config-public/main/skills/session-closedown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:54:38.560Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/spm1001%2Fclaude-config-public/skills%2Fsession-closedown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_b01946e6830f"
+  }
+}

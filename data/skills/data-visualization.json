@@ -1,0 +1,35 @@
+{
+  "id": "data-visualization",
+  "name": "data-visualization",
+  "version": "1.0.0",
+  "summary": "Create charts, graphs, and visualizations from data. Use when the user needs to visualize data, create charts, or generate reports with graphics.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "0xkynz",
+    "github": "0xkynz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/0xkynz/codekit",
+    "skill_md": "https://raw.githubusercontent.com/0xkynz/codekit/main/templates/skills/data-visualization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:19.555Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/0xkynz%2Fcodekit/templates%2Fskills%2Fdata-visualization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_db5b6b925012"
+  }
+}

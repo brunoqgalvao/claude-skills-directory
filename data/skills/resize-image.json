@@ -1,0 +1,35 @@
+{
+  "id": "resize-image",
+  "name": "resize-image",
+  "version": "1.0.0",
+  "summary": "Resize images using ImageMagick when they are too large to view or process. Use this skill when you encounter an image file that exceeds token limits, is too large to read, or w...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ponderingBGI",
+    "github": "ponderingBGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ponderingBGI/openjammer",
+    "skill_md": "https://raw.githubusercontent.com/ponderingBGI/openjammer/main/.claude/skills/resize-image/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.842Z",
+  "created_at": "2025-12-22T16:06:31.722Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ponderingBGI%2Fopenjammer/.claude%2Fskills%2Fresize-image%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.842Z",
+    "uniqueId": "sk_8bc73099d3bb"
+  }
+}

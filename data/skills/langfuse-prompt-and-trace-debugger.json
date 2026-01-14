@@ -1,0 +1,35 @@
+{
+  "id": "langfuse-prompt-and-trace-debugger",
+  "name": "langfuse-prompt-and-trace-debugger",
+  "version": "1.0.0",
+  "summary": "MANDATORY skill when KeyError or schema errors occur. Fetch actual prompt schemas instead of guessing. Use for debugging traces and understanding AI model behavior.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cncorp",
+    "github": "cncorp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cncorp/arsenal",
+    "skill_md": "https://raw.githubusercontent.com/cncorp/arsenal/main/dot-claude/skills/langfuse-prompt-and-trace-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:18.634Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cncorp%2Farsenal/dot-claude%2Fskills%2Flangfuse-prompt-and-trace-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_fbf325402017"
+  }
+}

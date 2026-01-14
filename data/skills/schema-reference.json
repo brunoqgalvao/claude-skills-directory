@@ -1,0 +1,36 @@
+{
+  "id": "schema-reference",
+  "name": "schema-reference",
+  "version": "1.0.0",
+  "summary": "Automatically reference and validate schemas from both legacy data sources and medallion layer data sources (bronze, silver, gold) before generating PySpark transformation code....",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "linus-mcmanamey",
+    "github": "linus-mcmanamey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/linus-mcmanamey/multi-agent-user-story-development",
+    "skill_md": "https://raw.githubusercontent.com/linus-mcmanamey/multi-agent-user-story-development/main/.claude/skills/schema-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:04:02.828Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/linus-mcmanamey%2Fmulti-agent-user-story-development/.claude%2Fskills%2Fschema-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_cf156951f55a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "slide-builder",
+  "name": "slide-builder",
+  "version": "1.0.0",
+  "summary": "Creates professional presentation slides in GitHub markdown format for educational content. Use when the user asks to create slides, build a presentation, or needs visual teachi...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SquizAI",
+    "github": "SquizAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SquizAI/AI_bootcamp",
+    "skill_md": "https://raw.githubusercontent.com/SquizAI/AI_bootcamp/main/.claude/skills/slide-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:51:36.522Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SquizAI%2FAI_bootcamp/.claude%2Fskills%2Fslide-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_f628d2bd0bf8"
+  }
+}

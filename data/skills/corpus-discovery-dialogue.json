@@ -1,0 +1,35 @@
+{
+  "id": "corpus-discovery-dialogue",
+  "name": "corpus-discovery-dialogue",
+  "version": "1.0.0",
+  "summary": "Guide Socratic discovery of research questions and analytical approaches for text corpus analysis",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AJBcoding",
+    "github": "AJBcoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AJBcoding/claude-skill-eval",
+    "skill_md": "https://raw.githubusercontent.com/AJBcoding/claude-skill-eval/main/.claude/skills/corpus-discovery-dialogue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.467Z",
+  "created_at": "2025-12-23T01:30:54.163Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AJBcoding%2Fclaude-skill-eval/.claude%2Fskills%2Fcorpus-discovery-dialogue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_9facfcccb357"
+  }
+}

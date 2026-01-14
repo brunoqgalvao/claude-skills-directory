@@ -1,0 +1,37 @@
+{
+  "id": "architecture-compliance",
+  "name": "architecture-compliance",
+  "version": "1.0.0",
+  "summary": "Verify Tetris architecture compliance with coding rules and design patterns. Use when reviewing code, implementing features, refactoring, or validating architectural decisions. ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sakataka",
+    "github": "sakataka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sakataka/tetris-game2",
+    "skill_md": "https://raw.githubusercontent.com/sakataka/tetris-game2/main/.claude/skills/architecture-compliance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:12.099Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sakataka%2Ftetris-game2/.claude%2Fskills%2Farchitecture-compliance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_bc4acb0f4d7c"
+  }
+}

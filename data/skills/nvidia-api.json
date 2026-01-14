@@ -1,0 +1,36 @@
+{
+  "id": "nvidia-api",
+  "name": "nvidia-api",
+  "version": "1.0.0",
+  "summary": "NVIDIA API documentation for integrating NVIDIA services. Use for NVIDIA NIM (NVIDIA Inference Microservices), LLM APIs, visual models, multimodal APIs, retrieval APIs, healthca...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rish2jain",
+    "github": "rish2jain"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rish2jain/paperresearchagent",
+    "skill_md": "https://raw.githubusercontent.com/rish2jain/paperresearchagent/main/.claude/skills/nvidia-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.675Z",
+  "created_at": "2025-12-22T22:13:47.861Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rish2jain%2Fpaperresearchagent/.claude%2Fskills%2Fnvidia-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.675Z",
+    "uniqueId": "sk_50d9122c37d6"
+  }
+}

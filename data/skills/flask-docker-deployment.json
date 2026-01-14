@@ -1,0 +1,35 @@
+{
+  "id": "flask-docker-deployment",
+  "name": "flask-docker-deployment",
+  "version": "1.0.0",
+  "summary": "Set up Docker deployment for Flask applications with Gunicorn, automated versioning, and container registry publishing. Use when dockerizing a Flask app, containerizing for prod...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmazzahacks",
+    "github": "jmazzahacks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmazzahacks/byteforge-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jmazzahacks/byteforge-claude-skills/main/skills/flask-docker-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:25.535Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmazzahacks%2Fbyteforge-claude-skills/skills%2Fflask-docker-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_9ae5df78daa5"
+  }
+}

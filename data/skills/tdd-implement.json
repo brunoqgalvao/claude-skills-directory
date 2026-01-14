@@ -1,0 +1,35 @@
+{
+  "id": "tdd-implement",
+  "name": "tdd-implement",
+  "version": "1.0.0",
+  "summary": "Implement features using test-driven development. Use when fixing bugs, implementing well-defined tasks, or when user mentions TDD, testing, or asks to fix/implement something s...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BPSAI",
+    "github": "BPSAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BPSAI/paircoder",
+    "skill_md": "https://raw.githubusercontent.com/BPSAI/paircoder/main/.claude/skills/tdd-implement/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:34.298Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BPSAI%2Fpaircoder/.claude%2Fskills%2Ftdd-implement%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_dea566ad5c18"
+  }
+}

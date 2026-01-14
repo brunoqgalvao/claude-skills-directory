@@ -1,0 +1,37 @@
+{
+  "id": "midnight-developer",
+  "name": "midnight-developer",
+  "version": "1.0.0",
+  "summary": "This skill should be used when Ethereum developers are building smart contracts on pod network. It explains pod's coordination-free, blockless execution model, teaches order-ind...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aaronbassett",
+    "github": "aaronbassett"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aaronbassett/midnight-summit-hackathon-2025",
+    "skill_md": "https://raw.githubusercontent.com/aaronbassett/midnight-summit-hackathon-2025/main/midnight-rigging/midnight-plugin/skills/midnight-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:16.425Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aaronbassett%2Fmidnight-summit-hackathon-2025/midnight-rigging%2Fmidnight-plugin%2Fskills%2Fmidnight-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_5d26effb5504"
+  }
+}

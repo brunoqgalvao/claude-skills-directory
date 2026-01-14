@@ -1,0 +1,36 @@
+{
+  "id": "notebooklm-automation",
+  "name": "notebooklm-automation",
+  "version": "1.0.0",
+  "summary": "Automate creation of multiple audio overviews in Google NotebookLM using Playwright. Use when the user needs to generate multiple audio podcasts from web sources with different ...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "christag",
+    "github": "christag"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/christag/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/christag/claude-skills/main/notebooklm-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T04:32:36.000Z",
+  "created_at": "2025-12-22T17:05:11.051Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/christag%2Fclaude-skills/notebooklm-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_76e9efc6b892"
+  }
+}

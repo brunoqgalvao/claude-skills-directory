@@ -1,0 +1,36 @@
+{
+  "id": "loopwish-openapi-contract",
+  "name": "loopwish-openapi-contract",
+  "version": "1.0.0",
+  "summary": "Keep web expectations and the shared OpenAPI spec in sync. Use when frontend work implies new/changed backend endpoints so the contract in the shared repo stays accurate.",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LoopWish",
+    "github": "LoopWish"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LoopWish/web",
+    "skill_md": "https://raw.githubusercontent.com/LoopWish/web/main/.github/skills/loopwish-openapi-contract/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:59:26.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LoopWish%2Fweb/.github%2Fskills%2Floopwish-openapi-contract%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_e389f12bac7b"
+  }
+}

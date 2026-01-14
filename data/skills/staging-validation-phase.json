@@ -1,0 +1,37 @@
+{
+  "id": "staging-validation-phase",
+  "name": "staging-validation-phase",
+  "version": "1.0.0",
+  "summary": "Guides manual staging validation before production deployment through smoke tests, critical user flow testing, data migration verification, and rollback capability checks. Use w...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusgoll",
+    "github": "marcusgoll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusgoll/Spec-Flow",
+    "skill_md": "https://raw.githubusercontent.com/marcusgoll/Spec-Flow/main/.claude/skills/staging-validation-phase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.603Z",
+  "created_at": "2025-12-23T00:07:51.489Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusgoll%2FSpec-Flow/.claude%2Fskills%2Fstaging-validation-phase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.603Z",
+    "uniqueId": "sk_7d3a9ad15c59"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "verify-content",
+  "name": "verify-content",
+  "version": "1.0.0",
+  "summary": "Integrated skill for fact-checking and reference verification. Covers claim identification, source verification, and reference management. Use for document review, article proof...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dobachi",
+    "github": "dobachi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dobachi/AI_Instruction_Kits",
+    "skill_md": "https://raw.githubusercontent.com/dobachi/AI_Instruction_Kits/main/templates/claude-skills/en/verify-content/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:49.972Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dobachi%2FAI_Instruction_Kits/templates%2Fclaude-skills%2Fen%2Fverify-content%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_349d404707ac"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "long-context",
+  "name": "long-context",
+  "version": "1.0.0",
+  "summary": "Extend context windows of transformer models using RoPE, YaRN, ALiBi, and position interpolation techniques. Use when processing long documents (32k-128k+ tokens), extending pre...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ovachiever",
+    "github": "ovachiever"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ovachiever/droid-tings",
+    "skill_md": "https://raw.githubusercontent.com/ovachiever/droid-tings/main/skills/long-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.450Z",
+  "created_at": "2025-12-23T01:29:41.534Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ovachiever%2Fdroid-tings/skills%2Flong-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_40bc7df68a5f"
+  }
+}

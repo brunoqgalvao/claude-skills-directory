@@ -1,0 +1,35 @@
+{
+  "id": "requirements-analysis",
+  "name": "requirements-analysis",
+  "version": "1.0.0",
+  "summary": "ユーザー要件を分析し、システム設計ドキュメント(DESIGN.md)を生成する。ユーザーの要求が曖昧な場合、システムアーキテクチャの設計が必要な場合、詳細な設計仕様が必要な場合に使用する。不明点はAskUserQuestionツールで確認する。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "skanehira",
+    "github": "skanehira"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/skanehira/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/skanehira/dotfiles/main/claude/skills/requirements-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:56:51.104Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/skanehira%2Fdotfiles/claude%2Fskills%2Frequirements-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_6f137f4c5b31"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cloudflare-ci-cd-github-actions",
+  "name": "cloudflare-ci-cd-github-actions",
+  "version": "1.0.0",
+  "summary": "Use this skill whenever the user wants to set up, refactor, or maintain a GitHub Actions CI/CD pipeline for deploying Cloudflare Workers/Pages apps (e.g. Hono + TypeScript) with...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentiveCity",
+    "github": "AgentiveCity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentiveCity/SkillFactory",
+    "skill_md": "https://raw.githubusercontent.com/AgentiveCity/SkillFactory/main/.claude/skills/cloudflare-ci-cd-github-actions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.757Z",
+  "created_at": "2025-12-22T20:15:12.085Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentiveCity%2FSkillFactory/.claude%2Fskills%2Fcloudflare-ci-cd-github-actions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.757Z",
+    "uniqueId": "sk_a8483ba3dcb1"
+  }
+}

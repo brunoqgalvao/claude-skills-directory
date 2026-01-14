@@ -1,0 +1,37 @@
+{
+  "id": "building-recommendation-systems",
+  "name": "building-recommendation-systems",
+  "version": "1.0.0",
+  "summary": "This skill empowers Claude to construct recommendation systems using collaborative filtering, content-based filtering, or hybrid approaches. It analyzes user preferences, item f...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/ai-ml/recommendation-engine/skills/recommendation-engine/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:05:41.691Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskills-migration-20251108-070147%2Fplugins%2Fai-ml%2Frecommendation-engine%2Fskills%2Frecommendation-engine%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_52c89600746e"
+  }
+}

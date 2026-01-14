@@ -1,0 +1,35 @@
+{
+  "id": "absinthe-resolvers",
+  "name": "absinthe-resolvers",
+  "version": "1.0.0",
+  "summary": "Use when implementing GraphQL resolvers with Absinthe. Covers resolver patterns, dataloader integration, batching, and error handling.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TheBushidoCollective",
+    "github": "TheBushidoCollective"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TheBushidoCollective/han",
+    "skill_md": "https://raw.githubusercontent.com/TheBushidoCollective/han/main/jutsu/jutsu-absinthe-graphql/skills/absinthe-resolvers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.845Z",
+  "created_at": "2025-12-22T16:04:39.777Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TheBushidoCollective%2Fhan/jutsu%2Fjutsu-absinthe-graphql%2Fskills%2Fabsinthe-resolvers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_d21242dfc058"
+  }
+}

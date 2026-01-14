@@ -1,0 +1,35 @@
+{
+  "id": "version-management",
+  "name": "version-management",
+  "version": "1.0.0",
+  "summary": "Technology-agnostic version management system with Git tags as source of truth",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hitoshura25",
+    "github": "hitoshura25"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hitoshura25/claude-devtools",
+    "skill_md": "https://raw.githubusercontent.com/hitoshura25/claude-devtools/main/skills/version-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:08:56.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hitoshura25%2Fclaude-devtools/skills%2Fversion-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_2f53f97c3f90"
+  }
+}

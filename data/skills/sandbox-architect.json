@@ -1,0 +1,37 @@
+{
+  "id": "sandbox-architect",
+  "name": "sandbox-architect",
+  "version": "1.0.0",
+  "summary": "Analyze codebases to generate optimal Claude Code Sandbox configurations. Use this skill when users need to set up sandbox security settings for their projects. This skill shoul...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanonn",
+    "github": "nathanonn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanonn/claude-skills-sandbox-architect",
+    "skill_md": "https://raw.githubusercontent.com/nathanonn/claude-skills-sandbox-architect/main/.claude/skills/sandbox-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:14:01.994Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanonn%2Fclaude-skills-sandbox-architect/.claude%2Fskills%2Fsandbox-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_7aac14bb6145"
+  }
+}

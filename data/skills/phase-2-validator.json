@@ -1,0 +1,36 @@
+{
+  "id": "phase-2-validator",
+  "name": "phase-2-validator",
+  "version": "1.0.0",
+  "summary": "Validates Design Phase completion before advancing to Implementation Phase. Checks functional specifications, database design, and UI/UX design for completeness and technical fe...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DarkMonkDev",
+    "github": "DarkMonkDev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DarkMonkDev/WitchCityRope",
+    "skill_md": "https://raw.githubusercontent.com/DarkMonkDev/WitchCityRope/main/.claude/skills/phase-2-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:42.183Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DarkMonkDev%2FWitchCityRope/.claude%2Fskills%2Fphase-2-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_b6d64a293c13"
+  }
+}

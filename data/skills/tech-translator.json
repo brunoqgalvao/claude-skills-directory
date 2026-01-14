@@ -1,0 +1,36 @@
+{
+  "id": "tech-translator",
+  "name": "tech-translator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to translate technical documents, API documentation, academic papers, or any technical content while preserving technical accuracy and ...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stallboy",
+    "github": "stallboy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stallboy/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/stallboy/claude-code-marketplace/main/plugins/tech-translator/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:06:35.335Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stallboy%2Fclaude-code-marketplace/plugins%2Ftech-translator%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_483c364e47d5"
+  }
+}

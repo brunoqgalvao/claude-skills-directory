@@ -1,0 +1,37 @@
+{
+  "id": "verify-training-pipeline",
+  "name": "verify-training-pipeline",
+  "version": "1.0.0",
+  "summary": "Verify a CVlization training pipeline example is properly structured, can build, trains successfully, and logs appropriate metrics. Use when validating example implementations o...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kungfuai",
+    "github": "kungfuai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kungfuai/CVlization",
+    "skill_md": "https://raw.githubusercontent.com/kungfuai/CVlization/main/.claude/skills/verify-training-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:11:02.823Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kungfuai%2FCVlization/.claude%2Fskills%2Fverify-training-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_3c485dba440b"
+  }
+}

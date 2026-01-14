@@ -1,0 +1,35 @@
+{
+  "id": "conversation-style",
+  "name": "conversation-style",
+  "version": "1.0.0",
+  "summary": "Conversation style guidelines. Use when responding to the user.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "motlin",
+    "github": "motlin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/motlin/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/motlin/claude-code-plugins/main/plugins/orchestration/skills/conversation-style/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T15:59:55.000Z",
+  "created_at": "2025-12-22T14:15:40.229Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/motlin%2Fclaude-code-plugins/plugins%2Forchestration%2Fskills%2Fconversation-style%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_937f755e532e"
+  }
+}

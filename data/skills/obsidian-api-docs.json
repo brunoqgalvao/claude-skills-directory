@@ -1,0 +1,35 @@
+{
+  "id": "obsidian-api-docs",
+  "name": "obsidian-api-docs",
+  "version": "1.0.0",
+  "summary": "Look up Obsidian plugin API documentation for specific features and patterns",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jwplatta",
+    "github": "jwplatta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jwplatta/prompt-library",
+    "skill_md": "https://raw.githubusercontent.com/jwplatta/prompt-library/main/claude/plugins/obsidian-plugin-builder/skills/obsidian-api-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-01T19:58:56.000Z",
+  "created_at": "2025-12-23T01:28:46.876Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jwplatta%2Fprompt-library/claude%2Fplugins%2Fobsidian-plugin-builder%2Fskills%2Fobsidian-api-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_e43cefced3c2"
+  }
+}

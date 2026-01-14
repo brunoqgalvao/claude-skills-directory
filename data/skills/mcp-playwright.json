@@ -1,0 +1,37 @@
+{
+  "id": "mcp-playwright",
+  "name": "mcp-playwright",
+  "version": "1.0.0",
+  "summary": "This skill provides guidance for using Playwright MCP for browser automation. Use when navigating web pages, interacting with web elements, taking screenshots, filling forms, ru...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "s-hiraoku",
+    "github": "s-hiraoku"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/s-hiraoku/vscode-sidebar-terminal",
+    "skill_md": "https://raw.githubusercontent.com/s-hiraoku/vscode-sidebar-terminal/main/.claude/skills/mcp-playwright/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T09:25:22.000Z",
+  "created_at": "2025-12-22T16:56:44.970Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/s-hiraoku%2Fvscode-sidebar-terminal/.claude%2Fskills%2Fmcp-playwright%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_e7ed14b3ba38"
+  }
+}

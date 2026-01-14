@@ -1,0 +1,35 @@
+{
+  "id": "gap-analysis",
+  "name": "gap-analysis",
+  "version": "1.0.0",
+  "summary": "Compare current state to target state architecture. Scoped to technical options - requires business context for complete analysis.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/enterprise-architecture/skills/gap-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T20:21:53.000Z",
+  "created_at": "2025-12-22T17:56:57.578Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fenterprise-architecture%2Fskills%2Fgap-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_e21ca00d2fe2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "comp-scout-scrape",
+  "name": "comp-scout-scrape",
+  "version": "1.0.0",
+  "summary": "Scrape competition websites, extract structured data, and auto-persist to GitHub issues. Creates issues for new competitions, adds comments for duplicates.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "discreteds",
+    "github": "discreteds"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/discreteds/competition-scout",
+    "skill_md": "https://raw.githubusercontent.com/discreteds/competition-scout/main/skills/comp-scout-scrape/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:19:45.130Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/discreteds%2Fcompetition-scout/skills%2Fcomp-scout-scrape%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_e3b3ca351370"
+  }
+}

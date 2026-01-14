@@ -1,0 +1,37 @@
+{
+  "id": "standalone-service",
+  "name": "standalone-service",
+  "version": "1.0.0",
+  "summary": "Use when building simple standalone service or microservice with its own database - provides complete setup without shared pool complexity",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "juanre",
+    "github": "juanre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/juanre/pgdbm",
+    "skill_md": "https://raw.githubusercontent.com/juanre/pgdbm/main/skills/standalone-service/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:49.032Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanre%2Fpgdbm/skills%2Fstandalone-service%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_13a82e0e34f7"
+  }
+}

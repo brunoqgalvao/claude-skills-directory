@@ -1,0 +1,35 @@
+{
+  "id": "beads",
+  "name": "beads",
+  "version": "1.0.0",
+  "summary": "Work with Beads issue tracker for AI agent memory. Use when managing tasks, tracking dependencies, filing issues, or maintaining context across coding sessions. Handles bd comma...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mrf",
+    "github": "mrf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mrf/beads-skill",
+    "skill_md": "https://raw.githubusercontent.com/mrf/beads-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:29.564Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mrf%2Fbeads-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_cee689f86dcb"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "api-generator",
+  "name": "api-generator",
+  "version": "1.0.0",
+  "summary": "Generate CRUD API endpoints automatically. User doesn't see routes.\nUse when: features need backend logic.\nTriggers: internal use only.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/vibe-coder/skills/api-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T08:01:28.000Z",
+  "created_at": "2025-12-22T15:09:35.104Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/vibe-coder%2Fskills%2Fapi-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_902ec54592f7"
+  }
+}

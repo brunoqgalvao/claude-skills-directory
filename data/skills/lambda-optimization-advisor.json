@@ -1,0 +1,35 @@
+{
+  "id": "lambda-optimization-advisor",
+  "name": "lambda-optimization-advisor",
+  "version": "1.0.0",
+  "summary": "Reviews AWS Lambda functions for performance, memory configuration, and cost optimization. Activates when users write Lambda handlers or discuss Lambda performance.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EmilLindfors",
+    "github": "EmilLindfors"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EmilLindfors/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/EmilLindfors/claude-marketplace/main/plugins/rust-lambda/skills/lambda-optimization-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:51.559Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EmilLindfors%2Fclaude-marketplace/plugins%2Frust-lambda%2Fskills%2Flambda-optimization-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_aca88fde61da"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "forge-tdd",
+  "name": "forge-tdd",
+  "version": "1.0.0",
+  "summary": "Enforces test-driven development workflow for Claude Code. Implements Red-Green-Refactor cycle with configurable gates. Use when writing code, implementing features, or fixing b...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martimramos",
+    "github": "martimramos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martimramos/claude-forge",
+    "skill_md": "https://raw.githubusercontent.com/martimramos/claude-forge/main/skills/tdd/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.860Z",
+  "created_at": "2025-12-22T15:08:37.414Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martimramos%2Fclaude-forge/skills%2Ftdd%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_6e8af934b4c5"
+  }
+}

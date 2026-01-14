@@ -1,0 +1,36 @@
+{
+  "id": "helm-chart-scaffolding",
+  "name": "helm-chart-scaffolding",
+  "version": "1.0.0",
+  "summary": "Design, organize, and manage Helm charts for templating and packaging Kubernetes applications with reusable configurations. Use when creating Helm charts, packaging Kubernetes a...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HermeticOrmus",
+    "github": "HermeticOrmus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HermeticOrmus/after-the-third-cup",
+    "skill_md": "https://raw.githubusercontent.com/HermeticOrmus/after-the-third-cup/main/plugins/kubernetes-operations/skills/helm-chart-scaffolding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:15:19.015Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HermeticOrmus%2Fafter-the-third-cup/plugins%2Fkubernetes-operations%2Fskills%2Fhelm-chart-scaffolding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_39a9b41f7074"
+  }
+}

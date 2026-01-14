@@ -1,0 +1,35 @@
+{
+  "id": "create-repository",
+  "name": "create-repository",
+  "version": "1.0.0",
+  "summary": "Create Repository interface and Finder interface for domain entity persistence. Use when entity needs persistence layer with commands (save, delete) and queries (find, findAll)....",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Dev-Int",
+    "github": "Dev-Int"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Dev-Int/tests",
+    "skill_md": "https://raw.githubusercontent.com/Dev-Int/tests/main/.claude/skills/create-repository/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:47.052Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Dev-Int%2Ftests/.claude%2Fskills%2Fcreate-repository%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_0e299574f052"
+  }
+}

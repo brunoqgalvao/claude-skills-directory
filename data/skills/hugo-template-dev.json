@@ -1,0 +1,37 @@
+{
+  "id": "hugo-template-dev",
+  "name": "hugo-template-dev",
+  "version": "1.0.0",
+  "summary": "Hugo template development skill for InfluxData docs-v2. Enforces proper build and runtime testing to catch template errors that build-only validation misses.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "influxdata",
+    "github": "influxdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/influxdata/docs-v2",
+    "skill_md": "https://raw.githubusercontent.com/influxdata/docs-v2/main/.claude/skills/hugo-template-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.478Z",
+  "created_at": "2025-12-23T01:29:47.222Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/influxdata%2Fdocs-v2/.claude%2Fskills%2Fhugo-template-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_bb78f714ce3d"
+  }
+}

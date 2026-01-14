@@ -1,0 +1,36 @@
+{
+  "id": "codebase-analysis",
+  "name": "codebase-analysis",
+  "version": "1.0.0",
+  "summary": "Codebase analysis using Codex CLI with read-only sandbox. Trigger when user needs architecture overview (\"analyze this codebase with Codex\", \"have Codex map dependencies\"), onbo...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robbyt",
+    "github": "robbyt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robbyt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/robbyt/claude-skills/main/plugins/codex/skills/codebase-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T21:19:59.000Z",
+  "created_at": "2025-12-22T16:07:34.073Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robbyt%2Fclaude-skills/plugins%2Fcodex%2Fskills%2Fcodebase-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_98bfdf10f47a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "worldcrafter-auth-guard",
+  "name": "worldcrafter-auth-guard",
+  "version": "1.0.0",
+  "summary": "Add authentication and authorization to routes, Server Actions, and API endpoints using Supabase Auth. Use when user needs \"protect [route]\", \"add authentication\", \"require logi...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldcrafter-v2",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldcrafter-v2/main/.claude/skills/worldcrafter-auth-guard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:27:08.805Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldcrafter-v2/.claude%2Fskills%2Fworldcrafter-auth-guard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_5b4dd516ef0d"
+  }
+}

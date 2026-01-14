@@ -1,0 +1,37 @@
+{
+  "id": "supabase-mcp-integration",
+  "name": "supabase-mcp-integration",
+  "version": "1.0.0",
+  "summary": "Comprehensive Supabase integration covering authentication, database operations, realtime subscriptions, storage, and MCP server patterns for building production-ready backends ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/crush-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/manutej/crush-mcp-server/main/.claude/skills/supabase-mcp-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.469Z",
+  "created_at": "2025-12-23T01:30:51.072Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fcrush-mcp-server/.claude%2Fskills%2Fsupabase-mcp-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.469Z",
+    "uniqueId": "sk_522c766e2c43"
+  }
+}

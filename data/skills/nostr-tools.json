@@ -1,0 +1,36 @@
+{
+  "id": "nostr-tools",
+  "name": "nostr-tools",
+  "version": "1.0.0",
+  "summary": "This skill should be used when working with nostr-tools library for Nostr protocol operations, including event creation, signing, filtering, relay communication, and NIP impleme...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "purrgrammer",
+    "github": "purrgrammer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/purrgrammer/grimoire",
+    "skill_md": "https://raw.githubusercontent.com/purrgrammer/grimoire/main/.claude/skills/nostr-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.657Z",
+  "created_at": "2025-12-22T23:00:32.812Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/purrgrammer%2Fgrimoire/.claude%2Fskills%2Fnostr-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.657Z",
+    "uniqueId": "sk_74443ace0a41"
+  }
+}

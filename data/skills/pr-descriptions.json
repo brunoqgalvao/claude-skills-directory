@@ -1,0 +1,35 @@
+{
+  "id": "pr-descriptions",
+  "name": "pr-descriptions",
+  "version": "1.0.0",
+  "summary": "Use when gh pr edit --body fails silently or returns no error but doesn't persist changes - provides fallback pattern using GitHub REST API directly for reliable PR description ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zenobi-us",
+    "github": "zenobi-us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zenobi-us/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/zenobi-us/dotfiles/main/devtools/files/opencode/skills/github/pr-descriptions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T21:27:38.000Z",
+  "created_at": "2025-12-23T01:28:55.757Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zenobi-us%2Fdotfiles/devtools%2Ffiles%2Fopencode%2Fskills%2Fgithub%2Fpr-descriptions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.542Z",
+    "uniqueId": "sk_ecb93ea2b91e"
+  }
+}

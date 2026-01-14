@@ -1,0 +1,37 @@
+{
+  "id": "fluidsim",
+  "name": "fluidsim",
+  "version": "1.0.0",
+  "summary": "Framework for computational fluid dynamics simulations using Python. Use when running fluid dynamics simulations including Navier-Stokes equations (2D/3D), shallow water equatio...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "K-Dense-AI",
+    "github": "K-Dense-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "skill_md": "https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/fluidsim/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T23:34:52.000Z",
+  "created_at": "2025-12-22T20:06:02.942Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/K-Dense-AI%2Fclaude-scientific-skills/scientific-skills%2Ffluidsim%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.441Z",
+    "uniqueId": "sk_039822892deb"
+  }
+}

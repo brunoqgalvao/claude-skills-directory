@@ -1,0 +1,35 @@
+{
+  "id": "pdf-to-markdown",
+  "name": "pdf-to-markdown",
+  "version": "1.0.0",
+  "summary": "Convert entire PDF documents to clean, structured Markdown for full context loading. Use this skill when the user wants to extract ALL text from a PDF into context (not grep/sea...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aliceisjustplaying",
+    "github": "aliceisjustplaying"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aliceisjustplaying/claude-resources-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/aliceisjustplaying/claude-resources-monorepo/main/skills/pdf-to-markdown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:42.256Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aliceisjustplaying%2Fclaude-resources-monorepo/skills%2Fpdf-to-markdown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_adb2881780f2"
+  }
+}

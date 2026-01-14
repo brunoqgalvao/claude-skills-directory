@@ -1,0 +1,35 @@
+{
+  "id": "rag",
+  "name": "rag",
+  "version": "1.0.0",
+  "summary": "查询计量经济学RAG知识库。当用户输入以\"rag：\"开头时，LLM会使用Python查询Bruce Hansen计量经济学教材的RAG数据库，返回相关文档内容。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rukikotoo",
+    "github": "rukikotoo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rukikotoo/AutoRegMonkey",
+    "skill_md": "https://raw.githubusercontent.com/rukikotoo/AutoRegMonkey/main/.claude/skills/rag/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:08.429Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rukikotoo%2FAutoRegMonkey/.claude%2Fskills%2Frag%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_1042430b4373"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "oneplan",
+  "name": "oneplan",
+  "version": "1.0.0",
+  "summary": "OnePlan is a GitHub-native, context-driven engineering workflow using Milestones (tracks), Issues (spec/plan), and Sub-issues (phases/tasks). Use for complex features/bugfixes t...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "g97iulio1609",
+    "github": "g97iulio1609"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/g97iulio1609/vscode-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/g97iulio1609/vscode-agent-skills/main/skills/oneplan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:48.220Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/g97iulio1609%2Fvscode-agent-skills/skills%2Foneplan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_e51c16ee3351"
+  }
+}

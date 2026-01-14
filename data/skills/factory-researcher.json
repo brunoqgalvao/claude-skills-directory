@@ -1,0 +1,35 @@
+{
+  "id": "factory-researcher",
+  "name": "factory-researcher",
+  "version": "1.0.0",
+  "summary": "웹 문서 및 GitHub 예제 분석 전문 스킬",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "m16khb",
+    "github": "m16khb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/m16khb/claude-integration",
+    "skill_md": "https://raw.githubusercontent.com/m16khb/claude-integration/main/plugins/automation-tools/skills/factory-researcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T14:49:03.000Z",
+  "created_at": "2025-12-22T15:52:28.506Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/m16khb%2Fclaude-integration/plugins%2Fautomation-tools%2Fskills%2Ffactory-researcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_39d325bff5eb"
+  }
+}

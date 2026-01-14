@@ -1,0 +1,35 @@
+{
+  "id": "task-add",
+  "name": "task-add",
+  "version": "1.0.0",
+  "summary": "[Task Mgmt] A Skill that adds new tasks with priority tags to Docs/Task/{StepName}_Task.md documents for multi-agent parallel development. AI agent MUST invoke this skill AUTOMA...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CANTAGESTUDIO",
+    "github": "CANTAGESTUDIO"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CANTAGESTUDIO/CosmicAtlasPacker",
+    "skill_md": "https://raw.githubusercontent.com/CANTAGESTUDIO/CosmicAtlasPacker/main/.factory/skills/task-add/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:09:50.374Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CANTAGESTUDIO%2FCosmicAtlasPacker/.factory%2Fskills%2Ftask-add%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_5e51e101fe96"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "puppeteer-efficient-ui-verification",
+  "name": "puppeteer-efficient-ui-verification",
+  "version": "1.0.0",
+  "summary": "Fast, repeatable UI verification using Puppeteer without paying browser startup per test. Use scenario suites + deterministic fixtures before jumping to full Jest E2E.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metabench",
+    "github": "metabench"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metabench/copilot-dl-news",
+    "skill_md": "https://raw.githubusercontent.com/metabench/copilot-dl-news/main/docs/agi/skills/puppeteer-efficient-ui-verification/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T02:47:14.000Z",
+  "created_at": "2025-12-23T01:28:46.866Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metabench%2Fcopilot-dl-news/docs%2Fagi%2Fskills%2Fpuppeteer-efficient-ui-verification%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_95b9c74de356"
+  }
+}

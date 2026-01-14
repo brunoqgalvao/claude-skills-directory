@@ -1,0 +1,36 @@
+{
+  "id": "playwright-browser",
+  "name": "playwright-browser",
+  "version": "1.0.0",
+  "summary": "Browser automation with Playwright. Use for web testing, form filling, file uploads, screenshots. Daemon-based for persistent browser state.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "willmarple",
+    "github": "willmarple"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/willmarple/playwright-skill",
+    "skill_md": "https://raw.githubusercontent.com/willmarple/playwright-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:02:09.413Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/willmarple%2Fplaywright-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_445135769b8f"
+  }
+}

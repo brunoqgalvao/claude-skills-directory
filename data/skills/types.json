@@ -1,0 +1,35 @@
+{
+  "id": "types",
+  "name": "types",
+  "version": "1.0.0",
+  "summary": "Fast type checking for single files. Never hangs, always answers in <5s.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Technikhighknee",
+    "github": "Technikhighknee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Technikhighknee/agent-workbench",
+    "skill_md": "https://raw.githubusercontent.com/Technikhighknee/agent-workbench/main/.claude/skills/types/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T05:09:57.000Z",
+  "created_at": "2025-12-23T01:28:27.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Technikhighknee%2Fagent-workbench/.claude%2Fskills%2Ftypes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_91a750f612b6"
+  }
+}

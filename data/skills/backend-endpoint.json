@@ -1,0 +1,35 @@
+{
+  "id": "backend-endpoint",
+  "name": "backend-endpoint",
+  "version": "1.0.0",
+  "summary": "Create REST/GraphQL API endpoint with validation, error handling, and tests. Auto-invoke when user says \"add endpoint\", \"create API\", \"new route\", or \"add route\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alekspetrov",
+    "github": "alekspetrov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alekspetrov/navigator",
+    "skill_md": "https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/backend-endpoint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:13.119Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alekspetrov%2Fnavigator/skills%2Fbackend-endpoint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_a747cf44b5d0"
+  }
+}

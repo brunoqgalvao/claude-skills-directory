@@ -1,0 +1,36 @@
+{
+  "id": "shared-patterns",
+  "name": "shared-patterns",
+  "version": "1.0.0",
+  "summary": "Reusable patterns and templates for Claude Code skill and hook development. Use when creating new skills or hooks to ensure consistency. Contains validation patterns, error hand...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/abstract/skills/shared-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:05:51.469Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fabstract%2Fskills%2Fshared-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_39a00bd96399"
+  }
+}

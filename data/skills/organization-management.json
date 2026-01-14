@@ -1,0 +1,37 @@
+{
+  "id": "organization-management",
+  "name": "organization-management",
+  "version": "1.0.0",
+  "summary": "Implement Clerk multi-tenant organization features with RBAC, role-based access control, organization switching, member management, and tenant isolation. Use when building multi...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/clerk/skills/organization-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T03:20:05.000Z",
+  "created_at": "2025-12-22T20:05:58.611Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fclerk%2Fskills%2Forganization-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_b9f9c5d3b58e"
+  }
+}

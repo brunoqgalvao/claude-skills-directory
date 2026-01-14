@@ -1,0 +1,35 @@
+{
+  "id": "laravel-backup",
+  "name": "laravel-backup",
+  "version": "1.0.0",
+  "summary": "Configure, implement, and manage Laravel application backups using spatie/laravel-backup. Create automated backup schedules, configure file and database backups, set up backup s...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hieubkav",
+    "github": "Hieubkav"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hieubkav/wincellarCloneBackend",
+    "skill_md": "https://raw.githubusercontent.com/Hieubkav/wincellarCloneBackend/main/.factory/skills/laravel-backup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:32.996Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hieubkav%2FwincellarCloneBackend/.factory%2Fskills%2Flaravel-backup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_13c16fc8d412"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "swift-best-practices",
+  "name": "swift-best-practices",
+  "version": "1.0.0",
+  "summary": "This skill should be used when writing or reviewing Swift code for iOS or macOS projects. Apply modern Swift 6+ best practices, concurrency patterns, API design guidelines, and ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sammcj",
+    "github": "sammcj"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sammcj/agentic-coding",
+    "skill_md": "https://raw.githubusercontent.com/sammcj/agentic-coding/main/Claude/skills/swift-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T02:15:31.000Z",
+  "created_at": "2025-12-23T01:29:23.889Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sammcj%2Fagentic-coding/Claude%2Fskills%2Fswift-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_f4238fff5452"
+  }
+}

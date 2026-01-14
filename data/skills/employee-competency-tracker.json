@@ -1,0 +1,35 @@
+{
+  "id": "employee-competency-tracker",
+  "name": "employee-competency-tracker",
+  "version": "1.0.0",
+  "summary": "Transforms rough work notes into professional competency document mapped to company competency model (CL, TW, A&D, COMM, CS, PE, M, TS). Use when documenting work for performanc...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ranjanpoudel1234",
+    "github": "ranjanpoudel1234"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ranjanpoudel1234/ai-tools",
+    "skill_md": "https://raw.githubusercontent.com/ranjanpoudel1234/ai-tools/main/ClaudeCode/configuration/skills/competency-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:27.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ranjanpoudel1234%2Fai-tools/ClaudeCode%2Fconfiguration%2Fskills%2Fcompetency-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_64e7643e8b1e"
+  }
+}

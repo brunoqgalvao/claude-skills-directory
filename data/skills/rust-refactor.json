@@ -1,0 +1,35 @@
+{
+  "id": "rust-refactor",
+  "name": "rust-refactor",
+  "version": "1.0.0",
+  "summary": "Review Rust code for type safety, validate GPU memory layouts (bytemuck, repr(C), alignment), suggest idiomatic patterns, catch GPU-specific safety issues, and help with refacto...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fazil47",
+    "github": "fazil47"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fazil47/wgpu-renderer",
+    "skill_md": "https://raw.githubusercontent.com/fazil47/wgpu-renderer/main/.claude/skills/rust-refactor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T12:21:13.000Z",
+  "created_at": "2025-12-23T01:29:18.404Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fazil47%2Fwgpu-renderer/.claude%2Fskills%2Frust-refactor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_ea03c6cdac3d"
+  }
+}

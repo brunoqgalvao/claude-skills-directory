@@ -1,0 +1,35 @@
+{
+  "id": "error-conversion-guide",
+  "name": "error-conversion-guide",
+  "version": "1.0.0",
+  "summary": "Guides users on error conversion patterns, From trait implementations, and the ? operator. Activates when users need to convert between error types or handle multiple error type...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EmilLindfors",
+    "github": "EmilLindfors"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EmilLindfors/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/EmilLindfors/claude-marketplace/main/plugins/rust-error-handling/skills/error-conversion-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:04:00.721Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EmilLindfors%2Fclaude-marketplace/plugins%2Frust-error-handling%2Fskills%2Ferror-conversion-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_53ce1c4076ef"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "refactoring-suggester",
+  "name": "refactoring-suggester",
+  "version": "1.0.0",
+  "summary": "Suggest refactoring opportunities to improve code structure and maintainability. Use when improving code design or reducing complexity.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/refactoring-suggester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T06:11:39.000Z",
+  "created_at": "2025-12-23T01:28:49.533Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Frefactoring-suggester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_3b11798ae8ad"
+  }
+}

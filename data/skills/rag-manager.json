@@ -1,0 +1,35 @@
+{
+  "id": "rag-manager",
+  "name": "rag-manager",
+  "version": "1.0.0",
+  "summary": "Expert in managing RAG (Retrieval-Augmented Generation) indices for L'Oréal's BTDP infrastructure. **TRIGGER THIS SKILL when user asks:** \"list RAG\", \"create RAG\", \"delete RAG\",...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smorand",
+    "github": "smorand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smorand/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/smorand/claude-config/main/skills/rag-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:12.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smorand%2Fclaude-config/skills%2Frag-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_76192a0ec282"
+  }
+}

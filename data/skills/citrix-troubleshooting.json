@@ -1,0 +1,35 @@
+{
+  "id": "citrix-troubleshooting",
+  "name": "citrix-troubleshooting",
+  "version": "1.0.0",
+  "summary": "Systematic Citrix issue diagnosis and resolution. Use when troubleshooting VDA registration failures, session launch problems, application errors, performance issues, or connect...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dray86",
+    "github": "dray86"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dray86/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/dray86/claude-agents/main/.claude/skills/citrix-troubleshooting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.788Z",
+  "created_at": "2025-12-22T19:01:06.913Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dray86%2Fclaude-agents/.claude%2Fskills%2Fcitrix-troubleshooting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_74b3cc9835df"
+  }
+}

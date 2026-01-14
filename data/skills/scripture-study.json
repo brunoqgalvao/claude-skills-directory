@@ -1,0 +1,36 @@
+{
+  "id": "scripture-study",
+  "name": "scripture-study",
+  "version": "1.0.0",
+  "summary": "Study scripture by retrieving and merging all available commentary data for one or more verses. Supports verse ranges, depth levels (light/medium/full), and optional filtering b...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "authenticwalk",
+    "github": "authenticwalk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/authenticwalk/mybibletoolbox-code",
+    "skill_md": "https://raw.githubusercontent.com/authenticwalk/mybibletoolbox-code/main/.claude/skills/scripture-study/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:58:07.189Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/authenticwalk%2Fmybibletoolbox-code/.claude%2Fskills%2Fscripture-study%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_dd1710c4d044"
+  }
+}

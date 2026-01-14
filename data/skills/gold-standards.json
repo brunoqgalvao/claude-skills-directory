@@ -1,0 +1,37 @@
+{
+  "id": "gold-standards",
+  "name": "gold-standards",
+  "version": "1.0.0",
+  "summary": "Mandatory best practices and gold standards for Kailash SDK development including absolute imports, parameter passing, error handling, testing policies (NO MOCKING in Tiers 2-3)...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Integrum-Global",
+    "github": "Integrum-Global"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Integrum-Global/rr_helpdesk",
+    "skill_md": "https://raw.githubusercontent.com/Integrum-Global/rr_helpdesk/main/.claude/skills/17-gold-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:10.314Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Integrum-Global%2Frr_helpdesk/.claude%2Fskills%2F17-gold-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_1ea8231f1111"
+  }
+}

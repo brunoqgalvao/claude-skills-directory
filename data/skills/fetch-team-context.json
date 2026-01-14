@@ -1,0 +1,37 @@
+{
+  "id": "fetch-team-context",
+  "name": "fetch-team-context",
+  "version": "1.0.0",
+  "summary": "Fetch Semicolon team standards from docs wiki. Use when (1) providing workflow or process advice, (2) recommending DevOps strategies, (3) referencing team conventions for decisi...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/nextjs/skills/fetch-team-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:49.407Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fnextjs%2Fskills%2Ffetch-team-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_3bd8e31317be"
+  }
+}

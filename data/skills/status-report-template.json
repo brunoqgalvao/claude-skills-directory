@@ -1,0 +1,35 @@
+{
+  "id": "status-report-template",
+  "name": "status-report-template",
+  "version": "1.0.0",
+  "summary": "Эксперт по статус-отчётам. Используй для создания шаблонов отчётов, executive summaries и project dashboards.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dengineproblem",
+    "github": "dengineproblem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dengineproblem/agents-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/dengineproblem/agents-monorepo/main/.claude/skills/status-report-template/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.629Z",
+  "created_at": "2025-12-22T23:14:48.120Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dengineproblem%2Fagents-monorepo/.claude%2Fskills%2Fstatus-report-template%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.629Z",
+    "uniqueId": "sk_316f9a429a01"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nondominium-holochain-dna-dev",
+  "name": "nondominium-holochain-dna-dev",
+  "version": "1.0.0",
+  "summary": "Specialized skill for nondominium Holochain DNA development, focusing on zome creation, entry patterns, integrity/coordinator architecture, ValueFlows compliance, and WASM optim...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_categorized/smart-contracts/nondominium-holochain-dna-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.450Z",
+  "created_at": "2025-12-23T01:29:58.458Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_categorized%2Fsmart-contracts%2Fnondominium-holochain-dna-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_69b7d0624f72"
+  }
+}

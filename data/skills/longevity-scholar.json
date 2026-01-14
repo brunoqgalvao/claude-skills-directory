@@ -1,0 +1,36 @@
+{
+  "id": "longevity-scholar",
+  "name": "longevity-scholar",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users explicitly request academic papers, recent research, most cited research, or scholarly articles about longevity, aging, lifespan extension, ...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bio-xyz",
+    "github": "bio-xyz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bio-xyz/BioAgents",
+    "skill_md": "https://raw.githubusercontent.com/bio-xyz/BioAgents/main/.claude/skills/longevity-scholar/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T10:44:15.000Z",
+  "created_at": "2025-12-23T01:29:21.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bio-xyz%2FBioAgents/.claude%2Fskills%2Flongevity-scholar%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_760dfa1bc007"
+  }
+}

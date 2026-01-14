@@ -1,0 +1,36 @@
+{
+  "id": "css-layout-development",
+  "name": "css-layout-development",
+  "version": "1.0.0",
+  "summary": "This skill provides prescriptive guidance for writing modern CSS layouts using intrinsic design principles, container queries, and fluid responsive techniques. When implementing...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wernerglinka",
+    "github": "wernerglinka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wernerglinka/metalsmith-components",
+    "skill_md": "https://raw.githubusercontent.com/wernerglinka/metalsmith-components/main/.claude/skills/css-layouts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.477Z",
+  "created_at": "2025-12-23T01:29:50.057Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wernerglinka%2Fmetalsmith-components/.claude%2Fskills%2Fcss-layouts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_3194ef6634f3"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "config-schema-migrator",
+  "name": "config-schema-migrator",
+  "version": "1.0.0",
+  "summary": "Expert at evolving Pydantic configuration schemas with backward compatibility and automated migrations",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Raudbjorn",
+    "github": "Raudbjorn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Raudbjorn/cognitive-construct",
+    "skill_md": "https://raw.githubusercontent.com/Raudbjorn/cognitive-construct/main/rhetoric/scripts/ai-counsel/.claude/skills/config-schema-migrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.446Z",
+  "created_at": "2025-12-23T01:29:51.283Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Raudbjorn%2Fcognitive-construct/rhetoric%2Fscripts%2Fai-counsel%2F.claude%2Fskills%2Fconfig-schema-migrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.446Z",
+    "uniqueId": "sk_1030f1805ef4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "documentation-update",
+  "name": "documentation-update",
+  "version": "1.0.0",
+  "summary": "Regenerates documentation files (agents.md, agent-skills.md, plugins.md, usage.md) from marketplace data using Jinja templates. Use when plugins are added, updated, or removed t...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "geoffjay",
+    "github": "geoffjay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/geoffjay/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/geoffjay/claude-plugins/main/plugins/claude-plugin/skills/documentation-update/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-17T20:31:33.000Z",
+  "created_at": "2025-12-23T01:29:26.595Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/geoffjay%2Fclaude-plugins/plugins%2Fclaude-plugin%2Fskills%2Fdocumentation-update%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_2f0dc65e6f84"
+  }
+}

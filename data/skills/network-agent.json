@@ -1,0 +1,36 @@
+{
+  "id": "network-agent",
+  "name": "network-agent",
+  "version": "1.0.0",
+  "summary": "Comprehensive network topology discovery, automated documentation generation, and root cause analysis for network issues using RouterCLI Pro. Use this skill when asked to map ne...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "neuro-synapse",
+    "github": "neuro-synapse"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/neuro-synapse/network-topology-agent",
+    "skill_md": "https://raw.githubusercontent.com/neuro-synapse/network-topology-agent/main/.claude/skills/network-agent-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:17:57.564Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/neuro-synapse%2Fnetwork-topology-agent/.claude%2Fskills%2Fnetwork-agent-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_d33ebfbe08b6"
+  }
+}

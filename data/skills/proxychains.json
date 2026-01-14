@@ -1,0 +1,35 @@
+{
+  "id": "proxychains",
+  "name": "proxychains",
+  "version": "1.0.0",
+  "summary": "Auto-detect network issues and force proxy usage with proxychains4. Use this skill when encountering connection timeouts, DNS failures, or blocked network access. Default proxy ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "2025Emma",
+    "github": "2025Emma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/2025Emma/vibe-coding-cn",
+    "skill_md": "https://raw.githubusercontent.com/2025Emma/vibe-coding-cn/main/i18n/zh/skills/proxychains/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:19.363Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/2025Emma%2Fvibe-coding-cn/i18n%2Fzh%2Fskills%2Fproxychains%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_dd44b3f56937"
+  }
+}

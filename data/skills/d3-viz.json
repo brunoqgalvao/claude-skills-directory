@@ -1,0 +1,37 @@
+{
+  "id": "d3-viz",
+  "name": "d3-viz",
+  "version": "1.0.0",
+  "summary": "Creating interactive data visualisations using d3.js. This skill should be used when creating custom charts, graphs, network diagrams, geographic visualisations, or any complex ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "heytulsiprasad",
+    "github": "heytulsiprasad"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/heytulsiprasad/weather-app",
+    "skill_md": "https://raw.githubusercontent.com/heytulsiprasad/weather-app/main/.claude/skills/d3js/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:31.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/heytulsiprasad%2Fweather-app/.claude%2Fskills%2Fd3js%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_98860c8ff08e"
+  }
+}

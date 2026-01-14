@@ -1,0 +1,35 @@
+{
+  "id": "elixir-tdd-enforcement",
+  "name": "elixir-tdd-enforcement",
+  "version": "1.0.0",
+  "summary": "MANDATORY for ANY feature or bugfix - write ExUnit test FIRST, watch it FAIL, then implement. NO exceptions. Use before writing any Elixir production code.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mkreyman",
+    "github": "mkreyman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mkreyman/bmad-elixir",
+    "skill_md": "https://raw.githubusercontent.com/mkreyman/bmad-elixir/main/priv/skills/elixir-tdd-enforcement/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-24T01:32:07.000Z",
+  "created_at": "2025-12-23T01:29:03.963Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mkreyman%2Fbmad-elixir/priv%2Fskills%2Felixir-tdd-enforcement%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_527dcc54a002"
+  }
+}

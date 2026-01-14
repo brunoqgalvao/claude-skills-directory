@@ -1,0 +1,35 @@
+{
+  "id": "csv-cleaner",
+  "name": "csv-cleaner",
+  "version": "1.0.0",
+  "summary": "Clean and normalize CSV data by analyzing structure, detecting issues (missing values, duplicates, type inconsistencies), and applying transformations. Use when users need to pr...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elertan",
+    "github": "elertan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elertan/claude-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/elertan/claude-dotfiles/main/skills/csv-cleaner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.832Z",
+  "created_at": "2025-12-22T16:53:55.152Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elertan%2Fclaude-dotfiles/skills%2Fcsv-cleaner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.832Z",
+    "uniqueId": "sk_27ce74d21ff8"
+  }
+}

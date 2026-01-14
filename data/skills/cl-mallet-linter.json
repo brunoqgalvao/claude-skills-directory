@@ -1,0 +1,35 @@
+{
+  "id": "cl-mallet-linter",
+  "name": "cl-mallet-linter",
+  "version": "1.0.0",
+  "summary": "malletリンターのルールと設定を適用。コードレビュー・品質チェック時に使用",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cxxxr",
+    "github": "cxxxr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cxxxr/.claude",
+    "skill_md": "https://raw.githubusercontent.com/cxxxr/.claude/main/skills/cl-mallet-linter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:51.323Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cxxxr%2F.claude/skills%2Fcl-mallet-linter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_3d3438ed0799"
+  }
+}

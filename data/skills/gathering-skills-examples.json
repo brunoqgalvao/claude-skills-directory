@@ -1,0 +1,36 @@
+{
+  "id": "gathering-skills-examples",
+  "name": "gathering-skills-examples",
+  "version": "1.0.0",
+  "summary": "Real-time collection and analysis of Claude Skills examples from multiple sources including GitHub repositories, blog posts, documentation, and community discussions. Use this s...",
+  "verticals": [
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "suzukalight",
+    "github": "suzukalight"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/suzukalight/test-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/suzukalight/test-claude-skills/main/.claude/skills/gathering-skills-examples/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:03:03.609Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/suzukalight%2Ftest-claude-skills/.claude%2Fskills%2Fgathering-skills-examples%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_9506a95ba192"
+  }
+}

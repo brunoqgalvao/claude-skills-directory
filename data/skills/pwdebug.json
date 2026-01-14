@@ -1,0 +1,35 @@
+{
+  "id": "pwdebug",
+  "name": "pwdebug",
+  "version": "1.0.0",
+  "summary": "用于需要通过命令行操作真实浏览器实例进行前端调试（如导航、执行 JS、截图、元素拾取、控制台日志）且希望跨多次命令复用同一浏览器会话的场景。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DCjanus",
+    "github": "DCjanus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DCjanus/prompts",
+    "skill_md": "https://raw.githubusercontent.com/DCjanus/prompts/main/skills/pwdebug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:57:03.153Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DCjanus%2Fprompts/skills%2Fpwdebug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_60d71914f384"
+  }
+}

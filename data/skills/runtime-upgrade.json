@@ -1,0 +1,37 @@
+{
+  "id": "runtime-upgrade",
+  "name": "runtime-upgrade",
+  "version": "1.0.0",
+  "summary": "Build, version, and package Ëtrid runtime upgrades (Wasm blobs) with checksums, metadata, and governance-ready proposal payloads.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EojEdred",
+    "github": "EojEdred"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EojEdred/Etrid",
+    "skill_md": "https://raw.githubusercontent.com/EojEdred/Etrid/main/14-aidevs/skills/runtime-upgrade/runtime-upgrade/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.584Z",
+  "created_at": "2025-12-23T01:28:12.738Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EojEdred%2FEtrid/14-aidevs%2Fskills%2Fruntime-upgrade%2Fruntime-upgrade%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.584Z",
+    "uniqueId": "sk_6d0057d6d083"
+  }
+}

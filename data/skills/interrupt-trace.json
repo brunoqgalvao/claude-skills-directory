@@ -1,0 +1,35 @@
+{
+  "id": "interrupt-trace",
+  "name": "interrupt-trace",
+  "version": "1.0.0",
+  "summary": "Use when analyzing low-level interrupt behavior - debugging interrupt handler issues, investigating crashes or triple faults, verifying privilege level transitions, analyzing re...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryanbreen",
+    "github": "ryanbreen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryanbreen/breenix",
+    "skill_md": "https://raw.githubusercontent.com/ryanbreen/breenix/main/breenix-interrupt-trace/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T23:04:01.000Z",
+  "created_at": "2025-12-23T01:29:08.885Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryanbreen%2Fbreenix/breenix-interrupt-trace%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_f8f16027da0e"
+  }
+}

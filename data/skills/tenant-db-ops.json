@@ -1,0 +1,35 @@
+{
+  "id": "tenant-db-ops",
+  "name": "tenant-db-ops",
+  "version": "1.0.0",
+  "summary": "マルチテナント（顧客別DB分離）のDB運用・マイグレーション・調査に使う。",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rozwer",
+    "github": "rozwer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rozwer/cross2B-Pro",
+    "skill_md": "https://raw.githubusercontent.com/rozwer/cross2B-Pro/main/.claude/skills/tenant-db-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T03:54:04.000Z",
+  "created_at": "2025-12-23T01:28:20.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rozwer%2Fcross2B-Pro/.claude%2Fskills%2Ftenant-db-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_bb9de7223290"
+  }
+}

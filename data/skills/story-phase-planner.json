@@ -1,0 +1,35 @@
+{
+  "id": "story-phase-planner",
+  "name": "story-phase-planner",
+  "version": "1.0.0",
+  "summary": "Analyzes a user story specification and breaks it down into atomic implementation phases.\nCreates a strategic phases plan without detailed implementation steps. Use when the use...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebc-dev",
+    "github": "sebc-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebc-dev/sebcdev-payload",
+    "skill_md": "https://raw.githubusercontent.com/sebc-dev/sebcdev-payload/main/.claude/skills/story-phase-planner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.597Z",
+  "created_at": "2025-12-23T00:18:35.867Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebc-dev%2Fsebcdev-payload/.claude%2Fskills%2Fstory-phase-planner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.597Z",
+    "uniqueId": "sk_1e0fba6be2c0"
+  }
+}

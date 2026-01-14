@@ -1,0 +1,35 @@
+{
+  "id": "api-document-generator",
+  "name": "api-document-generator",
+  "version": "1.0.0",
+  "summary": "Parses interface/API information from files or directories and generates OpenAPI-compliant documentation with timestamps",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chaorenex1",
+    "github": "chaorenex1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chaorenex1/coding-agent-workflow",
+    "skill_md": "https://raw.githubusercontent.com/chaorenex1/coding-agent-workflow/main/skills/api-document-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:02:13.276Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chaorenex1%2Fcoding-agent-workflow/skills%2Fapi-document-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_20dec826104e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "carmenta-copy",
+  "name": "carmenta-copy",
+  "version": "1.0.0",
+  "summary": "Invoke for Carmenta user-facing copy and voice review",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "carmentacollective",
+    "github": "carmentacollective"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/carmentacollective/carmenta",
+    "skill_md": "https://raw.githubusercontent.com/carmentacollective/carmenta/main/.claude/skills/carmenta-copy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:22.591Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/carmentacollective%2Fcarmenta/.claude%2Fskills%2Fcarmenta-copy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_9eeafbe90543"
+  }
+}

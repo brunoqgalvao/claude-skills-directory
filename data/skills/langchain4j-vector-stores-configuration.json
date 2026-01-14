@@ -1,0 +1,37 @@
+{
+  "id": "langchain4j-vector-stores-configuration",
+  "name": "langchain4j-vector-stores-configuration",
+  "version": "1.0.0",
+  "summary": "Configure LangChain4J vector stores for RAG applications. Use when building semantic search, integrating vector databases (PostgreSQL/pgvector, Pinecone, MongoDB, Milvus, Neo4j)...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "giuseppe-trisciuoglio",
+    "github": "giuseppe-trisciuoglio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "skill_md": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/langchain4j/langchain4j-vector-stores-configuration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T19:11:10.000Z",
+  "created_at": "2025-12-23T01:29:23.783Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/giuseppe-trisciuoglio%2Fdeveloper-kit/skills%2Flangchain4j%2Flangchain4j-vector-stores-configuration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_b515bb02c6f1"
+  }
+}

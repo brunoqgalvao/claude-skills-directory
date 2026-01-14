@@ -1,0 +1,35 @@
+{
+  "id": "jelly-elasticsearch-skill",
+  "name": "jelly-elasticsearch-skill",
+  "version": "1.0.0",
+  "summary": "Elasticsearch and OpenSearch skill for full-text search, aggregations, and index management. Activated when users need to search, query, or analyze data in Elasticsearch/OpenSea...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-jelly",
+    "github": "dev-jelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-jelly/jelly-dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/dev-jelly/jelly-dotclaude/main/skills/jelly-elasticsearch-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:31.479Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-jelly%2Fjelly-dotclaude/skills%2Fjelly-elasticsearch-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_443364e019fa"
+  }
+}

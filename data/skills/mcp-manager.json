@@ -1,0 +1,35 @@
+{
+  "id": "mcp-manager",
+  "name": "mcp-manager",
+  "version": "1.0.0",
+  "summary": "Manage MCP servers - add, list, enable, and disable. Use when users ask about MCP server configuration, want to add new servers, or need to enable/disable existing ones.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanvale",
+    "github": "nathanvale"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanvale/side-quest-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/nathanvale/side-quest-marketplace/main/plugins/mcp-manager/skills/mcp-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T10:41:46.000Z",
+  "created_at": "2025-12-22T15:12:44.789Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanvale%2Fside-quest-marketplace/plugins%2Fmcp-manager%2Fskills%2Fmcp-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_3f0418d697da"
+  }
+}

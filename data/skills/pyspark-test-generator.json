@@ -1,0 +1,36 @@
+{
+  "id": "pyspark-test-generator",
+  "name": "pyspark-test-generator",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive PySpark-based data quality validation tests for Databricks tables. Use when creating automated tests for data completeness, accuracy, consistency, and con...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fusionet24",
+    "github": "fusionet24"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fusionet24/AISkills",
+    "skill_md": "https://raw.githubusercontent.com/fusionet24/AISkills/main/skills/pyspark-test-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:42.560Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fusionet24%2FAISkills/skills%2Fpyspark-test-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_748cf377291b"
+  }
+}

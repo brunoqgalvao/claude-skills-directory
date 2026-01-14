@@ -1,0 +1,36 @@
+{
+  "id": "executing-ai-development-workflow",
+  "name": "executing-ai-development-workflow",
+  "version": "1.0.0",
+  "summary": "Execute a comprehensive AI-driven development workflow with planning, implementation, multi-layer review (Sub-agents + /review + CodeRabbit CLI), automated fixes, and PR creatio...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "camoneart",
+    "github": "camoneart"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/camoneart/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/camoneart/claude-code/main/skills/executing-ai-development-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:46.894Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/camoneart%2Fclaude-code/skills%2Fexecuting-ai-development-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_5c3050a19cca"
+  }
+}

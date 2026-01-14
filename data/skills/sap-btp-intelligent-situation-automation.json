@@ -1,0 +1,37 @@
+{
+  "id": "sap-btp-intelligent-situation-automation",
+  "name": "sap-btp-intelligent-situation-automation",
+  "version": "1.0.0",
+  "summary": "This skill provides comprehensive guidance for SAP BTP Intelligent Situation Automation setup, configuration, and operations.\nIt should be used when implementing situation-based...",
+  "verticals": [
+    "hr",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "secondsky",
+    "github": "secondsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/secondsky/sap-skills",
+    "skill_md": "https://raw.githubusercontent.com/secondsky/sap-skills/main/skills/sap-btp-intelligent-situation-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:07.747Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/secondsky%2Fsap-skills/skills%2Fsap-btp-intelligent-situation-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_0e24612da0c1"
+  }
+}

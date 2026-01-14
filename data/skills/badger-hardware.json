@@ -1,0 +1,35 @@
+{
+  "id": "badger-hardware",
+  "name": "badger-hardware",
+  "version": "1.0.0",
+  "summary": "Hardware integration for Badger 2350 including GPIO, I2C sensors, SPI devices, and electronic components. Use when connecting external hardware, working with sensors, controllin...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/badger-2350-plugin",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/badger-2350-plugin/main/badger-2350-dev/skills/badger-hardware/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:11:53.514Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fbadger-2350-plugin/badger-2350-dev%2Fskills%2Fbadger-hardware%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_aade7e0aed8c"
+  }
+}

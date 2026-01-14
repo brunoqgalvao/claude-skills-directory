@@ -1,0 +1,36 @@
+{
+  "id": "nafv4-assistant",
+  "name": "nafv4-assistant",
+  "version": "1.0.0",
+  "summary": "NAF v4 / ADMBw modeling assistant providing convenience functions for common modeling tasks. Offers specialized utilities like requirement naming, batch operations, and modeling...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "carstenlucke",
+    "github": "carstenlucke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/carstenlucke/naf4_admbw_claudeskill",
+    "skill_md": "https://raw.githubusercontent.com/carstenlucke/naf4_admbw_claudeskill/main/skill_nafv4-assistant/nafv4-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:12:11.967Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/carstenlucke%2Fnaf4_admbw_claudeskill/skill_nafv4-assistant%2Fnafv4-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_356737510fe3"
+  }
+}

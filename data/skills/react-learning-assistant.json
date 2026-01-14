@@ -1,0 +1,35 @@
+{
+  "id": "react-learning-assistant",
+  "name": "react-learning-assistant",
+  "version": "1.0.0",
+  "summary": "React 学习助手，用于在一节课结束时生成个性化学习笔记。当用户说「生成笔记」「写笔记」「总结今天」时触发，根据整节课内容（包括学生理解情况）生成结构化笔记，并更新学习进度。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "linqibin0826",
+    "github": "linqibin0826"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/linqibin0826/Patra-docs",
+    "skill_md": "https://raw.githubusercontent.com/linqibin0826/Patra-docs/main/content/learning/react/.claude/skills/react-learning-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:01:59.447Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/linqibin0826%2FPatra-docs/content%2Flearning%2Freact%2F.claude%2Fskills%2Freact-learning-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_ecbf3c9d66b6"
+  }
+}

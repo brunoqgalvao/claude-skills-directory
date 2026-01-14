@@ -1,0 +1,37 @@
+{
+  "id": "taxonomy-resolver",
+  "name": "taxonomy-resolver",
+  "version": "1.0.0",
+  "summary": "Resolves ambiguous organism names to precise NCBI taxonomy IDs and scientific names, then searches for genomic data in ENA (European Nucleotide Archive). Use this skill when use...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dannon",
+    "github": "dannon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dannon/taxonomy-resolver",
+    "skill_md": "https://raw.githubusercontent.com/dannon/taxonomy-resolver/main/taxonomy-resolver/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:23.922Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dannon%2Ftaxonomy-resolver/taxonomy-resolver%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_ce71128df337"
+  }
+}

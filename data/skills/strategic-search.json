@@ -1,0 +1,35 @@
+{
+  "id": "strategic-search",
+  "name": "strategic-search",
+  "version": "1.0.0",
+  "summary": "Solve complex multi-constraint problems through systematic web search using multiple engines with adaptive strategies.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "windowh1",
+    "github": "windowh1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/windowh1/wbl_residency",
+    "skill_md": "https://raw.githubusercontent.com/windowh1/wbl_residency/main/papers/skills-vs-mcp/experiment2/claude_agent/extensions/skills/strategic-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:32.841Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/windowh1%2Fwbl_residency/papers%2Fskills-vs-mcp%2Fexperiment2%2Fclaude_agent%2Fextensions%2Fskills%2Fstrategic-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_36a106c09ac2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "gh-pr-comments",
+  "name": "gh-pr-comments",
+  "version": "1.0.0",
+  "summary": "List and resolve GitHub PR review comments. Use when working with PR feedback, addressing review comments, or marking threads resolved.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alistairstead",
+    "github": "alistairstead"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alistairstead/dotfiles2",
+    "skill_md": "https://raw.githubusercontent.com/alistairstead/dotfiles2/main/claude/.claude/skills/gh-pr-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.413Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alistairstead%2Fdotfiles2/claude%2F.claude%2Fskills%2Fgh-pr-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_26212e24b4da"
+  }
+}

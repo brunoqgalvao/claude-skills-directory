@@ -1,0 +1,37 @@
+{
+  "id": "billing-automation",
+  "name": "billing-automation",
+  "version": "1.0.0",
+  "summary": "Build automated billing systems for recurring payments, invoicing, subscription lifecycle, and dunning management. Use when implementing subscription billing, automating invoici...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HermeticOrmus",
+    "github": "HermeticOrmus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HermeticOrmus/after-the-third-cup",
+    "skill_md": "https://raw.githubusercontent.com/HermeticOrmus/after-the-third-cup/main/plugins/payment-processing/skills/billing-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:36.955Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HermeticOrmus%2Fafter-the-third-cup/plugins%2Fpayment-processing%2Fskills%2Fbilling-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_55c6022a04d5"
+  }
+}

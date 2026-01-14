@@ -1,0 +1,36 @@
+{
+  "id": "research-reporter",
+  "name": "research-reporter",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users request research on topics with compiled results saved to a file. It handles web searches, fetching authoritative sources, synthesizing info...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "windowh1",
+    "github": "windowh1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/windowh1/wbl_residency",
+    "skill_md": "https://raw.githubusercontent.com/windowh1/wbl_residency/main/papers/skills-vs-mcp/extended_agent/extensions/skills/research-reporter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T11:05:16.000Z",
+  "created_at": "2025-12-23T01:28:59.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/windowh1%2Fwbl_residency/papers%2Fskills-vs-mcp%2Fextended_agent%2Fextensions%2Fskills%2Fresearch-reporter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_820fb948ff6b"
+  }
+}

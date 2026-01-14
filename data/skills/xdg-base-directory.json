@@ -1,0 +1,37 @@
+{
+  "id": "xdg-base-directory",
+  "name": "xdg-base-directory",
+  "version": "1.0.0",
+  "summary": "When an application needs to store config, data, cache, or state files. When designing where user-specific files should live. When code writes to ~/.appname or hardcoded home pa...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jamie-BitFlight",
+    "github": "Jamie-BitFlight"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jamie-BitFlight/claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/xdg-base-directory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.478Z",
+  "created_at": "2025-12-23T01:29:49.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jamie-BitFlight%2Fclaude_skills/xdg-base-directory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_3415b3966892"
+  }
+}

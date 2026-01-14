@@ -1,0 +1,36 @@
+{
+  "id": "langfuse-observability",
+  "name": "langfuse-observability",
+  "version": "1.0.0",
+  "summary": "Query Langfuse traces, prompts, and LLM metrics. Use when:\n- Analyzing LLM generation traces (errors, latency, tokens)\n- Reviewing prompt performance and versions\n- Debugging fa...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phrazzld",
+    "github": "phrazzld"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phrazzld/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/phrazzld/claude-config/main/skills/langfuse-observability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:14.413Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phrazzld%2Fclaude-config/skills%2Flangfuse-observability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_200be1732904"
+  }
+}

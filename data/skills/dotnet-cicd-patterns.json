@@ -1,0 +1,37 @@
+{
+  "id": "dotnet-cicd-patterns",
+  "name": "dotnet-cicd-patterns",
+  "version": "1.0.0",
+  "summary": "Implement CI/CD for .NET applications with GitHub Actions, Azure DevOps, Docker, Kubernetes deployments, automated testing, and release pipelines. Use when setting up continuous...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onesmartguy",
+    "github": "onesmartguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onesmartguy/next-level-real-estate",
+    "skill_md": "https://raw.githubusercontent.com/onesmartguy/next-level-real-estate/main/.claude/skills/cicd-automation/skills/dotnet-cicd-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:02:25.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onesmartguy%2Fnext-level-real-estate/.claude%2Fskills%2Fcicd-automation%2Fskills%2Fdotnet-cicd-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_9b56e34b0856"
+  }
+}

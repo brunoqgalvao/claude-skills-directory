@@ -1,0 +1,35 @@
+{
+  "id": "julien-notion-inbox-to-github",
+  "name": "julien-notion-inbox-to-github",
+  "version": "1.0.0",
+  "summary": "Move a GitHub repo entry from Notion Inbox [DB] to Github [DB]. Use when user wants to route a GitHub URL from inbox to the dedicated GitHub database, migrate inbox entry to git...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theflysurfer",
+    "github": "theflysurfer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theflysurfer/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/theflysurfer/claude-skills-marketplace/main/skills/julien-notion-inbox-to-github/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.926Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theflysurfer%2Fclaude-skills-marketplace/skills%2Fjulien-notion-inbox-to-github%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_a59662edded3"
+  }
+}

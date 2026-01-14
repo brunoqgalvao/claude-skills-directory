@@ -1,0 +1,35 @@
+{
+  "id": "image-filter-lab",
+  "name": "image-filter-lab",
+  "version": "1.0.0",
+  "summary": "Apply artistic filters to images including vintage, sepia, B&W, blur, sharpen, vignette, and color adjustments. Create custom filter presets.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkyazzentwatwa",
+    "github": "dkyazzentwatwa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "skill_md": "https://raw.githubusercontent.com/dkyazzentwatwa/chatgpt-skills/main/image-filter-lab/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:23.353Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkyazzentwatwa%2Fchatgpt-skills/image-filter-lab%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_197bcdd51792"
+  }
+}

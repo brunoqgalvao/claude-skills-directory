@@ -1,0 +1,37 @@
+{
+  "id": "dev-meeting-followup",
+  "name": "dev-meeting-followup",
+  "version": "1.0.0",
+  "summary": "Review developer meeting notes from the UCEAP IT Software Engineering wiki to process any outstanding action items. Creates Jira tickets, updates meeting notes, and manages the ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "UCEAP",
+    "github": "UCEAP"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/UCEAP/claude",
+    "skill_md": "https://raw.githubusercontent.com/UCEAP/claude/main/uceap/skills/dev-meeting-followup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:09.602Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/UCEAP%2Fclaude/uceap%2Fskills%2Fdev-meeting-followup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_bbfe076a0aaa"
+  }
+}

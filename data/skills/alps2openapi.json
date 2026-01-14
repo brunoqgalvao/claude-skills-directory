@@ -1,0 +1,35 @@
+{
+  "id": "alps2openapi",
+  "name": "alps2openapi",
+  "version": "1.0.0",
+  "summary": "Generate OpenAPI specification from ALPS profile. Converts ALPS semantic descriptors to RESTful API definitions with automatic validation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alps-asd",
+    "github": "alps-asd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alps-asd/app-state-diagram",
+    "skill_md": "https://raw.githubusercontent.com/alps-asd/app-state-diagram/main/.claude/skills/openapi/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T08:21:23.000Z",
+  "created_at": "2025-12-23T01:28:02.404Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alps-asd%2Fapp-state-diagram/.claude%2Fskills%2Fopenapi%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_973061528875"
+  }
+}

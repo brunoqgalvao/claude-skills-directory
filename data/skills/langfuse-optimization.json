@@ -1,0 +1,35 @@
+{
+  "id": "langfuse-optimization",
+  "name": "langfuse-optimization",
+  "version": "1.0.0",
+  "summary": "Analyzes writing-ecosystem traces to fix style.yaml, template.yaml, and tools.yaml based on quality issues found in production runs.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mberto10",
+    "github": "mberto10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mberto10/web_research_agent",
+    "skill_md": "https://raw.githubusercontent.com/mberto10/web_research_agent/main/.claude/skills/langfuse-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.637Z",
+  "created_at": "2025-12-22T23:09:43.736Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mberto10%2Fweb_research_agent/.claude%2Fskills%2Flangfuse-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.637Z",
+    "uniqueId": "sk_3381736b3593"
+  }
+}

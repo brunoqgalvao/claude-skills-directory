@@ -1,0 +1,35 @@
+{
+  "id": "capture-work-guidance",
+  "name": "capture-work-guidance",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for AI agents on proactive documentation capture using /docent:tell",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tnez",
+    "github": "tnez"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tnez/docent",
+    "skill_md": "https://raw.githubusercontent.com/tnez/docent/main/skills/docent/capture-work-guidance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.657Z",
+  "created_at": "2025-12-22T23:00:28.993Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tnez%2Fdocent/skills%2Fdocent%2Fcapture-work-guidance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.657Z",
+    "uniqueId": "sk_c652b8169e4f"
+  }
+}

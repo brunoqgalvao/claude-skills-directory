@@ -1,0 +1,35 @@
+{
+  "id": "agent-validate-config",
+  "name": "agent-validate-config",
+  "version": "1.0.0",
+  "summary": "Validate agent YAML frontmatter and configuration. Use before committing agent changes or in CI.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/agent-validate-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.569Z",
+  "created_at": "2025-12-23T01:28:33.867Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Fagent-validate-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_b63dd429730b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mermaid-export",
+  "name": "mermaid-export",
+  "version": "1.0.0",
+  "summary": "Export Mermaid diagrams from documents to PNG images. MUST be run immediately after creating or editing any Mermaid diagram, BEFORE committing. Processes .md, .html, .mdx, .rst,...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sparkling",
+    "github": "sparkling"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sparkling/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/sparkling/claude-config/main/skills/mermaid-export/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:47.113Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sparkling%2Fclaude-config/skills%2Fmermaid-export%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_c415ee38f907"
+  }
+}

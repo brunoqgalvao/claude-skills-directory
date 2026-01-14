@@ -1,0 +1,36 @@
+{
+  "id": "formal-verification-guard",
+  "name": "formal-verification-guard",
+  "version": "1.0.0",
+  "summary": "Guardrail for AI-assisted scientific, mathematical, and formal work. Use when the user is proposing or refining novel theorems, scientific hypotheses, algorithms, or \"breakthrou...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "igor53627",
+    "github": "igor53627"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/igor53627/inspire-exex",
+    "skill_md": "https://raw.githubusercontent.com/igor53627/inspire-exex/main/.agents/skills/formal-verification-guard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.663Z",
+  "created_at": "2025-12-22T22:17:27.846Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/igor53627%2Finspire-exex/.agents%2Fskills%2Fformal-verification-guard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.663Z",
+    "uniqueId": "sk_75f6183a6f22"
+  }
+}

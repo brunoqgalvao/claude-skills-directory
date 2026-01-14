@@ -1,0 +1,36 @@
+{
+  "id": "drafts-actions",
+  "name": "drafts-actions",
+  "version": "1.0.0",
+  "summary": "Create and script actions for the Drafts app. Use this skill when the user needs help creating custom Drafts actions, understanding action steps, using template tags, scripting ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kerim",
+    "github": "kerim"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kerim/claude-drafts-action-skill",
+    "skill_md": "https://raw.githubusercontent.com/kerim/claude-drafts-action-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:18:53.854Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kerim%2Fclaude-drafts-action-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_59caedf12ffa"
+  }
+}

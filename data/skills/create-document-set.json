@@ -1,0 +1,35 @@
+{
+  "id": "create-document-set",
+  "name": "create-document-set",
+  "version": "1.0.0",
+  "summary": "이력서 + 경력기술서 세트를 함께 생성합니다. 채용 지원 시 두 문서를 함께 제출해야 할 때 사용합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "younwony",
+    "github": "younwony"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/younwony/younwony.github.io",
+    "skill_md": "https://raw.githubusercontent.com/younwony/younwony.github.io/main/.claude/skills/create-document-set/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:49.498Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/younwony%2Fyounwony.github.io/.claude%2Fskills%2Fcreate-document-set%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_7b900838e354"
+  }
+}

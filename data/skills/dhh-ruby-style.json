@@ -1,0 +1,35 @@
+{
+  "id": "dhh-ruby-style",
+  "name": "dhh-ruby-style",
+  "version": "1.0.0",
+  "summary": "Write Ruby and Rails code in DHH's distinctive 37signals style. Use this skill when writing Ruby code, Rails applications, creating models, controllers, or any Ruby file. Trigge...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_categorized/domain-utilities/dhh-ruby-style/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:06.140Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_categorized%2Fdomain-utilities%2Fdhh-ruby-style%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_b017ef49ffd2"
+  }
+}

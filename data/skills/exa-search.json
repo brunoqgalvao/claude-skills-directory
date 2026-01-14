@@ -1,0 +1,35 @@
+{
+  "id": "exa-search",
+  "name": "exa-search",
+  "version": "1.0.0",
+  "summary": "Find similar companies using Exa.ai's neural search API",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-cookbooks/main/108-competitor-research/claude-competitor-research/skills/exa-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:03:13.904Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-cookbooks/108-competitor-research%2Fclaude-competitor-research%2Fskills%2Fexa-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_d00da8c9a21d"
+  }
+}

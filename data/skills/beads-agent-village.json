@@ -1,0 +1,35 @@
+{
+  "id": "beads-agent-village",
+  "name": "beads-agent-village",
+  "version": "1.0.0",
+  "summary": "Set up and orchestrate multi-agent workflows using Beads (shared issue tracking/memory) and MCP Agent Mail (agent messaging). Use when coordinating multiple agents, setting up a...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hvent90",
+    "github": "hvent90"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hvent90/hv-skills",
+    "skill_md": "https://raw.githubusercontent.com/hvent90/hv-skills/main/beads-agent-village/skills/beads-agent-village/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.743Z",
+  "created_at": "2025-12-22T21:09:33.801Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hvent90%2Fhv-skills/beads-agent-village%2Fskills%2Fbeads-agent-village%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.743Z",
+    "uniqueId": "sk_7ce6e88fdaf1"
+  }
+}

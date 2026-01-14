@@ -1,0 +1,36 @@
+{
+  "id": "gh-implement-issue",
+  "name": "gh-implement-issue",
+  "version": "1.0.0",
+  "summary": "End-to-end implementation workflow for a GitHub issue from planning through PR creation. Use when starting work on an issue from scratch.",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/gh-implement-issue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T08:42:30.000Z",
+  "created_at": "2025-12-22T16:04:16.142Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Fgh-implement-issue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_b82bbe4cdc1e"
+  }
+}

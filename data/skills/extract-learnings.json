@@ -1,0 +1,35 @@
+{
+  "id": "extract-learnings",
+  "name": "extract-learnings",
+  "version": "1.0.0",
+  "summary": "Use after completing a session to identify genuine learnings from mistakes, corrections, or rework - focuses only on patterns that were actually wrong, not things that worked co...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hmps",
+    "github": "hmps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hmps/agent-tools",
+    "skill_md": "https://raw.githubusercontent.com/hmps/agent-tools/main/skills/extract-learnings/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-09T07:56:10.000Z",
+  "created_at": "2025-12-23T01:29:17.777Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hmps%2Fagent-tools/skills%2Fextract-learnings%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.510Z",
+    "uniqueId": "sk_47c046b4fbf2"
+  }
+}

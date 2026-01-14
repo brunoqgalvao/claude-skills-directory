@@ -1,0 +1,35 @@
+{
+  "id": "blog-post-writer",
+  "name": "blog-post-writer",
+  "version": "1.0.0",
+  "summary": "Transform brain dumps into polished blog posts in Nick Nisi's voice. Use when the user wants to write a blog post with scattered ideas, talking points, and conclusions that need...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nicknisi",
+    "github": "nicknisi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nicknisi/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/nicknisi/claude-plugins/main/plugins/content/skills/blog-post-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:12.470Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nicknisi%2Fclaude-plugins/plugins%2Fcontent%2Fskills%2Fblog-post-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_b2b9c5ea4e6f"
+  }
+}

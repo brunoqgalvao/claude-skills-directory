@@ -1,0 +1,37 @@
+{
+  "id": "django-model",
+  "name": "django-model",
+  "version": "1.0.0",
+  "summary": "Creating Django models following Counterpart's patterns. Use when building new models, working with audit fields, implementing relationships, or using PydanticJSONEncoder. Trigg...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jprokay-counterpart",
+    "github": "jprokay-counterpart"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jprokay-counterpart/jprokay-counterpart",
+    "skill_md": "https://raw.githubusercontent.com/jprokay-counterpart/jprokay-counterpart/main/claude/skills/django-model/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:13:42.587Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jprokay-counterpart%2Fjprokay-counterpart/claude%2Fskills%2Fdjango-model%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_b1551110e0f6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "vote-reset",
+  "name": "vote-reset",
+  "version": "1.0.0",
+  "summary": "Generate Safe UI compatible multisig batch JSON to reset veNFT votes. Use when the user wants to reset votes, clear voted status, or prepare vote reset transactions for a multis...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LithosDex",
+    "github": "LithosDex"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LithosDex/lithos-smart-contracts",
+    "skill_md": "https://raw.githubusercontent.com/LithosDex/lithos-smart-contracts/main/.claude/skills/vote-reset/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T10:55:00.000Z",
+  "created_at": "2025-12-23T01:28:47.591Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LithosDex%2Flithos-smart-contracts/.claude%2Fskills%2Fvote-reset%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_eb4e09a9e9d7"
+  }
+}

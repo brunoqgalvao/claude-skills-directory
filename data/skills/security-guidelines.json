@@ -1,0 +1,36 @@
+{
+  "id": "security-guidelines",
+  "name": "security-guidelines",
+  "version": "1.0.0",
+  "summary": "セキュアな開発・運用のための実装指針、機密情報管理、通信の確保、入力値検証、依存ライブラリ管理のガイドラインを定義する。セキュリティ実装時、認証・認可実装時、API開発時、またはユーザーがセキュリティ、機密情報、暗号化、XSS対策、SQL injection、脆弱性管理に言及した際に使用する。",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-foundation/skills/security-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:49.373Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-foundation%2Fskills%2Fsecurity-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_d5b15b5300f6"
+  }
+}

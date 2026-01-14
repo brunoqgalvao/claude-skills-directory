@@ -1,0 +1,36 @@
+{
+  "id": "concept-refactor",
+  "name": "concept-refactor",
+  "version": "1.0.0",
+  "summary": "Refine concept designs using six transformational moves. This skill should be used when improving existing concepts, addressing design trade-offs, or deciding between split/merg...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "igorrazvodovsky",
+    "github": "igorrazvodovsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/igorrazvodovsky/pattern-playground",
+    "skill_md": "https://raw.githubusercontent.com/igorrazvodovsky/pattern-playground/main/.claude/skills/concept-refactor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:56:54.219Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/igorrazvodovsky%2Fpattern-playground/.claude%2Fskills%2Fconcept-refactor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_37a29e92d1e3"
+  }
+}

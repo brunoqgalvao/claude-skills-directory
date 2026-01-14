@@ -1,0 +1,35 @@
+{
+  "id": "sdlc-reports",
+  "name": "sdlc-reports",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive SDLC reports including iteration status, metrics dashboards, and executive summaries. Use when relevant to the task.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/.factory/skills/sdlc-reports/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:18:49.208Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/.factory%2Fskills%2Fsdlc-reports%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_2b8b102436a8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mermaid-master",
+  "name": "mermaid-master",
+  "version": "1.0.0",
+  "summary": "World-class creation of valid, beautiful, and accessible Mermaid diagrams. Use when users request diagrams, flowcharts, sequence diagrams, entity relationship diagrams, state ma...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ThomasRohde",
+    "github": "ThomasRohde"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ThomasRohde/strands-cli",
+    "skill_md": "https://raw.githubusercontent.com/ThomasRohde/strands-cli/main/examples/skills/mermaid-master/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:58:54.716Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ThomasRohde%2Fstrands-cli/examples%2Fskills%2Fmermaid-master%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_30ed34071073"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "project-setup-expert",
+  "name": "project-setup-expert",
+  "version": "1.0.0",
+  "summary": "Multi-module 구조 설계, Gradle 설정, Version Catalog, 의존성 관리.\n헥사고날 아키텍처 모듈 분리. Domain 외부 의존성 금지, 순환 의존성 금지.\nQA 도구 (Checkstyle, SpotBugs, PMD, JaCoCo) 설정.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryu-qqq",
+    "github": "ryu-qqq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryu-qqq/setof-commerce",
+    "skill_md": "https://raw.githubusercontent.com/ryu-qqq/setof-commerce/main/.claude/skills/project-setup-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:19:45.295Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryu-qqq%2Fsetof-commerce/.claude%2Fskills%2Fproject-setup-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_38b2743b8ab9"
+  }
+}

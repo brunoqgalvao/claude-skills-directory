@@ -1,0 +1,36 @@
+{
+  "id": "sleeptrack-ios",
+  "name": "sleeptrack-ios",
+  "version": "1.0.0",
+  "summary": "This skill helps iOS developers integrate the Asleep SDK for sleep tracking functionality. Use this skill when building native iOS apps with Swift/SwiftUI that need sleep tracki...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asleep-ai",
+    "github": "asleep-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asleep-ai/sleeptrack-skills",
+    "skill_md": "https://raw.githubusercontent.com/asleep-ai/sleeptrack-skills/main/skills/sleeptrack-ios/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T11:11:28.000Z",
+  "created_at": "2025-12-23T01:29:44.928Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asleep-ai%2Fsleeptrack-skills/skills%2Fsleeptrack-ios%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_82f18e8be4fb"
+  }
+}

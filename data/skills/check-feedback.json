@@ -1,0 +1,35 @@
+{
+  "id": "check-feedback",
+  "name": "check-feedback",
+  "version": "1.0.0",
+  "summary": "SEMO 패키지 피드백 이슈 수집 및 리스트업. Use when (1) \"피드백 확인\", \"피드백 있는지\", (2) \"유저 피드백 체크\", (3) SEMO 관련 open 이슈 조회.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/meta/skills/check-feedback/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:09:44.918Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fmeta%2Fskills%2Fcheck-feedback%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_7ea139821bbb"
+  }
+}

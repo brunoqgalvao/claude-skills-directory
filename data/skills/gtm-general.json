@@ -1,0 +1,37 @@
+{
+  "id": "gtm-general",
+  "name": "gtm-general",
+  "version": "1.0.0",
+  "summary": "General guidance and overview for Google Tag Manager (GTM), including what GTM is, how it works, GTM architecture, account structure, workspace concepts, version control, publis...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henkisdabro",
+    "github": "henkisdabro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henkisdabro/wookstar-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-code-plugins/main/gtm-suite/skills/gtm-general/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:56.904Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henkisdabro%2Fwookstar-claude-code-plugins/gtm-suite%2Fskills%2Fgtm-general%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_92960b0c995b"
+  }
+}

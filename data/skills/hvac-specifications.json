@@ -1,0 +1,37 @@
+{
+  "id": "hvac-specifications",
+  "name": "hvac-specifications",
+  "version": "1.0.0",
+  "summary": "Look up HVAC equipment specifications (capacity, efficiency, dimensions, electrical requirements) by brand and model number. Use when the user mentions equipment specs, model nu...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mbcoalson",
+    "github": "mbcoalson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mbcoalson/skills",
+    "skill_md": "https://raw.githubusercontent.com/mbcoalson/skills/main/.claude/skills/hvac-specifications/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:05:36.628Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mbcoalson%2Fskills/.claude%2Fskills%2Fhvac-specifications%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_cd4b987f67b8"
+  }
+}

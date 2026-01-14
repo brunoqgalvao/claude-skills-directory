@@ -1,0 +1,35 @@
+{
+  "id": "julien-infra-hostinger-web",
+  "name": "julien-infra-hostinger-web",
+  "version": "1.0.0",
+  "summary": "Web infrastructure for Hostinger VPS - Nginx reverse proxy, SSL/Let's Encrypt, configuration audit, and application deployment (INCLUZ'HACT). Use for site configuration, SSL set...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theflysurfer",
+    "github": "theflysurfer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theflysurfer/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/theflysurfer/claude-skills-marketplace/main/skills/julien-infra-hostinger-web/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:35.591Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theflysurfer%2Fclaude-skills-marketplace/skills%2Fjulien-infra-hostinger-web%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_16e7f0156874"
+  }
+}

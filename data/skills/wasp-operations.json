@@ -1,0 +1,36 @@
+{
+  "id": "wasp-operations",
+  "name": "wasp-operations",
+  "version": "1.0.0",
+  "summary": "Complete Wasp operations patterns for queries and actions. Use when creating backend operations, implementing queries/actions, or working with server-side code. Includes type an...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ToonVos",
+    "github": "ToonVos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ToonVos/empty-opensaas",
+    "skill_md": "https://raw.githubusercontent.com/ToonVos/empty-opensaas/main/.claude/skills/wasp-operations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-23T00:00:21.225Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ToonVos%2Fempty-opensaas/.claude%2Fskills%2Fwasp-operations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_b464b25f6af7"
+  }
+}

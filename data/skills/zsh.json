@@ -1,0 +1,35 @@
+{
+  "id": "zsh",
+  "name": "zsh",
+  "version": "1.0.0",
+  "summary": "Guide for using Zsh (Z shell) - an extended Bourne shell with powerful features for interactive use and scripting. Use when configuring zsh, writing shell scripts, setting up pr...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julianobarbosa",
+    "github": "julianobarbosa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julianobarbosa/zsh",
+    "skill_md": "https://raw.githubusercontent.com/julianobarbosa/zsh/main/.claude/skills/zsh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T12:35:47.000Z",
+  "created_at": "2025-12-23T01:29:34.768Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julianobarbosa%2Fzsh/.claude%2Fskills%2Fzsh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_9dfc3c8d8338"
+  }
+}

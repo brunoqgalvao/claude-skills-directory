@@ -1,0 +1,36 @@
+{
+  "id": "review-pr",
+  "name": "review-pr",
+  "version": "1.0.0",
+  "summary": "Review a pull request or merge request. Use when reviewing PRs, providing code review feedback, or analyzing proposed changes. Supports GitHub and GitLab.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bendrucker",
+    "github": "bendrucker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bendrucker/claude",
+    "skill_md": "https://raw.githubusercontent.com/bendrucker/claude/main/.claude/skills/review-pr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:21.545Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bendrucker%2Fclaude/.claude%2Fskills%2Freview-pr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_2812658bbec0"
+  }
+}

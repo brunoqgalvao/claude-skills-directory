@@ -1,0 +1,37 @@
+{
+  "id": "zenn-article-writer",
+  "name": "zenn-article-writer",
+  "version": "1.0.0",
+  "summary": "Write technical articles for Zenn in Oikon's distinctive writing style. This skill should be used when creating articles about AI tools, development workflows, tool integrations...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oikon48",
+    "github": "oikon48"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oikon48/zenn-contents",
+    "skill_md": "https://raw.githubusercontent.com/oikon48/zenn-contents/main/.claude/skills/zenn-article-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-01T00:47:29.000Z",
+  "created_at": "2025-12-22T19:04:18.593Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oikon48%2Fzenn-contents/.claude%2Fskills%2Fzenn-article-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_a8e96b69ec1a"
+  }
+}

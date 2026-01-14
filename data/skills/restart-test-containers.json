@@ -1,0 +1,37 @@
+{
+  "id": "restart-test-containers",
+  "name": "restart-test-containers",
+  "version": "1.0.0",
+  "summary": "Restarts WitchCityRope Docker TEST containers using the CORRECT procedure. Handles shutdown, rebuild with test compose overlay (--no-cache by default), health checks, and verifi...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DarkMonkDev",
+    "github": "DarkMonkDev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DarkMonkDev/WitchCityRope",
+    "skill_md": "https://raw.githubusercontent.com/DarkMonkDev/WitchCityRope/main/.claude/skills/restart-test-containers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:56:55.770Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DarkMonkDev%2FWitchCityRope/.claude%2Fskills%2Frestart-test-containers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_b54f0e06449d"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sensor-tasking",
+  "name": "sensor-tasking",
+  "version": "1.0.0",
+  "summary": "Send tasks (commands) to EDR sensors to gather data or take action. Handles offline agents via reliable-tasking, collects responses via LCQL queries, and creates D&R rules for a...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "refractionPOINT",
+    "github": "refractionPOINT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/refractionPOINT/lc-ai",
+    "skill_md": "https://raw.githubusercontent.com/refractionPOINT/lc-ai/main/marketplace/plugins/lc-essentials/skills/sensor-tasking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:29.391Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/refractionPOINT%2Flc-ai/marketplace%2Fplugins%2Flc-essentials%2Fskills%2Fsensor-tasking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_852ea31796e4"
+  }
+}

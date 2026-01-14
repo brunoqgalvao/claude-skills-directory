@@ -1,0 +1,35 @@
+{
+  "id": "sub-agents",
+  "name": "sub-agents",
+  "version": "1.0.0",
+  "summary": "How to create and use specialized subagents in Claude Code for task delegation. Use when user asks about creating specialized agents, delegating tasks, agent configuration, or s...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reggiechan74",
+    "github": "reggiechan74"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reggiechan74/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/reggiechan74/claude-plugins/main/plugins/claude-code-metaskill/skills/sub-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:49.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reggiechan74%2Fclaude-plugins/plugins%2Fclaude-code-metaskill%2Fskills%2Fsub-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_db64dc462dd9"
+  }
+}

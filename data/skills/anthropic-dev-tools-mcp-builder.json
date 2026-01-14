@@ -1,0 +1,37 @@
+{
+  "id": "anthropic-dev-tools-mcp-builder",
+  "name": "anthropic-dev-tools-mcp-builder",
+  "version": "1.0.0",
+  "summary": "Guide for creating high-quality MCP (Model Context Protocol) servers that enable LLMs to interact with external services through well-designed tools. Use when building MCP serve...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theflysurfer",
+    "github": "theflysurfer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theflysurfer/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/theflysurfer/claude-skills-marketplace/main/skills/anthropic-dev-tools-mcp-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:05:37.698Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theflysurfer%2Fclaude-skills-marketplace/skills%2Fanthropic-dev-tools-mcp-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_edcf47f9a79f"
+  }
+}

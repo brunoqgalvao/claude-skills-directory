@@ -1,0 +1,35 @@
+{
+  "id": "git-pull-request",
+  "name": "git-pull-request",
+  "version": "1.0.0",
+  "summary": "Use when creating pull requests. Covers PR structure, GitHub CLI usage, branch workflow, and pre-PR validation. Triggers on PR creation, branch merging, or when preparing change...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "btimothy-har",
+    "github": "btimothy-har"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/btimothy-har/mycc-config",
+    "skill_md": "https://raw.githubusercontent.com/btimothy-har/mycc-config/main/brian-claude-skills/skills/git-pull-request/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:01.440Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/btimothy-har%2Fmycc-config/brian-claude-skills%2Fskills%2Fgit-pull-request%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_e9272032e725"
+  }
+}

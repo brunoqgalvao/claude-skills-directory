@@ -1,0 +1,35 @@
+{
+  "id": "concat-mp4",
+  "name": "concat-mp4",
+  "version": "1.0.0",
+  "summary": "Concatenate multiple MP4 files in order into a single MP4 using ffmpeg stream copy.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jacwu",
+    "github": "jacwu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jacwu/demo-skill-sora2",
+    "skill_md": "https://raw.githubusercontent.com/jacwu/demo-skill-sora2/main/.claude/skills/concat_videos/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T12:05:28.000Z",
+  "created_at": "2025-12-23T01:28:20.506Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jacwu%2Fdemo-skill-sora2/.claude%2Fskills%2Fconcat_videos%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_f53560331923"
+  }
+}

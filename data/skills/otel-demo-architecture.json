@@ -1,0 +1,36 @@
+{
+  "id": "otel-demo-architecture",
+  "name": "otel-demo-architecture",
+  "version": "1.0.0",
+  "summary": "OpenTelemetry Demo system architecture reference for debugging service dependencies, port conflicts, memory issues, telemetry gaps, and performance problems. Use when analyzing ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "blueswen",
+    "github": "blueswen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/blueswen/observability-with-llm",
+    "skill_md": "https://raw.githubusercontent.com/blueswen/observability-with-llm/main/opentelemetry-demo-app-with-llm/workspace/.claude/skills/otel-demo-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:19.134Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/blueswen%2Fobservability-with-llm/opentelemetry-demo-app-with-llm%2Fworkspace%2F.claude%2Fskills%2Fotel-demo-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_f1bf76bf1ffa"
+  }
+}

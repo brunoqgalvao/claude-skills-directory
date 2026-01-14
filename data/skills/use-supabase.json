@@ -1,0 +1,36 @@
+{
+  "id": "use-supabase",
+  "name": "use-supabase",
+  "version": "1.0.0",
+  "summary": "Read Supabase table structure and current data using the service role key. Use when you need to inspect schemas, columns, or sample rows from the configured Supabase project.",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lollipopkit",
+    "github": "lollipopkit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lollipopkit/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/lollipopkit/cc-skills/main/use-supabase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T04:10:54.000Z",
+  "created_at": "2025-12-22T15:08:40.596Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lollipopkit%2Fcc-skills/use-supabase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_0bed43f6104d"
+  }
+}

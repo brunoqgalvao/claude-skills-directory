@@ -1,0 +1,36 @@
+{
+  "id": "electron-scaffold",
+  "name": "electron-scaffold",
+  "version": "1.0.0",
+  "summary": "Scaffold a native-looking, effective Electron app with best practices baked in. Creates a production-ready Electron application with security hardening, modern tooling, proper I...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chrisvoncsefalvay",
+    "github": "chrisvoncsefalvay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chrisvoncsefalvay/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/chrisvoncsefalvay/claude-skills/main/electron-scaffold/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:47.494Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chrisvoncsefalvay%2Fclaude-skills/electron-scaffold%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_0fac82dba49b"
+  }
+}

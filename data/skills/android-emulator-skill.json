@@ -1,0 +1,37 @@
+{
+  "id": "android-emulator-skill",
+  "name": "android-emulator-skill",
+  "version": "1.0.0",
+  "summary": "Production-ready scripts for Android app testing, building, and automation. Provides semantic UI navigation, build automation, accessibility testing, and emulator lifecycle mana...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fluxxion82",
+    "github": "fluxxion82"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fluxxion82/android-emulator-skill",
+    "skill_md": "https://raw.githubusercontent.com/fluxxion82/android-emulator-skill/main/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.678Z",
+  "created_at": "2025-12-22T22:12:26.153Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fluxxion82%2Fandroid-emulator-skill/skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.678Z",
+    "uniqueId": "sk_05b6d8d7ba5f"
+  }
+}

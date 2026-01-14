@@ -1,0 +1,37 @@
+{
+  "id": "email-service-integration",
+  "name": "email-service-integration",
+  "version": "1.0.0",
+  "summary": "Integrate email services with backends using SMTP, third-party providers, templates, and asynchronous sending. Use when implementing email functionality, sending transactional e...",
+  "verticals": [
+    "support",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/email-service-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:56.311Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Femail-service-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_afa9a74438e2"
+  }
+}

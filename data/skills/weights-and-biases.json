@@ -1,0 +1,35 @@
+{
+  "id": "weights-and-biases",
+  "name": "weights-and-biases",
+  "version": "1.0.0",
+  "summary": "Track ML experiments with automatic logging, visualize training in real-time, optimize hyperparameters with sweeps, and manage model registry with W&B - collaborative MLOps plat...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/13-mlops/weights-and-biases/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T22:51:38.000Z",
+  "created_at": "2025-12-23T01:29:35.572Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/13-mlops%2Fweights-and-biases%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_7e575d5216b0"
+  }
+}

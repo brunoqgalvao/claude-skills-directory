@@ -1,0 +1,35 @@
+{
+  "id": "architecture-navigator",
+  "name": "architecture-navigator",
+  "version": "1.0.0",
+  "summary": "Understand and navigate the DevPrep AI 7-folder architecture. Use this skill when asked about code organization, where to place new features, what modules exist, or when startin...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ArieGoldkin",
+    "github": "ArieGoldkin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ArieGoldkin/devPrepAi",
+    "skill_md": "https://raw.githubusercontent.com/ArieGoldkin/devPrepAi/main/.claude/skills/architecture-navigator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T12:15:14.000Z",
+  "created_at": "2025-12-22T20:02:37.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ArieGoldkin%2FdevPrepAi/.claude%2Fskills%2Farchitecture-navigator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_e2ae5bbfb9bf"
+  }
+}

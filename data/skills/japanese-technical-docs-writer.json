@@ -1,0 +1,35 @@
+{
+  "id": "japanese-technical-docs-writer",
+  "name": "japanese-technical-docs-writer",
+  "version": "1.0.0",
+  "summary": "日本語技術文書の作成・修正を支援し、textlintによる自動校正と手動での改善提案を行います。文章を執筆した際は必ずこのスキルを使って文章をレビューして改善します。必要に応じてユーザに改善案を提案します",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rikeda71",
+    "github": "rikeda71"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rikeda71/cloudflare-stack-docs",
+    "skill_md": "https://raw.githubusercontent.com/rikeda71/cloudflare-stack-docs/main/.claude/skills/japanese-technical-docs-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:09:03.886Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rikeda71%2Fcloudflare-stack-docs/.claude%2Fskills%2Fjapanese-technical-docs-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_0f485485fd13"
+  }
+}

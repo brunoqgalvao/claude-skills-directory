@@ -1,0 +1,36 @@
+{
+  "id": "simulation-code-validation",
+  "name": "simulation-code-validation",
+  "version": "1.0.0",
+  "summary": "Encodes validation patterns for robotics simulation code (ROS 2, Gazebo, Isaac Sim). Ensures code examples are testable, safe, and follow simulation-first pedagogy. Validates Py...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DevHammad0",
+    "github": "DevHammad0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DevHammad0/physical-ai-robotics-textbook",
+    "skill_md": "https://raw.githubusercontent.com/DevHammad0/physical-ai-robotics-textbook/main/.claude/skills/simulation-code-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:54.407Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DevHammad0%2Fphysical-ai-robotics-textbook/.claude%2Fskills%2Fsimulation-code-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_7a703bdbee07"
+  }
+}

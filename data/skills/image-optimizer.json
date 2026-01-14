@@ -1,0 +1,35 @@
+{
+  "id": "image-optimizer",
+  "name": "image-optimizer",
+  "version": "1.0.0",
+  "summary": "Compress, resize, and convert images for web/mobile. Handles PNG, JPG, WebP, SVG optimization. Use when user needs to optimize images for performance or convert formats.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Snoopiam",
+    "github": "Snoopiam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Snoopiam/claude_all_skills",
+    "skill_md": "https://raw.githubusercontent.com/Snoopiam/claude_all_skills/main/image-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:12.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Snoopiam%2Fclaude_all_skills/image-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_4688d274c16d"
+  }
+}

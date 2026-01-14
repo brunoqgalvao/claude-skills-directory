@@ -1,0 +1,35 @@
+{
+  "id": "iot-security-reviewer",
+  "name": "iot-security-reviewer",
+  "version": "1.0.0",
+  "summary": "Expert IoT security review covering network security, authentication, encryption, secure boot, and attack surface analysis. Use when reviewing device security, implementing auth...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rghamilton3",
+    "github": "rghamilton3"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rghamilton3/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/rghamilton3/dotfiles/main/dot_claude/skills/iot-security-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:41.199Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rghamilton3%2Fdotfiles/dot_claude%2Fskills%2Fiot-security-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_b6e4a1e0f99d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "hk",
+  "name": "hk",
+  "version": "1.0.0",
+  "summary": "Use jdx/hk git hook manager to setup, configure, and manage git hooks and linters. Invoke when user asks to setup hk, configure hooks, add linters, or work with pre-commit/pre-p...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KyleKing",
+    "github": "KyleKing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KyleKing/vcr-tui",
+    "skill_md": "https://raw.githubusercontent.com/KyleKing/vcr-tui/main/.claude/skills/hk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.503Z",
+  "created_at": "2025-12-23T01:29:22.563Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KyleKing%2Fvcr-tui/.claude%2Fskills%2Fhk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_f547942cd963"
+  }
+}

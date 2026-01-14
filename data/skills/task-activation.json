@@ -1,0 +1,36 @@
+{
+  "id": "task-activation",
+  "name": "task-activation",
+  "version": "1.0.0",
+  "summary": "Help user START tasks with activation support for ADHD. Use when user is stuck, overwhelmed, or asking what to do next. Auto-triggers on phrases like \"I'm stuck\", \"can't get sta...",
+  "verticals": [
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ninjasenap",
+    "github": "Ninjasenap"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ninjasenap/AIDA",
+    "skill_md": "https://raw.githubusercontent.com/Ninjasenap/AIDA/main/.claude/skills/task-activation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.513Z",
+  "created_at": "2025-12-23T01:29:15.706Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ninjasenap%2FAIDA/.claude%2Fskills%2Ftask-activation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_f4aae152c53d"
+  }
+}

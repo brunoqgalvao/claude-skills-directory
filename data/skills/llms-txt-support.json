@@ -1,0 +1,36 @@
+{
+  "id": "llms-txt-support",
+  "name": "llms-txt-support",
+  "version": "1.0.0",
+  "summary": "Detect and use llms.txt files for LLM-optimized documentation. Use when checking if a site has LLM-ready docs before scraping.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/.factory/skills/llms-txt-support/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.796Z",
+  "created_at": "2025-12-22T18:17:01.109Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/.factory%2Fskills%2Fllms-txt-support%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.796Z",
+    "uniqueId": "sk_198602e9e3d5"
+  }
+}

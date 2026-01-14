@@ -1,0 +1,36 @@
+{
+  "id": "writing-xcuitests",
+  "name": "writing-xcuitests",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"write XCUITest\", \"create UI tests\", \"fix flaky tests\", \"query XCUIElements\", \"implement Page Object pattern\", or mentions XCUITe...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bradwindy",
+    "github": "bradwindy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bradwindy/writing-xcuitests",
+    "skill_md": "https://raw.githubusercontent.com/bradwindy/writing-xcuitests/main/skills/writing-xcuitests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:11:55.626Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bradwindy%2Fwriting-xcuitests/skills%2Fwriting-xcuitests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_ecb2bb197d5d"
+  }
+}

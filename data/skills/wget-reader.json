@@ -1,0 +1,36 @@
+{
+  "id": "wget-reader",
+  "name": "wget-reader",
+  "version": "1.0.0",
+  "summary": "Read and fetch data from URLs using wget. Use when asked to download content, fetch remote files, or read data from web URLs.",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "beshkenadze",
+    "github": "beshkenadze"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/beshkenadze/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/beshkenadze/claude-skills-marketplace/main/skills/utility/wget-reader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T20:46:56.000Z",
+  "created_at": "2025-12-23T01:28:36.721Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/beshkenadze%2Fclaude-skills-marketplace/skills%2Futility%2Fwget-reader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.565Z",
+    "uniqueId": "sk_44e9bf91bcb6"
+  }
+}

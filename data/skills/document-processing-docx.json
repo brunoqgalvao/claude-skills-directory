@@ -1,0 +1,37 @@
+{
+  "id": "document-processing-docx",
+  "name": "document-processing-docx",
+  "version": "1.0.0",
+  "summary": "Process, parse, create, and manipulate Microsoft Word (.docx) documents programmatically using libraries like docx or mammoth.js for document generation and data extraction. Use...",
+  "verticals": [
+    "finance",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "korallis",
+    "github": "korallis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/korallis/Droidz",
+    "skill_md": "https://raw.githubusercontent.com/korallis/Droidz/main/droidz_installer/payloads/droid_cli/default/skills/document-processing-docx/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:22.133Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/korallis%2FDroidz/droidz_installer%2Fpayloads%2Fdroid_cli%2Fdefault%2Fskills%2Fdocument-processing-docx%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_b62114b416a8"
+  }
+}

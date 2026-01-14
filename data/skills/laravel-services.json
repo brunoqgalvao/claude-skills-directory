@@ -1,0 +1,36 @@
+{
+  "id": "laravel-services",
+  "name": "laravel-services",
+  "version": "1.0.0",
+  "summary": "Service layer for external API integration using manager pattern and Saloon. Use when working with external APIs, third-party services, or when user mentions services, external ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-laravel",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-laravel/main/skills/laravel-services/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.573Z",
+  "created_at": "2025-12-23T01:28:28.291Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-laravel/skills%2Flaravel-services%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_177dcc5158f0"
+  }
+}

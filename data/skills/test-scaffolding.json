@@ -1,0 +1,37 @@
+{
+  "id": "test-scaffolding",
+  "name": "test-scaffolding",
+  "version": "1.0.0",
+  "summary": "Automatically generate test scaffolding when user writes new code without tests or mentions needing tests. Supports unit, integration, e2e, and data tests for PHP and JavaScript...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kanopi",
+    "github": "kanopi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kanopi/cms-cultivator",
+    "skill_md": "https://raw.githubusercontent.com/kanopi/cms-cultivator/main/skills/test-scaffolding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:11.370Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kanopi%2Fcms-cultivator/skills%2Ftest-scaffolding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_6b47c1831a03"
+  }
+}

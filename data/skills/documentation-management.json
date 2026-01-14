@@ -1,0 +1,35 @@
+{
+  "id": "documentation-management",
+  "name": "documentation-management",
+  "version": "1.0.0",
+  "summary": "Keep project documentation accurate when behavior changes. EXCLUSIVE to project-manager agent.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mgkyawzayya",
+    "github": "mgkyawzayya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mgkyawzayya/claude-code-usage-flow",
+    "skill_md": "https://raw.githubusercontent.com/mgkyawzayya/claude-code-usage-flow/main/.claude/skills/documentation-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:03:14.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mgkyawzayya%2Fclaude-code-usage-flow/.claude%2Fskills%2Fdocumentation-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_0215b31129d3"
+  }
+}

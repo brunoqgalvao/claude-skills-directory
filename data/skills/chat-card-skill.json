@@ -1,0 +1,37 @@
+{
+  "id": "chat-card-skill",
+  "name": "chat-card-skill",
+  "version": "1.0.0",
+  "summary": "Generate inline chat cards using DaisyUI components for user interactions. Use when creating interactive UI elements within a chat interface that require user input, confirmatio...",
+  "verticals": [
+    "marketing",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tlofreso",
+    "github": "tlofreso"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tlofreso/aiui",
+    "skill_md": "https://raw.githubusercontent.com/tlofreso/aiui/main/.claude/skills/chat-card-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:12.300Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tlofreso%2Faiui/.claude%2Fskills%2Fchat-card-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_f3209a8a1e74"
+  }
+}

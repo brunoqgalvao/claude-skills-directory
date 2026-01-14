@@ -1,0 +1,35 @@
+{
+  "id": "grounded-answer",
+  "name": "grounded-answer",
+  "version": "1.0.0",
+  "summary": "Provide accurate, evidence-based answers by referencing sources from documents, textbooks, or research papers. Use when user asks for factual or source-backed responses.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MuhammadHassaanArain",
+    "github": "MuhammadHassaanArain"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MuhammadHassaanArain/Book-PAI",
+    "skill_md": "https://raw.githubusercontent.com/MuhammadHassaanArain/Book-PAI/main/.claude/skills/grounded_answer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:35.965Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MuhammadHassaanArain%2FBook-PAI/.claude%2Fskills%2Fgrounded_answer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_34c65dac8701"
+  }
+}

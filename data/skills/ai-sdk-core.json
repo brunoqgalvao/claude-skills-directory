@@ -1,0 +1,36 @@
+{
+  "id": "ai-sdk-core",
+  "name": "ai-sdk-core",
+  "version": "1.0.0",
+  "summary": "Build backend AI with Vercel AI SDK v5/v6. Covers v6 beta (Agent abstraction, tool approval, reranking),\nv4→v5 migration (breaking changes), latest models (GPT-5/5.1, Claude 4.x...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ovachiever",
+    "github": "ovachiever"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ovachiever/droid-tings",
+    "skill_md": "https://raw.githubusercontent.com/ovachiever/droid-tings/main/skills/ai-sdk-core/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-22T23:59:03.230Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ovachiever%2Fdroid-tings/skills%2Fai-sdk-core%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_37ebd2b01e1a"
+  }
+}

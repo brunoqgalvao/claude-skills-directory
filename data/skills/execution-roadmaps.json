@@ -1,0 +1,35 @@
+{
+  "id": "execution-roadmaps",
+  "name": "execution-roadmaps",
+  "version": "1.0.0",
+  "summary": "Create execution roadmaps for projects. Use when planning multi-phase projects or feature rollouts. Covers phased delivery and milestone planning.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dralgorhythm",
+    "github": "dralgorhythm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dralgorhythm/claude-agentic-framework",
+    "skill_md": "https://raw.githubusercontent.com/dralgorhythm/claude-agentic-framework/main/.claude/skills/product/execution-roadmaps/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.959Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dralgorhythm%2Fclaude-agentic-framework/.claude%2Fskills%2Fproduct%2Fexecution-roadmaps%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_74575f2c49e1"
+  }
+}

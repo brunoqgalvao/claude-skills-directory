@@ -1,0 +1,37 @@
+{
+  "id": "scope",
+  "name": "scope",
+  "version": "1.0.0",
+  "summary": "Guide for working with Scope, a developer environment management tool that automates environment checks, detects known errors, and provides automated fixes. Use when creating Sc...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "technicalpickles",
+    "github": "technicalpickles"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/technicalpickles/pickled-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/technicalpickles/pickled-claude-plugins/main/plugins/dev-tools/skills/working-with-scope/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:56:45.857Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/technicalpickles%2Fpickled-claude-plugins/plugins%2Fdev-tools%2Fskills%2Fworking-with-scope%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_11b661d38101"
+  }
+}

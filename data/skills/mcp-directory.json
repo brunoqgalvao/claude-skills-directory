@@ -1,0 +1,35 @@
+{
+  "id": "mcp-directory",
+  "name": "mcp-directory",
+  "version": "1.0.0",
+  "summary": "Complete directory of available MCP servers with usage guidelines, tool categories, and selection criteria. Helps Claude choose the right MCP for each task and avoid token waste.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mapachekurt",
+    "github": "mapachekurt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mapachekurt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/mapachekurt/claude-skills/main/mcp-directory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:02.828Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mapachekurt%2Fclaude-skills/mcp-directory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_03238160abeb"
+  }
+}

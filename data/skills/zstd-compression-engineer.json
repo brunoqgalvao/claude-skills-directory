@@ -1,0 +1,37 @@
+{
+  "id": "zstd-compression-engineer",
+  "name": "zstd-compression-engineer",
+  "version": "1.0.0",
+  "summary": "Expert guide for implementing Zstandard (zstd) compression and decompression. Use when working with zstd library for data compression tasks including simple compression, streami...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dennypenta",
+    "github": "dennypenta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dennypenta/home",
+    "skill_md": "https://raw.githubusercontent.com/dennypenta/home/main/.claude/skills/zstd-compression-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T19:25:19.000Z",
+  "created_at": "2025-12-22T18:02:18.970Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dennypenta%2Fhome/.claude%2Fskills%2Fzstd-compression-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_24ea7086e4b4"
+  }
+}

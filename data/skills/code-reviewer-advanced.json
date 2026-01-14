@@ -1,0 +1,36 @@
+{
+  "id": "code-reviewer-advanced",
+  "name": "code-reviewer-advanced",
+  "version": "1.0.0",
+  "summary": "Use when reviewing code for quality, design issues, implementation problems, security vulnerabilities, or architectural concerns. Apply when user asks to review code, check impl...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MRenAIAgent",
+    "github": "MRenAIAgent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MRenAIAgent/mini_agent",
+    "skill_md": "https://raw.githubusercontent.com/MRenAIAgent/mini_agent/main/.claude/skills/code-reviewer-advanced/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.608Z",
+  "created_at": "2025-12-23T00:01:06.466Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MRenAIAgent%2Fmini_agent/.claude%2Fskills%2Fcode-reviewer-advanced%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.608Z",
+    "uniqueId": "sk_6e0d90580839"
+  }
+}

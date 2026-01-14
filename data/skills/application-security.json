@@ -1,0 +1,35 @@
+{
+  "id": "application-security",
+  "name": "application-security",
+  "version": "1.0.0",
+  "summary": "Secure applications against common vulnerabilities. Use when reviewing code for security, implementing security controls, or hardening applications. Covers OWASP Top 10.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dralgorhythm",
+    "github": "dralgorhythm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dralgorhythm/claude-agentic-framework",
+    "skill_md": "https://raw.githubusercontent.com/dralgorhythm/claude-agentic-framework/main/.claude/skills/security/application-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T02:25:52.000Z",
+  "created_at": "2025-12-22T15:10:50.820Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dralgorhythm%2Fclaude-agentic-framework/.claude%2Fskills%2Fsecurity%2Fapplication-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_f35481a7fa9e"
+  }
+}

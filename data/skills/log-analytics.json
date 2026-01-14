@@ -1,0 +1,37 @@
+{
+  "id": "log-analytics",
+  "name": "log-analytics",
+  "version": "1.0.0",
+  "summary": "Generate and execute Python code to analyze large log datasets, detect patterns, and extract actionable insights",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "My3VM",
+    "github": "My3VM"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/My3VM/ClaudeSkillDemo",
+    "skill_md": "https://raw.githubusercontent.com/My3VM/ClaudeSkillDemo/main/.claude/skills/log-analytics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.551Z",
+  "created_at": "2025-12-23T01:28:48.936Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/My3VM%2FClaudeSkillDemo/.claude%2Fskills%2Flog-analytics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_7ad1949df9b1"
+  }
+}

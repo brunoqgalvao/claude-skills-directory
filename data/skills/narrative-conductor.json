@@ -1,0 +1,35 @@
+{
+  "id": "narrative-conductor",
+  "name": "narrative-conductor",
+  "version": "1.0.0",
+  "summary": "Définit l'arc narratif complet et valide la cohérence narrative pour les épisodes NEW TEMPS X. Utilise ce Skill quand tu dois créer ou valider un arc narratif structuré en 7 act...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nmarchand73",
+    "github": "nmarchand73"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nmarchand73/new_tempsx",
+    "skill_md": "https://raw.githubusercontent.com/nmarchand73/new_tempsx/main/.claude/skills/narrative-conductor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:42.779Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nmarchand73%2Fnew_tempsx/.claude%2Fskills%2Fnarrative-conductor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_e23c42447f85"
+  }
+}

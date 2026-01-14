@@ -1,0 +1,37 @@
+{
+  "id": "testing-apis",
+  "name": "testing-apis",
+  "version": "1.0.0",
+  "summary": "Test REST and GraphQL APIs for authentication bypasses, authorization flaws, IDOR, mass assignment, injection attacks, and rate limiting issues. Use when pentesting APIs or test...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trilwu",
+    "github": "trilwu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trilwu/secskills",
+    "skill_md": "https://raw.githubusercontent.com/trilwu/secskills/main/secskills/skills/api-security-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:10.907Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trilwu%2Fsecskills/secskills%2Fskills%2Fapi-security-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_6e856c9b9cfe"
+  }
+}

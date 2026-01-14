@@ -1,0 +1,35 @@
+{
+  "id": "edge-performance-optimizer",
+  "name": "edge-performance-optimizer",
+  "version": "1.0.0",
+  "summary": "Automatically optimizes Cloudflare Workers performance during development, focusing on cold starts, bundle size, edge caching, and global latency",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hirefrank",
+    "github": "hirefrank"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hirefrank/hirefrank-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/hirefrank/hirefrank-marketplace/main/plugins/edge-stack/skills/edge-performance-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T12:25:22.000Z",
+  "created_at": "2025-12-23T01:29:26.031Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hirefrank%2Fhirefrank-marketplace/plugins%2Fedge-stack%2Fskills%2Fedge-performance-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_67962fc615ca"
+  }
+}

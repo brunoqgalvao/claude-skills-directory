@@ -1,0 +1,35 @@
+{
+  "id": "ai-image-generator",
+  "name": "ai-image-generator",
+  "version": "1.0.0",
+  "summary": "使用 ModelScope 等平台生成 AI 图像。当用户需要生成图像、设计图标、创建角色立绘，或需要帮助编写 AI 绘画提示词时使用此技能。支持直接生成图像和仅优化提示词两种模式。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Lucent-Snow",
+    "github": "Lucent-Snow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Lucent-Snow/ai-image-generator",
+    "skill_md": "https://raw.githubusercontent.com/Lucent-Snow/ai-image-generator/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:22.224Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Lucent-Snow%2Fai-image-generator/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_ab1305d22b16"
+  }
+}

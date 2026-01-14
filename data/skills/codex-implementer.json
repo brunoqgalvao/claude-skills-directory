@@ -1,0 +1,35 @@
+{
+  "id": "codex-implementer",
+  "name": "codex-implementer",
+  "version": "1.0.0",
+  "summary": "Codex CLI를 sub-agent로 활용하여 실제 구현 작업을 수행합니다. Claude가 작업을 분석/분해하고, Codex가 코드 작성/수정/리팩토링을 담당합니다. \"Codex로 구현\", \"구현해줘\", \"코드 작성해줘\", \"병렬 구현\" 요청 시 활성화됩니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/agents/codex-implementer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:34.808Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/agents%2Fcodex-implementer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_f0ac449a57a0"
+  }
+}

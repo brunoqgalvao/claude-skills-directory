@@ -1,0 +1,35 @@
+{
+  "id": "llm-call",
+  "name": "llm-call",
+  "version": "1.0.0",
+  "summary": "External LLM invocation. Triggered ONLY by @council,@probe,@crossref,@gpt,@gemini,@grok,@qwen.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nothflare",
+    "github": "Nothflare"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nothflare/claude-llm-call",
+    "skill_md": "https://raw.githubusercontent.com/Nothflare/claude-llm-call/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:56:41.554Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nothflare%2Fclaude-llm-call/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_10acf3c3264f"
+  }
+}

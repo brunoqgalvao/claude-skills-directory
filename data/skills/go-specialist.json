@@ -1,0 +1,36 @@
+{
+  "id": "go-specialist",
+  "name": "go-specialist",
+  "version": "1.0.0",
+  "summary": "Go language consultant providing guidance on best practices, testing with testify, concurrency patterns, error handling, and technology stack recommendations. Use when answering...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yurifrl",
+    "github": "yurifrl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yurifrl/cly",
+    "skill_md": "https://raw.githubusercontent.com/yurifrl/cly/main/.claude/skills/go-specialist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:42.145Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yurifrl%2Fcly/.claude%2Fskills%2Fgo-specialist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_086b5ff0029f"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "environment-variables",
+  "name": "environment-variables",
+  "version": "1.0.0",
+  "summary": "Use compile-time validated environment variables with t3-oss/env-nextjs. Ensures type-safe access to environment variables with automatic validation at build time. Use when acce...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Reodor-Studios",
+    "github": "Reodor-Studios"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Reodor-Studios/create-reodor-app",
+    "skill_md": "https://raw.githubusercontent.com/Reodor-Studios/create-reodor-app/main/.claude/skills/environment-variables/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:56:48.437Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Reodor-Studios%2Fcreate-reodor-app/.claude%2Fskills%2Fenvironment-variables%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_08f1e984b33d"
+  }
+}

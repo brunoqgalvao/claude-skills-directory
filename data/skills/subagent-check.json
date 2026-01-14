@@ -1,0 +1,36 @@
+{
+  "id": "subagent-check",
+  "name": "subagent-check",
+  "version": "1.0.0",
+  "summary": "Validates and reviews Claude Code agents/subagents against best practices. Checks YAML syntax, naming conventions, description quality, system prompt effectiveness, and tool con...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "outfitter-dev",
+    "github": "outfitter-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/outfitter-dev/agents",
+    "skill_md": "https://raw.githubusercontent.com/outfitter-dev/agents/main/baselayer/skills/subagent-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:03:48.400Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/outfitter-dev%2Fagents/baselayer%2Fskills%2Fsubagent-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_b507c949c92c"
+  }
+}

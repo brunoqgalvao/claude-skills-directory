@@ -1,0 +1,35 @@
+{
+  "id": "csv-data-auditor",
+  "name": "csv-data-auditor",
+  "version": "1.0.0",
+  "summary": "Validate and audit CSV data for quality, consistency, and completeness. Use when you need to check CSV files for data issues, missing values, or format inconsistencies.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aig787",
+    "github": "aig787"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aig787/agpm",
+    "skill_md": "https://raw.githubusercontent.com/aig787/agpm/main/examples/deps/skills/csv-data-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:46.038Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aig787%2Fagpm/examples%2Fdeps%2Fskills%2Fcsv-data-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_8655ff241856"
+  }
+}

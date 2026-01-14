@@ -1,0 +1,37 @@
+{
+  "id": "cicd-patterns",
+  "name": "cicd-patterns",
+  "version": "1.0.0",
+  "summary": "Pipeline design, deployment strategies (blue-green, canary, rolling), and CI/CD platform patterns. Use when designing pipelines, implementing deployments, configuring quality ga...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rsmdt",
+    "github": "rsmdt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rsmdt/the-startup",
+    "skill_md": "https://raw.githubusercontent.com/rsmdt/the-startup/main/plugins/team/skills/infrastructure/cicd-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:57:34.046Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rsmdt%2Fthe-startup/plugins%2Fteam%2Fskills%2Finfrastructure%2Fcicd-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_1002569d2d9b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "db-e-report",
+  "name": "db-e-report",
+  "version": "1.0.0",
+  "summary": "提供v3_e-report数据库的SQL查询模板，包括数据分析告警配置等表的查询。查询分析告警配置时使用。使用 exec_sql 工具执行查询。",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SeSiTing",
+    "github": "SeSiTing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SeSiTing/siti-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/SeSiTing/siti-claude-marketplace/main/plugins/blacklake-plugin/skills/db-e-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:22.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SeSiTing%2Fsiti-claude-marketplace/plugins%2Fblacklake-plugin%2Fskills%2Fdb-e-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_bcb2baf71e29"
+  }
+}

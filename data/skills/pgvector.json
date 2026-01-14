@@ -1,0 +1,35 @@
+{
+  "id": "pgvector",
+  "name": "pgvector",
+  "version": "1.0.0",
+  "summary": "pgvector - PostgreSQL extension for vector similarity search. Use for embedding storage, cosine similarity, IVFFlat indexes, and HNSW indexes.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Genius-Cai",
+    "github": "Genius-Cai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Genius-Cai/finance-ai",
+    "skill_md": "https://raw.githubusercontent.com/Genius-Cai/finance-ai/main/.claude/skills/pgvector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:46.953Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Genius-Cai%2Ffinance-ai/.claude%2Fskills%2Fpgvector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_527a35a98233"
+  }
+}

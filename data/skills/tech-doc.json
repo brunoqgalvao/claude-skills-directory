@@ -1,0 +1,35 @@
+{
+  "id": "tech-doc",
+  "name": "tech-doc",
+  "version": "1.0.0",
+  "summary": "技术协作场景下撰写与维护高质量技术文档的统一写作指南。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DCjanus",
+    "github": "DCjanus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DCjanus/prompts",
+    "skill_md": "https://raw.githubusercontent.com/DCjanus/prompts/main/skills/tech-doc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T08:44:21.000Z",
+  "created_at": "2025-12-22T15:56:37.699Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DCjanus%2Fprompts/skills%2Ftech-doc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_94995c3b72e6"
+  }
+}

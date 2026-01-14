@@ -1,0 +1,35 @@
+{
+  "id": "system-prompt-engineering",
+  "name": "system-prompt-engineering",
+  "version": "1.0.0",
+  "summary": "Design effective system prompts for custom agents. Use when creating agent system prompts, defining agent identity and rules, or designing high-impact prompts that shape agent b...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/system-prompt-engineering/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.528Z",
+  "created_at": "2025-12-23T01:29:02.695Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Fsystem-prompt-engineering%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_6805810aac87"
+  }
+}

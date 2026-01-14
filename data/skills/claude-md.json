@@ -1,0 +1,35 @@
+{
+  "id": "claude-md",
+  "name": "claude-md",
+  "version": "1.0.0",
+  "summary": "Create and maintain CLAUDE.md files for Claude Code projects. Use when users want to create a new CLAUDE.md, improve an existing one, audit CLAUDE.md quality, set up Claude Code...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bandofai",
+    "github": "bandofai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bandofai/puerto",
+    "skill_md": "https://raw.githubusercontent.com/bandofai/puerto/main/plugins/claude-md/skills/claude-md/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T19:00:41.000Z",
+  "created_at": "2025-12-22T19:57:26.920Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bandofai%2Fpuerto/plugins%2Fclaude-md%2Fskills%2Fclaude-md%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_78b88387aac4"
+  }
+}

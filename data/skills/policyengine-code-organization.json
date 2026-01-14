@@ -1,0 +1,35 @@
+{
+  "id": "policyengine-code-organization",
+  "name": "policyengine-code-organization",
+  "version": "1.0.0",
+  "summary": "Code organization patterns for PolicyEngine - variable naming conventions, folder structure, file organization",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PolicyEngine",
+    "github": "PolicyEngine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PolicyEngine/policyengine-claude",
+    "skill_md": "https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/technical-patterns/policyengine-code-organization-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:39.184Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PolicyEngine%2Fpolicyengine-claude/skills%2Ftechnical-patterns%2Fpolicyengine-code-organization-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_41a150bdcd8d"
+  }
+}

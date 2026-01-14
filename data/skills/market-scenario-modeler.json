@@ -1,0 +1,36 @@
+{
+  "id": "market-scenario-modeler",
+  "name": "market-scenario-modeler",
+  "version": "1.0.0",
+  "summary": "Toolkit for building TAM/SAM/SOM models, sensitivity analyses, and narrative-ready visuals.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/market-research/skills/market-scenario-modeler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T14:32:29.000Z",
+  "created_at": "2025-12-22T14:56:57.778Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fmarket-research%2Fskills%2Fmarket-scenario-modeler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_789b1ec59506"
+  }
+}

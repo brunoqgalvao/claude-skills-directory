@@ -1,0 +1,36 @@
+{
+  "id": "env-var-manager",
+  "name": "env-var-manager",
+  "version": "1.0.0",
+  "summary": "Manages environment variable additions and updates across all project files. Use when adding new environment variables, updating PORT configuration, modifying deployment configu...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WebDev70",
+    "github": "WebDev70"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WebDev70/hosting-google",
+    "skill_md": "https://raw.githubusercontent.com/WebDev70/hosting-google/main/.claude/skills/env-var-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:22.946Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WebDev70%2Fhosting-google/.claude%2Fskills%2Fenv-var-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_3abfe30abfa1"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "gitlab-ci-debugger",
+  "name": "gitlab-ci-debugger",
+  "version": "1.0.0",
+  "summary": "Debug and monitor GitLab CI/CD pipelines for merge requests. Check pipeline status, view job logs, and troubleshoot CI failures. Use this when the user needs to investigate GitL...",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mprpic",
+    "github": "mprpic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mprpic/claude-gitlab-tools",
+    "skill_md": "https://raw.githubusercontent.com/mprpic/claude-gitlab-tools/main/skills/gitlab-ci-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T00:53:48.000Z",
+  "created_at": "2025-12-22T15:55:37.141Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mprpic%2Fclaude-gitlab-tools/skills%2Fgitlab-ci-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_f0f840075f00"
+  }
+}

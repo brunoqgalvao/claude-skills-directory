@@ -1,0 +1,37 @@
+{
+  "id": "artifact-validator",
+  "name": "artifact-validator",
+  "version": "1.0.0",
+  "summary": "Validate and grade Claude Code Skills, Commands, Subagents, and Hooks for quality and correctness. Check YAML syntax, verify naming conventions, validate required fields, test a...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eLafo",
+    "github": "eLafo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eLafo/ouroboros",
+    "skill_md": "https://raw.githubusercontent.com/eLafo/ouroboros/main/skills/artifact-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.603Z",
+  "created_at": "2025-12-23T00:07:46.711Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eLafo%2Fouroboros/skills%2Fartifact-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.603Z",
+    "uniqueId": "sk_3efac2833d20"
+  }
+}

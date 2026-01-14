@@ -1,0 +1,35 @@
+{
+  "id": "doc-contents",
+  "name": "doc-contents",
+  "version": "1.0.0",
+  "summary": "Generate project documentation including CONTENTS.md navigation files and AGENTS.md instructions. Use when creating documentation structure, project indexes, or AI agent configu...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dopsonbr",
+    "github": "dopsonbr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dopsonbr/agent-kit",
+    "skill_md": "https://raw.githubusercontent.com/dopsonbr/agent-kit/main/content/skills/doc-contents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:53:46.930Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dopsonbr%2Fagent-kit/content%2Fskills%2Fdoc-contents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_431fb550598d"
+  }
+}

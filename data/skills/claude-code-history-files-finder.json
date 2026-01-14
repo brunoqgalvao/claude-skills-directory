@@ -1,0 +1,37 @@
+{
+  "id": "claude-code-history-files-finder",
+  "name": "claude-code-history-files-finder",
+  "version": "1.0.0",
+  "summary": "Finds and recovers content from Claude Code session history files. This skill should be used when searching for deleted files, tracking changes across sessions, analyzing conver...",
+  "description": "# Claude Code History Files Finder\n\nExtract and recover content from Claude Code's session history files stored in `~/.claude/projects/`.\n\n## Capabilities\n\n- Recover deleted or lost files from previous sessions\n- Search for specific code or content across conversation history\n- Analyze file modifications across past sessions\n- Track tool usage and file operations over time\n- Find sessions containing specific keywords or topics\n\n## Session File Locations\n\nSession files are stored at `~/.claude/projects/<normalized-path>/<session-id>.jsonl`.\n\nFor detailed JSONL structure and extraction patterns, see `references/session_file_format.md`.\n\n## Core Operations\n\n### 1. List Sessions for a Project\n\nFind all session files for a specific project:\n\n```bash\npython3 scripts/analyze_sessions.py list /path/to/project\n```\n\nShows most recent sessions with timestamps and sizes.\n\nOptional: `--limit N` to show only N sessions (default: 10).\n\n### 2. Search Sessions for Keywords\n\nLocate sessions containing specific content:\n\n```bash\npython3 scripts/analyze_sessions.py search /path/to/project keyword1 keyword2\n```\n\nReturns sessions ranked by keyword frequency with:\n- Total mention count\n- Per-keyword breakdown\n- Session date and path\n\nOptional: `--case-sensitive` for exact matching.\n\n### 3. Recover Deleted Content\n\nExtract files from session history:\n\n```bash\npython3 scripts/recover_content.py /path/to/session.jsonl\n```\n\nExtracts all Write tool calls and saves files to `./recovered_content/`.\n\n**Filtering by keywords**:\n\n```bash\npython3 scripts/recover_content.py session.jsonl -k ModelLoading FRONTEND deleted\n```\n\nRecovers only files matching any keyword in their path.\n\n**Custom output directory**:\n\n```bash\npython3 scripts/recover_content.py session.jsonl -o ./my_recovery/\n```\n\n### 4. Analyze Session Statistics\n\nGet detailed session metrics:\n\n```bash\npython3 scripts/analyze_sessions.py stats /path/to/session.jsonl\n```\n\nReports:\n- Message counts (user/assistant)\n- Tool usage breakdown\n- File operation counts (Write/Edit/Read)\n\nOptional: `--show-files` to list all file operations.\n\n## Workflow Examples\n\nFor detailed workflow examples including file recovery, tracking file evolution, and batch operations, see `references/workflow_examples.md`.\n\n## Recovery Best Practices\n\n### Deduplication\n\n`recover_content.py` automatically keeps only the latest version of each file. If a file was written multiple times in a session, only the final version is saved.\n\n### Keyword Selection\n\nChoose distinctive keywords that appear in:\n- File names or paths\n- Function/class names\n- Unique strings in code\n- Error messages or comments\n\n### Output Organization\n\nCreate descriptive output directories:\n\n```bash\n# Bad\npython3 scripts/recover_content.py session.jsonl -o ./output/\n\n# Good\npython3 scripts/recover_content.py session.jsonl -o ./recovered_deleted_docs/\npython3 scripts/recover_content.py session.jsonl -o ./feature_xy_history/\n```\n\n### Verification\n\nAfter recovery, always verify content:\n\n```bash\n# Check file list\nls -lh ./recovered_content/\n\n# Read recovery report\ncat ./recovered_content/recovery_report.txt\n\n# Spot-check content\nhead -20 ./recovered_content/ImportantFile.jsx\n```\n\n## Limitations\n\n### What Can Be Recovered\n\n✅ Files written using Write tool\n✅ Code shown in markdown blocks (partial extraction)\n✅ File paths from Edit/Read operations\n\n### What Cannot Be Recovered\n\n❌ Files never written to disk (only discussed)\n❌ Files deleted before session start\n❌ Binary files (images, PDFs) - only paths available\n❌ External tool outputs not captured in session\n\n### File Versions\n\n- Only captures state when Write tool was called\n- Intermediate edits between Write calls are lost\n- Edit operations show deltas, not full content\n\n## Troubleshooting\n\n### No Sessions Found\n\n```bash\n# Verify project path normalization\nls ~/.claude/projects/ | grep -i \"project-name\"\n\n# Check actual projects directory\nls -la ~/.claude/projects/\n```\n\n### Empty Recovery\n\nPossible causes:\n- Files were edited (Edit tool) but never written (Write tool)\n- Keywords don't match file paths in session\n- Session predates file creation\n\nSolutions:\n- Try `--show-edits` flag to see Edit operations\n- Broaden keyword search\n- Search adjacent sessions\n\n### Large Session Files\n\nFor sessions >100MB:\n- Scripts use streaming (line-by-line processing)\n- Memory usage remains constant\n- Processing may take 1-2 minutes\n\n## Security & Privacy\n\n### Before Sharing Recovered Content\n\nSession files may contain:\n- Absolute paths with usernames\n- API keys or credentials\n- Company-specific information\n\nAlways sanitize before sharing:\n\n```bash\n# Remove absolute paths\nsed -i '' 's|/Users/[^/]*/|/Users/username/|g' file.js\n\n# Verify no credentials\ngrep -i \"api_key\\|password\\|token\" recovered_content/*\n```\n\n### Safe Storage\n\nRecovered content inherits sensitivity from original sessions. Store securely and follow organizational policies for handling session data.",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daymade",
+    "github": "daymade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daymade/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/claude-code-history-files-finder/SKILL.md"
+  },
+  "stats": {
+    "stars": 154,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:30:48Z",
+  "created_at": "2025-10-22T11:17:31Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/daymade/claude-code-skills/blob/main/claude-code-history-files-finder/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_9e49fc36a581"
+  }
+}

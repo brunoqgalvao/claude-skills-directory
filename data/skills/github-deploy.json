@@ -1,0 +1,37 @@
+{
+  "id": "github-deploy",
+  "name": "github-deploy",
+  "version": "1.0.0",
+  "summary": "Deploy GitHub repositories to remote servers via SSH. Claude reads the README, understands build/start instructions, and executes deployment commands over SSH. Supports rollback...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "apanoia",
+    "github": "apanoia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/apanoia/my_completely_irrelevant_claude_skillls",
+    "skill_md": "https://raw.githubusercontent.com/apanoia/my_completely_irrelevant_claude_skillls/main/skills/github-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:51.500Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/apanoia%2Fmy_completely_irrelevant_claude_skillls/skills%2Fgithub-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_6012b00d669a"
+  }
+}

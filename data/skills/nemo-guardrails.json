@@ -1,0 +1,35 @@
+{
+  "id": "nemo-guardrails",
+  "name": "nemo-guardrails",
+  "version": "1.0.0",
+  "summary": "NVIDIA's runtime safety framework for LLM applications. Features jailbreak detection, input/output validation, fact-checking, hallucination detection, PII filtering, toxicity de...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ovachiever",
+    "github": "ovachiever"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ovachiever/droid-tings",
+    "skill_md": "https://raw.githubusercontent.com/ovachiever/droid-tings/main/skills/nemo-guardrails/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.452Z",
+  "created_at": "2025-12-23T01:29:10.296Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ovachiever%2Fdroid-tings/skills%2Fnemo-guardrails%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_ae4e3db1bdb6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "test-json-sql-semantic-scholar",
+  "name": "test-json-sql-semantic-scholar",
+  "version": "1.0.0",
+  "summary": "Test JSON SQL primitives with semantic-scholar output",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bdambrosio",
+    "github": "bdambrosio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bdambrosio/Cognitive_workbench",
+    "skill_md": "https://raw.githubusercontent.com/bdambrosio/Cognitive_workbench/main/src/saved_plans/test-json-sql-semantic-scholar/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.579Z",
+  "created_at": "2025-12-23T01:28:20.556Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bdambrosio%2FCognitive_workbench/src%2Fsaved_plans%2Ftest-json-sql-semantic-scholar%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_72d55cb191e0"
+  }
+}

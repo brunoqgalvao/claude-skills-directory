@@ -1,0 +1,36 @@
+{
+  "id": "memory-design",
+  "name": "memory-design",
+  "version": "1.0.0",
+  "summary": "Interpretive guidance for Claude Code memory management system. Helps choose between memory locations, organize modular rules, use path-specific rules, and avoid common pitfalls...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "racurry",
+    "github": "racurry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/racurry/neat-little-package",
+    "skill_md": "https://raw.githubusercontent.com/racurry/neat-little-package/main/plugins/box-factory/skills/memory-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T19:49:29.000Z",
+  "created_at": "2025-12-22T17:53:28.953Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/racurry%2Fneat-little-package/plugins%2Fbox-factory%2Fskills%2Fmemory-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_78b19f530132"
+  }
+}

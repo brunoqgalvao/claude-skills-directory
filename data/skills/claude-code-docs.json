@@ -1,0 +1,35 @@
+{
+  "id": "claude-code-docs",
+  "name": "claude-code-docs",
+  "version": "1.0.0",
+  "summary": "Answers questions about Claude Code features, configuration, and usage from local documentation synced from code.claude.com. Use when users ask about hooks, plugins, skills, MCP...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanvale",
+    "github": "nathanvale"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanvale/side-quest-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/nathanvale/side-quest-marketplace/main/plugins/claude-code-docs/skills/claude-code-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T02:26:23.000Z",
+  "created_at": "2025-12-22T14:56:13.310Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanvale%2Fside-quest-marketplace/plugins%2Fclaude-code-docs%2Fskills%2Fclaude-code-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_d642978a4762"
+  }
+}

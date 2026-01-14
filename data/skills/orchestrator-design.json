@@ -1,0 +1,36 @@
+{
+  "id": "orchestrator-design",
+  "name": "orchestrator-design",
+  "version": "1.0.0",
+  "summary": "Design O-Agent systems for multi-agent fleet management. Use when building orchestrator agents, designing multi-agent architectures, or creating unified interfaces for agent fle...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/orchestrator-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.796Z",
+  "created_at": "2025-12-22T18:16:07.199Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Forchestrator-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.796Z",
+    "uniqueId": "sk_0f9f0f8344e9"
+  }
+}

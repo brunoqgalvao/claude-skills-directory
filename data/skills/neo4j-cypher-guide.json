@@ -1,0 +1,36 @@
+{
+  "id": "neo4j-cypher-guide",
+  "name": "neo4j-cypher-guide",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for writing modern Neo4j Cypher read queries. Essential for text2cypher MCP tools and LLMs generating Cypher queries. Covers removed/deprecated syntax, moder...",
+  "verticals": [
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tomasonjo",
+    "github": "tomasonjo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tomasonjo/blogs",
+    "skill_md": "https://raw.githubusercontent.com/tomasonjo/blogs/main/claude-skills/neo4j-cypher-guide/neo4j-cypher-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T01:45:58.000Z",
+  "created_at": "2025-12-22T18:12:18.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tomasonjo%2Fblogs/claude-skills%2Fneo4j-cypher-guide%2Fneo4j-cypher-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_6010f286ba06"
+  }
+}

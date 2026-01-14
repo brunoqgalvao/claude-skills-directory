@@ -1,0 +1,36 @@
+{
+  "id": "generate-report-header",
+  "name": "generate-report-header",
+  "version": "1.0.0",
+  "summary": "Create standardized report headers with metadata for all agent-generated reports. Use when generating bug reports, security audits, dependency reports, or any worker output requ...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maslennikov-ig",
+    "github": "maslennikov-ig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maslennikov-ig/claude-code-orchestrator-kit",
+    "skill_md": "https://raw.githubusercontent.com/maslennikov-ig/claude-code-orchestrator-kit/main/.claude/skills/generate-report-header/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:41.243Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maslennikov-ig%2Fclaude-code-orchestrator-kit/.claude%2Fskills%2Fgenerate-report-header%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_3692b0460d73"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "functional",
+  "name": "functional",
+  "version": "1.0.0",
+  "summary": "Functional programming patterns with immutable data. Use when writing logic or data transformations.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "citypaul",
+    "github": "citypaul"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/citypaul/.dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/citypaul/.dotfiles/main/claude/.claude/skills/functional/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:55.865Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/citypaul%2F.dotfiles/claude%2F.claude%2Fskills%2Ffunctional%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_a2c91c187b53"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "deep-audit",
+  "name": "deep-audit",
+  "version": "1.0.0",
+  "summary": "Comprehensive full-stack codebase audit for Crispy CRM. Triggers on audit, deep audit, codebase review, quality check, after refactoring, new feature complete. Phased approach (...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krwhynot",
+    "github": "krwhynot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krwhynot/crispy-crm",
+    "skill_md": "https://raw.githubusercontent.com/krwhynot/crispy-crm/main/.claude/skills/deep-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:03:23.622Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krwhynot%2Fcrispy-crm/.claude%2Fskills%2Fdeep-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_52e25ff9d7fe"
+  }
+}

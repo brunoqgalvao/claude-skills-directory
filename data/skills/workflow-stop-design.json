@@ -1,0 +1,36 @@
+{
+  "id": "workflow-stop-design",
+  "name": "workflow-stop-design",
+  "version": "1.0.0",
+  "summary": "工作流暂停逻辑设计方案",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "labring",
+    "github": "labring"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/labring/FastGPT",
+    "skill_md": "https://raw.githubusercontent.com/labring/FastGPT/main/.claude/skills/core/app/workflow/stop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:17.963Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/labring%2FFastGPT/.claude%2Fskills%2Fcore%2Fapp%2Fworkflow%2Fstop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_5b8f833dc9f2"
+  }
+}

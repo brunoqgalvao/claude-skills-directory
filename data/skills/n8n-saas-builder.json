@@ -1,0 +1,37 @@
+{
+  "id": "n8n-saas-builder",
+  "name": "n8n-saas-builder",
+  "version": "1.0.0",
+  "summary": "Builds a complete SaaS frontend wrapper around validated n8n workflows. Use this skill when you want to CREATE A WEBSITE, BUILD A UI, MAKE A SAAS PRODUCT, or WRAP AN N8N WORKFLO...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "awjames6875",
+    "github": "awjames6875"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/awjames6875/skills-factory",
+    "skill_md": "https://raw.githubusercontent.com/awjames6875/skills-factory/main/adam-skills-factory/n8n-saas-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:29.566Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/awjames6875%2Fskills-factory/adam-skills-factory%2Fn8n-saas-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_652396beef32"
+  }
+}

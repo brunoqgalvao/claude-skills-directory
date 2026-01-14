@@ -1,0 +1,36 @@
+{
+  "id": "mockoon-cli",
+  "name": "mockoon-cli",
+  "version": "1.0.0",
+  "summary": "Use Mockoon CLI to create API proxies with full request/response logging, mock API servers for testing, and record real API interactions for debugging. Use when testing APIs, cr...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robanderson",
+    "github": "robanderson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robanderson/claude-my-skills",
+    "skill_md": "https://raw.githubusercontent.com/robanderson/claude-my-skills/main/mockoon-cli/skills/mockoon-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:37.496Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robanderson%2Fclaude-my-skills/mockoon-cli%2Fskills%2Fmockoon-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_0ce116e50dd3"
+  }
+}

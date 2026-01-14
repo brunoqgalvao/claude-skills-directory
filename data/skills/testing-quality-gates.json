@@ -1,0 +1,35 @@
+{
+  "id": "testing-quality-gates",
+  "name": "testing-quality-gates",
+  "version": "1.0.0",
+  "summary": "Comprehensive testing protocols, E2E patterns, and quality gate execution for the omer-akben portfolio. Use when writing tests, debugging test failures, or ensuring code quality.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "omerakben",
+    "github": "omerakben"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/omerakben/omer-akben",
+    "skill_md": "https://raw.githubusercontent.com/omerakben/omer-akben/main/.claude/skills/testing-and-quality-gates-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.503Z",
+  "created_at": "2025-12-23T01:29:22.564Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/omerakben%2Fomer-akben/.claude%2Fskills%2Ftesting-and-quality-gates-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_30185b7b3110"
+  }
+}

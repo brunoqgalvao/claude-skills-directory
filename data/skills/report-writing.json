@@ -1,0 +1,35 @@
+{
+  "id": "report-writing",
+  "name": "report-writing",
+  "version": "1.0.0",
+  "summary": "Use this still to write reports.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hdemers",
+    "github": "hdemers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hdemers/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/hdemers/dotfiles/main/.claude/skills.symlink/report-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:48.207Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hdemers%2Fdotfiles/.claude%2Fskills.symlink%2Freport-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_0125ff199fa2"
+  }
+}

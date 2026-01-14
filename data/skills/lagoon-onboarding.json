@@ -1,0 +1,37 @@
+{
+  "id": "lagoon-onboarding",
+  "name": "lagoon-onboarding",
+  "version": "1.0.0",
+  "summary": "Guide new users through their first Lagoon vault selection with risk-appropriate recommendations, systematic analysis workflows, and educational support. Activates for first-tim...",
+  "verticals": [
+    "support",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopperlabsxyz",
+    "github": "hopperlabsxyz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopperlabsxyz/lagoon-mcp",
+    "skill_md": "https://raw.githubusercontent.com/hopperlabsxyz/lagoon-mcp/main/skills/lagoon-onboarding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:13.119Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopperlabsxyz%2Flagoon-mcp/skills%2Flagoon-onboarding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_c48a19ec3c35"
+  }
+}

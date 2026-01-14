@@ -1,0 +1,37 @@
+{
+  "id": "ai-engineering-guide",
+  "name": "ai-engineering-guide",
+  "version": "1.0.0",
+  "summary": "Practical guide for building production ML systems based on Chip Huyen's AI Engineering book. Use when users ask about model evaluation, deployment strategies, monitoring, data ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "odewahn",
+    "github": "odewahn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/odewahn/ai-engineering-skill",
+    "skill_md": "https://raw.githubusercontent.com/odewahn/ai-engineering-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.757Z",
+  "created_at": "2025-12-22T20:15:43.845Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/odewahn%2Fai-engineering-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.757Z",
+    "uniqueId": "sk_acb49b286866"
+  }
+}

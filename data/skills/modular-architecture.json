@@ -1,0 +1,35 @@
+{
+  "id": "modular-architecture",
+  "name": "modular-architecture",
+  "version": "1.0.0",
+  "summary": "Module organization patterns including ports and adapters (hexagonal), module communication, and data isolation. Use when structuring modular monoliths, defining module boundari...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/enterprise-architecture/skills/modular-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:03.028Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fenterprise-architecture%2Fskills%2Fmodular-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_3e4e8c786ab7"
+  }
+}

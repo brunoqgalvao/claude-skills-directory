@@ -1,0 +1,36 @@
+{
+  "id": "ff-statistical-methods",
+  "name": "ff-statistical-methods",
+  "version": "1.0.0",
+  "summary": "Expert guidance on statistical analysis methodologies and Monte Carlo simulation for fantasy football. Use this skill when selecting regression approaches, designing simulations...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zazu-22",
+    "github": "zazu-22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zazu-22/ff_data_analytics",
+    "skill_md": "https://raw.githubusercontent.com/zazu-22/ff_data_analytics/main/.claude/skills/ff-analytics-team/ff-statistical-methods/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.756Z",
+  "created_at": "2025-12-22T20:15:45.053Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zazu-22%2Fff_data_analytics/.claude%2Fskills%2Fff-analytics-team%2Fff-statistical-methods%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_2383224d35df"
+  }
+}

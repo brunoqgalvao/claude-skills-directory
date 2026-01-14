@@ -1,0 +1,35 @@
+{
+  "id": "sdd-modify",
+  "name": "sdd-modify",
+  "version": "1.0.0",
+  "summary": "Apply spec modifications systematically. Use to apply review feedback, bulk modifications, or interactive spec updates with safety checks, validation, and rollback support.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-foundry",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-foundry/main/skills/sdd-modify/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T22:29:23.000Z",
+  "created_at": "2025-12-22T18:10:33.398Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-foundry/skills%2Fsdd-modify%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_2879e2385c12"
+  }
+}

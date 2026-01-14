@@ -1,0 +1,35 @@
+{
+  "id": "project-scaffolder",
+  "name": "project-scaffolder",
+  "version": "1.0.0",
+  "summary": "프론트엔드 프로젝트 구조를 분석하고 정리하여 AI 에이전트가 활용할 수 있는 컨텍스트 문서를 생성하는 스킬. \"프로젝트 구조 잡아줘\", \"폴더 구조 정리해줘\", \"아키텍처 문서화해줘\", \"프로젝트 초기 설정해줘\" 등의 요청에 트리거된다. Next.js, Supabase, React 등 다양한 프론트엔드 스택에서 범용...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rungchan2",
+    "github": "rungchan2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rungchan2/frontend-skills",
+    "skill_md": "https://raw.githubusercontent.com/rungchan2/frontend-skills/main/skills/project-scaffolder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:13.295Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rungchan2%2Ffrontend-skills/skills%2Fproject-scaffolder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_bae299eff54d"
+  }
+}

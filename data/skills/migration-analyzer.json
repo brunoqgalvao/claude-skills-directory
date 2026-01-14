@@ -1,0 +1,35 @@
+{
+  "id": "migration-analyzer",
+  "name": "migration-analyzer",
+  "version": "1.0.0",
+  "summary": "레거시 프로젝트를 세미콜론 커뮤니티 규격(cm-template)으로 이식 분석. Use when (1) 레거시 프로젝트 마이그레이션 필요, (2) cm-template 규격 차이 분석, (3) 마이그레이션 작업 범위 결정.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/nextjs/skills/migration-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:02:08.918Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fnextjs%2Fskills%2Fmigration-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_0d5a082041a2"
+  }
+}

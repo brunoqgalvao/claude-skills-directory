@@ -1,0 +1,35 @@
+{
+  "id": "templ-http",
+  "name": "templ-http",
+  "version": "1.0.0",
+  "summary": "Integrate templ components with Go HTTP server using net/http. Use when connecting templ to web server, creating HTTP handlers, mentions 'templ server', 'HTTP routes', or 'serve...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "homveloper",
+    "github": "homveloper"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/homveloper/doodle",
+    "skill_md": "https://raw.githubusercontent.com/homveloper/doodle/main/.claude/skills/templ-skills/templ-http/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T23:20:02.000Z",
+  "created_at": "2025-12-22T20:00:20.194Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/homveloper%2Fdoodle/.claude%2Fskills%2Ftempl-skills%2Ftempl-http%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_1de4f80b32ed"
+  }
+}

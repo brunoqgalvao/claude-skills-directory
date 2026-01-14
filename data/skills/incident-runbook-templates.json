@@ -1,0 +1,36 @@
+{
+  "id": "incident-runbook-templates",
+  "name": "incident-runbook-templates",
+  "version": "1.0.0",
+  "summary": "Create structured incident response runbooks with step-by-step procedures, escalation paths, and recovery actions. Use when building runbooks, responding to incidents, or establ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wshobson/agents",
+    "skill_md": "https://raw.githubusercontent.com/wshobson/agents/main/plugins/incident-response/skills/incident-runbook-templates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:58:38.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wshobson%2Fagents/plugins%2Fincident-response%2Fskills%2Fincident-runbook-templates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_3d0507b15995"
+  }
+}

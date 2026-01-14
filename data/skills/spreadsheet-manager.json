@@ -1,0 +1,36 @@
+{
+  "id": "spreadsheet-manager",
+  "name": "spreadsheet-manager",
+  "version": "1.0.0",
+  "summary": "Expert in managing Google Sheets spreadsheets. Use when user mentions \"spreadsheet\", \"Google Sheets\", \"sheets\", or requests spreadsheet operations (create, format, style, import...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smorand",
+    "github": "smorand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smorand/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/smorand/claude-config/main/skills/spreadsheet-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:13:19.120Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smorand%2Fclaude-config/skills%2Fspreadsheet-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_847e6813d94a"
+  }
+}

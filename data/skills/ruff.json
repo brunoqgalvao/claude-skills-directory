@@ -1,0 +1,35 @@
+{
+  "id": "ruff",
+  "name": "ruff",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to lint, format, or validate Python code using the Ruff command-line tool. Use this skill for tasks involving Python code quality check...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PovertyAction",
+    "github": "PovertyAction"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PovertyAction/ipa-stata-template",
+    "skill_md": "https://raw.githubusercontent.com/PovertyAction/ipa-stata-template/main/.claude/skills/ruff/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:21.879Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PovertyAction%2Fipa-stata-template/.claude%2Fskills%2Fruff%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_c9f833c10d2e"
+  }
+}

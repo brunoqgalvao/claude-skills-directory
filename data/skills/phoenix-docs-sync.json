@@ -1,0 +1,35 @@
+{
+  "id": "phoenix-docs-sync",
+  "name": "phoenix-docs-sync",
+  "version": "1.0.0",
+  "summary": "Syncs calculations documentation and JSDoc with actual behavior. Use after non-trivial changes to calculation modules.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nikhillinit",
+    "github": "nikhillinit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nikhillinit/Updog_restore",
+    "skill_md": "https://raw.githubusercontent.com/nikhillinit/Updog_restore/main/.claude/skills/phoenix-docs-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.575Z",
+  "created_at": "2025-12-23T01:28:26.337Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nikhillinit%2FUpdog_restore/.claude%2Fskills%2Fphoenix-docs-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_d0674091df21"
+  }
+}

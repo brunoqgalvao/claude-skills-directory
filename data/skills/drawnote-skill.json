@@ -1,0 +1,35 @@
+{
+  "id": "drawnote-skill",
+  "name": "drawnote-skill",
+  "version": "1.0.0",
+  "summary": "智能笔记与流程图绘制工具（优化版-无权限读取）。根据用户提供的内容，自动生成精美的可视化笔记和流程图，支持多种风格(手写笔记、思维导图、流程图等)，并导出为图片。使用内置模板，无需读取文件权限。适用于：(1) 学习笔记可视化，(2) 知识梳理与总结，(3) 流程图绘制，(4) 概念解释图表",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "peterfei",
+    "github": "peterfei"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/peterfei/ai-agent-team",
+    "skill_md": "https://raw.githubusercontent.com/peterfei/ai-agent-team/main/.claude/skills/drawnote/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.488Z",
+  "created_at": "2025-12-23T01:29:36.790Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/peterfei%2Fai-agent-team/.claude%2Fskills%2Fdrawnote%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_72b1deb5d0a2"
+  }
+}

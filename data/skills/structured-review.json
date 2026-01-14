@@ -1,0 +1,36 @@
+{
+  "id": "structured-review",
+  "name": "structured-review",
+  "version": "1.0.0",
+  "summary": "Automatically invoked when conducting reviews (code, specs, architecture, UX). Ensures systematic analysis and actionable findings with consistent format.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aandersland",
+    "github": "aandersland"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aandersland/feast",
+    "skill_md": "https://raw.githubusercontent.com/aandersland/feast/main/.claude/skills/structured-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:03.563Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aandersland%2Ffeast/.claude%2Fskills%2Fstructured-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_b36cd3562947"
+  }
+}

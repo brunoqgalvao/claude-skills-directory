@@ -1,0 +1,37 @@
+{
+  "id": "incremental-development",
+  "name": "incremental-development",
+  "version": "1.0.0",
+  "summary": "Structured incremental development workflow that enforces explicit scoping before implementation. Use when: (1) User says 'build', 'implement', 'develop', 'create feature', or '...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "even-wei",
+    "github": "even-wei"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/even-wei/incremental-development",
+    "skill_md": "https://raw.githubusercontent.com/even-wei/incremental-development/main/plugins/incremental-development/skills/incremental-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:36.473Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/even-wei%2Fincremental-development/plugins%2Fincremental-development%2Fskills%2Fincremental-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_8a3b2e66725c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "reddit-thread-analyzer",
+  "name": "reddit-thread-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyze Reddit threads for sentiment, consensus opinions, top arguments, and discussion patterns. Use this when users want to understand Reddit community opinions, analyze discu...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gked2121",
+    "github": "gked2121"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gked2121/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gked2121/claude-skills/main/reddit-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.462Z",
+  "created_at": "2025-12-22T17:06:51.969Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gked2121%2Fclaude-skills/reddit-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.462Z",
+    "uniqueId": "sk_a738acdcbecb"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "gh-check-ci-status",
+  "name": "gh-check-ci-status",
+  "version": "1.0.0",
+  "summary": "Check CI/CD status of a pull request including workflow runs and test results. Use when verifying if PR checks are passing or investigating CI failures.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/gh-check-ci-status/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T08:42:30.000Z",
+  "created_at": "2025-12-23T01:28:35.314Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Fgh-check-ci-status%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_4eee18241abd"
+  }
+}

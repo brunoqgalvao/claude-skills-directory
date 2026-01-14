@@ -1,0 +1,35 @@
+{
+  "id": "video-format",
+  "name": "video-format",
+  "version": "1.0.0",
+  "summary": "Process videos using ffmpeg and gifsicle to edit videos. Use when working with .mp4, .avi, or .gif files, or sequences of .png or .jpg files, and the request is to compress, con...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kristinbranson",
+    "github": "kristinbranson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kristinbranson/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/kristinbranson/claude-skills/main/video-format/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:52.131Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kristinbranson%2Fclaude-skills/video-format%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_6f295d746a23"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "access-control-rbac",
+  "name": "access-control-rbac",
+  "version": "1.0.0",
+  "summary": "Implement Role-Based Access Control (RBAC), permissions management, and authorization policies. Use when building secure access control systems with fine-grained permissions.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/access-control-rbac/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.481Z",
+  "created_at": "2025-12-23T01:29:43.336Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Faccess-control-rbac%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_58d647ade336"
+  }
+}

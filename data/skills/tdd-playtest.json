@@ -1,0 +1,35 @@
+{
+  "id": "tdd-playtest",
+  "name": "tdd-playtest",
+  "version": "1.0.0",
+  "summary": "Test-Driven Development combined with emergent playtesting for Quest Keeper AI. Use when running playtest sessions, writing tests, debugging game feel issues, or following the R...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Mnehmos",
+    "github": "Mnehmos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Mnehmos/QuestKeeperAI",
+    "skill_md": "https://raw.githubusercontent.com/Mnehmos/QuestKeeperAI/main/.claude/skills/tdd-playtest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:21:51.188Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Mnehmos%2FQuestKeeperAI/.claude%2Fskills%2Ftdd-playtest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_e2004974bde6"
+  }
+}

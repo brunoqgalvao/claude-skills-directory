@@ -1,0 +1,36 @@
+{
+  "id": "querying-influxdb-18",
+  "name": "querying-influxdb-18",
+  "version": "1.0.0",
+  "summary": "Ejecuta consultas de lectura (queries) en InfluxDB 1.8 mediante la API HTTP usando curl. Permite verificar datos, detectar errores, crear resúmenes estadísticos y analizar valor...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TacoronteRiveroCristian",
+    "github": "TacoronteRiveroCristian"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TacoronteRiveroCristian/utils",
+    "skill_md": "https://raw.githubusercontent.com/TacoronteRiveroCristian/utils/main/.claude/skills/querying-influxdb-18/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.741Z",
+  "created_at": "2025-12-22T21:10:54.634Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TacoronteRiveroCristian%2Futils/.claude%2Fskills%2Fquerying-influxdb-18%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_f40c251cc2b2"
+  }
+}

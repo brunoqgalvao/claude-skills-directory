@@ -1,0 +1,35 @@
+{
+  "id": "glhf",
+  "name": "glhf",
+  "version": "1.0.0",
+  "summary": "Search Claude Code conversation history to find past solutions, recall commands, and discover related work. Use when looking for previous implementations, finding commands you r...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TrevorS",
+    "github": "TrevorS"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TrevorS/dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/TrevorS/dot-claude/main/skills/glhf/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T17:24:23.000Z",
+  "created_at": "2025-12-23T01:28:44.191Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TrevorS%2Fdot-claude/skills%2Fglhf%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_4651d92daf1f"
+  }
+}

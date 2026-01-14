@@ -1,0 +1,37 @@
+{
+  "id": "skill-forge",
+  "name": "skill-forge",
+  "version": "1.0.0",
+  "summary": "Advanced meta-skill for generating complete, production-ready skills for any domain. Use when the user wants to create a new skill, needs help designing a skill, wants to genera...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AIBPM42",
+    "github": "AIBPM42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AIBPM42/hodgesfooshee-site-spark",
+    "skill_md": "https://raw.githubusercontent.com/AIBPM42/hodgesfooshee-site-spark/main/.claude/skills/skill-forge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:14:58.137Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AIBPM42%2Fhodgesfooshee-site-spark/.claude%2Fskills%2Fskill-forge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_52911f0dfecf"
+  }
+}

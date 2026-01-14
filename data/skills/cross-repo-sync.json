@@ -1,0 +1,35 @@
+{
+  "id": "cross-repo-sync",
+  "name": "cross-repo-sync",
+  "version": "1.0.0",
+  "summary": "Sync files between BobTheSkull5 and BobFast5 repositories, especially audio files and shared components. Use when syncing audio, copying static files, or managing dual-repo work...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "want2bet",
+    "github": "want2bet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/want2bet/BobTheSkull5",
+    "skill_md": "https://raw.githubusercontent.com/want2bet/BobTheSkull5/main/.claude/skills/cross-repo-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:07:15.440Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/want2bet%2FBobTheSkull5/.claude%2Fskills%2Fcross-repo-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_8e860239b562"
+  }
+}

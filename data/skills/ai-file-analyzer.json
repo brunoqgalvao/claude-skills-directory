@@ -1,0 +1,36 @@
+{
+  "id": "ai-file-analyzer",
+  "name": "ai-file-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyze Adobe Illustrator (.ai) files to extract design information including text content, fonts, color palettes, vector paths, and generate high-resolution preview images. Use...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robinade",
+    "github": "robinade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robinade/persona-theater",
+    "skill_md": "https://raw.githubusercontent.com/robinade/persona-theater/main/.claude/skills/ai-file-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:08.237Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robinade%2Fpersona-theater/.claude%2Fskills%2Fai-file-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_bdd31a75b148"
+  }
+}

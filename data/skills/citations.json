@@ -1,0 +1,35 @@
+{
+  "id": "citations",
+  "name": "citations",
+  "version": "1.0.0",
+  "summary": "Proactively include clickable links when referencing entities (persons, conversations, messages). Makes responses actionable.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cncorp",
+    "github": "cncorp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cncorp/arsenal",
+    "skill_md": "https://raw.githubusercontent.com/cncorp/arsenal/main/dot-claude/skills/citations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T20:42:54.000Z",
+  "created_at": "2025-12-23T01:28:40.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cncorp%2Farsenal/dot-claude%2Fskills%2Fcitations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_61e142099e96"
+  }
+}

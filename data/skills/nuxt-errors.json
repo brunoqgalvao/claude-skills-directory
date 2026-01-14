@@ -1,0 +1,36 @@
+{
+  "id": "nuxt-errors",
+  "name": "nuxt-errors",
+  "version": "1.0.0",
+  "summary": "Error handling with error classes, handlers, and interceptors. Use when handling API errors, displaying validation errors, configuring error handlers, or implementing error inte...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-nuxt",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-nuxt/main/skills/nuxt-errors/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T11:02:50.000Z",
+  "created_at": "2025-12-22T14:58:22.916Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-nuxt/skills%2Fnuxt-errors%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_a517e5a1b4ef"
+  }
+}

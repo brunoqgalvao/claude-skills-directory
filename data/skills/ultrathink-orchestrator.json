@@ -1,0 +1,35 @@
+{
+  "id": "ultrathink-orchestrator",
+  "name": "ultrathink-orchestrator",
+  "version": "1.0.0",
+  "summary": "Auto-invokes ultrathink workflow for any work request (default orchestrator)",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rysweet",
+    "github": "rysweet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rysweet/azure-tenant-grapher",
+    "skill_md": "https://raw.githubusercontent.com/rysweet/azure-tenant-grapher/main/.claude/skills/ultrathink-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:06:53.701Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rysweet%2Fazure-tenant-grapher/.claude%2Fskills%2Fultrathink-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_b782d4bac7ab"
+  }
+}

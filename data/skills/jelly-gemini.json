@@ -1,0 +1,37 @@
+{
+  "id": "jelly-gemini",
+  "name": "jelly-gemini",
+  "version": "1.0.0",
+  "summary": "Google Gemini AI integration for Claude Code. Supports multimodal analysis, long context processing, fast inference with Gemini 2.5 Flash/Pro models, and Nano Banana image gener...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-jelly",
+    "github": "dev-jelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-jelly/jelly-dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/dev-jelly/jelly-dotclaude/main/skills/jelly-gemini/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:40.596Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-jelly%2Fjelly-dotclaude/skills%2Fjelly-gemini%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_04ab40933bb3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ci-optimization-specialist",
+  "name": "ci-optimization-specialist",
+  "version": "1.0.0",
+  "summary": "Optimizes GitHub Actions CI/CD workflows through test sharding, intelligent caching, and workflow parallelization. Use when CI execution time exceeds limits, costs are too high,...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-oit",
+    "github": "d-oit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-oit/do-novelist-ai",
+    "skill_md": "https://raw.githubusercontent.com/d-oit/do-novelist-ai/main/.claude/skills/ci-optimization-specialist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:22.708Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-oit%2Fdo-novelist-ai/.claude%2Fskills%2Fci-optimization-specialist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_c299372edb11"
+  }
+}

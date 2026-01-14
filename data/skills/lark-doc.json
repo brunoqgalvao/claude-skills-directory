@@ -1,0 +1,35 @@
+{
+  "id": "lark-doc",
+  "name": "lark-doc",
+  "version": "1.0.0",
+  "summary": "Fetch Lark/Feishu document and convert to Markdown. Use this skill to get troubleshooting guides and operation instructions from Lark documents.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "XiaoMi",
+    "github": "XiaoMi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/XiaoMi/mone",
+    "skill_md": "https://raw.githubusercontent.com/XiaoMi/mone/main/jcommon/mcp/mcp-smartsre/.claude/skills/lark-doc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T09:10:30.000Z",
+  "created_at": "2025-12-23T01:28:40.700Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/XiaoMi%2Fmone/jcommon%2Fmcp%2Fmcp-smartsre%2F.claude%2Fskills%2Flark-doc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_77fba5b13c45"
+  }
+}

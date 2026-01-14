@@ -1,0 +1,35 @@
+{
+  "id": "sql-query",
+  "name": "sql-query",
+  "version": "1.0.0",
+  "summary": "Generate and optimize SQL queries for data retrieval and analysis",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tatat",
+    "github": "tatat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tatat/agents-playground",
+    "skill_md": "https://raw.githubusercontent.com/tatat/agents-playground/main/skills/sql-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:50:59.633Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tatat%2Fagents-playground/skills%2Fsql-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_b292ad4cb338"
+  }
+}

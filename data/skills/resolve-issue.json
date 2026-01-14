@@ -1,0 +1,35 @@
+{
+  "id": "resolve-issue",
+  "name": "resolve-issue",
+  "version": "1.0.0",
+  "summary": "Provides a systematic workflow for resolving GitHub Issues. Use this skill when assigned a GitHub Issue or when delegated by the Issue Auto-resolver.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kokuyouwind",
+    "github": "kokuyouwind"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kokuyouwind/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/kokuyouwind/claude-plugins/main/plugins/issue-resolver/skills/resolve-issue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:03:12.955Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kokuyouwind%2Fclaude-plugins/plugins%2Fissue-resolver%2Fskills%2Fresolve-issue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_528908dbf56f"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "implement-crud",
+  "name": "implement-crud",
+  "version": "1.0.0",
+  "summary": "Implement complete CRUD (Create, Read, Update, Delete) operations for Supabase tables with proper error handling, validation, and RLS. Triggers when user requests data operation...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rdimascio",
+    "github": "rdimascio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rdimascio/supabase-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/rdimascio/supabase-marketplace/main/plugins/database-operations/.claude/skills/implement-crud/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:14.768Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rdimascio%2Fsupabase-marketplace/plugins%2Fdatabase-operations%2F.claude%2Fskills%2Fimplement-crud%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_06badc8d5588"
+  }
+}

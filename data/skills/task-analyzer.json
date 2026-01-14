@@ -1,0 +1,35 @@
+{
+  "id": "task-analyzer",
+  "name": "task-analyzer",
+  "version": "1.0.0",
+  "summary": "Metacognitive task analysis and skill selection. Analyzes task essence, estimates scale, and returns appropriate skills with metadata.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shinpr",
+    "github": "shinpr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shinpr/claude-code-workflows",
+    "skill_md": "https://raw.githubusercontent.com/shinpr/claude-code-workflows/main/skills/task-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:39.884Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shinpr%2Fclaude-code-workflows/skills%2Ftask-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_5dd4aeaaaf54"
+  }
+}

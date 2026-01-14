@@ -1,0 +1,36 @@
+{
+  "id": "dst-join-analysis",
+  "name": "dst-join-analysis",
+  "version": "1.0.0",
+  "summary": "Perform SQL joins and multi-table analysis on DST data in DuckDB. Use when\nresearch requires combining multiple tables on common dimensions (time, region).\nProvides patterns for...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikkelkrogsholm",
+    "github": "mikkelkrogsholm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikkelkrogsholm/dst-skills",
+    "skill_md": "https://raw.githubusercontent.com/mikkelkrogsholm/dst-skills/main/.claude/skills/dst-join-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:09:44.469Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikkelkrogsholm%2Fdst-skills/.claude%2Fskills%2Fdst-join-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_5d0262c44741"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "blog",
+  "name": "blog",
+  "version": "1.0.0",
+  "summary": "Analyze blog content gaps and create SEO-optimized posts for SimplePAES. Use when the user wants to identify what blog posts to write or create a new post.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "godiemp",
+    "github": "godiemp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/godiemp/math",
+    "skill_md": "https://raw.githubusercontent.com/godiemp/math/main/.claude/skills/blog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:57:51.057Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/godiemp%2Fmath/.claude%2Fskills%2Fblog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_b70b8bb0c250"
+  }
+}

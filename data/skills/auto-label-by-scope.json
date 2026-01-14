@@ -1,0 +1,36 @@
+{
+  "id": "auto-label-by-scope",
+  "name": "auto-label-by-scope",
+  "version": "1.0.0",
+  "summary": "Auto-label Epic based on scope analysis. Use when (1) draft-task-creator completes task creation, (2) need to apply scope labels (backend, frontend, design, fullstack) to Epic, ...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/biz/discovery/skills/auto-label-by-scope/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T09:52:48.000Z",
+  "created_at": "2025-12-23T01:28:32.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fbiz%2Fdiscovery%2Fskills%2Fauto-label-by-scope%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_344da39e2d37"
+  }
+}

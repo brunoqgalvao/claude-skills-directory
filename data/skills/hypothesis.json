@@ -1,0 +1,37 @@
+{
+  "id": "hypothesis",
+  "name": "hypothesis",
+  "version": "1.0.0",
+  "summary": "Use Hypothesis for property-based testing to automatically generate comprehensive test cases, find edge cases, and write more robust tests with minimal example shrinking. Includ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anam-org",
+    "github": "anam-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anam-org/metaxy",
+    "skill_md": "https://raw.githubusercontent.com/anam-org/metaxy/main/.claude/skills/hypothesis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T11:00:22.000Z",
+  "created_at": "2025-12-23T01:29:06.074Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anam-org%2Fmetaxy/.claude%2Fskills%2Fhypothesis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_d29b759fe903"
+  }
+}

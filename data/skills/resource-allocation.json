@@ -1,0 +1,35 @@
+{
+  "id": "resource-allocation",
+  "name": "resource-allocation",
+  "version": "1.0.0",
+  "summary": "Resource capacity planning and allocation skill for managing people and skills\nacross multiple projects. Identifies conflicts, gaps, and optimization opportunities.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/pmo-team/skills/resource-allocation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:50:31.000Z",
+  "created_at": "2025-12-23T01:29:18.407Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/pmo-team%2Fskills%2Fresource-allocation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_8ce2d856bc91"
+  }
+}

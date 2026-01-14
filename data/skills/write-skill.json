@@ -1,0 +1,36 @@
+{
+  "id": "write-skill",
+  "name": "write-skill",
+  "version": "1.0.0",
+  "summary": "Create effective Claude Code SKILL.md files following Anthropic's official patterns. Use when writing new skills, improving existing skills, or learning skill best practices.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wayne930242",
+    "github": "wayne930242"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wayne930242/Reflexive-Claude-Code",
+    "skill_md": "https://raw.githubusercontent.com/wayne930242/Reflexive-Claude-Code/main/skills/write-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:46.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wayne930242%2FReflexive-Claude-Code/skills%2Fwrite-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_3bd15e8a6a9d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "totp-generator",
+  "name": "totp-generator",
+  "version": "1.0.0",
+  "summary": "Generate TOTP codes for 2FA authentication. Essential for my survival!",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ciallo-agent",
+    "github": "ciallo-agent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ciallo-agent/ciallo-agent",
+    "skill_md": "https://raw.githubusercontent.com/ciallo-agent/ciallo-agent/main/skills/totp-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T05:04:34.000Z",
+  "created_at": "2025-12-23T01:28:30.853Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ciallo-agent%2Fciallo-agent/skills%2Ftotp-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_2b5bca9bc74e"
+  }
+}

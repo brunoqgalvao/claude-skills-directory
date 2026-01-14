@@ -1,0 +1,37 @@
+{
+  "id": "video-generation-skill",
+  "name": "video-generation-skill",
+  "version": "1.0.0",
+  "summary": "Design video concepts, scripts, shotlists, transitions, and editing notes for VEO, Gemini, and Nano Banana-based pipelines. Use when turning a marketing idea into concrete video...",
+  "verticals": [
+    "sales",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CleanExpo",
+    "github": "CleanExpo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CleanExpo/Unite-Hub",
+    "skill_md": "https://raw.githubusercontent.com/CleanExpo/Unite-Hub/main/.claude/skills/video-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T08:13:28.000Z",
+  "created_at": "2025-12-23T01:28:32.383Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CleanExpo%2FUnite-Hub/.claude%2Fskills%2Fvideo-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_86111ff090b9"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hardened-outline-driven-development",
+  "name": "hardened-outline-driven-development",
+  "version": "1.0.0",
+  "summary": "Automated validation orchestration across proof, spec, type, contract, and test artifacts with configurable precedence and gating. This skill provides both reference documentati...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OutlineDriven",
+    "github": "OutlineDriven"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OutlineDriven/odin-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/OutlineDriven/odin-claude-plugin/main/skills/outline-strong/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:56:51.305Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OutlineDriven%2Fodin-claude-plugin/skills%2Foutline-strong%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_29b24c2977d8"
+  }
+}

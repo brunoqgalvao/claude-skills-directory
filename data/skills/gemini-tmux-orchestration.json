@@ -1,0 +1,35 @@
+{
+  "id": "gemini-tmux-orchestration",
+  "name": "gemini-tmux-orchestration",
+  "version": "1.0.0",
+  "summary": "Use when delegating coding tasks to Gemini CLI agent, when you need parallel AI execution, or when tasks benefit from Gemini's 1M+ context window - orchestrates Gemini via tmux ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "serejaris",
+    "github": "serejaris"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/serejaris/ris-claude-code",
+    "skill_md": "https://raw.githubusercontent.com/serejaris/ris-claude-code/main/skills/gemini-tmux-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:06:13.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/serejaris%2Fris-claude-code/skills%2Fgemini-tmux-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_d4525822ac43"
+  }
+}

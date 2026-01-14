@@ -1,0 +1,37 @@
+{
+  "id": "frontend-visual-regression-testing",
+  "name": "frontend-visual-regression-testing",
+  "version": "1.0.0",
+  "summary": "Use when implementing UI components, design systems, or responsive layouts - verifies visual correctness through screenshot comparison and DevTools verification; prevents shippi...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samjhecht",
+    "github": "samjhecht"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samjhecht/wrangler",
+    "skill_md": "https://raw.githubusercontent.com/samjhecht/wrangler/main/skills/frontend/visual-regression-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:37.664Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samjhecht%2Fwrangler/skills%2Ffrontend%2Fvisual-regression-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_90d631f71a61"
+  }
+}

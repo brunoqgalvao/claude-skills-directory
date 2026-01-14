@@ -1,0 +1,35 @@
+{
+  "id": "project-validation",
+  "name": "project-validation",
+  "version": "1.0.0",
+  "summary": "Validates project after initialization. Checks static files, endpoints, CSS, health.\nUse when: after rust-project-init, before TDD loop.\nTriggers: \"validate project\", \"check pro...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/vibe-coder/skills/project-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T08:06:50.000Z",
+  "created_at": "2025-12-23T01:28:37.942Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/vibe-coder%2Fskills%2Fproject-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_b0ed1f1f0ca6"
+  }
+}

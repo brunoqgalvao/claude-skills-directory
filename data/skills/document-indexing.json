@@ -1,0 +1,37 @@
+{
+  "id": "document-indexing",
+  "name": "document-indexing",
+  "version": "1.0.0",
+  "summary": "Extract structured metadata from documents using AI. Classify content types, extract topics and tools. Supports async batch processing.",
+  "verticals": [
+    "marketing",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "boringdata",
+    "github": "boringdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/boringdata/kurt-demo",
+    "skill_md": "https://raw.githubusercontent.com/boringdata/kurt-demo/main/_archived/document-indexing-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T20:09:02.000Z",
+  "created_at": "2025-12-23T01:28:35.973Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/boringdata%2Fkurt-demo/_archived%2Fdocument-indexing-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_a4c064546524"
+  }
+}

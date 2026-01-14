@@ -1,0 +1,36 @@
+{
+  "id": "azure-cli",
+  "name": "azure-cli",
+  "version": "1.0.0",
+  "summary": "When users share links (such as visualstudio.com or dev.azure.com) and/or mention Azure DevOps, use the Azure DevOps CLI to interact with work items, pull requests (PRs), reposi...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "scaryrawr",
+    "github": "scaryrawr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/scaryrawr/skillz",
+    "skill_md": "https://raw.githubusercontent.com/scaryrawr/skillz/main/azure-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:51:01.648Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/scaryrawr%2Fskillz/azure-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_b2c05f53b8b0"
+  }
+}

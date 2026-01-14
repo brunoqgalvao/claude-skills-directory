@@ -1,0 +1,37 @@
+{
+  "id": "radulator-qa-tester",
+  "name": "radulator-qa-tester",
+  "version": "1.0.0",
+  "summary": "Automated QA testing for Radulator's 18 medical calculators across radiology, hepatology/liver, and urology specialties. Tests accuracy, collects browser diagnostics, generates ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "momomojo",
+    "github": "momomojo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/momomojo/Radulator",
+    "skill_md": "https://raw.githubusercontent.com/momomojo/Radulator/main/.claude/skills/radulator-qa-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:03:22.144Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/momomojo%2FRadulator/.claude%2Fskills%2Fradulator-qa-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_514d42249cf8"
+  }
+}

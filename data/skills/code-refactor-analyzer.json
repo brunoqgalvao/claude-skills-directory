@@ -1,0 +1,36 @@
+{
+  "id": "code-refactor-analyzer",
+  "name": "code-refactor-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes codebase for refactoring needs, generates todo reports, and validates completion",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chaorenex1",
+    "github": "chaorenex1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chaorenex1/coding-agent-workflow",
+    "skill_md": "https://raw.githubusercontent.com/chaorenex1/coding-agent-workflow/main/skills/code-refactor-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T17:16:07.000Z",
+  "created_at": "2025-12-23T01:28:41.304Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chaorenex1%2Fcoding-agent-workflow/skills%2Fcode-refactor-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_174f0478edb9"
+  }
+}

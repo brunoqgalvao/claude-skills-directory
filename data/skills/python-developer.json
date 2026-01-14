@@ -1,0 +1,35 @@
+{
+  "id": "python-developer",
+  "name": "python-developer",
+  "version": "1.0.0",
+  "summary": "Эксперт Python разработки. Используй для Python best practices, async, typing и ecosystem.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dengineproblem",
+    "github": "dengineproblem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dengineproblem/agents-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/dengineproblem/agents-monorepo/main/.claude/skills/python-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T15:22:27.000Z",
+  "created_at": "2025-12-22T18:15:52.395Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dengineproblem%2Fagents-monorepo/.claude%2Fskills%2Fpython-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_a9cc92d79332"
+  }
+}

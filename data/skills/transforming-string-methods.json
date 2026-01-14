@@ -1,0 +1,36 @@
+{
+  "id": "transforming-string-methods",
+  "name": "transforming-string-methods",
+  "version": "1.0.0",
+  "summary": "Write type-safe transformations with Zod including string methods, custom transforms, codecs, and pipelines",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/zod-4/skills/transforming-string-methods/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.796Z",
+  "created_at": "2025-12-22T18:16:51.064Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/zod-4%2Fskills%2Ftransforming-string-methods%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.796Z",
+    "uniqueId": "sk_2db68d972830"
+  }
+}

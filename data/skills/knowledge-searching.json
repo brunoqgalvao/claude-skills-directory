@@ -1,0 +1,37 @@
+{
+  "id": "knowledge-searching",
+  "name": "knowledge-searching",
+  "version": "1.0.0",
+  "summary": "Retrieves implementation knowledge, code examples, and documentation references. Use to inform technical decision-making when the user requires specific library usage, framework...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "irahardianto",
+    "github": "irahardianto"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/irahardianto/qurio",
+    "skill_md": "https://raw.githubusercontent.com/irahardianto/qurio/main/.gemini/skills/knowledge-searching/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:27.931Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/irahardianto%2Fqurio/.gemini%2Fskills%2Fknowledge-searching%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_f55a3abdd751"
+  }
+}

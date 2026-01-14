@@ -1,0 +1,36 @@
+{
+  "id": "type-definitions",
+  "name": "type-definitions",
+  "version": "1.0.0",
+  "summary": "Generate TypeScript interfaces and types from data structure descriptions",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "projectquestorg",
+    "github": "projectquestorg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/projectquestorg/AgileFlow",
+    "skill_md": "https://raw.githubusercontent.com/projectquestorg/AgileFlow/main/packages/cli/src/core/skills/type-definitions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T15:46:41.000Z",
+  "created_at": "2025-12-23T01:28:33.943Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/projectquestorg%2FAgileFlow/packages%2Fcli%2Fsrc%2Fcore%2Fskills%2Ftype-definitions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_4ed77e3aea8b"
+  }
+}

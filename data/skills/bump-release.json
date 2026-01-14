@@ -1,0 +1,36 @@
+{
+  "id": "bump-release",
+  "name": "bump-release",
+  "version": "1.0.0",
+  "summary": "Execute automated release workflow for Rust projects using Conventional Emoji Commits. Analyze commits since last release, determine semantic version bump (MAJOR/MINOR/PATCH), u...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codekiln",
+    "github": "codekiln"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codekiln/langstar",
+    "skill_md": "https://raw.githubusercontent.com/codekiln/langstar/main/.claude/skills/bump-release/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:12:32.246Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codekiln%2Flangstar/.claude%2Fskills%2Fbump-release%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_ce4e1a20f832"
+  }
+}

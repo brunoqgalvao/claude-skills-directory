@@ -1,0 +1,36 @@
+{
+  "id": "template-meta-prompt-creation",
+  "name": "template-meta-prompt-creation",
+  "version": "1.0.0",
+  "summary": "Create Level 6 template meta-prompts that generate other prompts. Use when building prompt generators, designing high-leverage meta-prompts, or creating templates that scaffold ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/template-meta-prompt-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.528Z",
+  "created_at": "2025-12-23T01:29:02.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Ftemplate-meta-prompt-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_456ff76a56ef"
+  }
+}

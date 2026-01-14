@@ -1,0 +1,36 @@
+{
+  "id": "business-analyst-toolkit",
+  "name": "business-analyst-toolkit",
+  "version": "1.0.0",
+  "summary": "Business process analysis, requirements documentation, and workflow optimization for retail, supply chain, and technology organizations",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rickydwilson-dcs",
+    "github": "rickydwilson-dcs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rickydwilson-dcs/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/rickydwilson-dcs/claude-skills/main/skills/product-team/business-analyst-toolkit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:09:17.679Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rickydwilson-dcs%2Fclaude-skills/skills%2Fproduct-team%2Fbusiness-analyst-toolkit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_4dc4affdb0f2"
+  }
+}

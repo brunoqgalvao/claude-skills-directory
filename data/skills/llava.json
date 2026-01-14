@@ -1,0 +1,36 @@
+{
+  "id": "llava",
+  "name": "llava",
+  "version": "1.0.0",
+  "summary": "Large Language and Vision Assistant. Enables visual instruction tuning and image-based conversations. Combines CLIP vision encoder with Vicuna/LLaMA language models. Supports mu...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/18-multimodal/llava/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T07:05:04.000Z",
+  "created_at": "2025-12-23T01:29:16.503Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/18-multimodal%2Fllava%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_84984c58f33a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "user-story-generator",
+  "name": "user-story-generator",
+  "version": "1.0.0",
+  "summary": "Create user stories from feature descriptions with interactive Q&A and automated validation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matteocervelli",
+    "github": "matteocervelli"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matteocervelli/llms",
+    "skill_md": "https://raw.githubusercontent.com/matteocervelli/llms/main/user-story-system/.claude/skills/user-story-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.620Z",
+  "created_at": "2025-12-22T23:20:07.598Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matteocervelli%2Fllms/user-story-system%2F.claude%2Fskills%2Fuser-story-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.620Z",
+    "uniqueId": "sk_6c30f799321e"
+  }
+}

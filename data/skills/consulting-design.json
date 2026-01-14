@@ -1,0 +1,35 @@
+{
+  "id": "consulting-design",
+  "name": "consulting-design",
+  "version": "1.0.0",
+  "summary": "Consult Gemini AI for architecture alternatives, design trade-offs, and brainstorming. Use when seeking different perspectives on design, evaluating architectural approaches, co...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexei-led",
+    "github": "alexei-led"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexei-led/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/alexei-led/claude-code-config/main/skills/consulting-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T08:44:58.000Z",
+  "created_at": "2025-12-23T01:28:29.620Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexei-led%2Fclaude-code-config/skills%2Fconsulting-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.454Z",
+    "uniqueId": "sk_935d7d516a3d"
+  }
+}

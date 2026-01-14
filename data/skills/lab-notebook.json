@@ -1,0 +1,35 @@
+{
+  "id": "lab-notebook",
+  "name": "lab-notebook",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating a new experiment, starting lab notebook, recording experimental results, documenting observations, or exporting notebooks to PDF/typst. T...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dakesan",
+    "github": "dakesan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dakesan/bioinformatics-research-plugins",
+    "skill_md": "https://raw.githubusercontent.com/dakesan/bioinformatics-research-plugins/main/plugins/lab-notebook/skills/lab-notebook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-22T05:50:01.000Z",
+  "created_at": "2025-12-23T01:29:40.778Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dakesan%2Fbioinformatics-research-plugins/plugins%2Flab-notebook%2Fskills%2Flab-notebook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.484Z",
+    "uniqueId": "sk_1506ddab9f4f"
+  }
+}

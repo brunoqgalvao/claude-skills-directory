@@ -1,0 +1,37 @@
+{
+  "id": "waste-contract-extractor",
+  "name": "waste-contract-extractor",
+  "version": "1.0.0",
+  "summary": "Extract critical data points from multifamily waste service contracts (PDF/Word/scanned documents). Parses property details, service specifications, pricing structures, and cont...",
+  "verticals": [
+    "legal",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tryinhard1080",
+    "github": "tryinhard1080"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tryinhard1080/wastewise-skill-system",
+    "skill_md": "https://raw.githubusercontent.com/tryinhard1080/wastewise-skill-system/main/waste-skills-complete/waste-contract-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.467Z",
+  "created_at": "2025-12-23T01:30:54.288Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tryinhard1080%2Fwastewise-skill-system/waste-skills-complete%2Fwaste-contract-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_ed43b11650b4"
+  }
+}

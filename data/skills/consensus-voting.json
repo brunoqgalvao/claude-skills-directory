@@ -1,0 +1,35 @@
+{
+  "id": "consensus-voting",
+  "name": "consensus-voting",
+  "version": "1.0.0",
+  "summary": "Multi-agent consensus voting with domain-weighted expertise for critical decisions requiring structured validation",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rysweet",
+    "github": "rysweet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rysweet/azure-tenant-grapher",
+    "skill_md": "https://raw.githubusercontent.com/rysweet/azure-tenant-grapher/main/.claude/skills/consensus-voting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:09:46.734Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rysweet%2Fazure-tenant-grapher/.claude%2Fskills%2Fconsensus-voting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_e65440e888e2"
+  }
+}

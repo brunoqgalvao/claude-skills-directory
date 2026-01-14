@@ -1,0 +1,35 @@
+{
+  "id": "python-pytest-patterns",
+  "name": "python-pytest-patterns",
+  "version": "1.0.0",
+  "summary": "pytest testing patterns for Python. Triggers on: pytest, fixture, mark, parametrize, mock, conftest, test coverage, unit test, integration test, pytest.raises.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "0xDarkMatter",
+    "github": "0xDarkMatter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/0xDarkMatter/claude-mods",
+    "skill_md": "https://raw.githubusercontent.com/0xDarkMatter/claude-mods/main/skills/python-pytest-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:13:11.055Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/0xDarkMatter%2Fclaude-mods/skills%2Fpython-pytest-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_861a0f0f645c"
+  }
+}

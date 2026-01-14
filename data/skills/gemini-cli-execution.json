@@ -1,0 +1,37 @@
+{
+  "id": "gemini-cli-execution",
+  "name": "gemini-cli-execution",
+  "version": "1.0.0",
+  "summary": "Expert guide for executing the Google Gemini CLI in non-interactive and headless modes. Covers command syntax, piping input, output handling, and automation patterns. Use when r...",
+  "verticals": [
+    "finance",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/google-ecosystem/skills/gemini-cli-execution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:06.407Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fgoogle-ecosystem%2Fskills%2Fgemini-cli-execution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_9260e3b21945"
+  }
+}

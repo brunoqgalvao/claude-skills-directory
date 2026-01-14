@@ -1,0 +1,35 @@
+{
+  "id": "interview-prep",
+  "name": "interview-prep",
+  "version": "1.0.0",
+  "summary": "Prepare for job interviews with practice questions and response strategies",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tatat",
+    "github": "tatat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tatat/agents-playground",
+    "skill_md": "https://raw.githubusercontent.com/tatat/agents-playground/main/skills/interview-prep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.571Z",
+  "created_at": "2025-12-23T01:28:30.847Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tatat%2Fagents-playground/skills%2Finterview-prep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_4a6227f29f1a"
+  }
+}

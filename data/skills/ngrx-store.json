@@ -1,0 +1,35 @@
+{
+  "id": "ngrx-store",
+  "name": "ngrx-store",
+  "version": "1.0.0",
+  "summary": "Use when creating NgRx Signals Stores for state management. Triggers on requests to \"create store\", \"add state management\", \"new store\", \"signal store\", or when implementing sta...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielsogl",
+    "github": "danielsogl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielsogl/copilot-workflow-demo",
+    "skill_md": "https://raw.githubusercontent.com/danielsogl/copilot-workflow-demo/main/.claude/skills/ngrx-store/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.490Z",
+  "created_at": "2025-12-23T01:29:34.692Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielsogl%2Fcopilot-workflow-demo/.claude%2Fskills%2Fngrx-store%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_247b0ec59767"
+  }
+}

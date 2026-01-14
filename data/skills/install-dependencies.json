@@ -1,0 +1,35 @@
+{
+  "id": "install-dependencies",
+  "name": "install-dependencies",
+  "version": "1.0.0",
+  "summary": "Use when adding project dependencies. Defines dependency management rules and language-specific patterns.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "craigtkhill",
+    "github": "craigtkhill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/craigtkhill/stdd-agents",
+    "skill_md": "https://raw.githubusercontent.com/craigtkhill/stdd-agents/main/skills/install-dependencies/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T18:15:40.000Z",
+  "created_at": "2025-12-23T01:28:36.726Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/craigtkhill%2Fstdd-agents/skills%2Finstall-dependencies%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.565Z",
+    "uniqueId": "sk_59251a5f1ca0"
+  }
+}

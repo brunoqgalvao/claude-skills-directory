@@ -1,0 +1,37 @@
+{
+  "id": "notebooklm-lesson-planner",
+  "name": "notebooklm-lesson-planner",
+  "version": "1.0.0",
+  "summary": "Create structured Google NotebookLM lesson plans with curated sources and tailored audio overview prompts. Use when the user wants to create a NotebookLM notebook, generate lear...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "christag",
+    "github": "christag"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/christag/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/christag/claude-skills/main/notebooklm-lesson-planner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:57:21.241Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/christag%2Fclaude-skills/notebooklm-lesson-planner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_76578bd4eb6a"
+  }
+}

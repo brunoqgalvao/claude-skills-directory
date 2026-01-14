@@ -1,0 +1,35 @@
+{
+  "id": "ci-fix-loop",
+  "name": "ci-fix-loop",
+  "version": "1.0.0",
+  "summary": "Autonomous CI fix loop with background monitoring and retry logic. Runs up to 10 fix-commit-push-wait cycles until CI passes or max retries reached.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "iamladi",
+    "github": "iamladi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/iamladi/cautious-computing-machine--github-plugin",
+    "skill_md": "https://raw.githubusercontent.com/iamladi/cautious-computing-machine--github-plugin/main/skills/ci-fix-loop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:15:50.932Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/iamladi%2Fcautious-computing-machine--github-plugin/skills%2Fci-fix-loop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_c226b0b7e02a"
+  }
+}

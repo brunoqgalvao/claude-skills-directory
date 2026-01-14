@@ -1,0 +1,37 @@
+{
+  "id": "go-cli-builder",
+  "name": "go-cli-builder",
+  "version": "1.0.0",
+  "summary": "Build Go-based command-line tools following established patterns with Cobra CLI framework, Viper configuration, SQLite database, and automated GitHub Actions workflows for relea...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lmorchard",
+    "github": "lmorchard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lmorchard/lmorchard-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/lmorchard/lmorchard-agent-skills/main/go-cli-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.671Z",
+  "created_at": "2025-12-22T22:16:11.777Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lmorchard%2Flmorchard-agent-skills/go-cli-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.671Z",
+    "uniqueId": "sk_ab9003c518a2"
+  }
+}

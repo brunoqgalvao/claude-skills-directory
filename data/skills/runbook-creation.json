@@ -1,0 +1,36 @@
+{
+  "id": "runbook-creation",
+  "name": "runbook-creation",
+  "version": "1.0.0",
+  "summary": "Create operational runbooks, playbooks, standard operating procedures (SOPs), and incident response guides. Use when documenting operational procedures, on-call guides, or incid...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/runbook-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.708Z",
+  "created_at": "2025-12-22T21:18:21.734Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Frunbook-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.708Z",
+    "uniqueId": "sk_df4858a55a09"
+  }
+}

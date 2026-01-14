@@ -1,0 +1,37 @@
+{
+  "id": "testing-agent",
+  "name": "testing-agent",
+  "version": "1.0.0",
+  "summary": "Use when designing tests, implementing test cases, running tests, analyzing test coverage, or fixing test failures. Apply when user mentions testing, test cases, TDD, coverage, ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MRenAIAgent",
+    "github": "MRenAIAgent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MRenAIAgent/mini_agent",
+    "skill_md": "https://raw.githubusercontent.com/MRenAIAgent/mini_agent/main/.claude/skills/testing-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:02:05.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MRenAIAgent%2Fmini_agent/.claude%2Fskills%2Ftesting-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_5b6c7ea67f69"
+  }
+}

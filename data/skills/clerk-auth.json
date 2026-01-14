@@ -1,0 +1,36 @@
+{
+  "id": "clerk-auth",
+  "name": "clerk-auth",
+  "version": "1.0.0",
+  "summary": "Clerk auth with API version 2025-11-10 breaking changes (billing endpoints, payment_source→payment_method), Next.js v6 async auth(), PKCE for custom OAuth, credential stuffing d...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jezweb",
+    "github": "jezweb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jezweb/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/clerk-auth/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:12.394Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jezweb%2Fclaude-skills/skills%2Fclerk-auth%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_16de43c5a414"
+  }
+}

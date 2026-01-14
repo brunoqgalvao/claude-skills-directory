@@ -1,0 +1,35 @@
+{
+  "id": "drawbot-designer",
+  "name": "drawbot-designer",
+  "version": "1.0.0",
+  "summary": "Create well-designed posters, layouts, and graphics using DrawBot with automatic enforcement of typography principles from Hochuli, Bringhurst, and Müller-Brockmann. Use when us...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amadad",
+    "github": "amadad"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amadad/drawbot-redux",
+    "skill_md": "https://raw.githubusercontent.com/amadad/drawbot-redux/main/.claude/skills/drawbot-designer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:22.992Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amadad%2Fdrawbot-redux/.claude%2Fskills%2Fdrawbot-designer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_41d86901313f"
+  }
+}

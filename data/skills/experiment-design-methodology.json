@@ -1,0 +1,37 @@
+{
+  "id": "experiment-design-methodology",
+  "name": "experiment-design-methodology",
+  "version": "1.0.0",
+  "summary": "This skill should be used when designing A/B tests, feature experiments, or data-driven product decisions - covers hypothesis formation, experiment design, statistical significa...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chriscarterux",
+    "github": "chriscarterux"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chriscarterux/chris-claude-stack",
+    "skill_md": "https://raw.githubusercontent.com/chriscarterux/chris-claude-stack/main/skills/experiment-design-methodology/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:07.516Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chriscarterux%2Fchris-claude-stack/skills%2Fexperiment-design-methodology%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_4ea0dc18f05b"
+  }
+}

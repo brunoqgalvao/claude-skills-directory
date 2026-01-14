@@ -1,0 +1,36 @@
+{
+  "id": "development-workflows",
+  "name": "development-workflows",
+  "version": "1.0.0",
+  "summary": "Polibaseの開発ワークフローとパターンを説明します。Docker-first開発、環境変数管理、新機能追加手順など、日常的な開発作業のベストプラクティスをカバーします。",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trust-chain-organization",
+    "github": "trust-chain-organization"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trust-chain-organization/sagebase",
+    "skill_md": "https://raw.githubusercontent.com/trust-chain-organization/sagebase/main/.claude/skills/development-workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.523Z",
+  "created_at": "2025-12-23T01:29:07.649Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trust-chain-organization%2Fsagebase/.claude%2Fskills%2Fdevelopment-workflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_e407d95e43fb"
+  }
+}

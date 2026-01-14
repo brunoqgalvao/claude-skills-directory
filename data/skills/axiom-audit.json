@@ -1,0 +1,35 @@
+{
+  "id": "axiom-audit",
+  "name": "axiom-audit",
+  "version": "1.0.0",
+  "summary": "Audit Axiom logs to identify and prioritize errors and warnings, research probable causes, and flag log smells. Use when user asks to check Axiom logs, analyze production errors...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Cygnusfear",
+    "github": "Cygnusfear"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Cygnusfear/claude-stuff",
+    "skill_md": "https://raw.githubusercontent.com/Cygnusfear/claude-stuff/main/skills/axiom-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:47.694Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Cygnusfear%2Fclaude-stuff/skills%2Faxiom-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_326738df470d"
+  }
+}

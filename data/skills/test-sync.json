@@ -1,0 +1,36 @@
+{
+  "id": "test-sync",
+  "name": "test-sync",
+  "version": "1.0.0",
+  "summary": "Detect orphaned tests, obsolete assertions, and test-code misalignment. Use for test suite maintenance, cleanup, and traceability validation. Use when relevant to the task.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/.factory/skills/test-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:14:31.659Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/.factory%2Fskills%2Ftest-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_d7cd10a8cfc9"
+  }
+}

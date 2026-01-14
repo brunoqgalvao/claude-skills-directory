@@ -1,0 +1,35 @@
+{
+  "id": "otaku-domain",
+  "name": "otaku-domain",
+  "version": "1.0.0",
+  "summary": "Convention management domain knowledge for Otaku Odyssey. Use when implementing features related to conventions, attendees, vendors, sponsors, panels, or volunteers.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leonardoacosta",
+    "github": "leonardoacosta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leonardoacosta/Installfest",
+    "skill_md": "https://raw.githubusercontent.com/leonardoacosta/Installfest/main/automate/.claude/skills/otaku-domain/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:33.981Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leonardoacosta%2FInstallfest/automate%2F.claude%2Fskills%2Fotaku-domain%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_66bd50a4b007"
+  }
+}

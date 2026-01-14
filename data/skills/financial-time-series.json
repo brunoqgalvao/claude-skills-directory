@@ -1,0 +1,36 @@
+{
+  "id": "financial-time-series",
+  "name": "financial-time-series",
+  "version": "1.0.0",
+  "summary": "Use when working with price data, trading signals, or implementing momentum strategies. Covers returns calculation, volatility targeting, momentum factors, MACD indicators, time...",
+  "verticals": [
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Donaldshen27",
+    "github": "Donaldshen27"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Donaldshen27/xtrend-vanilla",
+    "skill_md": "https://raw.githubusercontent.com/Donaldshen27/xtrend-vanilla/main/.claude/skills/financial-time-series/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:37.600Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Donaldshen27%2Fxtrend-vanilla/.claude%2Fskills%2Ffinancial-time-series%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_cf9cb86e2127"
+  }
+}

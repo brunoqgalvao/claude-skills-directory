@@ -1,0 +1,36 @@
+{
+  "id": "py-sqlmodel-patterns",
+  "name": "py-sqlmodel-patterns",
+  "version": "1.0.0",
+  "summary": "SQLModel and async SQLAlchemy patterns. Use when working with database models, queries, relationships, or debugging ORM issues.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CJHarmath",
+    "github": "CJHarmath"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CJHarmath/claude-agents-skills",
+    "skill_md": "https://raw.githubusercontent.com/CJHarmath/claude-agents-skills/main/skills/py-sqlmodel-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:02:35.800Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CJHarmath%2Fclaude-agents-skills/skills%2Fpy-sqlmodel-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_75ccca74ed94"
+  }
+}

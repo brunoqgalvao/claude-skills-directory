@@ -1,0 +1,35 @@
+{
+  "id": "sikhaid-payment",
+  "name": "sikhaid-payment",
+  "version": "1.0.0",
+  "summary": "Use when working with donations, payments, or Razorpay integration in SikhAid project. Covers Razorpay setup, payment validation, donation flow, success/failure handling, and pa...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "the-non-expert",
+    "github": "the-non-expert"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/the-non-expert/SikhAidSPA",
+    "skill_md": "https://raw.githubusercontent.com/the-non-expert/SikhAidSPA/main/.claude/skills/sikhaid-payment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:49.543Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/the-non-expert%2FSikhAidSPA/.claude%2Fskills%2Fsikhaid-payment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_bfc384f8aeec"
+  }
+}

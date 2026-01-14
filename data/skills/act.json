@@ -1,0 +1,36 @@
+{
+  "id": "act",
+  "name": "act",
+  "version": "1.0.0",
+  "summary": "Test GitHub Actions workflows locally using act, including installation, configuration, debugging, and troubleshooting local workflow execution",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinnie357",
+    "github": "vinnie357"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinnie357/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/vinnie357/claude-skills/main/github/skills/act/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.493Z",
+  "created_at": "2025-12-23T01:29:30.793Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinnie357%2Fclaude-skills/github%2Fskills%2Fact%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_d0d961f4e669"
+  }
+}

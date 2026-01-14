@@ -1,0 +1,35 @@
+{
+  "id": "audit-format",
+  "name": "audit-format",
+  "version": "1.0.0",
+  "summary": "Design document review format definition with 100-point scoring system. Provides quality evaluation criteria, scoring items, and pass/fail logic for SOW/Spec documents. Combined...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thkt",
+    "github": "thkt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thkt/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/thkt/claude-config/main/skills.bak/audit-format/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T10:03:15.000Z",
+  "created_at": "2025-12-19T20:38:08.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thkt%2Fclaude-config/skills.bak%2Faudit-format%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_2670067454df"
+  }
+}

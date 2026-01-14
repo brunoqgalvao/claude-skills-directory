@@ -1,0 +1,37 @@
+{
+  "id": "jira-work-starter",
+  "name": "jira-work-starter",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user wants to start working on a Jira ticket. Trigger when user says \"Let's work on [JIRA_URL]\" or similar phrases indicating intent to begin ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "juanibiapina",
+    "github": "juanibiapina"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/juanibiapina/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/juanibiapina/dotfiles/main/dotfiles/claude/.claude/skills/jira-work-starter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T18:38:55.000Z",
+  "created_at": "2025-12-23T01:28:58.569Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanibiapina%2Fdotfiles/dotfiles%2Fclaude%2F.claude%2Fskills%2Fjira-work-starter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.533Z",
+    "uniqueId": "sk_f9000fa50354"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ghe-changelog",
+  "name": "ghe-changelog",
+  "version": "1.0.0",
+  "summary": "This skill should be used when updating the project CHANGELOG, tracking requirement changes, recording design decisions, or documenting version history. Uses git-diff to detect ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Emasoft",
+    "github": "Emasoft"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Emasoft/ghe-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Emasoft/ghe-marketplace/main/plugins/ghe/skills/ghe-changelog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.495Z",
+  "created_at": "2025-12-23T01:29:29.335Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Emasoft%2Fghe-marketplace/plugins%2Fghe%2Fskills%2Fghe-changelog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_9c488f240eb7"
+  }
+}

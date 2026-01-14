@@ -1,0 +1,35 @@
+{
+  "id": "smart-session-start",
+  "name": "smart-session-start",
+  "version": "1.0.0",
+  "summary": "Intelligent session initialization combining Goldfish memory recall, Julie workspace re-indexing, and Sherpa workflow suggestion. MANDATORY at session start - automatically rest...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anortham",
+    "github": "anortham"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anortham/mcp-toolbox-workflows",
+    "skill_md": "https://raw.githubusercontent.com/anortham/mcp-toolbox-workflows/main/skills/smart-session-start/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:11:10.882Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anortham%2Fmcp-toolbox-workflows/skills%2Fsmart-session-start%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_ed58669f4bb2"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "orm-best-practices",
+  "name": "orm-best-practices",
+  "version": "1.0.0",
+  "summary": "Drizzle ORMを活用したデータベース操作のベストプラクティスを提供するスキル。\n型安全なスキーマ定義、クエリビルダーの効果的な使用、\nパフォーマンスを考慮した実装パターンを提供します。\n\n📚 リソース参照:\nこのスキルには以下のリソースが含まれています。\n必要に応じて該当するリソースを参照してください:\n\n- `.claude/skills/...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/orm-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.743Z",
+  "created_at": "2025-12-22T21:09:32.944Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Form-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.743Z",
+    "uniqueId": "sk_b31feef586a9"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "workflow-improvement",
+  "name": "workflow-improvement",
+  "version": "1.0.0",
+  "summary": "Retrospective workflow to evaluate the most recent command/session slice in the current context window and drive improvements to the skills, agents, commands, and hooks involved.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/sanctum/skills/workflow-improvement/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:40.429Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fsanctum%2Fskills%2Fworkflow-improvement%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_a2c85a1c71ef"
+  }
+}

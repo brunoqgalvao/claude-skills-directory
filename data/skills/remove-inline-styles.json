@@ -1,0 +1,35 @@
+{
+  "id": "remove-inline-styles",
+  "name": "remove-inline-styles",
+  "version": "1.0.0",
+  "summary": "Clean up shadcnblocks sections by removing inline typography styles and fixing heading hierarchy. Use after installing sections with install-sections. Removes text-xl, font-bold...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Manuelvillarvieites",
+    "github": "Manuelvillarvieites"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Manuelvillarvieites/energy-company",
+    "skill_md": "https://raw.githubusercontent.com/Manuelvillarvieites/energy-company/main/.claude/skills/remove-inline-styles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.462Z",
+  "created_at": "2025-12-22T17:04:56.186Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Manuelvillarvieites%2Fenergy-company/.claude%2Fskills%2Fremove-inline-styles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.462Z",
+    "uniqueId": "sk_edeb91b9cce9"
+  }
+}

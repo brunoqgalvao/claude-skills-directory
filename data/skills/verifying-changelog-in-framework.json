@@ -1,0 +1,35 @@
+{
+  "id": "verifying-changelog-in-framework",
+  "name": "verifying-changelog-in-framework",
+  "version": "1.0.0",
+  "summary": "外部公開を想定したフレームワークにある CHANGELOG.md の内容が適切かどうかを確認するスキルです。CHANGELOG.md を更新する際、またはレビューする際に利用します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Seika139",
+    "github": "Seika139"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Seika139/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/Seika139/dotfiles/main/claude/profiles/wsl-ubuntu/skills/framework_changelog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T17:38:03.000Z",
+  "created_at": "2025-12-22T15:11:42.753Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Seika139%2Fdotfiles/claude%2Fprofiles%2Fwsl-ubuntu%2Fskills%2Fframework_changelog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_6a2fd26629b5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "filament-forms",
+  "name": "filament-forms",
+  "version": "1.0.0",
+  "summary": "Create FilamentPHP v4 forms with fields, validation, sections, tabs, and relationships",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mwguerra",
+    "github": "mwguerra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mwguerra/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mwguerra/claude-code-plugins/main/filament-specialist/skills/filament-forms/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:24.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mwguerra%2Fclaude-code-plugins/filament-specialist%2Fskills%2Ffilament-forms%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_b04686a3c979"
+  }
+}

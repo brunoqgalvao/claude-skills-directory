@@ -1,0 +1,35 @@
+{
+  "id": "k1-architecture",
+  "name": "k1-architecture",
+  "version": "1.0.0",
+  "summary": "Deep understanding of K1.reinvented's compilation architecture, node system, and extension methodology. Teaches why graphs compile to C++ and how to extend the system without vi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synqing",
+    "github": "synqing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synqing/K1.node2",
+    "skill_md": "https://raw.githubusercontent.com/synqing/K1.node2/main/.claude/skills/k1-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:04:01.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synqing%2FK1.node2/.claude%2Fskills%2Fk1-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_d6d3331a7765"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "version-updater",
+  "name": "version-updater",
+  "version": "1.0.0",
+  "summary": "SEMO 패키지 버전 체크 및 업데이트 알림. Use when:\n(1) 새 세션 시작 시 자동 체크, (2) 수동 버전 확인 요청,\n(3) SEMO 업데이트 실행.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/core/skills/version-updater/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T02:23:31.000Z",
+  "created_at": "2025-12-22T15:07:49.581Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fcore%2Fskills%2Fversion-updater%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_92fbd5533796"
+  }
+}

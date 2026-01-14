@@ -1,0 +1,35 @@
+{
+  "id": "gmail",
+  "name": "gmail",
+  "version": "1.0.0",
+  "summary": "Gmail CLI for searching, reading threads, managing labels, and sending emails. Use when you need to check inbox, read emails, send messages, or manage email labels.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bentossell",
+    "github": "bentossell"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bentossell/bentos",
+    "skill_md": "https://raw.githubusercontent.com/bentossell/bentos/main/assets/factory-skills/gmail/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T07:44:48.000Z",
+  "created_at": "2025-12-22T15:53:40.789Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bentossell%2Fbentos/assets%2Ffactory-skills%2Fgmail%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_9b6ca10ba73a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "gitlab-scripts",
+  "name": "gitlab-scripts",
+  "version": "1.0.0",
+  "summary": "Use GitLab scripts instead of GitLab MCP for both read and write operations. Read operations (gitlab-mr-comments, gitlab-list-mrs) for fetching MR data. Write operations (gitlab...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "randalmurphal",
+    "github": "randalmurphal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/randalmurphal/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/randalmurphal/claude-config/main/project_specific_skills/gitlab-scripts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:59.242Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/randalmurphal%2Fclaude-config/project_specific_skills%2Fgitlab-scripts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_4a447b9c8596"
+  }
+}

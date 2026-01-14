@@ -1,0 +1,37 @@
+{
+  "id": "querying-logseq-data",
+  "name": "querying-logseq-data",
+  "version": "1.0.0",
+  "summary": "Expert in building Datalog queries for Logseq DB graphs. Auto-invokes when users need help writing Logseq queries, understanding Datalog syntax, optimizing query performance, or...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C0ntr0lledCha0s",
+    "github": "C0ntr0lledCha0s"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C0ntr0lledCha0s/claude-code-plugin-automations",
+    "skill_md": "https://raw.githubusercontent.com/C0ntr0lledCha0s/claude-code-plugin-automations/main/logseq-expert/skills/querying-logseq-data/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.512Z",
+  "created_at": "2025-12-23T01:29:15.748Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C0ntr0lledCha0s%2Fclaude-code-plugin-automations/logseq-expert%2Fskills%2Fquerying-logseq-data%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_7603595f2ac7"
+  }
+}

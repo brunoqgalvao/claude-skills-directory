@@ -1,0 +1,35 @@
+{
+  "id": "vitest-dom",
+  "name": "vitest-dom",
+  "version": "1.0.0",
+  "summary": "Use vitest + jsdom for fast, lightweight unit tests for front-end apps",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sanand0",
+    "github": "sanand0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sanand0/scripts",
+    "skill_md": "https://raw.githubusercontent.com/sanand0/scripts/main/agents/vitest-dom/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:58:22.136Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sanand0%2Fscripts/agents%2Fvitest-dom%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_3a57c077e9d7"
+  }
+}

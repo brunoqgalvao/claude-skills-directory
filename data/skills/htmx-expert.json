@@ -1,0 +1,36 @@
+{
+  "id": "htmx-expert",
+  "name": "htmx-expert",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need help with htmx development, including implementing AJAX interactions, understanding htmx attributes (hx-get, hx-post, hx-swap, hx-targe...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Lullabot",
+    "github": "Lullabot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Lullabot/htmx-expert",
+    "skill_md": "https://raw.githubusercontent.com/Lullabot/htmx-expert/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.690Z",
+  "created_at": "2025-12-22T22:06:44.609Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Lullabot%2Fhtmx-expert/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.690Z",
+    "uniqueId": "sk_28e1666b1bf5"
+  }
+}

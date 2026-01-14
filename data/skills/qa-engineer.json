@@ -1,0 +1,35 @@
+{
+  "id": "qa-engineer",
+  "name": "qa-engineer",
+  "version": "1.0.0",
+  "summary": "Quality assurance and testing",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "violetio",
+    "github": "violetio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/violetio/violet-ai-plugins",
+    "skill_md": "https://raw.githubusercontent.com/violetio/violet-ai-plugins/main/plugins/v-qa/skills/qa-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:12.528Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/violetio%2Fviolet-ai-plugins/plugins%2Fv-qa%2Fskills%2Fqa-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_263c1260a5ae"
+  }
+}

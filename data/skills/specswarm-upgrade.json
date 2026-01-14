@@ -1,0 +1,35 @@
+{
+  "id": "specswarm-upgrade",
+  "name": "specswarm-upgrade",
+  "version": "1.0.0",
+  "summary": "Systematic compatibility analysis, migration guidance, and breaking change detection for dependency/framework upgrades. Auto-executes when user clearly wants to upgrade, update,...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MartyBonacci",
+    "github": "MartyBonacci"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MartyBonacci/specswarm",
+    "skill_md": "https://raw.githubusercontent.com/MartyBonacci/specswarm/main/skills/specswarm-upgrade/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.851Z",
+  "created_at": "2025-12-22T15:55:53.238Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MartyBonacci%2Fspecswarm/skills%2Fspecswarm-upgrade%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_5eea2627e598"
+  }
+}

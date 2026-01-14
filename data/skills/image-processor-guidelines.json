@@ -1,0 +1,37 @@
+{
+  "id": "image-processor-guidelines",
+  "name": "image-processor-guidelines",
+  "version": "1.0.0",
+  "summary": "Development guidelines for Quantum Skincare's Python FastAPI image processor microservice. Covers FastAPI patterns, Perfect Corp API integration, MediaPipe FaceMesh validation, ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ZeroGravitySkin-Ron",
+    "github": "ZeroGravitySkin-Ron"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ZeroGravitySkin-Ron/Claude",
+    "skill_md": "https://raw.githubusercontent.com/ZeroGravitySkin-Ron/Claude/main/skills/image-processor-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.629Z",
+  "created_at": "2025-12-22T23:14:45.735Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ZeroGravitySkin-Ron%2FClaude/skills%2Fimage-processor-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.629Z",
+    "uniqueId": "sk_c77e2bf3f8c9"
+  }
+}

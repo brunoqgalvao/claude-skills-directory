@@ -1,0 +1,35 @@
+{
+  "id": "media-workflow",
+  "name": "media-workflow",
+  "version": "1.0.0",
+  "summary": "Complete end-to-end WhatsApp media processing workflow. Processes audio/images AND integrates them into chat.md in a single step. Use when you want to do the complete daily medi...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asapMaki",
+    "github": "asapMaki"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asapMaki/vozzy-whatsapp",
+    "skill_md": "https://raw.githubusercontent.com/asapMaki/vozzy-whatsapp/main/.claude/skills/media-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:07:10.918Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asapMaki%2Fvozzy-whatsapp/.claude%2Fskills%2Fmedia-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_eef059007505"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pdf-to-markdown-converter",
+  "name": "pdf-to-markdown-converter",
+  "version": "1.0.0",
+  "summary": "Converts PDF files to Markdown format using PyMuPDF, extracting text content and embedded images. Fast and lightweight. Automatically fixes LaTeX umlauts (¨a → ä, etc.) and conv...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "talent-factory",
+    "github": "talent-factory"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/talent-factory/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/talent-factory/dotfiles/main/agents/claude/skills/pdf-to-markdown-converter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:53:37.469Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/talent-factory%2Fdotfiles/agents%2Fclaude%2Fskills%2Fpdf-to-markdown-converter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_f4eb40cd2772"
+  }
+}

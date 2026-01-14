@@ -1,0 +1,35 @@
+{
+  "id": "comprehensive-issue-analyzer",
+  "name": "comprehensive-issue-analyzer",
+  "version": "1.0.0",
+  "summary": "Fetches ALL open issues from any GitHub repository using pagination and generates a comprehensive analysis including category breakdown, age distribution, stale issues (30+ days...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "olaservo",
+    "github": "olaservo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/olaservo/code-execution-with-mcp",
+    "skill_md": "https://raw.githubusercontent.com/olaservo/code-execution-with-mcp/main/.claude/skills/comprehensive-issue-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.832Z",
+  "created_at": "2025-12-22T16:53:53.939Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/olaservo%2Fcode-execution-with-mcp/.claude%2Fskills%2Fcomprehensive-issue-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.832Z",
+    "uniqueId": "sk_44d03c09895f"
+  }
+}

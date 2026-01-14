@@ -1,0 +1,35 @@
+{
+  "id": "dataframely-schema-validation",
+  "name": "dataframely-schema-validation",
+  "version": "1.0.0",
+  "summary": "Define and enforce schemas on Polars DataFrames with type safety, validation rules, and cross-table business logic.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rgasper",
+    "github": "rgasper"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rgasper/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/rgasper/dotfiles/main/claude/skills/dataframely-schema-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:00.193Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rgasper%2Fdotfiles/claude%2Fskills%2Fdataframely-schema-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_d81c261375d4"
+  }
+}

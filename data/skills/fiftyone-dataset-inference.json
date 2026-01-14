@@ -1,0 +1,37 @@
+{
+  "id": "fiftyone-dataset-inference",
+  "name": "fiftyone-dataset-inference",
+  "version": "1.0.0",
+  "summary": "Create a FiftyOne dataset from a directory of media files (images, videos, point clouds), optionally import labels in common formats (COCO, YOLO, VOC), run model inference, and ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AdonaiVera",
+    "github": "AdonaiVera"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AdonaiVera/fiftyone-skills",
+    "skill_md": "https://raw.githubusercontent.com/AdonaiVera/fiftyone-skills/main/dataset-inference/skills/fiftyone-dataset-inference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:16.067Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AdonaiVera%2Ffiftyone-skills/dataset-inference%2Fskills%2Ffiftyone-dataset-inference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_f75091709be1"
+  }
+}

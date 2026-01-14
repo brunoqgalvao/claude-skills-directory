@@ -1,0 +1,36 @@
+{
+  "id": "using-flake-parts",
+  "name": "using-flake-parts",
+  "version": "1.0.0",
+  "summary": "Expert guidance for using flake-parts framework in Nix flakes. Use when converting flakes to flake-parts, organizing modular flake configurations, working with perSystem, creati...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Omegaice",
+    "github": "Omegaice"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Omegaice/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/Omegaice/dotfiles/main/.claude/skills/using-flake-parts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T20:55:34.000Z",
+  "created_at": "2025-12-23T01:29:30.837Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Omegaice%2Fdotfiles/.claude%2Fskills%2Fusing-flake-parts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_25354e63155a"
+  }
+}

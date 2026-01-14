@@ -1,0 +1,36 @@
+{
+  "id": "screenshot",
+  "name": "screenshot",
+  "version": "1.0.0",
+  "summary": "Capture PNG screenshots of dex TUI commands for debugging UI layout issues. Use when iterating on CLI interface code or debugging rendering problems.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tvergho",
+    "github": "tvergho"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tvergho/agentdex",
+    "skill_md": "https://raw.githubusercontent.com/tvergho/agentdex/main/.claude/skills/screenshot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T01:14:45.000Z",
+  "created_at": "2025-12-22T15:10:47.689Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tvergho%2Fagentdex/.claude%2Fskills%2Fscreenshot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_be9692c4af0f"
+  }
+}

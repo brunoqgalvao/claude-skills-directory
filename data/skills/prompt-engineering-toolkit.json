@@ -1,0 +1,35 @@
+{
+  "id": "prompt-engineering-toolkit",
+  "name": "prompt-engineering-toolkit",
+  "version": "1.0.0",
+  "summary": "Core prompt engineering techniques for LoRA-based video generation. Use when: prompts ignore critical elements, outputs are confused or generic, characters are inconsistent, per...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "davidrd123",
+    "github": "davidrd123"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/davidrd123/ComfyPromptByAPI",
+    "skill_md": "https://raw.githubusercontent.com/davidrd123/ComfyPromptByAPI/main/.claude/skills/prompt-engineering-toolkit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.521Z",
+  "created_at": "2025-12-23T01:29:09.562Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/davidrd123%2FComfyPromptByAPI/.claude%2Fskills%2Fprompt-engineering-toolkit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.521Z",
+    "uniqueId": "sk_cba611e4ec3b"
+  }
+}

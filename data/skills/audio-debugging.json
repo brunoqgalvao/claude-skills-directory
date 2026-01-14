@@ -1,0 +1,35 @@
+{
+  "id": "audio-debugging",
+  "name": "audio-debugging",
+  "version": "1.0.0",
+  "summary": "Automatically helps debug Web Audio API issues, audio playback problems, pitch preservation, and caching issues in the VSSK-shadecn music practice app",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "skaihigh",
+    "github": "skaihigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/skaihigh/claude-agent-command-templates",
+    "skill_md": "https://raw.githubusercontent.com/skaihigh/claude-agent-command-templates/main/templates/music-app/.claude/specialized/skills/audio-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T12:09:25.000Z",
+  "created_at": "2025-12-22T16:06:10.783Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/skaihigh%2Fclaude-agent-command-templates/templates%2Fmusic-app%2F.claude%2Fspecialized%2Fskills%2Faudio-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_223ffda29a5e"
+  }
+}

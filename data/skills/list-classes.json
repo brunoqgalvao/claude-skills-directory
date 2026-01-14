@@ -1,0 +1,35 @@
+{
+  "id": "list-classes",
+  "name": "list-classes",
+  "version": "1.0.0",
+  "summary": "Examine the shape of Simulabra classes and locate them by line number",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "simulabra",
+    "github": "simulabra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/simulabra/simulabra",
+    "skill_md": "https://raw.githubusercontent.com/simulabra/simulabra/main/.claude/skills/list-classes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.579Z",
+  "created_at": "2025-12-23T01:28:20.461Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/simulabra%2Fsimulabra/.claude%2Fskills%2Flist-classes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_5b8df655e92f"
+  }
+}

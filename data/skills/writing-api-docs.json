@@ -1,0 +1,35 @@
+{
+  "id": "writing-api-docs",
+  "name": "writing-api-docs",
+  "version": "1.0.0",
+  "summary": "Patterns and structure for writing API reference documentation including\nendpoint descriptions, request/response schemas, and error documentation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/tw-team/skills/writing-api-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:12:54.992Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/tw-team%2Fskills%2Fwriting-api-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_d3913b024a87"
+  }
+}

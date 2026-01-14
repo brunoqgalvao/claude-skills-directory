@@ -1,0 +1,37 @@
+{
+  "id": "worldcrafter-skill-selector",
+  "name": "worldcrafter-skill-selector",
+  "version": "1.0.0",
+  "summary": "Meta-skill for selecting correct WorldCrafter skill. Use when unclear which skill to use, request maps to multiple skills, need to orchestrate skills, user asks for guidance, or...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldcrafter-v2",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldcrafter-v2/main/.claude/skills/worldcrafter-skill-selector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.637Z",
+  "created_at": "2025-12-22T23:09:44.261Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldcrafter-v2/.claude%2Fskills%2Fworldcrafter-skill-selector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.637Z",
+    "uniqueId": "sk_c3c1abb4352d"
+  }
+}

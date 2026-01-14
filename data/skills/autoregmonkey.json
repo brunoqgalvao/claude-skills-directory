@@ -1,0 +1,35 @@
+{
+  "id": "autoregmonkey",
+  "name": "autoregmonkey",
+  "version": "1.0.0",
+  "summary": "智能计量经济学分析代理。当用户输入以\"autoregmonkey：\"开头时，LLM会解析经济学计量任务，参考RAG数据库知识，动态调用Python和Stata技能执行任务，最后生成中文报告。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rukikotoo",
+    "github": "rukikotoo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rukikotoo/AutoRegMonkey",
+    "skill_md": "https://raw.githubusercontent.com/rukikotoo/AutoRegMonkey/main/.claude/skills/autoregmonkey/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T13:02:31.000Z",
+  "created_at": "2025-12-22T17:06:08.945Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rukikotoo%2FAutoRegMonkey/.claude%2Fskills%2Fautoregmonkey%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.822Z",
+    "uniqueId": "sk_22a0b6ce63ab"
+  }
+}

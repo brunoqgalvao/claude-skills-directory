@@ -1,0 +1,35 @@
+{
+  "id": "codex-agent-collaboration",
+  "name": "codex-agent-collaboration",
+  "version": "1.0.0",
+  "summary": "Execute tasks using Codex AI agent for code analysis, implementation, and collaboration",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ForteScarlet",
+    "github": "ForteScarlet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ForteScarlet/codex-kkp",
+    "skill_md": "https://raw.githubusercontent.com/ForteScarlet/codex-kkp/main/claude-code-skills-template/codex-agent-collaboration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:51:02.497Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ForteScarlet%2Fcodex-kkp/claude-code-skills-template%2Fcodex-agent-collaboration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_b839cdf91ac8"
+  }
+}

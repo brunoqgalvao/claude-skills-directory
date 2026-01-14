@@ -1,0 +1,35 @@
+{
+  "id": "understand-codebase",
+  "name": "understand-codebase",
+  "version": "1.0.0",
+  "summary": "Use when exploring codebase, architecture, or call flows.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinta",
+    "github": "vinta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinta/hal-9000",
+    "skill_md": "https://raw.githubusercontent.com/vinta/hal-9000/main/dotfiles/.claude/skills/understand-codebase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:30.900Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinta%2Fhal-9000/dotfiles%2F.claude%2Fskills%2Funderstand-codebase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_a20e8ef960ff"
+  }
+}

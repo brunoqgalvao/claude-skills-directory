@@ -1,0 +1,35 @@
+{
+  "id": "auto-prompt-enhancer",
+  "name": "auto-prompt-enhancer",
+  "version": "1.0.0",
+  "summary": "Expert prompt engineering assistant that analyzes vague requests, asks clarifying questions, and transforms them into structured, high-quality prompts using XML tags, examples, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robinade",
+    "github": "robinade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robinade/persona-theater",
+    "skill_md": "https://raw.githubusercontent.com/robinade/persona-theater/main/.claude/skills/auto-prompt-enhancer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:50.188Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robinade%2Fpersona-theater/.claude%2Fskills%2Fauto-prompt-enhancer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_4425d1e184a4"
+  }
+}

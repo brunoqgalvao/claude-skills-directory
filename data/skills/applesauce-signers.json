@@ -1,0 +1,35 @@
+{
+  "id": "applesauce-signers",
+  "name": "applesauce-signers",
+  "version": "1.0.0",
+  "summary": "This skill should be used when working with applesauce-signers library for Nostr event signing, including NIP-07 browser extensions, NIP-46 remote signing, and custom signer imp...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "purrgrammer",
+    "github": "purrgrammer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/purrgrammer/grimoire",
+    "skill_md": "https://raw.githubusercontent.com/purrgrammer/grimoire/main/.claude/skills/applesauce-signers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T11:40:29.000Z",
+  "created_at": "2025-12-23T01:29:42.707Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/purrgrammer%2Fgrimoire/.claude%2Fskills%2Fapplesauce-signers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_987c4a327a16"
+  }
+}

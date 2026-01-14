@@ -1,0 +1,35 @@
+{
+  "id": "pushinator",
+  "name": "pushinator",
+  "version": "1.0.0",
+  "summary": "Pushinator push notification API via curl. Use this skill to send push notifications to mobile devices.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-skills",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-skills/main/pushinator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:25.397Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-skills/pushinator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_2364f57f7de3"
+  }
+}

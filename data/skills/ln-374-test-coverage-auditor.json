@@ -1,0 +1,36 @@
+{
+  "id": "ln-374-test-coverage-auditor",
+  "name": "ln-374-test-coverage-auditor",
+  "version": "1.0.0",
+  "summary": "Coverage Gaps audit worker (L3). Identifies missing tests for critical paths (Money 20+, Security 20+, Data Integrity 15+, Core Flows 15+). Returns list of untested critical bus...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-374-test-coverage-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.510Z",
+  "created_at": "2025-12-23T01:29:17.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-374-test-coverage-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.510Z",
+    "uniqueId": "sk_71aa46c6504f"
+  }
+}

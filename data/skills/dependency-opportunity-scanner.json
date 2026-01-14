@@ -1,0 +1,36 @@
+{
+  "id": "dependency-opportunity-scanner",
+  "name": "dependency-opportunity-scanner",
+  "version": "1.0.0",
+  "summary": "Scan codebase to identify opportunities to replace custom implementations with well-maintained open source libraries. Creates worktree, implements changes, and submits PR for re...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samjhecht",
+    "github": "samjhecht"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samjhecht/wrangler",
+    "skill_md": "https://raw.githubusercontent.com/samjhecht/wrangler/main/skills/dependency-opportunity-scanner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:46.675Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samjhecht%2Fwrangler/skills%2Fdependency-opportunity-scanner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_5d29ddaad3a6"
+  }
+}

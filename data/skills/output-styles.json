@@ -1,0 +1,35 @@
+{
+  "id": "output-styles",
+  "name": "output-styles",
+  "version": "1.0.0",
+  "summary": "Understanding output styles in Claude Code (deprecated feature). Use when user asks about customizing Claude's behavior, output styles, or explanatory/learning modes.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reggiechan74",
+    "github": "reggiechan74"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reggiechan74/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/reggiechan74/claude-plugins/main/plugins/claude-code-metaskill/skills/output-styles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T14:23:51.000Z",
+  "created_at": "2025-12-22T15:08:41.616Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reggiechan74%2Fclaude-plugins/plugins%2Fclaude-code-metaskill%2Fskills%2Foutput-styles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_ae265029e532"
+  }
+}

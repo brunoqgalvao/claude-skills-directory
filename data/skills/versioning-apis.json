@@ -1,0 +1,36 @@
+{
+  "id": "versioning-apis",
+  "name": "versioning-apis",
+  "version": "1.0.0",
+  "summary": "Manage API versions with backward compatibility, deprecation notices, and migration paths.\nUse when managing API versions and backward compatibility.\nTrigger with phrases like \"...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/api-development/api-versioning-manager/skills/api-versioning-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:45.851Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Fapi-development%2Fapi-versioning-manager%2Fskills%2Fapi-versioning-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_e0773a6a1c4c"
+  }
+}

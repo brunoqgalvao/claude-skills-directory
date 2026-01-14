@@ -1,0 +1,35 @@
+{
+  "id": "cote-reviewer",
+  "name": "cote-reviewer",
+  "version": "1.0.0",
+  "summary": "When reviewing coding test solutions. This Skill reviews coding test solutions and provides feedback. it adds an evaluation section to the README.md file in the problem-solving ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "homveloper",
+    "github": "homveloper"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/homveloper/CoTe",
+    "skill_md": "https://raw.githubusercontent.com/homveloper/CoTe/main/.claude/skills/cote-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:05:37.468Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/homveloper%2FCoTe/.claude%2Fskills%2Fcote-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_a3ad40107ce1"
+  }
+}

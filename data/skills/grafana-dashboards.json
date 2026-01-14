@@ -1,0 +1,37 @@
+{
+  "id": "grafana-dashboards",
+  "name": "grafana-dashboards",
+  "version": "1.0.0",
+  "summary": "Create and manage production Grafana dashboards for real-time visualization of system and application metrics. Use when building monitoring dashboards, visualizing metrics, or c...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HermeticOrmus",
+    "github": "HermeticOrmus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HermeticOrmus/after-the-third-cup",
+    "skill_md": "https://raw.githubusercontent.com/HermeticOrmus/after-the-third-cup/main/plugins/observability-monitoring/skills/grafana-dashboards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T19:58:00.000Z",
+  "created_at": "2025-12-22T19:59:20.342Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HermeticOrmus%2Fafter-the-third-cup/plugins%2Fobservability-monitoring%2Fskills%2Fgrafana-dashboards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_9bf0028f6974"
+  }
+}

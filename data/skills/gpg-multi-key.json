@@ -1,0 +1,35 @@
+{
+  "id": "gpg-multi-key",
+  "name": "gpg-multi-key",
+  "version": "1.0.0",
+  "summary": "Advanced GPG multi-key management strategies for consultants, CI/CD automation, and enterprise teams. Configure, set up, run, and execute multi-key GPG workflows. Use when manag...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/git/skills/gpg-multi-key/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:23.215Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fgit%2Fskills%2Fgpg-multi-key%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_449f20d55566"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "changelog-tracker",
+  "name": "changelog-tracker",
+  "version": "1.0.0",
+  "summary": "Track and summarize repository changes into CHANGELOG.md with a clear, concise Unreleased section. Use when asked to draft or update changelog entries, summarize recent features...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Qredence",
+    "github": "Qredence"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Qredence/agentic-fleet",
+    "skill_md": "https://raw.githubusercontent.com/Qredence/agentic-fleet/main/skills/changelog-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.857Z",
+  "created_at": "2025-12-22T15:12:33.901Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Qredence%2Fagentic-fleet/skills%2Fchangelog-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_350c1862456e"
+  }
+}

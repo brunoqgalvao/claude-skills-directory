@@ -1,0 +1,35 @@
+{
+  "id": "news-discover",
+  "name": "news-discover",
+  "version": "1.0.0",
+  "summary": "Curated daily news briefing across global, local, tech, science, business, and culture. Prioritizes today's news, adapts to user location and interests. Use when user asks for n...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aikdeirel",
+    "github": "aikdeirel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aikdeirel/daily-pulse-chatbot",
+    "skill_md": "https://raw.githubusercontent.com/aikdeirel/daily-pulse-chatbot/main/.claude/skills/news-discover/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T16:00:09.841Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aikdeirel%2Fdaily-pulse-chatbot/.claude%2Fskills%2Fnews-discover%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_0b83e7c6ffd6"
+  }
+}

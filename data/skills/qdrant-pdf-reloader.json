@@ -1,0 +1,35 @@
+{
+  "id": "qdrant-pdf-reloader",
+  "name": "qdrant-pdf-reloader",
+  "version": "1.0.0",
+  "summary": "Surgically reloads a single PDF to Qdrant by deleting old chunks and re-uploading with fixes. Use when user wants to reload, refresh, fix, or update a specific PDF without reloa...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "techybolek",
+    "github": "techybolek"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/techybolek/child",
+    "skill_md": "https://raw.githubusercontent.com/techybolek/child/main/.claude/skills/qdrant-pdf-reloader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:16:03.314Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/techybolek%2Fchild/.claude%2Fskills%2Fqdrant-pdf-reloader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_2963473f2ec1"
+  }
+}

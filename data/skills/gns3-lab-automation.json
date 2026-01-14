@@ -1,0 +1,36 @@
+{
+  "id": "gns3-lab-automation",
+  "name": "gns3-lab-automation",
+  "version": "1.0.0",
+  "summary": "GNS3 network lab operations including topology management, device configuration via console, and troubleshooting workflows for routers and switches",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChistokhinSV",
+    "github": "ChistokhinSV"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChistokhinSV/gns3-mcp",
+    "skill_md": "https://raw.githubusercontent.com/ChistokhinSV/gns3-mcp/main/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:27:05.813Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChistokhinSV%2Fgns3-mcp/skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_d1471d522e28"
+  }
+}

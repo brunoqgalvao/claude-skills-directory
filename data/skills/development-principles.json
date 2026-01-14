@@ -1,0 +1,35 @@
+{
+  "id": "development-principles",
+  "name": "development-principles",
+  "version": "1.0.0",
+  "summary": "開発における基本原則（曖昧さ禁止、矛盾検出、推察禁止）を定義する。要件定義時、仕様確認時、設計レビュー時、またはユーザーが曖昧な要件、仕様の矛盾、不明点の確認、推測回避に言及した際に使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-foundation/skills/development-principles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:01:24.179Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-foundation%2Fskills%2Fdevelopment-principles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_787d959ace72"
+  }
+}

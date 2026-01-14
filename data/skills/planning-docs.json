@@ -1,0 +1,35 @@
+{
+  "id": "planning-docs",
+  "name": "planning-docs",
+  "version": "1.0.0",
+  "summary": "企画・設計・アイデア出し・ブレインストーミング・要件定義など、プロジェクトの企画フェーズに関する会話をしているときに自動発動。会話の内容を自動的にdocs/ディレクトリにタイムスタンプ付きドキュメントとして保存する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masamitsu-konya",
+    "github": "masamitsu-konya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masamitsu-konya/claude-setup",
+    "skill_md": "https://raw.githubusercontent.com/masamitsu-konya/claude-setup/main/templates/skills/planning-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:11:04.612Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masamitsu-konya%2Fclaude-setup/templates%2Fskills%2Fplanning-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_279fe28c2bb4"
+  }
+}

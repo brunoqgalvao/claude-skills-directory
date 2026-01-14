@@ -1,0 +1,36 @@
+{
+  "id": "mobile-testing-playwright",
+  "name": "mobile-testing-playwright",
+  "version": "1.0.0",
+  "summary": "Mobile device testing with Playwright MCP for iOS and Android. Use when testing mobile apps, responsive layouts, touch interactions, device emulation, viewport testing, mobile b...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ramunasnognys",
+    "github": "ramunasnognys"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ramunasnognys/workflow-template",
+    "skill_md": "https://raw.githubusercontent.com/ramunasnognys/workflow-template/main/.claude/skills/mobile-testing-playwright/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:28.263Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ramunasnognys%2Fworkflow-template/.claude%2Fskills%2Fmobile-testing-playwright%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_0e1436ac2d50"
+  }
+}

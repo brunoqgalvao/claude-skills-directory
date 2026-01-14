@@ -1,0 +1,35 @@
+{
+  "id": "experience-library",
+  "name": "experience-library",
+  "version": "1.0.0",
+  "summary": "Capture task outcomes, score performance, and derive rules as token priors for continual learning without model weight changes. Use for post-task feedback, experience capture, p...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dredd-us",
+    "github": "dredd-us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dredd-us/seashells",
+    "skill_md": "https://raw.githubusercontent.com/dredd-us/seashells/main/.claude/skills/experience-library/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.788Z",
+  "created_at": "2025-12-22T19:02:48.778Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dredd-us%2Fseashells/.claude%2Fskills%2Fexperience-library%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_643a6d480f2d"
+  }
+}

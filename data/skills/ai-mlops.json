@@ -1,0 +1,37 @@
+{
+  "id": "ai-mlops",
+  "name": "ai-mlops",
+  "version": "1.0.0",
+  "summary": "Complete MLOps skill covering production ML lifecycle and security. Includes data ingestion, model deployment, drift detection, monitoring, plus ML security (prompt injection, j...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vasilyu1983",
+    "github": "vasilyu1983"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vasilyu1983/AI-Agents-public",
+    "skill_md": "https://raw.githubusercontent.com/vasilyu1983/AI-Agents-public/main/frameworks/claude-code-kit/framework/skills/ai-mlops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:48.399Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vasilyu1983%2FAI-Agents-public/frameworks%2Fclaude-code-kit%2Fframework%2Fskills%2Fai-mlops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_003eda68f409"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "couple-weekly-report",
+  "name": "couple-weekly-report",
+  "version": "1.0.0",
+  "summary": "Generate weekly relationship health report showing affect ratios and repair rates for both partners across 3 weeks (current + 2 prior) with message quotes.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cncorp",
+    "github": "cncorp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cncorp/arsenal",
+    "skill_md": "https://raw.githubusercontent.com/cncorp/arsenal/main/dot-claude/skills/couple-weekly-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:32.240Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cncorp%2Farsenal/dot-claude%2Fskills%2Fcouple-weekly-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_96d17cdf44a4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "context-aware-translator",
+  "name": "context-aware-translator",
+  "version": "1.0.0",
+  "summary": "日本語と英語の間で、文脈、ニュアンス、文化的適合性を考慮したプロフェッショナルな翻訳を行います。翻訳が必要なとき、translate、訳して、などのキーワードで使用してください。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sekka",
+    "github": "sekka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sekka/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sekka/dotfiles/main/home/.claude/skills/context-aware-translator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:28:20.587Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sekka%2Fdotfiles/home%2F.claude%2Fskills%2Fcontext-aware-translator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_9b3129d26db6"
+  }
+}

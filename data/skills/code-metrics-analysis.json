@@ -1,0 +1,36 @@
+{
+  "id": "code-metrics-analysis",
+  "name": "code-metrics-analysis",
+  "version": "1.0.0",
+  "summary": "Analyze code complexity, cyclomatic complexity, maintainability index, and code churn using metrics tools. Use when assessing code quality, identifying refactoring candidates, o...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/code-metrics-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:39.338Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fcode-metrics-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_96154a615946"
+  }
+}

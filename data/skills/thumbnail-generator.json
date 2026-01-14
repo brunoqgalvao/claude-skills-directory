@@ -1,0 +1,37 @@
+{
+  "id": "thumbnail-generator",
+  "name": "thumbnail-generator",
+  "version": "1.0.0",
+  "summary": "Generate thumbnails from images with smart cropping, multiple sizes, and batch processing. Ideal for web galleries, social media, and app icons.",
+  "verticals": [
+    "sales",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkyazzentwatwa",
+    "github": "dkyazzentwatwa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "skill_md": "https://raw.githubusercontent.com/dkyazzentwatwa/chatgpt-skills/main/thumbnail-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T03:45:07.000Z",
+  "created_at": "2025-12-23T01:29:15.660Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkyazzentwatwa%2Fchatgpt-skills/thumbnail-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_de1961dcc3f4"
+  }
+}

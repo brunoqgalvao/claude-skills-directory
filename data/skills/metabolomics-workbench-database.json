@@ -1,0 +1,36 @@
+{
+  "id": "metabolomics-workbench-database",
+  "name": "metabolomics-workbench-database",
+  "version": "1.0.0",
+  "summary": "Access NIH Metabolomics Workbench via REST API (4,200+ studies). Query metabolites, RefMet nomenclature, MS/NMR data, m/z searches, study metadata, for metabolomics and biomarke...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lifangda",
+    "github": "lifangda"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lifangda/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/lifangda/claude-plugins/main/cli-tool/skills-library/scientific-databases/metabolomics-workbench-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T01:33:37.000Z",
+  "created_at": "2025-12-22T20:16:14.279Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lifangda%2Fclaude-plugins/cli-tool%2Fskills-library%2Fscientific-databases%2Fmetabolomics-workbench-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.438Z",
+    "uniqueId": "sk_53d62f0d494c"
+  }
+}

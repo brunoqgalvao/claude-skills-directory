@@ -1,0 +1,35 @@
+{
+  "id": "apple-hig-design",
+  "name": "apple-hig-design",
+  "version": "1.0.0",
+  "summary": "Apple の Human Interface Guidelines に準拠したデザインを作成します。iOS、iPadOS、macOS、watchOS、tvOS のデザインシステム、コンポーネント、レイアウト、タイポグラフィ、カラー、アイコン設計を行う際に使用します。UI/UX デザイン、アプリ設計、プロトタイプ作成時に最適です。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yuya0602",
+    "github": "yuya0602"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yuya0602/satori-camera",
+    "skill_md": "https://raw.githubusercontent.com/yuya0602/satori-camera/main/.claude/skills/apple-hig-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.688Z",
+  "created_at": "2025-12-22T22:07:23.097Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yuya0602%2Fsatori-camera/.claude%2Fskills%2Fapple-hig-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.688Z",
+    "uniqueId": "sk_a891e8975fca"
+  }
+}

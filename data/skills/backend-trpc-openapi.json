@@ -1,0 +1,36 @@
+{
+  "id": "backend-trpc-openapi",
+  "name": "backend-trpc-openapi",
+  "version": "1.0.0",
+  "summary": "Generate OpenAPI/REST endpoints from tRPC routers. Use when you have a tRPC API but need to expose REST endpoints for third-party integrations, mobile apps, or public API docume...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "akhmat-s",
+    "github": "akhmat-s"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/akhmat-s/Bantadthong-Vibes",
+    "skill_md": "https://raw.githubusercontent.com/akhmat-s/Bantadthong-Vibes/main/.claude/skills/backend-trpc-openapi/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.460Z",
+  "created_at": "2025-12-22T20:06:17.147Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/akhmat-s%2FBantadthong-Vibes/.claude%2Fskills%2Fbackend-trpc-openapi%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_53fb450fa88a"
+  }
+}

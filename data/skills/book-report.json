@@ -1,0 +1,35 @@
+{
+  "id": "book-report",
+  "name": "book-report",
+  "version": "1.0.0",
+  "summary": "Comprehensive research and analysis of books with actionable insights, hidden gems, and personalized recommendations. Use when the user requests book research, book reports, boo...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tswicegood",
+    "github": "tswicegood"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tswicegood/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/tswicegood/claude-skills/main/book-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:59:59.720Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tswicegood%2Fclaude-skills/book-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_1ffbab34d342"
+  }
+}

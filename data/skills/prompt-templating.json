@@ -1,0 +1,36 @@
+{
+  "id": "prompt-templating",
+  "name": "prompt-templating",
+  "version": "1.0.0",
+  "summary": "Fill prompt templates with variables from task context, replacing placeholders like {user_name} or {analysis}. Use when you need consistent, reusable prompts with dynamic conten...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Wesley1600",
+    "github": "Wesley1600"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Wesley1600/ClaudeCodeFrameWork",
+    "skill_md": "https://raw.githubusercontent.com/Wesley1600/ClaudeCodeFrameWork/main/.claude/skills/prompt-templating/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T01:00:23.000Z",
+  "created_at": "2025-12-23T01:29:20.579Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Wesley1600%2FClaudeCodeFrameWork/.claude%2Fskills%2Fprompt-templating%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_0c1bea8e2f28"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "guid-repository-pattern-recognition",
+  "name": "guid-repository-pattern-recognition",
+  "version": "1.0.0",
+  "summary": "Explore and understand repository patterns (monorepo, frontend, backend, microservices) to guide skill creation and tool selection decisions. Use when analyzing project structur...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xilnick",
+    "github": "xilnick"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xilnick/claude-guild",
+    "skill_md": "https://raw.githubusercontent.com/xilnick/claude-guild/main/guideline/shipped-skills/guid-repository-pattern-recognition/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T20:33:42.000Z",
+  "created_at": "2025-12-22T20:00:33.686Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xilnick%2Fclaude-guild/guideline%2Fshipped-skills%2Fguid-repository-pattern-recognition%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_6c0b497ddb0b"
+  }
+}

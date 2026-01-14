@@ -1,0 +1,35 @@
+{
+  "id": "consult-llm",
+  "name": "consult-llm",
+  "version": "1.0.0",
+  "summary": "Use it when the user asks to \"ask gemini\", \"ask codex\", or \"ask in browser\"",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "raine",
+    "github": "raine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/raine/consult-llm-mcp",
+    "skill_md": "https://raw.githubusercontent.com/raine/consult-llm-mcp/main/examples/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:22.576Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/raine%2Fconsult-llm-mcp/examples%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_7c80e7aa50ef"
+  }
+}

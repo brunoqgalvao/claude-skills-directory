@@ -1,0 +1,35 @@
+{
+  "id": "git-repository",
+  "name": "git-repository",
+  "version": "1.0.0",
+  "summary": "Repository management strategies including branch strategies (Git Flow, GitHub Flow, trunk-based), monorepo patterns, submodules, and repository organization. Use when user need...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "geoffjay",
+    "github": "geoffjay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/geoffjay/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/geoffjay/claude-plugins/main/plugins/utilities/git/skills/git-repository/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.630Z",
+  "created_at": "2025-12-22T23:14:03.253Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/geoffjay%2Fclaude-plugins/plugins%2Futilities%2Fgit%2Fskills%2Fgit-repository%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.630Z",
+    "uniqueId": "sk_1dd5ebddc82a"
+  }
+}

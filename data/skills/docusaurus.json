@@ -1,0 +1,36 @@
+{
+  "id": "docusaurus",
+  "name": "docusaurus",
+  "version": "1.0.0",
+  "summary": "Manages Docusaurus documentation sites. Use this skill when the user wants to create a new Docusaurus project, start/stop the development server, or perform common Docusaurus op...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lescientifik",
+    "github": "lescientifik"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lescientifik/oncopet_academy",
+    "skill_md": "https://raw.githubusercontent.com/lescientifik/oncopet_academy/main/.claude/skills/docusaurus/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:31.199Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lescientifik%2Foncopet_academy/.claude%2Fskills%2Fdocusaurus%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_eaffe94ca156"
+  }
+}

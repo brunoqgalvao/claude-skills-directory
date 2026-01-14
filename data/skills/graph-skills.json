@@ -1,0 +1,37 @@
+{
+  "id": "graph-skills",
+  "name": "graph-skills",
+  "version": "1.0.0",
+  "summary": "Build context-efficient, reusable skills using graph-based workflow orchestration with Claude Code subagents. Combines PocketFlow-inspired graph abstraction with multi-model opt...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Token-Eater",
+    "github": "Token-Eater"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Token-Eater/skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Token-Eater/skills-marketplace/main/skills/graph-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:13.945Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Token-Eater%2Fskills-marketplace/skills%2Fgraph-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_f0ef310d8224"
+  }
+}

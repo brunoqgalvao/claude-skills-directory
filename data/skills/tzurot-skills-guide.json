@@ -1,0 +1,36 @@
+{
+  "id": "tzurot-skills-guide",
+  "name": "tzurot-skills-guide",
+  "version": "1.0.0",
+  "summary": "Meta-skill for writing and maintaining Claude Code skills. Use when creating new skills, updating existing skills, or reviewing skill quality. Enforces progressive disclosure an...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lbds137",
+    "github": "lbds137"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lbds137/tzurot",
+    "skill_md": "https://raw.githubusercontent.com/lbds137/tzurot/main/.claude/skills/tzurot-skills-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:27.460Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lbds137%2Ftzurot/.claude%2Fskills%2Ftzurot-skills-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_9bbc0b8633a6"
+  }
+}

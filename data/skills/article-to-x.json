@@ -1,0 +1,35 @@
+{
+  "id": "article-to-x",
+  "name": "article-to-x",
+  "version": "1.0.0",
+  "summary": "将3000-5000字长篇文章转换为200-500字X平台(微博/小红书等)内容，保持真实风格，提供3种开头风格。当用户提到\"转微博\"、\"发小红书\"、\"社交媒体\"、\"缩短内容\"、\"精简\"时使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alchaincyf",
+    "github": "alchaincyf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alchaincyf/glm-claude",
+    "skill_md": "https://raw.githubusercontent.com/alchaincyf/glm-claude/main/skills/article-to-x/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:13.828Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alchaincyf%2Fglm-claude/skills%2Farticle-to-x%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_6117bf8330f0"
+  }
+}

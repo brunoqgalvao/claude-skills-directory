@@ -1,0 +1,35 @@
+{
+  "id": "meteor-addon",
+  "name": "meteor-addon",
+  "version": "1.0.0",
+  "summary": "Meteor Client addon development for Minecraft. Use when creating, updating, or working with Meteor Client addons - a Fabric mod framework for Minecraft. Covers workspace setup f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MCDxAI",
+    "github": "MCDxAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MCDxAI/meteor-client-webgui",
+    "skill_md": "https://raw.githubusercontent.com/MCDxAI/meteor-client-webgui/main/.claude/skills/meteor-addon/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:15:08.695Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MCDxAI%2Fmeteor-client-webgui/.claude%2Fskills%2Fmeteor-addon%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_a92500b7387d"
+  }
+}

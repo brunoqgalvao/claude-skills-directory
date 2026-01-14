@@ -1,0 +1,36 @@
+{
+  "id": "redis-state-management",
+  "name": "redis-state-management",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for Redis state management including caching strategies, session management, pub/sub patterns, distributed locks, and data structures",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/luxor-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/manutej/luxor-claude-marketplace/main/plugins/luxor-database-pro/skills/redis-state-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-18T19:25:21.000Z",
+  "created_at": "2025-12-23T01:30:56.748Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fluxor-claude-marketplace/plugins%2Fluxor-database-pro%2Fskills%2Fredis-state-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_fdf3354fa266"
+  }
+}

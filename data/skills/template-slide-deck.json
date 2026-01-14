@@ -1,0 +1,36 @@
+{
+  "id": "template-slide-deck",
+  "name": "template-slide-deck",
+  "version": "1.0.0",
+  "summary": "Generate professional slide decks using company-provided template presentations. Use this skill when the user wants to create a presentation based on their own branded PowerPoin...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "toddward",
+    "github": "toddward"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/toddward/claude-skills-playground",
+    "skill_md": "https://raw.githubusercontent.com/toddward/claude-skills-playground/main/template-slide-deck/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T16:54:57.000Z",
+  "created_at": "2025-12-23T01:28:58.565Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/toddward%2Fclaude-skills-playground/template-slide-deck%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.533Z",
+    "uniqueId": "sk_05051a301b76"
+  }
+}

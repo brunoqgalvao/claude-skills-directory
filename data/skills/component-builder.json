@@ -1,0 +1,36 @@
+{
+  "id": "component-builder",
+  "name": "component-builder",
+  "version": "1.0.0",
+  "summary": "The core engine that generates production-ready, M3-compliant React components using MUI and Design Tokens. Use when creating new React components, building UI elements with Mat...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "okgoogle13",
+    "github": "okgoogle13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/okgoogle13/careercopilot",
+    "skill_md": "https://raw.githubusercontent.com/okgoogle13/careercopilot/main/.claude/skills/component-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.520Z",
+  "created_at": "2025-12-23T01:29:09.575Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/okgoogle13%2Fcareercopilot/.claude%2Fskills%2Fcomponent-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.520Z",
+    "uniqueId": "sk_302578eedcaa"
+  }
+}

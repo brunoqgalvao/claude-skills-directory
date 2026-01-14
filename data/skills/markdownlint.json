@@ -1,0 +1,35 @@
+{
+  "id": "markdownlint",
+  "name": "markdownlint",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to format, clean, lint, or validate Markdown files using the markdownlint-cli2 command-line tool. Use this skill for tasks involving Ma...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PovertyAction",
+    "github": "PovertyAction"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PovertyAction/ipa-research-data-science-hub",
+    "skill_md": "https://raw.githubusercontent.com/PovertyAction/ipa-research-data-science-hub/main/.claude/skills/markdownlint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T22:56:25.000Z",
+  "created_at": "2025-12-22T20:16:10.975Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PovertyAction%2Fipa-research-data-science-hub/.claude%2Fskills%2Fmarkdownlint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_bd55501a4ecb"
+  }
+}

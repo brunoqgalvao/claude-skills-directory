@@ -1,0 +1,35 @@
+{
+  "id": "next-intl-skill",
+  "name": "next-intl-skill",
+  "version": "1.0.0",
+  "summary": "ALWAYS use this skill if the user asks anything about next-intl or translations",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "finstreet",
+    "github": "finstreet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/finstreet/fe-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/finstreet/fe-claude-plugins/main/plugins/automation/skills/next-intl/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T22:10:37.000Z",
+  "created_at": "2025-12-22T14:50:47.628Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/finstreet%2Ffe-claude-plugins/plugins%2Fautomation%2Fskills%2Fnext-intl%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_4330b2fdb361"
+  }
+}

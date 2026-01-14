@@ -1,0 +1,36 @@
+{
+  "id": "sgrep",
+  "name": "sgrep",
+  "version": "1.0.0",
+  "summary": "Use sgrep for semantic code search. Use when you need to find code by meaning rather than exact text matching. Perfect for finding concepts like \"authentication logic\", \"error h...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Rika-Labs",
+    "github": "Rika-Labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Rika-Labs/sgrep",
+    "skill_md": "https://raw.githubusercontent.com/Rika-Labs/sgrep/main/plugins/sgrep/skills/sgrep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:30.734Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Rika-Labs%2Fsgrep/plugins%2Fsgrep%2Fskills%2Fsgrep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_29a0e6d64116"
+  }
+}

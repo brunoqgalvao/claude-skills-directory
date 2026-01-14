@@ -1,0 +1,37 @@
+{
+  "id": "using-tmux-for-interactive-commands",
+  "name": "using-tmux-for-interactive-commands",
+  "version": "1.0.0",
+  "summary": "Use when you need to run interactive CLI tools (vim, git rebase -i, Python REPL, etc.) that require real-time input/output - provides tmux-based approach for controlling interac...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thurstonsand",
+    "github": "thurstonsand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thurstonsand/thurstons-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/thurstonsand/thurstons-claude-skills/main/homelab/skills/interactive-commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:12.285Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thurstonsand%2Fthurstons-claude-skills/homelab%2Fskills%2Finteractive-commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_88f311aa919c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rails-dev-guidelines",
+  "name": "rails-dev-guidelines",
+  "version": "1.0.0",
+  "summary": "Rails MVC patterns, ActiveRecord, conventions, and best practices",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ThibautBaissac",
+    "github": "ThibautBaissac"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ThibautBaissac/claude-code-architecture",
+    "skill_md": "https://raw.githubusercontent.com/ThibautBaissac/claude-code-architecture/main/.claude/skills/rails-dev-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T15:05:03.000Z",
+  "created_at": "2025-12-22T19:06:59.301Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ThibautBaissac%2Fclaude-code-architecture/.claude%2Fskills%2Frails-dev-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_6112b78111a9"
+  }
+}

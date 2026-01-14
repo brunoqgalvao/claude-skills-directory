@@ -1,0 +1,35 @@
+{
+  "id": "tidymydesktop",
+  "name": "tidymydesktop",
+  "version": "1.0.0",
+  "summary": "智能桌面和目录整理工具。根据用户提示词自动分类、整理文件和应用程序图标，去除重复版本，生成整理报告。支持整理桌面或指定目录。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "peterfei",
+    "github": "peterfei"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/peterfei/ai-agent-team",
+    "skill_md": "https://raw.githubusercontent.com/peterfei/ai-agent-team/main/.claude/skills/tidymydesktop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T15:55:19.000Z",
+  "created_at": "2025-12-23T01:29:26.695Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/peterfei%2Fai-agent-team/.claude%2Fskills%2Ftidymydesktop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_d72d264b6ed0"
+  }
+}

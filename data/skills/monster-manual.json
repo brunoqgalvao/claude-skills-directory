@@ -1,0 +1,35 @@
+{
+  "id": "monster-manual",
+  "name": "monster-manual",
+  "version": "1.0.0",
+  "summary": "Bestiaire BFRPG avec stats de combat, génération de rencontres et PV aléatoires. Indispensable pour le Maître du Jeu en combat. Contient 33 monstres classiques fantasy.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nicmarti",
+    "github": "nicmarti"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nicmarti/skills-weaver",
+    "skill_md": "https://raw.githubusercontent.com/nicmarti/skills-weaver/main/.claude/skills/monster-manual/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:56:39.518Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nicmarti%2Fskills-weaver/.claude%2Fskills%2Fmonster-manual%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_ee8a177a95c1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kiro-project-scaffolder",
+  "name": "kiro-project-scaffolder",
+  "version": "1.0.0",
+  "summary": "Automatically scaffolds spec-driven projects when user mentions creating new projects with specifications, type safety, or TDD requirements.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lessuselesss",
+    "github": "lessuselesss"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lessuselesss/todo-ware",
+    "skill_md": "https://raw.githubusercontent.com/lessuselesss/todo-ware/main/skills/kiro-project-scaffolder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.796Z",
+  "created_at": "2025-12-22T18:16:25.693Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lessuselesss%2Ftodo-ware/skills%2Fkiro-project-scaffolder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.796Z",
+    "uniqueId": "sk_305b8e6b8646"
+  }
+}

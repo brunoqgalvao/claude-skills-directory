@@ -1,0 +1,35 @@
+{
+  "id": "website-wireframe",
+  "name": "website-wireframe",
+  "version": "1.0.0",
+  "summary": "既存ウェブサイトを分析し、サイトマップとワイヤーフレームを作成します。URLを渡すとページ構造を解析し、指定形式で出力します。コンテンツ分析機能でページの目的やターゲットも要約できます。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sekka",
+    "github": "sekka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sekka/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sekka/dotfiles/main/home/.claude/skills/website-wireframe/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:23.346Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sekka%2Fdotfiles/home%2F.claude%2Fskills%2Fwebsite-wireframe%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_48d29078367f"
+  }
+}

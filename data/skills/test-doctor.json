@@ -1,0 +1,37 @@
+{
+  "id": "test-doctor",
+  "name": "test-doctor",
+  "version": "1.0.0",
+  "summary": "Use this skill to diagnose and repair broken tests with a methodical, surgical approach.\nAUTO-ACTIVATE when user mentions (FR/EN): - test cassé, broken test, failing test, test ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vperreard",
+    "github": "vperreard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vperreard/Mathildanesth",
+    "skill_md": "https://raw.githubusercontent.com/vperreard/Mathildanesth/main/.claude/skills/test-doctor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:35.477Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vperreard%2FMathildanesth/.claude%2Fskills%2Ftest-doctor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_73baa9386455"
+  }
+}

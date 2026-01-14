@@ -1,0 +1,36 @@
+{
+  "id": "data-validation",
+  "name": "data-validation",
+  "version": "1.0.0",
+  "summary": "Data validation patterns including schema validation, input sanitization, output encoding, and type coercion. Use when implementing form validation, API input validation, JSON S...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cosmix",
+    "github": "cosmix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cosmix/claude-code-setup",
+    "skill_md": "https://raw.githubusercontent.com/cosmix/claude-code-setup/main/skills/data-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:33.160Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cosmix%2Fclaude-code-setup/skills%2Fdata-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_51158989fcb6"
+  }
+}

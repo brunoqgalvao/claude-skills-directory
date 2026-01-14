@@ -1,0 +1,36 @@
+{
+  "id": "run-the-tests",
+  "name": "run-the-tests",
+  "version": "1.0.0",
+  "summary": "Run the project's test suite and fix any failures. If no test runner is configured, sets up best-in-class testing infrastructure for the project's language/framework. Ensures al...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samjhecht",
+    "github": "samjhecht"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samjhecht/wrangler",
+    "skill_md": "https://raw.githubusercontent.com/samjhecht/wrangler/main/skills/run-the-tests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.478Z",
+  "created_at": "2025-12-23T01:29:46.217Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samjhecht%2Fwrangler/skills%2Frun-the-tests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_4c07a1b45a74"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-review",
+  "name": "git-review",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user needs to review and respond to GitHub Pull Request comments. It automatically fetches review comments (both inline code comments and PR-l...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-tak",
+    "github": "a-tak"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-tak/bf-copy",
+    "skill_md": "https://raw.githubusercontent.com/a-tak/bf-copy/main/.claude/skills/git-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:10:34.747Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-tak%2Fbf-copy/.claude%2Fskills%2Fgit-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_466081c151d4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "observability-sre",
+  "name": "observability-sre",
+  "version": "1.0.0",
+  "summary": "Observability and SRE expert. Use when setting up monitoring, logging, tracing, defining SLOs, or managing incidents. Covers Prometheus, Grafana, OpenTelemetry, and incident res...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majiayu000",
+    "github": "majiayu000"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majiayu000/claude-arsenal",
+    "skill_md": "https://raw.githubusercontent.com/majiayu000/claude-arsenal/main/skills/observability-sre/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:18:22.997Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majiayu000%2Fclaude-arsenal/skills%2Fobservability-sre%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_ee746fb8d37a"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "edge-cases",
+  "name": "edge-cases",
+  "version": "1.0.0",
+  "summary": "Analyze checkpoint tests and suggest missing edge cases. Use after writing tests or when reviewing test coverage. Invoke with /edge-cases <problem> <checkpoint>.",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SprocketLab",
+    "github": "SprocketLab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SprocketLab/slop-code-bench",
+    "skill_md": "https://raw.githubusercontent.com/SprocketLab/slop-code-bench/main/.claude/skills/edge-cases/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.534Z",
+  "created_at": "2025-12-23T01:28:58.548Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SprocketLab%2Fslop-code-bench/.claude%2Fskills%2Fedge-cases%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.534Z",
+    "uniqueId": "sk_2f1bb23a9911"
+  }
+}

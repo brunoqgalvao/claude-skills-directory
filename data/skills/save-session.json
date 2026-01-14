@@ -1,0 +1,35 @@
+{
+  "id": "save-session",
+  "name": "save-session",
+  "version": "1.0.0",
+  "summary": "Use this skill when the user wants to save session progress before running /clear, or when you notice significant progress has been made that should be saved to TASKS.md and com...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmiller94102",
+    "github": "jmiller94102"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmiller94102/Hypothesis_Pro_McKinsey_Replacement",
+    "skill_md": "https://raw.githubusercontent.com/jmiller94102/Hypothesis_Pro_McKinsey_Replacement/main/.claude/skills/save-session/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:10:48.072Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmiller94102%2FHypothesis_Pro_McKinsey_Replacement/.claude%2Fskills%2Fsave-session%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_1d79d9e0369a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "observabilidade-spring",
+  "name": "observabilidade-spring",
+  "version": "1.0.0",
+  "summary": "Avaliar métricas Micrometer/Prometheus, exposição de Actuator e integrações Grafana/Alertmanager do backend Spring WebFlux para garantir observabilidade consistente no Swarm.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Wibson82",
+    "github": "Wibson82"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Wibson82/conexao-de-sorte-backend-resultados",
+    "skill_md": "https://raw.githubusercontent.com/Wibson82/conexao-de-sorte-backend-resultados/main/.claude/skills/observabilidade-spring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:54:49.128Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Wibson82%2Fconexao-de-sorte-backend-resultados/.claude%2Fskills%2Fobservabilidade-spring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_9f9963247fc9"
+  }
+}

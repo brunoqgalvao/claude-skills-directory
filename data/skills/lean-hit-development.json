@@ -1,0 +1,36 @@
+{
+  "id": "lean-hit-development",
+  "name": "lean-hit-development",
+  "version": "1.0.0",
+  "summary": "Guides adding new Higher Inductive Types to the ComputationalPaths library. Use when creating new HITs, defining fundamental group (pi1) calculations, implementing encode-decode...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Arthur742Ramos",
+    "github": "Arthur742Ramos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Arthur742Ramos/ComputationalPathsLean",
+    "skill_md": "https://raw.githubusercontent.com/Arthur742Ramos/ComputationalPathsLean/main/.claude/skills/lean-hit-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:59:28.104Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Arthur742Ramos%2FComputationalPathsLean/.claude%2Fskills%2Flean-hit-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_5de34a2c68c7"
+  }
+}

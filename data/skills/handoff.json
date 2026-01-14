@@ -1,0 +1,35 @@
+{
+  "id": "handoff",
+  "name": "handoff",
+  "version": "1.0.0",
+  "summary": "Write a HANDOFF.md file for another agent to continue the conversation. Use this skill when switching to a new conversation/session and need to pass context to the next agent. T...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "inspirepan",
+    "github": "inspirepan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/inspirepan/klaude-code",
+    "skill_md": "https://raw.githubusercontent.com/inspirepan/klaude-code/main/src/klaude_code/skill/assets/handoff/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.569Z",
+  "created_at": "2025-12-23T01:28:33.873Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/inspirepan%2Fklaude-code/src%2Fklaude_code%2Fskill%2Fassets%2Fhandoff%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_c7538a826122"
+  }
+}

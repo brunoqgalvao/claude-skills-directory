@@ -1,0 +1,35 @@
+{
+  "id": "adapter-factory",
+  "name": "adapter-factory",
+  "version": "1.0.0",
+  "summary": "Guide for creating new CLI or HTTP adapters to integrate AI models into the AI Counsel deliberation system",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Raudbjorn",
+    "github": "Raudbjorn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Raudbjorn/cognitive-construct",
+    "skill_md": "https://raw.githubusercontent.com/Raudbjorn/cognitive-construct/main/rhetoric/scripts/ai-counsel/.claude/skills/adapter-factory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.447Z",
+  "created_at": "2025-12-23T00:08:45.253Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Raudbjorn%2Fcognitive-construct/rhetoric%2Fscripts%2Fai-counsel%2F.claude%2Fskills%2Fadapter-factory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.447Z",
+    "uniqueId": "sk_06b54001d129"
+  }
+}

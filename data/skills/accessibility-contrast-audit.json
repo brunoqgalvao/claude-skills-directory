@@ -1,0 +1,36 @@
+{
+  "id": "accessibility-contrast-audit",
+  "name": "accessibility-contrast-audit",
+  "version": "1.0.0",
+  "summary": "[Design System] Quantitative accessibility audit for UI - contrast ratios, font sizes, tap targets, heading hierarchy. Use when (1) checking WCAG color contrast compliance, (2) ...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CANTAGESTUDIO",
+    "github": "CANTAGESTUDIO"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CANTAGESTUDIO/CosmicAtlasPacker",
+    "skill_md": "https://raw.githubusercontent.com/CANTAGESTUDIO/CosmicAtlasPacker/main/.factory/skills/accessibility-contrast-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:57:48.172Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CANTAGESTUDIO%2FCosmicAtlasPacker/.factory%2Fskills%2Faccessibility-contrast-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_41cb81d4863b"
+  }
+}

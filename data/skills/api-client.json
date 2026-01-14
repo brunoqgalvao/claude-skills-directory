@@ -1,0 +1,35 @@
+{
+  "id": "api-client",
+  "name": "api-client",
+  "version": "1.0.0",
+  "summary": "Универсальный REST API клиент для MikoPBX с автоматической аутентификацией и выполнением запросов внутри Docker контейнеров. Использовать когда нужно тестировать API эндпоинты, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikopbx",
+    "github": "mikopbx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikopbx/Core",
+    "skill_md": "https://raw.githubusercontent.com/mikopbx/Core/main/.claude/skills/api-client/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.634Z",
+  "created_at": "2025-12-22T23:12:22.050Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikopbx%2FCore/.claude%2Fskills%2Fapi-client%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.634Z",
+    "uniqueId": "sk_0448da0f0d5a"
+  }
+}

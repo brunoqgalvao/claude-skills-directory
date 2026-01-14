@@ -1,0 +1,35 @@
+{
+  "id": "ai-check",
+  "name": "ai-check",
+  "version": "1.0.0",
+  "summary": "Detect AI/LLM-generated text patterns in research writing. Use when: (1) Reviewing manuscript drafts before submission, (2) Pre-commit validation of documentation, (3) Quality a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoreyai",
+    "github": "astoreyai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoreyai/ai_scientist",
+    "skill_md": "https://raw.githubusercontent.com/astoreyai/ai_scientist/main/skills/ai-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:03:34.505Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoreyai%2Fai_scientist/skills%2Fai-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_1d6921e47e3b"
+  }
+}

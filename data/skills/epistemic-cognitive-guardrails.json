@@ -1,0 +1,36 @@
+{
+  "id": "epistemic-cognitive-guardrails",
+  "name": "epistemic-cognitive-guardrails",
+  "version": "1.0.0",
+  "summary": "Discipline epistemique stricte pour eliminer les derives cognitives de Claude. Activation SYSTEMATIQUE sur TOUTES les conversations. Impose: (1) Zero invention/supposition, (2) ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Krigsexe",
+    "github": "Krigsexe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Krigsexe/agentic-workflow",
+    "skill_md": "https://raw.githubusercontent.com/Krigsexe/agentic-workflow/main/skills/epistemic-cognitive-guardrails/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:09.421Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Krigsexe%2Fagentic-workflow/skills%2Fepistemic-cognitive-guardrails%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_c98372b48baf"
+  }
+}

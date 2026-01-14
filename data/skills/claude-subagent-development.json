@@ -1,0 +1,35 @@
+{
+  "id": "claude-subagent-development",
+  "name": "claude-subagent-development",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"create a subagent\", \"validate a subagent\", \"generate subagent schema\", \"check subagent configuration\", \"write subagent specifica...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rafaelcalleja",
+    "github": "rafaelcalleja"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rafaelcalleja/claude-market-place",
+    "skill_md": "https://raw.githubusercontent.com/rafaelcalleja/claude-market-place/main/skills/claude-subagent-development-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:00.643Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rafaelcalleja%2Fclaude-market-place/skills%2Fclaude-subagent-development-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_22c2dfed3b74"
+  }
+}

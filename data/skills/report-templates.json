@@ -1,0 +1,36 @@
+{
+  "id": "report-templates",
+  "name": "report-templates",
+  "version": "1.0.0",
+  "summary": "Standard templates for debugging reports, reviews, and implementation plans",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "p4ndroid",
+    "github": "p4ndroid"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/p4ndroid/ai-dev-pipeline-architecture",
+    "skill_md": "https://raw.githubusercontent.com/p4ndroid/ai-dev-pipeline-architecture/main/skills/report-templates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:54:45.651Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/p4ndroid%2Fai-dev-pipeline-architecture/skills%2Freport-templates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_48dad7213320"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "refactor-extract-and-isolate",
+  "name": "refactor-extract-and-isolate",
+  "version": "1.0.0",
+  "summary": "[Code Quality] Extracts methods, classes, or modules to reduce complexity and improve isolation. Use when functions are too long, classes have too many responsibilities, or conc...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CANTAGESTUDIO",
+    "github": "CANTAGESTUDIO"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CANTAGESTUDIO/CosmicAtlasPacker",
+    "skill_md": "https://raw.githubusercontent.com/CANTAGESTUDIO/CosmicAtlasPacker/main/.claude/skills/refactor-extract-and-isolate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.576Z",
+  "created_at": "2025-12-23T01:28:24.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CANTAGESTUDIO%2FCosmicAtlasPacker/.claude%2Fskills%2Frefactor-extract-and-isolate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.576Z",
+    "uniqueId": "sk_19c18e86e55b"
+  }
+}

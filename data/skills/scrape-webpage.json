@@ -1,0 +1,37 @@
+{
+  "id": "scrape-webpage",
+  "name": "scrape-webpage",
+  "version": "1.0.0",
+  "summary": "Scrape webpage content, extract metadata, download images, and prepare for import/migration to AEM Edge Delivery Services. Returns analysis JSON with paths, metadata, cleaned HT...",
+  "verticals": [
+    "marketing",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adobe",
+    "github": "adobe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adobe/helix-website",
+    "skill_md": "https://raw.githubusercontent.com/adobe/helix-website/main/.claude/skills/scrape-webpage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T14:18:29.000Z",
+  "created_at": "2025-12-23T01:28:55.727Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adobe%2Fhelix-website/.claude%2Fskills%2Fscrape-webpage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.443Z",
+    "uniqueId": "sk_50f23aabd7ad"
+  }
+}

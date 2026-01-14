@@ -1,0 +1,36 @@
+{
+  "id": "auth-http-api-cloudbase",
+  "name": "auth-http-api-cloudbase",
+  "version": "1.0.0",
+  "summary": "Use when you need to implement CloudBase Auth v2 over raw HTTP endpoints (login/signup, tokens, user operations) from backends or scripts that are not using the Web or Node SDKs.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TencentCloudBase",
+    "github": "TencentCloudBase"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TencentCloudBase/awesome-cloudbase-examples",
+    "skill_md": "https://raw.githubusercontent.com/TencentCloudBase/awesome-cloudbase-examples/main/web/cloudbase-react-template/.claude/skills/auth-http-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T09:31:56.000Z",
+  "created_at": "2025-12-22T18:12:00.372Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TencentCloudBase%2Fawesome-cloudbase-examples/web%2Fcloudbase-react-template%2F.claude%2Fskills%2Fauth-http-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_4b4de2a8fd71"
+  }
+}

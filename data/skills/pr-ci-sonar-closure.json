@@ -1,0 +1,35 @@
+{
+  "id": "pr-ci-sonar-closure",
+  "name": "pr-ci-sonar-closure",
+  "version": "1.0.0",
+  "summary": "PR を人間に引き渡す直前に CI 完了監視→失敗解析→get-sonar-feedback→/pr-review レポート→最終報告までを一気通貫で実行するフロー。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chaspy",
+    "github": "chaspy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chaspy/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/chaspy/dotfiles/main/.codex/skills/pr-ci-sonar-closure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:53.176Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chaspy%2Fdotfiles/.codex%2Fskills%2Fpr-ci-sonar-closure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_54e73f954b69"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "too-long-level1",
+  "name": "too-long-level1",
+  "version": "1.0.0",
+  "summary": "A skill with excessively long Level 1 section",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "williamzujkowski",
+    "github": "williamzujkowski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/williamzujkowski/standards",
+    "skill_md": "https://raw.githubusercontent.com/williamzujkowski/standards/main/tests/scripts/fixtures/skills/too-long-level1/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.582Z",
+  "created_at": "2025-12-23T01:28:14.654Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/williamzujkowski%2Fstandards/tests%2Fscripts%2Ffixtures%2Fskills%2Ftoo-long-level1%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.582Z",
+    "uniqueId": "sk_99d95ef6c9f7"
+  }
+}

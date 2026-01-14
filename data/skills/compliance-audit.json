@@ -1,0 +1,35 @@
+{
+  "id": "compliance-audit",
+  "name": "compliance-audit",
+  "version": "1.0.0",
+  "summary": "최종 규정 준수 검증 및 개선안 제시",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "younga1234",
+    "github": "younga1234"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/younga1234/20251112-3",
+    "skill_md": "https://raw.githubusercontent.com/younga1234/20251112-3/main/.claude/skills/compliance-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:25.535Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/younga1234%2F20251112-3/.claude%2Fskills%2Fcompliance-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_013b127f34df"
+  }
+}

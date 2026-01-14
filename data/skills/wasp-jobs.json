@@ -1,0 +1,37 @@
+{
+  "id": "wasp-jobs",
+  "name": "wasp-jobs",
+  "version": "1.0.0",
+  "summary": "Background jobs with PgBoss for Wasp applications. Use when implementing async tasks, scheduled jobs, email queues, or background processing. Requires PostgreSQL database.",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ToonVos",
+    "github": "ToonVos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ToonVos/empty-opensaas",
+    "skill_md": "https://raw.githubusercontent.com/ToonVos/empty-opensaas/main/.claude/skills/wasp-jobs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T17:39:24.000Z",
+  "created_at": "2025-12-22T20:07:57.778Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ToonVos%2Fempty-opensaas/.claude%2Fskills%2Fwasp-jobs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_bf7cf3bade59"
+  }
+}

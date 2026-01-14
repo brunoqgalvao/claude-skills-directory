@@ -1,0 +1,37 @@
+{
+  "id": "construction-testing-qa",
+  "name": "construction-testing-qa",
+  "version": "1.0.0",
+  "summary": "Specialized skill for testing and quality assurance of the construction project management platform. Use when writing unit tests, integration tests, E2E tests, performance tests...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CBoser",
+    "github": "CBoser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CBoser/ConstructionPlatform",
+    "skill_md": "https://raw.githubusercontent.com/CBoser/ConstructionPlatform/main/docs/archive/skills/claude_skills/Construction_Project_Management/construction-testing-qa/construction-testing-qa/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:18:26.221Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CBoser%2FConstructionPlatform/docs%2Farchive%2Fskills%2Fclaude_skills%2FConstruction_Project_Management%2Fconstruction-testing-qa%2Fconstruction-testing-qa%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_f7e27ead2257"
+  }
+}

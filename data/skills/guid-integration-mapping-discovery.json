@@ -1,0 +1,37 @@
+{
+  "id": "guid-integration-mapping-discovery",
+  "name": "guid-integration-mapping-discovery",
+  "version": "1.0.0",
+  "summary": "Maps how different components and systems connect and interact. Analyzes service relationships, data flow, and dependencies. Discovers integration patterns without prior integra...",
+  "verticals": [
+    "support",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xilnick",
+    "github": "xilnick"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xilnick/claude-guild",
+    "skill_md": "https://raw.githubusercontent.com/xilnick/claude-guild/main/guideline/shipped-skills/guid-integration-mapping-discovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:13.287Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xilnick%2Fclaude-guild/guideline%2Fshipped-skills%2Fguid-integration-mapping-discovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_97c9d3f26df1"
+  }
+}

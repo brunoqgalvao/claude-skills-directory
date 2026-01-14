@@ -1,0 +1,35 @@
+{
+  "id": "dialectical-loop",
+  "name": "dialectical-loop",
+  "version": "1.0.0",
+  "summary": "Run a bounded adversarial cooperation coding loop (Architect -> Player <-> Coach). Use when implementing features from REQUIREMENTS.md, generating SPECIFICATION.md plans, and it...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chipfox",
+    "github": "chipfox"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chipfox/dialetic-agents",
+    "skill_md": "https://raw.githubusercontent.com/chipfox/dialetic-agents/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T21:42:32.000Z",
+  "created_at": "2025-12-23T01:28:49.665Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chipfox%2Fdialetic-agents/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_44e3e951198c"
+  }
+}

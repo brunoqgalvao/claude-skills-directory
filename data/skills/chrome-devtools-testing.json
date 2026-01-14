@@ -1,0 +1,37 @@
+{
+  "id": "chrome-devtools-testing",
+  "name": "chrome-devtools-testing",
+  "version": "1.0.0",
+  "summary": "Use when testing web applications with Chrome DevTools MCP. Covers GUI Chrome setup and dev server configuration. Required reading before any browser automation.",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/cross-cutting/chrome-devtools-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:01.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fcross-cutting%2Fchrome-devtools-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_7221c0a31749"
+  }
+}

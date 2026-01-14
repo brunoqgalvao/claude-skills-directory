@@ -1,0 +1,35 @@
+{
+  "id": "design-system-guardian",
+  "name": "design-system-guardian",
+  "version": "1.0.0",
+  "summary": "Validate design system consistency, check color usage, ensure dark mode coverage, verify Tailwind config sync. Use when checking design consistency, validating color tokens, ens...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathan-a-king",
+    "github": "nathan-a-king"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathan-a-king/website",
+    "skill_md": "https://raw.githubusercontent.com/nathan-a-king/website/main/.claude/skills/design-system-guardian/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:04.540Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathan-a-king%2Fwebsite/.claude%2Fskills%2Fdesign-system-guardian%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_f4571772bf03"
+  }
+}

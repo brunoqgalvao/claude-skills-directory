@@ -1,0 +1,35 @@
+{
+  "id": "ai-ad-test-regression-orchestrator",
+  "name": "ai-ad-test-regression-orchestrator",
+  "version": "1.0.0",
+  "summary": "负责把后端模块测试生成（模块级）、OpenSpec 测试门禁（tasks.md），\n以及回归测试/CI 执行串成一条完整流水线，提供稳定模板和示例，避免跑偏。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wade56754",
+    "github": "wade56754"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wade56754/AI_ad_spend02",
+    "skill_md": "https://raw.githubusercontent.com/wade56754/AI_ad_spend02/main/ai-ad-test-regression-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:07:21.857Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wade56754%2FAI_ad_spend02/ai-ad-test-regression-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_2c701c1f3d0a"
+  }
+}

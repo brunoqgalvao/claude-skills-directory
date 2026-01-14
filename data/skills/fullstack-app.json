@@ -1,0 +1,36 @@
+{
+  "id": "fullstack-app",
+  "name": "fullstack-app",
+  "version": "1.0.0",
+  "summary": "Guidance for building fullstack apps with Vite (React + TypeScript) frontend and FastAPI backend. Use when demos need a web UI beyond what Streamlit provides.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djliden",
+    "github": "djliden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djliden/devrel-claude-code-plugin",
+    "skill_md": "https://raw.githubusercontent.com/djliden/devrel-claude-code-plugin/main/devrel-autonomy/skills/fullstack-app/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:26.461Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djliden%2Fdevrel-claude-code-plugin/devrel-autonomy%2Fskills%2Ffullstack-app%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_52f296c08bf9"
+  }
+}

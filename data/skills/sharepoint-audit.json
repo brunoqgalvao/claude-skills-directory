@@ -1,0 +1,36 @@
+{
+  "id": "sharepoint-audit",
+  "name": "sharepoint-audit",
+  "version": "1.0.0",
+  "summary": "Guide and run a SharePoint audit locally. Collect inputs, confirm PowerShell 7.4+ and Python 3.10+ are available, call PowerShell with certificate auth via wrapper, parse audit....",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Aqualia",
+    "github": "Aqualia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Aqualia/Skills-Library",
+    "skill_md": "https://raw.githubusercontent.com/Aqualia/Skills-Library/main/sharepoint-audit-agent/wrappers/claude-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:48.899Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Aqualia%2FSkills-Library/sharepoint-audit-agent%2Fwrappers%2Fclaude-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_88eea6c311d4"
+  }
+}

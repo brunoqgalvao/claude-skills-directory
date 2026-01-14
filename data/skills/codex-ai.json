@@ -1,0 +1,35 @@
+{
+  "id": "codex-ai",
+  "name": "codex-ai",
+  "version": "1.0.0",
+  "summary": "通过 Codex CLI 进行代码审查、算法设计、架构分析和性能优化。适用于复杂技术任务、系统级设计、性能瓶颈分析。触发词：代码审查、review、算法设计、架构分析、性能优化。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "junjiangao",
+    "github": "junjiangao"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/junjiangao/ccode",
+    "skill_md": "https://raw.githubusercontent.com/junjiangao/ccode/main/plugins/ccode-skills/skills/codex-ai/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:18.046Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/junjiangao%2Fccode/plugins%2Fccode-skills%2Fskills%2Fcodex-ai%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_7d949037c6e8"
+  }
+}

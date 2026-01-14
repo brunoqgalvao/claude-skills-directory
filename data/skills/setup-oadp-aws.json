@@ -1,0 +1,35 @@
+{
+  "id": "setup-oadp-aws",
+  "name": "setup-oadp-aws",
+  "version": "1.0.0",
+  "summary": "Configure OADP for AWS with S3 storage, EBS snapshots, IAM policies, and support for standard clusters and ROSA (Red Hat OpenShift Service on AWS).",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpryc",
+    "github": "mpryc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpryc/ai-agents-and-skills",
+    "skill_md": "https://raw.githubusercontent.com/mpryc/ai-agents-and-skills/main/claude/oadp-operator/skills/operations/setup-oadp-aws/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.612Z",
+  "created_at": "2025-12-22T23:57:12.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpryc%2Fai-agents-and-skills/claude%2Foadp-operator%2Fskills%2Foperations%2Fsetup-oadp-aws%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.612Z",
+    "uniqueId": "sk_f9b5c0f9dd8c"
+  }
+}

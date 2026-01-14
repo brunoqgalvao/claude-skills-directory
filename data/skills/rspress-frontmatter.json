@@ -1,0 +1,35 @@
+{
+  "id": "rspress-frontmatter",
+  "name": "rspress-frontmatter",
+  "version": "1.0.0",
+  "summary": "Configure RSPress frontmatter for documentation pages. Use when setting up page metadata, controlling layout options, or configuring home page hero/features sections.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "savvy-web",
+    "github": "savvy-web"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/savvy-web/developer-docs",
+    "skill_md": "https://raw.githubusercontent.com/savvy-web/developer-docs/main/.claude/skills/rspress-frontmatter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T22:43:09.000Z",
+  "created_at": "2025-12-23T01:28:44.146Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/savvy-web%2Fdeveloper-docs/.claude%2Fskills%2Frspress-frontmatter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_00a9cad9e5c5"
+  }
+}

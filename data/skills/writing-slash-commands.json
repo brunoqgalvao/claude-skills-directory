@@ -1,0 +1,35 @@
+{
+  "id": "writing-slash-commands",
+  "name": "writing-slash-commands",
+  "version": "1.0.0",
+  "summary": "Use when creating or editing slash commands - applies TDD to slash command documentation by testing with SlashCommand tool and subagents before deployment, preventing inverted l...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WesleyMFrederick",
+    "github": "WesleyMFrederick"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WesleyMFrederick/cc-workflows",
+    "skill_md": "https://raw.githubusercontent.com/WesleyMFrederick/cc-workflows/main/.claude/skills/writing-slash-commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:58:37.884Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WesleyMFrederick%2Fcc-workflows/.claude%2Fskills%2Fwriting-slash-commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_39208a0761e4"
+  }
+}

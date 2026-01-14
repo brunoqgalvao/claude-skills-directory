@@ -1,0 +1,35 @@
+{
+  "id": "managing-ssltls-certificates",
+  "name": "managing-ssltls-certificates",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to manage and monitor SSL/TLS certificates using the ssl-certificate-manager plugin. It is activated when the user requests actions related to SSL cert...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/backups/skill-structure-cleanup-20251108-073936/plugins/security/ssl-certificate-manager/skills/ssl-certificate-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T07:44:44.000Z",
+  "created_at": "2025-12-19T19:56:49.100Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/backups%2Fskill-structure-cleanup-20251108-073936%2Fplugins%2Fsecurity%2Fssl-certificate-manager%2Fskills%2Fssl-certificate-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_f19203b7fd7c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "laravel-data-writer",
+  "name": "laravel-data-writer",
+  "version": "1.0.0",
+  "summary": "Skill for creating and editing Spatie Laravel Data classes following Prowi conventions. Use when working with Data classes, DTOs, or data transfer objects. Enforces proper const...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RasmusGodske",
+    "github": "RasmusGodske"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RasmusGodske/claude-code-agent-communication",
+    "skill_md": "https://raw.githubusercontent.com/RasmusGodske/claude-code-agent-communication/main/agent-communication-mcp-server/.claude/skills/laravel-data-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.620Z",
+  "created_at": "2025-12-22T23:20:03.617Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RasmusGodske%2Fclaude-code-agent-communication/agent-communication-mcp-server%2F.claude%2Fskills%2Flaravel-data-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.620Z",
+    "uniqueId": "sk_e2677c3fb2ba"
+  }
+}

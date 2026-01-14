@@ -1,0 +1,36 @@
+{
+  "id": "supabase-auth-ssr-setup",
+  "name": "supabase-auth-ssr-setup",
+  "version": "1.0.0",
+  "summary": "This skill should be used when configuring Supabase Auth for server-side rendering with Next.js App Router, including secure cookie handling, middleware protection, route guards...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/plugins/supabase-auth-ssr-setup/skills/supabase-auth-ssr-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.775Z",
+  "created_at": "2025-12-22T19:58:01.411Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/plugins%2Fsupabase-auth-ssr-setup%2Fskills%2Fsupabase-auth-ssr-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.775Z",
+    "uniqueId": "sk_13bd32e5a4bd"
+  }
+}

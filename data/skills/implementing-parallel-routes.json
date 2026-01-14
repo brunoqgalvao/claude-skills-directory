@@ -1,0 +1,35 @@
+{
+  "id": "implementing-parallel-routes",
+  "name": "implementing-parallel-routes",
+  "version": "1.0.0",
+  "summary": "Teach parallel routes and slot patterns in Next.js 16. Use when implementing parallel routes, working with @slot syntax, or encountering missing default.tsx errors.",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/nextjs-16/skills/implementing-parallel-routes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:12.755Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/nextjs-16%2Fskills%2Fimplementing-parallel-routes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_45d0ac6e314f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "openspec-proposal-creation-cn",
+  "name": "openspec-proposal-creation-cn",
+  "version": "1.0.0",
+  "summary": "通过openspec规范驱动的方法创建结构化的变更提案与规范差异。用于规划功能、创建提案、编写规范、引入新能力或启动开发流程。触发词包括 \"openspec提案\", \"规划\", \"创建提案\", \"规划变更\", \"规范功能\", \"新功能\", \"新特性\", \"新需求\", \"添加功能规划\", \"设计规范\"。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "forztf",
+    "github": "forztf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/forztf/open-skilled-sdd",
+    "skill_md": "https://raw.githubusercontent.com/forztf/open-skilled-sdd/main/skills/openspec-proposal-creation-cn/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.504Z",
+  "created_at": "2025-12-23T01:29:22.548Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/forztf%2Fopen-skilled-sdd/skills%2Fopenspec-proposal-creation-cn%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_41f86563fd4c"
+  }
+}

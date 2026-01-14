@@ -1,0 +1,36 @@
+{
+  "id": "ert",
+  "name": "ert",
+  "version": "1.0.0",
+  "summary": "A guide to using ERT (Emacs Lisp Regression Testing) for testing Emacs Lisp code.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hugoduncan",
+    "github": "hugoduncan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hugoduncan/library-skills",
+    "skill_md": "https://raw.githubusercontent.com/hugoduncan/library-skills/main/plugins/emacs-libraries/skills/ert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.605Z",
+  "created_at": "2025-12-23T00:03:55.560Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hugoduncan%2Flibrary-skills/plugins%2Femacs-libraries%2Fskills%2Fert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.605Z",
+    "uniqueId": "sk_34cc250f03f2"
+  }
+}

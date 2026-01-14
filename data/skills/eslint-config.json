@@ -1,0 +1,35 @@
+{
+  "id": "eslint-config",
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "summary": "Use when configuring ESLint - covers flat config, TypeScript integration, and custom rules",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/lea",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/lea/main/.claude/skills/eslint-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T12:39:36.000Z",
+  "created_at": "2025-12-23T01:28:44.194Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Flea/.claude%2Fskills%2Feslint-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_b25b6a8786ec"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "effect-patterns",
+  "name": "effect-patterns",
+  "version": "1.0.0",
+  "summary": "Effect-TS pattern reference for TMNL. Invoke when implementing services, schemas, atoms, or Effect-based architecture. Provides canonical file locations and pattern precedents.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "creatifcoding",
+    "github": "creatifcoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/creatifcoding/gbg",
+    "skill_md": "https://raw.githubusercontent.com/creatifcoding/gbg/main/packages/tmnl/.claude/skills/effect-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.690Z",
+  "created_at": "2025-12-22T22:06:32.700Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/creatifcoding%2Fgbg/packages%2Ftmnl%2F.claude%2Fskills%2Feffect-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.690Z",
+    "uniqueId": "sk_56be59c1c501"
+  }
+}

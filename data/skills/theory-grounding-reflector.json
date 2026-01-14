@@ -1,0 +1,36 @@
+{
+  "id": "theory-grounding-reflector",
+  "name": "theory-grounding-reflector",
+  "version": "1.0.0",
+  "summary": "Extract lessons from task failures using Reflector agent, merge insights via Curator pattern, achieving 10% accuracy improvement without context collapse. Use for post-failure a...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dredd-us",
+    "github": "dredd-us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dredd-us/seashells",
+    "skill_md": "https://raw.githubusercontent.com/dredd-us/seashells/main/.claude/skills/theory-grounding-reflector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:50.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dredd-us%2Fseashells/.claude%2Fskills%2Ftheory-grounding-reflector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_b3c9eafceab1"
+  }
+}

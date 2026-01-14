@@ -1,0 +1,36 @@
+{
+  "id": "daily-blog-post-composer",
+  "name": "daily-blog-post-composer",
+  "version": "1.0.0",
+  "summary": "Compose daily blog posts in a multi-post single-file format from multiple data sources including Mastodon and Linkding. Use this skill when the user requests to create, update, ...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lmorchard",
+    "github": "lmorchard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lmorchard/lmorchard-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/lmorchard/lmorchard-agent-skills/main/daily-blog-post-composer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:37.827Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lmorchard%2Flmorchard-agent-skills/daily-blog-post-composer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_48af080d7be1"
+  }
+}

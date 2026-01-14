@@ -1,0 +1,36 @@
+{
+  "id": "test-coverage-advisor",
+  "name": "test-coverage-advisor",
+  "version": "1.0.0",
+  "summary": "Reviews test coverage and suggests missing test cases for error paths, edge cases, and business logic. Activates when users write tests or implement new features.",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EmilLindfors",
+    "github": "EmilLindfors"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EmilLindfors/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/EmilLindfors/claude-marketplace/main/plugins/rust-testing/skills/test-coverage-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:15.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EmilLindfors%2Fclaude-marketplace/plugins%2Frust-testing%2Fskills%2Ftest-coverage-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_1e624eae5cf1"
+  }
+}

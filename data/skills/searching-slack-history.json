@@ -1,0 +1,35 @@
+{
+  "id": "searching-slack-history",
+  "name": "searching-slack-history",
+  "version": "1.0.0",
+  "summary": "Use when needing to search Slack message history, find past conversations, or retrieve channel messages - provides Slack Web API patterns for search.messages and conversations.h...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ralphbean",
+    "github": "ralphbean"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ralphbean/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/ralphbean/claude-code-plugins/main/plugins/searching-slack-history/skills/searching-slack-history/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T18:01:07.000Z",
+  "created_at": "2025-12-22T20:01:10.242Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ralphbean%2Fclaude-code-plugins/plugins%2Fsearching-slack-history%2Fskills%2Fsearching-slack-history%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_89d59415c7d8"
+  }
+}

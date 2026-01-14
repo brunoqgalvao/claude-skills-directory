@@ -1,0 +1,35 @@
+{
+  "id": "finishing-work",
+  "name": "finishing-work",
+  "version": "1.0.0",
+  "summary": "Use when completing work on a task or feature. Prompts for code review before finishing. ALWAYS invoke this skill before saying work is done.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "caiokf",
+    "github": "caiokf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/caiokf/homepage",
+    "skill_md": "https://raw.githubusercontent.com/caiokf/homepage/main/.claude/skills/finishing-work/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:25.976Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/caiokf%2Fhomepage/.claude%2Fskills%2Ffinishing-work%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_a39a8322407d"
+  }
+}

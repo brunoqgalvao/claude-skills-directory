@@ -1,0 +1,36 @@
+{
+  "id": "testing-r-packages",
+  "name": "testing-r-packages",
+  "version": "1.0.0",
+  "summary": "Best practices for writing R package tests using testthat version 3+. Use when writing, organizing, or improving tests for R packages. Covers test structure, expectations, fixtu...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "posit-dev",
+    "github": "posit-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/posit-dev/skills",
+    "skill_md": "https://raw.githubusercontent.com/posit-dev/skills/main/r-lib/testing-r-packages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T16:36:25.000Z",
+  "created_at": "2025-12-23T01:29:30.630Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/posit-dev%2Fskills/r-lib%2Ftesting-r-packages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.494Z",
+    "uniqueId": "sk_e694154ba0a0"
+  }
+}

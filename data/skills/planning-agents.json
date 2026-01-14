@@ -1,0 +1,35 @@
+{
+  "id": "planning-agents",
+  "name": "planning-agents",
+  "version": "1.0.0",
+  "summary": "여러 AI 에이전트(Claude, Codex)가 동일한 주제에 대해 병렬로 기획을 수행하고, 각 결과를 보여준 후 최종 머지된 기획안을 제시합니다. \"3명이 기획해주세요\"처럼 에이전트 수를 지정할 수 있으며, Claude와 Codex가 랜덤하게 분배됩니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/agents/planning-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T11:31:13.000Z",
+  "created_at": "2025-12-23T01:29:19.089Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/agents%2Fplanning-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.508Z",
+    "uniqueId": "sk_78e996086c3a"
+  }
+}

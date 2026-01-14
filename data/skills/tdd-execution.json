@@ -1,0 +1,36 @@
+{
+  "id": "tdd-execution",
+  "name": "tdd-execution",
+  "version": "1.0.0",
+  "summary": "Execute TDD workflow for user stories - spawn tester agent to write tests (RED), then coder agent to implement (GREEN). Use when executing stories in test-first discipline with ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/workflow-steps/tdd-execution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T00:33:39.000Z",
+  "created_at": "2025-12-23T01:29:07.693Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fworkflow-steps%2Ftdd-execution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_c0ed4ae36ac6"
+  }
+}

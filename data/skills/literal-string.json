@@ -1,0 +1,35 @@
+{
+  "id": "literal-string",
+  "name": "literal-string",
+  "version": "1.0.0",
+  "summary": "C# Literal string을 const string으로 사전 정의하여 사용하는 패턴",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "christian289",
+    "github": "christian289"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/christian289/wpf-tutorials",
+    "skill_md": "https://raw.githubusercontent.com/christian289/wpf-tutorials/main/.claude/skills/literal-string/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:21:52.808Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/christian289%2Fwpf-tutorials/.claude%2Fskills%2Fliteral-string%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_d7263b0c6125"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "managing-agent-skills",
+  "name": "managing-agent-skills",
+  "version": "1.0.0",
+  "summary": "Creates, analyzes, updates, and improves Claude Code agent skills including YAML frontmatter, allowed-tools field, progressive disclosure, and skill authoring workflows. Use whe...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thoeltig",
+    "github": "thoeltig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thoeltig/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/thoeltig/claude-code-toolkit/main/plugins/claude-code-capabilities/skills/managing-agent-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:24.070Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thoeltig%2Fclaude-code-toolkit/plugins%2Fclaude-code-capabilities%2Fskills%2Fmanaging-agent-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_10e71e18b30a"
+  }
+}

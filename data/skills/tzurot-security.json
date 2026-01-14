@@ -1,0 +1,36 @@
+{
+  "id": "tzurot-security",
+  "name": "tzurot-security",
+  "version": "1.0.0",
+  "summary": "Security best practices for Tzurot v3 - Secret management, AI-specific security (prompt injection, PII scrubbing), Economic DoS prevention, Discord permission verification, micr...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lbds137",
+    "github": "lbds137"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lbds137/tzurot",
+    "skill_md": "https://raw.githubusercontent.com/lbds137/tzurot/main/.claude/skills/tzurot-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.532Z",
+  "created_at": "2025-12-23T01:29:00.050Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lbds137%2Ftzurot/.claude%2Fskills%2Ftzurot-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_32d344589b06"
+  }
+}

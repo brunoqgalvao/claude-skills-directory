@@ -1,0 +1,37 @@
+{
+  "id": "coles-invoice-processor",
+  "name": "coles-invoice-processor",
+  "version": "1.0.0",
+  "summary": "Processes Coles grocery invoices to extract structured data and predict future orders. Use when user uploads/pastes invoice content, asks to analyze grocery purchases, or wants ...",
+  "verticals": [
+    "finance",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evgeny-trushin",
+    "github": "evgeny-trushin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evgeny-trushin/claude-skills-collection",
+    "skill_md": "https://raw.githubusercontent.com/evgeny-trushin/claude-skills-collection/main/shopping/03-coles-invoice-processor-claude-skill/coles-invoice-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T21:32:44.000Z",
+  "created_at": "2025-12-22T17:04:00.041Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evgeny-trushin%2Fclaude-skills-collection/shopping%2F03-coles-invoice-processor-claude-skill%2Fcoles-invoice-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_0d37c0584d1f"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "anti-fabrication",
+  "name": "anti-fabrication",
+  "version": "1.0.0",
+  "summary": "Ensure factual accuracy by validating claims through tool execution, avoiding superlatives and unsubstantiated metrics, and marking uncertain information appropriately",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinnie357",
+    "github": "vinnie357"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinnie357/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/vinnie357/claude-skills/main/core/skills/anti-fabrication/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:14.236Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinnie357%2Fclaude-skills/core%2Fskills%2Fanti-fabrication%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_78be0ab1256f"
+  }
+}

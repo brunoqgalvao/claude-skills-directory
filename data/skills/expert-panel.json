@@ -1,0 +1,35 @@
+{
+  "id": "expert-panel",
+  "name": "expert-panel",
+  "version": "1.0.0",
+  "summary": "ACTIVATE when debugging a skill, analyzing why a prompt isn't working, or stuck on a technical problem. Triggers on \"what would the panel say\", \"let's debug this\", \"why isn't th...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "credentum",
+    "github": "credentum"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/credentum/vivarium-lab",
+    "skill_md": "https://raw.githubusercontent.com/credentum/vivarium-lab/main/persona-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T03:04:49.000Z",
+  "created_at": "2025-12-22T15:50:57.633Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/credentum%2Fvivarium-lab/persona-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_781bebd4b6ea"
+  }
+}

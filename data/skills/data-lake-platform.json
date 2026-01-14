@@ -1,0 +1,35 @@
+{
+  "id": "data-lake-platform",
+  "name": "data-lake-platform",
+  "version": "1.0.0",
+  "summary": "Universal data lake and lakehouse patterns covering ingestion (dlt, Airbyte), transformation (SQLMesh, dbt), storage formats (Iceberg, Delta, Hudi, Parquet), query engines (Clic...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vasilyu1983",
+    "github": "vasilyu1983"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vasilyu1983/AI-Agents-public",
+    "skill_md": "https://raw.githubusercontent.com/vasilyu1983/AI-Agents-public/main/frameworks/claude-code-kit/framework/skills/data-lake-platform/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:18:51.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vasilyu1983%2FAI-Agents-public/frameworks%2Fclaude-code-kit%2Fframework%2Fskills%2Fdata-lake-platform%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_cf9fb2f9b0e1"
+  }
+}

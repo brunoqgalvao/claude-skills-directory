@@ -1,0 +1,36 @@
+{
+  "id": "jelly-fullstack-skill",
+  "name": "jelly-fullstack-skill",
+  "version": "1.0.0",
+  "summary": "Full-stack development orchestrator integrating Next.js frontend, Go backend, iOS, and Android mobile apps. Supports monorepo initialization, cross-platform type sharing via Ope...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-jelly",
+    "github": "dev-jelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-jelly/jelly-dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/dev-jelly/jelly-dotclaude/main/skills/jelly-fullstack-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.477Z",
+  "created_at": "2025-12-23T01:29:51.229Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-jelly%2Fjelly-dotclaude/skills%2Fjelly-fullstack-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_09b33b603179"
+  }
+}

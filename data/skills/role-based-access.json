@@ -1,0 +1,35 @@
+{
+  "id": "role-based-access",
+  "name": "role-based-access",
+  "version": "1.0.0",
+  "summary": "Implement role-based access control (RBAC) with user roles (admin, lead, member) and permission middleware. Use when adding authorization or restricting endpoints by role.",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PrasadTelasula",
+    "github": "PrasadTelasula"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PrasadTelasula/EvokeQOne",
+    "skill_md": "https://raw.githubusercontent.com/PrasadTelasula/EvokeQOne/main/.claude/skills/role-based-access/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T05:57:13.000Z",
+  "created_at": "2025-12-23T01:28:52.493Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PrasadTelasula%2FEvokeQOne/.claude%2Fskills%2Frole-based-access%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_3a1618f7f6ec"
+  }
+}

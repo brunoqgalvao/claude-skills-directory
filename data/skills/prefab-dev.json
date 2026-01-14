@@ -1,0 +1,35 @@
+{
+  "id": "prefab-dev",
+  "name": "prefab-dev",
+  "version": "1.0.0",
+  "summary": "Use this skill when developing Go applications with the Prefab server framework.\nThis includes creating servers, adding gRPC/HTTP handlers, configuring authentication\nand author...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dpup",
+    "github": "dpup"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dpup/prefab",
+    "skill_md": "https://raw.githubusercontent.com/dpup/prefab/main/.claude-plugin/skills/prefab-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T05:05:45.000Z",
+  "created_at": "2025-12-22T17:05:11.763Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dpup%2Fprefab/.claude-plugin%2Fskills%2Fprefab-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_e561f1023624"
+  }
+}

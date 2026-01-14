@@ -1,0 +1,35 @@
+{
+  "id": "summoning-the-user",
+  "name": "summoning-the-user",
+  "version": "1.0.0",
+  "summary": "Use when an agent encounters a blocking decision or when proceeding without user input could lead to wasted work - helps Claude determine when to block and request user input ve...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "britt",
+    "github": "britt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/britt/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/britt/claude-code-skills/main/skills/summoning-the-user/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:50.310Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/britt%2Fclaude-code-skills/skills%2Fsummoning-the-user%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_353f7eed5484"
+  }
+}

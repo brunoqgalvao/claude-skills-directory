@@ -1,0 +1,35 @@
+{
+  "id": "crawl",
+  "name": "crawl",
+  "version": "1.0.0",
+  "summary": "这个技能接收用户的需求，抓取theatlantic.com的文章",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "flyingtimes",
+    "github": "flyingtimes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/flyingtimes/clark-skill-collection",
+    "skill_md": "https://raw.githubusercontent.com/flyingtimes/clark-skill-collection/main/.claude/skills/crawl/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:20.550Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/flyingtimes%2Fclark-skill-collection/.claude%2Fskills%2Fcrawl%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_059235860d15"
+  }
+}

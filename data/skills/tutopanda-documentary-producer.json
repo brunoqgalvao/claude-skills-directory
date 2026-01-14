@@ -1,0 +1,36 @@
+{
+  "id": "tutopanda-documentary-producer",
+  "name": "tutopanda-documentary-producer",
+  "version": "1.0.0",
+  "summary": "Coordinate Tutopanda CLI and MCP to generate, edit, inspect, and preview documentary videos (video-audio-music blueprint with FinalVideo export). Use when users ask for Tutopand...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "keremk",
+    "github": "keremk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/keremk/tutopanda-claude",
+    "skill_md": "https://raw.githubusercontent.com/keremk/tutopanda-claude/main/skills/documentary-producer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T15:47:57.000Z",
+  "created_at": "2025-12-23T01:28:40.765Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/keremk%2Ftutopanda-claude/skills%2Fdocumentary-producer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_957816f90c2e"
+  }
+}

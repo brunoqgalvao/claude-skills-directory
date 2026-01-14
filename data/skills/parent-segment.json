@@ -1,0 +1,37 @@
+{
+  "id": "parent-segment",
+  "name": "parent-segment",
+  "version": "1.0.0",
+  "summary": "Manages CDP parent segments using `tdx ps` commands with YAML configs. Covers master tables, attributes, behaviors, `tdx ps validate` for join validation, `tdx ps preview` for d...",
+  "verticals": [
+    "support",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "treasure-data",
+    "github": "treasure-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/treasure-data/td-skills",
+    "skill_md": "https://raw.githubusercontent.com/treasure-data/td-skills/main/tdx-skills/parent-segment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.567Z",
+  "created_at": "2025-12-23T01:28:35.346Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/treasure-data%2Ftd-skills/tdx-skills%2Fparent-segment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_e014e474f5d6"
+  }
+}

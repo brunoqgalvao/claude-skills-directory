@@ -1,0 +1,35 @@
+{
+  "id": "healthsim-populationsim",
+  "name": "healthsim-populationsim",
+  "version": "1.0.0",
+  "summary": "Generate synthetic population demographics and SDOH data. Status: PLANNED - Not yet implemented.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mark64oswald",
+    "github": "mark64oswald"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mark64oswald/healthsim-workspace",
+    "skill_md": "https://raw.githubusercontent.com/mark64oswald/healthsim-workspace/main/skills/populationsim/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:17.954Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mark64oswald%2Fhealthsim-workspace/skills%2Fpopulationsim%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_3dedb276be38"
+  }
+}

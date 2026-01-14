@@ -1,0 +1,36 @@
+{
+  "id": "data-modeling",
+  "name": "data-modeling",
+  "version": "1.0.0",
+  "summary": "Data modeling - entities, relationships, schemas. Use when designing data structures.",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SylphxAI",
+    "github": "SylphxAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SylphxAI/flow",
+    "skill_md": "https://raw.githubusercontent.com/SylphxAI/flow/main/packages/flow/assets/skills/data-modeling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T00:14:17.000Z",
+  "created_at": "2025-12-22T14:57:34.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SylphxAI%2Fflow/packages%2Fflow%2Fassets%2Fskills%2Fdata-modeling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_3e3f4ab25be5"
+  }
+}

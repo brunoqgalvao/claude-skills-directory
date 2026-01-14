@@ -1,0 +1,35 @@
+{
+  "id": "slack-notifier",
+  "name": "slack-notifier",
+  "version": "1.0.0",
+  "summary": "Slackチャンネルにフォーマット済みメッセージを送信するSkill。\n「Slackに通知して」「チームに連絡して」「#channelに投稿して」\nなどのリクエストで自動発火する。\nMCP連携（フルAPI）とWebhookフォールバック（送信のみ）の両方に対応。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "knishioka",
+    "github": "knishioka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/knishioka/machine-learning-workshop",
+    "skill_md": "https://raw.githubusercontent.com/knishioka/machine-learning-workshop/main/claude-skills/slack-notifier/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:44.197Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/knishioka%2Fmachine-learning-workshop/claude-skills%2Fslack-notifier%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_d030c3d6069c"
+  }
+}

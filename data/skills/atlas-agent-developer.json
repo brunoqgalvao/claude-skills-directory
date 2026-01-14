@@ -1,0 +1,36 @@
+{
+  "id": "atlas-agent-developer",
+  "name": "atlas-agent-developer",
+  "version": "1.0.0",
+  "summary": "Implementation and troubleshooting agent - builds features and fixes bugs",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ajstack22",
+    "github": "ajstack22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ajstack22/StackMap",
+    "skill_md": "https://raw.githubusercontent.com/ajstack22/StackMap/main/atlas-skills-generic/atlas-agent-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:09:24.715Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ajstack22%2FStackMap/atlas-skills-generic%2Fatlas-agent-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_467535fccbca"
+  }
+}

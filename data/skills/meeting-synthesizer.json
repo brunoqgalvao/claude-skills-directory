@@ -1,0 +1,36 @@
+{
+  "id": "meeting-synthesizer",
+  "name": "meeting-synthesizer",
+  "version": "1.0.0",
+  "summary": "Processes meeting notes or transcripts to extract structured information.\nUse after meetings to quickly generate action items, capture decisions, and create follow-up tasks.\nExt...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rysweet",
+    "github": "rysweet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rysweet/AzureHayMaker",
+    "skill_md": "https://raw.githubusercontent.com/rysweet/AzureHayMaker/main/.claude/skills/meeting-synthesizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.679Z",
+  "created_at": "2025-12-22T22:11:39.077Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rysweet%2FAzureHayMaker/.claude%2Fskills%2Fmeeting-synthesizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.679Z",
+    "uniqueId": "sk_12b08a16d32a"
+  }
+}

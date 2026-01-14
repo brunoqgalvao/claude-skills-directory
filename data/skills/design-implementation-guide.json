@@ -1,0 +1,35 @@
+{
+  "id": "design-implementation-guide",
+  "name": "design-implementation-guide",
+  "version": "1.0.0",
+  "summary": "公開ガイドライン（Material Design 3、Apple HIG、Fluent 2、GOV.UK、WCAG 2.2）に基づき、デザイントークンから実装までをキーボード操作・コントラスト・流体スケール・多言語対応で検証可能な形で提供する。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ludiscan",
+    "github": "ludiscan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ludiscan/ludiscan-webapp",
+    "skill_md": "https://raw.githubusercontent.com/ludiscan/ludiscan-webapp/main/.claude/skills/design-implementation-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T04:17:16.000Z",
+  "created_at": "2025-12-23T01:28:54.925Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ludiscan%2Fludiscan-webapp/.claude%2Fskills%2Fdesign-implementation-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_273032ad1ad0"
+  }
+}

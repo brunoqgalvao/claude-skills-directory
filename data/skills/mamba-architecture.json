@@ -1,0 +1,35 @@
+{
+  "id": "mamba-architecture",
+  "name": "mamba-architecture",
+  "version": "1.0.0",
+  "summary": "State-space model with O(n) complexity vs Transformers' O(n²). 5× faster inference, million-token sequences, no KV cache. Selective SSM with hardware-aware design. Mamba-1 (d_st...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ovachiever",
+    "github": "ovachiever"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ovachiever/droid-tings",
+    "skill_md": "https://raw.githubusercontent.com/ovachiever/droid-tings/main/skills/mamba/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.452Z",
+  "created_at": "2025-12-23T01:29:14.560Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ovachiever%2Fdroid-tings/skills%2Fmamba%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_2a30dcabe39d"
+  }
+}

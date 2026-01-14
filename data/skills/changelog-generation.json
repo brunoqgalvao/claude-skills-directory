@@ -1,0 +1,35 @@
+{
+  "id": "changelog-generation",
+  "name": "changelog-generation",
+  "version": "1.0.0",
+  "summary": "Generate and manage live changelog from git commit history using conventional commits. Use when setting up changelog automation, understanding commit parsing, or working with ch...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ftchvs",
+    "github": "ftchvs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ftchvs/ftchvs_26",
+    "skill_md": "https://raw.githubusercontent.com/ftchvs/ftchvs_26/main/.claude/skills/changelog-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:05:36.453Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ftchvs%2Fftchvs_26/.claude%2Fskills%2Fchangelog-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_fcf146e9dff4"
+  }
+}

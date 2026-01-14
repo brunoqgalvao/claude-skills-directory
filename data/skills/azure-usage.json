@@ -1,0 +1,35 @@
+{
+  "id": "azure-usage",
+  "name": "azure-usage",
+  "version": "1.0.0",
+  "summary": "This skill should be used when user asks to \"query Azure resources\", \"list storage accounts\", \"manage Key Vault secrets\", \"work with Cosmos DB\", \"check AKS clusters\", \"use Azure...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fcakyon",
+    "github": "fcakyon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fcakyon/claude-codex-settings",
+    "skill_md": "https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/azure-tools/skills/azure-usage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T12:26:28.000Z",
+  "created_at": "2025-12-22T15:04:41.530Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fcakyon%2Fclaude-codex-settings/plugins%2Fazure-tools%2Fskills%2Fazure-usage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_8a927a285659"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "color-accessibility",
+  "name": "color-accessibility",
+  "version": "1.0.0",
+  "summary": "Design color palettes that are accessible to all users including those with color blindness. Ensure sufficient contrast, meaningful use of color, and inclusive design.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/color-accessibility/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.517Z",
+  "created_at": "2025-12-23T01:29:12.373Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fcolor-accessibility%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.517Z",
+    "uniqueId": "sk_08a116d2be19"
+  }
+}

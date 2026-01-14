@@ -1,0 +1,35 @@
+{
+  "id": "lookup-lc-doc",
+  "name": "lookup-lc-doc",
+  "version": "1.0.0",
+  "summary": "Search and retrieve LimaCharlie documentation from the local docs/ folder. Use when users ask about LimaCharlie platform features, SDKs, APIs, D&R rules, LCQL, sensors, outputs,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "refractionPOINT",
+    "github": "refractionPOINT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/refractionPOINT/documentation",
+    "skill_md": "https://raw.githubusercontent.com/refractionPOINT/documentation/main/marketplace/plugins/lc-essentials/skills/lookup-lc-doc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T02:43:18.000Z",
+  "created_at": "2025-12-19T20:27:45.787Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/refractionPOINT%2Fdocumentation/marketplace%2Fplugins%2Flc-essentials%2Fskills%2Flookup-lc-doc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_e9308d8fa274"
+  }
+}

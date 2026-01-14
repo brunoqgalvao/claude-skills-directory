@@ -1,0 +1,37 @@
+{
+  "id": "documentation-tutorial",
+  "name": "documentation-tutorial",
+  "version": "1.0.0",
+  "summary": "Build hands-on, code-first tutorials from any primary source - technical documentation, codebases, APIs, tools, or other complex material. Extract real examples, working code, a...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WarrenZhu050413",
+    "github": "WarrenZhu050413"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WarrenZhu050413/Warren-Claude-Code-Plugin-Marketplace",
+    "skill_md": "https://raw.githubusercontent.com/WarrenZhu050413/Warren-Claude-Code-Plugin-Marketplace/main/claude-context-orchestrator/skills/documentation-tutorial/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.708Z",
+  "created_at": "2025-12-22T21:17:59.768Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WarrenZhu050413%2FWarren-Claude-Code-Plugin-Marketplace/claude-context-orchestrator%2Fskills%2Fdocumentation-tutorial%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.708Z",
+    "uniqueId": "sk_7eb3c875e4e6"
+  }
+}

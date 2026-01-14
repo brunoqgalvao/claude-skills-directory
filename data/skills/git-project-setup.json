@@ -1,0 +1,37 @@
+{
+  "id": "git-project-setup",
+  "name": "git-project-setup",
+  "version": "1.0.0",
+  "summary": "Proper git setup and hygiene for new projects. Handles .gitignore creation, staging verification, commit messages, and avoiding common pitfalls like committing build artifacts. ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lawless-m",
+    "github": "lawless-m"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lawless-m/TheHand",
+    "skill_md": "https://raw.githubusercontent.com/lawless-m/TheHand/main/.claude/skills/git-project-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:32.551Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lawless-m%2FTheHand/.claude%2Fskills%2Fgit-project-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_3c56d10530e4"
+  }
+}

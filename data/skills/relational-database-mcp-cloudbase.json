@@ -1,0 +1,37 @@
+{
+  "id": "relational-database-mcp-cloudbase",
+  "name": "relational-database-mcp-cloudbase",
+  "version": "1.0.0",
+  "summary": "This is the required documentation for agents operating on the CloudBase Relational Database. It lists the only four supported tools for running SQL and managing security rules....",
+  "verticals": [
+    "marketing",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TencentCloudBase",
+    "github": "TencentCloudBase"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit",
+    "skill_md": "https://raw.githubusercontent.com/TencentCloudBase/CloudBase-AI-ToolKit/main/config/.codebuddy/skills/relational-database-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T03:09:59.000Z",
+  "created_at": "2025-12-22T17:57:18.438Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TencentCloudBase%2FCloudBase-AI-ToolKit/config%2F.codebuddy%2Fskills%2Frelational-database-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_6b58f65bd0d4"
+  }
+}

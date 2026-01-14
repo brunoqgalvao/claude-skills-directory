@@ -1,0 +1,37 @@
+{
+  "id": "rapid-prototyper",
+  "name": "rapid-prototyper",
+  "version": "1.0.0",
+  "summary": "Creates minimal working prototypes for quick idea validation. Single-file when possible, includes test data, ready to demo immediately. Use when user says \"prototype\", \"MVP\", \"p...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Toowiredd",
+    "github": "Toowiredd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Toowiredd/claude-skills-automation",
+    "skill_md": "https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/main/skills/rapid-prototyper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:10:59.475Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Toowiredd%2Fclaude-skills-automation/skills%2Frapid-prototyper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_bf9d3c33f829"
+  }
+}

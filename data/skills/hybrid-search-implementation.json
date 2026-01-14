@@ -1,0 +1,36 @@
+{
+  "id": "hybrid-search-implementation",
+  "name": "hybrid-search-implementation",
+  "version": "1.0.0",
+  "summary": "Combine vector and keyword search for improved retrieval. Use when implementing RAG systems, building search engines, or when neither approach alone provides sufficient recall.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wshobson/agents",
+    "skill_md": "https://raw.githubusercontent.com/wshobson/agents/main/plugins/llm-application-dev/skills/hybrid-search-implementation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T21:00:58.000Z",
+  "created_at": "2025-12-23T01:29:49.981Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wshobson%2Fagents/plugins%2Fllm-application-dev%2Fskills%2Fhybrid-search-implementation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_be22d366bc66"
+  }
+}

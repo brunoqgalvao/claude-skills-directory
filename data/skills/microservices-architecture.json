@@ -1,0 +1,37 @@
+{
+  "id": "microservices-architecture",
+  "name": "microservices-architecture",
+  "version": "1.0.0",
+  "summary": "Design and implement microservices architecture including service boundaries, communication patterns, API gateways, service mesh, service discovery, and distributed system patte...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/microservices-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:52.492Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fmicroservices-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_c46fe26a977a"
+  }
+}

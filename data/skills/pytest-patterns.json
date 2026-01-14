@@ -1,0 +1,35 @@
+{
+  "id": "pytest-patterns",
+  "name": "pytest-patterns",
+  "version": "1.0.0",
+  "summary": "Automatically applies when writing pytest tests. Ensures proper use of fixtures, parametrize, marks, mocking, async tests, and follows testing best practices.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ricardoroche",
+    "github": "ricardoroche"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ricardoroche/ricardos-claude-code",
+    "skill_md": "https://raw.githubusercontent.com/ricardoroche/ricardos-claude-code/main/.claude/skills/pytest-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:35.483Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ricardoroche%2Fricardos-claude-code/.claude%2Fskills%2Fpytest-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_836ffac78d91"
+  }
+}

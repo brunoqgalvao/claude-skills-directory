@@ -1,0 +1,35 @@
+{
+  "id": "comet-scaffold",
+  "name": "comet-scaffold",
+  "version": "1.0.0",
+  "summary": "React Native 脚手架 comet CLI 命令规范与项目配置。当用户提到\"comet\"、\"脚手架\"、\"scaffold\"、\"初始化项目\"、\"创建应用\"、\"项目结构\"、\"comet.yaml\"时使用此 skill。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aidenreed937",
+    "github": "aidenreed937"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aidenreed937/Kairo-Expo",
+    "skill_md": "https://raw.githubusercontent.com/aidenreed937/Kairo-Expo/main/.claude/skills/comet-scaffold/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T17:52:59.000Z",
+  "created_at": "2025-12-23T01:29:20.568Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aidenreed937%2FKairo-Expo/.claude%2Fskills%2Fcomet-scaffold%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_cb3088554c50"
+  }
+}

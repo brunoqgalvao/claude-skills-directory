@@ -1,0 +1,36 @@
+{
+  "id": "vercel-ai-sdk",
+  "name": "vercel-ai-sdk",
+  "version": "1.0.0",
+  "summary": "Vercel AI SDK for building chat interfaces with streaming. Use when implementing useChat hook, handling tool calls, streaming responses, or building chat UI. Triggers on useChat...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "existential-birds",
+    "github": "existential-birds"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/existential-birds/beagle",
+    "skill_md": "https://raw.githubusercontent.com/existential-birds/beagle/main/skills/vercel-ai-sdk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.452Z",
+  "created_at": "2025-12-23T01:29:16.381Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/existential-birds%2Fbeagle/skills%2Fvercel-ai-sdk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_70f0a9c2a900"
+  }
+}

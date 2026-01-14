@@ -1,0 +1,37 @@
+{
+  "id": "using-the-force",
+  "name": "using-the-force",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for using The Force MCP server - a unified interface to 11 AI models\n(OpenAI, Google, Anthropic, xAI) with intelligent context management, project memory, an...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lukacf",
+    "github": "lukacf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lukacf/mcp-the-force",
+    "skill_md": "https://raw.githubusercontent.com/lukacf/mcp-the-force/main/.claude/skills/using-the-force/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:11.513Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lukacf%2Fmcp-the-force/.claude%2Fskills%2Fusing-the-force%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_1007fe89d610"
+  }
+}

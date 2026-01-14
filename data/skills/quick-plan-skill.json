@@ -1,0 +1,36 @@
+{
+  "id": "quick-plan-skill",
+  "name": "quick-plan-skill",
+  "version": "1.0.0",
+  "summary": "Create detailed engineering implementation plans for features or fixes based on user requirements. Generates comprehensive specifications with technical approach, step-by-step i...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djacobsmeyer",
+    "github": "djacobsmeyer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djacobsmeyer/claude-skills-engineering",
+    "skill_md": "https://raw.githubusercontent.com/djacobsmeyer/claude-skills-engineering/main/plugins/quick-plan-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T23:33:35.000Z",
+  "created_at": "2025-12-23T01:28:44.122Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djacobsmeyer%2Fclaude-skills-engineering/plugins%2Fquick-plan-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.557Z",
+    "uniqueId": "sk_17e39ac52786"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-create-pr",
+  "name": "git-create-pr",
+  "version": "1.0.0",
+  "summary": "git commit, push, PR作成を一括実行。新機能実装完了後やレビュー対応完了後に使用。メインエージェントのコンテキスト節約のため、定型的なPR作成フローをこのSkillに委譲する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-tak",
+    "github": "a-tak"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-tak/bf-copy",
+    "skill_md": "https://raw.githubusercontent.com/a-tak/bf-copy/main/.claude/skills/git-create-pr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T05:05:26.000Z",
+  "created_at": "2025-12-23T01:28:42.165Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-tak%2Fbf-copy/.claude%2Fskills%2Fgit-create-pr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.559Z",
+    "uniqueId": "sk_8960ee4b26a5"
+  }
+}

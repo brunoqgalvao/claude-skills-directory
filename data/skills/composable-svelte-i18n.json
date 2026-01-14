@@ -1,0 +1,35 @@
+{
+  "id": "composable-svelte-i18n",
+  "name": "composable-svelte-i18n",
+  "version": "1.0.0",
+  "summary": "Internationalization (i18n) system for Composable Svelte. Use when implementing multi-language support, translations, date/number formatting, locale detection, or localizing app...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jonathanbelolo",
+    "github": "jonathanbelolo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jonathanbelolo/composable-svelte",
+    "skill_md": "https://raw.githubusercontent.com/jonathanbelolo/composable-svelte/main/.claude/skills/composable-svelte-i18n/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-23T00:00:29.878Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jonathanbelolo%2Fcomposable-svelte/.claude%2Fskills%2Fcomposable-svelte-i18n%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_304488fe134f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "python-dev-practices",
+  "name": "python-dev-practices",
+  "version": "1.0.0",
+  "summary": "Python development best practices for modern Python projects. Activated when working with Python files, pyproject.toml, or discussing Python patterns, testing, linting, type hints.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tbhb",
+    "github": "tbhb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tbhb/rig",
+    "skill_md": "https://raw.githubusercontent.com/tbhb/rig/main/.claude/skills/python-dev-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.053Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tbhb%2Frig/.claude%2Fskills%2Fpython-dev-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_13d231da9b36"
+  }
+}

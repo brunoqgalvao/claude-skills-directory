@@ -1,0 +1,35 @@
+{
+  "id": "agents-md-generator",
+  "name": "agents-md-generator",
+  "version": "1.0.0",
+  "summary": "Generate hierarchical AGENTS.md structures for codebases. Use when user asks to create AGENTS.md files, analyze codebase for AI agent documentation, set up AI-friendly project d...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julianromli",
+    "github": "julianromli"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julianromli/ai-skills",
+    "skill_md": "https://raw.githubusercontent.com/julianromli/ai-skills/main/skills/agents-md-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T15:58:40.000Z",
+  "created_at": "2025-12-23T01:28:58.600Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julianromli%2Fai-skills/skills%2Fagents-md-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.443Z",
+    "uniqueId": "sk_8704b04bc26e"
+  }
+}

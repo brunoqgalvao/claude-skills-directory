@@ -1,0 +1,36 @@
+{
+  "id": "php-modernization",
+  "name": "php-modernization",
+  "version": "1.0.0",
+  "summary": "PHP 8.x modernization patterns for upgrading legacy PHP applications. This skill should be used when modernizing PHP codebases to PHP 8.1/8.2/8.3, implementing type safety and s...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "netresearch",
+    "github": "netresearch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/netresearch/php-modernization-skill",
+    "skill_md": "https://raw.githubusercontent.com/netresearch/php-modernization-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T12:01:26.000Z",
+  "created_at": "2025-12-23T01:29:11.068Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/netresearch%2Fphp-modernization-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_36cb787516ae"
+  }
+}

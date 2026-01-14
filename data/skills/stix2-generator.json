@@ -1,0 +1,36 @@
+{
+  "id": "stix2-generator",
+  "name": "stix2-generator",
+  "version": "1.0.0",
+  "summary": "Generate STIX 2.1 objects and bundles for threat intelligence sharing. Create indicators, malware descriptions, attack patterns, threat actors, and complete bundles from various...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "davydany",
+    "github": "davydany"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/davydany/awesome-claude-skills-for-cybersecurity",
+    "skill_md": "https://raw.githubusercontent.com/davydany/awesome-claude-skills-for-cybersecurity/main/stix2-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.778Z",
+  "created_at": "2025-12-22T19:31:12.677Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/davydany%2Fawesome-claude-skills-for-cybersecurity/stix2-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_ef3d28f4562e"
+  }
+}

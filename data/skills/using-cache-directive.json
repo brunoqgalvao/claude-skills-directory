@@ -1,0 +1,35 @@
+{
+  "id": "using-cache-directive",
+  "name": "using-cache-directive",
+  "version": "1.0.0",
+  "summary": "Teach Cache Components model with 'use cache' directive in Next.js 16. Use when implementing caching, optimizing performance, working with dynamic data, or migrating from Next.j...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/nextjs-16/skills/using-cache-directive/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T21:58:40.000Z",
+  "created_at": "2025-12-22T20:04:01.835Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/nextjs-16%2Fskills%2Fusing-cache-directive%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_fe93e2416c1d"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n8n-security-testing",
+  "name": "n8n-security-testing",
+  "version": "1.0.0",
+  "summary": "Credential exposure detection, OAuth flow validation, API key management testing, and data sanitization verification for n8n workflows. Use when validating n8n workflow security.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/ampel",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/ampel/main/.claude/skills/n8n-security-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.633Z",
+  "created_at": "2025-12-22T23:12:27.299Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fampel/.claude%2Fskills%2Fn8n-security-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.633Z",
+    "uniqueId": "sk_20a4a00130f9"
+  }
+}

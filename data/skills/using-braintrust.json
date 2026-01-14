@@ -1,0 +1,36 @@
+{
+  "id": "using-braintrust",
+  "name": "using-braintrust",
+  "version": "1.0.0",
+  "summary": "Enables AI agents to use Braintrust for LLM evaluation, logging, and observability.\nIncludes scripts for querying logs with SQL, running evals, and logging data.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "braintrustdata",
+    "github": "braintrustdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/braintrustdata/braintrust-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/braintrustdata/braintrust-claude-plugin/main/skills/using-braintrust/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.543Z",
+  "created_at": "2025-12-23T01:28:53.828Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/braintrustdata%2Fbraintrust-claude-plugin/skills%2Fusing-braintrust%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_8dc562e10b0e"
+  }
+}

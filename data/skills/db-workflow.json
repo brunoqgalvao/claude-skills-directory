@@ -1,0 +1,36 @@
+{
+  "id": "db-workflow",
+  "name": "db-workflow",
+  "version": "1.0.0",
+  "summary": "Database migration workflow helper. Use when creating database migrations, modifying SQLAlchemy models, or managing Alembic migrations. Automatically handles model changes, migr...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Plabrum",
+    "github": "Plabrum"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Plabrum/arive",
+    "skill_md": "https://raw.githubusercontent.com/Plabrum/arive/main/.claude/skills/db-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.855Z",
+  "created_at": "2025-12-22T15:52:27.600Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Plabrum%2Farive/.claude%2Fskills%2Fdb-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_1ed0ce8ac50f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "prepare-docs",
+  "name": "prepare-docs",
+  "version": "1.0.0",
+  "summary": "Use when user requests automated documentation preparation. Triggers include:\n- Korean: \"문서 준비해줘\", \"문서화 준비\", \"문서 요구사항 작성\", \"자동 문서화 준비\"\n- English: \"prepare documentation\", \"setup...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "furiosa-ai",
+    "github": "furiosa-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/furiosa-ai/agent_skills",
+    "skill_md": "https://raw.githubusercontent.com/furiosa-ai/agent_skills/main/prepare-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T12:57:21.000Z",
+  "created_at": "2025-12-23T01:29:29.348Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/furiosa-ai%2Fagent_skills/prepare-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.494Z",
+    "uniqueId": "sk_1413615720cd"
+  }
+}

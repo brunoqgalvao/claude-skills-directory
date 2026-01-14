@@ -1,0 +1,35 @@
+{
+  "id": "gen-code",
+  "name": "gen-code",
+  "version": "1.0.0",
+  "summary": "Generate actual source code from verified code maps. This skill only runs\nAFTER verify-maps passes. Code is generated mechanically from maps, ensuring\ncorrectness. Use when: cod...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BellaBe",
+    "github": "BellaBe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BellaBe/lean-os",
+    "skill_md": "https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/engineering-gen-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.495Z",
+  "created_at": "2025-12-23T01:29:29.306Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BellaBe%2Flean-os/.claude%2Fskills%2Fengineering-gen-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_64233d7ec584"
+  }
+}

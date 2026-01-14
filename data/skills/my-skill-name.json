@@ -1,0 +1,35 @@
+{
+  "id": "my-skill-name",
+  "name": "my-skill-name",
+  "version": "1.0.0",
+  "summary": "Brief description of what this Skill does and when to use it",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Freespirits",
+    "github": "Freespirits"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Freespirits/Goran-Site",
+    "skill_md": "https://raw.githubusercontent.com/Freespirits/Goran-Site/main/.claude/skills/skill-template/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-21T14:00:19.000Z",
+  "created_at": "2025-12-22T17:04:38.808Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Freespirits%2FGoran-Site/.claude%2Fskills%2Fskill-template%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_dc60a18e9e05"
+  }
+}

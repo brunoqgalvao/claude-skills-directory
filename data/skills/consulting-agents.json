@@ -1,0 +1,35 @@
+{
+  "id": "consulting-agents",
+  "name": "consulting-agents",
+  "version": "1.0.0",
+  "summary": "Use when you need information you don't have, expertise outside your comfort zone, or fresh eyes on code - dispatches agents to research, advise, or review. NOT for implementati...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "snits",
+    "github": "snits"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/snits/claude-files",
+    "skill_md": "https://raw.githubusercontent.com/snits/claude-files/main/skills/consulting-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:10.023Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/snits%2Fclaude-files/skills%2Fconsulting-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_093cdd51f0c7"
+  }
+}

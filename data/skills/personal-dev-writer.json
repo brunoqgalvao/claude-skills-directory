@@ -1,0 +1,36 @@
+{
+  "id": "personal-dev-writer",
+  "name": "personal-dev-writer",
+  "version": "1.0.0",
+  "summary": "Writes personal development content with inspirational, story-driven approach",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zura1555",
+    "github": "Zura1555"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zura1555/agents",
+    "skill_md": "https://raw.githubusercontent.com/Zura1555/agents/main/.claude/skills/personal-dev-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:31.505Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zura1555%2Fagents/.claude%2Fskills%2Fpersonal-dev-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_8235f66fe1bd"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "code-clone-assistant",
+  "name": "code-clone-assistant",
+  "version": "1.0.0",
+  "summary": "Detects and refactors code duplication using PMD CPD. Use when identifying code clones, addressing DRY violations, or refactoring duplicate code across repositories.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/quality-tools/skills/code-clone-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T05:28:19.000Z",
+  "created_at": "2025-12-23T01:28:50.980Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fquality-tools%2Fskills%2Fcode-clone-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_07454c34e9d8"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cv-creator",
+  "name": "cv-creator",
+  "version": "1.0.0",
+  "summary": "Professional CV and resume builder transforming career narratives into ATS-optimized, multi-format resumes. Integrates with career-biographer for data and competitive-cartograph...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "erichowens",
+    "github": "erichowens"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/erichowens/some_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/erichowens/some_claude_skills/main/.claude/skills/cv-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:13.698Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/erichowens%2Fsome_claude_skills/.claude%2Fskills%2Fcv-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_386d1802d6bd"
+  }
+}

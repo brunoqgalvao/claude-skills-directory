@@ -1,0 +1,33 @@
+{
+  "name": "@skills/competitors-tracker",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "track": "tsx src/index.ts",
+    "track:github": "tsx src/github-stats.ts",
+    "track:keywords": "tsx src/keyword-ranking.ts",
+    "discover": "tsx src/discover.ts",
+    "report": "tsx src/report.ts",
+    "fetch-skills": "tsx src/fetch-skills.ts",
+    "scrape-skills": "tsx src/scrape-skills.ts",
+    "classify-skills": "tsx src/classify-skills.ts",
+    "generate-skills": "tsx src/generate-skills.ts",
+    "quick-generate": "tsx src/quick-generate.ts",
+    "pipeline": "npm run scrape-skills && npm run classify-skills && npm run generate-skills",
+    "quick-pipeline": "npm run scrape-skills && npm run quick-generate",
+    "scrape-skillsmp": "tsx src/scrape-skillsmp.ts",
+    "scrape-all": "npm run scrape-skills && npm run scrape-skillsmp"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.32.1",
+    "cheerio": "^1.0.0",
+    "node-fetch": "^3.3.2",
+    "zod": "^3.23.8"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

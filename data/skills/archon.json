@@ -1,0 +1,35 @@
+{
+  "id": "archon",
+  "name": "archon",
+  "version": "1.0.0",
+  "summary": "Interactive Archon integration for knowledge base and project management via REST API. On first use, asks for Archon host URL. Use when searching documentation, managing project...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jlh425",
+    "github": "jlh425"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jlh425/ottomator-agents",
+    "skill_md": "https://raw.githubusercontent.com/jlh425/ottomator-agents/main/claude-skill-archon/.claude/skills/archon/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.446Z",
+  "created_at": "2025-12-23T01:29:51.258Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jlh425%2Fottomator-agents/claude-skill-archon%2F.claude%2Fskills%2Farchon%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.446Z",
+    "uniqueId": "sk_b34cc1901979"
+  }
+}

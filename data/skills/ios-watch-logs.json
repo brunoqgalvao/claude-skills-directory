@@ -1,0 +1,35 @@
+{
+  "id": "ios-watch-logs",
+  "name": "ios-watch-logs",
+  "version": "1.0.0",
+  "summary": "Start real-time log streaming from connected iPhone to console and file. Shows only app's explicit log messages with [APP] prefix. Use when monitoring app behavior, debugging, o...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asnar00",
+    "github": "asnar00"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asnar00/miso",
+    "skill_md": "https://raw.githubusercontent.com/asnar00/miso/main/.claude/skills/ios-watch-logs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T15:02:23.000Z",
+  "created_at": "2025-12-23T01:28:49.725Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asnar00%2Fmiso/.claude%2Fskills%2Fios-watch-logs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_681cbd0203db"
+  }
+}

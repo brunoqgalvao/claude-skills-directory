@@ -1,0 +1,35 @@
+{
+  "id": "deno",
+  "name": "deno",
+  "version": "1.0.0",
+  "summary": "Deno-specific conventions and patterns.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lambdalisue",
+    "github": "lambdalisue"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lambdalisue/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/lambdalisue/dotfiles/main/home/claude/skills/deno/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T07:24:50.000Z",
+  "created_at": "2025-12-23T01:28:17.895Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lambdalisue%2Fdotfiles/home%2Fclaude%2Fskills%2Fdeno%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.581Z",
+    "uniqueId": "sk_c77ab012ab9d"
+  }
+}

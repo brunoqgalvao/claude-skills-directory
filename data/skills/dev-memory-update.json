@@ -1,0 +1,36 @@
+{
+  "id": "dev-memory-update",
+  "name": "dev-memory-update",
+  "version": "1.0.0",
+  "summary": "Update development memory (events.jsonl) based on commit metadata and diff analysis. Automatically tracks features, fixes, refactorings, and decisions.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BerryKuipers",
+    "github": "BerryKuipers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BerryKuipers/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/BerryKuipers/claude-code-toolkit/main/.claude/skills/memory/dev-memory/update/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.681Z",
+  "created_at": "2025-12-22T22:10:47.458Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BerryKuipers%2Fclaude-code-toolkit/.claude%2Fskills%2Fmemory%2Fdev-memory%2Fupdate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.681Z",
+    "uniqueId": "sk_917ca25bc2f1"
+  }
+}

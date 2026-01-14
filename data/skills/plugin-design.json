@@ -1,0 +1,36 @@
+{
+  "id": "plugin-design",
+  "name": "plugin-design",
+  "version": "1.0.0",
+  "summary": "Interpretive guidance for designing Claude Code plugins. Helps you understand plugin architecture, marketplace distribution, and when plugins are the right pattern. Use when cre...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "racurry",
+    "github": "racurry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/racurry/neat-little-package",
+    "skill_md": "https://raw.githubusercontent.com/racurry/neat-little-package/main/plugins/box-factory/skills/plugin-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:11:13.721Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/racurry%2Fneat-little-package/plugins%2Fbox-factory%2Fskills%2Fplugin-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_77925b39c03e"
+  }
+}

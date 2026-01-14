@@ -1,0 +1,35 @@
+{
+  "id": "interaction-guidelines",
+  "name": "interaction-guidelines",
+  "version": "1.0.0",
+  "summary": "ユーザーとの効果的な対話パターン、質問生成、曖昧さ解消、合意形成、ユーザー負担軽減のガイドラインを定義する。ユーザーに質問する際、要件を確認する際、フィードバックを収集する際、またはユーザーが対話改善、質問方法、確認プロセス、Progressive Disclosureに言及した際に使用する。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-foundation/skills/interaction-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:03:38.699Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-foundation%2Fskills%2Finteraction-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_7c86c48030c5"
+  }
+}

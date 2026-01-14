@@ -1,0 +1,35 @@
+{
+  "id": "architecture-review",
+  "name": "architecture-review",
+  "version": "1.0.0",
+  "summary": "Evaluate codebase architecture against ADRs, coupling rules, and team guardrails.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/pensive/skills/architecture-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:31.992Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fpensive%2Fskills%2Farchitecture-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_09f860490234"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "checkpoint-approval",
+  "name": "checkpoint-approval",
+  "version": "1.0.0",
+  "summary": "Manage user approval checkpoints with proper waiting and flag creation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cowwoc",
+    "github": "cowwoc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cowwoc/styler",
+    "skill_md": "https://raw.githubusercontent.com/cowwoc/styler/main/.claude/skills/checkpoint-approval/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T17:27:54.000Z",
+  "created_at": "2025-12-23T01:29:18.365Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cowwoc%2Fstyler/.claude%2Fskills%2Fcheckpoint-approval%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_94b2df2d8338"
+  }
+}

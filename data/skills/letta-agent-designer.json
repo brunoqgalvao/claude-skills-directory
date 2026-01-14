@@ -1,0 +1,35 @@
+{
+  "id": "letta-agent-designer",
+  "name": "letta-agent-designer",
+  "version": "1.0.0",
+  "summary": "Guide for designing effective Letta agents. This skill should be used when users need help choosing agent architectures, designing memory blocks, selecting models, or planning t...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "letta-ai",
+    "github": "letta-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/letta-ai/skills",
+    "skill_md": "https://raw.githubusercontent.com/letta-ai/skills/main/ai/agents/letta/letta-agent-designer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T00:10:09.000Z",
+  "created_at": "2025-12-22T16:29:01.100Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/letta-ai%2Fskills/ai%2Fagents%2Fletta%2Fletta-agent-designer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_4eb1b290fca5"
+  }
+}

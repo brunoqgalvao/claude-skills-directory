@@ -1,0 +1,36 @@
+{
+  "id": "poocommerce-dev-cycle",
+  "name": "poocommerce-dev-cycle",
+  "version": "1.0.0",
+  "summary": "Run tests, linting, and quality checks for PooCommerce development. Use when running tests, fixing code style, or following the development workflow.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "notmattpress",
+    "github": "notmattpress"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/notmattpress/poocommerce",
+    "skill_md": "https://raw.githubusercontent.com/notmattpress/poocommerce/main/.ai/skills/woocommerce-dev-cycle/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.320Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/notmattpress%2Fpoocommerce/.ai%2Fskills%2Fwoocommerce-dev-cycle%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_39fc9055e6bd"
+  }
+}

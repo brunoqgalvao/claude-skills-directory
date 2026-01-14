@@ -1,0 +1,35 @@
+{
+  "id": "clean-git-history",
+  "name": "clean-git-history",
+  "version": "1.0.0",
+  "summary": "Reimplement a branch with a clean, narrative-quality git commit history suitable for reviewer comprehension. Use when asked to: rewrite git history for PR review, make commits m...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anandthakker",
+    "github": "anandthakker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anandthakker/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/anandthakker/dotfiles/main/skills/cleaning-git-history/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T03:26:20.000Z",
+  "created_at": "2025-12-22T15:05:31.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anandthakker%2Fdotfiles/skills%2Fcleaning-git-history%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_b9eeb0faf641"
+  }
+}

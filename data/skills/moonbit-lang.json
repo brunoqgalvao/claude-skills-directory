@@ -1,0 +1,36 @@
+{
+  "id": "moonbit-lang",
+  "name": "moonbit-lang",
+  "version": "1.0.0",
+  "summary": "MoonBit language reference and coding conventions. Use when writing MoonBit code, asking about syntax, or encountering MoonBit-specific errors. Covers error handling, FFI, async...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Milky2018",
+    "github": "Milky2018"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Milky2018/wasmoon",
+    "skill_md": "https://raw.githubusercontent.com/Milky2018/wasmoon/main/.claude/skills/moonbit-lang/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.573Z",
+  "created_at": "2025-12-23T01:28:28.288Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Milky2018%2Fwasmoon/.claude%2Fskills%2Fmoonbit-lang%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_8eb819f6b9d5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "quote-bible",
+  "name": "quote-bible",
+  "version": "1.0.0",
+  "summary": "Fetch and display Bible verses in multiple translations with optional language filtering. Use when users explicitly request to quote a specific verse (e.g., \"quote John 3:16\" or...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "authenticwalk",
+    "github": "authenticwalk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/authenticwalk/mybibletoolbox-code",
+    "skill_md": "https://raw.githubusercontent.com/authenticwalk/mybibletoolbox-code/main/.claude/skills/quote-bible/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:18.957Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/authenticwalk%2Fmybibletoolbox-code/.claude%2Fskills%2Fquote-bible%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_ff8b72ef89dc"
+  }
+}

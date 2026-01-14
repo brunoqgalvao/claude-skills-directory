@@ -1,0 +1,36 @@
+{
+  "id": "apple-developer-apis",
+  "name": "apple-developer-apis",
+  "version": "1.0.0",
+  "summary": "Expert system for integrating Apple Developer APIs including App Store Connect API, App Store Server API, Sign in with Apple REST API, App Store Server Notifications, Advanced C...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cristianoaredes",
+    "github": "cristianoaredes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cristianoaredes/mcp-apple-store",
+    "skill_md": "https://raw.githubusercontent.com/cristianoaredes/mcp-apple-store/main/.claude/skills/apple-developer-apis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.679Z",
+  "created_at": "2025-12-22T22:11:37.567Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cristianoaredes%2Fmcp-apple-store/.claude%2Fskills%2Fapple-developer-apis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.679Z",
+    "uniqueId": "sk_61e7cb16b372"
+  }
+}

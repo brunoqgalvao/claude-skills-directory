@@ -1,0 +1,35 @@
+{
+  "id": "load-resumption-state",
+  "name": "load-resumption-state",
+  "version": "1.0.0",
+  "summary": "Load conductor workflow state from previous session and determine resumption point by analyzing git state and saved JSON state file",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BerryKuipers",
+    "github": "BerryKuipers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BerryKuipers/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/BerryKuipers/claude-code-toolkit/main/.claude/skills/state-management/load-resumption-state/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T10:26:48.000Z",
+  "created_at": "2025-12-22T20:03:11.418Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BerryKuipers%2Fclaude-code-toolkit/.claude%2Fskills%2Fstate-management%2Fload-resumption-state%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_26cb03b95835"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "get-available-resources",
+  "name": "get-available-resources",
+  "version": "1.0.0",
+  "summary": "This skill should be used at the start of any computationally intensive scientific task to detect and report available system resources (CPU cores, GPUs, memory, disk space). It...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xiechy",
+    "github": "xiechy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xiechy/climate-ai",
+    "skill_md": "https://raw.githubusercontent.com/xiechy/climate-ai/main/scientific-helpers/get-available-resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.459Z",
+  "created_at": "2025-12-22T20:10:43.086Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xiechy%2Fclimate-ai/scientific-helpers%2Fget-available-resources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.459Z",
+    "uniqueId": "sk_e47e2cb879f7"
+  }
+}

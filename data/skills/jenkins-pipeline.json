@@ -1,0 +1,37 @@
+{
+  "id": "jenkins-pipeline",
+  "name": "jenkins-pipeline",
+  "version": "1.0.0",
+  "summary": "Build Jenkins declarative and scripted pipelines with stages, agents, parameters, and plugins. Implement multi-branch pipelines and deployment automation.",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/jenkins-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:57:14.379Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fjenkins-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_7d04e2a21a25"
+  }
+}

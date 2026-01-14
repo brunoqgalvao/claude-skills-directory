@@ -1,0 +1,36 @@
+{
+  "id": "dotnet-minimal-apis",
+  "name": "dotnet-minimal-apis",
+  "version": "1.0.0",
+  "summary": "Guide for building ASP.NET Core Minimal APIs with OpenAPI/Swagger integration in .NET 10",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NotMyself",
+    "github": "NotMyself"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NotMyself/claude-stack-dotnet",
+    "skill_md": "https://raw.githubusercontent.com/NotMyself/claude-stack-dotnet/main/.claude/skills/dotnet-minimal-apis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T17:01:00.000Z",
+  "created_at": "2025-12-22T21:01:10.637Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NotMyself%2Fclaude-stack-dotnet/.claude%2Fskills%2Fdotnet-minimal-apis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_637456c61aea"
+  }
+}

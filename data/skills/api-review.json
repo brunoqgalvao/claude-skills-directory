@@ -1,0 +1,36 @@
+{
+  "id": "api-review",
+  "name": "api-review",
+  "version": "1.0.0",
+  "summary": "Evaluate public API surfaces against internal guidelines and external exemplars. Use for API design review, consistency audits, and documentation governance.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/pensive/skills/api-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:31.969Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fpensive%2Fskills%2Fapi-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_9cd53c8a05a5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "typescript-rules",
+  "name": "typescript-rules",
+  "version": "1.0.0",
+  "summary": "TypeScript development rules for type safety and error handling. Use when implementing TypeScript code or reviewing type definitions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shinpr",
+    "github": "shinpr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shinpr/ai-coding-project-boilerplate",
+    "skill_md": "https://raw.githubusercontent.com/shinpr/ai-coding-project-boilerplate/main/.claude/skills-en/typescript-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T04:07:00.000Z",
+  "created_at": "2025-12-22T17:05:07.751Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shinpr%2Fai-coding-project-boilerplate/.claude%2Fskills-en%2Ftypescript-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_544b2a677796"
+  }
+}

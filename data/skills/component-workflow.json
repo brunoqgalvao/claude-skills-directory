@@ -1,0 +1,37 @@
+{
+  "id": "component-workflow",
+  "name": "component-workflow",
+  "version": "1.0.0",
+  "summary": "Guide the creation of new ECS components following established architectural patterns including component class creation, JSON serialization support, editor UI implementation, d...",
+  "verticals": [
+    "support",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kateusz",
+    "github": "kateusz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kateusz/GameEngine",
+    "skill_md": "https://raw.githubusercontent.com/kateusz/GameEngine/main/.claude/skills/component-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:39.267Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kateusz%2FGameEngine/.claude%2Fskills%2Fcomponent-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_e362c61ad15b"
+  }
+}

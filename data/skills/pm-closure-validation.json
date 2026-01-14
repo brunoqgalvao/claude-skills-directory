@@ -1,0 +1,35 @@
+{
+  "id": "pm-closure-validation",
+  "name": "pm-closure-validation",
+  "version": "1.0.0",
+  "summary": "Expert PM validation for increment closure with 3-gate quality checks (tasks, tests, documentation). Acts as final quality gate before closing increments. Validates task complet...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave/skills/pm-closure-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:10.710Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave%2Fskills%2Fpm-closure-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_89d1177532ae"
+  }
+}

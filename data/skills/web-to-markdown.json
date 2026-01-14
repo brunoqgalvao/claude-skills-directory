@@ -1,0 +1,36 @@
+{
+  "id": "web-to-markdown",
+  "name": "web-to-markdown",
+  "version": "1.0.0",
+  "summary": "Convert web pages to Markdown format using Jina AI's reader service. Use when the user asks to convert, generate, create, transform, or download a web page, website, or URL into...",
+  "verticals": [
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CuriousDima",
+    "github": "CuriousDima"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CuriousDima/claude-web-to-markdown-skill",
+    "skill_md": "https://raw.githubusercontent.com/CuriousDima/claude-web-to-markdown-skill/main/web-to-markdown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:20.621Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CuriousDima%2Fclaude-web-to-markdown-skill/web-to-markdown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_ee9bc64b5ae1"
+  }
+}

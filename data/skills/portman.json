@@ -1,0 +1,36 @@
+{
+  "id": "portman",
+  "name": "portman",
+  "version": "1.0.0",
+  "summary": "Port management for local development with git worktrees. Use when setting up local development environments, booking ports for services to avoid collisions between parallel wor...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoutrin",
+    "github": "jpoutrin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoutrin/product-forge",
+    "skill_md": "https://raw.githubusercontent.com/jpoutrin/product-forge/main/plugins/devops-data/skills/portman/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:46.852Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoutrin%2Fproduct-forge/plugins%2Fdevops-data%2Fskills%2Fportman%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_dc7ae64c8c39"
+  }
+}

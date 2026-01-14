@@ -1,0 +1,36 @@
+{
+  "id": "task-validation",
+  "name": "task-validation",
+  "version": "1.0.0",
+  "summary": "Validates task completion by checking for real implementation, working code, test results, and compliance with quality standards. Prevents paper solutions and ensures tasks are ...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TinTikls",
+    "github": "TinTikls"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TinTikls/CCPM-Enchanced",
+    "skill_md": "https://raw.githubusercontent.com/TinTikls/CCPM-Enchanced/main/.claude/skills/task-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T16:36:41.000Z",
+  "created_at": "2025-12-23T01:28:44.763Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TinTikls%2FCCPM-Enchanced/.claude%2Fskills%2Ftask-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_2b9ff26c2ed1"
+  }
+}

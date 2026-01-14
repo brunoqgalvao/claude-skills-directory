@@ -1,0 +1,38 @@
+{
+  "id": "teams-channel-post-writer",
+  "name": "teams-channel-post-writer",
+  "version": "1.0.0",
+  "summary": "Creates educational Teams channel posts for internal knowledge sharing about Claude Code features, tools, and best practices. Applies when writing posts, announcements, or docum...",
+  "description": "# Teams Channel Post Writer\n\n## Overview\n\nCreate well-structured, educational Teams channel posts for internal knowledge sharing about Claude Code features and best practices. This skill provides templates, writing guidelines, and a structured workflow to produce consistent, actionable content that helps colleagues learn effective Claude Code usage.\n\n## When to Use This Skill\n\nThis skill activates when creating Teams channel posts to:\n- Announce and explain new Claude Code features\n- Share Claude Code tips and best practices\n- Teach effective prompting patterns and workflows\n- Connect features to broader engineering principles (e.g., context engineering)\n- Document lessons learned from using Claude Code\n\n## Workflow\n\n### 1. Understand the Topic\n\nGather information about what to write about:\n- Research the feature/topic thoroughly using official documentation\n- Verify release dates and version numbers from changelogs\n- Identify the core benefit or principle the post should teach\n- Collect concrete examples from real usage\n\n**Research checklist:**\n- [ ] Found official release date/version number\n- [ ] Verified feature behavior through testing or documentation\n- [ ] Identified authoritative sources to link to\n- [ ] Understood the underlying principle or best practice\n\n### 2. Plan the Content\n\nBased on the writing guidelines in `references/writing-guidelines.md`, plan:\n- **Hook**: What's new or important about this topic?\n- **Core principle**: What best practice does this illustrate?\n- **Examples**: What concrete prompts or workflows demonstrate this?\n- **Call-to-action**: What should readers try next?\n\n### 3. Draft Using the Template\n\nStart with the template in `assets/post-template.md` and fill in:\n\n1. **Title**: Use an emoji and clear description\n2. **Introduction**: Include release date and brief context\n3. **What it is**: 1-2 sentence explanation\n4. **How to use it**: Show \"Normal vs Better\" pattern with explicit instructions\n5. **Why use it**: Explain the underlying principle with 4 key benefits\n6. **Examples**: Provide 3+ realistic, concrete prompts\n7. **Options/Settings**: List key configurations or parameters\n8. **Call-to-action**: End with actionable next step\n9. **Learn more**: Link to authoritative resources\n\n### 4. Apply Writing Guidelines\n\nReview the draft against the quality checklist in `references/writing-guidelines.md`:\n- Educational and helpful tone\n- \"Normal/Better\" pattern (not \"Wrong/Correct\")\n- Concrete, realistic examples\n- Explains the \"why\" with principles\n- Clear structure with bullets and formatting\n- Verified facts and dates\n\n### 5. Save and Share\n\nSave the final post to your team's documentation location with a descriptive filename like \"Claude Code Tips.md\" or \"[Topic Name].md\"\n\n## Key Principles\n\n### Show, Don't Just Tell\nAlways include concrete examples users can adapt. Use \"Normal vs Better\" comparisons to demonstrate improvements without making readers feel criticized.\n\n### Connect to Principles\nDon't just describe features—explain the underlying best practices. For example, connect the Explore agent to \"context offloading\" principles in context engineering.\n\n### Make it Actionable\nBe explicit about invocation patterns. Users should be able to copy/paste examples and immediately use them.\n\n### Verify Everything\nAlways research release dates, verify feature behavior, and link to authoritative sources. Accuracy builds trust.\n\n## Resources\n\n### references/writing-guidelines.md\nComprehensive writing guidelines including:\n- Tone and style standards\n- Structure patterns for different post types\n- Formatting conventions\n- Research requirements\n- Quality checklist\n\nReference this file for detailed guidance on tone, structure, and quality standards.\n\n### assets/post-template.md\nReady-to-use markdown template with placeholder structure for:\n- Title and introduction\n- Feature explanation\n- Usage examples\n- Benefits and principles\n- Options and settings\n- Call-to-action and resources\n\nCopy this template as a starting point for new posts, then customize the content while maintaining the proven structure.",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daymade",
+    "github": "daymade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daymade/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/teams-channel-post-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 154,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:30:48Z",
+  "created_at": "2025-10-22T11:17:31Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/daymade/claude-code-skills/blob/main/teams-channel-post-writer/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_a07c12b341fd"
+  }
+}

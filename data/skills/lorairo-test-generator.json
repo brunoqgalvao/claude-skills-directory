@@ -1,0 +1,36 @@
+{
+  "id": "lorairo-test-generator",
+  "name": "lorairo-test-generator",
+  "version": "1.0.0",
+  "summary": "Generate pytest unit, integration, and GUI tests for LoRAIro with proper fixtures, mocks, and 75%+ coverage using pytest-qt for PySide6 testing",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NEXTAltair",
+    "github": "NEXTAltair"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NEXTAltair/LoRAIro",
+    "skill_md": "https://raw.githubusercontent.com/NEXTAltair/LoRAIro/main/.claude/skills/lorairo-test-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:05:47.174Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NEXTAltair%2FLoRAIro/.claude%2Fskills%2Florairo-test-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_6cf8f471fd11"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tutorial-documentation",
+  "name": "tutorial-documentation",
+  "version": "1.0.0",
+  "summary": "Use when working on Skyline tutorial documentation, tutorial tests, or anything in Skyline/Documentation/Tutorials. Activate for writing or reviewing tutorial HTML, tutorial tes...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ProteoWizard",
+    "github": "ProteoWizard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ProteoWizard/pwiz",
+    "skill_md": "https://raw.githubusercontent.com/ProteoWizard/pwiz/main/.claude/skills/tutorial-documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.574Z",
+  "created_at": "2025-12-23T01:28:28.195Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ProteoWizard%2Fpwiz/.claude%2Fskills%2Ftutorial-documentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_ce136d6287aa"
+  }
+}

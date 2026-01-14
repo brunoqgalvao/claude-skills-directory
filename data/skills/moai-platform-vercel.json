@@ -1,0 +1,35 @@
+{
+  "id": "moai-platform-vercel",
+  "name": "moai-platform-vercel",
+  "version": "1.0.0",
+  "summary": "Vercel edge deployment specialist covering Edge Functions, Next.js optimization, preview deployments, and ISR. Use when deploying Next.js or edge-first applications.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "modu-ai",
+    "github": "modu-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/modu-ai/moai-adk",
+    "skill_md": "https://raw.githubusercontent.com/modu-ai/moai-adk/main/src/moai_adk/templates/.claude/skills/moai-platform-vercel/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:16:53.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/modu-ai%2Fmoai-adk/src%2Fmoai_adk%2Ftemplates%2F.claude%2Fskills%2Fmoai-platform-vercel%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_79ada1d2e6bc"
+  }
+}

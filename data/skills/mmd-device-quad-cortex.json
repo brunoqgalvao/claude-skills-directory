@@ -1,0 +1,37 @@
+{
+  "id": "mmd-device-quad-cortex",
+  "name": "mmd-device-quad-cortex",
+  "version": "1.0.0",
+  "summary": "Guide for using the Neural DSP Quad Cortex device library in MMD files. Use when the user mentions Quad Cortex, QC, Neural DSP guitar processor, or needs help with preset loadin...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cjgdev",
+    "github": "cjgdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cjgdev/midi-markdown",
+    "skill_md": "https://raw.githubusercontent.com/cjgdev/midi-markdown/main/.claude/skills/mmd-device-quad-cortex/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:54.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cjgdev%2Fmidi-markdown/.claude%2Fskills%2Fmmd-device-quad-cortex%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_5fd624fe3ffc"
+  }
+}

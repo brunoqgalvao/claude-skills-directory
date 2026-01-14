@@ -1,0 +1,35 @@
+{
+  "id": "daily-report-generator",
+  "name": "daily-report-generator",
+  "version": "1.0.0",
+  "summary": "GitコミットログとCalendar情報から日報・週報を自動生成するSkill。\n「日報を作って」「週報を書いて」「今週何やったか教えて」「スタンドアップノート」\nなどのリクエストで自動発火する。",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "knishioka",
+    "github": "knishioka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/knishioka/machine-learning-workshop",
+    "skill_md": "https://raw.githubusercontent.com/knishioka/machine-learning-workshop/main/claude-skills/daily-report-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:06.503Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/knishioka%2Fmachine-learning-workshop/claude-skills%2Fdaily-report-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_ecbe2aac8dc1"
+  }
+}

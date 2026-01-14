@@ -1,0 +1,35 @@
+{
+  "id": "directory-tree-viewer",
+  "name": "directory-tree-viewer",
+  "version": "1.0.0",
+  "summary": "Display directory structure as a formatted tree. Use when the user needs to visualize a directory structure, analyze folder organization, or share a file tree view. Supports cus...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djacobsmeyer",
+    "github": "djacobsmeyer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djacobsmeyer/claude-skills-engineering",
+    "skill_md": "https://raw.githubusercontent.com/djacobsmeyer/claude-skills-engineering/main/plugins/directory-tree-viewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:28.942Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djacobsmeyer%2Fclaude-skills-engineering/plugins%2Fdirectory-tree-viewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_448719bbab42"
+  }
+}

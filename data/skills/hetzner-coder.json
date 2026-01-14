@@ -1,0 +1,36 @@
+{
+  "id": "hetzner-coder",
+  "name": "hetzner-coder",
+  "version": "1.0.0",
+  "summary": "This skill guides provisioning Hetzner Cloud infrastructure with OpenTofu/Terraform. Use when creating servers, networks, firewalls, load balancers, or volumes on Hetzner Cloud.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majesticlabs-dev",
+    "github": "majesticlabs-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majesticlabs-dev/majestic-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/majesticlabs-dev/majestic-marketplace/main/plugins/majestic-devops/skills/hetzner-coder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:33.408Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majesticlabs-dev%2Fmajestic-marketplace/plugins%2Fmajestic-devops%2Fskills%2Fhetzner-coder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_7113a808e0dd"
+  }
+}

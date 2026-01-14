@@ -1,0 +1,36 @@
+{
+  "id": "create-claude-plugin",
+  "name": "create-claude-plugin",
+  "version": "1.0.0",
+  "summary": "Guide for creating Claude Code plugins that bundle skills, agents, commands, hooks, and MCP servers for distribution. Covers plugin structure, marketplace.json format, installat...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ronnycoding",
+    "github": "ronnycoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ronnycoding/.claude",
+    "skill_md": "https://raw.githubusercontent.com/ronnycoding/.claude/main/skills/create-claude-plugin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:57.036Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ronnycoding%2F.claude/skills%2Fcreate-claude-plugin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_bb8b1e504c9d"
+  }
+}

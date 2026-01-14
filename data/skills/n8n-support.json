@@ -1,0 +1,37 @@
+{
+  "id": "n8n-support",
+  "name": "n8n-support",
+  "version": "1.0.0",
+  "summary": "Comprehensive n8n workflow engineering support for creating production-ready workflows. Use when users need to generate n8n workflows, debug loop execution issues, implement nes...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wmiles81",
+    "github": "wmiles81"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wmiles81/n8n-support",
+    "skill_md": "https://raw.githubusercontent.com/wmiles81/n8n-support/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:05:35.687Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wmiles81%2Fn8n-support/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_3cd111bebd2f"
+  }
+}

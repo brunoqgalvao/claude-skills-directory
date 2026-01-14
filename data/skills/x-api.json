@@ -1,0 +1,36 @@
+{
+  "id": "x-api",
+  "name": "x-api",
+  "version": "1.0.0",
+  "summary": "Unified Twitter/X API client for retrieving user info and tweets via twitterapi.io. Supports user lookup and advanced tweet search with a clean Typer-based CLI and agent-friendl...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shalomma",
+    "github": "shalomma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shalomma/social-media-research",
+    "skill_md": "https://raw.githubusercontent.com/shalomma/social-media-research/main/.claude/skills/x-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-01T11:18:27.000Z",
+  "created_at": "2025-12-22T17:53:16.076Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shalomma%2Fsocial-media-research/.claude%2Fskills%2Fx-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_2f5d17fd95e3"
+  }
+}

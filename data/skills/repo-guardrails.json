@@ -1,0 +1,37 @@
+{
+  "id": "repo-guardrails",
+  "name": "repo-guardrails",
+  "version": "1.0.0",
+  "summary": "Repository-specific guardrails and verification steps for CoinTrader-AI. Use when changing code, content, routes, affiliate/analytics logic, or environment/configuration in this...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MightyJabe",
+    "github": "MightyJabe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MightyJabe/CoinTraderAI",
+    "skill_md": "https://raw.githubusercontent.com/MightyJabe/CoinTraderAI/main/.codex/skills/repo-guardrails/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.374Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MightyJabe%2FCoinTraderAI/.codex%2Fskills%2Frepo-guardrails%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_b7e1f47c1a43"
+  }
+}

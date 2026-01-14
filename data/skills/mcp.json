@@ -1,0 +1,36 @@
+{
+  "id": "mcp",
+  "name": "mcp",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol (MCP) server development and tool management. Languages: Python, TypeScript. Capabilities: build MCP servers, integrate external APIs, discover/execute MC...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samhvw8",
+    "github": "samhvw8"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samhvw8/dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/samhvw8/dot-claude/main/skills/mcp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:17:22.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samhvw8%2Fdot-claude/skills%2Fmcp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_a05c223aae92"
+  }
+}

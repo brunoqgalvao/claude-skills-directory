@@ -1,0 +1,35 @@
+{
+  "id": "mip-modeling-expert",
+  "name": "mip-modeling-expert",
+  "version": "1.0.0",
+  "summary": "Use when formulating mixed integer programming (MIP) models, handling discontinuous variables, modeling logical constraints (either-or, conditional), or linearizing nonlinear terms",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sverzijl",
+    "github": "sverzijl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sverzijl/planning_latest",
+    "skill_md": "https://raw.githubusercontent.com/sverzijl/planning_latest/main/.claude/skills/mip-modeling-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:43.768Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sverzijl%2Fplanning_latest/.claude%2Fskills%2Fmip-modeling-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_61dfd5e2893f"
+  }
+}

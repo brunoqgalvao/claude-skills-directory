@@ -1,0 +1,36 @@
+{
+  "id": "create-workflow",
+  "name": "create-workflow",
+  "version": "1.0.0",
+  "summary": "Creates comprehensive constitution workflow documents that define repeatable processes. Use when establishing new processes, documenting recurring tasks, standardizing procedure...",
+  "verticals": [
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alvis",
+    "github": "alvis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alvis/.claude",
+    "skill_md": "https://raw.githubusercontent.com/alvis/.claude/main/plugins/governance/skills/create-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.479Z",
+  "created_at": "2025-12-23T01:29:44.867Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alvis%2F.claude/plugins%2Fgovernance%2Fskills%2Fcreate-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_8d90f275e099"
+  }
+}

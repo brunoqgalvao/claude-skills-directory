@@ -1,0 +1,36 @@
+{
+  "id": "causal-inference-root-cause",
+  "name": "causal-inference-root-cause",
+  "version": "1.0.0",
+  "summary": "Use when investigating why something happened and need to distinguish correlation from causation, identify root causes vs symptoms, test competing hypotheses, control for confou...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lyndonkl",
+    "github": "lyndonkl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lyndonkl/claude",
+    "skill_md": "https://raw.githubusercontent.com/lyndonkl/claude/main/skills/causal-inference-root-cause/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T17:25:49.000Z",
+  "created_at": "2025-12-23T01:29:23.828Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lyndonkl%2Fclaude/skills%2Fcausal-inference-root-cause%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_bd8e6420c345"
+  }
+}

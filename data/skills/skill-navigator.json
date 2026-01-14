@@ -1,0 +1,35 @@
+{
+  "id": "skill-navigator",
+  "name": "skill-navigator",
+  "version": "1.0.0",
+  "summary": "The 100th skill! Your intelligent guide to all 99 other skills. Recommends the perfect skill for any task, creates skill combinations, and helps you discover capabilities you di...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_categorized/wellness-health/skill-navigator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.449Z",
+  "created_at": "2025-12-22T16:52:31.229Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_categorized%2Fwellness-health%2Fskill-navigator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_f0157478540a"
+  }
+}

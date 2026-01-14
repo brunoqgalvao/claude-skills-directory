@@ -1,0 +1,36 @@
+{
+  "id": "video-comparer",
+  "name": "video-comparer",
+  "version": "1.0.0",
+  "summary": "This skill should be used when comparing two videos to analyze compression results or quality differences. Generates interactive HTML reports with quality metrics (PSNR, SSIM) a...",
+  "description": "# Video Comparer\n\n## Overview\n\nCompare two videos and generate an interactive HTML report analyzing compression results. The script extracts video metadata, calculates quality metrics (PSNR, SSIM), and creates frame-by-frame visual comparisons with three viewing modes: slider, side-by-side, and grid.\n\n## When to Use This Skill\n\nUse this skill when:\n- Comparing original and compressed videos\n- Analyzing video compression quality and efficiency\n- Evaluating codec performance or bitrate reduction impact\n- Users mention \"compare videos\", \"video quality\", \"compression analysis\", or \"before/after compression\"\n\n## Core Usage\n\n### Basic Command\n\n```bash\npython3 scripts/compare.py original.mp4 compressed.mp4\n```\n\nGenerates `comparison.html` with:\n- Video parameters (codec, resolution, bitrate, duration, file size)\n- Quality metrics (PSNR, SSIM, size/bitrate reduction percentages)\n- Frame-by-frame comparison (default: frames at 5s intervals)\n\n### Command Options\n\n```bash\n# Custom output file\npython3 scripts/compare.py original.mp4 compressed.mp4 -o report.html\n\n# Custom frame interval (larger = fewer frames, faster processing)\npython3 scripts/compare.py original.mp4 compressed.mp4 --interval 10\n\n# Batch comparison\nfor original in originals/*.mp4; do\n    compressed=\"compressed/$(basename \"$original\")\"\n    output=\"reports/$(basename \"$original\" .mp4).html\"\n    python3 scripts/compare.py \"$original\" \"$compressed\" -o \"$output\"\ndone\n```\n\n## Requirements\n\n### System Dependencies\n\n**FFmpeg and FFprobe** (required for video analysis and frame extraction):\n\n```bash\n# macOS\nbrew install ffmpeg\n\n# Ubuntu/Debian\nsudo apt update && sudo apt install ffmpeg\n\n# Windows\n# Download from https://ffmpeg.org/download.html\n# Or use: winget install ffmpeg\n```\n\n**Python 3.8+** (uses type hints, f-strings, pathlib)\n\n### Video Specifications\n\n- **Supported formats:** `.mp4` (recommended), `.mov`, `.avi`, `.mkv`, `.webm`\n- **File size limit:** 500MB per video (configurable)\n- **Processing time:** ~1-2 minutes for typical videos; varies by duration and frame interval\n\n## Script Behavior\n\n### Automatic Validation\n\nThe script automatically validates:\n- FFmpeg/FFprobe installation and availability\n- File existence, extensions, and size limits\n- Path security (prevents directory traversal)\n\nClear error messages with resolution guidance appear when validation fails.\n\n### Quality Metrics\n\nThe script calculates two standard quality metrics:\n\n**PSNR (Peak Signal-to-Noise Ratio):** Pixel-level similarity measurement (20-50 dB scale, higher is better)\n\n**SSIM (Structural Similarity Index):** Perceptual similarity measurement (0.0-1.0 scale, higher is better)\n\nFor detailed interpretation scales and quality thresholds, consult `references/video_metrics.md`.\n\n### Frame Extraction\n\nThe script extracts frames at specified intervals (default: 5 seconds), scales them to consistent height (800px) for comparison, and embeds them as base64 data URLs in self-contained HTML. Temporary files are automatically cleaned after processing.\n\n### Output Report\n\nThe generated HTML report includes:\n- **Slider Mode**: Drag to reveal original vs compressed (default)\n- **Side-by-Side Mode**: Simultaneous display for direct comparison\n- **Grid Mode**: Compact 2-column layout\n- **Zoom Controls**: 50%-200% magnification\n- Self-contained format (no server required, works offline)\n\n## Important Implementation Details\n\n### Security\n\nThe script implements:\n- Path validation (absolute paths, prevents directory traversal)\n- Command injection prevention (no `shell=True`, validated arguments)\n- Resource limits (file size, timeouts)\n- Custom exceptions: `ValidationError`, `FFmpegError`, `VideoComparisonError`\n\n### Common Error Scenarios\n\n**\"FFmpeg not found\"**: Install FFmpeg via platform package manager (see Requirements section)\n\n**\"File too large\"**: Compress videos before comparison, or adjust `MAX_FILE_SIZE_MB` in `scripts/compare.py`\n\n**\"Operation timed out\"**: Increase `FFMPEG_TIMEOUT` constant or use larger `--interval` value (processes fewer frames)\n\n**\"Frame count mismatch\"**: Videos have different durations/frame rates; script auto-truncates to minimum frame count and shows warning\n\n## Configuration\n\nThe script includes adjustable constants for file size limits, timeouts, frame dimensions, and extraction intervals. To customize behavior, edit the constants at the top of `scripts/compare.py`. For detailed configuration options and their impacts, consult `references/configuration.md`.\n\n## Reference Materials\n\nConsult these files for detailed information:\n- **`references/video_metrics.md`**: Quality metrics interpretation (PSNR/SSIM scales, compression targets, bitrate guidelines)\n- **`references/ffmpeg_commands.md`**: FFmpeg command reference (metadata extraction, frame extraction, troubleshooting)\n- **`references/configuration.md`**: Script configuration options and adjustable constants\n- **`assets/template.html`**: HTML report template for customizing viewing modes and styling",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daymade",
+    "github": "daymade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daymade/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/video-comparer/SKILL.md"
+  },
+  "stats": {
+    "stars": 154,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:30:48Z",
+  "created_at": "2025-10-22T11:17:31Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/daymade/claude-code-skills/blob/main/video-comparer/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_385ed52d31cf"
+  }
+}

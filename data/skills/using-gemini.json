@@ -1,0 +1,36 @@
+{
+  "id": "using-gemini",
+  "name": "using-gemini",
+  "version": "1.0.0",
+  "summary": "Use when needing to analyze images (screenshots, diagrams, photos), analyze videos (screencasts, recordings), summarize YouTube videos, fetch and analyze web content, or perform...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asermax",
+    "github": "asermax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asermax/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/asermax/claude-plugins/main/superpowers/skills/using-gemini/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.859Z",
+  "created_at": "2025-12-22T15:09:47.096Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asermax%2Fclaude-plugins/superpowers%2Fskills%2Fusing-gemini%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_71f366fb0c6a"
+  }
+}

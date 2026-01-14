@@ -1,0 +1,35 @@
+{
+  "id": "image-generation",
+  "name": "image-generation",
+  "version": "1.0.0",
+  "summary": "自动为文章生成配图，支持AI生成图片、公共领域图片、免费图库图片，并上传到ImgBB图床生成Markdown链接。当用户提到\"配图\"、\"插图\"、\"图片\"、\"生成图片\"、\"文章配图\"时使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alchaincyf",
+    "github": "alchaincyf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alchaincyf/glm-claude",
+    "skill_md": "https://raw.githubusercontent.com/alchaincyf/glm-claude/main/skills/image-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T04:58:37.000Z",
+  "created_at": "2025-12-23T01:28:50.983Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alchaincyf%2Fglm-claude/skills%2Fimage-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_80772cf29d15"
+  }
+}

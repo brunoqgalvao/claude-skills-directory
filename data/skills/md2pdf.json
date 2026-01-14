@@ -1,0 +1,35 @@
+{
+  "id": "md2pdf",
+  "name": "md2pdf",
+  "version": "1.0.0",
+  "summary": "Convert Markdown files to beautifully styled PDFs with full Chinese font support. Use when: (1) Converting .md files to PDF format, (2) Creating printable documents from Markdow...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aicoder2048",
+    "github": "aicoder2048"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aicoder2048/story-writer",
+    "skill_md": "https://raw.githubusercontent.com/aicoder2048/story-writer/main/.claude/skills/md2pdf/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.555Z",
+  "created_at": "2025-12-23T01:28:46.089Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aicoder2048%2Fstory-writer/.claude%2Fskills%2Fmd2pdf%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_78420d1acff4"
+  }
+}

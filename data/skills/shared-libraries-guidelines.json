@@ -1,0 +1,37 @@
+{
+  "id": "shared-libraries-guidelines",
+  "name": "shared-libraries-guidelines",
+  "version": "1.0.0",
+  "summary": "Shared libraries guidelines for Quantum Skincare's TypeScript shared code (types, validation, utils). Covers type definitions, Zod validation schemas, utility functions, contrac...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ZeroGravitySkin-Ron",
+    "github": "ZeroGravitySkin-Ron"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ZeroGravitySkin-Ron/Claude",
+    "skill_md": "https://raw.githubusercontent.com/ZeroGravitySkin-Ron/Claude/main/skills/shared-libraries-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:05.796Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ZeroGravitySkin-Ron%2FClaude/skills%2Fshared-libraries-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_3de21df3d18d"
+  }
+}

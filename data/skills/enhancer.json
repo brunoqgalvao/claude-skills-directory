@@ -1,0 +1,35 @@
+{
+  "id": "enhancer",
+  "name": "enhancer",
+  "version": "1.0.0",
+  "summary": "Transform simple prompts into comprehensive, context-aware prompts. Use for prompt enhancement, requirements analysis, and implementation strategy. Includes Context7 prompt engi...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wtthornton",
+    "github": "wtthornton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wtthornton/TappsCodingAgents",
+    "skill_md": "https://raw.githubusercontent.com/wtthornton/TappsCodingAgents/main/tapps_agents/resources/claude/skills/enhancer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T19:55:22.000Z",
+  "created_at": "2025-12-22T20:07:50.442Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wtthornton%2FTappsCodingAgents/tapps_agents%2Fresources%2Fclaude%2Fskills%2Fenhancer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_f9478c47e949"
+  }
+}

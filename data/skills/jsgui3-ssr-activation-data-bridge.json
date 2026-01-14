@@ -1,0 +1,37 @@
+{
+  "id": "jsgui3-ssr-activation-data-bridge",
+  "name": "jsgui3-ssr-activation-data-bridge",
+  "version": "1.0.0",
+  "summary": "Understand and debug how jsgui3 SSR markup becomes activated client-side, including persisted fields (data-jsgui-fields) and ctrl_fields (data-jsgui-ctrl-fields), and where to p...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metabench",
+    "github": "metabench"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metabench/copilot-dl-news",
+    "skill_md": "https://raw.githubusercontent.com/metabench/copilot-dl-news/main/docs/agi/skills/jsgui3-ssr-activation-data-bridge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:52.747Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metabench%2Fcopilot-dl-news/docs%2Fagi%2Fskills%2Fjsgui3-ssr-activation-data-bridge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_ef9b3704f2d1"
+  }
+}

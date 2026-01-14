@@ -1,0 +1,35 @@
+{
+  "id": "extract-pdf-text",
+  "name": "extract-pdf-text",
+  "version": "1.0.0",
+  "summary": "Extract text content from PDF files using pdfplumber",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hairihou",
+    "github": "hairihou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hairihou/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/hairihou/dotfiles/main/src/.claude/skills/extract-pdf-text/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.585Z",
+  "created_at": "2025-12-23T01:28:11.409Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hairihou%2Fdotfiles/src%2F.claude%2Fskills%2Fextract-pdf-text%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.585Z",
+    "uniqueId": "sk_0b2cb0b36d31"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "datadog-cli",
+  "name": "datadog-cli",
+  "version": "1.0.0",
+  "summary": "Datadog CLI for debugging and triaging. Use this skill when you need to:\nsearch Datadog logs, query metrics, tail logs in real-time, trace distributed requests,\ninvestigate erro...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ctdio",
+    "github": "ctdio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ctdio/datadog-cli",
+    "skill_md": "https://raw.githubusercontent.com/ctdio/datadog-cli/main/skills/datadog-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:57:06.022Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ctdio%2Fdatadog-cli/skills%2Fdatadog-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_11e273b26a4c"
+  }
+}

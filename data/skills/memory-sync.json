@@ -1,0 +1,35 @@
+{
+  "id": "memory-sync",
+  "name": "memory-sync",
+  "version": "1.0.0",
+  "summary": "Memory Sync Skill",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-ariff",
+    "github": "a-ariff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-ariff/Ariff-code-config",
+    "skill_md": "https://raw.githubusercontent.com/a-ariff/Ariff-code-config/main/.claude-plugin/plugins/memory-sync/skills/memory-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:06:50.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-ariff%2FAriff-code-config/.claude-plugin%2Fplugins%2Fmemory-sync%2Fskills%2Fmemory-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_97d838468725"
+  }
+}

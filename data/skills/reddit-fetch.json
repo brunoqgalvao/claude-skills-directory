@@ -1,0 +1,35 @@
+{
+  "id": "reddit-fetch",
+  "name": "reddit-fetch",
+  "version": "1.0.0",
+  "summary": "Fetch content from Reddit using Gemini CLI when WebFetch is blocked. Use when accessing Reddit URLs, researching topics on Reddit, or when Reddit returns 403/blocked errors. (user)",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ykdojo",
+    "github": "ykdojo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ykdojo/claude-code-tips",
+    "skill_md": "https://raw.githubusercontent.com/ykdojo/claude-code-tips/main/skills/reddit-fetch/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T15:22:45.000Z",
+  "created_at": "2025-12-23T01:28:36.619Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ykdojo%2Fclaude-code-tips/skills%2Freddit-fetch%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_73b45cb4c802"
+  }
+}

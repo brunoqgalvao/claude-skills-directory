@@ -1,0 +1,37 @@
+{
+  "id": "ax-bayesian-optimization",
+  "name": "ax-bayesian-optimization",
+  "version": "1.0.0",
+  "summary": "Bayesian optimization partner for materials science experiments using Meta Ax. Use when researchers want to optimize material properties, formulations, or process parameters. Su...",
+  "verticals": [
+    "support",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PEEKPerformer",
+    "github": "PEEKPerformer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PEEKPerformer/SkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/PEEKPerformer/SkillsRepo/main/ax-bayesian-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:14.378Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PEEKPerformer%2FSkillsRepo/ax-bayesian-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_15e603884e07"
+  }
+}

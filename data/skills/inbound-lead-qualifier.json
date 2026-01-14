@@ -1,0 +1,35 @@
+{
+  "id": "inbound-lead-qualifier",
+  "name": "inbound-lead-qualifier",
+  "version": "1.0.0",
+  "summary": "Analyze inbound leads (form fills, demo requests) and score based on ICP fit, intent, and urgency. Auto-generates qualification questions, routes to right rep, and suggests pers...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gked2121",
+    "github": "gked2121"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gked2121/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gked2121/claude-skills/main/inbound-lead-qualifier/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.461Z",
+  "created_at": "2025-12-22T17:57:55.332Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gked2121%2Fclaude-skills/inbound-lead-qualifier%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_d55c9924e261"
+  }
+}

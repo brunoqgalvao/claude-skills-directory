@@ -1,0 +1,37 @@
+{
+  "id": "gcp-nodejs-cicd",
+  "name": "gcp-nodejs-cicd",
+  "version": "1.0.0",
+  "summary": "Generate CI/CD pipelines for Node.js and Angular applications on GCP with Cloud Build and GKE deployment. Use when creating or updating deployment pipelines for Node.js services...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "igalbakal",
+    "github": "igalbakal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/igalbakal/idp-gen-x-ai-skills",
+    "skill_md": "https://raw.githubusercontent.com/igalbakal/idp-gen-x-ai-skills/main/examples/skills/gcp-nodejs-cicd/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T05:01:38.000Z",
+  "created_at": "2025-12-23T01:29:16.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/igalbakal%2Fidp-gen-x-ai-skills/examples%2Fskills%2Fgcp-nodejs-cicd%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_cfe5e076fbfc"
+  }
+}

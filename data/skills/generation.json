@@ -1,0 +1,35 @@
+{
+  "id": "generation",
+  "name": "generation",
+  "version": "1.0.0",
+  "summary": "Generates answers by synthesizing information from retrieved documents with citations. Use as final RAG pipeline step, when creating answers from multiple sources, or when the u...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "edangx100",
+    "github": "edangx100"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/edangx100/adaptive_rag_vercel",
+    "skill_md": "https://raw.githubusercontent.com/edangx100/adaptive_rag_vercel/main/.claude/skills/generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.839Z",
+  "created_at": "2025-12-22T16:29:21.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/edangx100%2Fadaptive_rag_vercel/.claude%2Fskills%2Fgeneration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_322b48f13a34"
+  }
+}

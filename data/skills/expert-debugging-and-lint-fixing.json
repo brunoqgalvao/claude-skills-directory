@@ -1,0 +1,36 @@
+{
+  "id": "expert-debugging-and-lint-fixing",
+  "name": "expert-debugging-and-lint-fixing",
+  "version": "1.0.0",
+  "summary": "Systematic debugging workflow to reproduce, isolate, and fix hard software bugs, resolve related lint issues, and add tests and guardrails to prevent regressions. This skill sho...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "auldsyababua",
+    "github": "auldsyababua"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/auldsyababua/instructor-workflow",
+    "skill_md": "https://raw.githubusercontent.com/auldsyababua/instructor-workflow/main/skills/expert-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:13.643Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/auldsyababua%2Finstructor-workflow/skills%2Fexpert-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_60fd13ef0bd6"
+  }
+}

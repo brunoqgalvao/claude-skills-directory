@@ -1,0 +1,35 @@
+{
+  "id": "novel-generator",
+  "name": "novel-generator",
+  "version": "1.0.0",
+  "summary": "智能小说生成器v2.0，支持长篇小说的断点续传、智能上下文管理、三层压缩机制、章节跳转、智能导入设定、AI辅助编辑和记忆管理。当用户需要创作长篇小说、管理复杂故事结构、从外部资源导入设定、或需要AI辅助进行持续性的创意写作时使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jasonzhangf",
+    "github": "Jasonzhangf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jasonzhangf/claudecode-skills",
+    "skill_md": "https://raw.githubusercontent.com/Jasonzhangf/claudecode-skills/main/novelgen/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T07:19:48.000Z",
+  "created_at": "2025-12-22T19:57:14.357Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jasonzhangf%2Fclaudecode-skills/novelgen%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_2bd17da3be59"
+  }
+}

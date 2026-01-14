@@ -1,0 +1,36 @@
+{
+  "id": "build-transformations",
+  "name": "build-transformations",
+  "version": "1.0.0",
+  "summary": "Define natural transformations for cross-cutting concerns. Maps\nstandardization config to categorical transformations (middleware,\ndecorators). Use when: adding auth, logging, t...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BellaBe",
+    "github": "BellaBe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BellaBe/ideas-os",
+    "skill_md": "https://raw.githubusercontent.com/BellaBe/ideas-os/main/.claude/skills/engineering-build-transformations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:14:43.169Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BellaBe%2Fideas-os/.claude%2Fskills%2Fengineering-build-transformations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_8fb0846df6e1"
+  }
+}

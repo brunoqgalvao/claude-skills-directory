@@ -1,0 +1,35 @@
+{
+  "id": "credit-risk",
+  "name": "credit-risk",
+  "version": "1.0.0",
+  "summary": "Assess credit risk and default probability for bonds using credit spreads, rating transitions, and recovery analysis. Requires numpy>=1.24.0, pandas>=2.0.0, scipy>=1.10.0. Use w...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "keith-mvs",
+    "github": "keith-mvs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/keith-mvs/ordinis",
+    "skill_md": "https://raw.githubusercontent.com/keith-mvs/ordinis/main/docs/knowledge-base/domains/signals/fixed-income/credit-risk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.671Z",
+  "created_at": "2025-12-22T22:16:18.926Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/keith-mvs%2Fordinis/docs%2Fknowledge-base%2Fdomains%2Fsignals%2Ffixed-income%2Fcredit-risk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.671Z",
+    "uniqueId": "sk_27120575788d"
+  }
+}

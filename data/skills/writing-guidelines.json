@@ -1,0 +1,35 @@
+{
+  "id": "writing-guidelines",
+  "name": "writing-guidelines",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"write a resume\", \"write a cover letter\", \"describe career achievements\", \"express accomplishments appropriately\", or needs guida...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "moseoh",
+    "github": "moseoh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/moseoh/mst",
+    "skill_md": "https://raw.githubusercontent.com/moseoh/mst/main/assets/claude/plugins/marketplaces/moseoh-marketplaces/plugins/resume-builder/skills/writing-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:38.626Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/moseoh%2Fmst/assets%2Fclaude%2Fplugins%2Fmarketplaces%2Fmoseoh-marketplaces%2Fplugins%2Fresume-builder%2Fskills%2Fwriting-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_0715aaa508a7"
+  }
+}

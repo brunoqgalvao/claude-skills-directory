@@ -1,0 +1,35 @@
+{
+  "id": "scanning-for-xss-vulnerabilities",
+  "name": "scanning-for-xss-vulnerabilities",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to automatically scan for XSS (Cross-Site Scripting) vulnerabilities in code. It is triggered when the user requests to \"scan for XSS vulnerabilities\",...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/security/xss-vulnerability-scanner/skills/xss-vulnerability-scanner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:51:11.858Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskills-migration-20251108-070147%2Fplugins%2Fsecurity%2Fxss-vulnerability-scanner%2Fskills%2Fxss-vulnerability-scanner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_f4cc80ef3ec6"
+  }
+}

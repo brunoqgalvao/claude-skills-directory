@@ -1,0 +1,35 @@
+{
+  "id": "review-task",
+  "name": "review-task",
+  "version": "1.0.0",
+  "summary": "Orchestrate comprehensive quality assessment by executing 5 specialized quality skills in sequence and synthesizing results into a unified quality gate decision. This skill shou...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adolfoaranaes12",
+    "github": "adolfoaranaes12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adolfoaranaes12/BMAD-ENHANCED",
+    "skill_md": "https://raw.githubusercontent.com/adolfoaranaes12/BMAD-ENHANCED/main/.claude/skills/review-task/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:08.993Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adolfoaranaes12%2FBMAD-ENHANCED/.claude%2Fskills%2Freview-task%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_51e3690ef466"
+  }
+}

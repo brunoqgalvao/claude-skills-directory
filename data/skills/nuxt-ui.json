@@ -1,0 +1,36 @@
+{
+  "id": "nuxt-ui",
+  "name": "nuxt-ui",
+  "version": "1.0.0",
+  "summary": "Use when building styled UI with @nuxt/ui v4 components (Button, Modal, Form, Table, etc.) - provides ready-to-use components with Tailwind Variants theming. Use vue skill for r...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onmax",
+    "github": "onmax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onmax/nuxt-skills",
+    "skill_md": "https://raw.githubusercontent.com/onmax/nuxt-skills/main/skills/nuxt-ui/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:55:01.950Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onmax%2Fnuxt-skills/skills%2Fnuxt-ui%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_063330ef8e50"
+  }
+}

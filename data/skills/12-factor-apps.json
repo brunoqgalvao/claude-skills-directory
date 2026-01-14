@@ -1,0 +1,36 @@
+{
+  "id": "12-factor-apps",
+  "name": "12-factor-apps",
+  "version": "1.0.0",
+  "summary": "Perform 12-Factor App compliance analysis on any codebase. Use when evaluating application architecture, auditing SaaS applications, or reviewing cloud-native applications again...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "existential-birds",
+    "github": "existential-birds"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/existential-birds/beagle",
+    "skill_md": "https://raw.githubusercontent.com/existential-birds/beagle/main/skills/12-factor-apps/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:12:41.881Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/existential-birds%2Fbeagle/skills%2F12-factor-apps%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_0c0f23fdf19d"
+  }
+}

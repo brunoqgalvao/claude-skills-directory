@@ -1,0 +1,37 @@
+{
+  "id": "gui-tools",
+  "name": "gui-tools",
+  "version": "1.0.0",
+  "summary": "Provides guidance for installing, configuring, and choosing Git graphical interface clients (GitKraken, Sourcetree, GitHub Desktop) across platforms. Compares features, licensin...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/git/skills/gui-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.496Z",
+  "created_at": "2025-12-23T01:29:27.401Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fgit%2Fskills%2Fgui-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_4f14845bf7a7"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "policyengine-us",
+  "name": "policyengine-us",
+  "version": "1.0.0",
+  "summary": "PolicyEngine-US tax and benefit microsimulation patterns, situation creation, and common workflows",
+  "verticals": [
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PolicyEngine",
+    "github": "PolicyEngine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PolicyEngine/policyengine-claude",
+    "skill_md": "https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/domain-knowledge/policyengine-us-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:03:59.797Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PolicyEngine%2Fpolicyengine-claude/skills%2Fdomain-knowledge%2Fpolicyengine-us-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_5cdc69c43455"
+  }
+}

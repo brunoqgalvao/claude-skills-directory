@@ -1,0 +1,37 @@
+{
+  "id": "gtm-javascript",
+  "name": "gtm-javascript",
+  "version": "1.0.0",
+  "summary": "Generate ES5-compliant JavaScript for Google Tag Manager Custom HTML tags. Use when writing GTM tags, dataLayer code, or analytics implementations.",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ekusiadadus",
+    "github": "ekusiadadus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ekusiadadus/claude-skill-gtm-javascript",
+    "skill_md": "https://raw.githubusercontent.com/ekusiadadus/claude-skill-gtm-javascript/main/skills/gtm-javascript/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T03:22:10.000Z",
+  "created_at": "2025-12-22T17:05:24.219Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ekusiadadus%2Fclaude-skill-gtm-javascript/skills%2Fgtm-javascript%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_57ed405afa0b"
+  }
+}

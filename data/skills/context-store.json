@@ -1,0 +1,36 @@
+{
+  "id": "context-store",
+  "name": "context-store",
+  "version": "1.0.0",
+  "summary": "Context Store - Document management system for storing, querying, and retrieving documents across Claude Code sessions. Use this to maintain knowledge bases, share documents bet...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rawe",
+    "github": "rawe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rawe/claude-agent-orchestrator",
+    "skill_md": "https://raw.githubusercontent.com/rawe/claude-agent-orchestrator/main/plugins/context-store/skills/context-store/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.775Z",
+  "created_at": "2025-12-22T19:58:08.275Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rawe%2Fclaude-agent-orchestrator/plugins%2Fcontext-store%2Fskills%2Fcontext-store%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.775Z",
+    "uniqueId": "sk_8af9df8f162a"
+  }
+}

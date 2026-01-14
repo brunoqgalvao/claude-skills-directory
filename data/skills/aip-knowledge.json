@@ -1,0 +1,37 @@
+{
+  "id": "aip-knowledge",
+  "name": "aip-knowledge",
+  "version": "1.0.0",
+  "summary": "Reference knowledge for Google API Improvement Proposals (AIP), adapted for REST/OpenAPI. Use when reviewing APIs, designing endpoints, or explaining AIP rules. Contains pattern...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "getlarge",
+    "github": "getlarge"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/getlarge/claude-aip-plugins",
+    "skill_md": "https://raw.githubusercontent.com/getlarge/claude-aip-plugins/main/plugins/aip-api-design/skills/aip-knowledge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:07.679Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/getlarge%2Fclaude-aip-plugins/plugins%2Faip-api-design%2Fskills%2Faip-knowledge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_6fe78d364e6f"
+  }
+}

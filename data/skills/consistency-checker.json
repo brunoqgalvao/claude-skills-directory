@@ -1,0 +1,35 @@
+{
+  "id": "consistency-checker",
+  "name": "consistency-checker",
+  "version": "1.0.0",
+  "summary": "Check components for pattern consistency and violations. Use when reviewing code, auditing components, checking for pattern violations, or validating component implementations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sernstberger",
+    "github": "sernstberger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sernstberger/base-joy",
+    "skill_md": "https://raw.githubusercontent.com/sernstberger/base-joy/main/.claude/skills/consistency-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:57.664Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sernstberger%2Fbase-joy/.claude%2Fskills%2Fconsistency-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_e112ddc497bb"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "chat-integrator",
+  "name": "chat-integrator",
+  "version": "1.0.0",
+  "summary": "Automatically integrates processed media (audio transcriptions and image summaries) into chat.md files at the correct timestamp position. Use this when you want to merge process...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asapMaki",
+    "github": "asapMaki"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asapMaki/vozzy-whatsapp",
+    "skill_md": "https://raw.githubusercontent.com/asapMaki/vozzy-whatsapp/main/.claude/skills/chat-integrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T22:06:41.000Z",
+  "created_at": "2025-12-23T01:28:57.033Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asapMaki%2Fvozzy-whatsapp/.claude%2Fskills%2Fchat-integrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.534Z",
+    "uniqueId": "sk_6abdd9922cea"
+  }
+}

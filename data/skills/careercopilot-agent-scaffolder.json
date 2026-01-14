@@ -1,0 +1,36 @@
+{
+  "id": "careercopilot-agent-scaffolder",
+  "name": "careercopilot-agent-scaffolder",
+  "version": "1.0.0",
+  "summary": "Scaffolds a new Python agent for autonomous AI tasks in 'src/agents/'. Agents are autonomous components that handle complex operations (resume analysis, job matching, KSC genera...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "okgoogle13",
+    "github": "okgoogle13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/okgoogle13/careercopilot",
+    "skill_md": "https://raw.githubusercontent.com/okgoogle13/careercopilot/main/.claude/skills/careercopilot-agent-scaffolder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T12:49:18.000Z",
+  "created_at": "2025-12-23T01:28:20.535Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/okgoogle13%2Fcareercopilot/.claude%2Fskills%2Fcareercopilot-agent-scaffolder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_fc1b85c23636"
+  }
+}

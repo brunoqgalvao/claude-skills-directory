@@ -1,0 +1,36 @@
+{
+  "id": "accessibility-audit",
+  "name": "accessibility-audit",
+  "version": "1.0.0",
+  "summary": "Audit code for WCAG 2.1 AA and EN 301 549 compliance. Checks keyboard navigation, ARIA usage, color contrast, forms, and media accessibility.",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoeffer",
+    "github": "astoeffer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoeffer/plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/astoeffer/plugin-marketplace/main/plugins/moodle-dev-pro/skills/accessibility-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T09:30:53.000Z",
+  "created_at": "2025-12-22T15:52:04.731Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoeffer%2Fplugin-marketplace/plugins%2Fmoodle-dev-pro%2Fskills%2Faccessibility-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_0836f5ba229d"
+  }
+}

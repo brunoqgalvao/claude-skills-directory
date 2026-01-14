@@ -1,0 +1,37 @@
+{
+  "id": "dataform-engineering-fundamentals",
+  "name": "dataform-engineering-fundamentals",
+  "version": "1.0.0",
+  "summary": "Use when developing BigQuery Dataform transformations, SQLX files, source declarations, or troubleshooting pipelines - enforces TDD workflow (tests first), ALWAYS use ${ref()} n...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ihistand",
+    "github": "ihistand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ihistand/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ihistand/claude-skills/main/dataform-engineering-fundamentals/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.605Z",
+  "created_at": "2025-12-23T00:03:52.293Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ihistand%2Fclaude-skills/dataform-engineering-fundamentals%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.605Z",
+    "uniqueId": "sk_2e352375f609"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sanity-visual-editing-setup",
+  "name": "sanity-visual-editing-setup",
+  "version": "1.0.0",
+  "summary": "Configures Sanity Visual Editing for your front-end framework. Use when setting up live preview or click-to-edit overlays.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sanity-io",
+    "github": "sanity-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sanity-io/agent-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/sanity-io/agent-toolkit/main/sanity-plugin/skills/sanity-visual-editing-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:10.617Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sanity-io%2Fagent-toolkit/sanity-plugin%2Fskills%2Fsanity-visual-editing-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_89416b08b39c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "generating-commit-messages",
+  "name": "generating-commit-messages",
+  "version": "1.0.0",
+  "summary": "Generate clear Conventional Commit messages from git diffs; use when writing commits, reviewing staged work, or when the user requests a commit.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "funiq-lab",
+    "github": "funiq-lab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/funiq-lab/xagents",
+    "skill_md": "https://raw.githubusercontent.com/funiq-lab/xagents/main/.claude/skills/commit-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T06:02:49.000Z",
+  "created_at": "2025-12-22T14:55:50.912Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/funiq-lab%2Fxagents/.claude%2Fskills%2Fcommit-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_90966867a240"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "discover-realtime",
+  "name": "discover-realtime",
+  "version": "1.0.0",
+  "summary": "Automatically discover realtime communication skills when working with realtime. Activates for realtime development tasks.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rand",
+    "github": "rand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rand/cc-polymath",
+    "skill_md": "https://raw.githubusercontent.com/rand/cc-polymath/main/skills/discover-realtime/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T05:34:12.000Z",
+  "created_at": "2025-12-23T01:28:31.639Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rand%2Fcc-polymath/skills%2Fdiscover-realtime%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_f00d9a7ee308"
+  }
+}

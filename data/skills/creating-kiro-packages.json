@@ -1,0 +1,35 @@
+{
+  "id": "creating-kiro-packages",
+  "name": "creating-kiro-packages",
+  "version": "1.0.0",
+  "summary": "Use when creating Kiro steering files or hooks - provides inclusion modes (always/fileMatch/manual), foundational files (product.md/tech.md/structure.md), and JSON hook configur...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pr-pm",
+    "github": "pr-pm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pr-pm/prpm",
+    "skill_md": "https://raw.githubusercontent.com/pr-pm/prpm/main/.claude/skills/creating-kiro-packages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:26.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pr-pm%2Fprpm/.claude%2Fskills%2Fcreating-kiro-packages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_282ffd952caf"
+  }
+}

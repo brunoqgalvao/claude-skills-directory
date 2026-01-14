@@ -1,0 +1,36 @@
+{
+  "id": "troubleshooting-kubernetes",
+  "name": "troubleshooting-kubernetes",
+  "version": "1.0.0",
+  "summary": "Diagnoses and fixes Kubernetes issues with interactive remediation. Use when pods crash (CrashLoopBackOff, OOMKilled), services unreachable (502/503, empty endpoints), deploymen...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "galihcitta",
+    "github": "galihcitta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/galihcitta/dotclaudeskills",
+    "skill_md": "https://raw.githubusercontent.com/galihcitta/dotclaudeskills/main/skills/troubleshooting-kubernetes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.525Z",
+  "created_at": "2025-12-23T01:29:05.446Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/galihcitta%2Fdotclaudeskills/skills%2Ftroubleshooting-kubernetes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.525Z",
+    "uniqueId": "sk_fe6635987f0e"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "collect-selector",
+  "name": "collect-selector",
+  "version": "1.0.0",
+  "summary": "Use this skill to determine the correct data-testid selector for Playwright or end-to-end tests.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "venturo-id",
+    "github": "venturo-id"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/venturo-id/venturo-claude",
+    "skill_md": "https://raw.githubusercontent.com/venturo-id/venturo-claude/main/plugins/venturo-e2e-web/skills/collect-selector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:20.283Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/venturo-id%2Fventuro-claude/plugins%2Fventuro-e2e-web%2Fskills%2Fcollect-selector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_b26220b19ebc"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "contract-tester",
+  "name": "contract-tester",
+  "version": "1.0.0",
+  "summary": "Test and validate API contracts against specifications",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vladm3105",
+    "github": "vladm3105"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vladm3105/aidoc-flow-framework",
+    "skill_md": "https://raw.githubusercontent.com/vladm3105/aidoc-flow-framework/main/.claude/skills/contract-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:11:45.117Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vladm3105%2Faidoc-flow-framework/.claude%2Fskills%2Fcontract-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_88371aac1a37"
+  }
+}

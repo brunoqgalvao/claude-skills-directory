@@ -1,0 +1,36 @@
+{
+  "id": "sensitivity-analysis",
+  "name": "sensitivity-analysis",
+  "version": "1.0.0",
+  "summary": "Conduct sensitivity analyses to test robustness of findings. Use when: (1) Testing assumption violations, (2) Meta-analysis robustness, (3) Handling missing data, (4) Examining ...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoreyai",
+    "github": "astoreyai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoreyai/ai_scientist",
+    "skill_md": "https://raw.githubusercontent.com/astoreyai/ai_scientist/main/skills/sensitivity-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:50.403Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoreyai%2Fai_scientist/skills%2Fsensitivity-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_8c703f35292a"
+  }
+}

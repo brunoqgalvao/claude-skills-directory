@@ -1,0 +1,37 @@
+{
+  "id": "gtm-api",
+  "name": "gtm-api",
+  "version": "1.0.0",
+  "summary": "Expert guidance for Google Tag Manager REST API v2 including authentication, programmatic container management, automation scripts, bulk operations, and GTM configuration backup...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henkisdabro",
+    "github": "henkisdabro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henkisdabro/wookstar-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-code-plugins/main/gtm-suite/skills/gtm-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:42.362Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henkisdabro%2Fwookstar-claude-code-plugins/gtm-suite%2Fskills%2Fgtm-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_a41cce7617df"
+  }
+}

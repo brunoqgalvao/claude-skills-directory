@@ -1,0 +1,36 @@
+{
+  "id": "cloud-deploy",
+  "name": "cloud-deploy",
+  "version": "1.0.0",
+  "summary": "Deploy Kubernetes manifests to the mono cluster, manage Spacelift stacks, and run cloud infrastructure operations. Use when asked to deploy, check cluster status, or manage clou...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "neongreen",
+    "github": "neongreen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/neongreen/mono",
+    "skill_md": "https://raw.githubusercontent.com/neongreen/mono/main/.claude/skills/cloud-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:43.270Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/neongreen%2Fmono/.claude%2Fskills%2Fcloud-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_4010d4f3329d"
+  }
+}

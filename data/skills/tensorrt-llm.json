@@ -1,0 +1,36 @@
+{
+  "id": "tensorrt-llm",
+  "name": "tensorrt-llm",
+  "version": "1.0.0",
+  "summary": "Optimizes LLM inference with NVIDIA TensorRT for maximum throughput and lowest latency. Use for production deployment on NVIDIA GPUs (A100/H100), when you need 10-100x faster in...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/12-inference-serving/tensorrt-llm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T22:51:38.000Z",
+  "created_at": "2025-12-22T17:51:01.372Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/12-inference-serving%2Ftensorrt-llm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.462Z",
+    "uniqueId": "sk_0351ec659f04"
+  }
+}

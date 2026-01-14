@@ -1,0 +1,35 @@
+{
+  "id": "scope-capture",
+  "name": "scope-capture",
+  "version": "1.0.0",
+  "summary": "REPL debugging tool for capturing and inspecting local scope at runtime.\nUse when debugging functions, investigating test failures, understanding intermediate values,\nor when yo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ramblurr",
+    "github": "Ramblurr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ramblurr/nix-devenv",
+    "skill_md": "https://raw.githubusercontent.com/Ramblurr/nix-devenv/main/prompts/skills/clojure-scope-capture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:55:05.028Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ramblurr%2Fnix-devenv/prompts%2Fskills%2Fclojure-scope-capture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_8f65968b4913"
+  }
+}

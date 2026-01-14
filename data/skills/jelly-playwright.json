@@ -1,0 +1,35 @@
+{
+  "id": "jelly-playwright",
+  "name": "jelly-playwright",
+  "version": "1.0.0",
+  "summary": "Playwright 기반 브라우저 자동화 및 E2E 테스트 스킬. CLI 명령어와 재사용 가능한 스크립트로 브라우저 작업 수행. 스크린샷 캡처, 웹 스크래핑, 폼 자동화, E2E 테스트 지원.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-jelly",
+    "github": "dev-jelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-jelly/jelly-dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/dev-jelly/jelly-dotclaude/main/skills/jelly-playwright/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:09:56.649Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-jelly%2Fjelly-dotclaude/skills%2Fjelly-playwright%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_a5d0cfaa653c"
+  }
+}

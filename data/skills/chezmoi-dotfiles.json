@@ -1,0 +1,35 @@
+{
+  "id": "chezmoi-dotfiles",
+  "name": "chezmoi-dotfiles",
+  "version": "1.0.0",
+  "summary": "Manage dotfiles using chezmoi. Use when creating, modifying, or deploying dotfiles, shell functions, or configuration files in this repository.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "craigtkhill",
+    "github": "craigtkhill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/craigtkhill/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/craigtkhill/dotfiles/main/.claude/skills/chezmoi-dotfiles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.556Z",
+  "created_at": "2025-12-23T01:28:44.744Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/craigtkhill%2Fdotfiles/.claude%2Fskills%2Fchezmoi-dotfiles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_0148d2bec152"
+  }
+}

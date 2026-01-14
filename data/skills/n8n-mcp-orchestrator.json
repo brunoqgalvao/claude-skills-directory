@@ -1,0 +1,37 @@
+{
+  "id": "n8n-mcp-orchestrator",
+  "name": "n8n-mcp-orchestrator",
+  "version": "1.0.0",
+  "summary": "Expert MCP (Model Context Protocol) orchestration with n8n workflow automation. Master bidirectional MCP integration, expose n8n workflows as AI agent tools, consume MCP servers...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/crush-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/manutej/crush-mcp-server/main/.claude/skills/n8n-mcp-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:26:56.228Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fcrush-mcp-server/.claude%2Fskills%2Fn8n-mcp-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_80551bd56c38"
+  }
+}

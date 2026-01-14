@@ -1,0 +1,35 @@
+{
+  "id": "sync-agent-configs",
+  "name": "sync-agent-configs",
+  "version": "1.0.0",
+  "summary": "Sync skill definitions to agent proxy files (.agent/workflows/skills.md and .github/copilot-instructions.md). Use after adding, removing, or modifying skills.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dparedesi",
+    "github": "dparedesi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dparedesi/YTScribe",
+    "skill_md": "https://raw.githubusercontent.com/dparedesi/YTScribe/main/.claude/skills/sync-agent-configs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T10:40:17.000Z",
+  "created_at": "2025-12-22T15:51:33.071Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dparedesi%2FYTScribe/.claude%2Fskills%2Fsync-agent-configs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_929798e48c9b"
+  }
+}

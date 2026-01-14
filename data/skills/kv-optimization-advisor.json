@@ -1,0 +1,36 @@
+{
+  "id": "kv-optimization-advisor",
+  "name": "kv-optimization-advisor",
+  "version": "1.0.0",
+  "summary": "Automatically optimizes Cloudflare KV storage patterns, suggesting parallel operations, caching strategies, and storage choice guidance",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hirefrank",
+    "github": "hirefrank"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hirefrank/hirefrank-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/hirefrank/hirefrank-marketplace/main/plugins/edge-stack/skills/kv-optimization-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:46.888Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hirefrank%2Fhirefrank-marketplace/plugins%2Fedge-stack%2Fskills%2Fkv-optimization-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_58c1c78a0bdd"
+  }
+}

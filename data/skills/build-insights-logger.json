@@ -1,0 +1,37 @@
+{
+  "id": "build-insights-logger",
+  "name": "build-insights-logger",
+  "version": "1.0.0",
+  "summary": "Automatically log meaningful insights, discoveries, and decisions during coding sessions. Capture non-trivial learnings about edge cases, design decisions, patterns, and impleme...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanonn",
+    "github": "nathanonn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanonn/abilities-api-internal-links",
+    "skill_md": "https://raw.githubusercontent.com/nathanonn/abilities-api-internal-links/main/.claude/skills/build-insights-logger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T05:58:36.000Z",
+  "created_at": "2025-12-23T01:29:33.929Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanonn%2Fabilities-api-internal-links/.claude%2Fskills%2Fbuild-insights-logger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_88d6bb57fc8e"
+  }
+}

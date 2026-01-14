@@ -1,0 +1,36 @@
+{
+  "id": "d3-geo",
+  "name": "d3-geo",
+  "version": "1.0.0",
+  "summary": "Use when creating maps, working with geographic projections, or processing GeoJSON data. Invoke for world maps, choropleth maps, projection types, geo path generators, spherical...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zacharyr0th",
+    "github": "zacharyr0th"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zacharyr0th/next-starter",
+    "skill_md": "https://raw.githubusercontent.com/zacharyr0th/next-starter/main/.claude/skills/d3/d3-geo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.657Z",
+  "created_at": "2025-12-22T23:00:32.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zacharyr0th%2Fnext-starter/.claude%2Fskills%2Fd3%2Fd3-geo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.657Z",
+    "uniqueId": "sk_9b755c938363"
+  }
+}

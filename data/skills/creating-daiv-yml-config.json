@@ -1,0 +1,36 @@
+{
+  "id": "creating-daiv-yml-config",
+  "name": "creating-daiv-yml-config",
+  "version": "1.0.0",
+  "summary": "Creates or updates .daiv.yml configuration file with sandbox settings (base_image and format_code commands) based on repository content. Use when users request DAIV configuratio...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "srtab",
+    "github": "srtab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/srtab/daiv",
+    "skill_md": "https://raw.githubusercontent.com/srtab/daiv/main/daiv/automation/agents/skills/builtin/creating-daiv-yml-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:09.419Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/srtab%2Fdaiv/daiv%2Fautomation%2Fagents%2Fskills%2Fbuiltin%2Fcreating-daiv-yml-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_a8542842f0f0"
+  }
+}

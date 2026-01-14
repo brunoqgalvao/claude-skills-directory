@@ -1,0 +1,36 @@
+{
+  "id": "context7-tools",
+  "name": "context7-tools",
+  "version": "1.0.0",
+  "summary": "Queries Context7 library documentation via unified Python CLI. Use when resolving library IDs, fetching API references, code examples, or conceptual guides for any programming l...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bsamiee",
+    "github": "bsamiee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bsamiee/Parametric_Portal",
+    "skill_md": "https://raw.githubusercontent.com/bsamiee/Parametric_Portal/main/.claude/skills/context7-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T03:55:39.000Z",
+  "created_at": "2025-12-23T01:28:28.916Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bsamiee%2FParametric_Portal/.claude%2Fskills%2Fcontext7-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_e59d1d9a2bb1"
+  }
+}

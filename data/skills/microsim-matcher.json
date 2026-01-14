@@ -1,0 +1,35 @@
+{
+  "id": "microsim-matcher",
+  "name": "microsim-matcher",
+  "version": "1.0.0",
+  "summary": "This skill analyzes diagram, chart, or simulation specifications and returns a ranked list of the most suitable MicroSim generator skills to use. It compares the specification a...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vishalsachdev",
+    "github": "vishalsachdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vishalsachdev/database-management",
+    "skill_md": "https://raw.githubusercontent.com/vishalsachdev/database-management/main/.claude-skills/skills/microsim-matcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.450Z",
+  "created_at": "2025-12-23T01:29:51.339Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vishalsachdev%2Fdatabase-management/.claude-skills%2Fskills%2Fmicrosim-matcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_1256fbc37862"
+  }
+}

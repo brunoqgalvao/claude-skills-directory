@@ -1,0 +1,35 @@
+{
+  "id": "docs-architect",
+  "name": "docs-architect",
+  "version": "1.0.0",
+  "summary": "Technical documentation architect that creates comprehensive technical documentation (both short-form guides and long-form manuals) with architecture diagrams, design rationale,...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amo-tech-ai",
+    "github": "amo-tech-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amo-tech-ai/skybox-gamehub",
+    "skill_md": "https://raw.githubusercontent.com/amo-tech-ai/skybox-gamehub/main/.claude/skills/docs-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.679Z",
+  "created_at": "2025-12-22T22:11:42.877Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amo-tech-ai%2Fskybox-gamehub/.claude%2Fskills%2Fdocs-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.679Z",
+    "uniqueId": "sk_54e820a89673"
+  }
+}

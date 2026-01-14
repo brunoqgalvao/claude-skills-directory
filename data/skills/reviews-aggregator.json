@@ -1,0 +1,35 @@
+{
+  "id": "reviews-aggregator",
+  "name": "reviews-aggregator",
+  "version": "1.0.0",
+  "summary": "Aggregates user reviews from Amazon/Reddit and expert reviews from specialized sites with sentiment analysis. Use when user asks to 'get reviews', 'what do users say', 'aggregat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lola69160",
+    "github": "lola69160"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lola69160/claude-product-comparison",
+    "skill_md": "https://raw.githubusercontent.com/lola69160/claude-product-comparison/main/skills/reviews-aggregator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:18.036Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lola69160%2Fclaude-product-comparison/skills%2Freviews-aggregator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_a1a26d9c21eb"
+  }
+}

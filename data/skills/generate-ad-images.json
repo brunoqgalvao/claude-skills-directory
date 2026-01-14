@@ -1,0 +1,36 @@
+{
+  "id": "generate-ad-images",
+  "name": "generate-ad-images",
+  "version": "1.0.0",
+  "summary": "Generate two distinct, AI-powered image variations for advertising campaigns using Google Gemini's image generation capabilities. Use when creating visual assets for ads based o...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feed-mob",
+    "github": "feed-mob"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feed-mob/feedmob-adpilot-mcp",
+    "skill_md": "https://raw.githubusercontent.com/feed-mob/feedmob-adpilot-mcp/main/src/plugins/generate-ad-images/skills/generate-ad-images/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:52:12.796Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feed-mob%2Ffeedmob-adpilot-mcp/src%2Fplugins%2Fgenerate-ad-images%2Fskills%2Fgenerate-ad-images%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_20a36e9cac93"
+  }
+}

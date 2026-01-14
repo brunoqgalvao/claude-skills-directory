@@ -1,0 +1,35 @@
+{
+  "id": "scikit-bio",
+  "name": "scikit-bio",
+  "version": "1.0.0",
+  "summary": "Biological data toolkit. Sequence analysis, alignments, phylogenetic trees, diversity metrics (alpha/beta, UniFrac), ordination (PCoA), PERMANOVA, FASTA/Newick I/O, for microbio...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/scientific-pkg-scikit-bio/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T22:15:01.781Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fscientific-pkg-scikit-bio%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_c9798309aac0"
+  }
+}

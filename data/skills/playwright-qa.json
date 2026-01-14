@@ -1,0 +1,36 @@
+{
+  "id": "playwright-qa",
+  "name": "playwright-qa",
+  "version": "1.0.0",
+  "summary": "Playwright MCP-based UI verification workflow. Use when validating UI changes, confirming route behavior, or checking client-side runtime errors via browser automation.",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MightyJabe",
+    "github": "MightyJabe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MightyJabe/CoinTraderAI",
+    "skill_md": "https://raw.githubusercontent.com/MightyJabe/CoinTraderAI/main/.codex/skills/playwright-qa/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.574Z",
+  "created_at": "2025-12-23T01:28:27.595Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MightyJabe%2FCoinTraderAI/.codex%2Fskills%2Fplaywright-qa%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_84bb25ac284e"
+  }
+}

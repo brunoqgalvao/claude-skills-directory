@@ -1,0 +1,35 @@
+{
+  "id": "catskill-research",
+  "name": "catskill-research",
+  "version": "1.0.0",
+  "summary": "Research events and conditions data for Catskill Crew newsletter. Use when gathering Instagram events, fetching sun/moon/weather data, or preparing data for newsletter writing.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aniketpanjwani",
+    "github": "aniketpanjwani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aniketpanjwani/automated_catskill_crew",
+    "skill_md": "https://raw.githubusercontent.com/aniketpanjwani/automated_catskill_crew/main/.claude/skills/catskill-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.858Z",
+  "created_at": "2025-12-22T15:11:18.276Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aniketpanjwani%2Fautomated_catskill_crew/.claude%2Fskills%2Fcatskill-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_ece6c7f1e7eb"
+  }
+}

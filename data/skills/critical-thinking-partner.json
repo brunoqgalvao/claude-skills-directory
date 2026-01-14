@@ -1,0 +1,36 @@
+{
+  "id": "critical-thinking-partner",
+  "name": "critical-thinking-partner",
+  "version": "1.0.0",
+  "summary": "Acts as an intellectual sparring partner to critique, challenge, and refine thinking through Socratic questioning and alternative perspectives. Activates automatically when dete...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "campbellmcgregor",
+    "github": "campbellmcgregor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/campbellmcgregor/claude-skills-repo",
+    "skill_md": "https://raw.githubusercontent.com/campbellmcgregor/claude-skills-repo/main/critical-thinking-partner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.613Z",
+  "created_at": "2025-12-22T23:56:49.137Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/campbellmcgregor%2Fclaude-skills-repo/critical-thinking-partner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.613Z",
+    "uniqueId": "sk_e56f62cbbfa6"
+  }
+}

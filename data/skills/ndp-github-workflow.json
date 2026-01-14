@@ -1,0 +1,37 @@
+{
+  "id": "ndp-github-workflow",
+  "name": "ndp-github-workflow",
+  "version": "1.0.0",
+  "summary": "NDP-specific GitHub workflow using Trunk-Based Development (TBD). Commit directly to main with conventional commits. Use this skill for ALL git operations in the Neural Data Pla...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dug-21",
+    "github": "dug-21"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dug-21/neural-data-platform",
+    "skill_md": "https://raw.githubusercontent.com/dug-21/neural-data-platform/main/.claude/skills/ndp-github-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.503Z",
+  "created_at": "2025-12-23T01:29:22.561Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dug-21%2Fneural-data-platform/.claude%2Fskills%2Fndp-github-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_6f81613c283b"
+  }
+}

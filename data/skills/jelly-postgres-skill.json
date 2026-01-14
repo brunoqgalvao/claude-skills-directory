@@ -1,0 +1,37 @@
+{
+  "id": "jelly-postgres-skill",
+  "name": "jelly-postgres-skill",
+  "version": "1.0.0",
+  "summary": "PostgreSQL database skill for Claude Code with connection management and query execution. Supports both POSTGRES_URL and individual environment variables. Activated when users m...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-jelly",
+    "github": "dev-jelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-jelly/jelly-dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/dev-jelly/jelly-dotclaude/main/skills/jelly-postgres-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T16:10:00.000Z",
+  "created_at": "2025-12-23T01:29:27.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-jelly%2Fjelly-dotclaude/skills%2Fjelly-postgres-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_78c1c50387c5"
+  }
+}

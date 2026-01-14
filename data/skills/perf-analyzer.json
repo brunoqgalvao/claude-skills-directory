@@ -1,0 +1,35 @@
+{
+  "id": "perf-analyzer",
+  "name": "perf-analyzer",
+  "version": "1.0.0",
+  "summary": "WHEN: Performance analysis, bundle size optimization, rendering, Core Web Vitals, code splitting\nWHAT: Bundle analysis + large dependency detection + re-render issues + useMemo/...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "physics91",
+    "github": "physics91"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/physics91/claude-vibe",
+    "skill_md": "https://raw.githubusercontent.com/physics91/claude-vibe/main/skills/perf-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T17:59:38.291Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/physics91%2Fclaude-vibe/skills%2Fperf-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_5149176dd279"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "readme-writer",
+  "name": "readme-writer",
+  "version": "1.0.0",
+  "summary": "Write READMEs for software projects. The skill should be used when writing or revising a README or README.md file.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nateberkopec",
+    "github": "nateberkopec"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nateberkopec/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nateberkopec/dotfiles/main/files/home/.claude/skills/readme-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T10:46:57.000Z",
+  "created_at": "2025-12-22T15:54:49.308Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nateberkopec%2Fdotfiles/files%2Fhome%2F.claude%2Fskills%2Freadme-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_4d5fa62288fe"
+  }
+}

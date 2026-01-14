@@ -1,0 +1,35 @@
+{
+  "id": "ln-365-dependencies-auditor",
+  "name": "ln-365-dependencies-auditor",
+  "version": "1.0.0",
+  "summary": "Dependencies and reuse audit worker (L3). Checks outdated packages, unused dependencies, reinvented wheels, custom implementations of standard library features. Returns findings...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-365-dependencies-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.845Z",
+  "created_at": "2025-12-22T16:04:16.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-365-dependencies-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_7d2ad3adebf3"
+  }
+}

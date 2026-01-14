@@ -1,0 +1,37 @@
+{
+  "id": "gasp-diagnostics",
+  "name": "gasp-diagnostics",
+  "version": "1.0.0",
+  "summary": "System diagnostics using GASP (General AI Specialized Process monitor). Use when user asks about Linux system performance, requests system checks, mentions GASP, asks to diagnos...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AcceleratedIndustries",
+    "github": "AcceleratedIndustries"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AcceleratedIndustries/gasp",
+    "skill_md": "https://raw.githubusercontent.com/AcceleratedIndustries/gasp/main/skill/gasp-diagnostics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T20:30:27.000Z",
+  "created_at": "2025-12-23T01:29:17.759Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AcceleratedIndustries%2Fgasp/skill%2Fgasp-diagnostics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.510Z",
+    "uniqueId": "sk_2f0ad24f518e"
+  }
+}

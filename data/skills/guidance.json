@@ -1,0 +1,37 @@
+{
+  "id": "guidance",
+  "name": "guidance",
+  "version": "1.0.0",
+  "summary": "Control LLM output with regex and grammars, guarantee valid JSON/XML/code generation, enforce structured formats, and build multi-step workflows with Guidance - Microsoft Resear...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/16-prompt-engineering/guidance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T22:51:38.000Z",
+  "created_at": "2025-12-23T01:29:44.113Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/16-prompt-engineering%2Fguidance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_3121f31ec62b"
+  }
+}

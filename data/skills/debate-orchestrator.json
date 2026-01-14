@@ -1,0 +1,36 @@
+{
+  "id": "debate-orchestrator",
+  "name": "debate-orchestrator",
+  "version": "1.0.0",
+  "summary": "Orchestrates formal debates with proposition and opposition sides, coordinating debaters and judges through structured exchanges. Use when running debate exchanges, managing deb...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "urav06",
+    "github": "urav06"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/urav06/dialectic",
+    "skill_md": "https://raw.githubusercontent.com/urav06/dialectic/main/.claude/skills/debate-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.768Z",
+  "created_at": "2025-12-22T20:04:20.569Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/urav06%2Fdialectic/.claude%2Fskills%2Fdebate-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_645cec651896"
+  }
+}

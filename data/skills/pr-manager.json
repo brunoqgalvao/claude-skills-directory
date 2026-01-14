@@ -1,0 +1,35 @@
+{
+  "id": "pr-manager",
+  "name": "pr-manager",
+  "version": "1.0.0",
+  "summary": "Create, comment, review, approve, and merge pull requests with FABER metadata",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fractary",
+    "github": "fractary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fractary/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fractary/claude-plugins/main/plugins/repo/skills/pr-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.465Z",
+  "created_at": "2025-12-23T01:30:58.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fractary%2Fclaude-plugins/plugins%2Frepo%2Fskills%2Fpr-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_e557893bf249"
+  }
+}

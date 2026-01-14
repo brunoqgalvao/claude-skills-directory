@@ -1,0 +1,37 @@
+{
+  "id": "structured-outputs-advisor",
+  "name": "structured-outputs-advisor",
+  "version": "1.0.0",
+  "summary": "Use PROACTIVELY when users need guaranteed schema compliance or validated tool inputs from Anthropic's structured outputs feature. Expert advisor for choosing between JSON outpu...",
+  "verticals": [
+    "legal",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cskiro",
+    "github": "cskiro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cskiro/claudex",
+    "skill_md": "https://raw.githubusercontent.com/cskiro/claudex/main/skills/structured-outputs-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T02:11:31.000Z",
+  "created_at": "2025-12-22T20:09:28.698Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cskiro%2Fclaudex/skills%2Fstructured-outputs-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_699d241eaa9e"
+  }
+}

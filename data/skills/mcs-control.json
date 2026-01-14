@@ -1,0 +1,35 @@
+{
+  "id": "mcs-control",
+  "name": "mcs-control",
+  "version": "1.0.0",
+  "summary": "Control vehicle with natural language. Use when user wants to warm up/cool down the car, lock/unlock doors, start/stop engine, check battery/fuel/location/status, or control cha...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cv",
+    "github": "cv"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cv/mcs",
+    "skill_md": "https://raw.githubusercontent.com/cv/mcs/main/internal/skill/files/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:06.004Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cv%2Fmcs/internal%2Fskill%2Ffiles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_380971dc8c97"
+  }
+}

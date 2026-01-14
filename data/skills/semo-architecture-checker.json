@@ -1,0 +1,35 @@
+{
+  "id": "semo-architecture-checker",
+  "name": "semo-architecture-checker",
+  "version": "1.0.0",
+  "summary": "SEMO 아키텍처 검증. Use when (1) \"아키텍처 체크\",\n(2) SEMO 구조 검증, (3) 설치 상태 확인.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/semo-skills/semo-architecture-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T06:51:42.000Z",
+  "created_at": "2025-12-23T01:28:17.952Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/semo-skills%2Fsemo-architecture-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_b3181243ed15"
+  }
+}

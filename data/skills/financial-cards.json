@@ -1,0 +1,36 @@
+{
+  "id": "financial-cards",
+  "name": "financial-cards",
+  "version": "1.0.0",
+  "summary": "Processamento inteligente de cards financeiros com cache, dependências e otimização automática. Use quando precisar buscar, calcular ou analisar métricas financeiras (runway, bu...",
+  "verticals": [
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alceupassos",
+    "github": "alceupassos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alceupassos/dashfinance",
+    "skill_md": "https://raw.githubusercontent.com/alceupassos/dashfinance/main/finance-oraculo-backend/.claude/skills/financial-cards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:51.027Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alceupassos%2Fdashfinance/finance-oraculo-backend%2F.claude%2Fskills%2Ffinancial-cards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_2a4bb1e62d57"
+  }
+}

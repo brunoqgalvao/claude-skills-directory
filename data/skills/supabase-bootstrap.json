@@ -1,0 +1,35 @@
+{
+  "id": "supabase-bootstrap",
+  "name": "supabase-bootstrap",
+  "version": "1.0.0",
+  "summary": "Bootstrap toolkit for new Supabase projects. Use when: (1) Setting up a new Supabase project, (2) Configuring sqlfluff for SQL formatting, (3) Setting up mise task runner, (4) C...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ninyawee",
+    "github": "ninyawee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ninyawee/armed-claude",
+    "skill_md": "https://raw.githubusercontent.com/ninyawee/armed-claude/main/skills/supabase-bootstrap/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.859Z",
+  "created_at": "2025-12-22T15:10:46.825Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ninyawee%2Farmed-claude/skills%2Fsupabase-bootstrap%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_3333ba88fc70"
+  }
+}

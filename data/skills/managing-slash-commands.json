@@ -1,0 +1,37 @@
+{
+  "id": "managing-slash-commands",
+  "name": "managing-slash-commands",
+  "version": "1.0.0",
+  "summary": "Creates, analyzes, updates, and improves slash commands including YAML frontmatter, argument handling, and command authoring workflows. Use when user asks how slash commands wor...",
+  "verticals": [
+    "finance",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thoeltig",
+    "github": "thoeltig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thoeltig/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/thoeltig/claude-code-toolkit/main/plugins/claude-code-capabilities/skills/managing-slash-commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:27.852Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thoeltig%2Fclaude-code-toolkit/plugins%2Fclaude-code-capabilities%2Fskills%2Fmanaging-slash-commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_d6c6d9c730af"
+  }
+}

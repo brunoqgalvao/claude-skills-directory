@@ -1,0 +1,36 @@
+{
+  "id": "llm-compact-logger-analysis",
+  "name": "llm-compact-logger-analysis",
+  "version": "1.0.0",
+  "summary": "Analyze llm-compact-logger test output and configure enhancements. Use when user shares debug-compact.json or debug-report.json files.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "devame",
+    "github": "devame"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/devame/llm-compact-logger",
+    "skill_md": "https://raw.githubusercontent.com/devame/llm-compact-logger/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T16:18:35.000Z",
+  "created_at": "2025-12-23T01:28:44.177Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/devame%2Fllm-compact-logger/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_18998f26f853"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "supabase-cli",
+  "name": "supabase-cli",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for Supabase CLI usage covering database initialization, migrations, type generation, API key management, and direct query execution. Use this skill when wor...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "XIYO",
+    "github": "XIYO"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/XIYO/zheon",
+    "skill_md": "https://raw.githubusercontent.com/XIYO/zheon/main/.claude/skills/supabase-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:10:46.476Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/XIYO%2Fzheon/.claude%2Fskills%2Fsupabase-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_a0f4f546b4fc"
+  }
+}

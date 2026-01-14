@@ -1,0 +1,35 @@
+{
+  "id": "codex-claude-cursor-loop",
+  "name": "codex-claude-cursor-loop",
+  "version": "1.0.0",
+  "summary": "Orchestrates a triple-AI engineering loop where Claude plans, Codex validates logic and reviews code, and Cursor implements, with continuous feedback for optimal code quality",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bear2u",
+    "github": "bear2u"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bear2u/my-skills",
+    "skill_md": "https://raw.githubusercontent.com/bear2u/my-skills/main/.claude/skills/codex-claude-cursor-loop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.741Z",
+  "created_at": "2025-12-22T21:10:51.559Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bear2u%2Fmy-skills/.claude%2Fskills%2Fcodex-claude-cursor-loop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_ec6901556473"
+  }
+}

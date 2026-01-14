@@ -1,0 +1,35 @@
+{
+  "id": "binary-triage",
+  "name": "binary-triage",
+  "version": "1.0.0",
+  "summary": "Performs initial binary triage by surveying memory layout, strings, imports/exports, and functions to quickly understand what a binary does and identify suspicious behavior. Use...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cyberkaida",
+    "github": "cyberkaida"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cyberkaida/reverse-engineering-assistant",
+    "skill_md": "https://raw.githubusercontent.com/cyberkaida/reverse-engineering-assistant/main/ReVa/skills/binary-triage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T10:07:48.000Z",
+  "created_at": "2025-12-23T01:29:09.617Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cyberkaida%2Freverse-engineering-assistant/ReVa%2Fskills%2Fbinary-triage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.520Z",
+    "uniqueId": "sk_c29a8b1e98d5"
+  }
+}

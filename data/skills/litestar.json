@@ -1,0 +1,35 @@
+{
+  "id": "litestar",
+  "name": "litestar",
+  "version": "1.0.0",
+  "summary": "Expert knowledge for Litestar Python web framework. Use when working with Litestar routes, plugins, middleware, dependency injection, or configuration.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "litestar-org",
+    "github": "litestar-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/litestar-org/litestar-vite",
+    "skill_md": "https://raw.githubusercontent.com/litestar-org/litestar-vite/main/.claude/skills/litestar/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T04:36:02.000Z",
+  "created_at": "2025-12-22T15:12:34.084Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/litestar-org%2Flitestar-vite/.claude%2Fskills%2Flitestar%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_cf7e0e317774"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "test-orchestrator",
+  "name": "test-orchestrator",
+  "version": "1.0.0",
+  "summary": "Coordinates testing strategy and execution across all test types. Use when creating test plans, implementing tests (unit/integration/E2E), or enforcing coverage requirements (80...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Brownbull",
+    "github": "Brownbull"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Brownbull/ayni_core",
+    "skill_md": "https://raw.githubusercontent.com/Brownbull/ayni_core/main/.claude/skills/test-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:27.820Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Brownbull%2Fayni_core/.claude%2Fskills%2Ftest-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_49584c81a04f"
+  }
+}

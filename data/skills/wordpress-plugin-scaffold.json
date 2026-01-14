@@ -1,0 +1,35 @@
+{
+  "id": "wordpress-plugin-scaffold",
+  "name": "wordpress-plugin-scaffold",
+  "version": "1.0.0",
+  "summary": "Scaffold WordPress plugins using WP-CLI commands (wp scaffold plugin, wp scaffold plugin-tests). Use this skill when creating new WordPress plugins or adding test infrastructure...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "emdashcodes",
+    "github": "emdashcodes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/emdashcodes/wp-ability-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/emdashcodes/wp-ability-toolkit/main/claude-code-plugins/wordpress-plugin-scaffold/skills/wordpress-plugin-scaffold/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:03.545Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/emdashcodes%2Fwp-ability-toolkit/claude-code-plugins%2Fwordpress-plugin-scaffold%2Fskills%2Fwordpress-plugin-scaffold%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_5b78b407dc53"
+  }
+}

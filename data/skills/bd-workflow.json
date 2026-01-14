@@ -1,0 +1,35 @@
+{
+  "id": "bd-workflow",
+  "name": "bd-workflow",
+  "version": "1.0.0",
+  "summary": "How to use bd (beads) for issue tracking, ready work, status updates, and comments in this repo.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lambdamechanic",
+    "github": "lambdamechanic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lambdamechanic/sk",
+    "skill_md": "https://raw.githubusercontent.com/lambdamechanic/sk/main/skills/bd/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:50.584Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lambdamechanic%2Fsk/skills%2Fbd%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_8fb2fedd65be"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "code-reviewing",
+  "name": "code-reviewing",
+  "version": "1.0.0",
+  "summary": "Performs systematic code review with universal best practices and repo-specific standards. Auto-activates after significant code changes. Use when reviewing code, auditing files...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/code-quality/skills/code-reviewing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.593Z",
+  "created_at": "2025-12-23T00:22:54.483Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fcode-quality%2Fskills%2Fcode-reviewing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.593Z",
+    "uniqueId": "sk_e2f3e942a2db"
+  }
+}

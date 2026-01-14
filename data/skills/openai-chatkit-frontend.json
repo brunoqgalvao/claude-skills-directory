@@ -1,0 +1,36 @@
+{
+  "id": "openai-chatkit-frontend",
+  "name": "openai-chatkit-frontend",
+  "version": "1.0.0",
+  "summary": "Patterns for building AI chatbot frontends using OpenAI ChatKit with Next.js App Router, including custom backend integration via ChatKit Python SDK.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Okashanadeem",
+    "github": "Okashanadeem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Okashanadeem/GIAIC-HACKATHON-II",
+    "skill_md": "https://raw.githubusercontent.com/Okashanadeem/GIAIC-HACKATHON-II/main/.claude/skills/openai-chatkit-frontend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.479Z",
+  "created_at": "2025-12-23T01:29:44.858Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Okashanadeem%2FGIAIC-HACKATHON-II/.claude%2Fskills%2Fopenai-chatkit-frontend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_b7323ec4d3af"
+  }
+}

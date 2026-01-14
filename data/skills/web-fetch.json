@@ -1,0 +1,37 @@
+{
+  "id": "web-fetch",
+  "name": "web-fetch",
+  "version": "1.0.0",
+  "summary": "Use this skill when users want to scrape web content and convert it to clean Markdown. Handles workflows like \"Save this webpage as markdown\", \"Fetch this article\", or \"抓取网页内容\"....",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jst-Well-Dan",
+    "github": "Jst-Well-Dan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jst-Well-Dan/Skill-Box",
+    "skill_md": "https://raw.githubusercontent.com/Jst-Well-Dan/Skill-Box/main/content-pipeline/web-fetch/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:26.988Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jst-Well-Dan%2FSkill-Box/content-pipeline%2Fweb-fetch%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_a125a907d7b6"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mcp-expert",
+  "name": "mcp-expert",
+  "version": "1.0.0",
+  "summary": "Expert in Model Context Protocol (MCP) server development. Use when building MCP servers, creating tools for Claude, implementing resources, debugging MCP connections, or integr...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fabriciofs",
+    "github": "fabriciofs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fabriciofs/mcp-sql-server",
+    "skill_md": "https://raw.githubusercontent.com/fabriciofs/mcp-sql-server/main/.claude/skills/mcp-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:07:35.645Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fabriciofs%2Fmcp-sql-server/.claude%2Fskills%2Fmcp-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_a440c1b5851f"
+  }
+}

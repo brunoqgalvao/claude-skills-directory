@@ -1,0 +1,35 @@
+{
+  "id": "email-management-expert",
+  "name": "email-management-expert",
+  "version": "1.0.0",
+  "summary": "Expert email management assistant for Apple Mail. Use this when the user mentions inbox management, email organization, email triage, inbox zero, organizing emails, managing mai...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "patrickfreyer",
+    "github": "patrickfreyer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/patrickfreyer/apple-mail-mcp",
+    "skill_md": "https://raw.githubusercontent.com/patrickfreyer/apple-mail-mcp/main/skill-email-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.683Z",
+  "created_at": "2025-12-22T22:10:26.866Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/patrickfreyer%2Fapple-mail-mcp/skill-email-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.683Z",
+    "uniqueId": "sk_e045dc923428"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "planning-patterns",
+  "name": "planning-patterns",
+  "version": "1.0.0",
+  "summary": "Implementation planning, conventional commits, and project bootstrap workflows. Research before coding.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aitchwhy",
+    "github": "aitchwhy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aitchwhy/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/aitchwhy/dotfiles/main/config/agents/skills/planning-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.530Z",
+  "created_at": "2025-12-23T01:29:00.858Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aitchwhy%2Fdotfiles/config%2Fagents%2Fskills%2Fplanning-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_14f27cd7ecc1"
+  }
+}

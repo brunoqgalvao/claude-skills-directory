@@ -1,0 +1,35 @@
+{
+  "id": "prompt-versioning-management",
+  "name": "prompt-versioning-management",
+  "version": "1.0.0",
+  "summary": "プロンプトのライフサイクル管理を専門とするスキル。\nバージョン管理、デプロイ戦略、ロールバック、変更追跡により、\n本番環境で安全かつ効率的なプロンプト運用を実現します。\n\n📚 リソース参照:\nこのスキルには以下のリソースが含まれています。\n必要に応じて該当するリソースを参照してください:\n\n- `.claude/skills/prompt-versi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/prompt-versioning-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T16:24:42.000Z",
+  "created_at": "2025-12-23T01:29:21.349Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fprompt-versioning-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_89d9ae7cbd97"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "grey-haven-pr-template",
+  "name": "grey-haven-pr-template",
+  "version": "1.0.0",
+  "summary": "Generate pull request descriptions following Grey Haven Studio standards with clear summary, motivation, implementation details, testing strategy, and comprehensive checklist. U...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greyhaven-ai",
+    "github": "greyhaven-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greyhaven-ai/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/greyhaven-ai/claude-code-config/main/grey-haven-plugins/developer-experience/skills/pr-template/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:11:54.651Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greyhaven-ai%2Fclaude-code-config/grey-haven-plugins%2Fdeveloper-experience%2Fskills%2Fpr-template%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_2c66294eff0f"
+  }
+}

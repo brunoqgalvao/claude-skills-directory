@@ -1,0 +1,35 @@
+{
+  "id": "medical-research",
+  "name": "medical-research",
+  "version": "1.0.0",
+  "summary": "Retrieves scientific papers from PubMed and creates plain-language research summaries. Use when users ask about medical research, scientific studies, clinical trials, disease tr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gexijin",
+    "github": "gexijin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gexijin/vibe",
+    "skill_md": "https://raw.githubusercontent.com/gexijin/vibe/main/.claude/skills/medical-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T21:58:18.000Z",
+  "created_at": "2025-12-22T21:10:52.409Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gexijin%2Fvibe/.claude%2Fskills%2Fmedical-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_d2db98d4ca3a"
+  }
+}

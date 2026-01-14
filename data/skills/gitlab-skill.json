@@ -1,0 +1,37 @@
+{
+  "id": "gitlab-skill",
+  "name": "gitlab-skill",
+  "version": "1.0.0",
+  "summary": "The model must apply when tasks involve .gitlab-ci.yml configuration, GitLab Flavored Markdown (GLFM) syntax, gitlab-ci-local testing, CI/CD pipeline optimization, GitLab CI Ste...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jamie-BitFlight",
+    "github": "Jamie-BitFlight"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jamie-BitFlight/claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/gitlab-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.594Z",
+  "created_at": "2025-12-23T00:22:53.223Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jamie-BitFlight%2Fclaude_skills/gitlab-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.594Z",
+    "uniqueId": "sk_162d3c938bf1"
+  }
+}

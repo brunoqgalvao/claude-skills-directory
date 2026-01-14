@@ -1,0 +1,35 @@
+{
+  "id": "github-cli-helper",
+  "name": "github-cli-helper",
+  "version": "1.0.0",
+  "summary": "Execute GitHub CLI commands using the correct Homebrew path. Use when interacting with GitHub PRs, issues, repos, or any gh command.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mkaczkowski",
+    "github": "mkaczkowski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mkaczkowski/ai-command-library",
+    "skill_md": "https://raw.githubusercontent.com/mkaczkowski/ai-command-library/main/plugins/common/skills/github-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:23.019Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mkaczkowski%2Fai-command-library/plugins%2Fcommon%2Fskills%2Fgithub-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_e3a0b22d511e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "monitoring-patterns",
+  "name": "monitoring-patterns",
+  "version": "1.0.0",
+  "summary": "Metrics, health checks, alerting",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/redis/skills/monitoring-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:50:40.237Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fredis%2Fskills%2Fmonitoring-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_1243d77479fa"
+  }
+}

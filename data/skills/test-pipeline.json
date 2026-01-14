@@ -1,0 +1,37 @@
+{
+  "id": "test-pipeline",
+  "name": "test-pipeline",
+  "version": "1.0.0",
+  "summary": "Run pytest test suite for the video processing pipeline with coverage analysis. Use when the user wants to run tests, check test coverage, validate code quality, or verify pipel...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Gambitnl",
+    "github": "Gambitnl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Gambitnl/Video_chunking",
+    "skill_md": "https://raw.githubusercontent.com/Gambitnl/Video_chunking/main/.claude/skills/test-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T07:47:18.000Z",
+  "created_at": "2025-12-22T15:56:31.138Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Gambitnl%2FVideo_chunking/.claude%2Fskills%2Ftest-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_9b4a9fbc9022"
+  }
+}

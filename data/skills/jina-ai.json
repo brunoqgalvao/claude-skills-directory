@@ -1,0 +1,35 @@
+{
+  "id": "jina-ai",
+  "name": "jina-ai",
+  "version": "1.0.0",
+  "summary": "Use Jina AI APIs for converting URLs to LLM-friendly Markdown (Reader) and searching the web (Search).",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "closedloop-technologies",
+    "github": "closedloop-technologies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/closedloop-technologies/awesome-deep-researchers",
+    "skill_md": "https://raw.githubusercontent.com/closedloop-technologies/awesome-deep-researchers/main/.claude/skills/jina-ai/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T14:19:27.000Z",
+  "created_at": "2025-12-23T01:28:28.300Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/closedloop-technologies%2Fawesome-deep-researchers/.claude%2Fskills%2Fjina-ai%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_d6e5d0fd42e9"
+  }
+}

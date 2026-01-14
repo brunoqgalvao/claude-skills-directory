@@ -1,0 +1,37 @@
+{
+  "id": "create-ticket",
+  "name": "create-ticket",
+  "version": "1.0.0",
+  "summary": "Creates structured technical development tickets when users request ticket creation, need to write tickets, ask to generate task specifications, or mention creating development ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smorand",
+    "github": "smorand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smorand/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/smorand/claude-config/main/archives/skills.old/create-story/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:39.571Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smorand%2Fclaude-config/archives%2Fskills.old%2Fcreate-story%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_1e0bf2ac35de"
+  }
+}

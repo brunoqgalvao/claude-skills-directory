@@ -1,0 +1,35 @@
+{
+  "id": "ios-clean-architecture",
+  "name": "ios-clean-architecture",
+  "version": "1.0.0",
+  "summary": "iOSアプリのSPMパッケージ構成・レイヤー依存関係・設計原則を定義。iOS機能実装・コードレビュー時に参照。no problem製SPMパッケージの使用指針を含む。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "no-problem-dev",
+    "github": "no-problem-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/no-problem-dev/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/no-problem-dev/claude-code-plugins/main/plugins/ios-architecture/skills/ios-clean-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T23:37:29.000Z",
+  "created_at": "2025-12-23T01:28:53.134Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/no-problem-dev%2Fclaude-code-plugins/plugins%2Fios-architecture%2Fskills%2Fios-clean-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_3179a73c8b30"
+  }
+}

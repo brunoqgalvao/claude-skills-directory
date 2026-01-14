@@ -2,38 +2,36 @@
   "id": "internal-comms",
   "name": "internal-comms",
   "version": "1.0.0",
-  "summary": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write some ",
+  "summary": "A set of resources to help me write all kinds of internal communications, using the formats that my company likes to use. Claude should use this skill whenever asked to write so...",
+  "description": "## When to use this skill\nTo write internal communications, use this skill for:\n- 3P updates (Progress, Plans, Problems)\n- Company newsletters\n- FAQ responses\n- Status reports\n- Leadership updates\n- Project updates\n- Incident reports\n\n## How to use this skill\n\nTo write any internal communication:\n\n1. **Identify the communication type** from the request\n2. **Load the appropriate guideline file** from the `examples/` directory:\n    - `examples/3p-updates.md` - For Progress/Plans/Problems team updates\n    - `examples/company-newsletter.md` - For company-wide newsletters\n    - `examples/faq-answers.md` - For answering frequently asked questions\n    - `examples/general-comms.md` - For anything else that doesn't explicitly match one of the above\n3. **Follow the specific instructions** in that file for formatting, tone, and content gathering\n\nIf the communication type doesn't match any existing guideline, ask for clarification or more context about the desired format.\n\n## Keywords\n3P updates, company newsletter, company comms, weekly update, faqs, common questions, updates, internal comms",
   "verticals": [
-    "Operations",
-    "Design"
+    "sales",
+    "data"
   ],
-  "tags": [
-    "internal",
-    "comms",
-    "claude"
-  ],
+  "tags": [],
   "author": {
-    "name": "anthropics",
-    "github": "anthropics",
-    "avatar": "https://avatars.githubusercontent.com/u/76263028?v=4"
+    "name": "ComposioHQ",
+    "github": "ComposioHQ"
   },
   "status": "ready",
-  "verified": true,
+  "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/anthropics/skills/tree/main/skills/internal-comms",
-    "skill_md": "https://raw.githubusercontent.com/anthropics/skills/main/skills/internal-comms/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install internal-comms"
+    "repo": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/internal-comms/SKILL.md"
   },
   "stats": {
-    "stars": 32783,
-    "forks": 2969,
+    "stars": 15783,
+    "forks": 1632,
     "installs": 0
   },
-  "last_updated": "2025-12-20",
-  "created_at": "2025-09-22"
+  "last_updated": "2026-01-07T16:58:10Z",
+  "created_at": "2025-10-17T07:15:01Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/blob/main/internal-comms/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_740a4c4374fa"
+  }
 }

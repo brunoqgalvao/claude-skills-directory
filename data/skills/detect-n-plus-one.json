@@ -1,0 +1,37 @@
+{
+  "id": "detect-n-plus-one",
+  "name": "detect-n-plus-one",
+  "version": "1.0.0",
+  "summary": "Detect N+1 query patterns in the codebase. Finds loops that contain database or API calls that should be batched. Works across all languages. Use when user asks to find performa...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anortham",
+    "github": "anortham"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anortham/miller",
+    "skill_md": "https://raw.githubusercontent.com/anortham/miller/main/.claude/skills/detect-n-plus-one/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:29.419Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anortham%2Fmiller/.claude%2Fskills%2Fdetect-n-plus-one%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_818e98bcca94"
+  }
+}

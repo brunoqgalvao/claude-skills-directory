@@ -1,0 +1,36 @@
+{
+  "id": "unit-test-ddd",
+  "name": "unit-test-ddd",
+  "version": "1.0.0",
+  "summary": "Spring Boot Unit 테스트 작성. JUnit5+Mockito, domain 패키지별 구조, entity는 common/entity, service는 {domain}/service. 네이밍 test_{대상}_{시나리오}_{예상결과}. Entity 직접 반환 금지 (DTO만). Fail Fast - 모든 필드...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SolidCitadel",
+    "github": "SolidCitadel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SolidCitadel/UniSync",
+    "skill_md": "https://raw.githubusercontent.com/SolidCitadel/UniSync/main/.claude/skills/unit-test-ddd/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:13:01.914Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SolidCitadel%2FUniSync/.claude%2Fskills%2Funit-test-ddd%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_9c18e69646ab"
+  }
+}

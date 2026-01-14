@@ -1,0 +1,35 @@
+{
+  "id": "hpe-copyright",
+  "name": "hpe-copyright",
+  "version": "1.0.0",
+  "summary": "Check, add, or fix HPE copyright headers in source files. Use this skill when (1) Adding copyright headers to new files, (2) Checking if files have valid copyright headers, (3) ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvilrokx",
+    "github": "mvilrokx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvilrokx/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/mvilrokx/claude-skills/main/hpe-copyright/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:03:00.355Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvilrokx%2Fclaude-skills/hpe-copyright%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_ab7527cfdc38"
+  }
+}

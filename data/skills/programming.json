@@ -1,0 +1,35 @@
+{
+  "id": "programming",
+  "name": "programming",
+  "version": "1.0.0",
+  "summary": "Write, debug, review and explain source code following object-oriented best practices, DDD principles, and comprehensive testing standards. Use when writing new code, refactorin...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "forgoty",
+    "github": "forgoty"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/forgoty/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/forgoty/dotfiles/main/dotfiles/.config/claude/forgoty-marketplace/plugins/software-engineering/skills/programming/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T16:44:23.000Z",
+  "created_at": "2025-12-23T01:28:34.627Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/forgoty%2Fdotfiles/dotfiles%2F.config%2Fclaude%2Fforgoty-marketplace%2Fplugins%2Fsoftware-engineering%2Fskills%2Fprogramming%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_7504fb2ec286"
+  }
+}

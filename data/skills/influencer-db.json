@@ -1,0 +1,35 @@
+{
+  "id": "influencer-db",
+  "name": "influencer-db",
+  "version": "1.0.0",
+  "summary": "SQLite database for Israeli Tech Nano-Influencers with direct sqlite3 command-line access. Execute any SQL query or inspect schema. Simple and agent-friendly.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shalomma",
+    "github": "shalomma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shalomma/social-media-research",
+    "skill_md": "https://raw.githubusercontent.com/shalomma/social-media-research/main/.claude/skills/influencer-db/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.523Z",
+  "created_at": "2025-12-23T01:29:07.611Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shalomma%2Fsocial-media-research/.claude%2Fskills%2Finfluencer-db%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_1e1838288bc0"
+  }
+}

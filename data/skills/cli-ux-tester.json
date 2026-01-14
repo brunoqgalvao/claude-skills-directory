@@ -1,0 +1,36 @@
+{
+  "id": "cli-ux-tester",
+  "name": "cli-ux-tester",
+  "version": "1.0.0",
+  "summary": "Expert UX evaluator for command-line interfaces, CLIs, terminal tools, shell scripts, and developer APIs. Use proactively when reviewing CLIs, testing command usability, evaluat...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ali5ter",
+    "github": "ali5ter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ali5ter/claude-cli-ux-skill",
+    "skill_md": "https://raw.githubusercontent.com/ali5ter/claude-cli-ux-skill/main/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.471Z",
+  "created_at": "2025-12-23T01:30:48.405Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ali5ter%2Fclaude-cli-ux-skill/skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.471Z",
+    "uniqueId": "sk_932ea23806a3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dotnet-aspire",
+  "name": "dotnet-aspire",
+  "version": "1.0.0",
+  "summary": "Adds .NET Aspire cloud-native orchestration to existing .NET solutions. Analyzes solution structure to identify services (APIs, web apps, workers), creates AppHost and ServiceDe...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "markpitt",
+    "github": "markpitt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/markpitt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/markpitt/claude-skills/main/skills/dotnet-aspire/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.605Z",
+  "created_at": "2025-12-23T00:03:41.433Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/markpitt%2Fclaude-skills/skills%2Fdotnet-aspire%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.605Z",
+    "uniqueId": "sk_6bbe7b8c5153"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "datafusion-query-advisor",
+  "name": "datafusion-query-advisor",
+  "version": "1.0.0",
+  "summary": "Reviews SQL queries and DataFrame operations for optimization opportunities including predicate pushdown, partition pruning, column projection, and join ordering. Activates when...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EmilLindfors",
+    "github": "EmilLindfors"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EmilLindfors/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/EmilLindfors/claude-marketplace/main/plugins/rust-data-engineering/skills/datafusion-query-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:03.741Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EmilLindfors%2Fclaude-marketplace/plugins%2Frust-data-engineering%2Fskills%2Fdatafusion-query-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_97d2a06e1204"
+  }
+}

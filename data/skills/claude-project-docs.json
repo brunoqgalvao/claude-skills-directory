@@ -1,0 +1,35 @@
+{
+  "id": "claude-project-docs",
+  "name": "claude-project-docs",
+  "version": "1.0.0",
+  "summary": "Generate concise CLAUDE.md files and agent documentation following best practices. Use when setting up a new project for Claude Code, auditing existing CLAUDE.md, or creating pr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leegonzales",
+    "github": "leegonzales"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leegonzales/AISkills",
+    "skill_md": "https://raw.githubusercontent.com/leegonzales/AISkills/main/ClaudeProjectDocs/claude-project-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:07:19.444Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leegonzales%2FAISkills/ClaudeProjectDocs%2Fclaude-project-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_6fad0d83dbd6"
+  }
+}

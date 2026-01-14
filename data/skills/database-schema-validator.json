@@ -1,0 +1,35 @@
+{
+  "id": "database-schema-validator",
+  "name": "database-schema-validator",
+  "version": "1.0.0",
+  "summary": "Validates database schemas, Kysely types, and migrations. Use when checking schema correctness or migration safety.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "B16B1RD",
+    "github": "B16B1RD"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/B16B1RD/cc-craft-kit",
+    "skill_md": "https://raw.githubusercontent.com/B16B1RD/cc-craft-kit/main/.claude/skills/database-schema-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:59:23.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/B16B1RD%2Fcc-craft-kit/.claude%2Fskills%2Fdatabase-schema-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_c31d873c43cc"
+  }
+}

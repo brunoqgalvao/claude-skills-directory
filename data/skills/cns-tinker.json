@@ -1,0 +1,37 @@
+{
+  "id": "cns-tinker",
+  "name": "cns-tinker",
+  "version": "1.0.0",
+  "summary": "Apply Chiral Narrative Synthesis (CNS) framework for contradiction detection and multi-source analysis using Tinker API for model training. Use when implementing CNS with Tinker...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "North-Shore-AI",
+    "github": "North-Shore-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/North-Shore-AI/tinkerer",
+    "skill_md": "https://raw.githubusercontent.com/North-Shore-AI/tinkerer/main/.claude/skills/cns-tinker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.633Z",
+  "created_at": "2025-12-22T23:12:25.817Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/North-Shore-AI%2Ftinkerer/.claude%2Fskills%2Fcns-tinker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.633Z",
+    "uniqueId": "sk_bb07bdff2734"
+  }
+}

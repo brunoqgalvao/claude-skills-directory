@@ -1,0 +1,35 @@
+{
+  "id": "brand-agency",
+  "name": "brand-agency",
+  "version": "1.0.0",
+  "summary": "Applies Agency brand colors and typography to artifacts including presentations, SVG graphics, documents, and web interfaces. This skill should be used when brand colors, visual...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "glebis",
+    "github": "glebis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/glebis/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/glebis/claude-skills/main/brand-agency/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:17:13.313Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/glebis%2Fclaude-skills/brand-agency%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_c89c3b3c7777"
+  }
+}

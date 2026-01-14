@@ -1,0 +1,36 @@
+{
+  "id": "slack-skill",
+  "name": "slack-skill",
+  "version": "1.0.0",
+  "summary": "Slack 앱 개발 및 API 통합 스킬. Bolt 프레임워크, Block Kit UI, 이벤트 처리, 슬래시 커맨드 지원. \"Slack\", \"슬랙\", \"봇\", \"webhook\" 키워드로 활성화.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/integrations/slack-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:34.292Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/integrations%2Fslack-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_426b7981e846"
+  }
+}

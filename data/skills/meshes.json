@@ -1,0 +1,37 @@
+{
+  "id": "meshes",
+  "name": "meshes",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for building, testing, and debugging meshes in the tx system. Covers mesh architecture, agent design, prompt templates, E2E testing, validation strategies, a...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eighteyes",
+    "github": "eighteyes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eighteyes/tx",
+    "skill_md": "https://raw.githubusercontent.com/eighteyes/tx/main/.claude/skills/meshes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T08:42:03.000Z",
+  "created_at": "2025-12-23T01:29:36.920Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eighteyes%2Ftx/.claude%2Fskills%2Fmeshes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_4c6c23dc6ec0"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mermaid-tools",
+  "name": "mermaid-tools",
+  "version": "1.0.0",
+  "summary": "Extracts Mermaid diagrams from markdown files and generates high-quality PNG images using bundled scripts. Activates when working with Mermaid diagrams, converting diagrams to P...",
+  "description": "# Mermaid Tools\n\n## Overview\n\nThis skill enables extraction of Mermaid diagrams from markdown files and generation of high-quality PNG images. The skill bundles all necessary scripts (`extract-and-generate.sh`, `extract_diagrams.py`, and `puppeteer-config.json`) in the `scripts/` directory for portability and reliability.\n\n## Core Workflow\n\n### Standard Diagram Extraction and Generation\n\nExtract Mermaid diagrams from a markdown file and generate PNG images using the bundled `extract-and-generate.sh` script:\n\n```bash\ncd ~/.claude/skills/mermaid-tools/scripts\n./extract-and-generate.sh \"<markdown_file>\" \"<output_directory>\"\n```\n\n**Parameters:**\n- `<markdown_file>`: Path to the markdown file containing Mermaid diagrams\n- `<output_directory>`: (Optional) Directory for output files. Defaults to `<markdown_file_directory>/diagrams`\n\n**Example:**\n```bash\ncd ~/.claude/skills/mermaid-tools/scripts\n./extract-and-generate.sh \"/path/to/document.md\" \"/path/to/output\"\n```\n\n### What the Script Does\n\n1. **Extracts** all Mermaid code blocks from the markdown file\n2. **Numbers** them sequentially (01, 02, 03, etc.) in order of appearance\n3. **Generates** `.mmd` files for each diagram\n4. **Creates** high-resolution PNG images with smart sizing\n5. **Validates** all generated PNG files\n\n### Output Files\n\nFor each diagram, the script generates:\n- `01-diagram-name.mmd` - Extracted Mermaid code\n- `01-diagram-name.png` - High-resolution PNG image\n\nThe numbering ensures diagrams maintain their order from the source document.\n\n## Advanced Usage\n\n### Custom Dimensions and Scaling\n\nOverride default dimensions using environment variables:\n\n```bash\ncd ~/.claude/skills/mermaid-tools/scripts\nMERMAID_WIDTH=1600 MERMAID_HEIGHT=1200 ./extract-and-generate.sh \"<markdown_file>\" \"<output_directory>\"\n```\n\n**Available variables:**\n- `MERMAID_WIDTH` (default: 1200) - Base width in pixels\n- `MERMAID_HEIGHT` (default: 800) - Base height in pixels\n- `MERMAID_SCALE` (default: 2) - Scale factor for high-resolution output\n\n### High-Resolution Output for Presentations\n\n```bash\ncd ~/.claude/skills/mermaid-tools/scripts\nMERMAID_WIDTH=2400 MERMAID_HEIGHT=1800 MERMAID_SCALE=4 ./extract-and-generate.sh \"<markdown_file>\" \"<output_directory>\"\n```\n\n### Print-Quality Output\n\n```bash\ncd ~/.claude/skills/mermaid-tools/scripts\nMERMAID_SCALE=5 ./extract-and-generate.sh \"<markdown_file>\" \"<output_directory>\"\n```\n\n## Smart Sizing Feature\n\nThe script automatically adjusts dimensions based on diagram type (detected from filename):\n\n- **Timeline/Gantt**: 2400×400 (wide and short)\n- **Architecture/System/Caching**: 2400×1600 (large and detailed)\n- **Monitoring/Workflow/Sequence/API**: 2400×800 (wide for process flows)\n- **Default**: 1200×800 (standard size)\n\nContext-aware naming in the extraction process helps trigger appropriate smart sizing.\n\n## Important Principles\n\n### Use Bundled Scripts\n\n**CRITICAL**: Use the bundled `extract-and-generate.sh` script from this skill's `scripts/` directory. All necessary dependencies are bundled together.\n\n### Change to Script Directory\n\nRun the script from its own directory to properly locate dependencies (`extract_diagrams.py` and `puppeteer-config.json`):\n\n```bash\ncd ~/.claude/skills/mermaid-tools/scripts\n./extract-and-generate.sh \"<markdown_file>\" \"<output_directory>\"\n```\n\nRunning the script without changing to the scripts directory first may fail due to missing dependencies.\n\n## Prerequisites Verification\n\nBefore running the script, verify dependencies are installed:\n\n1. **mermaid-cli**: `mmdc --version`\n2. **Google Chrome**: `google-chrome-stable --version`\n3. **Python 3**: `python3 --version`\n\nIf any are missing, consult `references/setup_and_troubleshooting.md` for installation instructions.\n\n## Troubleshooting\n\nFor detailed troubleshooting guidance, refer to `references/setup_and_troubleshooting.md`, which covers:\n\n- Browser launch failures\n- Permission issues\n- No diagrams found\n- Python extraction failures\n- Output quality issues\n- Diagram-specific sizing problems\n\nQuick fixes for common issues:\n\n**Permission denied:**\n```bash\nchmod +x ~/.claude/skills/mermaid-tools/scripts/extract-and-generate.sh\n```\n\n**Low quality output:**\n```bash\nMERMAID_SCALE=3 ./extract-and-generate.sh \"<markdown_file>\" \"<output_directory>\"\n```\n\n**Chrome/Puppeteer errors:**\nVerify all WSL2 dependencies are installed (see references for full list).\n\n## Bundled Resources\n\n### scripts/\n\nThis skill bundles all necessary scripts for Mermaid diagram generation:\n\n- **extract-and-generate.sh** - Main script that orchestrates extraction and PNG generation\n- **extract_diagrams.py** - Python script for extracting Mermaid code blocks from markdown\n- **puppeteer-config.json** - Chrome/Puppeteer configuration for WSL2 environment\n\nAll scripts must be run from the `scripts/` directory to properly locate dependencies.\n\n### references/setup_and_troubleshooting.md\n\nComprehensive reference documentation including:\n- Complete prerequisite installation instructions\n- Detailed environment variable reference\n- Extensive troubleshooting guide\n- WSL2-specific Chrome dependency setup\n- Validation procedures\n\nLoad this reference when dealing with setup issues, installation problems, or advanced customization needs.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daymade",
+    "github": "daymade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daymade/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/mermaid-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 154,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:30:48Z",
+  "created_at": "2025-10-22T11:17:31Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/daymade/claude-code-skills/blob/main/mermaid-tools/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_a38b42d2499a"
+  }
+}

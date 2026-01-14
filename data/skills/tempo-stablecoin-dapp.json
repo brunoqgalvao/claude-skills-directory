@@ -1,0 +1,37 @@
+{
+  "id": "tempo-stablecoin-dapp",
+  "name": "tempo-stablecoin-dapp",
+  "version": "1.0.0",
+  "summary": "Build stablecoin-first dapps on Tempo (TIP-20 payments, memos, fee tokens, sponsorship, batching, TIP-403 compliance, and stablecoin DEX).",
+  "verticals": [
+    "engineering",
+    "legal",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hstptcn5",
+    "github": "hstptcn5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hstptcn5/tempo",
+    "skill_md": "https://raw.githubusercontent.com/hstptcn5/tempo/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.512Z",
+  "created_at": "2025-12-23T01:29:16.357Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hstptcn5%2Ftempo/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_6782d599d73b"
+  }
+}

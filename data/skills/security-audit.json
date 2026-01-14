@@ -1,0 +1,36 @@
+{
+  "id": "security-audit",
+  "name": "security-audit",
+  "version": "1.0.0",
+  "summary": "Audit code for security vulnerabilities using OWASP Top 10, STRIDE threat modeling, and secure coding practices. Identifies SQL injection, XSS, CSRF, auth issues, and secrets ex...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ils15",
+    "github": "ils15"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ils15/copilot-global-config",
+    "skill_md": "https://raw.githubusercontent.com/ils15/copilot-global-config/main/skills/security-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:58.162Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ils15%2Fcopilot-global-config/skills%2Fsecurity-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_29f54825880f"
+  }
+}

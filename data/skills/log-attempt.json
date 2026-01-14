@@ -1,0 +1,35 @@
+{
+  "id": "log-attempt",
+  "name": "log-attempt",
+  "version": "1.0.0",
+  "summary": "Log a coding problem attempt when user says \"log <problem_id>\" with time, tries, solved status, hints, or solution usage. Parses natural language like \"log count_bits - 15 min, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elinsky",
+    "github": "elinsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elinsky/python-coding-dojo",
+    "skill_md": "https://raw.githubusercontent.com/elinsky/python-coding-dojo/main/.claude/skills/log-attempt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T21:11:04.000Z",
+  "created_at": "2025-12-23T01:28:33.923Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elinsky%2Fpython-coding-dojo/.claude%2Fskills%2Flog-attempt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_d7ff9dbb3b48"
+  }
+}

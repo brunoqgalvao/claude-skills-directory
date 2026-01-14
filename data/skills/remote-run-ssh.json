@@ -1,0 +1,35 @@
+{
+  "id": "remote-run-ssh",
+  "name": "remote-run-ssh",
+  "version": "1.0.0",
+  "summary": "Run CVlization examples on the `ssh l1` GPU host by copying only the needed example directory plus the shared `cvlization/` package into `/tmp`, then launching the example’s Doc...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kungfuai",
+    "github": "kungfuai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kungfuai/CVlization",
+    "skill_md": "https://raw.githubusercontent.com/kungfuai/CVlization/main/.claude/skills/remote-run-ssh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T20:31:02.000Z",
+  "created_at": "2025-12-22T18:12:49.457Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kungfuai%2FCVlization/.claude%2Fskills%2Fremote-run-ssh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_af39cb227a27"
+  }
+}

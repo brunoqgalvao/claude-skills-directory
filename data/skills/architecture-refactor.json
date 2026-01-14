@@ -1,0 +1,37 @@
+{
+  "id": "architecture-refactor",
+  "name": "architecture-refactor",
+  "version": "1.0.0",
+  "summary": "Analyze and refactor backend code to follow entity/service separation patterns. Use when asked to \"refactor X to entity pattern\", \"analyze architecture for X\", \"extract business...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "franchiseai",
+    "github": "franchiseai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/franchiseai/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/franchiseai/claude-code-plugins/main/plugins/backend-architecture/skills/backend-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:24.235Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/franchiseai%2Fclaude-code-plugins/plugins%2Fbackend-architecture%2Fskills%2Fbackend-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_0c302dd89186"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "n8n-best-practices",
+  "name": "n8n-best-practices",
+  "version": "1.0.0",
+  "summary": "Use when encountering n8n workflow issues, Code node errors, HTTP requests failing, data flow problems, environment variables not working, JSON parsing errors, or need n8n devel...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aixier",
+    "github": "aixier"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aixier/n8n-automation-hub",
+    "skill_md": "https://raw.githubusercontent.com/aixier/n8n-automation-hub/main/.claude/skills/n8n-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:16.527Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aixier%2Fn8n-automation-hub/.claude%2Fskills%2Fn8n-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_df545cc0eff4"
+  }
+}

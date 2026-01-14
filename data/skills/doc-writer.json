@@ -1,0 +1,36 @@
+{
+  "id": "doc-writer",
+  "name": "doc-writer",
+  "version": "1.0.0",
+  "summary": "Provides expert guidance for writing compact, effective technical documentation. Use this skill when: (1) user mentions \"documentation\", \"docs\", \"document\", \"readme\", \"architect...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wpfleger96",
+    "github": "wpfleger96"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wpfleger96/ai-rules",
+    "skill_md": "https://raw.githubusercontent.com/wpfleger96/ai-rules/main/src/ai_rules/config/claude/skills/doc-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:08:11.709Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wpfleger96%2Fai-rules/src%2Fai_rules%2Fconfig%2Fclaude%2Fskills%2Fdoc-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_f15aded65dfc"
+  }
+}

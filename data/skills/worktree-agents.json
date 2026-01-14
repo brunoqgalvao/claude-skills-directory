@@ -1,0 +1,35 @@
+{
+  "id": "worktree-agents",
+  "name": "worktree-agents",
+  "version": "1.0.0",
+  "summary": "Create worktrees and launch Claude Code agents. USE THIS SKILL when user says \"create worktree\", \"spin up worktree\", \"new worktree\", \"worktree for X\", or wants parallel developm...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtsbahamas",
+    "github": "gtsbahamas"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtsbahamas/claude-remote-agent",
+    "skill_md": "https://raw.githubusercontent.com/gtsbahamas/claude-remote-agent/main/.claude/skills/worktree-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.956Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtsbahamas%2Fclaude-remote-agent/.claude%2Fskills%2Fworktree-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_752bdd2418c9"
+  }
+}

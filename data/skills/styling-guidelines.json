@@ -1,0 +1,36 @@
+{
+  "id": "styling-guidelines",
+  "name": "styling-guidelines",
+  "version": "1.0.0",
+  "summary": "Tailwind CSS v4 styling guidelines - use @theme blocks for configuration, hsl(var(--color-x)) for colors, never hardcode values, use responsive utilities",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JewelsHovan",
+    "github": "JewelsHovan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JewelsHovan/pain-plus-site",
+    "skill_md": "https://raw.githubusercontent.com/JewelsHovan/pain-plus-site/main/frontend/.claude/skills/styling-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:26.669Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JewelsHovan%2Fpain-plus-site/frontend%2F.claude%2Fskills%2Fstyling-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_aae3000b8ed0"
+  }
+}

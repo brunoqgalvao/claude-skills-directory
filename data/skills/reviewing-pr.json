@@ -1,0 +1,35 @@
+{
+  "id": "reviewing-pr",
+  "name": "reviewing-pr",
+  "version": "1.0.0",
+  "summary": "Use when reviewing pull requests with comprehensive code analysis, incremental or full review options, and constructive feedback - provides thorough code reviews with severity r...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "udecode",
+    "github": "udecode"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/udecode/dotai",
+    "skill_md": "https://raw.githubusercontent.com/udecode/dotai/main/.claude-plugin/plugins/git/skills/reviewing-pr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T14:24:52.000Z",
+  "created_at": "2025-12-23T01:29:16.509Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/udecode%2Fdotai/.claude-plugin%2Fplugins%2Fgit%2Fskills%2Freviewing-pr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_a31d9a1c774b"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "terraform-provider-design",
+  "name": "terraform-provider-design",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for designing and implementing Terraform providers using Test-Driven Development (TDD). Use when creating new Terraform providers, adding resources/data sour...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hashi-demo-lab",
+    "github": "hashi-demo-lab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hashi-demo-lab/terraform-provider-bcm",
+    "skill_md": "https://raw.githubusercontent.com/hashi-demo-lab/terraform-provider-bcm/main/.claude/skills/terraform-provider-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:24:29.474Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hashi-demo-lab%2Fterraform-provider-bcm/.claude%2Fskills%2Fterraform-provider-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_cc8daff663dd"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "exploring-codebase",
+  "name": "exploring-codebase",
+  "version": "1.0.0",
+  "summary": "Autonomous two-phase codebase exploration - first discovers natural perspectives\n(layers, components, boundaries), then dispatches adaptive deep-dive explorers\nbased on what was...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/default/skills/exploring-codebase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.470Z",
+  "created_at": "2025-12-23T01:30:49.878Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/default%2Fskills%2Fexploring-codebase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.470Z",
+    "uniqueId": "sk_ed5ae1669c75"
+  }
+}

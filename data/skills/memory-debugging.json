@@ -1,0 +1,35 @@
+{
+  "id": "memory-debugging",
+  "name": "memory-debugging",
+  "version": "1.0.0",
+  "summary": "This skill should be used when debugging memory-related issues in the Breenix kernel including page faults, double faults, frame allocation problems, page table issues, heap all...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryanbreen",
+    "github": "ryanbreen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryanbreen/breenix",
+    "skill_md": "https://raw.githubusercontent.com/ryanbreen/breenix/main/breenix-memory-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:22.848Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryanbreen%2Fbreenix/breenix-memory-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_ef8df49637cc"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "skill-reviewer",
+  "name": "skill-reviewer",
+  "version": "1.0.0",
+  "summary": "Review Claude Code skills against official best practices. Use when reviewing SKILL.md files, checking skill quality, validating skill structure, or getting improvement suggesti...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "skanehira",
+    "github": "skanehira"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/skanehira/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/skanehira/dotfiles/main/claude/skills/skill-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:52.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/skanehira%2Fdotfiles/claude%2Fskills%2Fskill-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_cd23a3ebcf75"
+  }
+}

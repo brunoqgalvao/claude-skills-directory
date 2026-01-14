@@ -1,0 +1,36 @@
+{
+  "id": "framework-methodology",
+  "name": "framework-methodology",
+  "version": "1.0.0",
+  "summary": "Reference manual for framework methodology throughout session. Provides guidance on cognitive architecture that replaces default AI assistant behaviors with systematic patterns ...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "axivo",
+    "github": "axivo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/axivo/claude",
+    "skill_md": "https://raw.githubusercontent.com/axivo/claude/main/plugins/framework/skills/framework-methodology/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.851Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/axivo%2Fclaude/plugins%2Fframework%2Fskills%2Fframework-methodology%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_50e4ac0583bb"
+  }
+}

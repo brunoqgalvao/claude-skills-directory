@@ -1,0 +1,36 @@
+{
+  "id": "deployment-docker",
+  "name": "deployment-docker",
+  "version": "1.0.0",
+  "summary": "Docker and containerization guidelines. Use when deployment docker guidance is required.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CsHeng",
+    "github": "CsHeng"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CsHeng/dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/CsHeng/dot-claude/main/skills/deployment-docker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:26.825Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CsHeng%2Fdot-claude/skills%2Fdeployment-docker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_ac075ff4e35c"
+  }
+}

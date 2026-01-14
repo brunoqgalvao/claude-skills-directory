@@ -1,0 +1,35 @@
+{
+  "id": "qemu-debug-session",
+  "name": "qemu-debug-session",
+  "version": "1.0.0",
+  "summary": "Use when setting up comprehensive QEMU debugging for Breenix - investigating interrupt handling bugs, debugging memory management issues, analyzing boot sequence problems, traci...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryanbreen",
+    "github": "ryanbreen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryanbreen/breenix",
+    "skill_md": "https://raw.githubusercontent.com/ryanbreen/breenix/main/breenix-qemu-debug-session/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:03:07.120Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryanbreen%2Fbreenix/breenix-qemu-debug-session%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_ea7135ad995a"
+  }
+}

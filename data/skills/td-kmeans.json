@@ -1,0 +1,36 @@
+{
+  "id": "td-kmeans",
+  "name": "td-kmeans",
+  "version": "1.0.0",
+  "summary": "K-means clustering for customer segmentation and data grouping",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "teradata-labs",
+    "github": "teradata-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/teradata-labs/claude-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/teradata-labs/claude-cookbooks/main/skills/analytics/td-kmeans/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.521Z",
+  "created_at": "2025-12-23T01:29:09.451Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/teradata-labs%2Fclaude-cookbooks/skills%2Fanalytics%2Ftd-kmeans%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.521Z",
+    "uniqueId": "sk_d40e1e662c09"
+  }
+}

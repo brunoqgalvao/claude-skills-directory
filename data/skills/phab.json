@@ -1,0 +1,36 @@
+{
+  "id": "phab",
+  "name": "phab",
+  "version": "1.0.0",
+  "summary": "Use phab CLI for Phabricator task management, code review workflows, revision creation and updates, with Git integration and auto-detection features.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lanej",
+    "github": "lanej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lanej/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/lanej/dotfiles/main/claude/skills/phab/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:55.868Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lanej%2Fdotfiles/claude%2Fskills%2Fphab%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_8c6244f09236"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "subagents-orchestration-guide",
+  "name": "subagents-orchestration-guide",
+  "version": "1.0.0",
+  "summary": "サブエージェント間の調整のためのオーケストレーションガイド。規模判定、ドキュメント要件、停止ポイント、自律実行モードを定義。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shinpr",
+    "github": "shinpr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shinpr/ai-coding-project-boilerplate",
+    "skill_md": "https://raw.githubusercontent.com/shinpr/ai-coding-project-boilerplate/main/.claude/skills-ja/subagents-orchestration-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:17:26.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shinpr%2Fai-coding-project-boilerplate/.claude%2Fskills-ja%2Fsubagents-orchestration-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_26a6a826caa7"
+  }
+}

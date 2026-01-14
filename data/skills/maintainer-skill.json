@@ -1,0 +1,35 @@
+{
+  "id": "maintainer-skill",
+  "name": "maintainer-skill",
+  "version": "1.0.0",
+  "summary": "Maintain the atlassian_confluence_cloud_v2_client SDK project. Use when asked to generate SDK code from OpenAPI spec, debug API issues, fix OpenAPI spec errors, or run the maint...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MacHu-GWU",
+    "github": "MacHu-GWU"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MacHu-GWU/atlassian_confluence_cloud_v2_client-project",
+    "skill_md": "https://raw.githubusercontent.com/MacHu-GWU/atlassian_confluence_cloud_v2_client-project/main/.claude/skills/maintainer-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T02:47:08.000Z",
+  "created_at": "2025-12-23T01:28:20.493Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MacHu-GWU%2Fatlassian_confluence_cloud_v2_client-project/.claude%2Fskills%2Fmaintainer-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_4895c6e53492"
+  }
+}

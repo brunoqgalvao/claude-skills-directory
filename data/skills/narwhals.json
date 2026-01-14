@@ -4,36 +4,33 @@
   "version": "1.0.0",
   "summary": "Effectively use Narwhals to write dataframe-agnostic code that works seamlessly across multiple Python dataframe libraries. Write correct type annotations for code using Narwhals.",
   "verticals": [
-    "Engineering",
-    "Data"
+    "engineering",
+    "data"
   ],
-  "tags": [
-    "narwhals",
-    "git",
-    "api"
-  ],
+  "tags": [],
   "author": {
     "name": "anam-org",
-    "github": "anam-org",
-    "avatar": "https://avatars.githubusercontent.com/u/156597016?v=4"
+    "github": "anam-org"
   },
   "status": "ready",
   "verified": false,
   "visibility": "public",
-  "license": "Apache-2.0",
+  "license": "MIT",
   "links": {
-    "repo": "https://github.com/anam-org/metaxy/tree/main/.claude/skills/narwhals/SKILL.md",
-    "skill_md": "https://raw.githubusercontent.com/anam-org/metaxy/main/.claude/skills/narwhals/SKILL.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install narwhals"
+    "repo": "https://github.com/anam-org/metaxy",
+    "skill_md": "https://raw.githubusercontent.com/anam-org/metaxy/main/.claude/skills/narwhals/SKILL.md"
   },
   "stats": {
-    "stars": 18,
-    "forks": 2,
+    "stars": 0,
+    "forks": 0,
     "installs": 0
   },
-  "last_updated": "2026-01-03",
-  "created_at": "2025-10-13"
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:22.193Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anam-org%2Fmetaxy/.claude%2Fskills%2Fnarwhals%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_a1868e1cdbd9"
+  }
 }

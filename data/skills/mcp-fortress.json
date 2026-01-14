@@ -1,0 +1,35 @@
+{
+  "id": "mcp-fortress",
+  "name": "mcp-fortress",
+  "version": "1.0.0",
+  "summary": "Scan MCP servers for security vulnerabilities, prompt injection attacks, and tool poisoning. Use this when the user wants to check if an MCP server is safe, analyze security ris...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcp-fortress",
+    "github": "mcp-fortress"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcp-fortress/mcp-fortress",
+    "skill_md": "https://raw.githubusercontent.com/mcp-fortress/mcp-fortress/main/claude-code-skill/skills/mcp-fortress/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.768Z",
+  "created_at": "2025-12-22T20:04:22.669Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcp-fortress%2Fmcp-fortress/claude-code-skill%2Fskills%2Fmcp-fortress%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_ddafeb2a3710"
+  }
+}

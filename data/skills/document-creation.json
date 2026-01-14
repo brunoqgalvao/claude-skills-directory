@@ -1,0 +1,37 @@
+{
+  "id": "document-creation",
+  "name": "document-creation",
+  "version": "1.0.0",
+  "summary": "Create structured documents from conversations, summaries, or content in open formats (markdown, PDF, text). Use when the user requests document creation, report generation, con...",
+  "verticals": [
+    "marketing",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "campbellmcgregor",
+    "github": "campbellmcgregor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/campbellmcgregor/claude-skills-repo",
+    "skill_md": "https://raw.githubusercontent.com/campbellmcgregor/claude-skills-repo/main/document-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:25.301Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/campbellmcgregor%2Fclaude-skills-repo/document-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_7f21cb84a3c4"
+  }
+}

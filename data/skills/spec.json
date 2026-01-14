@@ -1,40 +1,35 @@
 {
   "id": "spec",
-  "name": "Spec",
+  "name": "spec",
   "version": "1.0.0",
-  "summary": "Spec skill for Claude Code",
+  "summary": "Execute SDD Phase 0-3 workflow (brainstorm? → specify → plan → tasks). Use when (1) rough idea needs refinement, (2) starting new feature needing specification, (3) user request...",
   "verticals": [
-    "Engineering",
-    "HR"
+    "operations"
   ],
-  "tags": [
-    "spec",
-    "ai",
-    "claude",
-    "git"
-  ],
+  "tags": [],
   "author": {
-    "name": "unit-mesh",
-    "github": "unit-mesh",
-    "avatar": "https://avatars.githubusercontent.com/u/129267571?v=4"
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/unit-mesh/autodev-docs/tree/main/docs/spec/claude-skill.md",
-    "skill_md": "https://raw.githubusercontent.com/unit-mesh/autodev-docs/main/docs/spec/claude-skill.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install spec"
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/nextjs/skills/spec/SKILL.md"
   },
   "stats": {
-    "stars": 4,
-    "forks": 5,
+    "stars": 0,
+    "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-11-28",
-  "created_at": "2025-04-22"
+  "last_updated": "2025-12-17T04:53:40.000Z",
+  "created_at": "2025-12-22T17:12:49.871Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fnextjs%2Fskills%2Fspec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_46a5ceb6213d"
+  }
 }

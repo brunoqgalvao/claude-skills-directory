@@ -1,0 +1,36 @@
+{
+  "id": "session-reporter",
+  "name": "session-reporter",
+  "version": "1.0.0",
+  "summary": "Generate HTML file to view work session. Use when user asks to view content as HTML (e.g., 'HTML로 보여줘', 'HTML 파일로 만들어줘', 'view as HTML', 'export to HTML', 'HTML로 저장').",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "devstefancho",
+    "github": "devstefancho"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/devstefancho/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/devstefancho/claude-plugins/main/session-reporter-plugin/skills/session-reporter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.547Z",
+  "created_at": "2025-12-23T01:28:51.098Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/devstefancho%2Fclaude-plugins/session-reporter-plugin%2Fskills%2Fsession-reporter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.547Z",
+    "uniqueId": "sk_057ecfb0dfd5"
+  }
+}

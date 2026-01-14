@@ -1,0 +1,35 @@
+{
+  "id": "identifying-technical-debt",
+  "name": "identifying-technical-debt",
+  "version": "1.0.0",
+  "summary": "Use when cataloging technical debt under time pressure and tempted to explain choices instead of delivering document - enforces execution discipline with scoped delivery pattern...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tachyon-beep",
+    "github": "tachyon-beep"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tachyon-beep/hamlet",
+    "skill_md": "https://raw.githubusercontent.com/tachyon-beep/hamlet/main/.claude/skills/axiom-system-architect/skills/identifying-technical-debt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:03.204Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tachyon-beep%2Fhamlet/.claude%2Fskills%2Faxiom-system-architect%2Fskills%2Fidentifying-technical-debt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_25f478013c36"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "preflight-checks",
+  "name": "preflight-checks",
+  "version": "1.0.0",
+  "summary": "Comprehensive code quality verification system for running type checking, linting, and tests. Use when validating code quality, preparing commits, running CI checks locally, or ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "charlesjones-dev",
+    "github": "charlesjones-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/charlesjones-dev/claude-code-plugins-dev",
+    "skill_md": "https://raw.githubusercontent.com/charlesjones-dev/claude-code-plugins-dev/main/plugins/ai-workflow/skills/preflight-checks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:05.962Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/charlesjones-dev%2Fclaude-code-plugins-dev/plugins%2Fai-workflow%2Fskills%2Fpreflight-checks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_629786b8ba94"
+  }
+}

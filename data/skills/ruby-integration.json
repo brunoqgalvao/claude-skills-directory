@@ -1,0 +1,37 @@
+{
+  "id": "ruby-integration",
+  "name": "ruby-integration",
+  "version": "1.0.0",
+  "summary": "This skill is for writing integrations to the Ruby SDK. Claude acts as the engineer implementing LLM provider or agentic framework integrations. Use when adding support for Open...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "braintrustdata",
+    "github": "braintrustdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/braintrustdata/braintrust-sdk-ruby",
+    "skill_md": "https://raw.githubusercontent.com/braintrustdata/braintrust-sdk-ruby/main/.claude/skills/ruby-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.702Z",
+  "created_at": "2025-12-22T21:57:00.056Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/braintrustdata%2Fbraintrust-sdk-ruby/.claude%2Fskills%2Fruby-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.702Z",
+    "uniqueId": "sk_2397c1704d9c"
+  }
+}

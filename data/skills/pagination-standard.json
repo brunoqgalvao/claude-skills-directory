@@ -1,0 +1,35 @@
+{
+  "id": "pagination-standard",
+  "name": "pagination-standard",
+  "version": "1.0.0",
+  "summary": "Frontend-backend pagination standard, defining minimal parameter naming to reduce transmission characters, applicable to all system pagination scenarios.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TrueNine",
+    "github": "TrueNine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TrueNine/claude-code-projects",
+    "skill_md": "https://raw.githubusercontent.com/TrueNine/claude-code-projects/main/.factory/skills/page/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T06:54:40.000Z",
+  "created_at": "2025-12-23T01:28:27.682Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TrueNine%2Fclaude-code-projects/.factory%2Fskills%2Fpage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_179ff67a5efc"
+  }
+}

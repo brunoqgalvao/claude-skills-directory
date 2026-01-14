@@ -1,0 +1,35 @@
+{
+  "id": "excel-field-analyzer",
+  "name": "excel-field-analyzer",
+  "version": "1.0.0",
+  "summary": "分析Excel/CSV字段结构，AI自动生成中英文映射，验证翻译质量，输出统计报告。用于电子表格分析、数据字典创建、字段映射场景。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alongor666",
+    "github": "alongor666"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alongor666/excel-field-analyzer",
+    "skill_md": "https://raw.githubusercontent.com/alongor666/excel-field-analyzer/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T03:58:11.000Z",
+  "created_at": "2025-12-22T16:57:39.845Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alongor666%2Fexcel-field-analyzer/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_324b71ff5360"
+  }
+}

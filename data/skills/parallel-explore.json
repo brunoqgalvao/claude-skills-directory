@@ -1,0 +1,35 @@
+{
+  "id": "parallel-explore",
+  "name": "parallel-explore",
+  "version": "1.0.0",
+  "summary": "Launch four Explore agents in parallel to simultaneously investigate multiple areas of a codebase. Use this skill when multiple independent exploration tasks need to be performe...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oikon48",
+    "github": "oikon48"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oikon48/cc-web-playground",
+    "skill_md": "https://raw.githubusercontent.com/oikon48/cc-web-playground/main/.claude/skills/parallel-explore/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:36.557Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oikon48%2Fcc-web-playground/.claude%2Fskills%2Fparallel-explore%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_54f9f2623794"
+  }
+}

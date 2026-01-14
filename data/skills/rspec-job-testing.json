@@ -1,0 +1,37 @@
+{
+  "id": "rspec-job-testing",
+  "name": "rspec-job-testing",
+  "version": "1.0.0",
+  "summary": "Write RSpec tests for ActiveJob background jobs testing job execution, retry logic, and error handling. Use when testing background jobs, scheduled tasks, or asynchronous operat...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nekorush14",
+    "github": "nekorush14"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nekorush14/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nekorush14/dotfiles/main/configs/claude/skills/rspec-job-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:23.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nekorush14%2Fdotfiles/configs%2Fclaude%2Fskills%2Frspec-job-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_dd348dfaf720"
+  }
+}

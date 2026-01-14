@@ -1,0 +1,11 @@
+# robots.txt for Claude Skills Directory
+# https://skills.directory
+
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://skills.directory/sitemap.xml
+
+# Crawl-delay for polite bots (optional)
+Crawl-delay: 1

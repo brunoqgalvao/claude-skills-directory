@@ -1,0 +1,36 @@
+{
+  "id": "quick-fix",
+  "name": "quick-fix",
+  "version": "1.0.0",
+  "summary": "當使用 test 開頭的 command、skill、agent 時，在執行過程中使用者提出改善建議，立即調整 .claude 目錄中對應的 md 檔案",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MilesChou",
+    "github": "MilesChou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MilesChou/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/MilesChou/claude-marketplace/main/plugins/plugin-dev/skills/quick-fix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:11:20.063Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MilesChou%2Fclaude-marketplace/plugins%2Fplugin-dev%2Fskills%2Fquick-fix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_f59eac5abb67"
+  }
+}

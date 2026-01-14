@@ -1,0 +1,35 @@
+{
+  "id": "pr-backlog-cleaner",
+  "name": "pr-backlog-cleaner",
+  "version": "1.0.0",
+  "summary": "Clean and normalize a large backlog of GitHub pull requests in messy repositories. This skill should be used when facing a repository with numerous stale, conflicted, or outdate...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "auldsyababua",
+    "github": "auldsyababua"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/auldsyababua/instructor-workflow",
+    "skill_md": "https://raw.githubusercontent.com/auldsyababua/instructor-workflow/main/skills/pr-backlog-cleaner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:18:14.110Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/auldsyababua%2Finstructor-workflow/skills%2Fpr-backlog-cleaner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_8bf83075b3e8"
+  }
+}

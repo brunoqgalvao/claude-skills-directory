@@ -1,0 +1,35 @@
+{
+  "id": "plugin-architecture-convention",
+  "name": "plugin-architecture-convention",
+  "version": "1.0.0",
+  "summary": "プラグイン全体の構造設計原則（要素の役割分担、階層構造、依存関係管理）を定義する。プラグイン設計時、アーキテクチャレビュー時、またはユーザーがプラグイン構造、設計原則、独立性、汎用性、依存関係管理に言及した際に使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-plugin-generator/skills/plugin-architecture-convention/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.612Z",
+  "created_at": "2025-12-22T23:57:13.214Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-plugin-generator%2Fskills%2Fplugin-architecture-convention%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.612Z",
+    "uniqueId": "sk_ee17605cac3f"
+  }
+}

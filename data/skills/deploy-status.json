@@ -1,0 +1,35 @@
+{
+  "id": "deploy-status",
+  "name": "deploy-status",
+  "version": "1.0.0",
+  "summary": "배포 상태 실시간 모니터링 및 Health Check. GitHub Actions 워크플로우 진행 상황, K8s Pod 상태, Health Check 결과 확인. \"배포 상태\", \"배포 확인\", \"정상 동작\" 요청 시 사용.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dlehdgml5328",
+    "github": "dlehdgml5328"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dlehdgml5328/bodam",
+    "skill_md": "https://raw.githubusercontent.com/dlehdgml5328/bodam/main/.claude/skills/deploy-status/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:59.639Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dlehdgml5328%2Fbodam/.claude%2Fskills%2Fdeploy-status%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_68016fac5917"
+  }
+}

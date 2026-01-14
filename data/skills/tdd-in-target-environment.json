@@ -1,0 +1,35 @@
+{
+  "id": "tdd-in-target-environment",
+  "name": "tdd-in-target-environment",
+  "version": "1.0.0",
+  "summary": "Run tests in the actual execution environment, not just where they compile - TDD's \"watch it fail\" step is meaningless if tests skip or can't run where code will execute",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cassamajor",
+    "github": "cassamajor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cassamajor/xcnf",
+    "skill_md": "https://raw.githubusercontent.com/cassamajor/xcnf/main/.claude/skills/tdd-in-target-environment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T06:22:50.000Z",
+  "created_at": "2025-12-23T01:29:16.455Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cassamajor%2Fxcnf/.claude%2Fskills%2Ftdd-in-target-environment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_aa9191746421"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "write-commit-message",
+  "name": "write-commit-message",
+  "version": "1.0.0",
+  "summary": "Use when creating git commits. Defines conventional commit format and message structure guidelines.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "craigtkhill",
+    "github": "craigtkhill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/craigtkhill/stdd-agents",
+    "skill_md": "https://raw.githubusercontent.com/craigtkhill/stdd-agents/main/skills/write-commit-message/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T18:15:40.000Z",
+  "created_at": "2025-12-23T01:28:40.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/craigtkhill%2Fstdd-agents/skills%2Fwrite-commit-message%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_6b5785b30be6"
+  }
+}

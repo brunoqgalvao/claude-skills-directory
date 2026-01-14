@@ -1,0 +1,35 @@
+{
+  "id": "managing-hooks",
+  "name": "managing-hooks",
+  "version": "1.0.0",
+  "summary": "Creates, analyzes, updates, and improves Claude Code hooks including configuration, scripts, and security validation. Use when user asks how hooks work, explaining hook concepts...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thoeltig",
+    "github": "thoeltig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thoeltig/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/thoeltig/claude-code-toolkit/main/plugins/claude-code-capabilities/skills/managing-hooks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:32.008Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thoeltig%2Fclaude-code-toolkit/plugins%2Fclaude-code-capabilities%2Fskills%2Fmanaging-hooks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_a0c885b9bbbf"
+  }
+}

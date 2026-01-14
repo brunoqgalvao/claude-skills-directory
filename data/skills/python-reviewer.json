@@ -1,0 +1,37 @@
+{
+  "id": "python-reviewer",
+  "name": "python-reviewer",
+  "version": "1.0.0",
+  "summary": "WHEN: General Python code review, PEP8 compliance, type hints, Pythonic patterns\nWHAT: PEP8/style check + Type hint validation + Pythonic idioms + Error handling + Documentation...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "physics91",
+    "github": "physics91"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/physics91/claude-vibe",
+    "skill_md": "https://raw.githubusercontent.com/physics91/claude-vibe/main/skills/python-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:40.104Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/physics91%2Fclaude-vibe/skills%2Fpython-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_d3bae1820be1"
+  }
+}

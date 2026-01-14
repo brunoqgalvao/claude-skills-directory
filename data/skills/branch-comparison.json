@@ -1,0 +1,35 @@
+{
+  "id": "branch-comparison",
+  "name": "branch-comparison",
+  "version": "1.0.0",
+  "summary": "Use when the user asks to compare branches, analyze git diffs, review changes between branches, update specifications based on code changes, or analyze what changed. Triggers on...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "duc01226",
+    "github": "duc01226"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/duc01226/EasyPlatform",
+    "skill_md": "https://raw.githubusercontent.com/duc01226/EasyPlatform/main/.claude/skills/branch-comparison/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T21:07:03.000Z",
+  "created_at": "2025-12-22T17:51:44.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/duc01226%2FEasyPlatform/.claude%2Fskills%2Fbranch-comparison%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_8f20e86bd4d8"
+  }
+}

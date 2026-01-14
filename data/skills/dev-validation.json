@@ -1,0 +1,36 @@
+{
+  "id": "dev-validation",
+  "name": "dev-validation",
+  "version": "1.0.0",
+  "summary": "Development cycle validation gate (Gate 5) - validates all acceptance criteria are met\nand requires explicit user approval before completion.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/dev-team/skills/dev-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:50:31.000Z",
+  "created_at": "2025-12-23T01:29:36.827Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/dev-team%2Fskills%2Fdev-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_62002cc6b064"
+  }
+}

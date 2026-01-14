@@ -1,0 +1,35 @@
+{
+  "id": "security-testing",
+  "name": "security-testing",
+  "version": "1.0.0",
+  "summary": "Test for security vulnerabilities using OWASP principles. Use when conducting security audits, testing auth, or implementing security practices.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/ampel",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/ampel/main/.claude/skills/security-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:51.937Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fampel/.claude%2Fskills%2Fsecurity-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_2613f71cea58"
+  }
+}

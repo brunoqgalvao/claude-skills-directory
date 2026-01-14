@@ -1,0 +1,35 @@
+{
+  "id": "wp-env",
+  "name": "wp-env",
+  "version": "1.0.0",
+  "summary": "Local WordPress development environment management using @wordpress/env for plugin and theme development. Use this skill when setting up, configuring, starting, stopping, or man...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "emdashcodes",
+    "github": "emdashcodes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/emdashcodes/wp-ability-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/emdashcodes/wp-ability-toolkit/main/claude-code-plugins/wp-env/skills/wp-env/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:16:46.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/emdashcodes%2Fwp-ability-toolkit/claude-code-plugins%2Fwp-env%2Fskills%2Fwp-env%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_adcccad246b4"
+  }
+}

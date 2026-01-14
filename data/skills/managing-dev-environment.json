@@ -1,0 +1,36 @@
+{
+  "id": "managing-dev-environment",
+  "name": "managing-dev-environment",
+  "version": "1.0.0",
+  "summary": "Use this skill when starting, stopping, or troubleshooting the development environment including managing backend/frontend services, handling port conflicts, setting up Docker v...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wolfiesch",
+    "github": "wolfiesch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wolfiesch/UFC-pokedex",
+    "skill_md": "https://raw.githubusercontent.com/wolfiesch/UFC-pokedex/main/.claude/skills/managing-dev-environment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:18:08.482Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wolfiesch%2FUFC-pokedex/.claude%2Fskills%2Fmanaging-dev-environment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_4fbbb74d838a"
+  }
+}

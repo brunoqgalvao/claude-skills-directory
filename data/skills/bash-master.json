@@ -1,0 +1,37 @@
+{
+  "id": "bash-master",
+  "name": "bash-master",
+  "version": "1.0.0",
+  "summary": "Expert bash/shell scripting system across ALL platforms. PROACTIVELY activate for: (1) ANY bash/shell script task, (2) System automation, (3) DevOps/CI/CD scripts, (4) Build/dep...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JosiahSiegel",
+    "github": "JosiahSiegel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JosiahSiegel/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/JosiahSiegel/claude-code-marketplace/main/plugins/bash-master/skills/bash-master/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:33.404Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JosiahSiegel%2Fclaude-code-marketplace/plugins%2Fbash-master%2Fskills%2Fbash-master%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_8cdc41d8a8a6"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "supabase-rls-policy",
+  "name": "supabase-rls-policy",
+  "version": "1.0.0",
+  "summary": "Expert guidance for writing Supabase PostgreSQL row-level security (RLS) policies. Use when creating, modifying, or troubleshooting RLS policies for Supabase databases, implemen...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "linehaul-ai",
+    "github": "linehaul-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/linehaul-ai/linehaulai-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/linehaul-ai/linehaulai-claude-marketplace/main/.claude-plugin/supabase/skills/supabase-rls-policy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T13:12:05.000Z",
+  "created_at": "2025-12-23T01:29:04.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/linehaul-ai%2Flinehaulai-claude-marketplace/.claude-plugin%2Fsupabase%2Fskills%2Fsupabase-rls-policy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_771d845b1994"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-commands",
+  "name": "git-commands",
+  "version": "1.0.0",
+  "summary": "Git command conventions for pikru. Use when running any git commands to avoid blocking on interactive pager.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bearcove",
+    "github": "bearcove"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bearcove/pikru",
+    "skill_md": "https://raw.githubusercontent.com/bearcove/pikru/main/.claude/skills/git-commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.582Z",
+  "created_at": "2025-12-23T01:28:14.113Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bearcove%2Fpikru/.claude%2Fskills%2Fgit-commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.582Z",
+    "uniqueId": "sk_20e846063615"
+  }
+}

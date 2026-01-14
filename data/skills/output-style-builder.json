@@ -1,0 +1,37 @@
+{
+  "id": "output-style-builder",
+  "name": "output-style-builder",
+  "version": "1.0.0",
+  "summary": "Creates structured output formats (JSON, YAML, Markdown-KV, XML) and response style configurations for Claude. Use when: (1) defining agent output schemas (.json, .yaml, .xml), ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bsamiee",
+    "github": "bsamiee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bsamiee/Parametric_Portal",
+    "skill_md": "https://raw.githubusercontent.com/bsamiee/Parametric_Portal/main/.claude/skills/output-style-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T22:44:05.000Z",
+  "created_at": "2025-12-23T01:29:00.167Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bsamiee%2FParametric_Portal/.claude%2Fskills%2Foutput-style-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.531Z",
+    "uniqueId": "sk_2c561da83bed"
+  }
+}

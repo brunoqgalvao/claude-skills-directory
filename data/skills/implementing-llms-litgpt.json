@@ -1,0 +1,35 @@
+{
+  "id": "implementing-llms-litgpt",
+  "name": "implementing-llms-litgpt",
+  "version": "1.0.0",
+  "summary": "Implements and trains LLMs using Lightning AI's LitGPT with 20+ pretrained architectures (Llama, Gemma, Phi, Qwen, Mistral). Use when need clean model implementations, education...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/01-model-architecture/litgpt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.451Z",
+  "created_at": "2025-12-23T01:29:34.675Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/01-model-architecture%2Flitgpt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.451Z",
+    "uniqueId": "sk_1e20857643a2"
+  }
+}

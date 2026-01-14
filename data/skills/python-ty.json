@@ -1,0 +1,35 @@
+{
+  "id": "python-ty",
+  "name": "python-ty",
+  "version": "1.0.0",
+  "summary": "Fast Python type checking with ty (by Astral). Use when checking Python types, running type checks in CI, or setting up type checking for Python projects. Triggers on \"type chec...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tizee",
+    "github": "tizee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tizee/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/tizee/dotfiles/main/claude/skills/python-ty/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T05:10:19.000Z",
+  "created_at": "2025-12-23T01:28:38.031Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tizee%2Fdotfiles/claude%2Fskills%2Fpython-ty%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_ba787690d1cd"
+  }
+}

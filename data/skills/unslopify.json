@@ -1,0 +1,36 @@
+{
+  "id": "unslopify",
+  "name": "unslopify",
+  "version": "1.0.0",
+  "summary": "Tactical code cleanup focusing on type strictness, single responsibility, fail-fast patterns, and DRY. Detects sloppy code, workarounds, silent failures, god classes, and duplic...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shanev",
+    "github": "shanev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shanev/skills",
+    "skill_md": "https://raw.githubusercontent.com/shanev/skills/main/unslopify/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.571Z",
+  "created_at": "2025-12-23T01:28:31.673Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shanev%2Fskills/unslopify%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_bccc49c59f04"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "d20-monsters",
+  "name": "d20-monsters",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the GM needs to create NPCs or monsters, generate stat blocks, determine enemy stats, design creatures, or generate adversaries for d20-style RPG ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rjroy",
+    "github": "rjroy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rjroy/adventure-engine-corvran",
+    "skill_md": "https://raw.githubusercontent.com/rjroy/adventure-engine-corvran/main/d20-system/skills/d20-monsters/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:20.247Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rjroy%2Fadventure-engine-corvran/d20-system%2Fskills%2Fd20-monsters%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_7648a06c268c"
+  }
+}

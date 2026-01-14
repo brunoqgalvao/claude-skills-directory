@@ -1,0 +1,35 @@
+{
+  "id": "planning-doc-generator",
+  "name": "planning-doc-generator",
+  "version": "1.0.0",
+  "summary": "Generate project assessment markdown documents from JSON data with WHY/WHO/WHAT sections and GO/NO-GO decision matrix.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matteocervelli",
+    "github": "matteocervelli"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matteocervelli/llms",
+    "skill_md": "https://raw.githubusercontent.com/matteocervelli/llms/main/.claude/skills/planning-doc-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T05:49:16.000Z",
+  "created_at": "2025-12-23T01:28:53.759Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matteocervelli%2Fllms/.claude%2Fskills%2Fplanning-doc-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_7941c9d02ad2"
+  }
+}

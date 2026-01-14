@@ -1,0 +1,35 @@
+{
+  "id": "skill-ollama-deepseek-ocr-tool",
+  "name": "skill-ollama-deepseek-ocr-tool",
+  "version": "1.0.0",
+  "summary": "Batch OCR processing with DeepSeek-OCR via Ollama",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dnvriend",
+    "github": "dnvriend"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dnvriend/ollama-deepseek-ocr-tool",
+    "skill_md": "https://raw.githubusercontent.com/dnvriend/ollama-deepseek-ocr-tool/main/plugins/ollama-deepseek-ocr-tool/skills/ollama-deepseek-ocr-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:10.912Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dnvriend%2Follama-deepseek-ocr-tool/plugins%2Follama-deepseek-ocr-tool%2Fskills%2Follama-deepseek-ocr-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_0964fb88c875"
+  }
+}

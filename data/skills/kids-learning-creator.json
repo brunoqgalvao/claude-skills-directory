@@ -1,0 +1,35 @@
+{
+  "id": "kids-learning-creator",
+  "name": "kids-learning-creator",
+  "version": "1.0.0",
+  "summary": "Genera contenuti didattici interattivi per bambini di 10 anni su qualsiasi argomento. Include spiegazioni semplici, quiz, esperimenti, attività pratiche e prompt per immagini AI...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fracabu",
+    "github": "fracabu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fracabu/claude-skill-factory",
+    "skill_md": "https://raw.githubusercontent.com/fracabu/claude-skill-factory/main/generated_skills/kids-learning-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T09:23:46.000Z",
+  "created_at": "2025-12-23T01:29:27.451Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fracabu%2Fclaude-skill-factory/generated_skills%2Fkids-learning-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_a1fea0738cd0"
+  }
+}

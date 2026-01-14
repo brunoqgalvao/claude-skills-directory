@@ -1,0 +1,37 @@
+{
+  "id": "laravel-query-builders",
+  "name": "laravel-query-builders",
+  "version": "1.0.0",
+  "summary": "Custom query builders for type-safe, composable database queries. Use when working with database queries, query scoping, or when user mentions query builders, custom query build...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-laravel",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-laravel/main/skills/laravel-query-builders/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T14:33:42.000Z",
+  "created_at": "2025-12-22T14:54:54.970Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-laravel/skills%2Flaravel-query-builders%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.881Z",
+    "uniqueId": "sk_80382e03a6bb"
+  }
+}

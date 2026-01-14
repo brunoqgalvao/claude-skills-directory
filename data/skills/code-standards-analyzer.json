@@ -1,0 +1,36 @@
+{
+  "id": "code-standards-analyzer",
+  "name": "code-standards-analyzer",
+  "version": "1.0.0",
+  "summary": "Coding standards discovery and documentation expert. Analyzes codebase to detect naming conventions, patterns, anti-patterns, and best practices. Generates or updates coding sta...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave/skills/code-standards-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:14:50.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave%2Fskills%2Fcode-standards-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_54c7f8497881"
+  }
+}

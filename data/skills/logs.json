@@ -1,0 +1,35 @@
+{
+  "id": "logs",
+  "name": "logs",
+  "version": "1.0.0",
+  "summary": "View Vercel deployment logs. Use when the user says \"show logs\", \"check logs\", \"vercel logs\", or \"what went wrong with the deployment\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vercel",
+    "github": "vercel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vercel/vercel-deploy-claude-code-plugin",
+    "skill_md": "https://raw.githubusercontent.com/vercel/vercel-deploy-claude-code-plugin/main/skills/logs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T00:00:55.000Z",
+  "created_at": "2025-12-23T01:28:16.653Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vercel%2Fvercel-deploy-claude-code-plugin/skills%2Flogs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.581Z",
+    "uniqueId": "sk_5ce9aef50ddd"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "reviewing-state-management",
+  "name": "reviewing-state-management",
+  "version": "1.0.0",
+  "summary": "Review state management patterns for React 19 best practices. Use when reviewing component state, Context usage, or state architecture.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/react-19/skills/reviewing-state-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T23:15:51.000Z",
+  "created_at": "2025-12-23T01:28:28.987Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/react-19%2Fskills%2Freviewing-state-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_fa10c83eb34a"
+  }
+}

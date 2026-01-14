@@ -1,0 +1,35 @@
+{
+  "id": "pie-chart",
+  "name": "pie-chart",
+  "version": "1.0.0",
+  "summary": "Configure pie and doughnut charts in drizzle-cube dashboards for part-to-whole relationships and proportions. Use when creating pie charts, doughnut charts, or percentage visual...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cliftonc",
+    "github": "cliftonc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cliftonc/drizzle-cube-skills",
+    "skill_md": "https://raw.githubusercontent.com/cliftonc/drizzle-cube-skills/main/charts/pie-chart/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T04:47:11.000Z",
+  "created_at": "2025-12-23T01:28:49.722Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cliftonc%2Fdrizzle-cube-skills/charts%2Fpie-chart%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_6a9f044c4701"
+  }
+}

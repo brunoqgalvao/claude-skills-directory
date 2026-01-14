@@ -1,0 +1,37 @@
+{
+  "id": "blockchain-data-collection-validation",
+  "name": "blockchain-data-collection-validation",
+  "version": "1.0.0",
+  "summary": "Empirical validation workflow for blockchain data collection pipelines before production implementation. Use when validating data sources, testing DuckDB integration, building P...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/gapless-network-data",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/gapless-network-data/main/.claude/skills/blockchain-data-collection-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T02:58:51.000Z",
+  "created_at": "2025-12-23T01:28:59.295Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fgapless-network-data/.claude%2Fskills%2Fblockchain-data-collection-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.533Z",
+    "uniqueId": "sk_9c00a9c052ed"
+  }
+}

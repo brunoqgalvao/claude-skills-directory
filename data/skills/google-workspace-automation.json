@@ -1,0 +1,37 @@
+{
+  "id": "google-workspace-automation",
+  "name": "google-workspace-automation",
+  "version": "1.0.0",
+  "summary": "Master skill for automating Google Workspace with the RiversUnlimited MCP. Use when working with Gmail, Drive, Calendar, Docs, Sheets, Forms, Slides, Chat, or Photos. Includes 9...",
+  "verticals": [
+    "marketing",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dipseth",
+    "github": "dipseth"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dipseth/google_workspace_fastmcp2",
+    "skill_md": "https://raw.githubusercontent.com/dipseth/google_workspace_fastmcp2/main/google-workspace-automation 4/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.477Z",
+  "created_at": "2025-12-23T01:29:49.987Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dipseth%2Fgoogle_workspace_fastmcp2/google-workspace-automation%204%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_681a24d84537"
+  }
+}

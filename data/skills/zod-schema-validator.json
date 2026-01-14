@@ -1,0 +1,35 @@
+{
+  "id": "zod-schema-validator",
+  "name": "zod-schema-validator",
+  "version": "1.0.0",
+  "summary": "Implementa validación de esquemas con Zod en servicios y API routes. Usa cuando necesites validar inputs, crear schemas, o tarea 3.1 del PLAN_MEJORAS.md.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sanchezx1",
+    "github": "sanchezx1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sanchezx1/v0-fullcolor-cotizador",
+    "skill_md": "https://raw.githubusercontent.com/sanchezx1/v0-fullcolor-cotizador/main/.claude/skills/zod-schema-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:12.277Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sanchezx1%2Fv0-fullcolor-cotizador/.claude%2Fskills%2Fzod-schema-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_8d6f2da0fd90"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "codex-collaboration",
+  "name": "codex-collaboration",
+  "version": "1.0.0",
+  "summary": "管理与Codex的协作流程，包括深度分析、复杂逻辑设计、代码审查等。当任务需要深度推理、>10行核心逻辑设计或质量审查时使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xbpk3t",
+    "github": "xbpk3t"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xbpk3t/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/xbpk3t/dotfiles/main/home/base/tui/ai/skills/codex-collaboration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.679Z",
+  "created_at": "2025-12-22T22:11:20.738Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xbpk3t%2Fdotfiles/home%2Fbase%2Ftui%2Fai%2Fskills%2Fcodex-collaboration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.679Z",
+    "uniqueId": "sk_d905b6e3616c"
+  }
+}

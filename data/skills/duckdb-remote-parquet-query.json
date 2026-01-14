@@ -1,0 +1,36 @@
+{
+  "id": "duckdb-remote-parquet-query",
+  "name": "duckdb-remote-parquet-query",
+  "version": "1.0.0",
+  "summary": "Query remote Parquet files via HTTP without downloading using DuckDB httpfs. Leverage column pruning, row filtering, and range requests for efficient bandwidth usage. Use for cr...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/binance-futures-availability",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/binance-futures-availability/main/skills/duckdb-remote-parquet-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:16:39.972Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fbinance-futures-availability/skills%2Fduckdb-remote-parquet-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_470af1a6ce30"
+  }
+}

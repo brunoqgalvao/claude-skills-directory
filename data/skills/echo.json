@@ -1,0 +1,35 @@
+{
+  "id": "echo",
+  "name": "echo",
+  "version": "1.0.0",
+  "summary": "Go Echo framework skill with documentation, guides, and examples",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bailu2025",
+    "github": "bailu2025"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bailu2025/CC-Plugins",
+    "skill_md": "https://raw.githubusercontent.com/bailu2025/CC-Plugins/main/plugins/go-echo-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T12:11:52.000Z",
+  "created_at": "2025-12-22T15:05:30.336Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bailu2025%2FCC-Plugins/plugins%2Fgo-echo-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_73030399baf3"
+  }
+}

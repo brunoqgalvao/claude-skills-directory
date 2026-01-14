@@ -1,0 +1,35 @@
+{
+  "id": "ln-367-observability-auditor",
+  "name": "ln-367-observability-auditor",
+  "version": "1.0.0",
+  "summary": "Observability audit worker (L3). Checks structured logging, health check endpoints, metrics collection, request tracing, log levels. Returns findings with severity, location, ef...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-367-observability-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T11:05:43.000Z",
+  "created_at": "2025-12-22T15:58:55.700Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-367-observability-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_aba444ecf025"
+  }
+}

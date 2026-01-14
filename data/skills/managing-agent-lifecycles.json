@@ -1,0 +1,35 @@
+{
+  "id": "managing-agent-lifecycles",
+  "name": "managing-agent-lifecycles",
+  "version": "1.0.0",
+  "summary": "Implements persistent agent lifecycle management with 6 lifespans (ephemeral, turn, context, session, workflow, project). Use when creating agents that survive across turns, man...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hgeldenhuys",
+    "github": "hgeldenhuys"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hgeldenhuys/claude-agent-lifecycle",
+    "skill_md": "https://raw.githubusercontent.com/hgeldenhuys/claude-agent-lifecycle/main/.claude/skills/managing-agent-lifecycles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:28.436Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hgeldenhuys%2Fclaude-agent-lifecycle/.claude%2Fskills%2Fmanaging-agent-lifecycles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_fa745d092d2b"
+  }
+}

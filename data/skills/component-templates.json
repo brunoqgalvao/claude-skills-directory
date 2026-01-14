@@ -1,0 +1,35 @@
+{
+  "id": "component-templates",
+  "name": "component-templates",
+  "version": "1.0.0",
+  "summary": "UI component library templates (buttons, forms, cards, modals, etc.). Use when generating frontend UI components.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/dev-lifecycle-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/dev-lifecycle-marketplace/main/.archive/old-numbered-plugins/02-develop/skills/component-templates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:29.497Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fdev-lifecycle-marketplace/.archive%2Fold-numbered-plugins%2F02-develop%2Fskills%2Fcomponent-templates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_7993fbfbdd86"
+  }
+}

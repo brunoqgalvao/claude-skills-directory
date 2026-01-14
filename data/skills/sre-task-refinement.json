@@ -1,0 +1,36 @@
+{
+  "id": "sre-task-refinement",
+  "name": "sre-task-refinement",
+  "version": "1.0.0",
+  "summary": "Use when you have to refine subtasks into actionable plans ensuring that all corner cases are handled and we understand all the requirements.",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "withzombies",
+    "github": "withzombies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/withzombies/hyperpowers",
+    "skill_md": "https://raw.githubusercontent.com/withzombies/hyperpowers/main/skills/sre-task-refinement/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:57.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/withzombies%2Fhyperpowers/skills%2Fsre-task-refinement%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_5e916ddde2df"
+  }
+}

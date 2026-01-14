@@ -1,0 +1,36 @@
+{
+  "id": "docker-deploy",
+  "name": "docker-deploy",
+  "version": "1.0.0",
+  "summary": "Create Docker configurations and deployment workflows for Scrapy projects when containerizing spiders or deploying to production. Generates Dockerfiles, docker-compose setups, a...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gizix",
+    "github": "gizix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gizix/cc_projects",
+    "skill_md": "https://raw.githubusercontent.com/gizix/cc_projects/main/scrapy-template/.claude/skills/docker-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:01:13.433Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gizix%2Fcc_projects/scrapy-template%2F.claude%2Fskills%2Fdocker-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_75cbe4c31aac"
+  }
+}

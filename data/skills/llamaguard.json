@@ -1,0 +1,36 @@
+{
+  "id": "llamaguard",
+  "name": "llamaguard",
+  "version": "1.0.0",
+  "summary": "Meta's 7-8B specialized moderation model for LLM input/output filtering. 6 safety categories - violence/hate, sexual content, weapons, substances, self-harm, criminal planning. ...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/07-safety-alignment/llamaguard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T22:51:38.000Z",
+  "created_at": "2025-12-23T01:29:29.238Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/07-safety-alignment%2Fllamaguard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.451Z",
+    "uniqueId": "sk_69f80c9d8c3a"
+  }
+}

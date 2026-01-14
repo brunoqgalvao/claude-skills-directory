@@ -1,0 +1,37 @@
+{
+  "id": "implementation-verification",
+  "name": "implementation-verification",
+  "version": "1.0.0",
+  "summary": "Use after implementation complete to verify all tasks done, update roadmap, run full test suite, and create final report - ensures implementation completeness before finishing d...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcos-abreu",
+    "github": "marcos-abreu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcos-abreu/connect_kit",
+    "skill_md": "https://raw.githubusercontent.com/marcos-abreu/connect_kit/main/.claude/skills/implementation-verification/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.518Z",
+  "created_at": "2025-12-23T01:29:11.721Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcos-abreu%2Fconnect_kit/.claude%2Fskills%2Fimplementation-verification%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_4e4e8886b5bb"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "critical-thinking-logical-reasoning",
+  "name": "critical-thinking-logical-reasoning",
+  "version": "1.0.0",
+  "summary": "Critical thinking and logical reasoning analysis skills for when you are explicitly asked to critically analyse written content such as articles, blogs, transcripts and reports ...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sammcj",
+    "github": "sammcj"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sammcj/agentic-coding",
+    "skill_md": "https://raw.githubusercontent.com/sammcj/agentic-coding/main/Claude/skills/critical-thinking-logical-reasoning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:13.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sammcj%2Fagentic-coding/Claude%2Fskills%2Fcritical-thinking-logical-reasoning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_9fbd93628bdc"
+  }
+}

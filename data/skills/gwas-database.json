@@ -1,0 +1,35 @@
+{
+  "id": "gwas-database",
+  "name": "gwas-database",
+  "version": "1.0.0",
+  "summary": "Query NHGRI-EBI GWAS Catalog for SNP-trait associations. Search variants by rs ID, disease/trait, gene, retrieve p-values and summary statistics, for genetic epidemiology and po...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lifangda",
+    "github": "lifangda"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lifangda/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/lifangda/claude-plugins/main/cli-tool/skills-library/scientific-databases/gwas-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T01:33:37.000Z",
+  "created_at": "2025-12-22T23:19:16.649Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lifangda%2Fclaude-plugins/cli-tool%2Fskills-library%2Fscientific-databases%2Fgwas-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.437Z",
+    "uniqueId": "sk_263169b83204"
+  }
+}

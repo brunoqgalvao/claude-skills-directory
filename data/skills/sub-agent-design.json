@@ -1,0 +1,36 @@
+{
+  "id": "sub-agent-design",
+  "name": "sub-agent-design",
+  "version": "1.0.0",
+  "summary": "Interpretive guidance for designing Claude Code sub-agents. Helps apply official documentation effectively and avoid common pitfalls. ALWAYS use when creating or reviewing sub-a...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "racurry",
+    "github": "racurry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/racurry/neat-little-package",
+    "skill_md": "https://raw.githubusercontent.com/racurry/neat-little-package/main/plugins/box-factory/skills/sub-agent-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.617Z",
+  "created_at": "2025-12-22T23:20:23.125Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/racurry%2Fneat-little-package/plugins%2Fbox-factory%2Fskills%2Fsub-agent-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.617Z",
+    "uniqueId": "sk_8d395b5a80a4"
+  }
+}

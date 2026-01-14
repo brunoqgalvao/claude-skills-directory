@@ -1,0 +1,36 @@
+{
+  "id": "developing-rails",
+  "name": "developing-rails",
+  "version": "1.0.0",
+  "summary": "Use when working with Rails projects, ActiveRecord models, controllers, routes, or Rails-specific patterns. Covers naming conventions, models, migrations, service objects, and t...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkappers",
+    "github": "jkappers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkappers/claude-code-software-delivery-plugin",
+    "skill_md": "https://raw.githubusercontent.com/jkappers/claude-code-software-delivery-plugin/main/.claude/skills/developing-rails/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.822Z",
+  "created_at": "2025-12-22T17:05:49.187Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkappers%2Fclaude-code-software-delivery-plugin/.claude%2Fskills%2Fdeveloping-rails%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.822Z",
+    "uniqueId": "sk_af0a67ffe0d4"
+  }
+}

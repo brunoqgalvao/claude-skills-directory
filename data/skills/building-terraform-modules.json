@@ -1,0 +1,37 @@
+{
+  "id": "building-terraform-modules",
+  "name": "building-terraform-modules",
+  "version": "1.0.0",
+  "summary": "This skill empowers Claude to build reusable Terraform modules based on user specifications. It leverages the terraform-module-builder plugin to generate production-ready, well-...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/backups/skills-batch-20251204-000554/plugins/devops/terraform-module-builder/skills/terraform-module-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T06:09:39.000Z",
+  "created_at": "2025-12-19T17:55:02.190Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/backups%2Fskills-batch-20251204-000554%2Fplugins%2Fdevops%2Fterraform-module-builder%2Fskills%2Fterraform-module-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_0e09cc09ac01"
+  }
+}

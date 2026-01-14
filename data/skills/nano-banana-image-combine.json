@@ -1,0 +1,35 @@
+{
+  "id": "nano-banana-image-combine",
+  "name": "nano-banana-image-combine",
+  "version": "1.0.0",
+  "summary": "Combine multiple images using Gemini 2.5 Flash (Nano Banana) via OpenRouter. Use when merging 2-8 images with AI-guided composition.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "guaderrama",
+    "github": "guaderrama"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/guaderrama/administracion-ofi-hrms",
+    "skill_md": "https://raw.githubusercontent.com/guaderrama/administracion-ofi-hrms/main/.claude/skills/nano-banana-image-combine/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.456Z",
+  "created_at": "2025-12-23T00:04:03.838Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/guaderrama%2Fadministracion-ofi-hrms/.claude%2Fskills%2Fnano-banana-image-combine%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.456Z",
+    "uniqueId": "sk_7e340e56d970"
+  }
+}

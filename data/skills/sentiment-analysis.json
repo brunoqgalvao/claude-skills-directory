@@ -1,0 +1,35 @@
+{
+  "id": "sentiment-analysis",
+  "name": "sentiment-analysis",
+  "version": "1.0.0",
+  "summary": "Use to interpret qualitative feedback, trends, and risks across community channels.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/community-orchestration/skills/sentiment-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T14:32:29.000Z",
+  "created_at": "2025-12-22T14:56:23.860Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fcommunity-orchestration%2Fskills%2Fsentiment-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_9a432c950368"
+  }
+}

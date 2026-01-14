@@ -1,0 +1,36 @@
+{
+  "id": "read-unresolved-pr-comments",
+  "name": "read-unresolved-pr-comments",
+  "version": "1.0.0",
+  "summary": "GitHub PRから未対応のコメントを取得します。GraphQL APIで (1) コード特定行への未解決Review threads（Resolve可能）と (2) コードブロックを含むIssue comments（会話タブ、Resolve不可）の両方を取得し、JSON形式で出力します。PR情報（番号・タイトル・URL・状態・作成者・レビュアー）も...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "getty104",
+    "github": "getty104"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/getty104/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/getty104/claude-code-marketplace/main/getty104/skills/read-unresolved-pr-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.580Z",
+  "created_at": "2025-12-23T01:28:19.159Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/getty104%2Fclaude-code-marketplace/getty104%2Fskills%2Fread-unresolved-pr-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_50afee1ef1ec"
+  }
+}

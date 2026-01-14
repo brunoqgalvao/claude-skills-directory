@@ -1,0 +1,35 @@
+{
+  "id": "generate-mixed-media",
+  "name": "generate-mixed-media",
+  "version": "1.0.0",
+  "summary": "Combine selected ad images with ad copy to create platform-ready mixed media creatives. Use when compositing text overlays onto images, creating final ad assets, or generating d...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feed-mob",
+    "github": "feed-mob"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feed-mob/feedmob-adpilot-mcp",
+    "skill_md": "https://raw.githubusercontent.com/feed-mob/feedmob-adpilot-mcp/main/src/plugins/generate-mixed-media/skills/generate-mixed-media/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:58.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feed-mob%2Ffeedmob-adpilot-mcp/src%2Fplugins%2Fgenerate-mixed-media%2Fskills%2Fgenerate-mixed-media%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_943ff54ea280"
+  }
+}

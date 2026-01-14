@@ -1,0 +1,35 @@
+{
+  "id": "github-issue-creation",
+  "name": "github-issue-creation",
+  "version": "1.0.0",
+  "summary": "GitHub issue creation best practices including label verification, format standards, and systemic issue detection. Prevents duplicate work and ensures proper categorization.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elevanaltd",
+    "github": "elevanaltd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elevanaltd/eav-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/elevanaltd/eav-monorepo/main/.claude/skills/github-issue-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T16:54:55.000Z",
+  "created_at": "2025-12-22T01:34:22.852Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elevanaltd%2Feav-monorepo/.claude%2Fskills%2Fgithub-issue-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_4b63fde1a47a"
+  }
+}

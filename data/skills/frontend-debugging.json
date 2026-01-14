@@ -1,0 +1,36 @@
+{
+  "id": "frontend-debugging",
+  "name": "frontend-debugging",
+  "version": "1.0.0",
+  "summary": "Systematic 10-phase debugging procedure for SvelteKit 2 + Svelte 5 frontend issues. Use when components fail to render, routing breaks, runes throw errors, or Encore client call...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nirukk52",
+    "github": "nirukk52"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nirukk52/ScreenGraph",
+    "skill_md": "https://raw.githubusercontent.com/nirukk52/ScreenGraph/main/.claude-skills/frontend-debugging_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.858Z",
+  "created_at": "2025-12-22T15:10:50.302Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nirukk52%2FScreenGraph/.claude-skills%2Ffrontend-debugging_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_f9cfa757c58c"
+  }
+}

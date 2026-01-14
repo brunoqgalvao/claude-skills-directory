@@ -1,0 +1,35 @@
+{
+  "id": "managing-projects",
+  "name": "managing-projects",
+  "version": "1.0.0",
+  "summary": "GitHub Projects v2 expertise for creating and managing project boards, fields, views, and items. Auto-invokes when project boards, sprints, kanban workflows, or issue organizati...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C0ntr0lledCha0s",
+    "github": "C0ntr0lledCha0s"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C0ntr0lledCha0s/claude-code-plugin-automations",
+    "skill_md": "https://raw.githubusercontent.com/C0ntr0lledCha0s/claude-code-plugin-automations/main/github-workflows/skills/managing-projects/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:09:20.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C0ntr0lledCha0s%2Fclaude-code-plugin-automations/github-workflows%2Fskills%2Fmanaging-projects%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_fe6e3d2319d6"
+  }
+}

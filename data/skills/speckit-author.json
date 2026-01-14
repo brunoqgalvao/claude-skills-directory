@@ -1,0 +1,35 @@
+{
+  "id": "speckit-author",
+  "name": "speckit-author",
+  "version": "1.0.0",
+  "summary": "Creates SpecKit specifications (spec.md, plan.md) in feature/release/hotfix\nworktrees. Detailed implementation guidance.\n\nUse when: In worktree, need specifications, implementat...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stharrold",
+    "github": "stharrold"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stharrold/bingo",
+    "skill_md": "https://raw.githubusercontent.com/stharrold/bingo/main/.claude/skills/speckit-author/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:28.011Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stharrold%2Fbingo/.claude%2Fskills%2Fspeckit-author%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_7d5398a37e96"
+  }
+}

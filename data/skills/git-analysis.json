@@ -1,0 +1,35 @@
+{
+  "id": "git-analysis",
+  "name": "git-analysis",
+  "version": "1.0.0",
+  "summary": "Analyze git repository changes, branch differences, and commit history. Use when analyzing branches, comparing changes, examining commit history, or preparing for PR/commit oper...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "1natsu172",
+    "github": "1natsu172"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/1natsu172/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/1natsu172/dotfiles/main/.claude/skills/git-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:56:44.293Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/1natsu172%2Fdotfiles/.claude%2Fskills%2Fgit-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_dc08e0db8c48"
+  }
+}

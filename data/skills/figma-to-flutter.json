@@ -1,0 +1,37 @@
+{
+  "id": "figma-to-flutter",
+  "name": "figma-to-flutter",
+  "version": "1.0.0",
+  "summary": "This skill should be used when converting Figma designs to Flutter code. Trigger this skill when users say \"convert this Figma design to Flutter\", \"run Figma workflow\", \"impleme...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "prateekmedia",
+    "github": "prateekmedia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/prateekmedia/claude-dev-skills",
+    "skill_md": "https://raw.githubusercontent.com/prateekmedia/claude-dev-skills/main/figma-to-flutter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-22T10:09:00.000Z",
+  "created_at": "2025-12-22T21:11:20.889Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/prateekmedia%2Fclaude-dev-skills/figma-to-flutter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_cc573f787b40"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "td-smoothing",
+  "name": "td-smoothing",
+  "version": "1.0.0",
+  "summary": "Signal smoothing and noise reduction techniques",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "teradata-labs",
+    "github": "teradata-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/teradata-labs/claude-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/teradata-labs/claude-cookbooks/main/skills/analytics/td-smoothing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T18:18:51.000Z",
+  "created_at": "2025-12-23T01:29:21.287Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/teradata-labs%2Fclaude-cookbooks/skills%2Fanalytics%2Ftd-smoothing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_5e32d406a80e"
+  }
+}

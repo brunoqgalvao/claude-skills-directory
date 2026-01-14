@@ -1,0 +1,36 @@
+{
+  "id": "slack-memory-retrieval",
+  "name": "slack-memory-retrieval",
+  "version": "1.0.0",
+  "summary": "Retrieve and utilize stored memories for AI employees in Slack environments. Efficiently searches and loads relevant context (channels, users, projects, decisions, meetings) fro...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krafton-ai",
+    "github": "krafton-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krafton-ai/KIRA",
+    "skill_md": "https://raw.githubusercontent.com/krafton-ai/KIRA/main/.claude/skills/slack-memory-retrieval/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krafton-ai%2FKIRA/.claude%2Fskills%2Fslack-memory-retrieval%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_374c8b59e197"
+  }
+}

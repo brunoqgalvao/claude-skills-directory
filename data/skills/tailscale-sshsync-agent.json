@@ -1,0 +1,36 @@
+{
+  "id": "tailscale-sshsync-agent",
+  "name": "tailscale-sshsync-agent",
+  "version": "1.0.0",
+  "summary": "Manages distributed workloads and file sharing across Tailscale SSH-connected machines. Automates remote command execution, intelligent load balancing, file synchronization work...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Human-Frontier-Labs-Inc",
+    "github": "Human-Frontier-Labs-Inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Human-Frontier-Labs-Inc/human-frontier-labs-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Human-Frontier-Labs-Inc/human-frontier-labs-marketplace/main/plugins/tailscale-sshsync-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.593Z",
+  "created_at": "2025-12-23T00:23:34.367Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Human-Frontier-Labs-Inc%2Fhuman-frontier-labs-marketplace/plugins%2Ftailscale-sshsync-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.593Z",
+    "uniqueId": "sk_4db05cd5b7a8"
+  }
+}

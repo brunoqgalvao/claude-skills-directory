@@ -1,0 +1,35 @@
+{
+  "id": "sub-issue-maker",
+  "name": "sub-issue-maker",
+  "version": "1.0.0",
+  "summary": "Provide the task granularity for cutting subissues.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "uuta",
+    "github": "uuta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/uuta/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/uuta/dotfiles/main/skills/sub-issue-maker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T08:43:02.000Z",
+  "created_at": "2025-12-23T01:28:22.376Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/uuta%2Fdotfiles/skills%2Fsub-issue-maker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_e83059b315a0"
+  }
+}

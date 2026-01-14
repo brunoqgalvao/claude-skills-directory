@@ -1,0 +1,36 @@
+{
+  "id": "python",
+  "name": "python",
+  "version": "1.0.0",
+  "summary": "Python development standards and toolchain preferences. Use when (1) writing ANY Python code, (2) setting up Python projects with pyproject.toml, (3) creating standalone CLI scr...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MasonEgger",
+    "github": "MasonEgger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MasonEgger/homedir",
+    "skill_md": "https://raw.githubusercontent.com/MasonEgger/homedir/main/.claude/skills/python/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T04:53:26.000Z",
+  "created_at": "2025-12-22T14:58:22.460Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MasonEgger%2Fhomedir/.claude%2Fskills%2Fpython%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_f881bf93935c"
+  }
+}

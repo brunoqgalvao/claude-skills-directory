@@ -1,0 +1,35 @@
+{
+  "id": "generate-mermaid",
+  "name": "generate-mermaid",
+  "version": "1.0.0",
+  "summary": "Automatically invoked when creating visual diagrams (flowcharts, sequence diagrams, ERDs, state machines, user journeys). Ensures proper Mermaid syntax and diagram clarity.",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aandersland",
+    "github": "aandersland"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aandersland/feast",
+    "skill_md": "https://raw.githubusercontent.com/aandersland/feast/main/.claude/skills/generate-mermaid/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.768Z",
+  "created_at": "2025-12-22T20:04:22.331Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aandersland%2Ffeast/.claude%2Fskills%2Fgenerate-mermaid%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_d3c8b0f13fff"
+  }
+}

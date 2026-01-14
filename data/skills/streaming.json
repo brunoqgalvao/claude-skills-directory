@@ -1,0 +1,37 @@
+{
+  "id": "streaming",
+  "name": "streaming",
+  "version": "1.0.0",
+  "summary": "Use when building real-time chat interfaces, displaying incremental LLM responses, or streaming output from OpenAI, Anthropic, Google, or Ollama - async iteration with usage tra...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "juanre",
+    "github": "juanre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/juanre/llmring",
+    "skill_md": "https://raw.githubusercontent.com/juanre/llmring/main/skills/streaming/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:02:58.643Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanre%2Fllmring/skills%2Fstreaming%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_8684aa9d0f55"
+  }
+}

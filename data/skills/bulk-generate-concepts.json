@@ -1,0 +1,35 @@
+{
+  "id": "bulk-generate-concepts",
+  "name": "bulk-generate-concepts",
+  "version": "1.0.0",
+  "summary": "Use when generating multiple curriculum-aligned concept files in parallel (5+ concepts) - researches curriculum, creates concept list, spawns parallel generation agents, orchest...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maidevberlin",
+    "github": "maidevberlin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maidevberlin/logikids",
+    "skill_md": "https://raw.githubusercontent.com/maidevberlin/logikids/main/.claude/skills/bulk-generate-concepts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:34.029Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maidevberlin%2Flogikids/.claude%2Fskills%2Fbulk-generate-concepts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_5c0f3aeac643"
+  }
+}

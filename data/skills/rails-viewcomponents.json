@@ -1,0 +1,36 @@
+{
+  "id": "rails-viewcomponents",
+  "name": "rails-viewcomponents",
+  "version": "1.0.0",
+  "summary": "Specialized skill for building ViewComponents with Hotwire (Turbo & Stimulus). Use when creating reusable UI components, implementing frontend interactions, building Turbo Frame...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alec-c4",
+    "github": "alec-c4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alec-c4/claude-skills-rails-dev",
+    "skill_md": "https://raw.githubusercontent.com/alec-c4/claude-skills-rails-dev/main/rails-viewcomponents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.853Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alec-c4%2Fclaude-skills-rails-dev/rails-viewcomponents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_02cf7b411416"
+  }
+}

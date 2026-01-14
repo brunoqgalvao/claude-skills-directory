@@ -1,0 +1,37 @@
+{
+  "id": "mcp-generator",
+  "name": "mcp-generator",
+  "version": "1.0.0",
+  "summary": "Use when setting up project-specific development tools or after analyzing a codebase - generates custom MCP server with semantic search, project-aware tools, and health monitori...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jrc1883",
+    "github": "jrc1883"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jrc1883/popkit-claude",
+    "skill_md": "https://raw.githubusercontent.com/jrc1883/popkit-claude/main/skills/pop-mcp-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:11:01.770Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jrc1883%2Fpopkit-claude/skills%2Fpop-mcp-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_dcf457ce9ea0"
+  }
+}

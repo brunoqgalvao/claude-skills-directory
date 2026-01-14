@@ -1,0 +1,36 @@
+{
+  "id": "testgen-protocol",
+  "name": "testgen-protocol",
+  "version": "1.0.0",
+  "summary": "Use when solving coding tasks. Generates comprehensive tests via deterministic expansion + subagent review loops.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OpenAgentsInc",
+    "github": "OpenAgentsInc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OpenAgentsInc/openagents",
+    "skill_md": "https://raw.githubusercontent.com/OpenAgentsInc/openagents/main/.claude/skills/testgen-protocol/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T21:21:19.000Z",
+  "created_at": "2025-12-19T19:35:40.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OpenAgentsInc%2Fopenagents/.claude%2Fskills%2Ftestgen-protocol%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.888Z",
+    "uniqueId": "sk_034a2307a673"
+  }
+}

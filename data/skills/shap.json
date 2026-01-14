@@ -1,0 +1,35 @@
+{
+  "id": "shap",
+  "name": "shap",
+  "version": "1.0.0",
+  "summary": "Model interpretability and explainability using SHAP (SHapley Additive exPlanations). Use this skill when explaining machine learning model predictions, computing feature import...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xiechy",
+    "github": "xiechy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xiechy/climate-ai",
+    "skill_md": "https://raw.githubusercontent.com/xiechy/climate-ai/main/scientific-packages/shap/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.447Z",
+  "created_at": "2025-12-22T23:14:14.790Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xiechy%2Fclimate-ai/scientific-packages%2Fshap%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.447Z",
+    "uniqueId": "sk_ef07efa327bf"
+  }
+}

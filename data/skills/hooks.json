@@ -1,0 +1,36 @@
+{
+  "id": "hooks",
+  "name": "hooks",
+  "version": "1.0.0",
+  "summary": "How to create and configure hooks in Claude Code for automated validation, transformations, and lifecycle event handling. Use when user asks about hooks, event automation, pre/p...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reggiechan74",
+    "github": "reggiechan74"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reggiechan74/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/reggiechan74/claude-plugins/main/plugins/claude-code-metaskill/skills/hooks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:58:52.756Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reggiechan74%2Fclaude-plugins/plugins%2Fclaude-code-metaskill%2Fskills%2Fhooks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_701d987fdfdb"
+  }
+}

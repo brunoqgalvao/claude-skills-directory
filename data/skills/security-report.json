@@ -1,0 +1,37 @@
+{
+  "id": "security-report",
+  "name": "security-report",
+  "version": "1.0.0",
+  "summary": "Generate security assessment reports in docx format with findings, \nrisk ratings, and remediation recommendations.\n\nUse when: User asks for security audit report, vulnerability ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BytR-Ecosystems",
+    "github": "BytR-Ecosystems"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BytR-Ecosystems/ml-reference-guides",
+    "skill_md": "https://raw.githubusercontent.com/BytR-Ecosystems/ml-reference-guides/main/llm-platforms/claude/skills/examples/security-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T01:21:00.000Z",
+  "created_at": "2025-12-23T01:28:32.962Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BytR-Ecosystems%2Fml-reference-guides/llm-platforms%2Fclaude%2Fskills%2Fexamples%2Fsecurity-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_1a1ced22e687"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "openalex-database",
+  "name": "openalex-database",
+  "version": "1.0.0",
+  "summary": "Query and analyze scholarly literature using the OpenAlex database. This skill should be used when searching for academic papers, analyzing research trends, finding works by aut...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "K-Dense-AI",
+    "github": "K-Dense-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "skill_md": "https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/openalex-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T21:38:32.000Z",
+  "created_at": "2025-12-22T21:14:41.186Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/K-Dense-AI%2Fclaude-scientific-skills/scientific-skills%2Fopenalex-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.441Z",
+    "uniqueId": "sk_50ebbfe8f18e"
+  }
+}

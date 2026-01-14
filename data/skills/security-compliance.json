@@ -1,0 +1,36 @@
+{
+  "id": "security-compliance",
+  "name": "security-compliance",
+  "version": "1.0.0",
+  "summary": "Implement comprehensive security for shared library. Use when working with security audits, dependency vulnerabilities, API security, token encryption, or secure coding practice...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RicherTunes",
+    "github": "RicherTunes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RicherTunes/Lidarr.Plugin.Common",
+    "skill_md": "https://raw.githubusercontent.com/RicherTunes/Lidarr.Plugin.Common/main/.claude/skills/security-compliance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.839Z",
+  "created_at": "2025-12-22T16:29:22.730Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RicherTunes%2FLidarr.Plugin.Common/.claude%2Fskills%2Fsecurity-compliance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_9fb7e5066a9b"
+  }
+}

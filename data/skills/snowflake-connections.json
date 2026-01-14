@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-connections",
+  "name": "snowflake-connections",
+  "version": "1.0.0",
+  "summary": "Configuring Snowflake connections using connections.toml (for Snowflake CLI, Streamlit, Snowpark) or profiles.yml (for dbt) with multiple authentication methods (SSO, key pair, ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sfc-gh-dflippo",
+    "github": "sfc-gh-dflippo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sfc-gh-dflippo/snowflake-dbt-demo",
+    "skill_md": "https://raw.githubusercontent.com/sfc-gh-dflippo/snowflake-dbt-demo/main/.claude/skills/snowflake-connections/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:29.492Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sfc-gh-dflippo%2Fsnowflake-dbt-demo/.claude%2Fskills%2Fsnowflake-connections%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_82f4cd696f8f"
+  }
+}

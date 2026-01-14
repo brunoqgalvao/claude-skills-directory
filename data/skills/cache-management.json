@@ -1,0 +1,35 @@
+{
+  "id": "cache-management",
+  "name": "cache-management",
+  "version": "1.0.0",
+  "summary": "Implement production-grade caching with cache keys/TTLs/consistency classes per query, SWR (stale-while-revalidate), explicit invalidation, and comprehensive testing for stale r...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "VilnaCRM-Org",
+    "github": "VilnaCRM-Org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/VilnaCRM-Org/core-service",
+    "skill_md": "https://raw.githubusercontent.com/VilnaCRM-Org/core-service/main/.claude/skills/cache-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.591Z",
+  "created_at": "2025-12-23T00:23:58.535Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/VilnaCRM-Org%2Fcore-service/.claude%2Fskills%2Fcache-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.591Z",
+    "uniqueId": "sk_0b4f75c8d2ba"
+  }
+}

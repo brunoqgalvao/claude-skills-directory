@@ -1,0 +1,35 @@
+{
+  "id": "gh-pr",
+  "name": "gh-pr",
+  "version": "1.0.0",
+  "summary": "Use this skill when creating a GitHub pull request. Defines PR body format with Why/What/Notes sections and ensures proper assignment.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fredrikaverpil",
+    "github": "fredrikaverpil"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fredrikaverpil/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/fredrikaverpil/dotfiles/main/stow/shared/.claude/skills/gh-pr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.569Z",
+  "created_at": "2025-12-23T01:28:33.085Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fredrikaverpil%2Fdotfiles/stow%2Fshared%2F.claude%2Fskills%2Fgh-pr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_d51e092d769a"
+  }
+}

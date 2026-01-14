@@ -1,0 +1,35 @@
+{
+  "id": "agent-specialization",
+  "name": "agent-specialization",
+  "version": "1.0.0",
+  "summary": "Guide creation of focused single-purpose agents following the One Agent One Prompt One Purpose principle. Use when designing new agents, refactoring general agents into speciali...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/agent-specialization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.822Z",
+  "created_at": "2025-12-22T17:06:28.831Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Fagent-specialization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.822Z",
+    "uniqueId": "sk_37f25591a2d9"
+  }
+}

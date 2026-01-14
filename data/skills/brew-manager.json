@@ -1,0 +1,35 @@
+{
+  "id": "brew-manager",
+  "name": "brew-manager",
+  "version": "1.0.0",
+  "summary": "Manage Homebrew packages in the Brewfile for this dotfiles repository. Use when the user wants to add, remove, or update packages, casks, taps, or VS Code extensions in the Brew...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ruchernchong",
+    "github": "ruchernchong"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ruchernchong/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ruchernchong/dotfiles/main/.claude/skills/brew-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T19:11:09.000Z",
+  "created_at": "2025-12-23T01:28:48.249Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ruchernchong%2Fdotfiles/.claude%2Fskills%2Fbrew-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_7b8448290927"
+  }
+}

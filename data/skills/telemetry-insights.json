@@ -1,0 +1,36 @@
+{
+  "id": "telemetry-insights",
+  "name": "telemetry-insights",
+  "version": "1.0.0",
+  "summary": "Analyze AI coding session telemetry for usage patterns, token efficiency, and workflow optimization. Supports current session or historical time periods.",
+  "verticals": [
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "blueplane-ai",
+    "github": "blueplane-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/blueplane-ai/bp-telemetry-core",
+    "skill_md": "https://raw.githubusercontent.com/blueplane-ai/bp-telemetry-core/main/.claude/skills/telemetry-insights/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T22:28:35.000Z",
+  "created_at": "2025-12-23T01:29:05.396Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/blueplane-ai%2Fbp-telemetry-core/.claude%2Fskills%2Ftelemetry-insights%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_8b9fe610bf5c"
+  }
+}

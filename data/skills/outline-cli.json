@@ -1,0 +1,35 @@
+{
+  "id": "outline-cli",
+  "name": "outline-cli",
+  "version": "1.0.0",
+  "summary": "Allow droids to interact with Outline Wiki via the outlinectl CLI (auth, collections, docs) with automation-friendly JSON output.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dpalfery",
+    "github": "dpalfery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dpalfery/outline-wiki-cli",
+    "skill_md": "https://raw.githubusercontent.com/dpalfery/outline-wiki-cli/main/.factory/skills/outline-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:39.754Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dpalfery%2Foutline-wiki-cli/.factory%2Fskills%2Foutline-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_0c2f5ab9f42d"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sveltekit-data-flow",
+  "name": "sveltekit-data-flow",
+  "version": "1.0.0",
+  "summary": "SvelteKit data flow guidance. Use for load functions, form actions, and server/client data. Covers +page.server.ts vs +page.ts, serialization, fail(), redirect(), error().",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Seeker1911",
+    "github": "Seeker1911"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Seeker1911/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/Seeker1911/dotfiles/main/agents/skills/sveltekit-data-flow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T16:36:39.000Z",
+  "created_at": "2025-12-23T01:28:36.679Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Seeker1911%2Fdotfiles/agents%2Fskills%2Fsveltekit-data-flow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_513e954723ff"
+  }
+}

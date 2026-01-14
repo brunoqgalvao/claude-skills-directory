@@ -1,0 +1,35 @@
+{
+  "id": "quiz-master",
+  "name": "quiz-master",
+  "version": "1.0.0",
+  "summary": "Creates 4 high-quality MCQs with full explanations and correct answer marked",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HumaizaNaz",
+    "github": "HumaizaNaz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HumaizaNaz/physical-ai-textbook",
+    "skill_md": "https://raw.githubusercontent.com/HumaizaNaz/physical-ai-textbook/main/.claude/skills/quiz-master/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T12:39:31.000Z",
+  "created_at": "2025-12-23T01:28:11.498Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HumaizaNaz%2Fphysical-ai-textbook/.claude%2Fskills%2Fquiz-master%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.585Z",
+    "uniqueId": "sk_17080918141c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "skill-aws-bedrock-cost-tool",
+  "name": "skill-aws-bedrock-cost-tool",
+  "version": "1.0.0",
+  "summary": "AWS Bedrock cost analysis with reporting",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dnvriend",
+    "github": "dnvriend"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dnvriend/aws-bedrock-cost-tool",
+    "skill_md": "https://raw.githubusercontent.com/dnvriend/aws-bedrock-cost-tool/main/plugins/aws-bedrock-cost-tool/skills/aws-bedrock-cost-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.633Z",
+  "created_at": "2025-12-22T23:12:30.468Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dnvriend%2Faws-bedrock-cost-tool/plugins%2Faws-bedrock-cost-tool%2Fskills%2Faws-bedrock-cost-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.633Z",
+    "uniqueId": "sk_0d60e9fe17fa"
+  }
+}

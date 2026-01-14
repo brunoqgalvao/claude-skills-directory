@@ -1,0 +1,35 @@
+{
+  "id": "sqlite-pattern-learner",
+  "name": "sqlite-pattern-learner",
+  "version": "1.0.0",
+  "summary": "Learn from database query patterns and recommend optimized approaches",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codetalcott",
+    "github": "codetalcott"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codetalcott/fixiplug",
+    "skill_md": "https://raw.githubusercontent.com/codetalcott/fixiplug/main/.claude/skills/sqlite-pattern-learner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T23:16:31.000Z",
+  "created_at": "2025-12-23T01:29:26.063Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codetalcott%2Ffixiplug/.claude%2Fskills%2Fsqlite-pattern-learner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_1769660f03cb"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "task-memory-consolidation",
+  "name": "task-memory-consolidation",
+  "version": "1.0.0",
+  "summary": "Parse memory.yaml and consolidate recurring patterns into skills. Use when memory.yaml grows large, when patterns recur 3+ times, or during RSID Ideate stage. Automates the memo...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Anveio",
+    "github": "Anveio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Anveio/conveaux",
+    "skill_md": "https://raw.githubusercontent.com/Anveio/conveaux/main/.claude/skills/task-memory-consolidation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.705Z",
+  "created_at": "2025-12-22T21:19:47.624Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Anveio%2Fconveaux/.claude%2Fskills%2Ftask-memory-consolidation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.705Z",
+    "uniqueId": "sk_07887c82d9ee"
+  }
+}

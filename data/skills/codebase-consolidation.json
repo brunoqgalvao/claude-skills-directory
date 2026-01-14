@@ -1,0 +1,37 @@
+{
+  "id": "codebase-consolidation",
+  "name": "codebase-consolidation",
+  "version": "1.0.0",
+  "summary": "Analyze, consolidate, and document codebases through multi-perspective analysis. Identifies duplicate code, refactoring opportunities, architectural patterns, and generates comp...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-o-hub",
+    "github": "d-o-hub"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-o-hub/rust-self-learning-memory",
+    "skill_md": "https://raw.githubusercontent.com/d-o-hub/rust-self-learning-memory/main/.claude/skills/codebase-consolidation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:32.253Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-o-hub%2Frust-self-learning-memory/.claude%2Fskills%2Fcodebase-consolidation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_33f6bcfcbf22"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ui-debugging",
+  "name": "ui-debugging",
+  "version": "1.0.0",
+  "summary": "Standardized protocol for describing UI/layout issues in screenshots. Helps Claude understand visual problems clearly on first look by using a structured format for image commun...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChinchillaEnterprises",
+    "github": "ChinchillaEnterprises"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChinchillaEnterprises/ChillSkills",
+    "skill_md": "https://raw.githubusercontent.com/ChinchillaEnterprises/ChillSkills/main/ui-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:20.426Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChinchillaEnterprises%2FChillSkills/ui-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_070289b3c335"
+  }
+}

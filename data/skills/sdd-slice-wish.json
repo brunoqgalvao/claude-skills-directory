@@ -1,0 +1,36 @@
+{
+  "id": "sdd-slice-wish",
+  "name": "sdd-slice-wish",
+  "version": "1.0.0",
+  "summary": "大きな「やりたいこと」を、1Spec=1PRとしてレビュー可能・検証可能・安全にマージ可能なサイズへスライスする。ここでは具体的な仕様書（受入条件の詳細化・テスト観点の網羅・docs/specs/* の作成）は行わない（それは sdd-init / sdd-test-cases の責務）。出力は「スライス案（S/M/L）」「推奨スライス」「前提・制約・...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "See2et",
+    "github": "See2et"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/See2et/bakopa-vr",
+    "skill_md": "https://raw.githubusercontent.com/See2et/bakopa-vr/main/.codex/skills/sdd-slice-wish/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T16:05:53.000Z",
+  "created_at": "2025-12-22T18:10:59.320Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/See2et%2Fbakopa-vr/.codex%2Fskills%2Fsdd-slice-wish%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_7068cd599eac"
+  }
+}

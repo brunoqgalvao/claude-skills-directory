@@ -1,0 +1,36 @@
+{
+  "id": "repository-pattern",
+  "name": "repository-pattern",
+  "version": "1.0.0",
+  "summary": "Implement database repositories using the established pattern (Dexie + IndexedDB with repository interfaces). Use when (1) creating new repository for entity storage, (2) design...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexanderop",
+    "github": "alexanderop"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexanderop/workoutTracker",
+    "skill_md": "https://raw.githubusercontent.com/alexanderop/workoutTracker/main/.claude/skills/repository-pattern/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.702Z",
+  "created_at": "2025-12-22T21:20:21.739Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexanderop%2FworkoutTracker/.claude%2Fskills%2Frepository-pattern%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.702Z",
+    "uniqueId": "sk_b469b684f311"
+  }
+}

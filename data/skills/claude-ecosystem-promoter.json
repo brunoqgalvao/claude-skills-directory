@@ -1,0 +1,36 @@
+{
+  "id": "claude-ecosystem-promoter",
+  "name": "claude-ecosystem-promoter",
+  "version": "1.0.0",
+  "summary": "Marketing and promotion specialist for Claude ecosystem technology - MCP servers, skills, plugins, and agents. Expert in community engagement, registry submissions, content mark...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "erichowens",
+    "github": "erichowens"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/erichowens/some_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/erichowens/some_claude_skills/main/.claude/skills/claude-ecosystem-promoter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:30.221Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/erichowens%2Fsome_claude_skills/.claude%2Fskills%2Fclaude-ecosystem-promoter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_b2fe03afc265"
+  }
+}

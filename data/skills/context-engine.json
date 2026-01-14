@@ -1,0 +1,35 @@
+{
+  "id": "context-engine",
+  "name": "context-engine",
+  "version": "1.0.0",
+  "summary": "Codebase search and context retrieval for any programming language. Hybrid semantic/lexical search with neural reranking. Use for code lookup, finding implementations, understan...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "m1rl0k",
+    "github": "m1rl0k"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/m1rl0k/Context-Engine",
+    "skill_md": "https://raw.githubusercontent.com/m1rl0k/Context-Engine/main/skills/context-engine/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.517Z",
+  "created_at": "2025-12-23T01:29:12.368Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/m1rl0k%2FContext-Engine/skills%2Fcontext-engine%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.517Z",
+    "uniqueId": "sk_796a978dec77"
+  }
+}

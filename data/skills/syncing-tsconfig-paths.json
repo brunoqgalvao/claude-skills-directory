@@ -1,0 +1,36 @@
+{
+  "id": "syncing-tsconfig-paths",
+  "name": "syncing-tsconfig-paths",
+  "version": "1.0.0",
+  "summary": "Synchronizes tsconfig.json paths from package.json imports field. Ensures TypeScript resolves subpath imports (#imports) correctly during development.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jasonkuhrt",
+    "github": "jasonkuhrt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jasonkuhrt/kit",
+    "skill_md": "https://raw.githubusercontent.com/jasonkuhrt/kit/main/.claude/skills/syncing-tsconfig-paths/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.881Z",
+  "created_at": "2025-12-22T14:54:26.073Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jasonkuhrt%2Fkit/.claude%2Fskills%2Fsyncing-tsconfig-paths%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.881Z",
+    "uniqueId": "sk_9e31d5719a8d"
+  }
+}

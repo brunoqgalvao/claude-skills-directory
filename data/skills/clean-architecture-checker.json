@@ -1,0 +1,35 @@
+{
+  "id": "clean-architecture-checker",
+  "name": "clean-architecture-checker",
+  "version": "1.0.0",
+  "summary": "Verifies code follows Clean Architecture principles in Polibase. Activates when creating or modifying src/domain, src/application, src/infrastructure, or src/interfaces files. C...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trust-chain-organization",
+    "github": "trust-chain-organization"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trust-chain-organization/sagebase",
+    "skill_md": "https://raw.githubusercontent.com/trust-chain-organization/sagebase/main/.claude/skills/clean-architecture-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T14:18:21.000Z",
+  "created_at": "2025-12-22T16:03:02.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trust-chain-organization%2Fsagebase/.claude%2Fskills%2Fclean-architecture-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_e8c02277fadc"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "spring-boot-3x-api-documenter",
+  "name": "spring-boot-3x-api-documenter",
+  "version": "1.0.0",
+  "summary": "Auto-generate OpenAPI 3 documentation for Spring Boot REST APIs using springdoc-openapi. Use when API endpoints change, controllers are modified, or user mentions API docs, Swag...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andrlange",
+    "github": "andrlange"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andrlange/spring-documentation-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/andrlange/spring-documentation-mcp-server/main/flavors/claude/skills/documentation/api-documenter-sb3x/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:57:47.881Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andrlange%2Fspring-documentation-mcp-server/flavors%2Fclaude%2Fskills%2Fdocumentation%2Fapi-documenter-sb3x%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_f0af4ed2b1ec"
+  }
+}

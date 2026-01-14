@@ -1,0 +1,36 @@
+{
+  "id": "applying-frontend-patterns",
+  "name": "applying-frontend-patterns",
+  "version": "1.0.0",
+  "summary": "Framework-agnostic frontend component design patterns. Triggers: React, Vue, Angular, コンポーネント, パターン, hooks, カスタムフック, container, presentational, 分離, 状態管理, state management, compo...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thkt",
+    "github": "thkt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thkt/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/thkt/claude-config/main/skills/applying-frontend-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.561Z",
+  "created_at": "2025-12-23T01:28:40.766Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thkt%2Fclaude-config/skills%2Fapplying-frontend-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_cf10dbbf19b2"
+  }
+}

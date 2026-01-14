@@ -1,0 +1,37 @@
+{
+  "id": "type-safety-validation",
+  "name": "type-safety-validation",
+  "version": "1.0.0",
+  "summary": "Achieve end-to-end type safety with Zod runtime validation, tRPC type-safe APIs, Prisma ORM, and TypeScript 5.7+ features. Build fully type-safe applications from database to UI...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ArieGoldkin",
+    "github": "ArieGoldkin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ArieGoldkin/ai-agent-hub",
+    "skill_md": "https://raw.githubusercontent.com/ArieGoldkin/ai-agent-hub/main/skills/type-safety-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T10:42:35.000Z",
+  "created_at": "2025-12-22T19:15:08.006Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ArieGoldkin%2Fai-agent-hub/skills%2Ftype-safety-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_1de5668ae303"
+  }
+}

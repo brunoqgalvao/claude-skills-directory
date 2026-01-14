@@ -1,0 +1,35 @@
+{
+  "id": "ga4-recommended-events",
+  "name": "ga4-recommended-events",
+  "version": "1.0.0",
+  "summary": "Complete guide to implementing Google-defined recommended events in GA4 including purchase, add_to_cart, login, sign_up, and full ecommerce journey. Use when implementing ecomme...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henkisdabro",
+    "github": "henkisdabro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henkisdabro/wookstar-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-code-plugins/main/ga-suite/skills/ga4-recommended-events/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T06:47:15.000Z",
+  "created_at": "2025-12-22T19:05:32.826Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henkisdabro%2Fwookstar-claude-code-plugins/ga-suite%2Fskills%2Fga4-recommended-events%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_8adda441abde"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "openwebf-host",
+  "name": "openwebf-host",
+  "version": "1.0.0",
+  "summary": "DEPRECATED umbrella Skill (backward compatibility). Use only when a Flutter host request spans multiple WebF integration areas (controllers + bundles + embedding + routing + cac...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "archview-ai",
+    "github": "archview-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/archview-ai/webf-plugin",
+    "skill_md": "https://raw.githubusercontent.com/archview-ai/webf-plugin/main/webf-plugin/skills/openwebf-host/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.865Z",
+  "created_at": "2025-12-22T15:05:01.937Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/archview-ai%2Fwebf-plugin/webf-plugin%2Fskills%2Fopenwebf-host%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.865Z",
+    "uniqueId": "sk_e118f61e764e"
+  }
+}

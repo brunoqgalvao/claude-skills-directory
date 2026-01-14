@@ -1,0 +1,37 @@
+{
+  "id": "agentv-eval-builder",
+  "name": "agentv-eval-builder",
+  "version": "1.0.0",
+  "summary": "Create and maintain AgentV YAML evaluation files for testing AI agent performance. Use this skill when creating new eval files, adding eval cases, or configuring custom evaluato...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EntityProcess",
+    "github": "EntityProcess"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EntityProcess/agentv",
+    "skill_md": "https://raw.githubusercontent.com/EntityProcess/agentv/main/apps/cli/src/templates/.claude/skills/agentv-eval-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:32.839Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EntityProcess%2Fagentv/apps%2Fcli%2Fsrc%2Ftemplates%2F.claude%2Fskills%2Fagentv-eval-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_31e628266c07"
+  }
+}

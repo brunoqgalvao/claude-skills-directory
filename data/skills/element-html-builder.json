@@ -1,0 +1,36 @@
+{
+  "id": "element-html-builder",
+  "name": "element-html-builder",
+  "version": "1.0.0",
+  "summary": "Element is a zero dependency library to efficiently generate HTML programmatically, without templates in Go",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rohanthewiz",
+    "github": "rohanthewiz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rohanthewiz/element",
+    "skill_md": "https://raw.githubusercontent.com/rohanthewiz/element/main/ai_docs/skill/element_html_builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:59.334Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rohanthewiz%2Felement/ai_docs%2Fskill%2Felement_html_builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_cfb1b72978b1"
+  }
+}

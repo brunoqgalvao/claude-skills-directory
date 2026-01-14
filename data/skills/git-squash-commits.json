@@ -1,0 +1,35 @@
+{
+  "id": "git-squash-commits",
+  "name": "git-squash-commits",
+  "version": "1.0.0",
+  "summary": "Squash multiple git commits into a single commit with an auto-generated comprehensive commit message based on the changes made.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "acking-you",
+    "github": "acking-you"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/acking-you/myclaude-skills",
+    "skill_md": "https://raw.githubusercontent.com/acking-you/myclaude-skills/main/skills/git-squash-commits/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T13:30:33.000Z",
+  "created_at": "2025-12-22T19:57:02.160Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/acking-you%2Fmyclaude-skills/skills%2Fgit-squash-commits%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_19e88b373b0f"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dspy-rb",
+  "name": "dspy-rb",
+  "version": "1.0.0",
+  "summary": "Build type-safe LLM applications with DSPy.rb - Ruby's programmatic prompt framework with signatures, modules, agents, and optimization",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vicentereig",
+    "github": "vicentereig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vicentereig/dspy-rb-skill",
+    "skill_md": "https://raw.githubusercontent.com/vicentereig/dspy-rb-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T00:06:49.000Z",
+  "created_at": "2025-12-23T01:29:05.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vicentereig%2Fdspy-rb-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_5376d300b1fc"
+  }
+}

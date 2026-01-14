@@ -1,0 +1,35 @@
+{
+  "id": "hashing-techniques",
+  "name": "hashing-techniques",
+  "version": "1.0.0",
+  "summary": "Hash-based data structures and techniques including frequency counting, duplicate detection, and LRU cache implementation.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-data-structures-algorithms",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-data-structures-algorithms/main/skills/hashing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:21:20.000Z",
+  "created_at": "2025-12-23T01:28:39.429Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-data-structures-algorithms/skills%2Fhashing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_bfe5a5478ffc"
+  }
+}

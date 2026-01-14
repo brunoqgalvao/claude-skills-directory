@@ -1,0 +1,35 @@
+{
+  "id": "internationalization-helper",
+  "name": "internationalization-helper",
+  "version": "1.0.0",
+  "summary": "Extracts hardcoded strings for i18n, manages translation files, and ensures locale coverage. Use when working with multi-language apps, translations, or user mentions i18n, loca...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CrazyDubya",
+    "github": "CrazyDubya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CrazyDubya/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/CrazyDubya/claude-skills/main/internationalization-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:38.957Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CrazyDubya%2Fclaude-skills/internationalization-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_ebea0ddfa2c5"
+  }
+}

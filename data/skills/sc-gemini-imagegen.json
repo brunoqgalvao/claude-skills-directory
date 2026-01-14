@@ -1,0 +1,36 @@
+{
+  "id": "sc-gemini-imagegen",
+  "name": "sc-gemini-imagegen",
+  "version": "1.0.0",
+  "summary": "Generate and edit images using the Gemini API (Nano Banana Pro). Use this skill when creating images from text prompts, editing existing images, applying style transfers, genera...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kylesnowschwartz",
+    "github": "kylesnowschwartz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kylesnowschwartz/SimpleClaude",
+    "skill_md": "https://raw.githubusercontent.com/kylesnowschwartz/SimpleClaude/main/plugins/sc-skills/skills/sc-gemini-imagegen/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:52.614Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kylesnowschwartz%2FSimpleClaude/plugins%2Fsc-skills%2Fskills%2Fsc-gemini-imagegen%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_2f9ed530ccbe"
+  }
+}

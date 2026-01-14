@@ -1,0 +1,35 @@
+{
+  "id": "skill-isolation-tester",
+  "name": "skill-isolation-tester",
+  "version": "1.0.0",
+  "summary": "Use PROACTIVELY when validating Claude Code skills before sharing or public release. Automated testing framework using multiple isolation environments (git worktree, Docker cont...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cskiro",
+    "github": "cskiro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cskiro/claudex",
+    "skill_md": "https://raw.githubusercontent.com/cskiro/claudex/main/skills/skill-isolation-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T02:11:31.000Z",
+  "created_at": "2025-12-23T01:28:56.435Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cskiro%2Fclaudex/skills%2Fskill-isolation-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.537Z",
+    "uniqueId": "sk_f20ada4a58cb"
+  }
+}

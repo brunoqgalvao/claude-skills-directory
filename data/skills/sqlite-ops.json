@@ -1,0 +1,37 @@
+{
+  "id": "sqlite-ops",
+  "name": "sqlite-ops",
+  "version": "1.0.0",
+  "summary": "Patterns for SQLite databases in Python projects - state management, caching, and async operations. Triggers on: sqlite, sqlite3, aiosqlite, local database, database schema, mig...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "0xDarkMatter",
+    "github": "0xDarkMatter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/0xDarkMatter/claude-mods",
+    "skill_md": "https://raw.githubusercontent.com/0xDarkMatter/claude-mods/main/skills/sqlite-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.858Z",
+  "created_at": "2025-12-22T15:11:16.763Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/0xDarkMatter%2Fclaude-mods/skills%2Fsqlite-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_caa827dff5ba"
+  }
+}

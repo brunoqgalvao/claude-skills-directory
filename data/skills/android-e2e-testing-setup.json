@@ -1,0 +1,36 @@
+{
+  "id": "android-e2e-testing-setup",
+  "name": "android-e2e-testing-setup",
+  "version": "1.0.0",
+  "summary": "Setup UI Automator 2.4 smoke test for validating app launches (works with debug and release builds)",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hitoshura25",
+    "github": "hitoshura25"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hitoshura25/claude-devtools",
+    "skill_md": "https://raw.githubusercontent.com/hitoshura25/claude-devtools/main/skills/android-e2e-testing-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:15:49.000Z",
+  "created_at": "2025-12-22T20:16:05.444Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hitoshura25%2Fclaude-devtools/skills%2Fandroid-e2e-testing-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_9355e2af6dfc"
+  }
+}

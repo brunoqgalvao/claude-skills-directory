@@ -1,0 +1,35 @@
+{
+  "id": "grey-haven-project-structure",
+  "name": "grey-haven-project-structure",
+  "version": "1.0.0",
+  "summary": "Organize Grey Haven projects following standard structures for TanStack Start (frontend) and FastAPI (backend). Use when creating new projects, organizing files, or refactoring ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greyhaven-ai",
+    "github": "greyhaven-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greyhaven-ai/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/greyhaven-ai/claude-code-config/main/grey-haven-plugins/developer-experience/skills/project-structure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.932Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greyhaven-ai%2Fclaude-code-config/grey-haven-plugins%2Fdeveloper-experience%2Fskills%2Fproject-structure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_afec0c9962bc"
+  }
+}

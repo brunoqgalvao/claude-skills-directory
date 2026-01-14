@@ -1,0 +1,36 @@
+{
+  "id": "guid-skill-creation",
+  "name": "guid-skill-creation",
+  "version": "1.0.0",
+  "summary": "Use when creating Claude Code skills following official format with proper YAML frontmatter, progressive loading, and Guild system integration patterns.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xilnick",
+    "github": "xilnick"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xilnick/claude-guild",
+    "skill_md": "https://raw.githubusercontent.com/xilnick/claude-guild/main/guideline/shipped-skills/guid-skill-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.633Z",
+  "created_at": "2025-12-22T23:12:28.267Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xilnick%2Fclaude-guild/guideline%2Fshipped-skills%2Fguid-skill-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.633Z",
+    "uniqueId": "sk_df915e20992e"
+  }
+}

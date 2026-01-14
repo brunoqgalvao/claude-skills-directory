@@ -1,0 +1,35 @@
+{
+  "id": "command-executor",
+  "name": "command-executor",
+  "version": "1.0.0",
+  "summary": "Execute system commands and manage processes using Effect's Command module from @effect/platform. Use this skill when spawning child processes, running shell commands, capturing...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "front-depiction",
+    "github": "front-depiction"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/front-depiction/claude-setup",
+    "skill_md": "https://raw.githubusercontent.com/front-depiction/claude-setup/main/skills/command-executor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.679Z",
+  "created_at": "2025-12-22T22:12:06.133Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/front-depiction%2Fclaude-setup/skills%2Fcommand-executor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.679Z",
+    "uniqueId": "sk_d08eb4f8a249"
+  }
+}

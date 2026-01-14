@@ -1,0 +1,35 @@
+{
+  "id": "markdown-optimization",
+  "name": "markdown-optimization",
+  "version": "1.0.0",
+  "summary": "Analyze and optimize markdown documents for size, structure, and maintainability.\nUse when: (1) markdown files are too large or verbose, (2) documentation needs\nrestructuring, (...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/markdown-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T23:14:16.000Z",
+  "created_at": "2025-12-23T01:29:03.973Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fmarkdown-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_5aa3488760a1"
+  }
+}

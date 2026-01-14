@@ -1,0 +1,37 @@
+{
+  "id": "e2e-tester",
+  "name": "e2e-tester",
+  "version": "1.0.0",
+  "summary": "Execute end-to-end test scenarios for the D&D 5E terminal game using terminal-control MCP. This skill should be used when the user requests running test scenarios, creating new ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JoeCotellese",
+    "github": "JoeCotellese"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JoeCotellese/rpggame",
+    "skill_md": "https://raw.githubusercontent.com/JoeCotellese/rpggame/main/.claude/skills/e2e-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:13:26.625Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JoeCotellese%2Frpggame/.claude%2Fskills%2Fe2e-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_fd54a80becd4"
+  }
+}

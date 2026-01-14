@@ -1,0 +1,37 @@
+{
+  "id": "using-pgdbm",
+  "name": "using-pgdbm",
+  "version": "1.0.0",
+  "summary": "Use when setting up pgdbm database connections, migrations, or multi-service architecture - provides mental model of one pool/many schemas/template syntax and complete API refer...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "juanre",
+    "github": "juanre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/juanre/pgdbm",
+    "skill_md": "https://raw.githubusercontent.com/juanre/pgdbm/main/skills/using-pgdbm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:48.164Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanre%2Fpgdbm/skills%2Fusing-pgdbm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_9f13dcf8d2ea"
+  }
+}

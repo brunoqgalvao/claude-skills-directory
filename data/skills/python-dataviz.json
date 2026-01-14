@@ -1,0 +1,37 @@
+{
+  "id": "python-dataviz",
+  "name": "python-dataviz",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"create a plot\", \"make a chart\", \"visualize data\", \"create a heatmap\", \"make a scatter plot\", \"plot time series\", \"create publica...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tbhb",
+    "github": "tbhb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tbhb/oaps",
+    "skill_md": "https://raw.githubusercontent.com/tbhb/oaps/main/skills/python-dataviz/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:14:24.059Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tbhb%2Foaps/skills%2Fpython-dataviz%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_2ab5eff955c4"
+  }
+}

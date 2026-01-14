@@ -1,0 +1,37 @@
+{
+  "id": "homeassistant",
+  "name": "homeassistant",
+  "version": "1.0.0",
+  "summary": "Expert HomeAssistant development skill for creating custom sensors (template, REST, command line, Python components), building Lovelace dashboards with custom cards and layouts,...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "madeinoz67",
+    "github": "madeinoz67"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/madeinoz67/open-meteo-cloudcover",
+    "skill_md": "https://raw.githubusercontent.com/madeinoz67/open-meteo-cloudcover/main/.claude/skills/homeassistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:23.600Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/madeinoz67%2Fopen-meteo-cloudcover/.claude%2Fskills%2Fhomeassistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_c6a0297e536e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "use-gemini-for-code-analysis",
+  "name": "use-gemini-for-code-analysis",
+  "version": "1.0.0",
+  "summary": "【大型代码库分析专用】当需要分析整个项目架构、识别代码模式、追踪功能实现、梳理模块关系时必须使用本技能。触发关键词：分析整个项目/代码库、架构梳理、模块划分、代码模式识别、功能追踪、全局扫描。本技能通过 Gemini CLI 快速扫描完整代码库，提供 AI 驱动的架构洞察和代码分析，大幅节省手动探索时间。仅返回原始分析结果，不做二次解读。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "727474430",
+    "github": "727474430"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/727474430/cli-rule-swtich",
+    "skill_md": "https://raw.githubusercontent.com/727474430/cli-rule-swtich/main/templates/claude/jige/skills/use-gemini-for-code-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-18T06:51:02.000Z",
+  "created_at": "2025-12-23T01:28:35.997Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/727474430%2Fcli-rule-swtich/templates%2Fclaude%2Fjige%2Fskills%2Fuse-gemini-for-code-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_ef264694d8f1"
+  }
+}

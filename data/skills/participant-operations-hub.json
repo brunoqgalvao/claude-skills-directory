@@ -1,0 +1,36 @@
+{
+  "id": "participant-operations-hub",
+  "name": "participant-operations-hub",
+  "version": "1.0.0",
+  "summary": "Processes and guardrails for recruiting, scheduling, consent, and incentive fulfillment.",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/market-research/skills/participant-operations-hub/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:56:58.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fmarket-research%2Fskills%2Fparticipant-operations-hub%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_d39786888a2d"
+  }
+}

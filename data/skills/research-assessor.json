@@ -1,0 +1,37 @@
+{
+  "id": "research-assessor",
+  "name": "research-assessor",
+  "version": "1.0.0",
+  "summary": "Extracts and assesses research methodology, claims, and evidence from research papers in HASS disciplines. Evaluates transparency, replicability, and credibility through systema...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "saross",
+    "github": "saross"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/saross/llm-reproducibility",
+    "skill_md": "https://raw.githubusercontent.com/saross/llm-reproducibility/main/archive/extraction-system-skill-duplicate/research-assessor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T14:39:48.000Z",
+  "created_at": "2025-12-22T20:05:58.998Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/saross%2Fllm-reproducibility/archive%2Fextraction-system-skill-duplicate%2Fresearch-assessor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_36cd6f2c9569"
+  }
+}

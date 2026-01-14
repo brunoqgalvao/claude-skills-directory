@@ -1,0 +1,35 @@
+{
+  "id": "requirements-extractor",
+  "name": "requirements-extractor",
+  "version": "1.0.0",
+  "summary": "Auto-activates when analyzing GitHub issues to extract functional requirements, non-functional requirements, acceptance criteria, and user stories.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matteocervelli",
+    "github": "matteocervelli"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matteocervelli/llms",
+    "skill_md": "https://raw.githubusercontent.com/matteocervelli/llms/main/.claude/skills/requirements-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:08.061Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matteocervelli%2Fllms/.claude%2Fskills%2Frequirements-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_83cce0e26a14"
+  }
+}

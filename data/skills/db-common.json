@@ -1,0 +1,35 @@
+{
+  "id": "db-common",
+  "name": "db-common",
+  "version": "1.0.0",
+  "summary": "提供通用的数据库查询工作流程、SQL 模板和结果分析方法。使用 exec_sql 工具执行查询。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SeSiTing",
+    "github": "SeSiTing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SeSiTing/siti-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/SeSiTing/siti-claude-marketplace/main/plugins/blacklake-plugin/skills/db-common/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T12:55:04.000Z",
+  "created_at": "2025-12-22T16:28:43.411Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SeSiTing%2Fsiti-claude-marketplace/plugins%2Fblacklake-plugin%2Fskills%2Fdb-common%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_ddfabae8f4a2"
+  }
+}

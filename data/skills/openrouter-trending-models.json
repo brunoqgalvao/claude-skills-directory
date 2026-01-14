@@ -1,0 +1,35 @@
+{
+  "id": "openrouter-trending-models",
+  "name": "openrouter-trending-models",
+  "version": "1.0.0",
+  "summary": "Fetch trending programming models from OpenRouter rankings. Use when selecting models for multi-model review, updating model recommendations, or researching current AI coding tr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claude-code/main/skills/openrouter-trending-models/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.488Z",
+  "created_at": "2025-12-23T01:29:36.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaude-code/skills%2Fopenrouter-trending-models%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_4361c9743a95"
+  }
+}

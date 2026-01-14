@@ -1,0 +1,35 @@
+{
+  "id": "bewirtungsbeleg",
+  "name": "bewirtungsbeleg",
+  "version": "1.0.0",
+  "summary": "Creates German tax-compliant entertainment expense receipts (Bewirtungsbelege) from restaurant receipts with automatic signature and original receipt attachment. The generated P...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "skorfmann",
+    "github": "skorfmann"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/skorfmann/company-skills",
+    "skill_md": "https://raw.githubusercontent.com/skorfmann/company-skills/main/skills/bewirtungsbeleg/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:58:01.455Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/skorfmann%2Fcompany-skills/skills%2Fbewirtungsbeleg%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_221cc7227e13"
+  }
+}

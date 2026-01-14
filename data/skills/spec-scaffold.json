@@ -1,0 +1,37 @@
+{
+  "id": "spec-scaffold",
+  "name": "spec-scaffold",
+  "version": "1.0.0",
+  "summary": "Process any SDD (Specification-Driven Development) operations related to creating or updating specification documents. Always use this skill when dealing with specifications, e....",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elct9620",
+    "github": "elct9620"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elct9620/claudekit",
+    "skill_md": "https://raw.githubusercontent.com/elct9620/claudekit/main/plugins/spec/skills/spec-scaffold/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:28:24.498Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elct9620%2Fclaudekit/plugins%2Fspec%2Fskills%2Fspec-scaffold%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_0a358f01c9d2"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sql-generation",
+  "name": "sql-generation",
+  "version": "1.0.0",
+  "summary": "SQL Specialist for BigQuery SQL statement implementation including ad-hoc analysis, materialized views, and data preparation. Use when generating or modifying BigQuery SQL code.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smorand",
+    "github": "smorand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smorand/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/smorand/claude-config/main/skills/sql-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:13.208Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smorand%2Fclaude-config/skills%2Fsql-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_67661fdcf90a"
+  }
+}

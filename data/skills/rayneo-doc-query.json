@@ -1,0 +1,36 @@
+{
+  "id": "rayneo-doc-query",
+  "name": "rayneo-doc-query",
+  "version": "1.0.0",
+  "summary": "Query and navigate RayNeo X2/X3 Pro AR glasses documentation. Use this skill when answering questions about RayNeo XR hardware specifications, SDK usage, Android 12 development,...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nntsyeo",
+    "github": "Nntsyeo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nntsyeo/ThirdEye",
+    "skill_md": "https://raw.githubusercontent.com/Nntsyeo/ThirdEye/main/.claude/skills/rayneo-doc-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:22.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nntsyeo%2FThirdEye/.claude%2Fskills%2Frayneo-doc-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_9bae273847f5"
+  }
+}

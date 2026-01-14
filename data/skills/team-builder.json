@@ -1,0 +1,36 @@
+{
+  "id": "team-builder",
+  "name": "team-builder",
+  "version": "1.0.0",
+  "summary": "Builds a specialized AI development team using Claude Code plugins and subagents. This skill should be used when starting a new project and you need to assemble the right team o...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "edwardhallam",
+    "github": "edwardhallam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/edwardhallam/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/edwardhallam/claude-skills/main/skills/team-builder/latest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:30.624Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/edwardhallam%2Fclaude-skills/skills%2Fteam-builder%2Flatest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_358247a7fe37"
+  }
+}

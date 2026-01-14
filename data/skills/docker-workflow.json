@@ -1,0 +1,37 @@
+{
+  "id": "docker-workflow",
+  "name": "docker-workflow",
+  "version": "1.0.0",
+  "summary": "Comprehensive Docker containerization workflow covering multi-stage builds, docker-compose orchestration, image optimization, debugging, and production best practices. Use when ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AutumnsGrove",
+    "github": "AutumnsGrove"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AutumnsGrove/ClaudeSkills",
+    "skill_md": "https://raw.githubusercontent.com/AutumnsGrove/ClaudeSkills/main/docker-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:21.233Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AutumnsGrove%2FClaudeSkills/docker-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_40e7ab5dffa3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ecs-performance-audit",
+  "name": "ecs-performance-audit",
+  "version": "1.0.0",
+  "summary": "Analyze Entity Component System implementations for performance bottlenecks including entity iteration efficiency, system priority ordering, memory allocation patterns in hot pa...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kateusz",
+    "github": "kateusz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kateusz/GameEngine",
+    "skill_md": "https://raw.githubusercontent.com/kateusz/GameEngine/main/.claude/skills/ecs-performance-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.548Z",
+  "created_at": "2025-12-23T01:28:51.067Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kateusz%2FGameEngine/.claude%2Fskills%2Fecs-performance-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.548Z",
+    "uniqueId": "sk_591d07895b45"
+  }
+}

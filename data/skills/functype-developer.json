@@ -1,0 +1,36 @@
+{
+  "id": "functype-developer",
+  "name": "functype-developer",
+  "version": "1.0.0",
+  "summary": "Assist contributors working on the functype library codebase. Use this skill when creating new data structures, implementing functional interfaces (Functor, Monad, Foldable), ad...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jordanburke",
+    "github": "jordanburke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jordanburke/functype",
+    "skill_md": "https://raw.githubusercontent.com/jordanburke/functype/main/.claude/skills/functype-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-20T00:09:59.000Z",
+  "created_at": "2025-12-23T01:29:30.590Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jordanburke%2Ffunctype/.claude%2Fskills%2Ffunctype-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.494Z",
+    "uniqueId": "sk_b18398ac666a"
+  }
+}

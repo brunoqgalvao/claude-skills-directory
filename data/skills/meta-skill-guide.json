@@ -1,0 +1,36 @@
+{
+  "id": "meta-skill-guide",
+  "name": "meta-skill-guide",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for creating Claude Code custom skills. Use when asked to create, design, or improve custom skills for Claude Code. Provides templates, best practices, and p...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Danik911",
+    "github": "Danik911"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Danik911/thesis_project",
+    "skill_md": "https://raw.githubusercontent.com/Danik911/thesis_project/main/.claude/skills/meta-skill-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:02.477Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Danik911%2Fthesis_project/.claude%2Fskills%2Fmeta-skill-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_3732b375f2dd"
+  }
+}

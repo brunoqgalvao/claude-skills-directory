@@ -1,0 +1,36 @@
+{
+  "id": "vscode-tdd-expert",
+  "name": "vscode-tdd-expert",
+  "version": "1.0.0",
+  "summary": "This skill provides expert-level guidance for Test-Driven Development (TDD) in VS Code extension development following t-wada methodology. Use when writing tests before implemen...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "s-hiraoku",
+    "github": "s-hiraoku"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/s-hiraoku/vscode-sidebar-terminal",
+    "skill_md": "https://raw.githubusercontent.com/s-hiraoku/vscode-sidebar-terminal/main/.claude/skills/vscode-tdd-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:57.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/s-hiraoku%2Fvscode-sidebar-terminal/.claude%2Fskills%2Fvscode-tdd-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_61900c973875"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "insforge-schema-patterns",
+  "name": "insforge-schema-patterns",
+  "version": "1.0.0",
+  "summary": "Database schema patterns for InsForge including social graphs, e-commerce, content publishing, and multi-tenancy with RLS policies. Use when designing data models with relations...",
+  "verticals": [
+    "marketing",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "InsForge",
+    "github": "InsForge"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/InsForge/InsForge",
+    "skill_md": "https://raw.githubusercontent.com/InsForge/InsForge/main/claude-plugin/skills/insforge-schema-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:09.737Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/InsForge%2FInsForge/claude-plugin%2Fskills%2Finsforge-schema-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_53f5636c5f32"
+  }
+}

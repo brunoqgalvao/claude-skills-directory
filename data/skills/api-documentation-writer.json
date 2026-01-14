@@ -1,0 +1,36 @@
+{
+  "id": "api-documentation-writer",
+  "name": "api-documentation-writer",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive API documentation for REST, GraphQL, WebSocket APIs with OpenAPI specs, endpoint descriptions, request/response examples, error codes, authentication guid...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hieubkav",
+    "github": "Hieubkav"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hieubkav/wincellarCloneBackend",
+    "skill_md": "https://raw.githubusercontent.com/Hieubkav/wincellarCloneBackend/main/.claude/skills/api/api-documentation-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T01:39:42.000Z",
+  "created_at": "2025-12-22T15:52:17.581Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hieubkav%2FwincellarCloneBackend/.claude%2Fskills%2Fapi%2Fapi-documentation-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_966f9c846e50"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "managing-git-workflow",
+  "name": "managing-git-workflow",
+  "version": "1.0.0",
+  "summary": "Git workflow for HASH including branch naming, PR creation, and PR reviews. Use when creating branches, making commits, opening pull requests, or reviewing PRs.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hashintel",
+    "github": "hashintel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hashintel/hash",
+    "skill_md": "https://raw.githubusercontent.com/hashintel/hash/main/.claude/skills/managing-git-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:42.385Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hashintel%2Fhash/.claude%2Fskills%2Fmanaging-git-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_199c30aa98d2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "outline-driven-development",
+  "name": "outline-driven-development",
+  "version": "1.0.0",
+  "summary": "ODIN (Outline Driven INtelligence) - unified validation-first development with ODD principles",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OutlineDriven",
+    "github": "OutlineDriven"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OutlineDriven/odin-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/OutlineDriven/odin-claude-plugin/main/skills/odin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-23T00:00:17.594Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OutlineDriven%2Fodin-claude-plugin/skills%2Fodin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_cdb752d23b2b"
+  }
+}

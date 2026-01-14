@@ -1,0 +1,36 @@
+{
+  "id": "configuring-transaction-isolation",
+  "name": "configuring-transaction-isolation",
+  "version": "1.0.0",
+  "summary": "Configure transaction isolation levels to prevent race conditions and handle concurrent access. Use when dealing with concurrent updates, financial operations, inventory managem...",
+  "verticals": [
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/prisma-6/skills/configuring-transaction-isolation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:35.331Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/prisma-6%2Fskills%2Fconfiguring-transaction-isolation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_191cf6855b4b"
+  }
+}

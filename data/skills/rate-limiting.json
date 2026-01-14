@@ -1,0 +1,35 @@
+{
+  "id": "rate-limiting",
+  "name": "rate-limiting",
+  "version": "1.0.0",
+  "summary": "Implement and optimize rate limiting for APIs and routes. Use when protecting endpoints, preventing abuse, or managing resource usage across different user tiers.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jonit-dev",
+    "github": "jonit-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jonit-dev/pixelperfect",
+    "skill_md": "https://raw.githubusercontent.com/jonit-dev/pixelperfect/main/.claude/skills/rate-limiting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.603Z",
+  "created_at": "2025-12-23T00:07:47.848Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jonit-dev%2Fpixelperfect/.claude%2Fskills%2Frate-limiting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.603Z",
+    "uniqueId": "sk_3cd352546dec"
+  }
+}

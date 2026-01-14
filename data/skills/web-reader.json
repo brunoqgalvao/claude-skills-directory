@@ -1,0 +1,37 @@
+{
+  "id": "web-reader",
+  "name": "web-reader",
+  "version": "1.0.0",
+  "summary": "Implement web page content extraction capabilities using the z-ai-web-dev-sdk. Use this skill when the user needs to scrape web pages, extract article content, retrieve page met...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ConstantineCTF",
+    "github": "ConstantineCTF"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ConstantineCTF/can2025-safepass",
+    "skill_md": "https://raw.githubusercontent.com/ConstantineCTF/can2025-safepass/main/skills/web-reader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.597Z",
+  "created_at": "2025-12-23T00:18:39.295Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ConstantineCTF%2Fcan2025-safepass/skills%2Fweb-reader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.597Z",
+    "uniqueId": "sk_7b7c8d58564d"
+  }
+}

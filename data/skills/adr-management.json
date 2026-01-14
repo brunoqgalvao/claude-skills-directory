@@ -1,0 +1,35 @@
+{
+  "id": "adr-management",
+  "name": "adr-management",
+  "version": "1.0.0",
+  "summary": "Create and manage Architecture Decision Records (ADRs). Use when documenting technology choices, design decisions, or architectural changes that need to be tracked over time.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/enterprise-architecture/skills/adr-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T16:52:12.000Z",
+  "created_at": "2025-12-22T16:56:46.022Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fenterprise-architecture%2Fskills%2Fadr-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_346870f652b0"
+  }
+}

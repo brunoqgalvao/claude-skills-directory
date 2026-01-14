@@ -1,0 +1,35 @@
+{
+  "id": "julien-clemence-wordpress-remote",
+  "name": "julien-clemence-wordpress-remote",
+  "version": "1.0.0",
+  "summary": "Remote management for clemencefouquet.fr on Hostinger VPS. Covers site architecture, WP-CLI commands, and image uploads via Docker.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theflysurfer",
+    "github": "theflysurfer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theflysurfer/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/theflysurfer/claude-skills-marketplace/main/skills/julien-clemence-wordpress-remote/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T00:27:47.000Z",
+  "created_at": "2025-12-22T17:03:42.025Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theflysurfer%2Fclaude-skills-marketplace/skills%2Fjulien-clemence-wordpress-remote%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_38effdf6d9d4"
+  }
+}

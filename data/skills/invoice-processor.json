@@ -1,0 +1,36 @@
+{
+  "id": "invoice-processor",
+  "name": "invoice-processor",
+  "version": "1.0.0",
+  "summary": "Automatically process invoices (发票) from PDFs/images to Excel spreadsheets using AI vision recognition. Use this skill when users mention \"发票\", \"invoice\", \"处理发票\", \"识别发票\", \"提取发票\"...",
+  "verticals": [
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jst-Well-Dan",
+    "github": "Jst-Well-Dan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jst-Well-Dan/Skill-Box",
+    "skill_md": "https://raw.githubusercontent.com/Jst-Well-Dan/Skill-Box/main/business-analyst/invoice-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T14:23:32.000Z",
+  "created_at": "2025-12-22T17:12:07.635Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jst-Well-Dan%2FSkill-Box/business-analyst%2Finvoice-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_13d5bd2d9dac"
+  }
+}

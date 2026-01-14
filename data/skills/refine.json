@@ -1,0 +1,35 @@
+{
+  "id": "refine",
+  "name": "refine",
+  "version": "1.0.0",
+  "summary": "Extract or transform information from unstructured text content using LLM. Use for extracting facts, entities, or specific information from text. Does not add new content.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bdambrosio",
+    "github": "bdambrosio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bdambrosio/Cognitive_workbench",
+    "skill_md": "https://raw.githubusercontent.com/bdambrosio/Cognitive_workbench/main/src/tools/refine/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:36.651Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bdambrosio%2FCognitive_workbench/src%2Ftools%2Frefine%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_b4b9e05ef91b"
+  }
+}

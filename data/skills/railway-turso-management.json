@@ -1,0 +1,37 @@
+{
+  "id": "railway-turso-management",
+  "name": "railway-turso-management",
+  "version": "1.0.0",
+  "summary": "Railway Database管理スキル。Railway環境グループ、Variables vs Secrets、\nTurso integration、Railway CLI統合、一時ファイルセキュリティを提供します。\n\n📚 リソース参照:\nこのスキルには以下のリソースが含まれています。\n必要に応じて該当するリソースを参照してください:\n\n- `.c...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/railway-turso-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:04.746Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Frailway-turso-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_71a1d6c3b6f1"
+  }
+}

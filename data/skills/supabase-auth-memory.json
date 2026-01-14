@@ -1,0 +1,36 @@
+{
+  "id": "supabase-auth-memory",
+  "name": "supabase-auth-memory",
+  "version": "1.0.0",
+  "summary": "Standardize authentication and persistent memory storage using Supabase PostgreSQL. Use when building SaaS apps that need user auth, cross-device sync, and conversation history.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "guaderrama",
+    "github": "guaderrama"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/guaderrama/administracion-ofi-hrms",
+    "skill_md": "https://raw.githubusercontent.com/guaderrama/administracion-ofi-hrms/main/.claude/skills/supabase-auth-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T22:09:37.192Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/guaderrama%2Fadministracion-ofi-hrms/.claude%2Fskills%2Fsupabase-auth-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_37e231b91ca2"
+  }
+}

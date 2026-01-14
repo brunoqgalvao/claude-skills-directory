@@ -1,0 +1,35 @@
+{
+  "id": "clean-code",
+  "name": "clean-code",
+  "version": "1.0.0",
+  "summary": "Use when writing, reviewing, or refactoring code. Apply when naming variables or functions, structuring classes, handling errors, writing tests, or when code feels complex or ha...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ratacat",
+    "github": "ratacat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ratacat/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ratacat/claude-skills/main/skills/clean-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:08:56.858Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ratacat%2Fclaude-skills/skills%2Fclean-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_4cbd29e23d33"
+  }
+}

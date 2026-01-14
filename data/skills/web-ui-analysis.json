@@ -1,0 +1,37 @@
+{
+  "id": "web-ui-analysis",
+  "name": "web-ui-analysis",
+  "version": "1.0.0",
+  "summary": "Analyze web interfaces for UX issues, accessibility compliance (WCAG 2.1), color contrast, typography hierarchy, responsive design, and Core Web Vitals. Returns actionable impro...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ils15",
+    "github": "ils15"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ils15/copilot-global-config",
+    "skill_md": "https://raw.githubusercontent.com/ils15/copilot-global-config/main/skills/web-ui-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:51:46.180Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ils15%2Fcopilot-global-config/skills%2Fweb-ui-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_df9cff27ee76"
+  }
+}

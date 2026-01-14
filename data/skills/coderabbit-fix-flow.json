@@ -1,0 +1,36 @@
+{
+  "id": "coderabbit-fix-flow",
+  "name": "coderabbit-fix-flow",
+  "version": "1.0.0",
+  "summary": "This skill should be used when CodeRabbit code review feedback needs to be processed and fixed systematically. Use after running `coderabbit --plain` to automatically save feedb...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alchemiststudiosDOTai",
+    "github": "alchemiststudiosDOTai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alchemiststudiosDOTai/coderabbit-fix-flow-plugin",
+    "skill_md": "https://raw.githubusercontent.com/alchemiststudiosDOTai/coderabbit-fix-flow-plugin/main/skills/coderabbit-fix-flow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:38.469Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alchemiststudiosDOTai%2Fcoderabbit-fix-flow-plugin/skills%2Fcoderabbit-fix-flow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_8be8b4c2ea5d"
+  }
+}

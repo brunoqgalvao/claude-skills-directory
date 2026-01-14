@@ -1,0 +1,35 @@
+{
+  "id": "hex-docs-search",
+  "name": "hex-docs-search",
+  "version": "1.0.0",
+  "summary": "Research Hex packages (Sobelow, Phoenix, Ecto, Credo, Ash, etc). Use when investigating packages, understanding integration patterns, or finding module/function docs and usage e...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bradleygolden",
+    "github": "bradleygolden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bradleygolden/claude-marketplace-elixir",
+    "skill_md": "https://raw.githubusercontent.com/bradleygolden/claude-marketplace-elixir/main/plugins/core/skills/hex-docs-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T22:31:25.000Z",
+  "created_at": "2025-12-23T01:29:47.226Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bradleygolden%2Fclaude-marketplace-elixir/plugins%2Fcore%2Fskills%2Fhex-docs-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_ae6f96c9ee3b"
+  }
+}

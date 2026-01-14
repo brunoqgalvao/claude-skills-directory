@@ -1,0 +1,36 @@
+{
+  "id": "marketplace-builder",
+  "name": "marketplace-builder",
+  "version": "1.0.0",
+  "summary": "Create and configure Claude Code marketplaces and plugins. Use when the user wants to create a marketplace, publish plugins, set up team plugin distribution, or configure market...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mike-coulbourn",
+    "github": "mike-coulbourn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mike-coulbourn/claude-vibes",
+    "skill_md": "https://raw.githubusercontent.com/mike-coulbourn/claude-vibes/main/plugins/vibes/skills/marketplace-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.675Z",
+  "created_at": "2025-12-22T22:13:25.332Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mike-coulbourn%2Fclaude-vibes/plugins%2Fvibes%2Fskills%2Fmarketplace-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.675Z",
+    "uniqueId": "sk_10be66d090af"
+  }
+}

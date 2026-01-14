@@ -1,0 +1,37 @@
+{
+  "id": "vibe-validate",
+  "name": "vibe-validate",
+  "version": "1.0.0",
+  "summary": "Expert guidance for vibe-validate, an LLM-optimized validation orchestration tool. Use when working with vibe-validate commands, configuration, pre-commit workflows, or validati...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jdutton",
+    "github": "jdutton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jdutton/vibe-validate",
+    "skill_md": "https://raw.githubusercontent.com/jdutton/vibe-validate/main/docs/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:17:27.032Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jdutton%2Fvibe-validate/docs%2Fskill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_37f96537a562"
+  }
+}

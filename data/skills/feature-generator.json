@@ -1,0 +1,35 @@
+{
+  "id": "feature-generator",
+  "name": "feature-generator",
+  "version": "1.0.0",
+  "summary": "Generate full-stack features with Goca backend and React frontend. Use when creating new features, adding CRUD operations, or scaffolding new pages.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "atilladeniz",
+    "github": "atilladeniz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/atilladeniz/next-go-pg",
+    "skill_md": "https://raw.githubusercontent.com/atilladeniz/next-go-pg/main/.claude/skills/feature-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:35.427Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/atilladeniz%2Fnext-go-pg/.claude%2Fskills%2Ffeature-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_7b51f4a70f20"
+  }
+}

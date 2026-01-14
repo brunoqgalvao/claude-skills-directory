@@ -1,0 +1,35 @@
+{
+  "id": "concept-scaffolding",
+  "name": "concept-scaffolding",
+  "version": "1.0.0",
+  "summary": "This skill should be used when scaffolding complex concepts for learners. It applies cognitive load architecture principles to break down concepts into digestible pieces while r...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mjunaidca",
+    "github": "mjunaidca"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mjunaidca/robolearn",
+    "skill_md": "https://raw.githubusercontent.com/mjunaidca/robolearn/main/.claude/skills/authoring/concept-scaffolding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.637Z",
+  "created_at": "2025-12-22T23:09:34.397Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mjunaidca%2Frobolearn/.claude%2Fskills%2Fauthoring%2Fconcept-scaffolding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.637Z",
+    "uniqueId": "sk_6d3a4a156460"
+  }
+}

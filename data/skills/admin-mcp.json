@@ -1,0 +1,35 @@
+{
+  "id": "admin-mcp",
+  "name": "admin-mcp",
+  "version": "1.0.0",
+  "summary": "MCP server management for Claude Desktop. Profile-aware - reads MCP server inventory\nfrom profile.mcp.servers{} and config path from profile.paths.claudeConfig.\n\nUse when: insta...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evolv3-ai",
+    "github": "evolv3-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evolv3-ai/vibe-skills",
+    "skill_md": "https://raw.githubusercontent.com/evolv3-ai/vibe-skills/main/skills/admin-mcp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.533Z",
+  "created_at": "2025-12-23T01:28:58.598Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evolv3-ai%2Fvibe-skills/skills%2Fadmin-mcp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.533Z",
+    "uniqueId": "sk_06994dd1667a"
+  }
+}

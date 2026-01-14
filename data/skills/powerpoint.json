@@ -1,0 +1,35 @@
+{
+  "id": "powerpoint",
+  "name": "powerpoint",
+  "version": "1.0.0",
+  "summary": "Create and manipulate Microsoft PowerPoint presentations (.pptx files). Use for creating slides, presentations, pitch decks, and visual content with text, bullets, tables, and c...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Fergana-Labs",
+    "github": "Fergana-Labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Fergana-Labs/claude_agent_desktop",
+    "skill_md": "https://raw.githubusercontent.com/Fergana-Labs/claude_agent_desktop/main/.claude/skills/powerpoint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T04:50:49.000Z",
+  "created_at": "2025-12-23T01:28:38.001Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Fergana-Labs%2Fclaude_agent_desktop/.claude%2Fskills%2Fpowerpoint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.454Z",
+    "uniqueId": "sk_b5f6cad65f89"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "brand-compliance",
+  "name": "brand-compliance",
+  "version": "1.0.0",
+  "summary": "Unified brand compliance validation across visual, verbal, and legal dimensions. Use when relevant to the task.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/.factory/skills/brand-compliance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:05:51.976Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/.factory%2Fskills%2Fbrand-compliance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_12307ce17db9"
+  }
+}

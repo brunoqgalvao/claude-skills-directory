@@ -1,0 +1,35 @@
+{
+  "id": "routing-debug",
+  "name": "routing-debug",
+  "version": "1.0.0",
+  "summary": "Use when agent routing seems wrong, unexpected agents are selected, or you need to understand why a specific agent was chosen - provides detailed routing analysis and debugging....",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jrc1883",
+    "github": "jrc1883"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jrc1883/popkit-claude",
+    "skill_md": "https://raw.githubusercontent.com/jrc1883/popkit-claude/main/skills/pop-routing-debug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T15:25:07.000Z",
+  "created_at": "2025-12-23T01:28:52.370Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jrc1883%2Fpopkit-claude/skills%2Fpop-routing-debug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.546Z",
+    "uniqueId": "sk_8d2458808bdf"
+  }
+}

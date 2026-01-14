@@ -1,0 +1,37 @@
+{
+  "id": "db-query",
+  "name": "db-query",
+  "version": "1.0.0",
+  "summary": "This skill enables querying Spanner databases through the AfterShip DSP API. It uses the go-admin-automizely-cli library to obtain authentication tokens and execute SQL queries ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "virgoC0der",
+    "github": "virgoC0der"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/virgoC0der/awesome-claude-code",
+    "skill_md": "https://raw.githubusercontent.com/virgoC0der/awesome-claude-code/main/skills/db-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:06.065Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/virgoC0der%2Fawesome-claude-code/skills%2Fdb-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_8e1f854cd8b7"
+  }
+}

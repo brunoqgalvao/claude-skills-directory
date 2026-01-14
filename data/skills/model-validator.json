@@ -1,0 +1,35 @@
+{
+  "id": "model-validator",
+  "name": "model-validator",
+  "version": "1.0.0",
+  "summary": "Add comprehensive validation to Django models using validators, clean methods, and constraints. Use when implementing model validation, business rules, or data integrity checks.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gizix",
+    "github": "gizix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gizix/cc_projects",
+    "skill_md": "https://raw.githubusercontent.com/gizix/cc_projects/main/django-template/.claude/skills/model-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:07.498Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gizix%2Fcc_projects/django-template%2F.claude%2Fskills%2Fmodel-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_0a61ea24d853"
+  }
+}

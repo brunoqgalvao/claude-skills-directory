@@ -1,0 +1,35 @@
+{
+  "id": "conversion-spec-generator",
+  "name": "conversion-spec-generator",
+  "version": "1.0.0",
+  "summary": "Generates detailed actionable conversion specifications from audit results for architectural migration",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fractary",
+    "github": "fractary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fractary/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fractary/claude-plugins/main/plugins/faber-agent/skills/spec-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.491Z",
+  "created_at": "2025-12-23T01:29:32.932Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fractary%2Fclaude-plugins/plugins%2Ffaber-agent%2Fskills%2Fspec-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.491Z",
+    "uniqueId": "sk_d3de077cc3c5"
+  }
+}

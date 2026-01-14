@@ -1,0 +1,36 @@
+{
+  "id": "database-operations",
+  "name": "database-operations",
+  "version": "1.0.0",
+  "summary": "SQLite database, DBManager, HybridStorage, and schema operations for GMailArchiver. Use when working with database queries, transactions, mbox offsets, FTS5 search, or data inte...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tumma72",
+    "github": "tumma72"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tumma72/GMailArchiver",
+    "skill_md": "https://raw.githubusercontent.com/tumma72/GMailArchiver/main/.claude/skills/database-operations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:08:16.446Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tumma72%2FGMailArchiver/.claude%2Fskills%2Fdatabase-operations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_6f59e2bd019f"
+  }
+}

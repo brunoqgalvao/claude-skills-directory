@@ -1,0 +1,35 @@
+{
+  "id": "playing-ose-solo",
+  "name": "playing-ose-solo",
+  "version": "1.0.0",
+  "summary": "Acts as Game Master for Old-School Essentials (OSE) solo play. Use when the user wants to play an RPG, explore an adventure module, or start a gaming session using the Old-Schoo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mmacy",
+    "github": "mmacy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mmacy/vibe-o-matic",
+    "skill_md": "https://raw.githubusercontent.com/mmacy/vibe-o-matic/main/oracle-cli/.claude/skills/playing-ose-solo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T04:57:25.000Z",
+  "created_at": "2025-12-23T01:28:32.388Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mmacy%2Fvibe-o-matic/oracle-cli%2F.claude%2Fskills%2Fplaying-ose-solo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_172c43c9c3c8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "task-decomposition",
+  "name": "task-decomposition",
+  "version": "1.0.0",
+  "summary": "Break down OAK plans into structured tasks using oak.plan-tasks conventions. Use when generating tasks.md, structuring work for export to GitHub/ADO, or organizing implementatio...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sirkirby",
+    "github": "sirkirby"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sirkirby/open-agent-kit",
+    "skill_md": "https://raw.githubusercontent.com/sirkirby/open-agent-kit/main/features/plan/skills/task-decomposition/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:14:01.634Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sirkirby%2Fopen-agent-kit/features%2Fplan%2Fskills%2Ftask-decomposition%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_96d1e4d8629b"
+  }
+}

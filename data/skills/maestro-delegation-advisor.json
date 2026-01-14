@@ -1,0 +1,36 @@
+{
+  "id": "maestro-delegation-advisor",
+  "name": "maestro-delegation-advisor",
+  "version": "1.0.0",
+  "summary": "Expert system for AgentMaestro that helps decide when and how to delegate tasks to specialized AI agents (Claude, Codex, Gemini). Use when you need to determine which agent is b...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NehoraiHadad",
+    "github": "NehoraiHadad"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NehoraiHadad/agent-maestro-cli",
+    "skill_md": "https://raw.githubusercontent.com/NehoraiHadad/agent-maestro-cli/main/plugins/maestro-delegation-suite/skills/maestro-delegation-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.479Z",
+  "created_at": "2025-12-23T01:29:44.908Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NehoraiHadad%2Fagent-maestro-cli/plugins%2Fmaestro-delegation-suite%2Fskills%2Fmaestro-delegation-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_82dbcd254ca9"
+  }
+}

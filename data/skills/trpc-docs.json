@@ -1,0 +1,35 @@
+{
+  "id": "trpc-docs",
+  "name": "trpc-docs",
+  "version": "1.0.0",
+  "summary": "Query and manage local tRPC documentation mirror (25 docs). Search tRPC topics for end-to-end typesafe APIs, routers, procedures, React Query integration, and Next.js setup. Use...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Girolino",
+    "github": "Girolino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Girolino/rs-news",
+    "skill_md": "https://raw.githubusercontent.com/Girolino/rs-news/main/.claude/skills/trpc-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:36.855Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Girolino%2Frs-news/.claude%2Fskills%2Ftrpc-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_b1801355a7c8"
+  }
+}

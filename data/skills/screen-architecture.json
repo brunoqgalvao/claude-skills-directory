@@ -1,0 +1,35 @@
+{
+  "id": "screen-architecture",
+  "name": "screen-architecture",
+  "version": "1.0.0",
+  "summary": "iOS画面実装のアーキテクチャ・設計思想スキル。Reduxパターンに基づくSingle Root State、Reducerによるビジネスロジック分離、テスタビリティを重視した実装を支援。使用シーン：(1)「このプロトタイプを本番実装にして」などの本格実装リクエスト (2)「状態管理を整理して」などのアーキテクチャ適用リクエスト (3) 画面の状態管理...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hiragram",
+    "github": "hiragram"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hiragram/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/hiragram/claude-code-plugins/main/ios-team/skills/screen-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.775Z",
+  "created_at": "2025-12-22T19:58:08.610Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hiragram%2Fclaude-code-plugins/ios-team%2Fskills%2Fscreen-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.775Z",
+    "uniqueId": "sk_05438a08dc78"
+  }
+}

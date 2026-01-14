@@ -1,0 +1,35 @@
+{
+  "id": "postman-collection-manager",
+  "name": "postman-collection-manager",
+  "version": "1.0.0",
+  "summary": "Import, export, and manage Postman collections. Use when working with Postman collections, importing OpenAPI specs, exporting collections, or when user mentions Postman import, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/dev-lifecycle-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/dev-lifecycle-marketplace/main/plugins/testing/skills/postman-collection-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-09T07:55:16.000Z",
+  "created_at": "2025-12-22T15:52:36.427Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fdev-lifecycle-marketplace/plugins%2Ftesting%2Fskills%2Fpostman-collection-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_2d6e60ce6499"
+  }
+}

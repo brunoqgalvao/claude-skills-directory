@@ -1,0 +1,35 @@
+{
+  "id": "political-attack-neutralization",
+  "name": "political-attack-neutralization",
+  "version": "1.0.0",
+  "summary": "Neutralize workplace political attacks using the MOAR framework from Gartner research",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cameronsjo",
+    "github": "cameronsjo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cameronsjo/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/cameronsjo/claude-marketplace/main/plugins/political-attack-neutralization/skills/political-attack-neutralization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.678Z",
+  "created_at": "2025-12-22T22:12:13.237Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cameronsjo%2Fclaude-marketplace/plugins%2Fpolitical-attack-neutralization%2Fskills%2Fpolitical-attack-neutralization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.678Z",
+    "uniqueId": "sk_741d59a89422"
+  }
+}

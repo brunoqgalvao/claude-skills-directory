@@ -1,0 +1,37 @@
+{
+  "id": "cool-mysql",
+  "name": "cool-mysql",
+  "version": "1.0.0",
+  "summary": "Use this skill when working with the cool-mysql library for Go. This skill provides comprehensive guidance on using cool-mysql's MySQL helper functions, including dual connectio...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "StirlingMarketingGroup",
+    "github": "StirlingMarketingGroup"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/StirlingMarketingGroup/cool-mysql",
+    "skill_md": "https://raw.githubusercontent.com/StirlingMarketingGroup/cool-mysql/main/.claude/skills/cool-mysql/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:26.544Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/StirlingMarketingGroup%2Fcool-mysql/.claude%2Fskills%2Fcool-mysql%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_01bbe2de9238"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cli-agent-runner",
+  "name": "cli-agent-runner",
+  "version": "1.0.0",
+  "summary": "Use this skill when you need to invoke another Claude Code session via the cli-agent-runner.sh script to perform specialized, potentially long-running tasks in a simplified way....",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rawe",
+    "github": "rawe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rawe/claude-dev-skills",
+    "skill_md": "https://raw.githubusercontent.com/rawe/claude-dev-skills/main/cli-agent-runner/skills/cli-agent-runner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.678Z",
+  "created_at": "2025-12-22T22:12:12.266Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rawe%2Fclaude-dev-skills/cli-agent-runner%2Fskills%2Fcli-agent-runner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.678Z",
+    "uniqueId": "sk_80dd18635de8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "add-doc",
+  "name": "add-doc",
+  "version": "1.0.0",
+  "summary": "Add new documentation sources to .claude/doc-sources.toml for Context7 access",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asterkin",
+    "github": "asterkin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asterkin/claude-taew-py",
+    "skill_md": "https://raw.githubusercontent.com/asterkin/claude-taew-py/main/.claude/skills/add-doc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.523Z",
+  "created_at": "2025-12-23T01:29:06.950Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asterkin%2Fclaude-taew-py/.claude%2Fskills%2Fadd-doc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_b29c0d0e8a00"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "validator-expert",
+  "name": "validator-expert",
+  "version": "1.0.0",
+  "summary": "Validate production readiness of Vertex AI Agent Engine deployments across security, monitoring, performance, compliance, and best practices. Generates weighted scores (0-100%) ...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/ai-ml/jeremy-vertex-validator/skills/validator-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T19:34:19.087Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fai-ml%2Fjeremy-vertex-validator%2Fskills%2Fvalidator-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.888Z",
+    "uniqueId": "sk_e612833045e1"
+  }
+}

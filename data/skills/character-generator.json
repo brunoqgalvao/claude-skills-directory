@@ -1,0 +1,36 @@
+{
+  "id": "character-generator",
+  "name": "character-generator",
+  "version": "1.0.0",
+  "summary": "Crée des personnages Basic Fantasy RPG. Génère caractéristiques (4d6kh3 ou 3d6), applique bonus raciaux, calcule modificateurs, points de vie et or de départ. Sauvegarde dans da...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nicmarti",
+    "github": "nicmarti"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nicmarti/skills-weaver",
+    "skill_md": "https://raw.githubusercontent.com/nicmarti/skills-weaver/main/.claude/skills/character-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:03:49.462Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nicmarti%2Fskills-weaver/.claude%2Fskills%2Fcharacter-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_6e48d6bb1344"
+  }
+}

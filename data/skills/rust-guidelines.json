@@ -1,0 +1,36 @@
+{
+  "id": "rust-guidelines",
+  "name": "rust-guidelines",
+  "version": "1.0.0",
+  "summary": "Pragmatic Rust conventions to keep code readable, testable, and performant for this project.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lambdamechanic",
+    "github": "lambdamechanic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lambdamechanic/tooltest",
+    "skill_md": "https://raw.githubusercontent.com/lambdamechanic/tooltest/main/skills/rust-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.469Z",
+  "created_at": "2025-12-23T01:30:51.175Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lambdamechanic%2Ftooltest/skills%2Frust-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.469Z",
+    "uniqueId": "sk_6bd8eac0ff0b"
+  }
+}

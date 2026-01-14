@@ -1,0 +1,36 @@
+{
+  "id": "bun-testing",
+  "name": "bun-testing",
+  "version": "1.0.0",
+  "summary": "Testing guidelines for Bun/TypeScript projects using bun:test framework. Use when writing tests, creating test files, debugging test failures, setting up mocks, or reviewing tes...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SlavaMelanko",
+    "github": "SlavaMelanko"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SlavaMelanko/smela-back",
+    "skill_md": "https://raw.githubusercontent.com/SlavaMelanko/smela-back/main/.claude/skills/bun-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T12:48:32.000Z",
+  "created_at": "2025-12-23T01:28:48.969Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SlavaMelanko%2Fsmela-back/.claude%2Fskills%2Fbun-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_928e4b2df2a3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "transcript-analyzer",
+  "name": "transcript-analyzer",
+  "version": "1.0.0",
+  "summary": "This skill analyzes meeting transcripts to extract decisions, action items, opinions, questions, and terminology using Cerebras AI (llama-3.3-70b). Use this skill when the user ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "glebis",
+    "github": "glebis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/glebis/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/glebis/claude-skills/main/transcript-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:30:40.471Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/glebis%2Fclaude-skills/transcript-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_ab7651ed0b2f"
+  }
+}

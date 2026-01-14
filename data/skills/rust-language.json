@@ -1,0 +1,36 @@
+{
+  "id": "rust-language",
+  "name": "rust-language",
+  "version": "1.0.0",
+  "summary": "Guide for writing Rust code covering ownership, borrowing, lifetimes, error handling, async programming, and Rust best practices",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinnie357",
+    "github": "vinnie357"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinnie357/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/vinnie357/claude-skills/main/rust/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.636Z",
+  "created_at": "2025-12-22T23:09:50.125Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinnie357%2Fclaude-skills/rust%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.636Z",
+    "uniqueId": "sk_ba4c23d65568"
+  }
+}

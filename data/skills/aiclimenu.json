@@ -1,0 +1,35 @@
+{
+  "id": "aiclimenu",
+  "name": "aiclimenu",
+  "version": "1.0.0",
+  "summary": "Farm out AI tasks via Named Pipe to get isolated context. Use when processing large files, batch summarization, or to avoid context pollution. Each call runs in fresh context.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ai-servicers",
+    "github": "ai-servicers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ai-servicers/AICLIMenu",
+    "skill_md": "https://raw.githubusercontent.com/ai-servicers/AICLIMenu/main/windows/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:28:18.793Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ai-servicers%2FAICLIMenu/windows%2Fskill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_0ed51dee9a30"
+  }
+}

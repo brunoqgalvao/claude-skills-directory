@@ -1,0 +1,35 @@
+{
+  "id": "sync-check",
+  "name": "sync-check",
+  "version": "1.0.0",
+  "summary": "my_career_data.md와 10개 파일의 동기화 상태를 검증합니다. 이력서 정합성 확인, 불일치 항목 점검이 필요할 때 사용합니다.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "younwony",
+    "github": "younwony"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/younwony/younwony.github.io",
+    "skill_md": "https://raw.githubusercontent.com/younwony/younwony.github.io/main/.claude/skills/sync-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.270Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/younwony%2Fyounwony.github.io/.claude%2Fskills%2Fsync-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_01b5dd9604b8"
+  }
+}

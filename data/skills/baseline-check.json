@@ -1,0 +1,37 @@
+{
+  "id": "baseline-check",
+  "name": "baseline-check",
+  "version": "1.0.0",
+  "summary": "Autonomously run quality checks (detekt, Gradle tests) to establish baseline or detect regressions. Supports three modes (capture, compare, auto) for comprehensive regression de...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "spiralhouse",
+    "github": "spiralhouse"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/spiralhouse/cycletime",
+    "skill_md": "https://raw.githubusercontent.com/spiralhouse/cycletime/main/.claude/skills/baseline-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:44.765Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/spiralhouse%2Fcycletime/.claude%2Fskills%2Fbaseline-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_533f65c43650"
+  }
+}

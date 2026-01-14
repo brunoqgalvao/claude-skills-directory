@@ -1,0 +1,36 @@
+{
+  "id": "makefile-assistant",
+  "name": "makefile-assistant",
+  "version": "1.0.0",
+  "summary": "Automatically capture Bash commands executed by Claude Code and convert them into documented, organized Makefile targets in .claude/makefiles/. Use when Claude executes any Bash...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rafaelcalleja",
+    "github": "rafaelcalleja"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rafaelcalleja/claude-market-place",
+    "skill_md": "https://raw.githubusercontent.com/rafaelcalleja/claude-market-place/main/skills/makefile-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:54.258Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rafaelcalleja%2Fclaude-market-place/skills%2Fmakefile-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_c189e756ea17"
+  }
+}

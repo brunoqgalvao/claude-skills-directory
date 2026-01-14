@@ -1,0 +1,35 @@
+{
+  "id": "gitea-tea",
+  "name": "gitea-tea",
+  "version": "1.0.0",
+  "summary": "Gitea CLI (tea) for managing issues, pull requests, releases, and repositories. Use when user mentions \"tea\", \"gitea cli\", or needs to interact with Gitea from terminal.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "beshkenadze",
+    "github": "beshkenadze"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/beshkenadze/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/beshkenadze/claude-skills-marketplace/main/skills/development/gitea-tea/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:11:12.730Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/beshkenadze%2Fclaude-skills-marketplace/skills%2Fdevelopment%2Fgitea-tea%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_45a1837f0e70"
+  }
+}

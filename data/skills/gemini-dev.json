@@ -1,0 +1,36 @@
+{
+  "id": "gemini-dev",
+  "name": "gemini-dev",
+  "version": "1.0.0",
+  "summary": "Google Gemini API development with google-genai SDK. Use for prompting, multimodal inputs, structured outputs, and agentic workflows.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "parkerhancock",
+    "github": "parkerhancock"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/parkerhancock/ai-docs-plugin",
+    "skill_md": "https://raw.githubusercontent.com/parkerhancock/ai-docs-plugin/main/skills/gemini-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:11:11.255Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/parkerhancock%2Fai-docs-plugin/skills%2Fgemini-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_7fda37ad2295"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "hooks-eval",
+  "name": "hooks-eval",
+  "version": "1.0.0",
+  "summary": "Comprehensive hook evaluation framework for Claude Code and Agent SDK hooks. Covers security scanning, performance analysis, compliance checking, and SDK hook types. Use when au...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/abstract/skills/hooks-eval/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:10:48.411Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fabstract%2Fskills%2Fhooks-eval%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_01fbeaa2bfad"
+  }
+}

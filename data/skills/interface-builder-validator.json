@@ -1,0 +1,36 @@
+{
+  "id": "interface-builder-validator",
+  "name": "interface-builder-validator",
+  "version": "1.0.0",
+  "summary": "Parse and validate XIB/Storyboard files for broken outlets, warnings, accessibility",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paleoterra",
+    "github": "paleoterra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paleoterra/PaleoRose",
+    "skill_md": "https://raw.githubusercontent.com/paleoterra/PaleoRose/main/.claude/skills/interface-builder-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:57:19.199Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paleoterra%2FPaleoRose/.claude%2Fskills%2Finterface-builder-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_82527e8fef7a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "stable-diffusion-image-generation",
+  "name": "stable-diffusion-image-generation",
+  "version": "1.0.0",
+  "summary": "State-of-the-art text-to-image generation with Stable Diffusion models via HuggingFace Diffusers. Use when generating images from text prompts, performing image-to-image transla...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zechenzhangAGI",
+    "github": "zechenzhangAGI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zechenzhangAGI/AI-research-SKILLs",
+    "skill_md": "https://raw.githubusercontent.com/zechenzhangAGI/AI-research-SKILLs/main/18-multimodal/stable-diffusion/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T22:25:34.000Z",
+  "created_at": "2025-12-23T01:29:35.583Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zechenzhangAGI%2FAI-research-SKILLs/18-multimodal%2Fstable-diffusion%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_da4179fe1f82"
+  }
+}

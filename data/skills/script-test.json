@@ -1,0 +1,35 @@
+{
+  "id": "script-test",
+  "name": "script-test",
+  "version": "1.0.0",
+  "summary": "测试脚本执行功能的示例 Skill",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Leavesfly",
+    "github": "Leavesfly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Leavesfly/Jimi",
+    "skill_md": "https://raw.githubusercontent.com/Leavesfly/Jimi/main/src/main/resources/skills/script-test/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T05:52:54.000Z",
+  "created_at": "2025-12-23T01:28:23.070Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Leavesfly%2FJimi/src%2Fmain%2Fresources%2Fskills%2Fscript-test%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_613f3946209d"
+  }
+}

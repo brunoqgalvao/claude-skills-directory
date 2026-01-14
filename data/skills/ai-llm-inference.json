@@ -1,0 +1,35 @@
+{
+  "id": "ai-llm-inference",
+  "name": "ai-llm-inference",
+  "version": "1.0.0",
+  "summary": "Operational patterns for LLM inference (recent advances): vLLM with 24x throughput gains, FP8/FP4 quantization (30-50% cost reduction), FlashInfer kernels, advanced fusions, Pag...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vasilyu1983",
+    "github": "vasilyu1983"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vasilyu1983/AI-Agents-public",
+    "skill_md": "https://raw.githubusercontent.com/vasilyu1983/AI-Agents-public/main/frameworks/claude-code-kit/framework/skills/ai-llm-inference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T09:33:13.000Z",
+  "created_at": "2025-12-23T01:29:30.788Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vasilyu1983%2FAI-Agents-public/frameworks%2Fclaude-code-kit%2Fframework%2Fskills%2Fai-llm-inference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_160a6e98a5f8"
+  }
+}

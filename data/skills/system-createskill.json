@@ -1,0 +1,37 @@
+{
+  "id": "system-createskill",
+  "name": "system-createskill",
+  "version": "1.0.0",
+  "summary": "Skill creation and validation framework ensuring compliance with Helix architectural standards.\n\nUSE WHEN user says \"create skill\", \"create a skill\", \"new skill\", \"build skill\",...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sysylvia",
+    "github": "sysylvia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sysylvia/ssylvia-website",
+    "skill_md": "https://raw.githubusercontent.com/sysylvia/ssylvia-website/main/.claude/skills/system-createskill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.772Z",
+  "created_at": "2025-12-22T20:00:32.986Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sysylvia%2Fssylvia-website/.claude%2Fskills%2Fsystem-createskill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_6feeae74e98f"
+  }
+}

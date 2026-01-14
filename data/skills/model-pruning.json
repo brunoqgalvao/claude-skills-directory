@@ -1,0 +1,35 @@
+{
+  "id": "model-pruning",
+  "name": "model-pruning",
+  "version": "1.0.0",
+  "summary": "Reduce LLM size and accelerate inference using pruning techniques like Wanda and SparseGPT. Use when compressing models without retraining, achieving 50% sparsity with minimal a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ovachiever",
+    "github": "ovachiever"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ovachiever/droid-tings",
+    "skill_md": "https://raw.githubusercontent.com/ovachiever/droid-tings/main/skills/model-pruning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T22:08:33.855Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ovachiever%2Fdroid-tings/skills%2Fmodel-pruning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_d43e86e440a8"
+  }
+}

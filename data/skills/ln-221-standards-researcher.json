@@ -1,0 +1,35 @@
+{
+  "id": "ln-221-standards-researcher",
+  "name": "ln-221-standards-researcher",
+  "version": "1.0.0",
+  "summary": "Research standards/patterns via MCP Ref. Generates Standards Research for Story Technical Notes subsection. Reusable worker.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-221-standards-researcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T07:55:07.000Z",
+  "created_at": "2025-12-22T19:06:16.137Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-221-standards-researcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_4c1beb977533"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "shadow-scout",
+  "name": "shadow-scout",
+  "version": "1.0.0",
+  "summary": "Assess companies for Azure Ascent prospect fit using NICE framework and Reality-Map classification",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Azsuramina",
+    "github": "Azsuramina"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Azsuramina/shadow-scout",
+    "skill_md": "https://raw.githubusercontent.com/Azsuramina/shadow-scout/main/.claude/skills/shadow-scout/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:44.632Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Azsuramina%2Fshadow-scout/.claude%2Fskills%2Fshadow-scout%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_9ea2713322ce"
+  }
+}

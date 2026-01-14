@@ -1,0 +1,37 @@
+{
+  "id": "exa-get-contents",
+  "name": "exa-get-contents",
+  "version": "1.0.0",
+  "summary": "Retrieve and extract content from URLs with AI-powered summarization and structured data extraction. Use for scraping web pages, extracting specific information, summarizing art...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benjaminjackson",
+    "github": "benjaminjackson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benjaminjackson/exa-skills",
+    "skill_md": "https://raw.githubusercontent.com/benjaminjackson/exa-skills/main/exa-core/skills/get-contents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.768Z",
+  "created_at": "2025-12-22T20:04:20.396Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benjaminjackson%2Fexa-skills/exa-core%2Fskills%2Fget-contents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_0b9b71c896e0"
+  }
+}

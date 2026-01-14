@@ -1,0 +1,35 @@
+{
+  "id": "end-to-end-tests",
+  "name": "end-to-end-tests",
+  "version": "1.0.0",
+  "summary": "after making changes, run end-to-end tests to ensure that the product still works",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "git-town",
+    "github": "git-town"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/git-town/git-town",
+    "skill_md": "https://raw.githubusercontent.com/git-town/git-town/main/.claude/skills/end_to_end_tests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:20:57.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/git-town%2Fgit-town/.claude%2Fskills%2Fend_to_end_tests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_aba20f1b1bd6"
+  }
+}

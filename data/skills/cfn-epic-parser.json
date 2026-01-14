@@ -1,0 +1,35 @@
+{
+  "id": "cfn-epic-parser",
+  "name": "cfn-epic-parser",
+  "version": "1.0.0",
+  "summary": "Converts natural language epic documents from markdown into structured JSON configurations for MDAP or CFN Loop execution. Use when you need to parse epic documents, validate ep...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masharratt",
+    "github": "masharratt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masharratt/claude-flow-novice",
+    "skill_md": "https://raw.githubusercontent.com/masharratt/claude-flow-novice/main/.claude/skills/cfn-epic-parser/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:23.699Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masharratt%2Fclaude-flow-novice/.claude%2Fskills%2Fcfn-epic-parser%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_f79ca5d9081d"
+  }
+}

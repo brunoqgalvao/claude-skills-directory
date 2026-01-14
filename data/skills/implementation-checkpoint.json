@@ -1,0 +1,35 @@
+{
+  "id": "implementation-checkpoint",
+  "name": "implementation-checkpoint",
+  "version": "1.0.0",
+  "summary": "Generate standardized checkpoint reports for multi-phase implementation projects. This skill should be used when pausing implementation at strategic milestones (phase completion...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "davidmatousek",
+    "github": "davidmatousek"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/davidmatousek/product-led-spec-kit",
+    "skill_md": "https://raw.githubusercontent.com/davidmatousek/product-led-spec-kit/main/.claude/skills/implementation-checkpoint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:51.393Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/davidmatousek%2Fproduct-led-spec-kit/.claude%2Fskills%2Fimplementation-checkpoint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_b45559957918"
+  }
+}

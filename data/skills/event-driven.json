@@ -1,0 +1,35 @@
+{
+  "id": "event-driven",
+  "name": "event-driven",
+  "version": "1.0.0",
+  "summary": "Event-driven architecture patterns including message queues, pub/sub, event sourcing, CQRS, and sagas. Use when implementing async messaging, distributed transactions, event sto...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cosmix",
+    "github": "cosmix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cosmix/claude-code-setup",
+    "skill_md": "https://raw.githubusercontent.com/cosmix/claude-code-setup/main/skills/event-driven/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.594Z",
+  "created_at": "2025-12-23T00:22:51.079Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cosmix%2Fclaude-code-setup/skills%2Fevent-driven%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.594Z",
+    "uniqueId": "sk_5555915ecc0b"
+  }
+}

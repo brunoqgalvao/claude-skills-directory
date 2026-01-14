@@ -1,0 +1,35 @@
+{
+  "id": "student-feedback",
+  "name": "student-feedback",
+  "version": "1.0.0",
+  "summary": "Provide constructive feedback on political science PhD student work including paper drafts, dissertation chapters, research design memos, and progress updates. Use when the user...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fdhidalgo",
+    "github": "fdhidalgo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fdhidalgo/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/fdhidalgo/claude-config/main/skills-desktop/student-feedback/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:40.046Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fdhidalgo%2Fclaude-config/skills-desktop%2Fstudent-feedback%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_a58b7ec7c826"
+  }
+}

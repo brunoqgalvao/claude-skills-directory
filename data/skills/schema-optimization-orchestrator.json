@@ -1,0 +1,35 @@
+{
+  "id": "schema-optimization-orchestrator",
+  "name": "schema-optimization-orchestrator",
+  "version": "1.0.0",
+  "summary": "Multi-phase schema optimization workflow orchestrator. Creates session directories,\nspawns phase agents sequentially, validates outputs, aggregates results.\nTrigger: \"run schema...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/workspace/lab/schema-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:08.830Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/workspace%2Flab%2Fschema-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_e6cbe00ef87f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "create-specs",
+  "name": "create-specs",
+  "version": "1.0.0",
+  "summary": "Transform reverse-engineering documentation into GitHub Spec Kit format. Initializes .specify/ directory, creates constitution.md, generates specifications from reverse-engineer...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jschulte",
+    "github": "jschulte"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jschulte/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jschulte/claude-plugins/main/stackshift/skills/create-specs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:22.003Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jschulte%2Fclaude-plugins/stackshift%2Fskills%2Fcreate-specs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_1f016326de42"
+  }
+}

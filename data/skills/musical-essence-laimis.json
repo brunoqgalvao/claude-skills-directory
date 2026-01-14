@@ -1,0 +1,35 @@
+{
+  "id": "musical-essence-laimis",
+  "name": "musical-essence-laimis",
+  "version": "1.0.0",
+  "summary": "Complete musical taste profile of Laimis based on analysis of 124 tracks (38 parameters each) and 3 playlists. Use this skill when user asks to create music prompts (SUNO/Udio),...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nn1k4",
+    "github": "nn1k4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nn1k4/musical-essence",
+    "skill_md": "https://raw.githubusercontent.com/nn1k4/musical-essence/main/v2/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T08:54:34.000Z",
+  "created_at": "2025-12-23T01:29:31.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nn1k4%2Fmusical-essence/v2%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_0ef824d5db0b"
+  }
+}

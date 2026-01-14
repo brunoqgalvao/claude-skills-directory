@@ -1,0 +1,35 @@
+{
+  "id": "drizzle-migrations",
+  "name": "drizzle-migrations",
+  "version": "1.0.0",
+  "summary": "Drizzle ORM migrations for Neon PostgreSQL. Use when creating database schemas, running migrations, or troubleshooting Drizzle issues.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dvorkinguy",
+    "github": "dvorkinguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dvorkinguy/claude-skills-agents",
+    "skill_md": "https://raw.githubusercontent.com/dvorkinguy/claude-skills-agents/main/skills/drizzle-migrations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T19:50:02.000Z",
+  "created_at": "2025-12-22T15:55:10.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dvorkinguy%2Fclaude-skills-agents/skills%2Fdrizzle-migrations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_a523f89b5596"
+  }
+}

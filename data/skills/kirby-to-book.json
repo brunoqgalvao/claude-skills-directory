@@ -1,0 +1,35 @@
+{
+  "id": "kirby-to-book",
+  "name": "kirby-to-book",
+  "version": "1.0.0",
+  "summary": "Convert Kirby CMS content to book/document formats. Use when generating PDFs, ebooks, or structured documents from CMS content.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoeffer",
+    "github": "astoeffer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoeffer/plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/astoeffer/plugin-marketplace/main/plugins/cloodle-content-native/skills/kirby-to-book/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T15:06:06.000Z",
+  "created_at": "2025-12-23T01:28:33.008Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoeffer%2Fplugin-marketplace/plugins%2Fcloodle-content-native%2Fskills%2Fkirby-to-book%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_d0fd2e7a91e1"
+  }
+}

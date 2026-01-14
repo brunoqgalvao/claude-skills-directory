@@ -1,0 +1,35 @@
+{
+  "id": "load-context",
+  "name": "load-context",
+  "version": "1.0.0",
+  "summary": "도메인/기능의 컨텍스트 빠른 파악. Use when:\n(1) 특정 도메인 이해 필요, (2) 기존 기능 수정 전 파악,\n(3) 세션 시작 시 컨텍스트 로드.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/spring/skills/load-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:19.019Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fspring%2Fskills%2Fload-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_5501b15bc6d5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "reviewing-security",
+  "name": "reviewing-security",
+  "version": "1.0.0",
+  "summary": "OWASP Top 10-based security review and vulnerability detection. Triggers: セキュリティ, 脆弱性, XSS, SQL injection, SQLインジェクション, CSRF, 認証, 認可, 暗号化, OWASP, SSRF, パスワード, セッション, rate limiti...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thkt",
+    "github": "thkt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thkt/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/thkt/claude-config/main/skills/reviewing-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.857Z",
+  "created_at": "2025-12-22T15:12:19.424Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thkt%2Fclaude-config/skills%2Freviewing-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_6d89342d022d"
+  }
+}

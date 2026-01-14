@@ -1,0 +1,35 @@
+{
+  "id": "expectations",
+  "name": "expectations",
+  "version": "1.0.0",
+  "summary": "Working expectations and documentation practices. Use when capturing learnings or understanding how to work with this codebase.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "citypaul",
+    "github": "citypaul"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/citypaul/.dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/citypaul/.dotfiles/main/claude/.claude/skills/expectations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T21:42:48.000Z",
+  "created_at": "2025-12-23T01:28:41.382Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/citypaul%2F.dotfiles/claude%2F.claude%2Fskills%2Fexpectations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_4a88f35a2b27"
+  }
+}

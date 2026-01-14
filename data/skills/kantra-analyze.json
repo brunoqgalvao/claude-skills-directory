@@ -1,0 +1,35 @@
+{
+  "id": "kantra-analyze",
+  "name": "kantra-analyze",
+  "version": "1.0.0",
+  "summary": "Utilize Kantra, a CLI that unifies analysis and transformation capabilities of Konveyor, to analyze the source code of an application for violations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JonahSussman",
+    "github": "JonahSussman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JonahSussman/project-eris",
+    "skill_md": "https://raw.githubusercontent.com/JonahSussman/project-eris/main/.claude/skills/kantra-analyze/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:08.528Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JonahSussman%2Fproject-eris/.claude%2Fskills%2Fkantra-analyze%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_95ae55f0802d"
+  }
+}

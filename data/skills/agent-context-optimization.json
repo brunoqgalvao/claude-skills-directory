@@ -1,0 +1,35 @@
+{
+  "id": "agent-context-optimization",
+  "name": "agent-context-optimization",
+  "version": "1.0.0",
+  "summary": "This skill should be used when preparing context for agent delegation to maximize output quality - teaches what information agents need, how to structure context efficiently, wh...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chriscarterux",
+    "github": "chriscarterux"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chriscarterux/chris-claude-stack",
+    "skill_md": "https://raw.githubusercontent.com/chriscarterux/chris-claude-stack/main/skills/agent-context-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.675Z",
+  "created_at": "2025-12-22T22:13:27.174Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chriscarterux%2Fchris-claude-stack/skills%2Fagent-context-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.675Z",
+    "uniqueId": "sk_bf7a5e651519"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "publish",
+  "name": "publish",
+  "version": "1.0.0",
+  "summary": "Publish a new version of klaude-code to PyPI. This skill handles version bumping, changelog updates, git tagging, and package publishing. Use when the user wants to release a ne...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "inspirepan",
+    "github": "inspirepan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/inspirepan/klaude-code",
+    "skill_md": "https://raw.githubusercontent.com/inspirepan/klaude-code/main/.claude/skills/publish/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T13:09:37.000Z",
+  "created_at": "2025-12-22T15:56:25.430Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/inspirepan%2Fklaude-code/.claude%2Fskills%2Fpublish%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_1b34be1a97cf"
+  }
+}

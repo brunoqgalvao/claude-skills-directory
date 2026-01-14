@@ -1,0 +1,37 @@
+{
+  "id": "model-selection-guide",
+  "name": "model-selection-guide",
+  "version": "1.0.0",
+  "summary": "Guidelines for choosing the optimal model (opus/sonnet/haiku) for different development tasks based on complexity, quality requirements, and token budget. Use when making model ...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zate",
+    "github": "Zate"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zate/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/Zate/cc-plugins/main/plugins/devloop/skills/model-selection-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T12:05:29.000Z",
+  "created_at": "2025-12-22T17:54:18.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zate%2Fcc-plugins/plugins%2Fdevloop%2Fskills%2Fmodel-selection-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_1dbfee31d181"
+  }
+}

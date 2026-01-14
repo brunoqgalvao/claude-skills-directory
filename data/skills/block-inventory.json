@@ -1,0 +1,36 @@
+{
+  "id": "block-inventory",
+  "name": "block-inventory",
+  "version": "1.0.0",
+  "summary": "Survey available blocks from local AEM Edge Delivery Services project and Block Collection to understand the block palette available for authoring. Returns block inventory with ...",
+  "verticals": [
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paul-hosking-cdw-com",
+    "github": "paul-hosking-cdw-com"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paul-hosking-cdw-com/da-with-ue-demo",
+    "skill_md": "https://raw.githubusercontent.com/paul-hosking-cdw-com/da-with-ue-demo/main/.claude/skills/block-inventory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.444Z",
+  "created_at": "2025-12-22T19:57:08.658Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paul-hosking-cdw-com%2Fda-with-ue-demo/.claude%2Fskills%2Fblock-inventory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.444Z",
+    "uniqueId": "sk_e916507aed58"
+  }
+}

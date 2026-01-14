@@ -1,0 +1,36 @@
+{
+  "id": "design-brief-generator",
+  "name": "design-brief-generator",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive design briefs for design projects. Use this skill when designers ask to \"create a design brief\", \"structure a design project\", \"define design requirements...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jamesrochabrun",
+    "github": "jamesrochabrun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jamesrochabrun/skills",
+    "skill_md": "https://raw.githubusercontent.com/jamesrochabrun/skills/main/skills/design-brief-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T05:22:46.000Z",
+  "created_at": "2025-12-23T01:29:36.860Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jamesrochabrun%2Fskills/skills%2Fdesign-brief-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_eaddb4f6bbe5"
+  }
+}

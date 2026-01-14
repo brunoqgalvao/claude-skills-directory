@@ -1,0 +1,35 @@
+{
+  "id": "astrolabe-search-state",
+  "name": "astrolabe-search-state",
+  "version": "1.0.0",
+  "summary": "Generic search, filtering, sorting, and pagination utilities for .NET. Use when implementing search APIs with dynamic filtering, sorting, and pagination for list/grid endpoints.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astrolabe-apps",
+    "github": "astrolabe-apps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astrolabe-apps/astrolabe-common",
+    "skill_md": "https://raw.githubusercontent.com/astrolabe-apps/astrolabe-common/main/skills/astrolabe-search-state/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.503Z",
+  "created_at": "2025-12-23T01:29:22.567Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astrolabe-apps%2Fastrolabe-common/skills%2Fastrolabe-search-state%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_1c302e525b33"
+  }
+}

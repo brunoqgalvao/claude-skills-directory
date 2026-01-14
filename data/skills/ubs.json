@@ -1,0 +1,35 @@
+{
+  "id": "ubs",
+  "name": "ubs",
+  "version": "1.0.0",
+  "summary": "Ultimate Bug Scanner - scan code for bugs across 7 languages (JS/TS, Python, Go, Rust, Java, C++, Ruby). Use before commits to catch null safety issues, security holes, async bu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/claude",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/claude/main/skills/ubs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.551Z",
+  "created_at": "2025-12-23T01:28:48.983Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fclaude/skills%2Fubs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_7d18a0ec4f12"
+  }
+}

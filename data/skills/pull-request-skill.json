@@ -1,0 +1,35 @@
+{
+  "id": "pull-request-skill",
+  "name": "pull-request-skill",
+  "version": "1.0.0",
+  "summary": "Pull Request review manager for CodeRabbit AI. **ALWAYS use when user needs to work with PR reviews, fix CodeRabbit issues, or check review status.** Downloads, organizes, and h...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcioaltoe",
+    "github": "marcioaltoe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcioaltoe/claude-craftkit",
+    "skill_md": "https://raw.githubusercontent.com/marcioaltoe/claude-craftkit/main/plugins/reviewer/skills/pull-request-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T11:47:05.000Z",
+  "created_at": "2025-12-23T01:29:25.364Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcioaltoe%2Fclaude-craftkit/plugins%2Freviewer%2Fskills%2Fpull-request-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.500Z",
+    "uniqueId": "sk_247880fa0fd6"
+  }
+}

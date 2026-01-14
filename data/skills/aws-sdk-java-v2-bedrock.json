@@ -1,0 +1,35 @@
+{
+  "id": "aws-sdk-java-v2-bedrock",
+  "name": "aws-sdk-java-v2-bedrock",
+  "version": "1.0.0",
+  "summary": "Amazon Bedrock patterns using AWS SDK for Java 2.x. Use when working with foundation models (listing, invoking), text generation, image generation, embeddings, streaming respons...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "giuseppe-trisciuoglio",
+    "github": "giuseppe-trisciuoglio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "skill_md": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-bedrock/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.690Z",
+  "created_at": "2025-12-22T22:06:43.319Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/giuseppe-trisciuoglio%2Fdeveloper-kit/skills%2Faws-java%2Faws-sdk-java-v2-bedrock%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.690Z",
+    "uniqueId": "sk_b2282b3963ad"
+  }
+}

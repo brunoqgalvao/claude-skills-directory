@@ -1,0 +1,37 @@
+{
+  "id": "seller-analytics",
+  "name": "seller-analytics",
+  "version": "1.0.0",
+  "summary": "Analyzes seller lead performance, revenue attribution, and marketing campaigns for the Seller vertical (acquired business with separate data architecture). Use when working with...",
+  "verticals": [
+    "finance",
+    "sales",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MoveRDC",
+    "github": "MoveRDC"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MoveRDC/claude-skills-marketing",
+    "skill_md": "https://raw.githubusercontent.com/MoveRDC/claude-skills-marketing/main/skills/seller-analytics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.634Z",
+  "created_at": "2025-12-22T23:11:56.112Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MoveRDC%2Fclaude-skills-marketing/skills%2Fseller-analytics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.634Z",
+    "uniqueId": "sk_08b925ec7b97"
+  }
+}

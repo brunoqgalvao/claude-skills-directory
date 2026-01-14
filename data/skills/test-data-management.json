@@ -1,0 +1,36 @@
+{
+  "id": "test-data-management",
+  "name": "test-data-management",
+  "version": "1.0.0",
+  "summary": "E2Eテストのためのテストデータ管理戦略。\n\n📚 リソース参照:\nこのスキルには以下のリソースが含まれています。\n必要に応じて該当するリソースを参照してください:\n\n- `.claude/skills/test-data-management/resources/cleanup-patterns.md`: Cleanup Patternsリソース\n-...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/test-data-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:16.873Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Ftest-data-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_b1355f08624b"
+  }
+}

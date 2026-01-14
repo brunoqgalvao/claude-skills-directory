@@ -1,0 +1,37 @@
+{
+  "id": "seedream-image-generator",
+  "name": "seedream-image-generator",
+  "version": "1.0.0",
+  "summary": "Generate images using the Doubao SeeDream API based on text prompts. Use this skill when users request AI-generated images, artwork, illustrations, or visual content creation. T...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eze-is",
+    "github": "eze-is"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eze-is/seedream-image-generator",
+    "skill_md": "https://raw.githubusercontent.com/eze-is/seedream-image-generator/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T23:10:40.000Z",
+  "created_at": "2025-12-23T01:29:25.250Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eze-is%2Fseedream-image-generator/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.501Z",
+    "uniqueId": "sk_9c719edc3674"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pdm-migration-specialist",
+  "name": "pdm-migration-specialist",
+  "version": "1.0.0",
+  "summary": "Migrate pyproject.toml from pre-PDM 2.0 syntax to modern PEP-compliant format. Focuses on dev-dependencies to dependency-groups conversion and PEP 621 project metadata. Integrat...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paunchygent",
+    "github": "paunchygent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paunchygent/docforge",
+    "skill_md": "https://raw.githubusercontent.com/paunchygent/docforge/main/frontend/.claude/skills/pdm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:47.551Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paunchygent%2Fdocforge/frontend%2F.claude%2Fskills%2Fpdm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_574a3db4e7f0"
+  }
+}

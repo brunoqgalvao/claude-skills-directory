@@ -1,0 +1,36 @@
+{
+  "id": "implementing-websocket-realtime",
+  "name": "implementing-websocket-realtime",
+  "version": "1.0.0",
+  "summary": "Use this skill when implementing real-time features with WebSockets, including connection lifecycle management, pub/sub event patterns, state synchronization between client and ...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "miethe",
+    "github": "miethe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/miethe/family-shopping-dashboard",
+    "skill_md": "https://raw.githubusercontent.com/miethe/family-shopping-dashboard/main/.claude/skills/implementing-websocket-realtime/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T19:33:44.000Z",
+  "created_at": "2025-12-22T20:08:14.104Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/miethe%2Ffamily-shopping-dashboard/.claude%2Fskills%2Fimplementing-websocket-realtime%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_9ec9377923e9"
+  }
+}

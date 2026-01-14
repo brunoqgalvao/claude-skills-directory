@@ -1,0 +1,35 @@
+{
+  "id": "gin",
+  "name": "gin",
+  "version": "1.0.0",
+  "summary": "A comprehensive skill for the Go Gin web framework including routing, middleware, binding, and testing",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bailu2025",
+    "github": "bailu2025"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bailu2025/CC-Plugins",
+    "skill_md": "https://raw.githubusercontent.com/bailu2025/CC-Plugins/main/plugins/go-gin-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:40.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bailu2025%2FCC-Plugins/plugins%2Fgo-gin-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_dd5147062cc0"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "context-database-schema",
+  "name": "context-database-schema",
+  "version": "1.0.0",
+  "summary": "Supabase PostgreSQL schema management, 86+ migrations, RLS policies, and type generation.\nHandles table creation, schema changes, migrations, foreign key constraints, and migrat...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stars-end",
+    "github": "stars-end"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stars-end/affordabot",
+    "skill_md": "https://raw.githubusercontent.com/stars-end/affordabot/main/.claude/skills/context-database-schema/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:54.372Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stars-end%2Faffordabot/.claude%2Fskills%2Fcontext-database-schema%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_61cc2b54568a"
+  }
+}

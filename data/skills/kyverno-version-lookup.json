@@ -1,0 +1,35 @@
+{
+  "id": "kyverno-version-lookup",
+  "name": "kyverno-version-lookup",
+  "version": "1.0.0",
+  "summary": "This skill should be used when looking up Kyverno Helm chart versions, release dates, and corresponding app versions from Artifact Hub. Use for version planning, upgrade decisio...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "plinde",
+    "github": "plinde"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/plinde/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/plinde/claude-plugins/main/kyverno-version-lookup/skills/kyverno-version-lookup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.845Z",
+  "created_at": "2025-12-22T16:04:13.959Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/plinde%2Fclaude-plugins/kyverno-version-lookup%2Fskills%2Fkyverno-version-lookup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_1fb6209ab637"
+  }
+}

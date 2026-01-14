@@ -1,0 +1,36 @@
+{
+  "id": "dockerfile-builder",
+  "name": "dockerfile-builder",
+  "version": "1.0.0",
+  "summary": "Generate optimized, production-ready Dockerfiles with multi-stage builds, security best practices, and proper layer caching for various application types. Triggers on \"create Do...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/dockerfile-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.517Z",
+  "created_at": "2025-12-23T01:29:11.754Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/dockerfile-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.517Z",
+    "uniqueId": "sk_0285bbb4c138"
+  }
+}

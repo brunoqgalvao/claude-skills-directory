@@ -1,0 +1,36 @@
+{
+  "id": "cobra-patterns",
+  "name": "cobra-patterns",
+  "version": "1.0.0",
+  "summary": "Production-ready Cobra CLI patterns including command structure, flags (local and persistent), nested commands, PreRun/PostRun hooks, argument validation, and initialization pat...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/cli-builder",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/cli-builder/main/plugins/cli-builder/skills/cobra-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:40.142Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fcli-builder/plugins%2Fcli-builder%2Fskills%2Fcobra-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_36453fb3d69b"
+  }
+}

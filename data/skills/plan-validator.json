@@ -1,0 +1,35 @@
+{
+  "id": "plan-validator",
+  "name": "plan-validator",
+  "version": "1.0.0",
+  "summary": "Validates development plans using simple, safe best practices. Follows existing project structure and official documentation. Use this skill when reviewing migration plans or de...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amo-tech-ai",
+    "github": "amo-tech-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amo-tech-ai/medellin-spark",
+    "skill_md": "https://raw.githubusercontent.com/amo-tech-ai/medellin-spark/main/.claude/skills/plan-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T09:24:50.000Z",
+  "created_at": "2025-12-23T01:29:44.943Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amo-tech-ai%2Fmedellin-spark/.claude%2Fskills%2Fplan-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_780b2d29e3c1"
+  }
+}

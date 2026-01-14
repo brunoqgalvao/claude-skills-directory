@@ -1,0 +1,35 @@
+{
+  "id": "report-bug",
+  "name": "report-bug",
+  "version": "1.0.0",
+  "summary": "QA 테스트 중 발견된 버그를 서비스 레포에 이슈카드로 생성. Use when (1) QA 테스트 중 버그 발견,\n(2) 테스트 케이스 실패 시 버그 리포팅, (3) 브랜치 생성까지 원스톱 처리 필요.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/ops/qa/skills/report-bug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T09:52:48.000Z",
+  "created_at": "2025-12-22T17:13:02.316Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fops%2Fqa%2Fskills%2Freport-bug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_065180100a07"
+  }
+}

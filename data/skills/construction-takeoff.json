@@ -1,0 +1,36 @@
+{
+  "id": "construction-takeoff",
+  "name": "construction-takeoff",
+  "version": "1.0.0",
+  "summary": "Automated construction quantity surveying from PDF plans using AI. Processes construction drawings, extracts quantities/materials, analyzes competitor solutions via Firecrawl, c...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "breverdbidder",
+    "github": "breverdbidder"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/breverdbidder/spd-site-plan-dev",
+    "skill_md": "https://raw.githubusercontent.com/breverdbidder/spd-site-plan-dev/main/skills/construction-takeoff/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:15.562Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/breverdbidder%2Fspd-site-plan-dev/skills%2Fconstruction-takeoff%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_2cbd6a5c1151"
+  }
+}

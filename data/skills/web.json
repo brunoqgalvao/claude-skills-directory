@@ -1,0 +1,36 @@
+{
+  "id": "web",
+  "name": "web",
+  "version": "1.0.0",
+  "summary": "Search the web using Brave Search API and fetch page content with HTML-to-markdown conversion. Use when user needs current information, online documentation, or specific URL con...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielscholl",
+    "github": "danielscholl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielscholl/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/danielscholl/agent-skills/main/plugins/agent-tools/skills/web/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:04.824Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielscholl%2Fagent-skills/plugins%2Fagent-tools%2Fskills%2Fweb%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_3b7dca8e2748"
+  }
+}

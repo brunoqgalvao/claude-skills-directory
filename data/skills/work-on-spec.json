@@ -1,0 +1,35 @@
+{
+  "id": "work-on-spec",
+  "name": "work-on-spec",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user mentions \"continue spec\", \"work on spec\", \"check requirements\", \"update progress\", \"spec 001\", or wants to work with an existing specific...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a3lem",
+    "github": "a3lem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a3lem/my-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/a3lem/my-claude-plugins/main/spec-driven-dev/skills/work-on-spec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:15.872Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a3lem%2Fmy-claude-plugins/spec-driven-dev%2Fskills%2Fwork-on-spec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_668364ba45b5"
+  }
+}

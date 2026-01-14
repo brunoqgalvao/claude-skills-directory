@@ -1,0 +1,35 @@
+{
+  "id": "expert-routing",
+  "name": "expert-routing",
+  "version": "1.0.0",
+  "summary": "领域专家路由。当知识库无法回答用户问题时，根据问题领域查找并通知对应专家。仅在 IM 模式下可用。触发条件：6阶段检索无结果时。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Harryoung",
+    "github": "Harryoung"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Harryoung/efka",
+    "skill_md": "https://raw.githubusercontent.com/Harryoung/efka/main/skills/expert-routing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.575Z",
+  "created_at": "2025-12-23T01:28:26.951Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Harryoung%2Fefka/skills%2Fexpert-routing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_6637a79c51bc"
+  }
+}

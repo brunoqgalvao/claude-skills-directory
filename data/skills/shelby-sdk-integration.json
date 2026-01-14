@@ -1,0 +1,36 @@
+{
+  "id": "shelby-sdk-integration",
+  "name": "shelby-sdk-integration",
+  "version": "1.0.0",
+  "summary": "Use when integrating Shelby Protocol TypeScript SDK for Node.js or browser applications. Helps with setup, blob uploads, authentication with Aptos accounts, network configuratio...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zacharyr0th",
+    "github": "zacharyr0th"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zacharyr0th/next-starter",
+    "skill_md": "https://raw.githubusercontent.com/zacharyr0th/next-starter/main/.claude/skills/shelby/shelby-sdk-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:04.605Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zacharyr0th%2Fnext-starter/.claude%2Fskills%2Fshelby%2Fshelby-sdk-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_73106bfcb687"
+  }
+}

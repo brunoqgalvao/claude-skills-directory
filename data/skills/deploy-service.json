@@ -1,0 +1,36 @@
+{
+  "id": "deploy-service",
+  "name": "deploy-service",
+  "version": "1.0.0",
+  "summary": "Docker Compose 기반 서비스 배포 실행. Use when (1) 배포 요청, (2) 서비스 업데이트, (3) /SAX:deploy 커맨드.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-infra",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-infra/main/skills/deploy-service/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T07:31:41.000Z",
+  "created_at": "2025-12-22T16:00:39.603Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-infra/skills%2Fdeploy-service%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_605015376d03"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "arboreto",
+  "name": "arboreto",
+  "version": "1.0.0",
+  "summary": "Infer gene regulatory networks (GRNs) from gene expression data using scalable algorithms (GRNBoost2, GENIE3). Use when analyzing transcriptomics data (bulk RNA-seq, single-cell...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/scientific-pkg-arboreto/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.788Z",
+  "created_at": "2025-12-22T19:02:46.082Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fscientific-pkg-arboreto%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_dc5ff927c950"
+  }
+}

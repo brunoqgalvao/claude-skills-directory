@@ -1,0 +1,37 @@
+{
+  "id": "distributed-tracing-specialist",
+  "name": "distributed-tracing-specialist",
+  "version": "1.0.0",
+  "summary": "Configure and use OpenTelemetry distributed tracing with Jaeger in HuleEdu services. Guides tracer initialization, span creation, W3C trace propagation, and correlation with log...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paunchygent",
+    "github": "paunchygent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paunchygent/skriptoteket",
+    "skill_md": "https://raw.githubusercontent.com/paunchygent/skriptoteket/main/.claude/skills/distributed-tracing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T23:40:02.000Z",
+  "created_at": "2025-12-22T16:05:11.467Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paunchygent%2Fskriptoteket/.claude%2Fskills%2Fdistributed-tracing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_866c375836e9"
+  }
+}

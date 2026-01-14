@@ -1,0 +1,36 @@
+{
+  "id": "draw-diagram-skill",
+  "name": "draw-diagram-skill",
+  "version": "1.0.0",
+  "summary": "Expert guidance for creating syntactically correct and well-structured Mermaid diagrams following best practices. Use when creating flowcharts, sequence diagrams, class diagrams...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Yidada",
+    "github": "Yidada"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Yidada/draw-diagram-skill",
+    "skill_md": "https://raw.githubusercontent.com/Yidada/draw-diagram-skill/main/draw-diagram-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T06:13:52.000Z",
+  "created_at": "2025-12-23T01:28:38.710Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Yidada%2Fdraw-diagram-skill/draw-diagram-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_d98e833e4108"
+  }
+}

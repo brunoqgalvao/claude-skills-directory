@@ -1,0 +1,37 @@
+{
+  "id": "moderation-safety-playbook",
+  "name": "moderation-safety-playbook",
+  "version": "1.0.0",
+  "summary": "Guidelines and workflows for community moderation, trust & safety, and escalation.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/community-building/skills/moderation-safety-playbook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T14:32:29.000Z",
+  "created_at": "2025-12-22T14:55:52.754Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fcommunity-building%2Fskills%2Fmoderation-safety-playbook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_ec6720309497"
+  }
+}

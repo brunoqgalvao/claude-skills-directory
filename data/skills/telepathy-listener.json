@@ -1,0 +1,35 @@
+{
+  "id": "telepathy-listener",
+  "name": "telepathy-listener",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"listen for messages\", \"monitor telepathy\", \"wait for messages from other Claude instances\", \"メッセージを待つ\", \"監視する\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reconstyle",
+    "github": "reconstyle"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reconstyle/cctelepathy",
+    "skill_md": "https://raw.githubusercontent.com/reconstyle/cctelepathy/main/.claude/skills/telepathy-listener/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:21:31.000Z",
+  "created_at": "2025-12-23T01:28:22.325Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reconstyle%2Fcctelepathy/.claude%2Fskills%2Ftelepathy-listener%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_312a2a107e7f"
+  }
+}

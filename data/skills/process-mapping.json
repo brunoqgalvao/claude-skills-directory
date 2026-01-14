@@ -1,0 +1,36 @@
+{
+  "id": "process-mapping",
+  "name": "process-mapping",
+  "version": "1.0.0",
+  "summary": "Visualize and document current and future business processes. Identify inefficiencies, dependencies, and improvement opportunities through detailed process mapping and analysis.",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/process-mapping/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.756Z",
+  "created_at": "2025-12-22T20:16:01.921Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fprocess-mapping%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_c7e3fbc8dd26"
+  }
+}

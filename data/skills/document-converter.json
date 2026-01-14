@@ -1,0 +1,35 @@
+{
+  "id": "document-converter",
+  "name": "document-converter",
+  "version": "1.0.0",
+  "summary": "Convert between Markdown, DOCX, and PDF formats bidirectionally. Handles text extraction from PDF/DOCX, markdown to document conversion. Use when converting document formats or ...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benbrastmckie",
+    "github": "benbrastmckie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benbrastmckie/.config",
+    "skill_md": "https://raw.githubusercontent.com/benbrastmckie/.config/main/.claude/skills/document-converter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T17:48:23.000Z",
+  "created_at": "2025-12-22T21:03:16.360Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benbrastmckie%2F.config/.claude%2Fskills%2Fdocument-converter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_89b32dc4b510"
+  }
+}

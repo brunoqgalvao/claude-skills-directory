@@ -1,0 +1,35 @@
+{
+  "id": "operator-machine-setup",
+  "name": "operator-machine-setup",
+  "version": "1.0.0",
+  "summary": "Use this skill when configuring a machine as part of Operator's machine setup flow.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "financialvice",
+    "github": "financialvice"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/financialvice/op-mini",
+    "skill_md": "https://raw.githubusercontent.com/financialvice/op-mini/main/apps/web/.claude/skills/operator-machine-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:14.348Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/financialvice%2Fop-mini/apps%2Fweb%2F.claude%2Fskills%2Foperator-machine-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_0d7e6dac0bf5"
+  }
+}

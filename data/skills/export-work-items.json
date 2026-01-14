@@ -1,0 +1,36 @@
+{
+  "id": "export-work-items",
+  "name": "export-work-items",
+  "version": "1.0.0",
+  "summary": "Generate markdown reports of work items with optional details like acceptance criteria, descriptions, and comments. Use when creating sprint summaries, feature overviews, or doc...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusshepp",
+    "github": "marcusshepp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusshepp/useful",
+    "skill_md": "https://raw.githubusercontent.com/marcusshepp/useful/main/network/.github/skills/export-work-items/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T23:13:32.000Z",
+  "created_at": "2025-12-23T01:28:37.416Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusshepp%2Fuseful/network%2F.github%2Fskills%2Fexport-work-items%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_1c852995be51"
+  }
+}

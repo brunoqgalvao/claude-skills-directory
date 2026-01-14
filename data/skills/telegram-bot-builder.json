@@ -1,0 +1,36 @@
+{
+  "id": "telegram-bot-builder",
+  "name": "telegram-bot-builder",
+  "version": "1.0.0",
+  "summary": "Build Telegram bots in Node.js. Use when a request mentions Telegram bot, BotFather, bot token, webhook, long polling, commands, inline keyboards, callback queries, or handling ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paulpham157",
+    "github": "paulpham157"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paulpham157/cloudFall",
+    "skill_md": "https://raw.githubusercontent.com/paulpham157/cloudFall/main/codex_gpt-5.2-codex/.codex/skills/telegram-bot-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.859Z",
+  "created_at": "2025-12-22T15:10:14.427Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paulpham157%2FcloudFall/codex_gpt-5.2-codex%2F.codex%2Fskills%2Ftelegram-bot-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_bc7961af8749"
+  }
+}

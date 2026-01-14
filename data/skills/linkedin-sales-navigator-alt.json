@@ -1,0 +1,37 @@
+{
+  "id": "linkedin-sales-navigator-alt",
+  "name": "linkedin-sales-navigator-alt",
+  "version": "1.0.0",
+  "summary": "Build targeted prospect lists by analyzing LinkedIn profiles, extracting job titles, companies, locations, and recent activity. Identifies decision-makers, tracks job changes fo...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gked2121",
+    "github": "gked2121"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gked2121/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gked2121/claude-skills/main/linkedin-sales-navigator-alt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T22:11:12.953Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gked2121%2Fclaude-skills/linkedin-sales-navigator-alt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_bd1071c6a86a"
+  }
+}

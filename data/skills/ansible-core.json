@@ -1,0 +1,36 @@
+{
+  "id": "ansible-core",
+  "name": "ansible-core",
+  "version": "1.0.0",
+  "summary": "Use when working with Ansible Core 2.19 for automation, configuration management, playbooks, modules, or infrastructure as code",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SkogAI",
+    "github": "SkogAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SkogAI/skogansible",
+    "skill_md": "https://raw.githubusercontent.com/SkogAI/skogansible/main/.claude/skills/ansible-core/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.671Z",
+  "created_at": "2025-12-22T22:16:22.199Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SkogAI%2Fskogansible/.claude%2Fskills%2Fansible-core%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.671Z",
+    "uniqueId": "sk_6c45705068a6"
+  }
+}

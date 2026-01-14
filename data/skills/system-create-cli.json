@@ -1,0 +1,36 @@
+{
+  "id": "system-create-cli",
+  "name": "system-create-cli",
+  "version": "1.0.0",
+  "summary": "Generate production-quality TypeScript CLIs with full documentation, error handling, and best practices. Creates deterministic, type-safe command-line tools following PAI's CLI-...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "multicam",
+    "github": "multicam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/multicam/qara",
+    "skill_md": "https://raw.githubusercontent.com/multicam/qara/main/.claude/skills/system-create-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:56:45.087Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/multicam%2Fqara/.claude%2Fskills%2Fsystem-create-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_b829dd7ad516"
+  }
+}

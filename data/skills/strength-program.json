@@ -1,0 +1,36 @@
+{
+  "id": "strength-program",
+  "name": "strength-program",
+  "version": "1.0.0",
+  "summary": "Design evidence-based powerlifting and hypertrophy training programs. Use for strength training programming, workout planning, and progressive overload systems.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattppal",
+    "github": "mattppal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattppal/prompts",
+    "skill_md": "https://raw.githubusercontent.com/mattppal/prompts/main/.claude/skills/strength-program/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T21:05:15.000Z",
+  "created_at": "2025-12-23T01:28:52.477Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattppal%2Fprompts/.claude%2Fskills%2Fstrength-program%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_f9a3ec9c5075"
+  }
+}

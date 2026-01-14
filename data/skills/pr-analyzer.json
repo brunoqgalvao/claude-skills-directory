@@ -1,0 +1,35 @@
+{
+  "id": "pr-analyzer",
+  "name": "pr-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes pull requests for quality, completeness, and potential issues. Use when reviewing PRs, checking code changes, or ensuring PR quality before merge.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-ariff",
+    "github": "a-ariff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-ariff/Ariff-code-config",
+    "skill_md": "https://raw.githubusercontent.com/a-ariff/Ariff-code-config/main/claude/skills-upload/pr-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.451Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-ariff%2FAriff-code-config/claude%2Fskills-upload%2Fpr-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_420c2457801d"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "learning-journey-builder",
+  "name": "learning-journey-builder",
+  "version": "1.0.0",
+  "summary": "This skill should be used when designing complete learning journeys that integrate formal training with work-based learning and social learning. Use this skill to create 70:20:1...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bailejl",
+    "github": "bailejl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bailejl/AI-Enablement-Resources",
+    "skill_md": "https://raw.githubusercontent.com/bailejl/AI-Enablement-Resources/main/.claude/skills/learning-journey-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:01.037Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bailejl%2FAI-Enablement-Resources/.claude%2Fskills%2Flearning-journey-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_ca301590616e"
+  }
+}

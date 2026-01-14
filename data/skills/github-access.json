@@ -1,0 +1,37 @@
+{
+  "id": "github-access",
+  "name": "github-access",
+  "version": "1.0.0",
+  "summary": "Access GitHub repositories programmatically using gh CLI or REST API. Use this skill when needing to interact with GitHub issues, pull requests, workflows, discussions, or actio...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lefant",
+    "github": "lefant"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lefant/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/lefant/claude-code-plugins/main/github-access/skills/github-access/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.491Z",
+  "created_at": "2025-12-23T01:29:32.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lefant%2Fclaude-code-plugins/github-access%2Fskills%2Fgithub-access%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.491Z",
+    "uniqueId": "sk_fabdb9462c46"
+  }
+}

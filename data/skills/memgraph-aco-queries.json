@@ -1,0 +1,35 @@
+{
+  "id": "memgraph-aco-queries",
+  "name": "memgraph-aco-queries",
+  "version": "1.0.0",
+  "summary": "Query and analyze ACO pheromone graphs in Memgraph. Use for prime candidate queries, pheromone analysis, path validation, and convergence monitoring.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tonyoconnell",
+    "github": "tonyoconnell"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tonyoconnell/crackrsa32",
+    "skill_md": "https://raw.githubusercontent.com/tonyoconnell/crackrsa32/main/.claude/skills/memgraph-aco/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.866Z",
+  "created_at": "2025-12-22T15:05:00.572Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tonyoconnell%2Fcrackrsa32/.claude%2Fskills%2Fmemgraph-aco%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.866Z",
+    "uniqueId": "sk_a83bec016364"
+  }
+}

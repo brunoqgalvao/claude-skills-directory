@@ -1,0 +1,35 @@
+{
+  "id": "code-hardcode-audit",
+  "name": "code-hardcode-audit",
+  "version": "1.0.0",
+  "summary": "Detects hardcoded values, magic numbers, duplicate constants, and leaked secrets using Ruff, Semgrep, jscpd, and gitleaks. Use when auditing for hardcodes, magic numbers, PLR200...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/itp/skills/code-hardcode-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.839Z",
+  "created_at": "2025-12-22T16:29:21.219Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fitp%2Fskills%2Fcode-hardcode-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_716d6f1b415e"
+  }
+}

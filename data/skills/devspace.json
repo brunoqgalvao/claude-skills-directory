@@ -1,0 +1,37 @@
+{
+  "id": "devspace",
+  "name": "devspace",
+  "version": "1.0.0",
+  "summary": "Guide for working with DevSpace, a Kubernetes development tool that automates building, deploying, and developing applications. Use when users need to create or modify devspace....",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Lupus",
+    "github": "Lupus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Lupus/my-dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/Lupus/my-dot-claude/main/skills/devspace/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:02:09.382Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Lupus%2Fmy-dot-claude/skills%2Fdevspace%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_4b8b9e738b2d"
+  }
+}

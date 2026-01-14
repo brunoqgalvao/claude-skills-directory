@@ -1,0 +1,35 @@
+{
+  "id": "navigation-latency",
+  "name": "navigation-latency",
+  "version": "1.0.0",
+  "summary": "Measure time from navigation tap to screen fully loaded and interactive. Use when tracking screen transitions, deep links, or tab switches.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "calube",
+    "github": "calube"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/calube/mobile-observability",
+    "skill_md": "https://raw.githubusercontent.com/calube/mobile-observability/main/skills/navigation-latency/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:58.262Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/calube%2Fmobile-observability/skills%2Fnavigation-latency%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_6cc48a876221"
+  }
+}

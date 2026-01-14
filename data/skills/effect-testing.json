@@ -1,0 +1,36 @@
+{
+  "id": "effect-testing",
+  "name": "effect-testing",
+  "version": "1.0.0",
+  "summary": "Write comprehensive tests using @effect/vitest for Effect code and vitest for pure functions. Use this skill when implementing tests for Effect-based applications, including ser...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "front-depiction",
+    "github": "front-depiction"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/front-depiction/claude-setup",
+    "skill_md": "https://raw.githubusercontent.com/front-depiction/claude-setup/main/skills/effect-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:57.089Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/front-depiction%2Fclaude-setup/skills%2Feffect-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_2386350c6109"
+  }
+}

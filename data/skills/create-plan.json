@@ -1,0 +1,35 @@
+{
+  "id": "create-plan",
+  "name": "create-plan",
+  "version": "1.0.0",
+  "summary": "Create a concise plan. Use when a user explicitly asks for a plan related to a coding task.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "openai",
+    "github": "openai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/openai/skills",
+    "skill_md": "https://raw.githubusercontent.com/openai/skills/main/skills/.experimental/create-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:52:01.485Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/openai%2Fskills/skills%2F.experimental%2Fcreate-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_8ef6a0b2578f"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pinme",
+  "name": "pinme",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"deploy\", \"upload\", \"publish\", or \"pin\" any files, folders, frontend projects, or static websites to IPFS. Also activates when us...",
+  "description": "# PinMe Skill\n\nUse PinMe CLI to upload files to IPFS and get a preview URL.\n\n## When to Use\n\n### General File Upload\n- User wants to upload any files or folders to IPFS\n- User wants to share files via decentralized storage\n- User mentions \"pinme\", \"pin\", \"IPFS\", or \"upload to IPFS\"\n\n### Website Deployment\n- User requests deployment of a frontend project\n- User wants to deploy a static website\n- After building a frontend project (Vue, React, Next.js, etc.)\n\n## Upload Steps\n\n### 1. Check if PinMe is Installed\n\n```bash\npinme --version\n```\n\nIf not installed:\n```bash\nnpm install -g pinme\n```\n\n### 2. Identify Upload Target\n\n**For general files:**\n- Use the file or directory path specified by the user\n- Can be any file type: images, documents, archives, etc.\n\n**For website deployment:**\nLook for build output directories (in priority order):\n1. `dist/` - Vue/React/Vite default output\n2. `build/` - Create React App output\n3. `out/` - Next.js static export\n4. `public/` - Pure static projects\n\n### 3. Execute Upload\n\n```bash\npinme upload <path>\n```\n\nExamples:\n```bash\n# Upload a single file\npinme upload ./document.pdf\n\n# Upload a folder\npinme upload ./my-folder\n\n# Upload website build output\npinme upload dist\n```\n\n### 4. Return Result\n\nAfter successful upload, return the preview URL:\n```\nhttps://pinme.eth.limo/#/preview/<hash>\n```\n\nUsers can visit the preview page to:\n- View or download the uploaded files\n- Get a fixed domain: `https://<name>.pinit.eth.limo`\n\n## Important Rules\n\n**DO:**\n- Verify the file or directory exists before uploading\n- Return the preview URL to the user\n\n**DO NOT:**\n- Upload `node_modules/`\n- Upload `.env` files\n- Upload `.git/` directory\n- Upload empty or non-existent paths\n\n**For website deployment, also avoid:**\n- Uploading source code instead of build output\n- Uploading configuration files (package.json, tsconfig.json, etc.)\n\n## Common Workflows\n\n### General File Upload\n\n```bash\n# Upload a single file\npinme upload ./image.png\n\n# Upload a folder\npinme upload ./my-documents\n\n# Upload with specific path\npinme upload /path/to/files\n```\n\n### Website Deployment\n\n#### Vue/Vite\n```bash\nnpm run build\npinme upload dist\n```\n\n#### React CRA\n```bash\nnpm run build\npinme upload build\n```\n\n#### Next.js Static\n```bash\nnpm run build\nnpm run export  # or next export\npinme upload out\n```\n\n## Error Handling\n\n| Error | Solution |\n|-------|----------|\n| `command not found: pinme` | Run `npm install -g pinme` |\n| `No such file or directory` | Check path exists |\n| `Permission denied` | Check file/folder permissions |\n| Upload failed | Check network, retry |\n\n## Other Commands\n\n```bash\n# List upload history\npinme list\npinme ls -l 5\n\n# Remove uploaded file\npinme rm <hash>\n```",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "glitternetwork",
+    "github": "glitternetwork"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/glitternetwork/pinme",
+    "skill_md": "https://raw.githubusercontent.com/glitternetwork/pinme/main/skills/pinme/SKILL.md"
+  },
+  "stats": {
+    "stars": 2476,
+    "forks": 173,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:44:24Z",
+  "created_at": "2025-04-13T01:41:33Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/glitternetwork/pinme/blob/main/skills/pinme/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_9d0a09766752"
+  }
+}

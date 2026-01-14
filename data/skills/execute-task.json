@@ -1,0 +1,35 @@
+{
+  "id": "execute-task",
+  "name": "execute-task",
+  "version": "1.0.0",
+  "summary": "Execute approved task specifications sequentially with TDD, comprehensive testing, and validation. This skill should be used for implementing tasks from approved specs with full...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adolfoaranaes12",
+    "github": "adolfoaranaes12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adolfoaranaes12/BMAD-ENHANCED",
+    "skill_md": "https://raw.githubusercontent.com/adolfoaranaes12/BMAD-ENHANCED/main/.claude/skills/execute-task/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:11:37.145Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adolfoaranaes12%2FBMAD-ENHANCED/.claude%2Fskills%2Fexecute-task%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_e68c59a7e75a"
+  }
+}

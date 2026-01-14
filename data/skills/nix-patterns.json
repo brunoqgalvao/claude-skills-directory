@@ -1,0 +1,35 @@
+{
+  "id": "nix-patterns",
+  "name": "nix-patterns",
+  "version": "1.0.0",
+  "summary": "Nix patterns for DOTFILES MANAGEMENT ONLY (nix-darwin + home-manager)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aitchwhy",
+    "github": "aitchwhy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aitchwhy/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/aitchwhy/dotfiles/main/config/agents/skills/nix-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.530Z",
+  "created_at": "2025-12-23T01:29:00.810Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aitchwhy%2Fdotfiles/config%2Fagents%2Fskills%2Fnix-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_45e0b8a8a9e0"
+  }
+}

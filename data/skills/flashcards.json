@@ -1,0 +1,36 @@
+{
+  "id": "flashcards",
+  "name": "flashcards",
+  "version": "1.0.0",
+  "summary": "Create printable PDF flashcards optimized for double-sided printing with a 2x5 grid layout. Use when users request to create flashcards, study cards, or memory cards for any sub...",
+  "verticals": [
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dwfennell",
+    "github": "dwfennell"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dwfennell/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/dwfennell/claude-skills/main/flashcards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:13:08.316Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dwfennell%2Fclaude-skills/flashcards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_77957249ca57"
+  }
+}

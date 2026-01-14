@@ -1,0 +1,35 @@
+{
+  "id": "sitemap-robots",
+  "name": "sitemap-robots",
+  "version": "1.0.0",
+  "summary": "Automated sitemap generation for all locale URLs, robots.txt configuration, and llms.txt for AI crawler optimization. Use when setting up sitemap.xml, configuring crawling rules...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canatufkansu",
+    "github": "canatufkansu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canatufkansu/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/canatufkansu/claude-skills/main/sitemap-robots/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:07.640Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canatufkansu%2Fclaude-skills/sitemap-robots%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_6fd61a135ae9"
+  }
+}

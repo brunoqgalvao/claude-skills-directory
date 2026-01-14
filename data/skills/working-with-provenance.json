@@ -1,0 +1,36 @@
+{
+  "id": "working-with-provenance",
+  "name": "working-with-provenance",
+  "version": "1.0.0",
+  "summary": "Use when tracing Konflux builds from image references, finding build logs from artifacts, or verifying source commits for container images - extracts provenance attestations to ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "konflux-ci",
+    "github": "konflux-ci"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/konflux-ci/skills",
+    "skill_md": "https://raw.githubusercontent.com/konflux-ci/skills/main/skills/working-with-provenance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:01:59.323Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/konflux-ci%2Fskills/skills%2Fworking-with-provenance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_e405e85284a5"
+  }
+}

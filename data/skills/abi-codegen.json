@@ -1,0 +1,36 @@
+{
+  "id": "abi-codegen",
+  "name": "abi-codegen",
+  "version": "1.0.0",
+  "summary": "Convert JSON ABI files to TypeScript const exports with proper typing. Use when working with smart contract ABIs, converting JSON to TypeScript, generating typed contract interf...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sablier-labs",
+    "github": "sablier-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sablier-labs/sdk",
+    "skill_md": "https://raw.githubusercontent.com/sablier-labs/sdk/main/.claude/skills/abi-codegen/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:24.374Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sablier-labs%2Fsdk/.claude%2Fskills%2Fabi-codegen%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_60b199c47c29"
+  }
+}

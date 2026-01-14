@@ -1,0 +1,36 @@
+{
+  "id": "sales-narrative",
+  "name": "sales-narrative",
+  "version": "1.0.0",
+  "summary": "Generate persona-specific sales narratives using Peter Kazanjy's founding sales methodology. Creates problem-solution-specifics narratives for economic buyers, technical buyers,...",
+  "verticals": [
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BellaBe",
+    "github": "BellaBe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BellaBe/ideas-os",
+    "skill_md": "https://raw.githubusercontent.com/BellaBe/ideas-os/main/.claude/skills/sales-narrative/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:52.137Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BellaBe%2Fideas-os/.claude%2Fskills%2Fsales-narrative%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_cb7464a6d4b5"
+  }
+}

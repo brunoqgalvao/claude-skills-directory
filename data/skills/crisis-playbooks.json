@@ -1,0 +1,35 @@
+{
+  "id": "crisis-playbooks",
+  "name": "crisis-playbooks",
+  "version": "1.0.0",
+  "summary": "Use when incidents occur and you need pre-approved workflows, templates, and escalation paths.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/pr-communications/skills/crisis-playbooks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T14:32:29.000Z",
+  "created_at": "2025-12-22T14:54:30.203Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fpr-communications%2Fskills%2Fcrisis-playbooks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.881Z",
+    "uniqueId": "sk_b43f65b506f2"
+  }
+}

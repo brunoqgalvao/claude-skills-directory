@@ -1,0 +1,36 @@
+{
+  "id": "abp-entity-patterns",
+  "name": "abp-entity-patterns",
+  "version": "1.0.0",
+  "summary": "ABP Framework domain layer patterns including entities, aggregates, repositories, domain services, and data seeding. Use when: (1) creating entities with proper base classes, (2...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/abp-entity-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.357Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fabp-entity-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_4bad2db38dc5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "domain-analyzer",
+  "name": "domain-analyzer",
+  "version": "1.0.0",
+  "summary": "ユーザーの業務領域や目的を分析し、必要な機能を抽出する。プラグイン企画時、業務分析時、機能要件定義時、またはユーザーが業務領域分析、ドメイン分析、機能抽出、プラグイン設計に言及した際に使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-plugin-generator/skills/domain-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:08:50.455Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-plugin-generator%2Fskills%2Fdomain-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_6a24f5c00b7d"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "report-generation",
+  "name": "report-generation",
+  "version": "1.0.0",
+  "summary": "Generate Slovak VAT Act 2025 compliant reports for business trip tax deductions with automatic validation",
+  "verticals": [
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ceo-whyd-it",
+    "github": "ceo-whyd-it"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ceo-whyd-it/car-log",
+    "skill_md": "https://raw.githubusercontent.com/ceo-whyd-it/car-log/main/claude_skills/report-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T18:38:26.000Z",
+  "created_at": "2025-12-23T01:28:44.138Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ceo-whyd-it%2Fcar-log/claude_skills%2Freport-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_41415d71a089"
+  }
+}

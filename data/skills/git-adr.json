@@ -1,0 +1,36 @@
+{
+  "id": "git-adr",
+  "name": "git-adr",
+  "version": "1.0.0",
+  "summary": "Manage Architecture Decision Records (ADRs) using git-adr, a CLI tool that stores ADRs in git notes instead of files. Execute commands (init, new, edit, list, show, search, sync...",
+  "verticals": [
+    "legal",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zircote",
+    "github": "zircote"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zircote/git-adr",
+    "skill_md": "https://raw.githubusercontent.com/zircote/git-adr/main/skills/git-adr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.495Z",
+  "created_at": "2025-12-23T01:29:29.333Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zircote%2Fgit-adr/skills%2Fgit-adr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_364591488790"
+  }
+}

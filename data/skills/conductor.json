@@ -1,0 +1,35 @@
+{
+  "id": "conductor",
+  "name": "conductor",
+  "version": "1.0.0",
+  "summary": "Context-driven development methodology. Understands projects set up with Conductor (via Gemini CLI or Claude Code). Use when working with conductor/ directories, tracks, specs, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ReinaMacCredy",
+    "github": "ReinaMacCredy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ReinaMacCredy/my-workflow",
+    "skill_md": "https://raw.githubusercontent.com/ReinaMacCredy/my-workflow/main/skills/conductor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.886Z",
+  "created_at": "2025-12-19T20:34:23.576Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ReinaMacCredy%2Fmy-workflow/skills%2Fconductor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_f3738de07b0f"
+  }
+}

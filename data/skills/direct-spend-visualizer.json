@@ -1,0 +1,35 @@
+{
+  "id": "direct-spend-visualizer",
+  "name": "direct-spend-visualizer",
+  "version": "1.0.0",
+  "summary": "Visualize FeedMob direct spend data as ASCII line charts. Use this skill when users request to view, display, chart, or visualize direct spend metrics for one or more click URL ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feed-mob",
+    "github": "feed-mob"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feed-mob/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/feed-mob/claude-code-marketplace/main/plugins/direct-spend-visualizer/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:06:50.595Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feed-mob%2Fclaude-code-marketplace/plugins%2Fdirect-spend-visualizer%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_35e781e40c97"
+  }
+}

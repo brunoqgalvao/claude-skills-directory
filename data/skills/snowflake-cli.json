@@ -1,0 +1,37 @@
+{
+  "id": "snowflake-cli",
+  "name": "snowflake-cli",
+  "version": "1.0.0",
+  "summary": "Executing SQL, managing Snowflake objects, deploying applications, and orchestrating data pipelines using the Snowflake CLI (snow) command. Use this skill when you need to run S...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sfc-gh-dflippo",
+    "github": "sfc-gh-dflippo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sfc-gh-dflippo/snowflake-dbt-demo",
+    "skill_md": "https://raw.githubusercontent.com/sfc-gh-dflippo/snowflake-dbt-demo/main/.claude/skills/snowflake-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:48.527Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sfc-gh-dflippo%2Fsnowflake-dbt-demo/.claude%2Fskills%2Fsnowflake-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_8dff7d9ebfc5"
+  }
+}

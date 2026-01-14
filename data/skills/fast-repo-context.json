@@ -1,0 +1,35 @@
+{
+  "id": "fast-repo-context",
+  "name": "fast-repo-context",
+  "version": "1.0.0",
+  "summary": "Use when: exploring code, search code snippets, finding implementations by intent, understanding how features work. Triggers: [fast context], [search code], [find where], [how d...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "towry",
+    "github": "towry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/towry/dots",
+    "skill_md": "https://raw.githubusercontent.com/towry/dots/main/conf/claude-local-marketplace/skills/fast-repo-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T11:02:07.000Z",
+  "created_at": "2025-12-22T15:09:16.460Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/towry%2Fdots/conf%2Fclaude-local-marketplace%2Fskills%2Ffast-repo-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_11b93f41bd1e"
+  }
+}

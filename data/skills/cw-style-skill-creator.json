@@ -1,0 +1,35 @@
+{
+  "id": "cw-style-skill-creator",
+  "name": "cw-style-skill-creator",
+  "version": "1.0.0",
+  "summary": "Creative writing skill for creating style skills that teach Claude to write in specific styles. Use when you want to create style guides that the cw-prose-writing skill can foll...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "haowjy",
+    "github": "haowjy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/haowjy/creative-writing-skills",
+    "skill_md": "https://raw.githubusercontent.com/haowjy/creative-writing-skills/main/creative-writing-skills/cw-style-skill-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:45.257Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/haowjy%2Fcreative-writing-skills/creative-writing-skills%2Fcw-style-skill-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_ffb5f30270d5"
+  }
+}

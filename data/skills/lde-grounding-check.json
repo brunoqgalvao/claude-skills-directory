@@ -1,0 +1,35 @@
+{
+  "id": "lde-grounding-check",
+  "name": "lde-grounding-check",
+  "version": "1.0.0",
+  "summary": "LDE（Law-Driven Engineering）の接地（Grounding）検証スキル。\nLawとTermの両方について、検証手段・観測手段が設定されているか検証する。\nCI/CD統合のためのチェックリストとスクリプトを提供。\n使用タイミング: (1) PR作成前の接地確認、(2) CI/CDパイプラインでの自動検証、\n(3) 「Groundin...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/lde-grounding-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:07.121Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Flde-grounding-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_cba734acafe0"
+  }
+}

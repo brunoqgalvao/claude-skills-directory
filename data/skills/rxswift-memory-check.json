@@ -1,0 +1,36 @@
+{
+  "id": "rxswift-memory-check",
+  "name": "rxswift-memory-check",
+  "version": "1.0.0",
+  "summary": "Quick RxSwift memory leak detection for iOS. Finds missing dispose bags, retain cycles, and strong self references. Use when debugging memory issues, checking Observable subscri...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daispacy",
+    "github": "daispacy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daispacy/py-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/daispacy/py-claude-marketplace/main/py-plugin/skills/rxswift-memory-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T07:07:24.000Z",
+  "created_at": "2025-12-22T16:29:07.784Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daispacy%2Fpy-claude-marketplace/py-plugin%2Fskills%2Frxswift-memory-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_10bb14aa7823"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "docker-testing",
+  "name": "docker-testing",
+  "version": "1.0.0",
+  "summary": "Guidance for running and debugging tests in Docker environments for FastAPI + Vue/Tailwind projects.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kilburn",
+    "github": "kilburn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kilburn/AIseminar",
+    "skill_md": "https://raw.githubusercontent.com/kilburn/AIseminar/main/task-scheduler-in-vue-tailwind-and-fastapi/.claude/skills/docker-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:36.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kilburn%2FAIseminar/task-scheduler-in-vue-tailwind-and-fastapi%2F.claude%2Fskills%2Fdocker-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_8c50e3e17948"
+  }
+}

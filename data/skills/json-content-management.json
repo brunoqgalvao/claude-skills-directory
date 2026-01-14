@@ -1,0 +1,37 @@
+{
+  "id": "json-content-management",
+  "name": "json-content-management",
+  "version": "1.0.0",
+  "summary": "JSON-driven content architecture for services, programmes, FAQs, testimonials, and policies with TypeScript interfaces and locale-aware data fetching. Use when defining content ...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canatufkansu",
+    "github": "canatufkansu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canatufkansu/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/canatufkansu/claude-skills/main/json-content-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:10.601Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canatufkansu%2Fclaude-skills/json-content-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_e01c8b1beedc"
+  }
+}

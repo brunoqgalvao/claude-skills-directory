@@ -1,0 +1,35 @@
+{
+  "id": "openspec-commands",
+  "name": "openspec-commands",
+  "version": "1.0.0",
+  "summary": "OpenSpec CLI command reference and help. Use when working with OpenSpec commands like list, validate, show, archive, or when you need to understand OpenSpec command options and ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shin902",
+    "github": "shin902"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shin902/shi-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/shin902/shi-marketplace/main/openspec-commands/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:50:58.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shin902%2Fshi-marketplace/openspec-commands%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_04c07c91204e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "using-logger",
+  "name": "using-logger",
+  "version": "1.0.0",
+  "summary": "Use when working with sources/destinations to understand standard logging patterns, replace console.log, or add logging to external API calls. Covers DRY principles, when to log...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elbwalker",
+    "github": "elbwalker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elbwalker/walkerOS",
+    "skill_md": "https://raw.githubusercontent.com/elbwalker/walkerOS/main/.claude/skills/using-logger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T13:39:56.000Z",
+  "created_at": "2025-12-22T14:15:38.611Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elbwalker%2FwalkerOS/.claude%2Fskills%2Fusing-logger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_85a93daf04e0"
+  }
+}

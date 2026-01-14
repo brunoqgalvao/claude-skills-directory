@@ -1,0 +1,37 @@
+{
+  "id": "markitdown",
+  "name": "markitdown",
+  "version": "1.0.0",
+  "summary": "Convert various file formats (PDF, Office documents, images, audio, web content, structured data) to Markdown optimized for LLM processing. Use when converting documents to mark...",
+  "verticals": [
+    "marketing",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/scientific-pkg-markitdown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:33.079Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fscientific-pkg-markitdown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_7a643d6b0486"
+  }
+}

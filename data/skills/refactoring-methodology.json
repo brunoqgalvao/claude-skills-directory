@@ -1,0 +1,35 @@
+{
+  "id": "refactoring-methodology",
+  "name": "refactoring-methodology",
+  "version": "1.0.0",
+  "summary": "Systematic code refactoring while preserving all external behavior.\nUse when identifying code smells, planning refactoring sequences,\nexecuting safe structural improvements, or ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rsmdt",
+    "github": "rsmdt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rsmdt/the-startup",
+    "skill_md": "https://raw.githubusercontent.com/rsmdt/the-startup/main/plugins/start/skills/refactoring-methodology/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:02:58.308Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rsmdt%2Fthe-startup/plugins%2Fstart%2Fskills%2Frefactoring-methodology%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_0975930111d6"
+  }
+}

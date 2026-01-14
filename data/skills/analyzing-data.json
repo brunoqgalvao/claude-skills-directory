@@ -1,0 +1,36 @@
+{
+  "id": "analyzing-data",
+  "name": "analyzing-data",
+  "version": "1.0.0",
+  "summary": "Comprehensive description of what this skill does. Use when the user mentions specific keywords, requests specific tasks, or encounters scenarios that require this skill's speci...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jesseotremblay",
+    "github": "jesseotremblay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jesseotremblay/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jesseotremblay/claude-skills/main/skill-creator/templates/complex-skill-template/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:47.534Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jesseotremblay%2Fclaude-skills/skill-creator%2Ftemplates%2Fcomplex-skill-template%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_d4c9bf7a7c52"
+  }
+}

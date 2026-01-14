@@ -1,0 +1,37 @@
+{
+  "id": "benchling-integration",
+  "name": "benchling-integration",
+  "version": "1.0.0",
+  "summary": "Benchling R&D platform integration. Access registry (DNA, proteins), inventory, ELN entries, workflows via API, build Benchling Apps, query Data Warehouse, for lab data manageme...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/scientific-integration-benchling-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.458Z",
+  "created_at": "2025-12-22T22:00:33.557Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fscientific-integration-benchling-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.458Z",
+    "uniqueId": "sk_c0dacda2fad0"
+  }
+}

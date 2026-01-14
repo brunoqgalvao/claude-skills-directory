@@ -1,0 +1,37 @@
+{
+  "id": "debugging-flux-deployments",
+  "name": "debugging-flux-deployments",
+  "version": "1.0.0",
+  "summary": "Diagnoses and resolves issues with Flux GitOps deployments, Kubernetes pods, services, and HelmReleases in the Superbloom cluster",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "saavy1",
+    "github": "saavy1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/saavy1/sb",
+    "skill_md": "https://raw.githubusercontent.com/saavy1/sb/main/docs/.claude/skills/debugging-flux-deployments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.169Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/saavy1%2Fsb/docs%2F.claude%2Fskills%2Fdebugging-flux-deployments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_ed2ae7c769d2"
+  }
+}

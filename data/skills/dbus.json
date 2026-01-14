@@ -1,0 +1,37 @@
+{
+  "id": "dbus",
+  "name": "dbus",
+  "version": "1.0.0",
+  "summary": "Expert in D-Bus IPC (Inter-Process Communication) on Linux systems. Specializes in secure service communication, method calls, signal handling, and system integration. HIGH-RISK...",
+  "verticals": [
+    "support",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martinholovsky",
+    "github": "martinholovsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martinholovsky/claude-skills-generator",
+    "skill_md": "https://raw.githubusercontent.com/martinholovsky/claude-skills-generator/main/skills/dbus/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.621Z",
+  "created_at": "2025-12-22T23:19:39.906Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martinholovsky%2Fclaude-skills-generator/skills%2Fdbus%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.621Z",
+    "uniqueId": "sk_97515d02fe94"
+  }
+}

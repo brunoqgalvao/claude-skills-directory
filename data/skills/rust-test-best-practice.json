@@ -1,0 +1,37 @@
+{
+  "id": "rust-test-best-practice",
+  "name": "rust-test-best-practice",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide to Rust automated testing covering unit, integration, \nand documentation tests. Includes practical patterns for async testing, \nproperty-based testing with p...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FireSpoonYZ",
+    "github": "FireSpoonYZ"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FireSpoonYZ/rust-bdd-template",
+    "skill_md": "https://raw.githubusercontent.com/FireSpoonYZ/rust-bdd-template/main/.claude/skills/rust-test-best-practice/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T03:02:57.000Z",
+  "created_at": "2025-12-23T01:29:13.041Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FireSpoonYZ%2Frust-bdd-template/.claude%2Fskills%2Frust-test-best-practice%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_9e6e848153b7"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "astrolabe-schemas",
+  "name": "astrolabe-schemas",
+  "version": "1.0.0",
+  "summary": "C# schema definition system bridging .NET types to TypeScript/React form definitions. Use when generating TypeScript schemas from C# types or implementing schema-driven UI gener...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astrolabe-apps",
+    "github": "astrolabe-apps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astrolabe-apps/astrolabe-common",
+    "skill_md": "https://raw.githubusercontent.com/astrolabe-apps/astrolabe-common/main/skills/astrolabe-schemas/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:51.559Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astrolabe-apps%2Fastrolabe-common/skills%2Fastrolabe-schemas%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_3f7ae407e372"
+  }
+}

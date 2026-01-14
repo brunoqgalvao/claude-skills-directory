@@ -1,0 +1,37 @@
+{
+  "id": "type-driven-development",
+  "name": "type-driven-development",
+  "version": "1.0.0",
+  "summary": "Run validation-first Idris 2 workflows with tiered commands (CHECK/VALIDATE/GENERATE/REMEDIATE) and strict exit codes. Comprehensive skill handling both design (planning) and ex...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OutlineDriven",
+    "github": "OutlineDriven"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OutlineDriven/odin-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/OutlineDriven/odin-claude-plugin/main/skills/type-driven/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:45.357Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OutlineDriven%2Fodin-claude-plugin/skills%2Ftype-driven%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_64050494c592"
+  }
+}

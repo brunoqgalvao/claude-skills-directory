@@ -1,0 +1,35 @@
+{
+  "id": "command-documentation-patterns",
+  "name": "command-documentation-patterns",
+  "version": "1.0.0",
+  "summary": "コマンドのドキュメンテーションを専門とするスキル。\nセルフドキュメンティング構造、使用例、トラブルシューティング、\nユーザーフレンドリーな説明の作成方法を提供します。\n\n使用タイミング:\n- コマンドのドキュメントを作成する時\n- 使用例を充実させたい時\n- トラブルシューティングセクションを追加する時\n\nUse proactively when do...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/command-documentation-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.685Z",
+  "created_at": "2025-12-22T22:09:48.316Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fcommand-documentation-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.685Z",
+    "uniqueId": "sk_f570f278105b"
+  }
+}

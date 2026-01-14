@@ -1,0 +1,36 @@
+{
+  "id": "project-workflow",
+  "name": "project-workflow",
+  "version": "1.0.0",
+  "summary": "Development workflow and quality gates for the Bun + TypeScript stack. **ALWAYS use before commits** to ensure quality gates are met. Also use when starting development or when ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcioaltoe",
+    "github": "marcioaltoe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcioaltoe/claude-craftkit",
+    "skill_md": "https://raw.githubusercontent.com/marcioaltoe/claude-craftkit/main/plugins/architecture-design/skills/project-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:45.761Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcioaltoe%2Fclaude-craftkit/plugins%2Farchitecture-design%2Fskills%2Fproject-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_e1baa83f6ef6"
+  }
+}

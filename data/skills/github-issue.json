@@ -1,0 +1,35 @@
+{
+  "id": "github-issue",
+  "name": "github-issue",
+  "version": "1.0.0",
+  "summary": "Use gh-issue-agent to view and edit GitHub Issues. Use this skill when working with GitHub Issues - viewing issue content, editing issue body/title/labels, or adding/editing com...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fohte",
+    "github": "fohte"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fohte/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/fohte/dotfiles/main/config/claude/skills/github-issue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T16:28:45.000Z",
+  "created_at": "2025-12-22T15:57:52.814Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fohte%2Fdotfiles/config%2Fclaude%2Fskills%2Fgithub-issue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_a42784da22fe"
+  }
+}

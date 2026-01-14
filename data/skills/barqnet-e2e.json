@@ -1,0 +1,36 @@
+{
+  "id": "barqnet-e2e",
+  "name": "barqnet-e2e",
+  "version": "1.0.0",
+  "summary": "Orchestrator agent that coordinates all BarqNet specialized agents (backend, integration, client, documentation, audit, testing) to execute complete end-to-end workflows. Plans ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LenoreWoW",
+    "github": "LenoreWoW"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LenoreWoW/ChameleonVpn",
+    "skill_md": "https://raw.githubusercontent.com/LenoreWoW/ChameleonVpn/main/.claude/skills/barqnet-e2e/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:56.537Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LenoreWoW%2FChameleonVpn/.claude%2Fskills%2Fbarqnet-e2e%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_dbad9e005472"
+  }
+}

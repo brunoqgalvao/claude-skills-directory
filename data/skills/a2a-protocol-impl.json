@@ -1,0 +1,35 @@
+{
+  "id": "a2a-protocol-impl",
+  "name": "a2a-protocol-impl",
+  "version": "1.0.0",
+  "summary": "Implement Agent-to-Agent (A2A) protocol for inter-agent communication. Use for agent discovery, agent cards, task delegation, and multi-agent orchestration. Triggers on \"A2A pro...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "raphaelmansuy",
+    "github": "raphaelmansuy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/raphaelmansuy/k8s-agent-stack",
+    "skill_md": "https://raw.githubusercontent.com/raphaelmansuy/k8s-agent-stack/main/archive/skills/a2a-protocol-impl/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.671Z",
+  "created_at": "2025-12-22T22:16:12.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/raphaelmansuy%2Fk8s-agent-stack/archive%2Fskills%2Fa2a-protocol-impl%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.671Z",
+    "uniqueId": "sk_762e2c324d73"
+  }
+}

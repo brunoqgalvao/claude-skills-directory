@@ -1,0 +1,37 @@
+{
+  "id": "schema-patterns",
+  "name": "schema-patterns",
+  "version": "1.0.0",
+  "summary": "Production-ready database schema patterns for AI applications including chat/conversation schemas, RAG document storage with pgvector, multi-tenant organization models, user man...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/supabase/skills/schema-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T21:28:13.000Z",
+  "created_at": "2025-12-22T18:03:17.068Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fsupabase%2Fskills%2Fschema-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_4ac0cd1b094c"
+  }
+}

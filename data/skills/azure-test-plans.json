@@ -1,0 +1,37 @@
+{
+  "id": "azure-test-plans",
+  "name": "azure-test-plans",
+  "version": "1.0.0",
+  "summary": "Create and manage Azure Test Plans including test cases, suites, and execution. Use when setting up test plans or managing QA processes.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/azure-test-plans/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:22.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Fazure-test-plans%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_3f13b65a98d8"
+  }
+}

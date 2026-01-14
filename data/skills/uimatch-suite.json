@@ -1,0 +1,36 @@
+{
+  "id": "uimatch-suite",
+  "name": "uimatch-suite",
+  "version": "1.0.0",
+  "summary": "Run a batch of visual comparisons defined in a uiMatch suite JSON file using @uimatch/cli, then read each report to summarize which components passed or failed their quality gat...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kosaki08",
+    "github": "kosaki08"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kosaki08/uimatch",
+    "skill_md": "https://raw.githubusercontent.com/kosaki08/uimatch/main/experiments/skills/uimatch-suite/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:56:20.014Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kosaki08%2Fuimatch/experiments%2Fskills%2Fuimatch-suite%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_095b460ab40f"
+  }
+}

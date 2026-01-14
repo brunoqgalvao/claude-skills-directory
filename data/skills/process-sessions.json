@@ -1,0 +1,35 @@
+{
+  "id": "process-sessions",
+  "name": "process-sessions",
+  "version": "1.0.0",
+  "summary": "Process ephemeral session notes and extract valuable knowledge into permanent documentation",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tnez",
+    "github": "tnez"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tnez/docent",
+    "skill_md": "https://raw.githubusercontent.com/tnez/docent/main/skills/docent/process-sessions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:11:40.240Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tnez%2Fdocent/skills%2Fdocent%2Fprocess-sessions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_f90949ba481c"
+  }
+}

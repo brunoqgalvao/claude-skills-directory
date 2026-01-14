@@ -1,0 +1,36 @@
+{
+  "id": "agent-compliance-auditor",
+  "name": "agent-compliance-auditor",
+  "version": "1.0.0",
+  "summary": "Expert compliance auditor specializing in regulatory frameworks, data privacy laws, and security standards. Masters GDPR, HIPAA, PCI DSS, SOC 2, and ISO certifications with focu...",
+  "verticals": [
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Tony363",
+    "github": "Tony363"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Tony363/SuperClaude",
+    "skill_md": "https://raw.githubusercontent.com/Tony363/SuperClaude/main/.claude/skills/agent-compliance-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.881Z",
+  "created_at": "2025-12-22T14:54:38.905Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Tony363%2FSuperClaude/.claude%2Fskills%2Fagent-compliance-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.881Z",
+    "uniqueId": "sk_37a4ef1243a2"
+  }
+}

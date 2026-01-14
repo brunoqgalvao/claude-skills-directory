@@ -1,0 +1,36 @@
+{
+  "id": "database-architecture",
+  "name": "database-architecture",
+  "version": "1.0.0",
+  "summary": "Master database design, SQL optimization, system architecture, and design patterns. Learn PostgreSQL, MongoDB, Redis, and distributed system design.",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-postgresql",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-postgresql/main/skills/database-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:42:10.000Z",
+  "created_at": "2025-12-23T01:29:00.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-postgresql/skills%2Fdatabase-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_f746e94ef172"
+  }
+}

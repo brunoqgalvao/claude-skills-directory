@@ -1,0 +1,35 @@
+{
+  "id": "english-text-editor",
+  "name": "english-text-editor",
+  "version": "1.0.0",
+  "summary": "Suggests improvements for English language text but does not rewrite the original. Use when asked to correct spelling or wording and the text is English.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bkircher",
+    "github": "bkircher"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bkircher/skills",
+    "skill_md": "https://raw.githubusercontent.com/bkircher/skills/main/english-text-editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.580Z",
+  "created_at": "2025-12-23T01:28:19.104Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bkircher%2Fskills/english-text-editor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_d2cd14c688d7"
+  }
+}

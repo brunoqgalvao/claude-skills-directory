@@ -1,0 +1,37 @@
+{
+  "id": "odoo-test-creator",
+  "name": "odoo-test-creator",
+  "version": "1.0.0",
+  "summary": "Creates comprehensive test suites for Odoo 16.0 modules following Siafa project standards. This skill should be used when creating tests for Odoo modules, such as \"Create tests ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jamshu",
+    "github": "jamshu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jamshu/jamshi-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/jamshu/jamshi-marketplace/main/plugins/odoo-dev/skills/odoo-test-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:04:01.419Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jamshu%2Fjamshi-marketplace/plugins%2Fodoo-dev%2Fskills%2Fodoo-test-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_fbe6b6f32afa"
+  }
+}

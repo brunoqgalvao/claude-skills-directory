@@ -1,0 +1,36 @@
+{
+  "id": "designing-zod-schemas",
+  "name": "designing-zod-schemas",
+  "version": "1.0.0",
+  "summary": "Designs Zod schemas following Zod-first development. Creates validation schemas, branded types, discriminated unions, and transforms. Infers TypeScript types from schemas. Trigg...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "saleor",
+    "github": "saleor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/saleor/configurator",
+    "skill_md": "https://raw.githubusercontent.com/saleor/configurator/main/.claude/skills/designing-zod-schemas/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T15:58:23.000Z",
+  "created_at": "2025-12-23T01:28:52.326Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/saleor%2Fconfigurator/.claude%2Fskills%2Fdesigning-zod-schemas%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.547Z",
+    "uniqueId": "sk_aa74f3fed231"
+  }
+}

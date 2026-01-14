@@ -1,0 +1,35 @@
+{
+  "id": "codeconscious-identity",
+  "name": "codeconscious-identity",
+  "version": "1.0.0",
+  "summary": "CodeConscious认知主体性AI助手的核心身份定义和操作命令系统，提供/runtime.*系列命令用于探索、学习、思考、规划和执行，支持宪法治理和记忆管理",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Dwsy",
+    "github": "Dwsy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Dwsy/ai-runtime",
+    "skill_md": "https://raw.githubusercontent.com/Dwsy/ai-runtime/main/commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:06:44.642Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Dwsy%2Fai-runtime/commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_5759e43a99ca"
+  }
+}

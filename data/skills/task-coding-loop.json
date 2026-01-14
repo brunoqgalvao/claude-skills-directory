@@ -1,0 +1,36 @@
+{
+  "id": "task-coding-loop",
+  "name": "task-coding-loop",
+  "version": "1.0.0",
+  "summary": "Earn trust through verification. Invoke at session start to establish verifiable checkpoints (environment, baseline, completion). Trust comes from gates, not claims.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Anveio",
+    "github": "Anveio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Anveio/conveaux",
+    "skill_md": "https://raw.githubusercontent.com/Anveio/conveaux/main/.claude/skills/task-coding-loop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T06:05:51.000Z",
+  "created_at": "2025-12-23T01:28:55.056Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Anveio%2Fconveaux/.claude%2Fskills%2Ftask-coding-loop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.542Z",
+    "uniqueId": "sk_ad4b914d477b"
+  }
+}

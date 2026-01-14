@@ -1,0 +1,37 @@
+{
+  "id": "syrupy",
+  "name": "syrupy",
+  "version": "1.0.0",
+  "summary": "Use syrupy for pytest snapshot testing to ensure the immutability of computed results, manage snapshots, customize serialization, and handle complex data structures with built-i...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anam-org",
+    "github": "anam-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anam-org/metaxy",
+    "skill_md": "https://raw.githubusercontent.com/anam-org/metaxy/main/.claude/skills/syrupy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:32.175Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anam-org%2Fmetaxy/.claude%2Fskills%2Fsyrupy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_8d6c2e775dca"
+  }
+}

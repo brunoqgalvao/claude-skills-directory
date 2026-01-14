@@ -1,0 +1,37 @@
+{
+  "id": "scholarag",
+  "name": "scholarag",
+  "version": "1.0.0",
+  "summary": "Build PRISMA 2020-compliant systematic literature review systems with RAG-powered analysis in VS Code. Use when researcher needs automated paper retrieval (Semantic Scholar, Ope...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HosungYou",
+    "github": "HosungYou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HosungYou/ScholaRAG-helper",
+    "skill_md": "https://raw.githubusercontent.com/HosungYou/ScholaRAG-helper/main/.claude/skills/scholarag/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.176Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HosungYou%2FScholaRAG-helper/.claude%2Fskills%2Fscholarag%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_8c723988380f"
+  }
+}

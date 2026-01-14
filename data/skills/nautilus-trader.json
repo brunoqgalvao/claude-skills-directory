@@ -1,0 +1,37 @@
+{
+  "id": "nautilus-trader",
+  "name": "nautilus-trader",
+  "version": "1.0.0",
+  "summary": "NautilusTrader algorithmic trading platform. Use for building trading strategies, backtesting, live trading, data handling, and quantitative finance applications.",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Patrick-code-Bot",
+    "github": "Patrick-code-Bot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Patrick-code-Bot/nautilus_AItrader",
+    "skill_md": "https://raw.githubusercontent.com/Patrick-code-Bot/nautilus_AItrader/main/.claude/skills/nautilustrader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.465Z",
+  "created_at": "2025-12-23T01:30:58.929Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Patrick-code-Bot%2Fnautilus_AItrader/.claude%2Fskills%2Fnautilustrader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_91389f9004fc"
+  }
+}

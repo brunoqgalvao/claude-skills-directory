@@ -1,0 +1,36 @@
+{
+  "id": "swiftdata-migration-diag",
+  "name": "swiftdata-migration-diag",
+  "version": "1.0.0",
+  "summary": "Use when SwiftData migrations crash, fail to preserve relationships, lose data, or work in simulator but fail on device - systematic diagnostics for schema version mismatches, r...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CharlesWiltgen",
+    "github": "CharlesWiltgen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CharlesWiltgen/Axiom",
+    "skill_md": "https://raw.githubusercontent.com/CharlesWiltgen/Axiom/main/.claude-plugin/plugins/axiom/skills/swiftdata-migration-diag/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:15.786Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CharlesWiltgen%2FAxiom/.claude-plugin%2Fplugins%2Faxiom%2Fskills%2Fswiftdata-migration-diag%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_90ec61794190"
+  }
+}

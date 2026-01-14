@@ -1,0 +1,36 @@
+{
+  "id": "using-shannon",
+  "name": "using-shannon",
+  "version": "1.0.0",
+  "summary": "Use at session start - establishes Shannon Framework workflows including mandatory 8D analysis\nbefore implementation, NO MOCKS testing enforcement, wave-based execution for comp...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/shannon-framework",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/shannon-framework/main/skills/using-shannon/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:24:36.078Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fshannon-framework/skills%2Fusing-shannon%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_728dcbe21767"
+  }
+}

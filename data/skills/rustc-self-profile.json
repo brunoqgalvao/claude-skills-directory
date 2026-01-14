@@ -1,0 +1,36 @@
+{
+  "id": "rustc-self-profile",
+  "name": "rustc-self-profile",
+  "version": "1.0.0",
+  "summary": "Profile Rust compilation using rustc self-profiling to identify slow compile times, trait resolution bottlenecks, and monomorphization issues. Use when investigating slow Rust b...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bearcove",
+    "github": "bearcove"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bearcove/dodeca",
+    "skill_md": "https://raw.githubusercontent.com/bearcove/dodeca/main/.claude/skills/rustc-self-profile/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T21:57:30.000Z",
+  "created_at": "2025-12-23T01:28:49.687Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bearcove%2Fdodeca/.claude%2Fskills%2Frustc-self-profile%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_2fb829a04f42"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "business-news-research-coordinator",
+  "name": "business-news-research-coordinator",
+  "version": "1.0.0",
+  "summary": "Lead coordinator that orchestrates 5 news scraper agents in parallel to gather headlines from 15 top business news websites",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rkreddyp",
+    "github": "rkreddyp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rkreddyp/investrecipes",
+    "skill_md": "https://raw.githubusercontent.com/rkreddyp/investrecipes/main/.claude/skills/business_news_research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:40.270Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rkreddyp%2Finvestrecipes/.claude%2Fskills%2Fbusiness_news_research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_664f5ad71ce6"
+  }
+}

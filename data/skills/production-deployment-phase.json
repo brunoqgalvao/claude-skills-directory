@@ -1,0 +1,37 @@
+{
+  "id": "production-deployment-phase",
+  "name": "production-deployment-phase",
+  "version": "1.0.0",
+  "summary": "Executes production deployment workflow by promoting validated staging builds to production with semantic versioning, health checks, and release tagging. Use when running /ship-...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusgoll",
+    "github": "marcusgoll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusgoll/Spec-Flow",
+    "skill_md": "https://raw.githubusercontent.com/marcusgoll/Spec-Flow/main/.claude/skills/production-deployment-phase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T16:11:40.000Z",
+  "created_at": "2025-12-23T01:29:31.546Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusgoll%2FSpec-Flow/.claude%2Fskills%2Fproduction-deployment-phase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_30dbfcda6130"
+  }
+}

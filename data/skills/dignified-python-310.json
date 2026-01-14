@@ -1,0 +1,37 @@
+{
+  "id": "dignified-python-310",
+  "name": "dignified-python-310",
+  "version": "1.0.0",
+  "summary": "This skill should be used when editing Python code in the erk codebase. Use when writing, reviewing, or refactoring Python to ensure adherence to LBYL exception handling pattern...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dagster-io",
+    "github": "dagster-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dagster-io/erk",
+    "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/.claude/skills/dignified-python-310/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T11:23:33.000Z",
+  "created_at": "2025-12-22T15:05:06.485Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dagster-io%2Ferk/.claude%2Fskills%2Fdignified-python-310%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.865Z",
+    "uniqueId": "sk_a30039b0e843"
+  }
+}

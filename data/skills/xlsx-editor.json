@@ -1,0 +1,36 @@
+{
+  "id": "xlsx-editor",
+  "name": "xlsx-editor",
+  "version": "1.0.0",
+  "summary": "Specialized guidance for editing EXISTING Excel files with emphasis on preserving formulas, formatting, and structure across multiple tabs. Use this skill when modifying, updati...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danbrickey",
+    "github": "danbrickey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danbrickey/edp-ai-expert-team",
+    "skill_md": "https://raw.githubusercontent.com/danbrickey/edp-ai-expert-team/main/ai-resources/prompts/utilities/excel-editing/xlsx-editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.456Z",
+  "created_at": "2025-12-23T00:04:34.350Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danbrickey%2Fedp-ai-expert-team/ai-resources%2Fprompts%2Futilities%2Fexcel-editing%2Fxlsx-editor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.456Z",
+    "uniqueId": "sk_060396ba5dec"
+  }
+}

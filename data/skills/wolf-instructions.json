@@ -1,0 +1,35 @@
+{
+  "id": "wolf-instructions",
+  "name": "wolf-instructions",
+  "version": "1.0.0",
+  "summary": "Four-level instruction cascading system (Global → Domain → Project → Role) with priority-based conflict resolution",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nice-Wolf-Studio",
+    "github": "Nice-Wolf-Studio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nice-Wolf-Studio/wolf-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Nice-Wolf-Studio/wolf-skills-marketplace/main/wolf-instructions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:58.315Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nice-Wolf-Studio%2Fwolf-skills-marketplace/wolf-instructions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_7814e9d09084"
+  }
+}

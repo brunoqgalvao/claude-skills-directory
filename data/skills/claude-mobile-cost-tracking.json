@@ -1,0 +1,36 @@
+{
+  "id": "claude-mobile-cost-tracking",
+  "name": "claude-mobile-cost-tracking",
+  "version": "1.0.0",
+  "summary": "Use when implementing Claude API cost tracking, monitoring token usage, displaying cost metrics in Settings, or user asks about costs - calculates exact costs using $0.003/1k in...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/claude-mobile-expo",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/claude-mobile-expo/main/.claude/skills/claude-mobile-cost-tracking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:21.196Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fclaude-mobile-expo/.claude%2Fskills%2Fclaude-mobile-cost-tracking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_1f1f8f02abc5"
+  }
+}

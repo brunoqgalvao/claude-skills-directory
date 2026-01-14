@@ -1,0 +1,36 @@
+{
+  "id": "hostinger-tools",
+  "name": "hostinger-tools",
+  "version": "1.0.0",
+  "summary": "Executes Hostinger API operations via Python wrapper. Use when managing VPS instances, Docker Compose projects, DNS records, domains, firewalls, SSH keys, snapshots, backups, bi...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bsamiee",
+    "github": "bsamiee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bsamiee/Parametric_Portal",
+    "skill_md": "https://raw.githubusercontent.com/bsamiee/Parametric_Portal/main/.claude/skills/hostinger-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.743Z",
+  "created_at": "2025-12-22T21:09:09.132Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bsamiee%2FParametric_Portal/.claude%2Fskills%2Fhostinger-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.743Z",
+    "uniqueId": "sk_6bb26e820edf"
+  }
+}

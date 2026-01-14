@@ -1,0 +1,37 @@
+{
+  "id": "backend-agent",
+  "name": "backend-agent",
+  "version": "1.0.0",
+  "summary": "Handles backend/API/database work for Unite-Hub. Implements Next.js API routes, Supabase database operations, RLS policies, authentication, and third-party integrations (Gmail, ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CleanExpo",
+    "github": "CleanExpo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CleanExpo/Unite-Hub",
+    "skill_md": "https://raw.githubusercontent.com/CleanExpo/Unite-Hub/main/.claude/skills/backend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:14:57.489Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CleanExpo%2FUnite-Hub/.claude%2Fskills%2Fbackend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_9e1b12b589bc"
+  }
+}

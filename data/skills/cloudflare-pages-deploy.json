@@ -1,0 +1,36 @@
+{
+  "id": "cloudflare-pages-deploy",
+  "name": "cloudflare-pages-deploy",
+  "version": "1.0.0",
+  "summary": "Deploy static sites and SPAs to Cloudflare Pages - auto-detects framework (Next.js, Vite, Astro, etc.), configures build settings, sets up custom domains, and deploys with previ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jrc1883",
+    "github": "jrc1883"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jrc1883/popkit-claude",
+    "skill_md": "https://raw.githubusercontent.com/jrc1883/popkit-claude/main/skills/pop-cloudflare-pages-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:23.787Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jrc1883%2Fpopkit-claude/skills%2Fpop-cloudflare-pages-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_38aa09e2ea41"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cloudflare-hyperdrive",
+  "name": "cloudflare-hyperdrive",
+  "version": "1.0.0",
+  "summary": "Connect Workers to PostgreSQL/MySQL with Hyperdrive's global pooling and caching. Use when: connecting to existing databases, setting up connection pools, using node-postgres/my...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jezweb",
+    "github": "jezweb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jezweb/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-hyperdrive/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.670Z",
+  "created_at": "2025-12-22T22:16:53.338Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jezweb%2Fclaude-skills/skills%2Fcloudflare-hyperdrive%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.670Z",
+    "uniqueId": "sk_22d059bfa163"
+  }
+}

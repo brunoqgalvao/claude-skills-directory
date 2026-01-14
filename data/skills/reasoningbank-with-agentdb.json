@@ -1,0 +1,37 @@
+{
+  "id": "reasoningbank-with-agentdb",
+  "name": "reasoningbank-with-agentdb",
+  "version": "1.0.0",
+  "summary": "Implement ReasoningBank adaptive learning with AgentDB's 150x faster vector database. Includes trajectory tracking, verdict judgment, memory distillation, and pattern recognitio...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/context-cascade",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/context-cascade/main/skills/platforms/reasoningbank-agentdb/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.482Z",
+  "created_at": "2025-12-23T01:29:41.481Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fcontext-cascade/skills%2Fplatforms%2Freasoningbank-agentdb%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_a540c1ab06fa"
+  }
+}

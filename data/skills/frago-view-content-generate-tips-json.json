@@ -1,0 +1,35 @@
+{
+  "id": "frago-view-content-generate-tips-json",
+  "name": "frago-view-content-generate-tips-json",
+  "version": "1.0.0",
+  "summary": "JSON 文件内容生成指南。当需要创建可通过 `frago view` 预览的 JSON 文件时使用此 skill。涵盖格式化显示、最佳实践。",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tsaijamey",
+    "github": "tsaijamey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tsaijamey/frago",
+    "skill_md": "https://raw.githubusercontent.com/tsaijamey/frago/main/src/frago/resources/skills/frago-view-content-generate-tips-json/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T09:53:24.000Z",
+  "created_at": "2025-12-23T01:28:41.433Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tsaijamey%2Ffrago/src%2Ffrago%2Fresources%2Fskills%2Ffrago-view-content-generate-tips-json%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_2b6e22978c5d"
+  }
+}

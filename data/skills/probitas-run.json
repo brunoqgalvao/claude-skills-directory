@@ -1,0 +1,35 @@
+{
+  "id": "probitas-run",
+  "name": "probitas-run",
+  "version": "1.0.0",
+  "summary": "Running and validating Probitas scenarios. Use when executing tests, running scenarios, or debugging test failures.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jsr-probitas",
+    "github": "jsr-probitas"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jsr-probitas/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jsr-probitas/claude-plugins/main/plugins/probitas/skills/probitas-run/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.579Z",
+  "created_at": "2025-12-23T01:28:19.830Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jsr-probitas%2Fclaude-plugins/plugins%2Fprobitas%2Fskills%2Fprobitas-run%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_a8d13a1f71b6"
+  }
+}

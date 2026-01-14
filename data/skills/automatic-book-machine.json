@@ -1,0 +1,35 @@
+{
+  "id": "automatic-book-machine",
+  "name": "automatic-book-machine",
+  "version": "1.0.0",
+  "summary": "Autonomous novel generation system that creates complete books from premise to final draft. Executes structured workflow including character creation, story outlining, chapter p...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "blossomz37",
+    "github": "blossomz37"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/blossomz37/2025-10-26-Claude-Skills",
+    "skill_md": "https://raw.githubusercontent.com/blossomz37/2025-10-26-Claude-Skills/main/automatic-book-machine-v1/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:51.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/blossomz37%2F2025-10-26-Claude-Skills/automatic-book-machine-v1%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_3a7e3ddf236d"
+  }
+}

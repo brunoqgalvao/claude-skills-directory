@@ -1,0 +1,36 @@
+{
+  "id": "badger-2350-dev",
+  "name": "badger-2350-dev",
+  "version": "1.0.0",
+  "summary": "Development environment setup and workflow for Universe 2025 (Tufty) Badge with MonaOS. Use when setting up the badge, flashing firmware, debugging, or working with the developm...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/badger-2350-plugin",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/badger-2350-plugin/main/badger-2350-dev/skills/badger-2350-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.517Z",
+  "created_at": "2025-12-23T01:29:12.426Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fbadger-2350-plugin/badger-2350-dev%2Fskills%2Fbadger-2350-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.517Z",
+    "uniqueId": "sk_92f04aa69c3f"
+  }
+}

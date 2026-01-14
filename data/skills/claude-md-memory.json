@@ -1,0 +1,37 @@
+{
+  "id": "claude-md-memory",
+  "name": "claude-md-memory",
+  "version": "1.0.0",
+  "summary": "Central CLAUDE.md file with project guidelines auto-injected into system prompt, achieving 10% accuracy lift in multi-hop reasoning through consistent context. Use for repo-wide...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dredd-us",
+    "github": "dredd-us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dredd-us/seashells",
+    "skill_md": "https://raw.githubusercontent.com/dredd-us/seashells/main/.claude/skills/claude-md-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T20:49:58.000Z",
+  "created_at": "2025-12-22T16:58:38.983Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dredd-us%2Fseashells/.claude%2Fskills%2Fclaude-md-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_ccee7941c6c2"
+  }
+}

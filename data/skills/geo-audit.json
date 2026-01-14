@@ -1,0 +1,36 @@
+{
+  "id": "geo-audit",
+  "name": "geo-audit",
+  "version": "1.0.0",
+  "summary": "Audit and optimize website for AI search engines like ChatGPT, Perplexity, Google AI Overviews, and Claude. Use when discussing GEO (Generative Engine Optimization), SEO for AI,...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adriaanslechten",
+    "github": "adriaanslechten"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adriaanslechten/hoppa-website",
+    "skill_md": "https://raw.githubusercontent.com/adriaanslechten/hoppa-website/main/.claude/skills/geo-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T13:27:25.000Z",
+  "created_at": "2025-12-23T01:28:53.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adriaanslechten%2Fhoppa-website/.claude%2Fskills%2Fgeo-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_1b0368424ab0"
+  }
+}

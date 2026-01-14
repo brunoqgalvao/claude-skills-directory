@@ -1,0 +1,35 @@
+{
+  "id": "data-model-creation",
+  "name": "data-model-creation",
+  "version": "1.0.0",
+  "summary": "Optional advanced tool for complex data modeling. For simple table creation, use relational-database-tool directly with SQL statements.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TencentCloudBase",
+    "github": "TencentCloudBase"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TencentCloudBase/CloudBase-AI-ToolKit",
+    "skill_md": "https://raw.githubusercontent.com/TencentCloudBase/CloudBase-AI-ToolKit/main/config/.claude/skills/data-model-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.446Z",
+  "created_at": "2025-12-23T01:29:35.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TencentCloudBase%2FCloudBase-AI-ToolKit/config%2F.claude%2Fskills%2Fdata-model-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.446Z",
+    "uniqueId": "sk_d316a518590f"
+  }
+}

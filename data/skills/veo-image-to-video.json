@@ -1,0 +1,35 @@
+{
+  "id": "veo-image-to-video",
+  "name": "veo-image-to-video",
+  "version": "1.0.0",
+  "summary": "Animate a single image into a video using fal.ai Veo 3.1. Use when the user wants to create a video from a still image, animate a photo, or bring an image to life. Supports up t...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bluewaves-creations",
+    "github": "bluewaves-creations"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bluewaves-creations/bluewaves-skills",
+    "skill_md": "https://raw.githubusercontent.com/bluewaves-creations/bluewaves-skills/main/plugins/fal-media/skills/veo-image-to-video/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T22:43:33.000Z",
+  "created_at": "2025-12-23T01:28:48.153Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bluewaves-creations%2Fbluewaves-skills/plugins%2Ffal-media%2Fskills%2Fveo-image-to-video%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_6109b2071692"
+  }
+}

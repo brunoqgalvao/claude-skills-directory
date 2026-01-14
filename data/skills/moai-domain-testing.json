@@ -1,0 +1,35 @@
+{
+  "id": "moai-domain-testing",
+  "name": "moai-domain-testing",
+  "version": "1.0.0",
+  "summary": "Enterprise testing framework with pytest 8.4.x, Vitest 4.x, Playwright 1.48.x, Testing Library 15.x, httpx 0.28.x, k6 load testing, and accessibility testing",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jg-chalk-io",
+    "github": "jg-chalk-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jg-chalk-io/Nora-LiveKit",
+    "skill_md": "https://raw.githubusercontent.com/jg-chalk-io/Nora-LiveKit/main/.claude/skills/moai-domain-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.498Z",
+  "created_at": "2025-12-23T01:29:26.047Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jg-chalk-io%2FNora-LiveKit/.claude%2Fskills%2Fmoai-domain-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_58eb8c56d600"
+  }
+}

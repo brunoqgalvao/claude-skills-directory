@@ -1,0 +1,35 @@
+{
+  "id": "image-processor",
+  "name": "image-processor",
+  "version": "1.0.0",
+  "summary": "Processes, crops, resizes, and optimizes images (PNG, JPG, JPEG, WebP) and SVG files to any specified dimensions, with presets for common favicon sizes",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rmjames",
+    "github": "rmjames"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rmjames/rjames",
+    "skill_md": "https://raw.githubusercontent.com/rmjames/rjames/main/.claude/skills/image-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.549Z",
+  "created_at": "2025-12-23T01:28:50.426Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rmjames%2Frjames/.claude%2Fskills%2Fimage-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_26eb97e0a1a7"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "feature-flag-manager",
+  "name": "feature-flag-manager",
+  "version": "1.0.0",
+  "summary": "Adds feature flag support using LaunchDarkly or JSON-based configuration to toggle features in UI components and Server Actions. This skill should be used when implementing feat...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/plugins/feature-flag-manager/skills/feature-flag-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:26.164Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/plugins%2Ffeature-flag-manager%2Fskills%2Ffeature-flag-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_088d3625b159"
+  }
+}

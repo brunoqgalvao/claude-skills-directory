@@ -1,0 +1,36 @@
+{
+  "id": "product-self-knowledge",
+  "name": "product-self-knowledge",
+  "version": "1.0.0",
+  "summary": "Authoritative reference for Anthropic products. Use when users ask about product capabilities, access, installation, pricing, limits, or features. Provides source-backed answers...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onetoneframework",
+    "github": "onetoneframework"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onetoneframework/framework",
+    "skill_md": "https://raw.githubusercontent.com/onetoneframework/framework/main/.claude/skills/public/product-self-knowledge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T07:52:02.000Z",
+  "created_at": "2025-12-22T15:08:43.572Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onetoneframework%2Fframework/.claude%2Fskills%2Fpublic%2Fproduct-self-knowledge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_7a234073be57"
+  }
+}

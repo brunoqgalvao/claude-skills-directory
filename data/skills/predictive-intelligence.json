@@ -1,0 +1,36 @@
+{
+  "id": "predictive-intelligence",
+  "name": "predictive-intelligence",
+  "version": "1.0.0",
+  "summary": "Analyze tasks upfront before execution. Predict task category, identify key files, assess risk level, and detect high-consequence operations. Use proactively when any task descr...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Whamp",
+    "github": "Whamp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Whamp/bond",
+    "skill_md": "https://raw.githubusercontent.com/Whamp/bond/main/.claude/skills/predictive-intelligence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:32.517Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Whamp%2Fbond/.claude%2Fskills%2Fpredictive-intelligence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_b4ef8d212725"
+  }
+}

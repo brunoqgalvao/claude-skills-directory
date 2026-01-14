@@ -1,0 +1,35 @@
+{
+  "id": "cloudbase-platform",
+  "name": "cloudbase-platform",
+  "version": "1.0.0",
+  "summary": "CloudBase platform knowledge and best practices. Use this skill for general CloudBase platform understanding, including storage, hosting, authentication, cloud functions, databa...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "binggg",
+    "github": "binggg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/binggg/GALAXY-VORTEX",
+    "skill_md": "https://raw.githubusercontent.com/binggg/GALAXY-VORTEX/main/.claude/skills/cloudbase-platform/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:09:32.618Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/binggg%2FGALAXY-VORTEX/.claude%2Fskills%2Fcloudbase-platform%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_dc8507dc6419"
+  }
+}

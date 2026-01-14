@@ -1,0 +1,35 @@
+{
+  "id": "release-standards",
+  "name": "release-standards",
+  "version": "1.0.0",
+  "summary": "Semantic versioning and changelog formatting for software releases.\nUse when: preparing releases, updating version numbers, writing changelogs.\nKeywords: version, release, chang...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AsiaOstrich",
+    "github": "AsiaOstrich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AsiaOstrich/universal-dev-skills",
+    "skill_md": "https://raw.githubusercontent.com/AsiaOstrich/universal-dev-skills/main/skills/release-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T01:47:36.000Z",
+  "created_at": "2025-12-23T01:28:46.898Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AsiaOstrich%2Funiversal-dev-skills/skills%2Frelease-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_a1db6508c5e6"
+  }
+}

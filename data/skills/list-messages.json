@@ -1,0 +1,36 @@
+{
+  "id": "list-messages",
+  "name": "list-messages",
+  "version": "1.0.0",
+  "summary": "Retrieve and display message history from Sinch Conversation API. Use when the user asks to show messages, view conversation history, list recent messages, see messages with a c...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sinch",
+    "github": "sinch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sinch/sinch-plugins",
+    "skill_md": "https://raw.githubusercontent.com/sinch/sinch-plugins/main/plugins/sinch-claude-plugin/skills/list-messages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.827Z",
+  "created_at": "2025-12-22T16:59:44.900Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sinch%2Fsinch-plugins/plugins%2Fsinch-claude-plugin%2Fskills%2Flist-messages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.827Z",
+    "uniqueId": "sk_bcac04e9f7c8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mashup",
+  "name": "mashup",
+  "version": "1.0.0",
+  "summary": "Force-fit patterns from other domains to spark novel concepts.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NickCrew",
+    "github": "NickCrew"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NickCrew/claude-cortex",
+    "skill_md": "https://raw.githubusercontent.com/NickCrew/claude-cortex/main/skills/collaboration/mashup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:51:50.095Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NickCrew%2Fclaude-cortex/skills%2Fcollaboration%2Fmashup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_e2707ad88f01"
+  }
+}

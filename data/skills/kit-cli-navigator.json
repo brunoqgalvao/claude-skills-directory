@@ -1,0 +1,36 @@
+{
+  "id": "kit-cli-navigator",
+  "name": "kit-cli-navigator",
+  "version": "1.0.0",
+  "summary": "Run focused `kit` CLI commands (file-tree, symbols, search, semantic discovery, dependency analysis, and exports) to build high-signal repository context fast. Use when you need...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cased",
+    "github": "cased"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cased/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/cased/claude-code-plugins/main/plugins/kit-cli/skills/kit-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T23:40:54.000Z",
+  "created_at": "2025-12-23T01:29:21.327Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cased%2Fclaude-code-plugins/plugins%2Fkit-cli%2Fskills%2Fkit-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_941aa7e09370"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "langgraph-patterns",
+  "name": "langgraph-patterns",
+  "version": "1.0.0",
+  "summary": "Advanced LangGraph patterns for production applications. Use when implementing streaming (tokens, updates, custom data), parallel node execution, subgraphs for modular workflows...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rozwer",
+    "github": "rozwer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rozwer/cross2B-Pro",
+    "skill_md": "https://raw.githubusercontent.com/rozwer/cross2B-Pro/main/.claude/skills/langgraph-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.157Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rozwer%2Fcross2B-Pro/.claude%2Fskills%2Flanggraph-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_65d13f2b869f"
+  }
+}

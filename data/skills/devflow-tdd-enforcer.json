@@ -1,0 +1,35 @@
+{
+  "id": "devflow-tdd-enforcer",
+  "name": "devflow-tdd-enforcer",
+  "version": "1.0.0",
+  "summary": "Enforces TDD order in TASKS.md - Tests MUST be marked complete before Implementation tasks. Blocks violations in real-time.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Dimon94",
+    "github": "Dimon94"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Dimon94/cc-devflow",
+    "skill_md": "https://raw.githubusercontent.com/Dimon94/cc-devflow/main/.claude/skills/devflow-tdd-enforcer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:19.556Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Dimon94%2Fcc-devflow/.claude%2Fskills%2Fdevflow-tdd-enforcer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_fd2dca5250bd"
+  }
+}

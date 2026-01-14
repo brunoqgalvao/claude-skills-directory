@@ -1,0 +1,37 @@
+{
+  "id": "task-verification-pipeline",
+  "name": "task-verification-pipeline",
+  "version": "1.0.0",
+  "summary": "Run and debug a repo verification pipeline (`./verify.sh --ui=false` or equivalent), including stage selection and opt-in E2E tiers.",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Anveio",
+    "github": "Anveio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Anveio/conveaux",
+    "skill_md": "https://raw.githubusercontent.com/Anveio/conveaux/main/.claude/skills/task-verification-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T06:05:51.000Z",
+  "created_at": "2025-12-23T01:28:27.656Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Anveio%2Fconveaux/.claude%2Fskills%2Ftask-verification-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_b58123ffee57"
+  }
+}

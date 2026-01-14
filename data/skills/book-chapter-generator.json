@@ -1,0 +1,36 @@
+{
+  "id": "book-chapter-generator",
+  "name": "book-chapter-generator",
+  "version": "1.0.0",
+  "summary": "This skill generates a structured chapter outline for intelligent textbooks by analyzing course descriptions, learning graphs, and concept dependencies. Use this skill after the...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vishalsachdev",
+    "github": "vishalsachdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vishalsachdev/database-management",
+    "skill_md": "https://raw.githubusercontent.com/vishalsachdev/database-management/main/.claude-skills/skills/book-chapter-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T23:01:27.720Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vishalsachdev%2Fdatabase-management/.claude-skills%2Fskills%2Fbook-chapter-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_af7323ceed6d"
+  }
+}

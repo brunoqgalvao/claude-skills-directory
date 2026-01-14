@@ -1,0 +1,35 @@
+{
+  "id": "e2e-execution",
+  "name": "e2e-execution",
+  "version": "1.0.0",
+  "summary": "Claude Code Web/DesktopでE2Eテストを実行する手順。リモートConvexに接続してPlaywrightテストを実行する方法。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yn1323",
+    "github": "yn1323"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yn1323/yps-crispy-carnival",
+    "skill_md": "https://raw.githubusercontent.com/yn1323/yps-crispy-carnival/main/.claude/skills/e2e-execution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T01:53:15.000Z",
+  "created_at": "2025-12-22T15:01:44.106Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yn1323%2Fyps-crispy-carnival/.claude%2Fskills%2Fe2e-execution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_8ec56115988a"
+  }
+}

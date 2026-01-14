@@ -1,0 +1,35 @@
+{
+  "id": "crypto-ta-analyzer",
+  "name": "crypto-ta-analyzer",
+  "version": "1.0.0",
+  "summary": "Technical analysis with 29+ indicators (BB, Ichimoku, RSI, MACD). Generates 7-tier trading signals with divergence detection, volume confirmation, and squeeze alerts for crypto ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkyazzentwatwa",
+    "github": "dkyazzentwatwa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "skill_md": "https://raw.githubusercontent.com/dkyazzentwatwa/chatgpt-skills/main/crypto-ta-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.689Z",
+  "created_at": "2025-12-22T22:07:15.658Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkyazzentwatwa%2Fchatgpt-skills/crypto-ta-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.689Z",
+    "uniqueId": "sk_a67b429b021f"
+  }
+}

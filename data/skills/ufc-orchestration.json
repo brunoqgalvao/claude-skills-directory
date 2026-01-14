@@ -1,0 +1,35 @@
+{
+  "id": "ufc-orchestration",
+  "name": "ufc-orchestration",
+  "version": "1.0.0",
+  "summary": "Use this skill when receiving any task that might benefit from parallel execution. Auto-detects parallelizable work patterns based on task description and suggests optimal execu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wolfiesch",
+    "github": "wolfiesch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wolfiesch/UFC-pokedex",
+    "skill_md": "https://raw.githubusercontent.com/wolfiesch/UFC-pokedex/main/.claude/skills/ufc-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T16:33:10.000Z",
+  "created_at": "2025-12-23T01:29:25.985Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wolfiesch%2FUFC-pokedex/.claude%2Fskills%2Fufc-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_54cb582070fe"
+  }
+}

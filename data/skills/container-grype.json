@@ -1,0 +1,37 @@
+{
+  "id": "container-grype",
+  "name": "container-grype",
+  "version": "1.0.0",
+  "summary": "Container vulnerability scanning and dependency risk assessment using Grype with CVSS severity ratings, EPSS exploit probability, and CISA KEV indicators. Use when: (1) Scanning...",
+  "verticals": [
+    "sales",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentSecOps",
+    "github": "AgentSecOps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentSecOps/SecOpsAgentKit",
+    "skill_md": "https://raw.githubusercontent.com/AgentSecOps/SecOpsAgentKit/main/skills/devsecops/container-grype/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T10:05:50.000Z",
+  "created_at": "2025-12-23T01:29:27.328Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentSecOps%2FSecOpsAgentKit/skills%2Fdevsecops%2Fcontainer-grype%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_7e099709833c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "laravel-jobs",
+  "name": "laravel-jobs",
+  "version": "1.0.0",
+  "summary": "Background jobs and event listeners for async processing. Use when working with queued jobs, background processing, events, or when user mentions jobs, queues, listeners, events...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-laravel",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-laravel/main/skills/laravel-jobs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:48.914Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-laravel/skills%2Flaravel-jobs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_cb6a2cad46ef"
+  }
+}

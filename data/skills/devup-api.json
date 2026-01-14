@@ -1,0 +1,36 @@
+{
+  "id": "devup-api",
+  "name": "devup-api",
+  "version": "1.0.0",
+  "summary": "A tool for generating fully typed API clients from OpenAPI schemas. It offers a fetch-compatible API, auto-generated types without generics, and integrates with major build tool...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-five-git",
+    "github": "dev-five-git"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-five-git/devup-api",
+    "skill_md": "https://raw.githubusercontent.com/dev-five-git/devup-api/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:22.740Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-five-git%2Fdevup-api/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_18670255c414"
+  }
+}

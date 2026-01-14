@@ -1,0 +1,36 @@
+{
+  "id": "hono-dev",
+  "name": "hono-dev",
+  "version": "1.0.0",
+  "summary": "Type-safe API development with Hono framework. Covers route chaining for type inference, factory patterns, Zod OpenAPI integration, error handling, RPC client, and testing patte...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "outfitter-dev",
+    "github": "outfitter-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/outfitter-dev/agents",
+    "skill_md": "https://raw.githubusercontent.com/outfitter-dev/agents/main/baselayer/skills/hono-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.743Z",
+  "created_at": "2025-12-22T21:09:21.379Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/outfitter-dev%2Fagents/baselayer%2Fskills%2Fhono-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.743Z",
+    "uniqueId": "sk_2a62a57bf465"
+  }
+}

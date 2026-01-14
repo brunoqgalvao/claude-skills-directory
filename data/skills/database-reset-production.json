@@ -1,0 +1,36 @@
+{
+  "id": "database-reset-production",
+  "name": "database-reset-production",
+  "version": "1.0.0",
+  "summary": "Resets production database with full schema drop. EXTREME CAUTION - deletes all production data. SINGLE SOURCE OF TRUTH for production database reset automation.",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DarkMonkDev",
+    "github": "DarkMonkDev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DarkMonkDev/WitchCityRope",
+    "skill_md": "https://raw.githubusercontent.com/DarkMonkDev/WitchCityRope/main/.claude/skills/database-reset-production/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T06:40:19.000Z",
+  "created_at": "2025-12-23T01:29:00.849Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DarkMonkDev%2FWitchCityRope/.claude%2Fskills%2Fdatabase-reset-production%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_cd794be519a3"
+  }
+}

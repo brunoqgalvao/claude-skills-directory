@@ -1,0 +1,35 @@
+{
+  "id": "analyze-wast",
+  "name": "analyze-wast",
+  "version": "1.0.0",
+  "summary": "Analyze WebAssembly test (WAST) files to debug compilation issues and create regression tests. Use when the user asks to debug or analyze WAST test failures, investigate compila...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Milky2018",
+    "github": "Milky2018"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Milky2018/wasmoon",
+    "skill_md": "https://raw.githubusercontent.com/Milky2018/wasmoon/main/.claude/skills/analyze-wast/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T04:22:04.000Z",
+  "created_at": "2025-12-22T16:30:20.536Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Milky2018%2Fwasmoon/.claude%2Fskills%2Fanalyze-wast%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_ee02df748acf"
+  }
+}

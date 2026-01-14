@@ -1,0 +1,35 @@
+{
+  "id": "ctx-plan-execution",
+  "name": "ctx-plan-execution",
+  "version": "1.0.0",
+  "summary": "Execution discipline skill adapted from obra/superpowers. Ensures plans translate into tracked tasks, orchestration, and verification runs.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NickCrew",
+    "github": "NickCrew"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NickCrew/claude-cortex",
+    "skill_md": "https://raw.githubusercontent.com/NickCrew/claude-cortex/main/skills/collaboration/executing-plans/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T14:59:31.122Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NickCrew%2Fclaude-cortex/skills%2Fcollaboration%2Fexecuting-plans%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_6ed6b6ba9a2f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "component-architecture",
+  "name": "component-architecture",
+  "version": "1.0.0",
+  "summary": "Reusable component patterns for cards, sections, forms, and layouts with consistent prop interfaces and composition strategies. Use when creating new components, refactoring exi...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canatufkansu",
+    "github": "canatufkansu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canatufkansu/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/canatufkansu/claude-skills/main/component-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.496Z",
+  "created_at": "2025-12-23T01:29:27.427Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canatufkansu%2Fclaude-skills/component-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_783ad18369a1"
+  }
+}

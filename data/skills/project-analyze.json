@@ -1,0 +1,35 @@
+{
+  "id": "project-analyze",
+  "name": "project-analyze",
+  "version": "1.0.0",
+  "summary": "Scans codebases to generate architecture documentation (ARCHITECTURE.md). Use when joining an existing project, understanding codebase structure, exploring project architecture,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mylukin",
+    "github": "mylukin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mylukin/agent-foreman",
+    "skill_md": "https://raw.githubusercontent.com/mylukin/agent-foreman/main/plugins/agent-foreman/skills/project-analyze/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T13:50:43.000Z",
+  "created_at": "2025-12-23T01:28:23.719Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mylukin%2Fagent-foreman/plugins%2Fagent-foreman%2Fskills%2Fproject-analyze%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.577Z",
+    "uniqueId": "sk_ff970feb6609"
+  }
+}

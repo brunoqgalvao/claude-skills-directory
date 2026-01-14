@@ -1,0 +1,35 @@
+{
+  "id": "ascii-preview-generate",
+  "name": "ascii-preview-generate",
+  "version": "1.0.0",
+  "summary": "Use AI to create ASCII text-based preview of PDF page layout. Transforms visual and extracted data into structured ASCII representation for HTML generation.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AbeJitsu",
+    "github": "AbeJitsu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AbeJitsu/Game-Settings-Panel",
+    "skill_md": "https://raw.githubusercontent.com/AbeJitsu/Game-Settings-Panel/main/.claude/skills/calypso/ascii-preview-generate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:43.463Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AbeJitsu%2FGame-Settings-Panel/.claude%2Fskills%2Fcalypso%2Fascii-preview-generate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_bd6d193946d6"
+  }
+}

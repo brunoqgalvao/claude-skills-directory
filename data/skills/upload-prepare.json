@@ -1,0 +1,37 @@
+{
+  "id": "upload-prepare",
+  "name": "upload-prepare",
+  "version": "1.0.0",
+  "summary": "Prepare YouTube upload for bilingual audiobook video. Runs youtube-metadata skill, builds upload command, validates all files, checks languages by reading translations from midd...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smoreg",
+    "github": "smoreg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smoreg/biLangGen",
+    "skill_md": "https://raw.githubusercontent.com/smoreg/biLangGen/main/.claude/skills/upload-prepare/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T10:21:41.000Z",
+  "created_at": "2025-12-23T01:29:24.525Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smoreg%2FbiLangGen/.claude%2Fskills%2Fupload-prepare%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.502Z",
+    "uniqueId": "sk_42d33af4fcee"
+  }
+}

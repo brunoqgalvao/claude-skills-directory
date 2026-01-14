@@ -1,0 +1,36 @@
+{
+  "id": "phoenix-liveview",
+  "name": "phoenix-liveview",
+  "version": "1.0.0",
+  "summary": "Phoenix Framework with LiveView on the BEAM. Covers OTP foundations, context-driven domain modeling, Ecto data layer, LiveView real-time patterns, PubSub/Presence, testing, perf...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-elixir-frameworks-phoenix-liveview/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:01:59.250Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-elixir-frameworks-phoenix-liveview%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_e72c9863925b"
+  }
+}

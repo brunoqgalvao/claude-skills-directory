@@ -1,0 +1,36 @@
+{
+  "id": "kratos-repo",
+  "name": "kratos-repo",
+  "version": "1.0.0",
+  "summary": "Implements go-kratos data layer repositories following Clean Architecture patterns with GORM, transactions, pagination, and error handling. Use when adding new data access layer...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alecszaharia",
+    "github": "alecszaharia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alecszaharia/brizy-microservices-go",
+    "skill_md": "https://raw.githubusercontent.com/alecszaharia/brizy-microservices-go/main/symbol-service/.claude/skills/kratos-repo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:56.573Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alecszaharia%2Fbrizy-microservices-go/symbol-service%2F.claude%2Fskills%2Fkratos-repo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_b3e5d2d78397"
+  }
+}

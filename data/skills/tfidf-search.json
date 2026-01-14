@@ -1,0 +1,37 @@
+{
+  "id": "tfidf-search",
+  "name": "tfidf-search",
+  "version": "1.0.0",
+  "summary": "Implements TF-IDF based search engines for text datasets using vector space models and cosine similarity. Use when building search functionality, finding similar documents, rank...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asvskartheek",
+    "github": "asvskartheek"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asvskartheek/awesome-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/asvskartheek/awesome-claude-skills/main/tfidf-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T17:59:54.517Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asvskartheek%2Fawesome-claude-skills/tfidf-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_9eb692193a70"
+  }
+}

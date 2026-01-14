@@ -1,0 +1,35 @@
+{
+  "id": "smalltalk-implementation-finder",
+  "name": "smalltalk-implementation-finder",
+  "version": "1.0.0",
+  "summary": "Use this skill when user asks \"with smalltalk-implementation-finder\", \"who implements X?\", \"find implementors of Y\", \"how is this method implemented?\", \"show implementations\", \"...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mumez",
+    "github": "mumez"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mumez/smalltalk-dev-plugin",
+    "skill_md": "https://raw.githubusercontent.com/mumez/smalltalk-dev-plugin/main/skills/smalltalk-implementation-finder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:11:57.025Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mumez%2Fsmalltalk-dev-plugin/skills%2Fsmalltalk-implementation-finder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_888dfca783c8"
+  }
+}

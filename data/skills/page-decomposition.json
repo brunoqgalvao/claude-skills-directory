@@ -1,0 +1,36 @@
+{
+  "id": "page-decomposition",
+  "name": "page-decomposition",
+  "version": "1.0.0",
+  "summary": "Analyze content sequences within a section and provide neutral descriptions for AEM Edge Delivery Services. Invoked per section during page import to identify breaking points be...",
+  "verticals": [
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adobe",
+    "github": "adobe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adobe/helix-website",
+    "skill_md": "https://raw.githubusercontent.com/adobe/helix-website/main/.claude/skills/page-decomposition/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T14:18:29.000Z",
+  "created_at": "2025-12-22T19:30:41.044Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adobe%2Fhelix-website/.claude%2Fskills%2Fpage-decomposition%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.444Z",
+    "uniqueId": "sk_7c100f558e5e"
+  }
+}

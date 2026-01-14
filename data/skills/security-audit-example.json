@@ -1,0 +1,35 @@
+{
+  "id": "security-audit-example",
+  "name": "security-audit-example",
+  "version": "1.0.0",
+  "summary": "Example security audit skill demonstrating how to audit code for security vulnerabilities. Use when the user asks to perform security reviews, check for vulnerabilities, or audi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_categorized/smart-contracts/security-audit-example/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.463Z",
+  "created_at": "2025-12-22T16:00:34.344Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_categorized%2Fsmart-contracts%2Fsecurity-audit-example%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.463Z",
+    "uniqueId": "sk_da18ca413b90"
+  }
+}

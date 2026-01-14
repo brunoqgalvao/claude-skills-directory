@@ -1,0 +1,36 @@
+{
+  "id": "inbox-processor",
+  "name": "inbox-processor",
+  "version": "1.0.0",
+  "summary": "This skill should be used when processing files in the inbox/ directory, organizing unstructured input, classifying content, or extracting actionable information. Triggered by r...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dakesan",
+    "github": "dakesan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dakesan/bioinformatics-research-plugins",
+    "skill_md": "https://raw.githubusercontent.com/dakesan/bioinformatics-research-plugins/main/plugins/inbox-processor/skills/inbox-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:40.253Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dakesan%2Fbioinformatics-research-plugins/plugins%2Finbox-processor%2Fskills%2Finbox-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_b96905623d73"
+  }
+}

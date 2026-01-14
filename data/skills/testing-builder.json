@@ -1,0 +1,36 @@
+{
+  "id": "testing-builder",
+  "name": "testing-builder",
+  "version": "1.0.0",
+  "summary": "Automatically generates comprehensive test suites (unit, integration, E2E) based on code and past testing patterns. Use when user says \"write tests\", \"test this\", \"add coverage\"...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Toowiredd",
+    "github": "Toowiredd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Toowiredd/claude-skills-automation",
+    "skill_md": "https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/main/skills/testing-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.685Z",
+  "created_at": "2025-12-22T22:10:10.088Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Toowiredd%2Fclaude-skills-automation/skills%2Ftesting-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.685Z",
+    "uniqueId": "sk_34e92d2fb239"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "postgresql-expert",
+  "name": "postgresql-expert",
+  "version": "1.0.0",
+  "summary": "Expert PostgreSQL database guidance using Bun.sql client. Provides comprehensive patterns\nfor queries, schema design, JSON/JSONB operations, full-text search, indexing, PL/pgSQL...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lammesen",
+    "github": "lammesen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lammesen/skills",
+    "skill_md": "https://raw.githubusercontent.com/lammesen/skills/main/.claude/skills/postgresql-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:25:04.859Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lammesen%2Fskills/.claude%2Fskills%2Fpostgresql-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_8472a275e202"
+  }
+}

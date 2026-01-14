@@ -1,0 +1,37 @@
+{
+  "id": "apify-scraper-builder",
+  "name": "apify-scraper-builder",
+  "version": "1.0.0",
+  "summary": "Build Apify Actors (web scrapers) using Node.js and Crawlee. Use when creating new scrapers, defining input schemas, configuring Dockerfiles, or deploying to Apify. Triggers inc...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dvorkinguy",
+    "github": "dvorkinguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dvorkinguy/claude-skills-agents",
+    "skill_md": "https://raw.githubusercontent.com/dvorkinguy/claude-skills-agents/main/skills/apify-scraper-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:39.916Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dvorkinguy%2Fclaude-skills-agents/skills%2Fapify-scraper-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_f94c1bbf58cd"
+  }
+}

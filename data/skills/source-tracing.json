@@ -1,0 +1,35 @@
+{
+  "id": "source-tracing",
+  "name": "source-tracing",
+  "version": "1.0.0",
+  "summary": "从高熵的二手内容中回溯到低熵、权威、原始的信息源。 该技能通过结构化步骤，帮助用户验证消息真伪、理解原始语境， 建立独立的信息判断与溯源能力。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hacket",
+    "github": "hacket"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hacket/ClaudeCodeTips",
+    "skill_md": "https://raw.githubusercontent.com/hacket/ClaudeCodeTips/main/.claude/skills/source-tracing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:15:15.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hacket%2FClaudeCodeTips/.claude%2Fskills%2Fsource-tracing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_a86b3f42f47d"
+  }
+}

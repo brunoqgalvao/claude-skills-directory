@@ -1,0 +1,36 @@
+{
+  "id": "web-summary",
+  "name": "web-summary",
+  "version": "1.0.0",
+  "summary": "Summarize web content including YouTube videos with semantic topic links for Logseq and Obsidian. Uses Z.AI service (port 9600) for cost-effective summarization. Supports markdo...",
+  "verticals": [
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/sindri",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/sindri/main/docker/lib/extensions/vf-web-summary/resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T03:15:03.000Z",
+  "created_at": "2025-12-23T01:28:50.277Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fsindri/docker%2Flib%2Fextensions%2Fvf-web-summary%2Fresources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_8a9dd607e750"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "design-to-development-handoff",
+  "name": "design-to-development-handoff",
+  "version": "1.0.0",
+  "summary": "This skill should be used when transitioning from design phase to development implementation - covers design token extraction, component specifications, responsive breakpoints, ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chriscarterux",
+    "github": "chriscarterux"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chriscarterux/chris-claude-stack",
+    "skill_md": "https://raw.githubusercontent.com/chriscarterux/chris-claude-stack/main/skills/design-to-development-handoff/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:12.440Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chriscarterux%2Fchris-claude-stack/skills%2Fdesign-to-development-handoff%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_76df9be1d891"
+  }
+}

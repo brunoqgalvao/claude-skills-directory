@@ -1,0 +1,35 @@
+{
+  "id": "commands-frontmatter-adapter",
+  "name": "commands-frontmatter-adapter",
+  "version": "1.0.0",
+  "summary": "Parse Claude command frontmatter and expose body/meta for Codex CLI.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hairihou",
+    "github": "hairihou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hairihou/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/hairihou/dotfiles/main/src/.claude/skills/commands-frontmatter-adapter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.866Z",
+  "created_at": "2025-12-22T15:04:48.876Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hairihou%2Fdotfiles/src%2F.claude%2Fskills%2Fcommands-frontmatter-adapter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.866Z",
+    "uniqueId": "sk_d4640d91ccd5"
+  }
+}

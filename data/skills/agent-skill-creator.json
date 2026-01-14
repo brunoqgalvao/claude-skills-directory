@@ -1,0 +1,37 @@
+{
+  "id": "agent-skill-creator",
+  "name": "agent-skill-creator",
+  "version": "1.0.0",
+  "summary": "This enhanced skill should be used when the user asks to create an agent, automate a repetitive workflow, create a custom skill, or needs advanced agent creation capabilities. A...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FrancyJGLisboa",
+    "github": "FrancyJGLisboa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FrancyJGLisboa/agent-skill-creator",
+    "skill_md": "https://raw.githubusercontent.com/FrancyJGLisboa/agent-skill-creator/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.471Z",
+  "created_at": "2025-12-23T01:30:48.368Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FrancyJGLisboa%2Fagent-skill-creator/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.471Z",
+    "uniqueId": "sk_f58abfb547bf"
+  }
+}

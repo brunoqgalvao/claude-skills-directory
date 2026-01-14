@@ -1,0 +1,36 @@
+{
+  "id": "fixing-rule-violations",
+  "name": "fixing-rule-violations",
+  "version": "1.0.0",
+  "summary": "Provides detailed fix instructions for coding rule violations. Uses the rule index to locate violated rules and extract fix patterns. Use when code violates rules or when the us...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oimiragieo",
+    "github": "oimiragieo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oimiragieo/agent-studio",
+    "skill_md": "https://raw.githubusercontent.com/oimiragieo/agent-studio/main/.claude/skills/fixing-rule-violations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T23:56:42.000Z",
+  "created_at": "2025-12-22T16:53:30.975Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oimiragieo%2Fagent-studio/.claude%2Fskills%2Ffixing-rule-violations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_a6a90704d99c"
+  }
+}

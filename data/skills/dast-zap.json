@@ -1,0 +1,37 @@
+{
+  "id": "dast-zap",
+  "name": "dast-zap",
+  "version": "1.0.0",
+  "summary": "Dynamic application security testing (DAST) using OWASP ZAP (Zed Attack Proxy) with passive and active scanning, API testing, and OWASP Top 10 vulnerability detection. Use when:...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentSecOps",
+    "github": "AgentSecOps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentSecOps/SecOpsAgentKit",
+    "skill_md": "https://raw.githubusercontent.com/AgentSecOps/SecOpsAgentKit/main/skills/appsec/dast-zap/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.672Z",
+  "created_at": "2025-12-22T22:15:41.988Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentSecOps%2FSecOpsAgentKit/skills%2Fappsec%2Fdast-zap%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.672Z",
+    "uniqueId": "sk_d1949ff76dc5"
+  }
+}

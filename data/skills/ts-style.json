@@ -1,0 +1,35 @@
+{
+  "id": "ts-style",
+  "name": "ts-style",
+  "version": "1.0.0",
+  "summary": "TypeScript style standards for AIRBot reviewers",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sids",
+    "github": "sids"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sids/airbot",
+    "skill_md": "https://raw.githubusercontent.com/sids/airbot/main/plugins/airbot-typescript/skills/ts-style/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:18.731Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sids%2Fairbot/plugins%2Fairbot-typescript%2Fskills%2Fts-style%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_5b46ea8e33c7"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nfr-assess",
+  "name": "nfr-assess",
+  "version": "1.0.0",
+  "summary": "Assess non-functional requirements across 6 quality categories (Security, Performance, Reliability, Maintainability, Scalability, Usability) with measurable criteria, evidence-b...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adolfoaranaes12",
+    "github": "adolfoaranaes12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adolfoaranaes12/BMAD-ENHANCED",
+    "skill_md": "https://raw.githubusercontent.com/adolfoaranaes12/BMAD-ENHANCED/main/.claude/skills/nfr-assess/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.614Z",
+  "created_at": "2025-12-22T23:20:50.129Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adolfoaranaes12%2FBMAD-ENHANCED/.claude%2Fskills%2Fnfr-assess%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.614Z",
+    "uniqueId": "sk_d7c0e2270d8f"
+  }
+}

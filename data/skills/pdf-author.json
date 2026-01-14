@@ -1,0 +1,36 @@
+{
+  "id": "pdf-author",
+  "name": "pdf-author",
+  "version": "1.0.0",
+  "summary": "Generate professional PDF documents using Typst with proper Chinese font rendering (Source Han Serif/Sans) and syntax-highlighted code blocks that break across pages naturally. ...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "iamwrm",
+    "github": "iamwrm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/iamwrm/try_typst",
+    "skill_md": "https://raw.githubusercontent.com/iamwrm/try_typst/main/.claude/skills/pdf-author/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T15:03:24.000Z",
+  "created_at": "2025-12-23T01:29:16.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/iamwrm%2Ftry_typst/.claude%2Fskills%2Fpdf-author%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_8ba1961e758c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "rag-pipeline",
+  "name": "rag-pipeline",
+  "version": "1.0.0",
+  "summary": "Use when building Retrieval-Augmented Generation systems. Covers document chunking, embedding generation, vector indexing, semantic search, context building, and integration of ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "muhammad-anas35",
+    "github": "muhammad-anas35"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/muhammad-anas35/RAGai",
+    "skill_md": "https://raw.githubusercontent.com/muhammad-anas35/RAGai/main/.claude/skills/rag-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.567Z",
+  "created_at": "2025-12-23T01:28:35.935Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/muhammad-anas35%2FRAGai/.claude%2Fskills%2Frag-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_bac648ecca38"
+  }
+}

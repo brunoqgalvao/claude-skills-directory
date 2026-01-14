@@ -1,0 +1,35 @@
+{
+  "id": "anywidget-marimo",
+  "name": "anywidget-marimo",
+  "version": "1.0.0",
+  "summary": "Toolkit for generating custom widgets from scratch for Marimo.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nikhil-vytla",
+    "github": "nikhil-vytla"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nikhil-vytla/hatch",
+    "skill_md": "https://raw.githubusercontent.com/nikhil-vytla/hatch/main/lightweight-labeling-tool/.claude/skills/anywidget-marimo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T16:40:14.000Z",
+  "created_at": "2025-12-22T14:59:35.905Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nikhil-vytla%2Fhatch/lightweight-labeling-tool%2F.claude%2Fskills%2Fanywidget-marimo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_1b172fdb9e1d"
+  }
+}

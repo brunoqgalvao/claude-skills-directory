@@ -1,0 +1,35 @@
+{
+  "id": "vercel-deployment-platform",
+  "name": "vercel-deployment-platform",
+  "version": "1.0.0",
+  "summary": "Vercel serverless deployment platform optimized for Next.js with edge functions, automatic previews, and global CDN. Use when deploying Next.js applications, implementing edge m...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-platforms-deployment-vercel/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:15.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-platforms-deployment-vercel%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_a837717054ee"
+  }
+}

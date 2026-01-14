@@ -1,0 +1,36 @@
+{
+  "id": "athena-pr-reviewer",
+  "name": "athena-pr-reviewer",
+  "version": "1.0.0",
+  "summary": "PROACTIVELY USED when reviewing a PR, branch, or Jira story. Handles code review against requirements and provides actionable feedback.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "emiperez95",
+    "github": "emiperez95"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/emiperez95/cc-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/emiperez95/cc-toolkit/main/skills/athena-pr-reviewer/skills/athena-pr-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:35.444Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/emiperez95%2Fcc-toolkit/skills%2Fathena-pr-reviewer%2Fskills%2Fathena-pr-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_3b061b90c88f"
+  }
+}

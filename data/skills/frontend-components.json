@@ -1,0 +1,37 @@
+{
+  "id": "frontend-components",
+  "name": "frontend-components",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating or modifying frontend dashboard components in the ClaudeCode Sentiment Monitor project. Specifically trigger this skill for tasks involvi...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TheKeithStewart",
+    "github": "TheKeithStewart"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TheKeithStewart/data-dashboard",
+    "skill_md": "https://raw.githubusercontent.com/TheKeithStewart/data-dashboard/main/.claude/skills/frontend-components/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:10.472Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TheKeithStewart%2Fdata-dashboard/.claude%2Fskills%2Ffrontend-components%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_256821373297"
+  }
+}

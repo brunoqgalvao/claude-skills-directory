@@ -1,0 +1,35 @@
+{
+  "id": "format-user-output",
+  "name": "format-user-output",
+  "version": "1.0.0",
+  "summary": "Format all user-facing output with consistent visual structure. Apply when displaying questions, results, progress, errors, or any message to the user. Use dividers, emojis, and...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gabe-almeida",
+    "github": "gabe-almeida"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gabe-almeida/next-js-my-contractor-now",
+    "skill_md": "https://raw.githubusercontent.com/gabe-almeida/next-js-my-contractor-now/main/.claude/skills/format-user-output/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.692Z",
+  "created_at": "2025-12-22T22:04:39.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gabe-almeida%2Fnext-js-my-contractor-now/.claude%2Fskills%2Fformat-user-output%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.692Z",
+    "uniqueId": "sk_371bdec64244"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "unit-test-scheduled-async",
+  "name": "unit-test-scheduled-async",
+  "version": "1.0.0",
+  "summary": "Unit tests for scheduled and async tasks using @Scheduled and @Async. Mock task execution and timing. Use when validating asynchronous operations and scheduling behavior.",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "giuseppe-trisciuoglio",
+    "github": "giuseppe-trisciuoglio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "skill_md": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-scheduled-async/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:16.372Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/giuseppe-trisciuoglio%2Fdeveloper-kit/skills%2Fjunit-test%2Funit-test-scheduled-async%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_7eab34f8efc0"
+  }
+}

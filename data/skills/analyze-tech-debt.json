@@ -1,0 +1,35 @@
+{
+  "id": "analyze-tech-debt",
+  "name": "analyze-tech-debt",
+  "version": "1.0.0",
+  "summary": "기술 부채 분석. Use when (1) \"기술 부채 분석\", (2) \"코드 품질 체크\",\n(3) \"리팩토링 필요한 부분\". 코드베이스 분석하여 기술 부채 식별.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/ops/improve/skills/analyze-tech-debt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T09:52:48.000Z",
+  "created_at": "2025-12-23T01:28:46.229Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fops%2Fimprove%2Fskills%2Fanalyze-tech-debt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_52336a13dbe3"
+  }
+}

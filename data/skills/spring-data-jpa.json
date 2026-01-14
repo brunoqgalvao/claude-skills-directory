@@ -1,0 +1,36 @@
+{
+  "id": "spring-data-jpa",
+  "name": "spring-data-jpa",
+  "version": "1.0.0",
+  "summary": "Implement persistence layers with Spring Data JPA. Use when creating repositories, configuring entity relationships, writing queries (derived and @Query), setting up pagination,...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "giuseppe-trisciuoglio",
+    "github": "giuseppe-trisciuoglio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "skill_md": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-data-jpa/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:37.500Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/giuseppe-trisciuoglio%2Fdeveloper-kit/skills%2Fspring-boot%2Fspring-data-jpa%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_b3406f48059f"
+  }
+}

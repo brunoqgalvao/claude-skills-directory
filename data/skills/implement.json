@@ -1,0 +1,35 @@
+{
+  "id": "implement",
+  "name": "implement",
+  "version": "1.0.0",
+  "summary": "ADD Phase 4 구현 워크플로우. Use when:\n(1) spec.md/plan.md/tasks.md 완료, (2) 기능 구현 요청,\n(3) CQRS + Reactive 패턴 구현.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-backend",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-backend/main/skills/implement/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:28:20.273Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-backend/skills%2Fimplement%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_7648521f24da"
+  }
+}

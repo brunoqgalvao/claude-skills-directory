@@ -1,0 +1,37 @@
+{
+  "id": "ontology-phase-4-generate",
+  "name": "ontology-phase-4-generate",
+  "version": "1.0.0",
+  "summary": "Phase 4 of Ontology Builder Pipeline. Generates final Ontology artifacts \n(entity definitions, workflow catalog, concept guides) from DRD. \nUse after Phase 3 DRD is complete.",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a4b-corporation",
+    "github": "a4b-corporation"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a4b-corporation/xTalent",
+    "skill_md": "https://raw.githubusercontent.com/a4b-corporation/xTalent/main/docs/00-global/note/ontology-builder-pipeline/skills/phase-4-generate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:42.000Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a4b-corporation%2FxTalent/docs%2F00-global%2Fnote%2Fontology-builder-pipeline%2Fskills%2Fphase-4-generate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_f93abac4a60f"
+  }
+}

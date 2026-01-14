@@ -1,0 +1,35 @@
+{
+  "id": "funding-arbitrage",
+  "name": "funding-arbitrage",
+  "version": "1.0.0",
+  "summary": "Delta-neutral funding rate arbitrage for 25-50% APY. Long spot + short perp to capture funding without directional risk. Automated collection every 8 hours.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LEDGERGHOST90",
+    "github": "LEDGERGHOST90"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LEDGERGHOST90/SOVEREIGN_SHADOW_3",
+    "skill_md": "https://raw.githubusercontent.com/LEDGERGHOST90/SOVEREIGN_SHADOW_3/main/.claude/skills/funding-arbitrage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T20:07:26.000Z",
+  "created_at": "2025-12-23T01:29:25.984Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LEDGERGHOST90%2FSOVEREIGN_SHADOW_3/.claude%2Fskills%2Ffunding-arbitrage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_0dbdaec1590e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "remotion-tutorial-generator",
+  "name": "remotion-tutorial-generator",
+  "version": "1.0.0",
+  "summary": "Generate professional tutorial and introduction videos for projects using Remotion. Analyzes project workflows, creates structured video compositions with chapters, transitions,...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pezware",
+    "github": "pezware"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pezware/mirubato",
+    "skill_md": "https://raw.githubusercontent.com/pezware/mirubato/main/.claude/skills/remotion-tutorial-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:31.590Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pezware%2Fmirubato/.claude%2Fskills%2Fremotion-tutorial-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_425b605a1483"
+  }
+}

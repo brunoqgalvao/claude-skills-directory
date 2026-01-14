@@ -1,0 +1,35 @@
+{
+  "id": "semo-help",
+  "name": "semo-help",
+  "version": "1.0.0",
+  "summary": "SEMO 도움말 및 Semicolon 팀 컨텍스트 응답 (공통 Skill). Use when (1) /SEMO:help 커맨드,\n(2) \"도움말\", \"SEMO란\", \"어떻게 해\" 키워드, (3) SEMO 사용법 질문.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/core/skills/semo-help/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T08:23:08.000Z",
+  "created_at": "2025-12-22T17:53:30.941Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fcore%2Fskills%2Fsemo-help%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_2c2063b33359"
+  }
+}

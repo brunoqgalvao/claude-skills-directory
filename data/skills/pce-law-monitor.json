@@ -1,0 +1,36 @@
+{
+  "id": "pce-law-monitor",
+  "name": "pce-law-monitor",
+  "version": "1.0.0",
+  "summary": "PCE（Process-Context Engine）とLDE（Law-Driven Engineering）を統合した実行時Law違反監視スキル。\n本番環境でのLaw違反を検知し、pce-memoryにフィードバックして継続的改善を促す。\n使用タイミング: (1) 本番ログからLaw違反を分析する時、(2) 「Law違反を確認して」、\n(3) 運用中...",
+  "verticals": [
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/pce-law-monitor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.530Z",
+  "created_at": "2025-12-23T01:29:00.905Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Fpce-law-monitor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_38a332670656"
+  }
+}

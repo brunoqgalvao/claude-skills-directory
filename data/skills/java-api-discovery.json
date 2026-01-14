@@ -1,0 +1,35 @@
+{
+  "id": "java-api-discovery",
+  "name": "java-api-discovery",
+  "version": "1.0.0",
+  "summary": "Discover Java API signatures from compiled JARs using javap instead of guessing or relying on incomplete documentation. Use when encountering unknown methods, pagination pattern...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tstapler",
+    "github": "tstapler"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tstapler/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/tstapler/dotfiles/main/.claude/skills/java-api-discovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T20:43:41.000Z",
+  "created_at": "2025-12-23T01:28:47.514Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tstapler%2Fdotfiles/.claude%2Fskills%2Fjava-api-discovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.553Z",
+    "uniqueId": "sk_529721cf264f"
+  }
+}

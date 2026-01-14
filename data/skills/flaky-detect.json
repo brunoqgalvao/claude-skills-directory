@@ -1,0 +1,35 @@
+{
+  "id": "flaky-detect",
+  "name": "flaky-detect",
+  "version": "1.0.0",
+  "summary": "Identify flaky tests from CI history and test execution patterns. Use when debugging intermittent test failures, auditing test reliability, or improving CI stability.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/.factory/skills/flaky-detect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.506Z",
+  "created_at": "2025-12-23T01:29:20.686Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/.factory%2Fskills%2Fflaky-detect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_f214195321a1"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "context-optimization",
+  "name": "context-optimization",
+  "version": "1.0.0",
+  "summary": "Reduce context usage with MECW principles (keep under 50% of total window).\n\nTriggers: context pressure, token usage, MECW, context window, optimization,\ndecomposition, workflow...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/conservation/skills/context-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.560Z",
+  "created_at": "2025-12-23T01:28:41.408Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fconservation%2Fskills%2Fcontext-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_d1a5a008e8d2"
+  }
+}

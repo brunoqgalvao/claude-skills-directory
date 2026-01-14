@@ -1,0 +1,35 @@
+{
+  "id": "pod-listing-seo",
+  "name": "pod-listing-seo",
+  "version": "1.0.0",
+  "summary": "Generate SEO-compliant Etsy listing copy with deterministic validation of title, tags, description, and brand voice integration.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thebird-create",
+    "github": "thebird-create"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thebird-create/MOM",
+    "skill_md": "https://raw.githubusercontent.com/thebird-create/MOM/main/.claude/skills/pod-listing-seo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T15:25:23.000Z",
+  "created_at": "2025-12-22T15:12:23.067Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thebird-create%2FMOM/.claude%2Fskills%2Fpod-listing-seo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_f870a25e1410"
+  }
+}

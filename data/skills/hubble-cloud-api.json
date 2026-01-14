@@ -1,0 +1,36 @@
+{
+  "id": "hubble-cloud-api",
+  "name": "hubble-cloud-api",
+  "version": "1.0.0",
+  "summary": "Integrate with Hubble Network Platform API for device management, packet retrieval with streaming, webhook configuration, metrics tracking, user management, and billing. Use whe...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HubbleNetwork",
+    "github": "HubbleNetwork"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HubbleNetwork/agent-plugins",
+    "skill_md": "https://raw.githubusercontent.com/HubbleNetwork/agent-plugins/main/hubble-cloud-api-skill/skills/hubble-cloud-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.613Z",
+  "created_at": "2025-12-22T23:20:52.126Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HubbleNetwork%2Fagent-plugins/hubble-cloud-api-skill%2Fskills%2Fhubble-cloud-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.613Z",
+    "uniqueId": "sk_ef9fdc06c015"
+  }
+}

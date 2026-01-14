@@ -1,0 +1,36 @@
+{
+  "id": "worldcat-api",
+  "name": "worldcat-api",
+  "version": "1.0.0",
+  "summary": "Use OCLC WorldCat APIs to search for books and scholarly materials, retrieve bibliographic metadata, check library holdings worldwide, and get classification data. Use when work...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "szweibel",
+    "github": "szweibel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/szweibel/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/szweibel/claude-skills/main/worldcat-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:13:18.312Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/szweibel%2Fclaude-skills/worldcat-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_92294a1e550d"
+  }
+}

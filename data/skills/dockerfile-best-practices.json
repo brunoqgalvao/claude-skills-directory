@@ -1,0 +1,35 @@
+{
+  "id": "dockerfile-best-practices",
+  "name": "dockerfile-best-practices",
+  "version": "1.0.0",
+  "summary": "Dockerfile作成・修正時のベストプラクティス。DockerfileまたはDocker Compose検出時に使用してください。マルチステージビルド、キャッシュ最適化、セキュリティ強化、イメージサイズ最小化を支援。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sumik5",
+    "github": "sumik5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sumik5/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sumik5/dotfiles/main/claude-code/skills/dockerfile-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:44.319Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sumik5%2Fdotfiles/claude-code%2Fskills%2Fdockerfile-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_978145c78aa3"
+  }
+}

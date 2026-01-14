@@ -1,0 +1,35 @@
+{
+  "id": "hammerspoon",
+  "name": "hammerspoon",
+  "version": "1.0.0",
+  "summary": "This skill should be used when automating macOS with Hammerspoon, configuring window management hotkeys, working with Spoons (plugins), writing Lua configuration in init.lua, or...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "plinde",
+    "github": "plinde"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/plinde/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/plinde/claude-plugins/main/hammerspoon/skills/hammerspoon/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:56:39.673Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/plinde%2Fclaude-plugins/hammerspoon%2Fskills%2Fhammerspoon%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_28cc5f15ce98"
+  }
+}

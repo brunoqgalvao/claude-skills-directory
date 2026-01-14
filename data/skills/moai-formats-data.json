@@ -1,0 +1,35 @@
+{
+  "id": "moai-formats-data",
+  "name": "moai-formats-data",
+  "version": "1.0.0",
+  "summary": "Data format specialist covering TOON encoding, JSON/YAML optimization, serialization patterns, and data validation for modern applications",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "modu-ai",
+    "github": "modu-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/modu-ai/moai-adk",
+    "skill_md": "https://raw.githubusercontent.com/modu-ai/moai-adk/main/src/moai_adk/templates/.claude/skills/moai-formats-data/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.484Z",
+  "created_at": "2025-12-23T01:29:39.595Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/modu-ai%2Fmoai-adk/src%2Fmoai_adk%2Ftemplates%2F.claude%2Fskills%2Fmoai-formats-data%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.484Z",
+    "uniqueId": "sk_5673f27b0dfa"
+  }
+}

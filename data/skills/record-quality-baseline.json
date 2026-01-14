@@ -1,0 +1,36 @@
+{
+  "id": "record-quality-baseline",
+  "name": "record-quality-baseline",
+  "version": "1.0.0",
+  "summary": "Record quality metrics baseline before refactoring or major changes, capturing audit scores, test coverage, and complexity for comparison",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BerryKuipers",
+    "github": "BerryKuipers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BerryKuipers/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/BerryKuipers/claude-code-toolkit/main/.claude/skills/quality/record-quality-baseline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:56:53.751Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BerryKuipers%2Fclaude-code-toolkit/.claude%2Fskills%2Fquality%2Frecord-quality-baseline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_9a16772397f0"
+  }
+}

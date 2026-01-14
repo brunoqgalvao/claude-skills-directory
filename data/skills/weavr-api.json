@@ -1,0 +1,35 @@
+{
+  "id": "weavr-api",
+  "name": "weavr-api",
+  "version": "1.0.0",
+  "summary": "Use when making Weavr API calls for corporates, consumers, cards, accounts, transfers, or KYC/KYB",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/weavr-data-generator",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/weavr-data-generator/main/.claude/skills/weavr-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T10:53:50.000Z",
+  "created_at": "2025-12-22T14:57:42.587Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fweavr-data-generator/.claude%2Fskills%2Fweavr-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_d68330a828fd"
+  }
+}

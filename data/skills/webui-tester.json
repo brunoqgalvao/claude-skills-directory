@@ -1,0 +1,36 @@
+{
+  "id": "webui-tester",
+  "name": "webui-tester",
+  "version": "1.0.0",
+  "summary": "Test, debug, and modify Majsoul WebUI (Laya engine) within the Naki app. Use when the user asks to adjust \"the screen\" or \"UI\" - clarify whether they mean Naki's SwiftUI app or ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sunalamye",
+    "github": "Sunalamye"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sunalamye/Naki",
+    "skill_md": "https://raw.githubusercontent.com/Sunalamye/Naki/main/skills-naki/skills/webui-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.699Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sunalamye%2FNaki/skills-naki%2Fskills%2Fwebui-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_c30c58e28e62"
+  }
+}

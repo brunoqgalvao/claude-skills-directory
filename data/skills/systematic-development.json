@@ -1,0 +1,37 @@
+{
+  "id": "systematic-development",
+  "name": "systematic-development",
+  "version": "1.0.0",
+  "summary": "Use Sherpa's systematic development workflow for general coding tasks. Activates when starting development work, adding features, or implementing functionality. Ensures guide ch...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anortham",
+    "github": "anortham"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anortham/sherpa",
+    "skill_md": "https://raw.githubusercontent.com/anortham/sherpa/main/skills/systematic-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:25.343Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anortham%2Fsherpa/skills%2Fsystematic-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_126d08e85aa1"
+  }
+}

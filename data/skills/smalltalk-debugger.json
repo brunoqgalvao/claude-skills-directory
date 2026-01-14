@@ -1,0 +1,36 @@
+{
+  "id": "smalltalk-debugger",
+  "name": "smalltalk-debugger",
+  "version": "1.0.0",
+  "summary": "Use this skill when user says \"with smalltalk-debugger\", \"test failed\", \"debug this error\", \"MessageNotUnderstood\", \"MNU\", \"why is this failing?\", \"run partial code\", \"not respo...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mumez",
+    "github": "mumez"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mumez/smalltalk-dev-plugin",
+    "skill_md": "https://raw.githubusercontent.com/mumez/smalltalk-dev-plugin/main/skills/smalltalk-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T14:30:59.000Z",
+  "created_at": "2025-12-22T20:07:37.981Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mumez%2Fsmalltalk-dev-plugin/skills%2Fsmalltalk-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_9732e314cdf6"
+  }
+}

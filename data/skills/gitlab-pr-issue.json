@@ -1,0 +1,35 @@
+{
+  "id": "gitlab-pr-issue",
+  "name": "gitlab-pr-issue",
+  "version": "1.0.0",
+  "summary": "查看/更新 GitLab Issue、MR（含评论与 diff），并按团队规范非交互创建或修改 MR/Issue；涉及 GitLab（含自建实例）Issue/MR 的操作时使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DCjanus",
+    "github": "DCjanus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DCjanus/prompts",
+    "skill_md": "https://raw.githubusercontent.com/DCjanus/prompts/main/skills/gitlab-pr-issue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T11:55:25.000Z",
+  "created_at": "2025-12-22T16:56:41.384Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DCjanus%2Fprompts/skills%2Fgitlab-pr-issue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_9bc1c5b7f682"
+  }
+}

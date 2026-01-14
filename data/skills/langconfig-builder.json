@@ -1,0 +1,37 @@
+{
+  "id": "langconfig-builder",
+  "name": "langconfig-builder",
+  "version": "1.0.0",
+  "summary": "Complete guide for building agents and workflows in LangConfig. Use when users need help configuring nodes, connecting agents, setting up tools, or designing multi-agent systems...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LangConfig",
+    "github": "LangConfig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LangConfig/langconfig",
+    "skill_md": "https://raw.githubusercontent.com/LangConfig/langconfig/main/backend/skills/builtin/langconfig-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T17:27:47.000Z",
+  "created_at": "2025-12-23T01:29:29.327Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LangConfig%2Flangconfig/backend%2Fskills%2Fbuiltin%2Flangconfig-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_e58f712dc68d"
+  }
+}

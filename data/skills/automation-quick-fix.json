@@ -1,0 +1,37 @@
+{
+  "id": "automation-quick-fix",
+  "name": "automation-quick-fix",
+  "version": "1.0.0",
+  "summary": "Fast automation platform error resolver for Power Automate, n8n, Make, Zapier and other platforms. Handles common patterns like 401/403 auth errors, 429 throttling, and data for...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MacroMan5",
+    "github": "MacroMan5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MacroMan5/AutomationHelper_plugins",
+    "skill_md": "https://raw.githubusercontent.com/MacroMan5/AutomationHelper_plugins/main/.claude/skills/automation-quick-fix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:38.650Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MacroMan5%2FAutomationHelper_plugins/.claude%2Fskills%2Fautomation-quick-fix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_42ae445fab82"
+  }
+}

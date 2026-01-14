@@ -1,0 +1,35 @@
+{
+  "id": "track-generation",
+  "name": "track-generation",
+  "version": "1.0.0",
+  "summary": "This skill generates normalized BigWig (.bw) tracks (and/or fold-change tracks) from BAM files for ATAC-seq and ChIP-seq visualization. It handles normalization (RPM or fold-cha...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BIsnake2001",
+    "github": "BIsnake2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BIsnake2001/ChromSkills",
+    "skill_md": "https://raw.githubusercontent.com/BIsnake2001/ChromSkills/main/6.track-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T12:05:14.000Z",
+  "created_at": "2025-12-23T01:28:39.945Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BIsnake2001%2FChromSkills/6.track-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_2c0b75d6cf6c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tsx-modular-component-pattern",
+  "name": "tsx-modular-component-pattern",
+  "version": "1.0.0",
+  "summary": "Guide for outputting React/TSX components by prioritizing reusable sub-components, controlling length, and declaring them as const before the main component to ensure clear stru...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TrueNine",
+    "github": "TrueNine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TrueNine/claude-code-projects",
+    "skill_md": "https://raw.githubusercontent.com/TrueNine/claude-code-projects/main/.factory/skills/tsx/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T06:54:40.000Z",
+  "created_at": "2025-12-23T01:28:33.080Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TrueNine%2Fclaude-code-projects/.factory%2Fskills%2Ftsx%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_3fd9c976f354"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "rust-observability",
+  "name": "rust-observability",
+  "version": "1.0.0",
+  "summary": "Production observability with tracing, OpenTelemetry, and Prometheus metrics including structured logging, instrumented functions, distributed tracing, health checks, and reques...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matthewharwood",
+    "github": "matthewharwood"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matthewharwood/engmanager.xyz",
+    "skill_md": "https://raw.githubusercontent.com/matthewharwood/engmanager.xyz/main/.claude/skills/rust-observability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:56:54.744Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matthewharwood%2Fengmanager.xyz/.claude%2Fskills%2Frust-observability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_1456d25642e3"
+  }
+}

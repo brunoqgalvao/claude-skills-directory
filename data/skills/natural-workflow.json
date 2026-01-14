@@ -1,0 +1,37 @@
+{
+  "id": "natural-workflow",
+  "name": "natural-workflow",
+  "version": "1.0.0",
+  "summary": "Guide users through CCPM's streamlined 6-command workflow (plan/work/sync/commit/verify/done). Auto-activates when users ask about starting tasks, committing changes, or complet...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "duongdev",
+    "github": "duongdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/duongdev/ccpm",
+    "skill_md": "https://raw.githubusercontent.com/duongdev/ccpm/main/skills/natural-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:21.933Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/duongdev%2Fccpm/skills%2Fnatural-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_d9c68da0d25c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "espocrm-development",
+  "name": "espocrm-development",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for developing on EspoCRM - metadata-driven CRM with service layer architecture",
+  "verticals": [
+    "engineering",
+    "sales",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-php-frameworks-espocrm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:35.579Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-php-frameworks-espocrm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_e2357114ded2"
+  }
+}

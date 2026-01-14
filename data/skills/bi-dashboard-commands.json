@@ -1,0 +1,37 @@
+{
+  "id": "bi-dashboard-commands",
+  "name": "bi-dashboard-commands",
+  "version": "1.0.0",
+  "summary": "Provides quick reference for BI Dashboard (Plotly Dash) commands and operations. Activates when user asks how to run, test, or verify the BI Dashboard. Includes startup, shutdow...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trust-chain-organization",
+    "github": "trust-chain-organization"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trust-chain-organization/sagebase",
+    "skill_md": "https://raw.githubusercontent.com/trust-chain-organization/sagebase/main/.claude/skills/bi-dashboard-commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.160Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trust-chain-organization%2Fsagebase/.claude%2Fskills%2Fbi-dashboard-commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_271c4e487450"
+  }
+}

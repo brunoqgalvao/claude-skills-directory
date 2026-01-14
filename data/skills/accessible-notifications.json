@@ -1,0 +1,36 @@
+{
+  "id": "accessible-notifications",
+  "name": "accessible-notifications",
+  "version": "1.0.0",
+  "summary": "Guidance for accessible user notifications and feedback. AUTO-TRIGGER when implementing: toasts, snackbars, notifications, alerts, flash messages, status messages, success/error...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexanderop",
+    "github": "alexanderop"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexanderop/workoutTracker",
+    "skill_md": "https://raw.githubusercontent.com/alexanderop/workoutTracker/main/.claude/skills/accessible-notifications/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:41.831Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexanderop%2FworkoutTracker/.claude%2Fskills%2Faccessible-notifications%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_4d13867c92fd"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "naming",
+  "name": "naming",
+  "version": "1.0.0",
+  "summary": "命名规范 / Naming conventions。在创建类、函数、变量，或重命名、检查命名时使用。核心原则：简洁优先，上下文消歧义，类型提示已提供足够信息。Use when naming classes/functions/variables, renaming code, or reviewing names. Prioritizes brevit...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MMorit00",
+    "github": "MMorit00"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MMorit00/fund-portfolio-bot",
+    "skill_md": "https://raw.githubusercontent.com/MMorit00/fund-portfolio-bot/main/.claude/skills/naming/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:20.674Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MMorit00%2Ffund-portfolio-bot/.claude%2Fskills%2Fnaming%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_9553ac1c2256"
+  }
+}

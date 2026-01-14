@@ -1,0 +1,35 @@
+{
+  "id": "requirements-analyst",
+  "name": "requirements-analyst",
+  "version": "1.0.0",
+  "summary": "요구사항 분해 전문가. 추상적 요구사항을 구체적 비즈니스 규칙으로 변환.\n질문을 통해 디테일 확보. 비즈니스 규칙 문서화. 예외 상황 식별.\n/plan 명령 시 자동 활성화. Serena Memory에 결과 저장.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryu-qqq",
+    "github": "ryu-qqq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryu-qqq/setof-commerce",
+    "skill_md": "https://raw.githubusercontent.com/ryu-qqq/setof-commerce/main/.claude/skills/requirements-analyst/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:19.079Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryu-qqq%2Fsetof-commerce/.claude%2Fskills%2Frequirements-analyst%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_21bd0cd76a35"
+  }
+}

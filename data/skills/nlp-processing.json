@@ -1,0 +1,35 @@
+{
+  "id": "nlp-processing",
+  "name": "nlp-processing",
+  "version": "1.0.0",
+  "summary": "Text processing, sentiment analysis, LLMs, and NLP frameworks. Use for text classification, named entity recognition, or language models.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-ai-data-scientist",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-ai-data-scientist/main/skills/nlp-processing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:13:07.274Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-ai-data-scientist/skills%2Fnlp-processing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_ae318cfb1f37"
+  }
+}

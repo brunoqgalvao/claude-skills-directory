@@ -1,0 +1,37 @@
+{
+  "id": "browser-devtools",
+  "name": "browser-devtools",
+  "version": "1.0.0",
+  "summary": "Browser debugging and automation using Playwright. Use for web debugging, console monitoring, network analysis, screenshot capture, DOM inspection, and UI testing during develop...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vukhanhtruong",
+    "github": "vukhanhtruong"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vukhanhtruong/claude-rock",
+    "skill_md": "https://raw.githubusercontent.com/vukhanhtruong/claude-rock/main/plugins/browser-devtools/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T11:20:41.000Z",
+  "created_at": "2025-12-23T01:29:00.874Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vukhanhtruong%2Fclaude-rock/plugins%2Fbrowser-devtools%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_6df7d0124112"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "vector-search-alternatives",
+  "name": "vector-search-alternatives",
+  "version": "1.0.0",
+  "summary": "SQLiteベースプロジェクト向けのベクトル検索実装の代替戦略スキル。\npgvectorの代わりに、外部ベクトルDB、SQLite VSS拡張、\nアプリケーションレベル検索など複数のアプローチを提供します。\n\n⚠️ 注意: このスキルは元々PostgreSQL pgvector向けでしたが、\nSQLiteベースプロジェクト向けに再構成されています。\n\n...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/vector-search-alternatives/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:39.153Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fvector-search-alternatives%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_4c5ad7dacf40"
+  }
+}

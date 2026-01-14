@@ -1,0 +1,35 @@
+{
+  "id": "test-parser-jdk",
+  "name": "test-parser-jdk",
+  "version": "1.0.0",
+  "summary": "Test the Java parser by parsing JDK source files and fixing parse errors. Use when asked to find/fix parse errors, test the parser, or improve JDK compatibility.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dhamidi",
+    "github": "dhamidi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dhamidi/sai",
+    "skill_md": "https://raw.githubusercontent.com/dhamidi/sai/main/.claude/skills/test-parser-jdk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T12:50:08.000Z",
+  "created_at": "2025-12-22T15:11:47.041Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dhamidi%2Fsai/.claude%2Fskills%2Ftest-parser-jdk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_8c54d06d7bbc"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dbt-projects-snowflake-setup",
+  "name": "dbt-projects-snowflake-setup",
+  "version": "1.0.0",
+  "summary": "Step-by-step setup guide for dbt Projects on Snowflake including prerequisites, external access integration, Git API integration, event table configuration, and automated schedu...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sfc-gh-dflippo",
+    "github": "sfc-gh-dflippo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sfc-gh-dflippo/snowflake-dbt-demo",
+    "skill_md": "https://raw.githubusercontent.com/sfc-gh-dflippo/snowflake-dbt-demo/main/.claude/skills/dbt-projects-snowflake-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:41.056Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sfc-gh-dflippo%2Fsnowflake-dbt-demo/.claude%2Fskills%2Fdbt-projects-snowflake-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_9bd51562881f"
+  }
+}

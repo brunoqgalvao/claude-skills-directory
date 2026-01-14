@@ -1,0 +1,37 @@
+{
+  "id": "calculating-crypto-taxes",
+  "name": "calculating-crypto-taxes",
+  "version": "1.0.0",
+  "summary": "Calculate cryptocurrency tax obligations with cost basis tracking and jurisdiction rules.\nUse when calculating crypto tax obligations.\nTrigger with phrases like \"calculate crypt...",
+  "verticals": [
+    "finance",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/crypto-tax-calculator/skills/crypto-tax-calculator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:38.781Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Fcrypto%2Fcrypto-tax-calculator%2Fskills%2Fcrypto-tax-calculator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_d7554dfa9f4a"
+  }
+}

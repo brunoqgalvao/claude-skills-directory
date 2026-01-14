@@ -1,0 +1,36 @@
+{
+  "id": "twilio-testing",
+  "name": "twilio-testing",
+  "version": "1.0.0",
+  "summary": "Test and validate Twilio Voice API integration with ElevenLabs ConversationRelay for outbound calling. Use when setting up Twilio integration, testing outbound calls, validating...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onesmartguy",
+    "github": "onesmartguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onesmartguy/next-level-real-estate",
+    "skill_md": "https://raw.githubusercontent.com/onesmartguy/next-level-real-estate/main/.claude/skills/twilio-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:09:18.462Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onesmartguy%2Fnext-level-real-estate/.claude%2Fskills%2Ftwilio-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_61f2aa9bfae7"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "obsidian-worklog",
+  "name": "obsidian-worklog",
+  "version": "1.0.0",
+  "summary": "Ensures project worklogs and documentation are written to an Obsidian vault with proper naming conventions",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "clempat",
+    "github": "clempat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/clempat/nix-config",
+    "skill_md": "https://raw.githubusercontent.com/clempat/nix-config/main/home/common/shell/claude/skills/obsidian-worklog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:20.956Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/clempat%2Fnix-config/home%2Fcommon%2Fshell%2Fclaude%2Fskills%2Fobsidian-worklog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_e94c804323f7"
+  }
+}

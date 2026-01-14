@@ -1,0 +1,35 @@
+{
+  "id": "model-quantization",
+  "name": "model-quantization",
+  "version": "1.0.0",
+  "summary": "Expert skill for AI model quantization and optimization. Covers 4-bit/8-bit quantization, GGUF conversion, memory optimization, and quality-performance tradeoffs for deploying L...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martinholovsky",
+    "github": "martinholovsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martinholovsky/claude-skills-generator",
+    "skill_md": "https://raw.githubusercontent.com/martinholovsky/claude-skills-generator/main/skills/model-quantization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.649Z",
+  "created_at": "2025-12-22T23:03:23.958Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martinholovsky%2Fclaude-skills-generator/skills%2Fmodel-quantization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.649Z",
+    "uniqueId": "sk_1502d8386ed5"
+  }
+}

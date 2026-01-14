@@ -1,0 +1,35 @@
+{
+  "id": "doc-validate-markdown",
+  "name": "doc-validate-markdown",
+  "version": "1.0.0",
+  "summary": "Validate markdown files for formatting, links, and style compliance using markdownlint. Use before committing documentation changes.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/doc-validate-markdown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T21:58:57.000Z",
+  "created_at": "2025-12-22T15:12:35.787Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Fdoc-validate-markdown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_5f8113119c76"
+  }
+}

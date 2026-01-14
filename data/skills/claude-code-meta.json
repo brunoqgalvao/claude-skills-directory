@@ -1,0 +1,36 @@
+{
+  "id": "claude-code-meta",
+  "name": "claude-code-meta",
+  "version": "1.0.0",
+  "summary": "Build Claude Code extensions - skills, agents, hooks, plugins, marketplaces, slash commands. Use when creating Claude Code components, building new skills, writing agents, creat...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "artimath",
+    "github": "artimath"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/artimath/surf-market",
+    "skill_md": "https://raw.githubusercontent.com/artimath/surf-market/main/plugins/claude-code-meta/skills/claude-code-meta/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.554Z",
+  "created_at": "2025-12-23T01:28:46.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/artimath%2Fsurf-market/plugins%2Fclaude-code-meta%2Fskills%2Fclaude-code-meta%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_abffdd0843f4"
+  }
+}

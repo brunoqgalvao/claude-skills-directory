@@ -1,0 +1,36 @@
+{
+  "id": "monet",
+  "name": "monet",
+  "version": "1.0.0",
+  "summary": "Landing page component registry integration for searching, browsing, and pulling pre-built React/TypeScript components from the monet MCP server. Use this skill when users want ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greatSumini",
+    "github": "greatSumini"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greatSumini/monet-nextjs-template",
+    "skill_md": "https://raw.githubusercontent.com/greatSumini/monet-nextjs-template/main/.claude/skills/monet/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:06:59.521Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greatSumini%2Fmonet-nextjs-template/.claude%2Fskills%2Fmonet%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_8c04fb2e2117"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tdd-tidy",
+  "name": "tdd-tidy",
+  "version": "1.0.0",
+  "summary": "Execute Kent Beck's Tidy First approach by making structural changes to code without changing behavior. Prepares code for easier behavioral changes by improving structure first.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SwiftyJunnos",
+    "github": "SwiftyJunnos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SwiftyJunnos/Claude-Code-with-TDD",
+    "skill_md": "https://raw.githubusercontent.com/SwiftyJunnos/Claude-Code-with-TDD/main/.claude/skills/tdd-tidy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T05:50:43.000Z",
+  "created_at": "2025-12-23T01:28:53.829Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SwiftyJunnos%2FClaude-Code-with-TDD/.claude%2Fskills%2Ftdd-tidy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_5ae75c0ba50a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "deslop",
+  "name": "deslop",
+  "version": "1.0.0",
+  "summary": "Remove AI-generated code slop from files or diffs. Use this skill when reviewing AI-generated code to clean up unnecessary comments, defensive code, type hacks, and style incons...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "inspirepan",
+    "github": "inspirepan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/inspirepan/klaude-code",
+    "skill_md": "https://raw.githubusercontent.com/inspirepan/klaude-code/main/src/klaude_code/skill/assets/deslop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.577Z",
+  "created_at": "2025-12-23T01:28:24.278Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/inspirepan%2Fklaude-code/src%2Fklaude_code%2Fskill%2Fassets%2Fdeslop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.577Z",
+    "uniqueId": "sk_8a6ced1f63dd"
+  }
+}

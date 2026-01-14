@@ -1,0 +1,36 @@
+{
+  "id": "fullstory-data-scoping-decoration",
+  "name": "fullstory-data-scoping-decoration",
+  "version": "1.0.0",
+  "summary": "Strategic meta-skill for Fullstory data semantic decoration. Teaches when to use page properties vs element properties vs user properties vs events. Provides a deterministic fra...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fullstorydev",
+    "github": "fullstorydev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fullstorydev/fs-skills",
+    "skill_md": "https://raw.githubusercontent.com/fullstorydev/fs-skills/main/meta/universal-data-scoping-and-decoration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.617Z",
+  "created_at": "2025-12-22T23:20:22.888Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fullstorydev%2Ffs-skills/meta%2Funiversal-data-scoping-and-decoration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.617Z",
+    "uniqueId": "sk_138683e89bed"
+  }
+}

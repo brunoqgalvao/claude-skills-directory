@@ -1,0 +1,35 @@
+{
+  "id": "ai-cache-patterns",
+  "name": "ai-cache-patterns",
+  "version": "1.0.0",
+  "summary": "Embedding/vector caching for AI cost optimization",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/redis/skills/ai-cache-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T03:28:50.000Z",
+  "created_at": "2025-12-23T01:28:23.675Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fredis%2Fskills%2Fai-cache-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.577Z",
+    "uniqueId": "sk_a57463c0b0e7"
+  }
+}

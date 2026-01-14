@@ -1,0 +1,37 @@
+{
+  "id": "security-guidance",
+  "name": "security-guidance",
+  "version": "1.0.0",
+  "summary": "Comprehensive security best practices, vulnerability scanning, and security guidance for development workflows with automated security checks and compliance monitoring.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "v1truv1us",
+    "github": "v1truv1us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/v1truv1us/anthropic-plugin-converter",
+    "skill_md": "https://raw.githubusercontent.com/v1truv1us/anthropic-plugin-converter/main/anthropic-plugins/security-guidance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:40.787Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/v1truv1us%2Fanthropic-plugin-converter/anthropic-plugins%2Fsecurity-guidance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_a6a7eed184c0"
+  }
+}

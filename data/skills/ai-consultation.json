@@ -1,0 +1,36 @@
+{
+  "id": "ai-consultation",
+  "name": "ai-consultation",
+  "version": "1.0.0",
+  "summary": "Provides AI consultation workflows, prompt templates, and best practices for multi-model consultation. Use when user asks for \"second opinion\", \"ask codex\", \"ask gemini\", \"AI co...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeffrigby",
+    "github": "jeffrigby"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeffrigby/somepulp-agents",
+    "skill_md": "https://raw.githubusercontent.com/jeffrigby/somepulp-agents/main/plugins/second-opinion/skills/ai-consultation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:28:21.905Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeffrigby%2Fsomepulp-agents/plugins%2Fsecond-opinion%2Fskills%2Fai-consultation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_6249c0ae865f"
+  }
+}

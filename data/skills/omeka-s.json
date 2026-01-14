@@ -1,0 +1,36 @@
+{
+  "id": "omeka-s",
+  "name": "omeka-s",
+  "version": "1.0.0",
+  "summary": "Expert Omeka S developer assistant for Docker-based installations. Covers theme development (SCSS/CSS, templates), module creation (PHP, events, database), configuration managem...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "szweibel",
+    "github": "szweibel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/szweibel/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/szweibel/claude-skills/main/omeka-s/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.475Z",
+  "created_at": "2025-12-23T01:29:53.902Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/szweibel%2Fclaude-skills/omeka-s%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.475Z",
+    "uniqueId": "sk_993f2fc823e4"
+  }
+}

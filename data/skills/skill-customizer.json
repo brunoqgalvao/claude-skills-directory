@@ -1,0 +1,37 @@
+{
+  "id": "skill-customizer",
+  "name": "skill-customizer",
+  "version": "1.0.0",
+  "summary": "Customize existing skills through iterative improvement based on user feedback and preferences. Use when users want to personalize a skill to match their specific workflow, outp...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nemori-ai",
+    "github": "nemori-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nemori-ai/skills",
+    "skill_md": "https://raw.githubusercontent.com/nemori-ai/skills/main/skill-customizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:32.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nemori-ai%2Fskills/skill-customizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_15a4c76d3fbc"
+  }
+}

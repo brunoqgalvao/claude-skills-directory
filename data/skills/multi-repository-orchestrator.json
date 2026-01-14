@@ -1,0 +1,37 @@
+{
+  "id": "multi-repository-orchestrator",
+  "name": "multi-repository-orchestrator",
+  "version": "1.0.0",
+  "summary": "Coordinate development workflows across multiple Git repositories with synchronized branching, batch commits, cross-repo operations, and monorepo-like workflows for microservice...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/multi-repository-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T06:26:38.000Z",
+  "created_at": "2025-12-23T01:29:44.194Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fmulti-repository-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_455cdea4f77e"
+  }
+}

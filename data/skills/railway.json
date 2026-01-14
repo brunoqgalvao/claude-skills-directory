@@ -1,0 +1,37 @@
+{
+  "id": "railway",
+  "name": "railway",
+  "version": "1.0.0",
+  "summary": "Use when user mentions Railway deployment, production environment issues, environment variables, database migrations, deployment failures, or Railway CLI commands - provides Rai...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/knights-and-crosses",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/knights-and-crosses/main/.claude/skills/railway/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.461Z",
+  "created_at": "2025-12-22T18:01:06.540Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fknights-and-crosses/.claude%2Fskills%2Frailway%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_e368814f8e4a"
+  }
+}

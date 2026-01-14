@@ -1,0 +1,35 @@
+{
+  "id": "code-fragment-extractor",
+  "name": "code-fragment-extractor",
+  "version": "1.0.0",
+  "summary": "仔细彻底阅读探索用户提供的代码目录/文件，分析拆解出对应的代码片段以供参考，颗粒度细到功能级别，只做片段提取不改变代码内容和页面布局结构，提取到./fragment-extractor目录下，按照指定模板格式生成代码片段模板文件，确保功能完整性和代码片段的实际性。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evanfang0054",
+    "github": "evanfang0054"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evanfang0054/cc-system-creator-scripts",
+    "skill_md": "https://raw.githubusercontent.com/evanfang0054/cc-system-creator-scripts/main/skills/code-fragment-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T06:52:21.000Z",
+  "created_at": "2025-12-22T16:55:03.831Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evanfang0054%2Fcc-system-creator-scripts/skills%2Fcode-fragment-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_6d83c456323c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "component-guidelines-docs",
+  "name": "component-guidelines-docs",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive component guideline documentation for SEED Design System. Use when creating or updating design guideline documentation in ./docs/content/docs/components d...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daangn",
+    "github": "daangn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daangn/seed-design",
+    "skill_md": "https://raw.githubusercontent.com/daangn/seed-design/main/.claude/skills/component-guidelines-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T09:27:05.000Z",
+  "created_at": "2025-12-23T01:29:39.672Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daangn%2Fseed-design/.claude%2Fskills%2Fcomponent-guidelines-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_efa3563b54c4"
+  }
+}

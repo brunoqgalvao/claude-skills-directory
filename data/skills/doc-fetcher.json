@@ -1,0 +1,35 @@
+{
+  "id": "doc-fetcher",
+  "name": "doc-fetcher",
+  "version": "1.0.0",
+  "summary": "Fetch library and framework documentation via context7-mcp and fetch-mcp for comprehensive documentation research with version-specific content.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matteocervelli",
+    "github": "matteocervelli"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matteocervelli/llms",
+    "skill_md": "https://raw.githubusercontent.com/matteocervelli/llms/main/.claude/skills/doc-fetcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T05:49:16.000Z",
+  "created_at": "2025-12-22T22:04:07.131Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matteocervelli%2Fllms/.claude%2Fskills%2Fdoc-fetcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_cc83b4e94c87"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tooling",
+  "name": "tooling",
+  "version": "1.0.0",
+  "summary": "Tooling React Native - Expo & EAS. Use when working with tooling.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TheBeardedBearSAS",
+    "github": "TheBeardedBearSAS"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TheBeardedBearSAS/claude-craft",
+    "skill_md": "https://raw.githubusercontent.com/TheBeardedBearSAS/claude-craft/main/Dev/i18n/fr/ReactNative/skills/tooling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T14:40:35.000Z",
+  "created_at": "2025-12-23T01:28:02.445Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TheBeardedBearSAS%2Fclaude-craft/Dev%2Fi18n%2Ffr%2FReactNative%2Fskills%2Ftooling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_b70ad7975860"
+  }
+}

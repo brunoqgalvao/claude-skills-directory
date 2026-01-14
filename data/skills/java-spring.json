@@ -1,0 +1,35 @@
+{
+  "id": "java-spring",
+  "name": "java-spring",
+  "version": "1.0.0",
+  "summary": "Java/Spring Boot conventions for Violet services",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "violetio",
+    "github": "violetio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/violetio/violet-ai-plugins",
+    "skill_md": "https://raw.githubusercontent.com/violetio/violet-ai-plugins/main/plugins/v-java-spring/skills/java-spring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T22:00:03.000Z",
+  "created_at": "2025-12-23T01:28:50.991Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/violetio%2Fviolet-ai-plugins/plugins%2Fv-java-spring%2Fskills%2Fjava-spring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_7107c543fc32"
+  }
+}

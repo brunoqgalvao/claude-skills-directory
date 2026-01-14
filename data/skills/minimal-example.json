@@ -1,0 +1,35 @@
+{
+  "id": "minimal-example",
+  "name": "minimal-example",
+  "version": "1.0.0",
+  "summary": "Example skill demonstrating required structure and best practices.\nUse this as a template for creating new skills.\nActivates when user mentions example, template, or minimal pat...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jbabin91",
+    "github": "jbabin91"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jbabin91/super-claude",
+    "skill_md": "https://raw.githubusercontent.com/jbabin91/super-claude/main/examples/minimal-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:50.539Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jbabin91%2Fsuper-claude/examples%2Fminimal-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_dd45fba89c69"
+  }
+}

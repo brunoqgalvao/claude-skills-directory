@@ -1,0 +1,35 @@
+{
+  "id": "code-change-approval",
+  "name": "code-change-approval",
+  "version": "1.0.0",
+  "summary": "Request approval before modifying files and verify changes are necessary",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm-wylbur",
+    "github": "vm-wylbur"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm-wylbur/pb-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/vm-wylbur/pb-dotfiles/main/ai/claude-code/skills/code-change-approval/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T22:53:44.000Z",
+  "created_at": "2025-12-22T20:05:42.784Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm-wylbur%2Fpb-dotfiles/ai%2Fclaude-code%2Fskills%2Fcode-change-approval%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_a3a302ef5ede"
+  }
+}

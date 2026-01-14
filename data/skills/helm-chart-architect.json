@@ -1,0 +1,37 @@
+{
+  "id": "helm-chart-architect",
+  "name": "helm-chart-architect",
+  "version": "1.0.0",
+  "summary": "Design production-grade Helm charts through architectural reasoning rather than pattern\nretrieval. Activate when designing new Helm charts for Kubernetes deployments, evaluating...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "panaversity",
+    "github": "panaversity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/panaversity/ai-native-software-development",
+    "skill_md": "https://raw.githubusercontent.com/panaversity/ai-native-software-development/main/.claude/skills/helm-chart-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.623Z",
+  "created_at": "2025-12-22T23:18:53.695Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/panaversity%2Fai-native-software-development/.claude%2Fskills%2Fhelm-chart-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.623Z",
+    "uniqueId": "sk_2539e2aeeec0"
+  }
+}

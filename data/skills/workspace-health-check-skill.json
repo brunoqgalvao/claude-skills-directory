@@ -1,0 +1,35 @@
+{
+  "id": "workspace-health-check-skill",
+  "name": "workspace-health-check-skill",
+  "version": "1.0.0",
+  "summary": "Assesses workspace alignment and suggests cleanup or realignment actions at key transition points. Use when relevant to the task.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/.factory/skills/workspace-health/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.542Z",
+  "created_at": "2025-12-23T01:28:55.734Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/.factory%2Fskills%2Fworkspace-health%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.542Z",
+    "uniqueId": "sk_5ba28f23802b"
+  }
+}

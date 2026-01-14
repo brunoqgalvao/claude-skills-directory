@@ -1,0 +1,37 @@
+{
+  "id": "jtbd-psychographic-research",
+  "name": "jtbd-psychographic-research",
+  "version": "1.0.0",
+  "summary": "Provides Jobs-to-be-Done and psychographic research frameworks for brand identity work. Auto-activates during brand positioning, voice development, messaging, and strategy phase...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mike-coulbourn",
+    "github": "mike-coulbourn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mike-coulbourn/claude-vibes",
+    "skill_md": "https://raw.githubusercontent.com/mike-coulbourn/claude-vibes/main/plugins/vibes/skills/jtbd-psychographic-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T16:11:21.000Z",
+  "created_at": "2025-12-22T17:53:09.889Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mike-coulbourn%2Fclaude-vibes/plugins%2Fvibes%2Fskills%2Fjtbd-psychographic-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_d59007409e6c"
+  }
+}

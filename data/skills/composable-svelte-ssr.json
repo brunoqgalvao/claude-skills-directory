@@ -1,0 +1,36 @@
+{
+  "id": "composable-svelte-ssr",
+  "name": "composable-svelte-ssr",
+  "version": "1.0.0",
+  "summary": "Server-side rendering patterns for Composable Svelte. Use when implementing SSR, hydration, server rendering, isomorphic code, or working with meta tags and SEO. Covers renderTo...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jonathanbelolo",
+    "github": "jonathanbelolo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jonathanbelolo/composable-svelte",
+    "skill_md": "https://raw.githubusercontent.com/jonathanbelolo/composable-svelte/main/.claude/skills/composable-svelte-ssr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:31.332Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jonathanbelolo%2Fcomposable-svelte/.claude%2Fskills%2Fcomposable-svelte-ssr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_43bc344e055d"
+  }
+}

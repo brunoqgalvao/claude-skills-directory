@@ -1,0 +1,37 @@
+{
+  "id": "ruby-testing",
+  "name": "ruby-testing",
+  "version": "1.0.0",
+  "summary": "Ruby/RSpec testing guidelines and workflow following project conventions. Use when writing or improving Ruby tests.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arowinski",
+    "github": "arowinski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arowinski/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/arowinski/dotfiles/main/claude/skills/ruby-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:46.772Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arowinski%2Fdotfiles/claude%2Fskills%2Fruby-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_671fa64e4bb2"
+  }
+}

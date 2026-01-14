@@ -1,0 +1,35 @@
+{
+  "id": "gather-learnings",
+  "name": "gather-learnings",
+  "version": "1.0.0",
+  "summary": "Use when creating PRDs or PRPs to populate the Gotchas/Prior Failures section. Reads learning files from memory/learnings and matches entries based on file paths, keywords, or t...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoley",
+    "github": "jpoley"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoley/flowspec",
+    "skill_md": "https://raw.githubusercontent.com/jpoley/flowspec/main/.claude/skills/gather-learnings/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:03:06.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoley%2Fflowspec/.claude%2Fskills%2Fgather-learnings%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_4d98ac9e088f"
+  }
+}

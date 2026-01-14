@@ -1,0 +1,35 @@
+{
+  "id": "write-background",
+  "name": "write-background",
+  "version": "1.0.0",
+  "summary": "Draft or update the background/introduction section based on literature in .research/literature/. Use when the user types /write_background, after completing literature review, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "braselog",
+    "github": "braselog"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/braselog/researchAssistant",
+    "skill_md": "https://raw.githubusercontent.com/braselog/researchAssistant/main/.ra/skills/write-background/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:04:18.930Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/braselog%2FresearchAssistant/.ra%2Fskills%2Fwrite-background%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_9be90c36db74"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "frontend-api-integration",
+  "name": "frontend-api-integration",
+  "version": "1.0.0",
+  "summary": "Guide for building robust API integration layers in React/TypeScript applications. Use when implementing HTTP clients (axios/fetch), request/response interceptors, authenticatio...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MUmerRazzaq",
+    "github": "MUmerRazzaq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MUmerRazzaq/fast-next-todo",
+    "skill_md": "https://raw.githubusercontent.com/MUmerRazzaq/fast-next-todo/main/.claude/skills/frontend-api-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:56.705Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MUmerRazzaq%2Ffast-next-todo/.claude%2Fskills%2Ffrontend-api-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_ca7540e3ebd5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "messages",
+  "name": "messages",
+  "version": "1.0.0",
+  "summary": "Instructions for adding new message types to the safe-output messages system",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "githubnext",
+    "github": "githubnext"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/githubnext/gh-aw",
+    "skill_md": "https://raw.githubusercontent.com/githubnext/gh-aw/main/skills/messages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:57.683Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/githubnext%2Fgh-aw/skills%2Fmessages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_19863a23a0cc"
+  }
+}

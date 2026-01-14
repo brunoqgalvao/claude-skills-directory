@@ -1,0 +1,35 @@
+{
+  "id": "kbd-translator",
+  "name": "kbd-translator",
+  "version": "1.0.0",
+  "summary": "Expert in BIDIRECTIONAL Kabardian↔Russian translation using CORPUS-FIRST approach. Translates both Russian→Kabardian AND Kabardian→Russian. Learns from 292k real translation exa...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "panagoa",
+    "github": "panagoa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/panagoa/kbd_translate",
+    "skill_md": "https://raw.githubusercontent.com/panagoa/kbd_translate/main/.claude/skills/kbd-translator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.469Z",
+  "created_at": "2025-12-23T01:30:51.005Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/panagoa%2Fkbd_translate/.claude%2Fskills%2Fkbd-translator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.469Z",
+    "uniqueId": "sk_463355eadc7e"
+  }
+}

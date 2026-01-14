@@ -1,0 +1,36 @@
+{
+  "id": "acceptance-test-writing",
+  "name": "acceptance-test-writing",
+  "version": "1.0.0",
+  "summary": "Guide for writing high-quality acceptance criteria and acceptance tests using industry-standard BDD (Behavior-Driven Development) and ATDD (Acceptance Test-Driven Development) p...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinceh",
+    "github": "vinceh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinceh/recipe",
+    "skill_md": "https://raw.githubusercontent.com/vinceh/recipe/main/.claude/skills/acceptance-test-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.688Z",
+  "created_at": "2025-12-22T22:07:26.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinceh%2Frecipe/.claude%2Fskills%2Facceptance-test-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.688Z",
+    "uniqueId": "sk_3f4c798d9b66"
+  }
+}

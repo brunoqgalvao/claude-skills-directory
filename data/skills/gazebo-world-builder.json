@@ -1,0 +1,36 @@
+{
+  "id": "gazebo-world-builder",
+  "name": "gazebo-world-builder",
+  "version": "1.0.0",
+  "summary": "Design simulation worlds using SDF with ground planes, models, physics configuration, and lighting",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mjunaidca",
+    "github": "mjunaidca"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mjunaidca/robolearn",
+    "skill_md": "https://raw.githubusercontent.com/mjunaidca/robolearn/main/.claude/skills/authoring/gazebo-world-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:35.429Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mjunaidca%2Frobolearn/.claude%2Fskills%2Fauthoring%2Fgazebo-world-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_cee06462f863"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "skill-making",
+  "name": "skill-making",
+  "version": "1.0.0",
+  "summary": "Creates and refines Claude agent skills following best practices. Use when creating new skills, improving existing ones, or learning about skill structure and conventions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "binarin",
+    "github": "binarin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/binarin/nixos-config",
+    "skill_md": "https://raw.githubusercontent.com/binarin/nixos-config/main/files/claude-skills/skill-making/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:58:23.887Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/binarin%2Fnixos-config/files%2Fclaude-skills%2Fskill-making%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_825ca6ad5695"
+  }
+}

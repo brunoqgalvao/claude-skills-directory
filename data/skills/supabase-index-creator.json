@@ -1,0 +1,35 @@
+{
+  "id": "supabase-index-creator",
+  "name": "supabase-index-creator",
+  "version": "1.0.0",
+  "summary": "Crea índices para foreign keys sin cobertura en Supabase. Usa cuando veas warnings de FK sin índice, performance de JOINs, o tarea 1.2 del PLAN_MEJORAS.md.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sanchezx1",
+    "github": "sanchezx1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sanchezx1/v0-fullcolor-cotizador",
+    "skill_md": "https://raw.githubusercontent.com/sanchezx1/v0-fullcolor-cotizador/main/.claude/skills/supabase-index-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T03:32:21.000Z",
+  "created_at": "2025-12-22T14:53:49.245Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sanchezx1%2Fv0-fullcolor-cotizador/.claude%2Fskills%2Fsupabase-index-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_ba63f51050ef"
+  }
+}

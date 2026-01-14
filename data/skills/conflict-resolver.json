@@ -1,0 +1,35 @@
+{
+  "id": "conflict-resolver",
+  "name": "conflict-resolver",
+  "version": "1.0.0",
+  "summary": "Smart git merge conflict resolution with context analysis, pattern detection, and automated resol...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CuriousLearner",
+    "github": "CuriousLearner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CuriousLearner/devkit",
+    "skill_md": "https://raw.githubusercontent.com/CuriousLearner/devkit/main/skills/conflict-resolver/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:56.990Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CuriousLearner%2Fdevkit/skills%2Fconflict-resolver%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_cc4734c78b04"
+  }
+}

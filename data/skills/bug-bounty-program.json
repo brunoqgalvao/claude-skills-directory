@@ -1,0 +1,35 @@
+{
+  "id": "bug-bounty-program",
+  "name": "bug-bounty-program",
+  "version": "1.0.0",
+  "summary": "Эксперт по bug bounty. Используй для поиска уязвимостей, написания отчётов, responsible disclosure и penetration testing.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dengineproblem",
+    "github": "dengineproblem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dengineproblem/agents-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/dengineproblem/agents-monorepo/main/.claude/skills/bug-bounty-program/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T13:57:12.000Z",
+  "created_at": "2025-12-23T01:29:00.767Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dengineproblem%2Fagents-monorepo/.claude%2Fskills%2Fbug-bounty-program%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.531Z",
+    "uniqueId": "sk_8e4afaef1b8c"
+  }
+}

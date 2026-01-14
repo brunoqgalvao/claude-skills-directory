@@ -1,0 +1,35 @@
+{
+  "id": "site-tools",
+  "name": "site-tools",
+  "version": "1.0.0",
+  "summary": "Use the public toolbox scripts published from docs/tools via tool-runner.js. Covers listing tools, executing them safely with droid exec context, and required environment variab...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "factory-ben",
+    "github": "factory-ben"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/factory-ben/feed",
+    "skill_md": "https://raw.githubusercontent.com/factory-ben/feed/main/.factory/skills/site-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T21:14:47.000Z",
+  "created_at": "2025-12-23T01:28:39.385Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/factory-ben%2Ffeed/.factory%2Fskills%2Fsite-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_76293fba89cb"
+  }
+}

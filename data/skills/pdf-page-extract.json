@@ -1,0 +1,36 @@
+{
+  "id": "pdf-page-extract",
+  "name": "pdf-page-extract",
+  "version": "1.0.0",
+  "summary": "Extract rich data from PDF pages including text spans with metadata, rendered PNG images, and page mapping. Creates persistent artifacts for downstream processing.",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AbeJitsu",
+    "github": "AbeJitsu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AbeJitsu/Game-Settings-Panel",
+    "skill_md": "https://raw.githubusercontent.com/AbeJitsu/Game-Settings-Panel/main/.claude/skills/calypso/pdf-page-extract/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.778Z",
+  "created_at": "2025-12-22T19:31:14.276Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AbeJitsu%2FGame-Settings-Panel/.claude%2Fskills%2Fcalypso%2Fpdf-page-extract%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_3cb073aef382"
+  }
+}

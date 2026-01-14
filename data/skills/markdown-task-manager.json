@@ -1,0 +1,35 @@
+{
+  "id": "markdown-task-manager",
+  "name": "markdown-task-manager",
+  "version": "1.0.0",
+  "summary": "Use when managing tasks, the system is a Kanban task manager based on local Markdown files (`kanban.md` and `archive.md`). It follows a strict format compatible with the task-ma...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "judastorrid822",
+    "github": "judastorrid822"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/judastorrid822/MarkdownTaskManager",
+    "skill_md": "https://raw.githubusercontent.com/judastorrid822/MarkdownTaskManager/main/.claude/skills/markdown-task-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T15:41:19.000Z",
+  "created_at": "2025-12-23T01:29:18.388Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/judastorrid822%2FMarkdownTaskManager/.claude%2Fskills%2Fmarkdown-task-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_651b8e39034f"
+  }
+}

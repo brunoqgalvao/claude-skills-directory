@@ -1,0 +1,35 @@
+{
+  "id": "perplexity-tools",
+  "name": "perplexity-tools",
+  "version": "1.0.0",
+  "summary": "Executes Perplexity AI queries via unified Python CLI. Use when conducting web research, asking questions with citations, deep research tasks, reasoning problems, or searching f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bsamiee",
+    "github": "bsamiee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bsamiee/Parametric_Portal",
+    "skill_md": "https://raw.githubusercontent.com/bsamiee/Parametric_Portal/main/.claude/skills/perplexity-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T03:55:39.000Z",
+  "created_at": "2025-12-23T01:28:33.964Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bsamiee%2FParametric_Portal/.claude%2Fskills%2Fperplexity-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_5eec6377c120"
+  }
+}

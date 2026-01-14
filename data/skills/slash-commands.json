@@ -1,0 +1,35 @@
+{
+  "id": "slash-commands",
+  "name": "slash-commands",
+  "version": "1.0.0",
+  "summary": "How to create, use, and manage custom slash commands in Claude Code. Use when user asks about creating custom commands, command arguments, command organization, or slash command...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reggiechan74",
+    "github": "reggiechan74"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reggiechan74/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/reggiechan74/claude-plugins/main/plugins/claude-code-metaskill/skills/slash-commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:46.087Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reggiechan74%2Fclaude-plugins/plugins%2Fclaude-code-metaskill%2Fskills%2Fslash-commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_1600dc310f57"
+  }
+}

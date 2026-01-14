@@ -1,0 +1,35 @@
+{
+  "id": "sayhello",
+  "name": "sayhello",
+  "version": "1.0.0",
+  "summary": "Generate friendly greetings in multiple languages and styles. Use this skill when users request greetings, welcome messages, or multilingual hello messages for various contexts ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mojito-llm",
+    "github": "mojito-llm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mojito-llm/freeship-skills",
+    "skill_md": "https://raw.githubusercontent.com/mojito-llm/freeship-skills/main/sayhello/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-20T01:53:01.000Z",
+  "created_at": "2025-12-22T17:57:52.071Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mojito-llm%2Ffreeship-skills/sayhello%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_e8d30c80b8eb"
+  }
+}

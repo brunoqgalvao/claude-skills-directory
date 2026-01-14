@@ -1,0 +1,36 @@
+{
+  "id": "agent-handoff",
+  "name": "agent-handoff",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive handoff documentation optimized for AI agent takeover by analyzing project structure, design docs, and codebase",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yarlson",
+    "github": "yarlson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yarlson/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/yarlson/claude-plugins/main/agent-handoff/skills/agent-handoff/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:32.904Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yarlson%2Fclaude-plugins/agent-handoff%2Fskills%2Fagent-handoff%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_e186e1bb7242"
+  }
+}

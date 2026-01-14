@@ -1,0 +1,37 @@
+{
+  "id": "adb-device-testing",
+  "name": "adb-device-testing",
+  "version": "1.0.0",
+  "summary": "Use when testing Android apps on ADB-connected devices/emulators - UI automation, screenshots, location spoofing, navigation, app management. Triggers on ADB, emulator, Android ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hanibalsk",
+    "github": "hanibalsk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hanibalsk/phone-manager",
+    "skill_md": "https://raw.githubusercontent.com/hanibalsk/phone-manager/main/.claude/skills/adb-device-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:07:22.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hanibalsk%2Fphone-manager/.claude%2Fskills%2Fadb-device-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_61d06244a2de"
+  }
+}

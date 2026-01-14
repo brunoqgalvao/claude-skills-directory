@@ -1,0 +1,36 @@
+{
+  "id": "hic-tad-calling",
+  "name": "hic-tad-calling",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to identify topologically associating domains (TADs) from Hi-C data in .mcools (or .cool) files or when users want to visualize the TAD...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BIsnake2001",
+    "github": "BIsnake2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BIsnake2001/ChromSkills",
+    "skill_md": "https://raw.githubusercontent.com/BIsnake2001/ChromSkills/main/18_toolBased.hic-tad-calling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:03:08.602Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BIsnake2001%2FChromSkills/18_toolBased.hic-tad-calling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_204b3376495e"
+  }
+}

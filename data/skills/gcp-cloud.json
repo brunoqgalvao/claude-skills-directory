@@ -1,0 +1,35 @@
+{
+  "id": "gcp-cloud",
+  "name": "gcp-cloud",
+  "version": "1.0.0",
+  "summary": "Google Cloud Platform infrastructure patterns and best practices. Use when designing or implementing GCP solutions including Compute Engine, Cloud Functions, Cloud Storage, and ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoutrin",
+    "github": "jpoutrin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoutrin/product-forge",
+    "skill_md": "https://raw.githubusercontent.com/jpoutrin/product-forge/main/plugins/devops-data/skills/gcp-cloud/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T10:16:26.000Z",
+  "created_at": "2025-12-23T01:28:25.777Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoutrin%2Fproduct-forge/plugins%2Fdevops-data%2Fskills%2Fgcp-cloud%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_f71cc0b77f1c"
+  }
+}

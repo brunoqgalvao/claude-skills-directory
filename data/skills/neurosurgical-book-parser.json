@@ -1,0 +1,37 @@
+{
+  "id": "neurosurgical-book-parser",
+  "name": "neurosurgical-book-parser",
+  "version": "1.0.0",
+  "summary": "Extract structured knowledge from neurosurgical and spine surgery textbooks. Identifies anatomical structures, surgical procedures, complications, and clinical relationships. Us...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brainbloodbarrier",
+    "github": "brainbloodbarrier"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brainbloodbarrier/seven-aneurysms",
+    "skill_md": "https://raw.githubusercontent.com/brainbloodbarrier/seven-aneurysms/main/.claude/skills/neurosurgical-book-parser/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:16.776Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brainbloodbarrier%2Fseven-aneurysms/.claude%2Fskills%2Fneurosurgical-book-parser%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_78f559593453"
+  }
+}

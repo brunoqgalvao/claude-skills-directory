@@ -1,0 +1,35 @@
+{
+  "id": "issue-filing",
+  "name": "issue-filing",
+  "version": "1.0.0",
+  "summary": "File framework issues after exhausting other approaches. Document complex problems with multiple failed attempts for framework authors. REQUIRES user permission. Use only after ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkomoros",
+    "github": "jkomoros"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkomoros/community-patterns",
+    "skill_md": "https://raw.githubusercontent.com/jkomoros/community-patterns/main/.claude/skills/issue-filing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:08:30.405Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkomoros%2Fcommunity-patterns/.claude%2Fskills%2Fissue-filing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_8f181e54d3cc"
+  }
+}

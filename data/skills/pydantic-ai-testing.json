@@ -1,0 +1,35 @@
+{
+  "id": "pydantic-ai-testing",
+  "name": "pydantic-ai-testing",
+  "version": "1.0.0",
+  "summary": "Test PydanticAI agents using TestModel, FunctionModel, VCR cassettes, and inline snapshots. Use when writing unit tests, mocking LLM responses, or recording API interactions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "existential-birds",
+    "github": "existential-birds"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/existential-birds/beagle",
+    "skill_md": "https://raw.githubusercontent.com/existential-birds/beagle/main/skills/pydantic-ai-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.461Z",
+  "created_at": "2025-12-22T18:13:12.866Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/existential-birds%2Fbeagle/skills%2Fpydantic-ai-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_c97a66516cff"
+  }
+}

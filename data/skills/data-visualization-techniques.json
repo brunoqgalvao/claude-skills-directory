@@ -1,0 +1,37 @@
+{
+  "id": "data-visualization-techniques",
+  "name": "data-visualization-techniques",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating charts, graphs, dashboards, or data visualizations - covers chart type selection, D3.js patterns, Recharts usage, dashboard design princi...",
+  "verticals": [
+    "finance",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vmasrani",
+    "github": "vmasrani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vmasrani/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/vmasrani/dotfiles/main/maintained_global_claude/skills/data-visualization-techniques/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:21.566Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vmasrani%2Fdotfiles/maintained_global_claude%2Fskills%2Fdata-visualization-techniques%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_1e39eb5c1a6f"
+  }
+}

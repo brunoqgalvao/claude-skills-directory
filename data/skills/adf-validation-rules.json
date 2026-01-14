@@ -1,0 +1,37 @@
+{
+  "id": "adf-validation-rules",
+  "name": "adf-validation-rules",
+  "version": "1.0.0",
+  "summary": "Comprehensive Azure Data Factory validation rules, activity nesting limitations, linked service requirements, and edge-case handling guidance",
+  "verticals": [
+    "legal",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JosiahSiegel",
+    "github": "JosiahSiegel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JosiahSiegel/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/JosiahSiegel/claude-code-marketplace/main/plugins/adf-master/skills/adf-validation-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:31.499Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JosiahSiegel%2Fclaude-code-marketplace/plugins%2Fadf-master%2Fskills%2Fadf-validation-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_dc08f9091f6d"
+  }
+}

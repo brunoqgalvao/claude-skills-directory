@@ -1,0 +1,37 @@
+{
+  "id": "unit-test-service-layer",
+  "name": "unit-test-service-layer",
+  "version": "1.0.0",
+  "summary": "Unit tests for service layer with Mockito. Test business logic in isolation by mocking dependencies. Use when validating service behaviors and business logic without database or...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "giuseppe-trisciuoglio",
+    "github": "giuseppe-trisciuoglio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "skill_md": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/junit-test/unit-test-service-layer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:38.026Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/giuseppe-trisciuoglio%2Fdeveloper-kit/skills%2Fjunit-test%2Funit-test-service-layer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_7b8edbadf4bf"
+  }
+}

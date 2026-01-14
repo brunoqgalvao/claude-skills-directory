@@ -1,0 +1,37 @@
+{
+  "id": "ui-library-usage-auditor",
+  "name": "ui-library-usage-auditor",
+  "version": "1.0.0",
+  "summary": "This skill should be used when reviewing shadcn/ui component usage to ensure accessibility, consistency, and proper patterns. Applies when auditing UI code, checking component p...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/skills/ui-components/ui-library-usage-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T16:07:47.000Z",
+  "created_at": "2025-12-23T01:29:43.399Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/skills%2Fui-components%2Fui-library-usage-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_056adbb642ac"
+  }
+}

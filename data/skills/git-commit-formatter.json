@@ -1,0 +1,35 @@
+{
+  "id": "git-commit-formatter",
+  "name": "git-commit-formatter",
+  "version": "1.0.0",
+  "summary": "Format git commits with proper standards, signatures, and conventional commit format. Use when user says \"commit\", \"create commit\", \"format commit message\", or when staging chan...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ainexllc",
+    "github": "ainexllc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ainexllc/ClaudeCodeTraining",
+    "skill_md": "https://raw.githubusercontent.com/ainexllc/ClaudeCodeTraining/main/.claude/skills/git-commit-formatter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:29.775Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ainexllc%2FClaudeCodeTraining/.claude%2Fskills%2Fgit-commit-formatter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_5cef93515ec4"
+  }
+}

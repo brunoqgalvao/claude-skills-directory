@@ -1,0 +1,37 @@
+{
+  "id": "construction-data-migration",
+  "name": "construction-data-migration",
+  "version": "1.0.0",
+  "summary": "Specialized skill for migrating Excel-based construction project management data to web platform. Use when the user needs to transform, validate, or migrate data from Excel syst...",
+  "verticals": [
+    "legal",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CBoser",
+    "github": "CBoser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CBoser/ConstructionPlatform",
+    "skill_md": "https://raw.githubusercontent.com/CBoser/ConstructionPlatform/main/docs/archive/skills/claude_skills/Construction_Project_Management/construction-data-migration/construction-data-migration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.482Z",
+  "created_at": "2025-12-23T01:29:41.425Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CBoser%2FConstructionPlatform/docs%2Farchive%2Fskills%2Fclaude_skills%2FConstruction_Project_Management%2Fconstruction-data-migration%2Fconstruction-data-migration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_73da2e134613"
+  }
+}

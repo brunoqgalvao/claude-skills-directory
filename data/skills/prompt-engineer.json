@@ -1,0 +1,35 @@
+{
+  "id": "prompt-engineer",
+  "name": "prompt-engineer",
+  "version": "1.0.0",
+  "summary": "Creates and improves Claude Code prompt documents (CLAUDE.md, SKILL.md, slash commands, plugin commands). Use when user needs help with prompt engineering, documentation setup, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MH4GF",
+    "github": "MH4GF"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MH4GF/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/MH4GF/dotfiles/main/.claude/skills/prompt-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T07:06:46.000Z",
+  "created_at": "2025-12-22T16:58:38.468Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MH4GF%2Fdotfiles/.claude%2Fskills%2Fprompt-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_d0068d0a86ff"
+  }
+}

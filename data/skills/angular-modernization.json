@@ -1,0 +1,35 @@
+{
+  "id": "angular-modernization",
+  "name": "angular-modernization",
+  "version": "1.0.0",
+  "summary": "Modernizes Angular code such as components and directives to follow best practices using both automatic CLI migrations and Bitwarden-specific patterns. YOU must use this skill w...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bitwarden",
+    "github": "bitwarden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bitwarden/clients",
+    "skill_md": "https://raw.githubusercontent.com/bitwarden/clients/main/.claude/skills/angular-modernization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T12:36:52.000Z",
+  "created_at": "2025-12-22T17:07:13.077Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bitwarden%2Fclients/.claude%2Fskills%2Fangular-modernization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_789fc3772148"
+  }
+}

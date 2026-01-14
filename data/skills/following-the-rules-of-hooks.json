@@ -1,0 +1,35 @@
+{
+  "id": "following-the-rules-of-hooks",
+  "name": "following-the-rules-of-hooks",
+  "version": "1.0.0",
+  "summary": "Fix React Rules of Hooks violations - conditional calls, hooks in loops/callbacks/classes",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/react-19/skills/following-the-rules-of-hooks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T23:15:51.000Z",
+  "created_at": "2025-12-22T17:12:47.127Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/react-19%2Fskills%2Ffollowing-the-rules-of-hooks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_b5ebd3cc65e8"
+  }
+}

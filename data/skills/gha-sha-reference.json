@@ -1,0 +1,35 @@
+{
+  "id": "gha-sha-reference",
+  "name": "gha-sha-reference",
+  "version": "1.0.0",
+  "summary": "ユーザーがGitHub Actionsのタグ参照をSHA参照に変換するよう要求したときに発動してください。uses:フィールドのタグ参照を自動的にSHA参照（コミットハッシュ + コメント付きバージョン）に変換します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "syou6162",
+    "github": "syou6162"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/syou6162/claude-code-commands",
+    "skill_md": "https://raw.githubusercontent.com/syou6162/claude-code-commands/main/skills/gha-sha-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T16:07:49.000Z",
+  "created_at": "2025-12-22T17:04:40.626Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/syou6162%2Fclaude-code-commands/skills%2Fgha-sha-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_f68cf92bc949"
+  }
+}

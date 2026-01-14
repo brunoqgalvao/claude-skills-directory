@@ -1,0 +1,35 @@
+{
+  "id": "knowledge-sync",
+  "name": "knowledge-sync",
+  "version": "1.0.0",
+  "summary": "Use after completing a refactor, implementing a major feature, or when skills may be outdated. Analyzes code changes, identifies affected skills, and proposes updates to keep te...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "discountedcookie",
+    "github": "discountedcookie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/discountedcookie/10x-mapmaster",
+    "skill_md": "https://raw.githubusercontent.com/discountedcookie/10x-mapmaster/main/.opencode/skills/knowledge-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.552Z",
+  "created_at": "2025-12-23T01:28:47.580Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/discountedcookie%2F10x-mapmaster/.opencode%2Fskills%2Fknowledge-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_2615ae293844"
+  }
+}

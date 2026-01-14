@@ -1,0 +1,35 @@
+{
+  "id": "path-tactics",
+  "name": "path-tactics",
+  "version": "1.0.0",
+  "summary": "Use ComputationalPaths path tactics to automate common RwEq goals (path_simp/path_auto/path_normalize), and structure calc-based proofs cleanly.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Arthur742Ramos",
+    "github": "Arthur742Ramos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Arthur742Ramos/ComputationalPathsLean",
+    "skill_md": "https://raw.githubusercontent.com/Arthur742Ramos/ComputationalPathsLean/main/.claude/skills/path-tactics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.568Z",
+  "created_at": "2025-12-23T01:28:33.936Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Arthur742Ramos%2FComputationalPathsLean/.claude%2Fskills%2Fpath-tactics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_bd98b054e27d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "repo-config-wizard",
+  "name": "repo-config-wizard",
+  "version": "1.0.0",
+  "summary": "Interactive setup wizard for configuring the Fractary Repo Plugin",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fractary",
+    "github": "fractary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fractary/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fractary/claude-plugins/main/plugins/repo/skills/config-wizard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.472Z",
+  "created_at": "2025-12-23T01:29:58.428Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fractary%2Fclaude-plugins/plugins%2Frepo%2Fskills%2Fconfig-wizard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.472Z",
+    "uniqueId": "sk_d00c15339103"
+  }
+}

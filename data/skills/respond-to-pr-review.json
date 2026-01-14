@@ -1,0 +1,35 @@
+{
+  "id": "respond-to-pr-review",
+  "name": "respond-to-pr-review",
+  "version": "1.0.0",
+  "summary": "Fetch, analyze, and respond to PR review comments. Use when asked to check PR comments, address review feedback, respond to reviewers, or fix issues raised in code reviews.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kristofferremback",
+    "github": "kristofferremback"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kristofferremback/threa",
+    "skill_md": "https://raw.githubusercontent.com/kristofferremback/threa/main/.claude/skills/respond-to-pr-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.556Z",
+  "created_at": "2025-12-23T01:28:44.822Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kristofferremback%2Fthrea/.claude%2Fskills%2Frespond-to-pr-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_203eb7e898ff"
+  }
+}

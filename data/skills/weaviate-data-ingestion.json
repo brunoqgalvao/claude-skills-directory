@@ -1,0 +1,37 @@
+{
+  "id": "weaviate-data-ingestion",
+  "name": "weaviate-data-ingestion",
+  "version": "1.0.0",
+  "summary": "Upload and process data into local Weaviate collections with support for single objects, batch uploads, and multi-modal content",
+  "verticals": [
+    "marketing",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "saskinosie",
+    "github": "saskinosie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/saskinosie/weaviate-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/saskinosie/weaviate-claude-skills/main/weaviate-data-ingestion/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:56.937Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/saskinosie%2Fweaviate-claude-skills/weaviate-data-ingestion%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_3ccc6035d1ae"
+  }
+}

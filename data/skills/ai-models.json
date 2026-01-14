@@ -1,0 +1,35 @@
+{
+  "id": "ai-models",
+  "name": "ai-models",
+  "version": "1.0.0",
+  "summary": "OpenAI APIモデル選定、GPT-5/GPT-4.1使い分け、AI機能実装。AIモデル、OpenAI、GPT、API呼び出し、モデル選択時に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kimny1143",
+    "github": "kimny1143"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kimny1143/mued_v2",
+    "skill_md": "https://raw.githubusercontent.com/kimny1143/mued_v2/main/.claude/skills/ai-models/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.575Z",
+  "created_at": "2025-12-23T01:28:25.768Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kimny1143%2Fmued_v2/.claude%2Fskills%2Fai-models%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_3182908d9471"
+  }
+}

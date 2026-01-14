@@ -1,0 +1,35 @@
+{
+  "id": "student-activity-analysis",
+  "name": "student-activity-analysis",
+  "version": "1.0.0",
+  "summary": "Analyze student git activity, lab submissions, and project work for software engineering courses. Use when asked to \"update student analysis\", \"check student activity\", \"analyze...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nibzard",
+    "github": "nibzard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nibzard/2025-intro-swe",
+    "skill_md": "https://raw.githubusercontent.com/nibzard/2025-intro-swe/main/.claude/skills/student-activity-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:10.995Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nibzard%2F2025-intro-swe/.claude%2Fskills%2Fstudent-activity-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_ab76bc80a7ed"
+  }
+}

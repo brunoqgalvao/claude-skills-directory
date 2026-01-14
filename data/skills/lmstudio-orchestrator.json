@@ -1,0 +1,36 @@
+{
+  "id": "lmstudio-orchestrator",
+  "name": "lmstudio-orchestrator",
+  "version": "1.0.0",
+  "summary": "Deterministic multi-agent orchestration system for LMStudio enabling constraint-driven agent composition, semantic field navigation, and thermodynamic resource allocation. Use w...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wheattoast11",
+    "github": "wheattoast11"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wheattoast11/semantic-mesh",
+    "skill_md": "https://raw.githubusercontent.com/wheattoast11/semantic-mesh/main/skills/community/lmstudio-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T07:52:18.000Z",
+  "created_at": "2025-12-22T19:30:05.314Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wheattoast11%2Fsemantic-mesh/skills%2Fcommunity%2Flmstudio-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_354cda3adbf5"
+  }
+}

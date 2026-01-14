@@ -1,0 +1,36 @@
+{
+  "id": "nimble-user-stories",
+  "name": "nimble-user-stories",
+  "version": "1.0.0",
+  "summary": "Comprehensive guidance for writing user stories following Nimble's product development standards. Use when creating product requirements, organizing backlogs, writing user stori...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nimblehq",
+    "github": "nimblehq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nimblehq/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/nimblehq/claude-skills/main/nimble-user-stories/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T10:16:29.000Z",
+  "created_at": "2025-12-23T01:29:20.528Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nimblehq%2Fclaude-skills/nimble-user-stories%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_a427a7f972b1"
+  }
+}

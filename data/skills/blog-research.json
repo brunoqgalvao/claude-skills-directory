@@ -1,0 +1,36 @@
+{
+  "id": "blog-research",
+  "name": "blog-research",
+  "version": "1.0.0",
+  "summary": "Research legal technology topics for blog posts on alt-counsel (Ang Hou Fu's blog). Use when the user asks to research topics, find sources, fact-check claims, gather statistics...",
+  "verticals": [
+    "legal",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "houfu",
+    "github": "houfu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/houfu/blog-alt-counsel",
+    "skill_md": "https://raw.githubusercontent.com/houfu/blog-alt-counsel/main/.claude/skills/blog-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T16:39:13.000Z",
+  "created_at": "2025-12-22T20:13:25.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/houfu%2Fblog-alt-counsel/.claude%2Fskills%2Fblog-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_0811573a16a9"
+  }
+}

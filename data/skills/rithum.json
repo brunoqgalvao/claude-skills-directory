@@ -1,0 +1,35 @@
+{
+  "id": "rithum",
+  "name": "rithum",
+  "version": "1.0.0",
+  "summary": "Rithum B2B patterns and distribution API",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "violetio",
+    "github": "violetio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/violetio/violet-ai-plugins",
+    "skill_md": "https://raw.githubusercontent.com/violetio/violet-ai-plugins/main/plugins/v-rithum/skills/rithum/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T22:00:03.000Z",
+  "created_at": "2025-12-22T15:12:41.180Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/violetio%2Fviolet-ai-plugins/plugins%2Fv-rithum%2Fskills%2Frithum%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_e0dad62b322a"
+  }
+}

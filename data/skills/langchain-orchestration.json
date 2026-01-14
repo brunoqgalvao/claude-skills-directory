@@ -1,0 +1,36 @@
+{
+  "id": "langchain-orchestration",
+  "name": "langchain-orchestration",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for building production-grade LLM applications using LangChain's chains, agents, memory systems, RAG patterns, and advanced orchestration",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/luxor-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/manutej/luxor-claude-marketplace/main/plugins/luxor-ai-integration/skills/langchain-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:25:04.489Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fluxor-claude-marketplace/plugins%2Fluxor-ai-integration%2Fskills%2Flangchain-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_19e4b716a1c2"
+  }
+}

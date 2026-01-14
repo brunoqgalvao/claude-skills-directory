@@ -1,0 +1,36 @@
+{
+  "id": "sc-skill-builder",
+  "name": "sc-skill-builder",
+  "version": "1.0.0",
+  "summary": "Guide for creating, auditing, and packaging Claude Code skills. This skill should be used when building new skills, improving existing skills, understanding skill structure, or ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kylesnowschwartz",
+    "github": "kylesnowschwartz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kylesnowschwartz/SimpleClaude",
+    "skill_md": "https://raw.githubusercontent.com/kylesnowschwartz/SimpleClaude/main/plugins/sc-skills/skills/sc-skill-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:43.495Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kylesnowschwartz%2FSimpleClaude/plugins%2Fsc-skills%2Fskills%2Fsc-skill-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_020cfd607370"
+  }
+}

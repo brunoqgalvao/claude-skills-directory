@@ -1,0 +1,36 @@
+{
+  "id": "langgraph",
+  "name": "langgraph",
+  "version": "1.0.0",
+  "summary": "Expert guidance for building stateful, multi-actor AI agents with LangGraph - graphs, nodes, edges, state management, and agent architectures.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "htooayelwinict",
+    "github": "htooayelwinict"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/htooayelwinict/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/htooayelwinict/claude-config/main/skills/langgraph/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.527Z",
+  "created_at": "2025-12-23T01:29:03.905Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/htooayelwinict%2Fclaude-config/skills%2Flanggraph%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_e4de3d76f3ba"
+  }
+}

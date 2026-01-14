@@ -1,0 +1,37 @@
+{
+  "id": "release-process",
+  "name": "release-process",
+  "version": "1.0.0",
+  "summary": "Guide the release process for emoji_gen including version bumping, tagging, and automated CI deployment. Use when releasing a new version, the user mentions \"release\", \"version ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "francisfuzz",
+    "github": "francisfuzz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/francisfuzz/emoji_gen",
+    "skill_md": "https://raw.githubusercontent.com/francisfuzz/emoji_gen/main/.claude/skills/release-process/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.521Z",
+  "created_at": "2025-12-23T01:29:09.495Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/francisfuzz%2Femoji_gen/.claude%2Fskills%2Frelease-process%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.521Z",
+    "uniqueId": "sk_3718272b8429"
+  }
+}

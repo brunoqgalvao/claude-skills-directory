@@ -1,0 +1,35 @@
+{
+  "id": "installer",
+  "name": "installer",
+  "version": "1.0.0",
+  "summary": "Installs and configures project infrastructure including MkDocs Material intelligent textbook templates, learning graph viewers, and skill tracking systems. Routes to the approp...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dmccreary",
+    "github": "dmccreary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dmccreary/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/installer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T15:29:54.000Z",
+  "created_at": "2025-12-23T01:29:02.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dmccreary%2Fclaude-skills/skills%2Finstaller%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_25aa32e33b0d"
+  }
+}

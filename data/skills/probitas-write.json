@@ -1,0 +1,35 @@
+{
+  "id": "probitas-write",
+  "name": "probitas-write",
+  "version": "1.0.0",
+  "summary": "Writing Probitas scenarios. MUST BE USED when writing/editing E2E tests, creating scenarios, or working with *.probitas.ts files.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jsr-probitas",
+    "github": "jsr-probitas"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jsr-probitas/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jsr-probitas/claude-plugins/main/plugins/probitas/skills/probitas-write/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T19:59:35.000Z",
+  "created_at": "2025-12-22T14:59:32.525Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jsr-probitas%2Fclaude-plugins/plugins%2Fprobitas%2Fskills%2Fprobitas-write%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_df5a5d0fda00"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "digitalocean-droplet-deployment",
+  "name": "digitalocean-droplet-deployment",
+  "version": "1.0.0",
+  "summary": "Generic DigitalOcean droplet deployment using doctl CLI for any application type (APIs, web servers, background workers). Includes validation, deployment scripts, systemd servic...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/dev-lifecycle-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/dev-lifecycle-marketplace/main/plugins/deployment/skills/digitalocean-droplet-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.708Z",
+  "created_at": "2025-12-22T21:18:01.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fdev-lifecycle-marketplace/plugins%2Fdeployment%2Fskills%2Fdigitalocean-droplet-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.708Z",
+    "uniqueId": "sk_a902d94f1ea5"
+  }
+}

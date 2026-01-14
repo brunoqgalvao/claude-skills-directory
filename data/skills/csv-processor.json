@@ -1,0 +1,36 @@
+{
+  "id": "csv-processor",
+  "name": "csv-processor",
+  "version": "1.0.0",
+  "summary": "Parse, transform, and analyze CSV files with advanced data manipulation capabilities.",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CuriousLearner",
+    "github": "CuriousLearner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CuriousLearner/devkit",
+    "skill_md": "https://raw.githubusercontent.com/CuriousLearner/devkit/main/skills/csv-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:23.035Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CuriousLearner%2Fdevkit/skills%2Fcsv-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_ca6d6e093772"
+  }
+}

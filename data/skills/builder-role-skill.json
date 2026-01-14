@@ -1,0 +1,37 @@
+{
+  "id": "builder-role-skill",
+  "name": "builder-role-skill",
+  "version": "1.0.0",
+  "summary": "Professional software implementation skill for building features, components,\nand systems through multi-phase TDD development and incremental delivery.",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ryno-Crypto-Mining-Services",
+    "github": "Ryno-Crypto-Mining-Services"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ryno-Crypto-Mining-Services/braiins-os-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/Ryno-Crypto-Mining-Services/braiins-os-mcp-server/main/docs/claude/.claude/skills/builder-role-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.456Z",
+  "created_at": "2025-12-22T23:13:02.630Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ryno-Crypto-Mining-Services%2Fbraiins-os-mcp-server/docs%2Fclaude%2F.claude%2Fskills%2Fbuilder-role-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.456Z",
+    "uniqueId": "sk_fec4d1450bb2"
+  }
+}

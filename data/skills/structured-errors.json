@@ -1,0 +1,35 @@
+{
+  "id": "structured-errors",
+  "name": "structured-errors",
+  "version": "1.0.0",
+  "summary": "Automatically applies when writing error handling in APIs and tools. Ensures errors are returned as structured JSON with error, request_id, and timestamp (not plain strings).",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ricardoroche",
+    "github": "ricardoroche"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ricardoroche/ricardos-claude-code",
+    "skill_md": "https://raw.githubusercontent.com/ricardoroche/ricardos-claude-code/main/.claude/skills/structured-errors/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.518Z",
+  "created_at": "2025-12-23T01:29:11.724Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ricardoroche%2Fricardos-claude-code/.claude%2Fskills%2Fstructured-errors%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_aed511b8e09b"
+  }
+}

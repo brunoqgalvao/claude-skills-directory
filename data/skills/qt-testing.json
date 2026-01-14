@@ -1,0 +1,36 @@
+{
+  "id": "qt-testing",
+  "name": "qt-testing",
+  "version": "1.0.0",
+  "summary": "Capture and visually inspect Qt GUI widgets using screenshots. Use when asked to verify GUI rendering, test widget appearance, check layouts, or visually inspect any PySide6/Qt ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "talmolab",
+    "github": "talmolab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/talmolab/sleap",
+    "skill_md": "https://raw.githubusercontent.com/talmolab/sleap/main/.claude/skills/qt-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.567Z",
+  "created_at": "2025-12-23T01:28:34.711Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/talmolab%2Fsleap/.claude%2Fskills%2Fqt-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_f33318c1f594"
+  }
+}

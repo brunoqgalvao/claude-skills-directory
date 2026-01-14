@@ -1,0 +1,36 @@
+{
+  "id": "gtm-tags",
+  "name": "gtm-tags",
+  "version": "1.0.0",
+  "summary": "Expert guidance for configuring Google Tag Manager tags including GA4 configuration tags, GA4 event tags, Google Ads conversion tracking, Google Ads remarketing, custom HTML tag...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henkisdabro",
+    "github": "henkisdabro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henkisdabro/wookstar-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-code-plugins/main/gtm-suite/skills/gtm-tags/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:08.873Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henkisdabro%2Fwookstar-claude-code-plugins/gtm-suite%2Fskills%2Fgtm-tags%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_b3efa26a3aba"
+  }
+}

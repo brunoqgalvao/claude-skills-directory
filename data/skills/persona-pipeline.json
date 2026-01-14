@@ -1,0 +1,37 @@
+{
+  "id": "persona-pipeline",
+  "name": "persona-pipeline",
+  "version": "1.0.0",
+  "summary": "Generate AI agent personas with authentic backstories, demographics, and personality traits for TraitorSim. Use when creating new characters, generating personas, building chara...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rickoslyder",
+    "github": "rickoslyder"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rickoslyder/TraitorSim",
+    "skill_md": "https://raw.githubusercontent.com/rickoslyder/TraitorSim/main/.claude/skills/persona-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:19:45.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rickoslyder%2FTraitorSim/.claude%2Fskills%2Fpersona-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_8ea90185d157"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "langfuse-feedback-analyst",
+  "name": "langfuse-feedback-analyst",
+  "version": "1.0.0",
+  "summary": "Analyzes user feedback from Langfuse annotation queues and generates surgical recommendations for template.yaml, style.yaml, and tools.yaml",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mberto10",
+    "github": "mberto10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mberto10/web_research_agent",
+    "skill_md": "https://raw.githubusercontent.com/mberto10/web_research_agent/main/.claude/skills/langfuse-feedback-analyst/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.743Z",
+  "created_at": "2025-12-22T21:09:33.296Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mberto10%2Fweb_research_agent/.claude%2Fskills%2Flangfuse-feedback-analyst%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.743Z",
+    "uniqueId": "sk_1ed132382206"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "system-updates",
+  "name": "system-updates",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"update my system\", \"run system updates\", \"update everything\", \"update brew yadm pass\", or mentions running comprehensive system ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adamancini",
+    "github": "adamancini"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adamancini/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/adamancini/dotfiles/main/.claude/skills/system-updates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:04.175Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adamancini%2Fdotfiles/.claude%2Fskills%2Fsystem-updates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_9703520f3361"
+  }
+}

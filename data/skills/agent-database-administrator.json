@@ -1,0 +1,35 @@
+{
+  "id": "agent-database-administrator",
+  "name": "agent-database-administrator",
+  "version": "1.0.0",
+  "summary": "Expert database administrator specializing in high-availability systems, performance optimization, and disaster recovery. Masters PostgreSQL, MySQL, MongoDB, and Redis with focu...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Tony363",
+    "github": "Tony363"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Tony363/SuperClaude",
+    "skill_md": "https://raw.githubusercontent.com/Tony363/SuperClaude/main/.claude/skills/agent-database-administrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T07:02:28.000Z",
+  "created_at": "2025-12-22T14:56:28.505Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Tony363%2FSuperClaude/.claude%2Fskills%2Fagent-database-administrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_08934bc2b234"
+  }
+}

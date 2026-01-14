@@ -1,0 +1,35 @@
+{
+  "id": "git-workspace-review",
+  "name": "git-workspace-review",
+  "version": "1.0.0",
+  "summary": "Lightweight preflight checklist for verifying repo path, staged changes, and diffs before other workflows.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/sanctum/skills/git-workspace-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:40.361Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fsanctum%2Fskills%2Fgit-workspace-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_341245072a86"
+  }
+}

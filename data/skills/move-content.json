@@ -1,0 +1,35 @@
+{
+  "id": "move-content",
+  "name": "move-content",
+  "version": "1.0.0",
+  "summary": "Move or rename files in knowledge base with directory governance. Use when user wants to move, relocate, or rename content. Reads RULE.md of both source and target directories.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eternnoir",
+    "github": "eternnoir"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eternnoir/claude-tool",
+    "skill_md": "https://raw.githubusercontent.com/eternnoir/claude-tool/main/akashicrecords/skills/move-content/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:26.713Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eternnoir%2Fclaude-tool/akashicrecords%2Fskills%2Fmove-content%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_d70b6910cd69"
+  }
+}

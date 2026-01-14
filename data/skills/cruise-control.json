@@ -1,0 +1,37 @@
+{
+  "id": "cruise-control",
+  "name": "cruise-control",
+  "version": "1.0.0",
+  "summary": "Automatic mode - shift through all 6 gears sequentially without stopping. Like cruise control or automatic transmission, this runs the entire StackShift workflow from analysis t...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jschulte",
+    "github": "jschulte"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jschulte/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jschulte/claude-plugins/main/stackshift/skills/cruise-control/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:18.289Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jschulte%2Fclaude-plugins/stackshift%2Fskills%2Fcruise-control%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_1bfac0a8c459"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "video-marketing",
+  "name": "video-marketing",
+  "version": "1.0.0",
+  "summary": "Эксперт по видео-маркетингу. Используй для YouTube стратегий, видео-контента, Reels/TikTok и video SEO.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dengineproblem",
+    "github": "dengineproblem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dengineproblem/agents-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/dengineproblem/agents-monorepo/main/.claude/skills/video-marketing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.683Z",
+  "created_at": "2025-12-22T22:10:31.221Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dengineproblem%2Fagents-monorepo/.claude%2Fskills%2Fvideo-marketing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.683Z",
+    "uniqueId": "sk_5c0ebe1e9d4c"
+  }
+}

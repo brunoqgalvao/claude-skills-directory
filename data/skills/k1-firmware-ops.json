@@ -1,0 +1,37 @@
+{
+  "id": "k1-firmware-ops",
+  "name": "k1-firmware-ops",
+  "version": "1.0.0",
+  "summary": "Build selected K1.node2 pattern(s), upload firmware to the ESP32-S3 over LAN, verify the web API/UI, capture artifacts, and draft release notes.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synqing",
+    "github": "synqing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synqing/K1.node2",
+    "skill_md": "https://raw.githubusercontent.com/synqing/K1.node2/main/tools/claude_skill_pack/.claude/skills/k1-firmware-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:22.989Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synqing%2FK1.node2/tools%2Fclaude_skill_pack%2F.claude%2Fskills%2Fk1-firmware-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_95356d3d6a96"
+  }
+}

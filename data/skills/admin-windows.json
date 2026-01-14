@@ -1,0 +1,35 @@
+{
+  "id": "admin-windows",
+  "name": "admin-windows",
+  "version": "1.0.0",
+  "summary": "Windows system administration with PowerShell 7.x. Profile-aware - reads your preferences\nfor package managers (scoop vs winget), paths, and installed tools.\n\nUse when: Windows-...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evolv3-ai",
+    "github": "evolv3-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evolv3-ai/vibe-skills",
+    "skill_md": "https://raw.githubusercontent.com/evolv3-ai/vibe-skills/main/skills/admin-windows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:15.430Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evolv3-ai%2Fvibe-skills/skills%2Fadmin-windows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_336e34705f3a"
+  }
+}

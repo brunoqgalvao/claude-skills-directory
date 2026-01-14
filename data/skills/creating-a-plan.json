@@ -1,0 +1,36 @@
+{
+  "id": "creating-a-plan",
+  "name": "creating-a-plan",
+  "version": "1.0.0",
+  "summary": "Creates a comprehensive easy to follow plan for building out a design. Use when creating an implementation plan from a design.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thempatel",
+    "github": "thempatel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thempatel/cc-toolshed",
+    "skill_md": "https://raw.githubusercontent.com/thempatel/cc-toolshed/main/act/skills/creating-a-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.464Z",
+  "created_at": "2025-12-22T14:57:59.364Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thempatel%2Fcc-toolshed/act%2Fskills%2Fcreating-a-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.464Z",
+    "uniqueId": "sk_242a9a2d2f4d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "code-review-framework",
+  "name": "code-review-framework",
+  "version": "1.0.0",
+  "summary": "Automatically applies when reviewing code. Ensures structured review checklist covering correctness, security, performance, maintainability, testing, and documentation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ricardoroche",
+    "github": "ricardoroche"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ricardoroche/ricardos-claude-code",
+    "skill_md": "https://raw.githubusercontent.com/ricardoroche/ricardos-claude-code/main/.claude/skills/code-review-framework/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.686Z",
+  "created_at": "2025-12-22T22:09:27.805Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ricardoroche%2Fricardos-claude-code/.claude%2Fskills%2Fcode-review-framework%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.686Z",
+    "uniqueId": "sk_8665dd1e0b91"
+  }
+}

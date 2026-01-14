@@ -1,0 +1,35 @@
+{
+  "id": "rubiks-cube-solver",
+  "name": "rubiks-cube-solver",
+  "version": "1.0.0",
+  "summary": "Fast procedural Rubik's cube solver that requests photos, converts them to cube state string, and uses Python scripts to generate step-by-step solutions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JasonMakes801",
+    "github": "JasonMakes801"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JasonMakes801/rubiks-cube-solver",
+    "skill_md": "https://raw.githubusercontent.com/JasonMakes801/rubiks-cube-solver/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:17.131Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JasonMakes801%2Frubiks-cube-solver/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_053b34385c70"
+  }
+}

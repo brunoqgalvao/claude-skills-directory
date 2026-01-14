@@ -1,0 +1,36 @@
+{
+  "id": "zarr-python",
+  "name": "zarr-python",
+  "version": "1.0.0",
+  "summary": "Chunked N-D arrays for cloud storage. Compressed arrays, parallel I/O, S3/GCS integration, NumPy/Dask/Xarray compatible, for large-scale scientific computing pipelines.",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/scientific-pkg-zarr-python/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.456Z",
+  "created_at": "2025-12-22T23:19:33.611Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fscientific-pkg-zarr-python%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.456Z",
+    "uniqueId": "sk_08b5e48aae1f"
+  }
+}

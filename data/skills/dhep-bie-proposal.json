@@ -1,0 +1,36 @@
+{
+  "id": "dhep-bie-proposal",
+  "name": "dhep-bie-proposal",
+  "version": "1.0.0",
+  "summary": "Generate DHEP Behavioral Insights & Evaluation (BIE) proposals with engagement\ntriage, activity classification, and single-design proposal generation. Supports\ncausal evaluation...",
+  "verticals": [
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sysylvia",
+    "github": "sysylvia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sysylvia/ssylvia-website",
+    "skill_md": "https://raw.githubusercontent.com/sysylvia/ssylvia-website/main/.claude/skills/dhep-bie-proposal/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:10:48.871Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sysylvia%2Fssylvia-website/.claude%2Fskills%2Fdhep-bie-proposal%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_28553c4e3987"
+  }
+}

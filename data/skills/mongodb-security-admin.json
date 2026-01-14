@@ -1,0 +1,36 @@
+{
+  "id": "mongodb-security-admin",
+  "name": "mongodb-security-admin",
+  "version": "1.0.0",
+  "summary": "Master MongoDB security, authentication, authorization, encryption, and backup. Learn role-based access control, TLS/SSL, encryption, and disaster recovery. Use when securing de...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-mongodb",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-mongodb/main/skills/mongodb-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:46.594Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-mongodb/skills%2Fmongodb-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_a3c93a161343"
+  }
+}

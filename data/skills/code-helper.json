@@ -1,0 +1,35 @@
+{
+  "id": "code-helper",
+  "name": "code-helper",
+  "version": "1.0.0",
+  "summary": "Helps with code analysis and refactoring tasks",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fwdslsh",
+    "github": "fwdslsh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fwdslsh/crosstrain",
+    "skill_md": "https://raw.githubusercontent.com/fwdslsh/crosstrain/main/src/tests/fixtures/skills/code-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T21:24:21.000Z",
+  "created_at": "2025-12-23T01:28:17.356Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fwdslsh%2Fcrosstrain/src%2Ftests%2Ffixtures%2Fskills%2Fcode-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.581Z",
+    "uniqueId": "sk_c3926d102645"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "context-recovery",
+  "name": "context-recovery",
+  "version": "1.0.0",
+  "summary": "Recovers working context from the journal after /clear or at session start",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chrismbryant",
+    "github": "chrismbryant"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chrismbryant/claude-journal-mcp",
+    "skill_md": "https://raw.githubusercontent.com/chrismbryant/claude-journal-mcp/main/skills/context-recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T22:50:48.000Z",
+  "created_at": "2025-12-22T16:58:19.923Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chrismbryant%2Fclaude-journal-mcp/skills%2Fcontext-recovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_70ce38839aa1"
+  }
+}

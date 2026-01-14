@@ -1,0 +1,35 @@
+{
+  "id": "managing-sc-packages",
+  "name": "managing-sc-packages",
+  "version": "1.0.0",
+  "summary": "List, install, or uninstall Synaptic Canvas packages. Use with the `/sc-manage` command.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "randlee",
+    "github": "randlee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/randlee/synaptic-canvas",
+    "skill_md": "https://raw.githubusercontent.com/randlee/synaptic-canvas/main/packages/sc-manage/skills/managing-sc-packages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.412Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/randlee%2Fsynaptic-canvas/packages%2Fsc-manage%2Fskills%2Fmanaging-sc-packages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_3f72129c703d"
+  }
+}

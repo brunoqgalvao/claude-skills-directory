@@ -1,0 +1,36 @@
+{
+  "id": "transcribe",
+  "name": "transcribe",
+  "version": "1.0.0",
+  "summary": "Speech-to-text transcription using Groq Whisper API. Supports m4a, mp3, wav, ogg, flac, webm.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "badlogic",
+    "github": "badlogic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/badlogic/pi-skills",
+    "skill_md": "https://raw.githubusercontent.com/badlogic/pi-skills/main/transcribe/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T23:31:48.000Z",
+  "created_at": "2025-12-22T14:21:11.163Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/badlogic%2Fpi-skills/transcribe%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_359ace01734f"
+  }
+}

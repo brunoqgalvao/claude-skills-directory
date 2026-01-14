@@ -1,0 +1,35 @@
+{
+  "id": "svg-collisions",
+  "name": "svg-collisions",
+  "version": "1.0.0",
+  "summary": "Create or repair SVG diagrams without overlapping text/shapes. Use when shipping new SVGs, editing WLILO-styled diagrams, or when collision checks report overlaps/clipping.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metabench",
+    "github": "metabench"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metabench/copilot-dl-news",
+    "skill_md": "https://raw.githubusercontent.com/metabench/copilot-dl-news/main/docs/agi/skills/svg-collisions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:48.566Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metabench%2Fcopilot-dl-news/docs%2Fagi%2Fskills%2Fsvg-collisions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_48c9f0ab2c26"
+  }
+}

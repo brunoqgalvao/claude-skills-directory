@@ -1,0 +1,37 @@
+{
+  "id": "devops-database",
+  "name": "devops-database",
+  "version": "1.0.0",
+  "summary": "Manages PostgreSQL database operations including Alembic migrations (creation, application, rollback), database backups and restoration for both development and production envir...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shredbx",
+    "github": "shredbx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shredbx/demo-3d-model",
+    "skill_md": "https://raw.githubusercontent.com/shredbx/demo-3d-model/main/.claude/skills/devops-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:43.973Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shredbx%2Fdemo-3d-model/.claude%2Fskills%2Fdevops-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_652798a9a80d"
+  }
+}

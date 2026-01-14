@@ -1,0 +1,36 @@
+{
+  "id": "husky-hooks-config",
+  "name": "husky-hooks-config",
+  "version": "1.0.0",
+  "summary": "Husky git hooks configuration with smart auto-detection for sensitive files, fail-fast execution, auto-fix workflows, and CI detection. Includes 5 required standards (smart .npm...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/config/version-control/husky-hooks-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:12.480Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fconfig%2Fversion-control%2Fhusky-hooks-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_0944e41c5e08"
+  }
+}

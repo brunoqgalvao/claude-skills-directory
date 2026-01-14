@@ -1,0 +1,37 @@
+{
+  "id": "prp-workflow",
+  "name": "prp-workflow",
+  "version": "1.0.0",
+  "summary": "Comprehensive PRP (Product Requirements Prompt) workflow for feature implementation. Use when user wants to implement complex features, needs a structured implementation plan, o...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "petyosi",
+    "github": "petyosi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/petyosi/rc",
+    "skill_md": "https://raw.githubusercontent.com/petyosi/rc/main/claude/skills/prp-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.593Z",
+  "created_at": "2025-12-23T00:23:28.521Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/petyosi%2Frc/claude%2Fskills%2Fprp-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.593Z",
+    "uniqueId": "sk_cc5466d965fa"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "weather-voice",
+  "name": "weather-voice",
+  "version": "1.0.0",
+  "summary": "Get real-time weather information using web search. Use when user asks about weather, temperature, forecast, or climate conditions for any location. Supports voice input (microp...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "az9713",
+    "github": "az9713"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/az9713/weather-voice-ai",
+    "skill_md": "https://raw.githubusercontent.com/az9713/weather-voice-ai/main/.claude/skills/weather-voice/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.557Z",
+  "created_at": "2025-12-23T01:28:44.047Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/az9713%2Fweather-voice-ai/.claude%2Fskills%2Fweather-voice%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.557Z",
+    "uniqueId": "sk_08ba745db216"
+  }
+}

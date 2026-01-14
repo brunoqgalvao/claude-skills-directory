@@ -1,0 +1,35 @@
+{
+  "id": "pattern-matching",
+  "name": "pattern-matching",
+  "version": "1.0.0",
+  "summary": "Master Effect pattern matching using Data.TaggedEnum, $match, $is, Match.typeTags, and Effect.match. Avoid manual _tag checks and Effect.either patterns. Use this skill when wor...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "front-depiction",
+    "github": "front-depiction"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/front-depiction/claude-setup",
+    "skill_md": "https://raw.githubusercontent.com/front-depiction/claude-setup/main/skills/pattern-matching/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:14.226Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/front-depiction%2Fclaude-setup/skills%2Fpattern-matching%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_1b75fd4fb472"
+  }
+}

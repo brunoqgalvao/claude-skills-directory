@@ -1,0 +1,36 @@
+{
+  "id": "drupal-tooling",
+  "name": "drupal-tooling",
+  "version": "1.0.0",
+  "summary": "Drupal development tooling skill for DDEV local environments and Drush command-line operations (Drupal 8-11+). Use when working with Docker-based development environments, Drush...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Omedia",
+    "github": "Omedia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Omedia/drupal-skill",
+    "skill_md": "https://raw.githubusercontent.com/Omedia/drupal-skill/main/drupal-tooling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:38.829Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Omedia%2Fdrupal-skill/drupal-tooling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_12828f393fd4"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "content-performance-analyzer",
+  "name": "content-performance-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes content marketing metrics to identify top performers, trends, and optimization opportunities. Use when reviewing blog posts, social media, or campaign performance. Acce...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fracabu",
+    "github": "fracabu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fracabu/claude-skill-factory",
+    "skill_md": "https://raw.githubusercontent.com/fracabu/claude-skill-factory/main/generated_skills/content-performance-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T09:23:46.000Z",
+  "created_at": "2025-12-22T16:59:55.074Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fracabu%2Fclaude-skill-factory/generated_skills%2Fcontent-performance-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_1488eff60579"
+  }
+}

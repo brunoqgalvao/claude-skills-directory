@@ -1,0 +1,36 @@
+{
+  "id": "cloudflare-dns",
+  "name": "cloudflare-dns",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for managing Cloudflare DNS with Azure integration. Use when configuring Cloudflare as authoritative DNS provider for Azure-hosted applications, managing DNS...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julianobarbosa",
+    "github": "julianobarbosa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julianobarbosa/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/cloudflare-dns-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:49.450Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julianobarbosa%2Fclaude-code-skills/skills%2Fcloudflare-dns-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_21802934a377"
+  }
+}

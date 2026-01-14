@@ -1,0 +1,35 @@
+{
+  "id": "extension-assessment",
+  "name": "extension-assessment",
+  "version": "1.0.0",
+  "summary": "評估日文詞彙卡片的語用延伸需求。\n分析六個面向：敬語、語氣、語域、褒貶義、暗喻、同義詞對比。\n使用時機：\n- 當想了解某個詞彙需要哪些延伸卡片\n- 當需要評估詞彙的語用複雜度\n- 當探索詞彙的社會語言學特徵\n- 當人工判斷是否需要建立延伸卡片\n關鍵字：延伸需求、敬語延伸、同義詞對比、語域分析、延伸卡片、語用分析",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tarrragon",
+    "github": "tarrragon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tarrragon/japanese_learning_blog",
+    "skill_md": "https://raw.githubusercontent.com/tarrragon/japanese_learning_blog/main/.claude/skills/extension-assessment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.842Z",
+  "created_at": "2025-12-22T16:06:23.548Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tarrragon%2Fjapanese_learning_blog/.claude%2Fskills%2Fextension-assessment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.842Z",
+    "uniqueId": "sk_a8049952c095"
+  }
+}

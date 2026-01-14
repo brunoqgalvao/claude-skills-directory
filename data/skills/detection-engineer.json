@@ -1,0 +1,36 @@
+{
+  "id": "detection-engineer",
+  "name": "detection-engineer",
+  "version": "1.0.0",
+  "summary": "Create detection rules and hunting queries from malware analysis findings. Use when you need to write Sigma rules for SIEM, Suricata rules for network IDS, defang IOCs for safe ...",
+  "verticals": [
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gl0bal01",
+    "github": "gl0bal01"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gl0bal01/malware-analysis-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gl0bal01/malware-analysis-claude-skills/main/detection-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.612Z",
+  "created_at": "2025-12-22T23:57:20.037Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gl0bal01%2Fmalware-analysis-claude-skills/detection-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.612Z",
+    "uniqueId": "sk_76abb08655b8"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "phase-templates",
+  "name": "phase-templates",
+  "version": "1.0.0",
+  "summary": "Reusable phase definitions for devloop workflows. Provides standardized patterns for discovery, implementation, review, and handoff phases. Commands reference these templates in...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zate",
+    "github": "Zate"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zate/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/Zate/cc-plugins/main/plugins/devloop/skills/phase-templates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:58:28.841Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zate%2Fcc-plugins/plugins%2Fdevloop%2Fskills%2Fphase-templates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_6f080574d5ac"
+  }
+}

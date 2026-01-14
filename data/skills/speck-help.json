@@ -1,0 +1,36 @@
+{
+  "id": "speck-help",
+  "name": "speck-help",
+  "version": "1.0.0",
+  "summary": "Answer questions about Speck specs, plans, tasks, requirements, progress, architecture, user stories, feature status, and constitution. Interprets spec.md, plan.md, tasks.md fil...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nprbst",
+    "github": "nprbst"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nprbst/speck",
+    "skill_md": "https://raw.githubusercontent.com/nprbst/speck/main/plugins/speck/skills/speck-help/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.670Z",
+  "created_at": "2025-12-22T22:16:27.066Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nprbst%2Fspeck/plugins%2Fspeck%2Fskills%2Fspeck-help%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.670Z",
+    "uniqueId": "sk_d482d37e45f1"
+  }
+}

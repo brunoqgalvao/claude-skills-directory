@@ -1,0 +1,37 @@
+{
+  "id": "cube-semantic-layer",
+  "name": "cube-semantic-layer",
+  "version": "1.0.0",
+  "summary": "Research-driven Cube semantic layer development. Injects research steps for data modeling, dbt integration, metrics, dimensions, REST API, GraphQL API, and SQL API (Postgres wir...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Obsidian-Owl",
+    "github": "Obsidian-Owl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Obsidian-Owl/floe-runtime",
+    "skill_md": "https://raw.githubusercontent.com/Obsidian-Owl/floe-runtime/main/.claude/skills/cube-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:01:12.188Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Obsidian-Owl%2Ffloe-runtime/.claude%2Fskills%2Fcube-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_d1055d3c9993"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "idiomatic-rust",
+  "name": "idiomatic-rust",
+  "version": "1.0.0",
+  "summary": "Idiomatic Rust patterns for pikru C port. Use when writing or reviewing Rust code ported from C. Don't write C in Rust - the goal is correct behavior, not line-by-line translation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bearcove",
+    "github": "bearcove"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bearcove/pikru",
+    "skill_md": "https://raw.githubusercontent.com/bearcove/pikru/main/.claude/skills/idiomatic-rust/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.567Z",
+  "created_at": "2025-12-23T01:28:35.962Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bearcove%2Fpikru/.claude%2Fskills%2Fidiomatic-rust%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_ede81f73ba92"
+  }
+}

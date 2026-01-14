@@ -1,0 +1,36 @@
+{
+  "id": "coder-memory-store",
+  "name": "coder-memory-store",
+  "version": "1.0.0",
+  "summary": "Store universal coding patterns into vector database. Auto-invokes after difficult tasks with broadly-applicable lessons. Trigger with \"--store\" or when user expresses frustrati...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hungson175",
+    "github": "hungson175"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hungson175/deploy-memory-tools",
+    "skill_md": "https://raw.githubusercontent.com/hungson175/deploy-memory-tools/main/global/v3.2/coder-memory-store/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:08.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hungson175%2Fdeploy-memory-tools/global%2Fv3.2%2Fcoder-memory-store%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_d8df182a45f9"
+  }
+}

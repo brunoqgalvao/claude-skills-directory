@@ -1,0 +1,35 @@
+{
+  "id": "dual-verification",
+  "name": "dual-verification",
+  "version": "1.0.0",
+  "summary": "Use two independent agents for reviews or research, then collate findings to identify common findings, unique insights, and divergences",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cipherstash",
+    "github": "cipherstash"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cipherstash/cipherpowers",
+    "skill_md": "https://raw.githubusercontent.com/cipherstash/cipherpowers/main/plugin/skills/dual-verification/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.623Z",
+  "created_at": "2025-12-22T23:18:45.875Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cipherstash%2Fcipherpowers/plugin%2Fskills%2Fdual-verification%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.623Z",
+    "uniqueId": "sk_547bffecfff6"
+  }
+}

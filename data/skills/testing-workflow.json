@@ -1,0 +1,37 @@
+{
+  "id": "testing-workflow",
+  "name": "testing-workflow",
+  "version": "1.0.0",
+  "summary": "Comprehensive testing workflow for E2E, integration, and unit tests. Use when testing applications layer-by-layer, validating user journeys, or running test suites.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amo-tech-ai",
+    "github": "amo-tech-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amo-tech-ai/medellin-spark",
+    "skill_md": "https://raw.githubusercontent.com/amo-tech-ai/medellin-spark/main/.claude/archive/skills/testing-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T09:24:50.000Z",
+  "created_at": "2025-12-22T16:28:34.352Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amo-tech-ai%2Fmedellin-spark/.claude%2Farchive%2Fskills%2Ftesting-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_031dcc0a1f71"
+  }
+}

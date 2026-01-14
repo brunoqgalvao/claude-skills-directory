@@ -1,0 +1,35 @@
+{
+  "id": "adr-graph-easy-architect",
+  "name": "adr-graph-easy-architect",
+  "version": "1.0.0",
+  "summary": "Create ASCII architecture diagrams for ADRs using graph-easy. Use when writing ADRs, adding diagrams to existing ADRs, or when user mentions \"ADR diagram\", \"architecture diagram...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/itp/skills/adr-graph-easy-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:18:56.724Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fitp%2Fskills%2Fadr-graph-easy-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_cf71030e781d"
+  }
+}

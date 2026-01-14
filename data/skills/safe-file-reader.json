@@ -4,40 +4,32 @@
   "version": "1.0.0",
   "summary": "Read files without making changes. Use when you need read-only file access.",
   "verticals": [
-    "Marketing"
+    "engineering"
   ],
-  "tags": [
-    "deno",
-    "go",
-    "hacktoberfest",
-    "lume",
-    "nix",
-    "personal-website",
-    "self-driving-car",
-    "web"
-  ],
+  "tags": [],
   "author": {
-    "name": "Xe",
-    "github": "Xe",
-    "avatar": "https://avatars.githubusercontent.com/u/529003?v=4"
+    "name": "KiefBC",
+    "github": "KiefBC"
   },
   "status": "ready",
   "verified": false,
   "visibility": "public",
-  "license": "Zlib",
+  "license": "MIT",
   "links": {
-    "repo": "https://github.com/Xe/site/tree/main/.claude/skills/safe-file-reader/SKILL.md",
-    "skill_md": "https://raw.githubusercontent.com/Xe/site/main/.claude/skills/safe-file-reader/SKILL.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install safe-file-reader"
+    "repo": "https://github.com/KiefBC/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/KiefBC/dotfiles/main/claude/.claude/plugins/marketplaces/kiefx-plugins/daddy-claude/skills/safe-reader/SKILL.md"
   },
   "stats": {
-    "stars": 708,
-    "forks": 118,
+    "stars": 0,
+    "forks": 0,
     "installs": 0
   },
-  "last_updated": "2026-01-02",
-  "created_at": "2016-12-14"
+  "last_updated": "2025-11-03T18:03:06.000Z",
+  "created_at": "2025-12-23T01:28:10.008Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KiefBC%2Fdotfiles/claude%2F.claude%2Fplugins%2Fmarketplaces%2Fkiefx-plugins%2Fdaddy-claude%2Fskills%2Fsafe-reader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.455Z",
+    "uniqueId": "sk_cab509438364"
+  }
 }

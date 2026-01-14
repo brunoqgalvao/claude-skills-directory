@@ -1,0 +1,35 @@
+{
+  "id": "supabase-fallback",
+  "name": "supabase-fallback",
+  "version": "1.0.0",
+  "summary": "Supabase DB 직접 접근. Use when (1) \"DB 조회/수정\", \"테이블 데이터\",\n(2) 온프레미스 Supabase PostgREST API, (3) Spring 미가동 시 fallback.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/biz/poc/skills/supabase-fallback/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:57:01.849Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fbiz%2Fpoc%2Fskills%2Fsupabase-fallback%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_e10671078e60"
+  }
+}

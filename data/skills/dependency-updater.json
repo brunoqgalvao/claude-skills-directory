@@ -1,0 +1,35 @@
+{
+  "id": "dependency-updater",
+  "name": "dependency-updater",
+  "version": "1.0.0",
+  "summary": "Smart dependency update checker with changelog summaries and breaking change detection.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CuriousLearner",
+    "github": "CuriousLearner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CuriousLearner/devkit",
+    "skill_md": "https://raw.githubusercontent.com/CuriousLearner/devkit/main/skills/dependency-updater/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:59:19.583Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CuriousLearner%2Fdevkit/skills%2Fdependency-updater%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_eb267075e51d"
+  }
+}

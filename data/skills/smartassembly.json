@@ -1,0 +1,37 @@
+{
+  "id": "smartassembly",
+  "name": "smartassembly",
+  "version": "1.0.0",
+  "summary": "Expert-level SmartAssembly scripting for SIGMAXIM's Creo Parametric automation. Use for: .tab script writing/review/debug, CREATE_UDF/ASSEMBLE commands, BEGIN_GUI_DESCR/BEGIN_TA...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dmdorta1111",
+    "github": "dmdorta1111"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dmdorta1111/jac-v1",
+    "skill_md": "https://raw.githubusercontent.com/dmdorta1111/jac-v1/main/.claude/skills/smartassembly/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.477Z",
+  "created_at": "2025-12-23T01:29:51.224Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dmdorta1111%2Fjac-v1/.claude%2Fskills%2Fsmartassembly%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_f65b21c4919d"
+  }
+}

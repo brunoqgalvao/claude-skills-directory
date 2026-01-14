@@ -1,0 +1,35 @@
+{
+  "id": "create-decision-log",
+  "name": "create-decision-log",
+  "version": "1.0.0",
+  "summary": "의사결정 로그 Discussion 생성. 회의/Slack/PR 등에서 결정된 사항을 command-center에 기록.\nUse when (1) 의사결정 기록 요청, (2) 회의 결정사항 문서화, (3) summarize-meeting 스킬에서 호출.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/biz/management/skills/create-decision-log/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:30:47.126Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fbiz%2Fmanagement%2Fskills%2Fcreate-decision-log%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_bfc9703f4565"
+  }
+}

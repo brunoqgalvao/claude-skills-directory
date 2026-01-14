@@ -1,0 +1,35 @@
+{
+  "id": "jelly-docx",
+  "name": "jelly-docx",
+  "version": "1.0.0",
+  "summary": "Comprehensive document creation, editing, and analysis with support for tracked changes, comments, formatting preservation, and text extraction. Activated when users work with ....",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-jelly",
+    "github": "dev-jelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-jelly/jelly-dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/dev-jelly/jelly-dotclaude/main/skills/jelly-docx/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T16:10:00.000Z",
+  "created_at": "2025-12-23T01:29:25.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-jelly%2Fjelly-dotclaude/skills%2Fjelly-docx%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_76d2c87b7bf7"
+  }
+}

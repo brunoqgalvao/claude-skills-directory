@@ -1,0 +1,35 @@
+{
+  "id": "pr-agent",
+  "name": "pr-agent",
+  "version": "1.0.0",
+  "summary": "PRAgent スキル - Pull Request自動作成・Conventional Commits準拠・Draft PR自動生成。\nコード実装完了後、GitHub PRを自動作成し、レビュワー割り当て・説明文生成・関連Issue紐付けを実行。\n\nUse when:\n- Pull Requestを作成する時\n- Conventional Commit...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ShunsukeHayashi",
+    "github": "ShunsukeHayashi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ShunsukeHayashi/omakase-ai",
+    "skill_md": "https://raw.githubusercontent.com/ShunsukeHayashi/omakase-ai/main/.claude/skills/pr-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:40.931Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ShunsukeHayashi%2Fomakase-ai/.claude%2Fskills%2Fpr-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_b15a3b8772fd"
+  }
+}

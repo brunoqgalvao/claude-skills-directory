@@ -1,0 +1,35 @@
+{
+  "id": "model-interaction-api",
+  "name": "model-interaction-api",
+  "version": "1.0.0",
+  "summary": "Simple API for interacting with locally hosted models via vLLM. Use when you need to chat with a model, send messages, or generate responses from a local model server.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aghyad-deeb",
+    "github": "aghyad-deeb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aghyad-deeb/reward_seeker",
+    "skill_md": "https://raw.githubusercontent.com/aghyad-deeb/reward_seeker/main/environments/eval_envs/claude_testing/.claude/skills/model-interaction-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T02:27:56.000Z",
+  "created_at": "2025-12-22T15:53:17.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aghyad-deeb%2Freward_seeker/environments%2Feval_envs%2Fclaude_testing%2F.claude%2Fskills%2Fmodel-interaction-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_2efebe03fbc4"
+  }
+}

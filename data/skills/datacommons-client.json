@@ -1,0 +1,36 @@
+{
+  "id": "datacommons-client",
+  "name": "datacommons-client",
+  "version": "1.0.0",
+  "summary": "Work with Data Commons, a platform providing programmatic access to public statistical data from global sources. Use this skill when working with demographic data, economic indi...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/scientific-pkg-datacommons-client/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.460Z",
+  "created_at": "2025-12-22T19:11:23.065Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fscientific-pkg-datacommons-client%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_7a5a0fa94464"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "semantic-search",
+  "name": "semantic-search",
+  "version": "1.0.0",
+  "summary": "Implement and debug semantic/vector search with model2vec-rs and sqlite-vec. Use for embedding generation, vector queries, hybrid search, or RRF fusion.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TrevorS",
+    "github": "TrevorS"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TrevorS/glhf",
+    "skill_md": "https://raw.githubusercontent.com/TrevorS/glhf/main/.claude/skills/semantic-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:41.326Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TrevorS%2Fglhf/.claude%2Fskills%2Fsemantic-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_e29efbaaa880"
+  }
+}

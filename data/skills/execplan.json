@@ -1,0 +1,35 @@
+{
+  "id": "execplan",
+  "name": "execplan",
+  "version": "1.0.0",
+  "summary": "Create comprehensive execution plans (ExecPlans) following PLANS.md methodology. Use ONLY when user explicitly mentions \"execplan\" or \"exec plan\" in their request.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "doodledood",
+    "github": "doodledood"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/doodledood/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/doodledood/claude-code-plugins/main/claude-plugins/planning/skills/execplan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T10:44:52.000Z",
+  "created_at": "2025-12-22T15:51:48.641Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/doodledood%2Fclaude-code-plugins/claude-plugins%2Fplanning%2Fskills%2Fexecplan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_fdfe629f3ec6"
+  }
+}

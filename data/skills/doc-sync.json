@@ -1,0 +1,35 @@
+{
+  "id": "doc-sync",
+  "name": "doc-sync",
+  "version": "1.0.0",
+  "summary": "Sync AGENTS.md files by extracting knowledge from completed work threads. Use after closing an epic or manually with doc-sync command.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ReinaMacCredy",
+    "github": "ReinaMacCredy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ReinaMacCredy/maestro",
+    "skill_md": "https://raw.githubusercontent.com/ReinaMacCredy/maestro/main/skills/doc-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:23.268Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ReinaMacCredy%2Fmaestro/skills%2Fdoc-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_bac14d84450a"
+  }
+}

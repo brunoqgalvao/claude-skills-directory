@@ -1,0 +1,36 @@
+{
+  "id": "foundation-models-diag",
+  "name": "foundation-models-diag",
+  "version": "1.0.0",
+  "summary": "Use when debugging Foundation Models issues — context exceeded, guardrail violations, slow generation, availability problems, unsupported language, or unexpected output. Systema...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CharlesWiltgen",
+    "github": "CharlesWiltgen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CharlesWiltgen/Axiom",
+    "skill_md": "https://raw.githubusercontent.com/CharlesWiltgen/Axiom/main/.claude-plugin/plugins/axiom/skills/foundation-models-diag/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:18:27.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CharlesWiltgen%2FAxiom/.claude-plugin%2Fplugins%2Faxiom%2Fskills%2Ffoundation-models-diag%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_15cc5e13d8ed"
+  }
+}

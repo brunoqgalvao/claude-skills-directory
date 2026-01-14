@@ -1,0 +1,35 @@
+{
+  "id": "pyx",
+  "name": "pyx",
+  "version": "1.0.0",
+  "summary": "Safe Python code execution using pyx CLI. Use when: running Python, executing scripts, testing code. Triggers: pyx, run python, execute code, test script. Default mode: MANIFEST...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Anudorannador",
+    "github": "Anudorannador"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Anudorannador/python-executor",
+    "skill_md": "https://raw.githubusercontent.com/Anudorannador/python-executor/main/docs/pyx/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T07:21:05.000Z",
+  "created_at": "2025-12-23T01:28:30.226Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Anudorannador%2Fpython-executor/docs%2Fpyx%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_9aaf70a3591a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "verify-constraints",
+  "name": "verify-constraints",
+  "version": "1.0.0",
+  "summary": "Verify business constraints and invariants from spec. Generates proofs\nfor proof_obligation constraints and plans runtime checks for others.\nUse when: verifying invariants, chec...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BellaBe",
+    "github": "BellaBe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BellaBe/lean-os",
+    "skill_md": "https://raw.githubusercontent.com/BellaBe/lean-os/main/.claude/skills/engineering-verify-constraints/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T13:54:03.000Z",
+  "created_at": "2025-12-22T20:13:03.221Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BellaBe%2Flean-os/.claude%2Fskills%2Fengineering-verify-constraints%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.759Z",
+    "uniqueId": "sk_f0f8d5fc667e"
+  }
+}

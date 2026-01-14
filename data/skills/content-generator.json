@@ -1,0 +1,35 @@
+{
+  "id": "content-generator",
+  "name": "content-generator",
+  "version": "1.0.0",
+  "summary": "퀴즈/투표/토너먼트 콘텐츠 데이터 생성. 주어진 카테고리와 타입에 맞는 콘텐츠 생성 시 사용.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dayoumin",
+    "github": "dayoumin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dayoumin/mbti",
+    "skill_md": "https://raw.githubusercontent.com/dayoumin/mbti/main/.claude/skills/content-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.796Z",
+  "created_at": "2025-12-22T18:16:23.498Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dayoumin%2Fmbti/.claude%2Fskills%2Fcontent-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.796Z",
+    "uniqueId": "sk_38a8ed9cc08a"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "test-specialist",
+  "name": "test-specialist",
+  "version": "1.0.0",
+  "summary": "This skill should be used when writing test cases, fixing bugs, analyzing code for potential issues, or improving test coverage for JavaScript/TypeScript applications. Use this ...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tmoody1973",
+    "github": "tmoody1973"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tmoody1973/hakivo-v2",
+    "skill_md": "https://raw.githubusercontent.com/tmoody1973/hakivo-v2/main/hakivo-api/.claude/skills/test-specialist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.448Z",
+  "created_at": "2025-12-22T22:04:42.627Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tmoody1973%2Fhakivo-v2/hakivo-api%2F.claude%2Fskills%2Ftest-specialist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.448Z",
+    "uniqueId": "sk_fbade6538084"
+  }
+}

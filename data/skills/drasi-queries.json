@@ -1,0 +1,35 @@
+{
+  "id": "drasi-queries",
+  "name": "drasi-queries",
+  "version": "1.0.0",
+  "summary": "Guide for writing Drasi continuous queries using Cypher. Use this when asked to create, modify, or troubleshoot Drasi queries.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lukemurraynz",
+    "github": "lukemurraynz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lukemurraynz/copilot-archetypes",
+    "skill_md": "https://raw.githubusercontent.com/lukemurraynz/copilot-archetypes/main/.github/skills/drasi-queries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:15:11.983Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lukemurraynz%2Fcopilot-archetypes/.github%2Fskills%2Fdrasi-queries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_b17ab599f984"
+  }
+}

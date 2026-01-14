@@ -1,0 +1,35 @@
+{
+  "id": "prp-core-runner",
+  "name": "prp-core-runner",
+  "version": "1.0.0",
+  "summary": "Orchestrate complete PRP workflow from feature request to pull request. Run create branch, create PRP, execute implementation, commit changes, and create PR in sequence. Use whe...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Wirasm",
+    "github": "Wirasm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Wirasm/PRPs-agentic-eng",
+    "skill_md": "https://raw.githubusercontent.com/Wirasm/PRPs-agentic-eng/main/.claude/skills/prp-core-runner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-24T12:28:41.000Z",
+  "created_at": "2025-12-23T01:28:40.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Wirasm%2FPRPs-agentic-eng/.claude%2Fskills%2Fprp-core-runner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.447Z",
+    "uniqueId": "sk_9b7f3b22c33c"
+  }
+}

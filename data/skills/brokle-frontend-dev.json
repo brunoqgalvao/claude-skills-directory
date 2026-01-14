@@ -1,0 +1,35 @@
+{
+  "id": "brokle-frontend-dev",
+  "name": "brokle-frontend-dev",
+  "version": "1.0.0",
+  "summary": "Use this skill when developing, implementing, or modifying Next.js/React frontend code for the Brokle web application. This includes creating components, pages, hooks, API clien...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brokle-ai",
+    "github": "brokle-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brokle-ai/brokle",
+    "skill_md": "https://raw.githubusercontent.com/brokle-ai/brokle/main/.claude/skills/brokle-frontend-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.469Z",
+  "created_at": "2025-12-23T01:30:51.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brokle-ai%2Fbrokle/.claude%2Fskills%2Fbrokle-frontend-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.469Z",
+    "uniqueId": "sk_ce1c2f1cce32"
+  }
+}

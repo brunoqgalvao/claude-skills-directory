@@ -1,0 +1,36 @@
+{
+  "id": "conversation-archaeologist",
+  "name": "conversation-archaeologist",
+  "version": "1.0.0",
+  "summary": "Mine ALL past Claude conversations to build a living 'User Manual About You'. Extract writing style, business context, goals, preferences, and patterns. Make all other skills sm...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gked2121",
+    "github": "gked2121"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gked2121/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gked2121/claude-skills/main/conversation-archaeologist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-22T15:47:55.000Z",
+  "created_at": "2025-12-23T01:28:34.675Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gked2121%2Fclaude-skills/conversation-archaeologist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.454Z",
+    "uniqueId": "sk_b2f7cfeee0bf"
+  }
+}

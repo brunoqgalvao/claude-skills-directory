@@ -1,0 +1,35 @@
+{
+  "id": "extend-signal-schema",
+  "name": "extend-signal-schema",
+  "version": "1.0.0",
+  "summary": "Safely extend or refine AFI signal schemas and closely-related validators in afi-core, while preserving determinism, respecting PoI/PoInsight design, and obeying the AFI Droid C...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AFI-Protocol",
+    "github": "AFI-Protocol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AFI-Protocol/afi-core",
+    "skill_md": "https://raw.githubusercontent.com/AFI-Protocol/afi-core/main/.factory/skills/extend-signal-schema/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.395Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AFI-Protocol%2Fafi-core/.factory%2Fskills%2Fextend-signal-schema%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_dbb644f5feda"
+  }
+}

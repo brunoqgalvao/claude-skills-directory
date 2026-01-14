@@ -2,37 +2,34 @@
   "id": "cleanup",
   "name": "cleanup",
   "version": "1.0.0",
-  "summary": "Project organization expert - analyzes project state, detects redundancy, consolidates files, removes obsolete content, maintains structure integrity",
+  "summary": "Archive processed inbox items. Activate when user says \"cleanup\", \"archive inbox\". Moves session summaries to archive, keeps inbox clean for new items.",
   "verticals": [
-    "Engineering",
-    "Marketing"
+    "operations"
   ],
-  "tags": [
-    "cleanup",
-    "ai"
-  ],
+  "tags": [],
   "author": {
-    "name": "Brownbull",
-    "github": "Brownbull",
-    "avatar": "https://avatars.githubusercontent.com/u/16549632?v=4"
+    "name": "joshuacook",
+    "github": "joshuacook"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/Brownbull/taskflow/tree/main/.claude/skills/utility/cleanup/skill.md",
-    "skill_md": "https://raw.githubusercontent.com/Brownbull/taskflow/main/.claude/skills/utility/cleanup/skill.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install cleanup"
+    "repo": "https://github.com/joshuacook/motoko",
+    "skill_md": "https://raw.githubusercontent.com/joshuacook/motoko/main/.claude/skills/cleanup/SKILL.md"
   },
   "stats": {
     "stars": 0,
     "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-11-10",
-  "created_at": "2025-11-07"
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:27.866Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshuacook%2Fmotoko/.claude%2Fskills%2Fcleanup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_4ccaac0390da"
+  }
 }

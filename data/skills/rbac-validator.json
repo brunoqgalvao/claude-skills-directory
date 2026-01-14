@@ -1,0 +1,35 @@
+{
+  "id": "rbac-validator",
+  "name": "rbac-validator",
+  "version": "1.0.0",
+  "summary": "Validates role-based access control (RBAC) implementation for four-tier permissions in the NABIP AMS (Member, Chapter Admin, State Admin, National Admin). Use when implementing ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "markus41",
+    "github": "markus41"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/markus41/nabip-association-ma",
+    "skill_md": "https://raw.githubusercontent.com/markus41/nabip-association-ma/main/.claude/skills/rbac-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.676Z",
+  "created_at": "2025-12-22T22:12:52.270Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/markus41%2Fnabip-association-ma/.claude%2Fskills%2Frbac-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.676Z",
+    "uniqueId": "sk_47535613a8fc"
+  }
+}

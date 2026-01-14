@@ -1,0 +1,35 @@
+{
+  "id": "cors-config-generator",
+  "name": "cors-config-generator",
+  "version": "1.0.0",
+  "summary": "Generate CORS configuration files for API cross-origin resource sharing. Triggers on \"create cors config\", \"generate cors configuration\", \"cors setup\", \"cross-origin config\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/cors-config-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:17:56.000Z",
+  "created_at": "2025-12-23T01:28:21.162Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/cors-config-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_f6ffac69396a"
+  }
+}

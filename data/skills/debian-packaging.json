@@ -1,0 +1,37 @@
+{
+  "id": "debian-packaging",
+  "name": "debian-packaging",
+  "version": "1.0.0",
+  "summary": "Expert Debian package builder specializing in git-buildpackage, debhelper, and Debian Policy compliance. Use for .deb packaging, debian/ directory work, dpkg operations, and pac...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "UtsavBalar1231",
+    "github": "UtsavBalar1231"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/UtsavBalar1231/claude-code-configs",
+    "skill_md": "https://raw.githubusercontent.com/UtsavBalar1231/claude-code-configs/main/skills/debian-packaging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:04:00.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/UtsavBalar1231%2Fclaude-code-configs/skills%2Fdebian-packaging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_26a38598eac3"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "quick-commit",
+  "name": "quick-commit",
+  "version": "1.0.0",
+  "summary": "Create a git commit with a short message (up to 50 characters). Use when the user asks to commit changes with a short/concise message.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LimitlessSoft",
+    "github": "LimitlessSoft"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LimitlessSoft/termodom--ecosystem",
+    "skill_md": "https://raw.githubusercontent.com/LimitlessSoft/termodom--ecosystem/main/.claude/skills/quick-commit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:58:58.760Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LimitlessSoft%2Ftermodom--ecosystem/.claude%2Fskills%2Fquick-commit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_20b230eec263"
+  }
+}

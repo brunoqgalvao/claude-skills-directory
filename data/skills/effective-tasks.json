@@ -1,0 +1,35 @@
+{
+  "id": "effective-tasks",
+  "name": "effective-tasks",
+  "version": "1.0.0",
+  "summary": "Best practices for writing SIMBL tasks that Claude can execute with zero context. Use when creating or refining tasks for maximum clarity.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yebot",
+    "github": "yebot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yebot/rad-cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/yebot/rad-cc-plugins/main/plugins/simbl/skills/effective-tasks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:08.308Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yebot%2Frad-cc-plugins/plugins%2Fsimbl%2Fskills%2Feffective-tasks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_3472b5c6e717"
+  }
+}

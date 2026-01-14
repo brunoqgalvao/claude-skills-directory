@@ -1,0 +1,36 @@
+{
+  "id": "quality-gate",
+  "name": "quality-gate",
+  "version": "1.0.0",
+  "summary": "Comprehensive quality validation for TypeScript/JavaScript projects - runs TypeScript checks, tests, coverage analysis, build validation, and linting with structured JSON results",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BerryKuipers",
+    "github": "BerryKuipers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BerryKuipers/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/BerryKuipers/claude-code-toolkit/main/.claude/api-skills-source/quality-gate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:25.593Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BerryKuipers%2Fclaude-code-toolkit/.claude%2Fapi-skills-source%2Fquality-gate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_ab78b458fce3"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "issue-template-generator",
+  "name": "issue-template-generator",
+  "version": "1.0.0",
+  "summary": "Generate GitHub issue templates for bug reports, feature requests, and questions. Triggers on \"create issue template\", \"generate github issue template\", \"bug report template\", \"...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/issue-template-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:17:56.000Z",
+  "created_at": "2025-12-23T01:28:20.534Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/issue-template-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_c8753fcaa6df"
+  }
+}

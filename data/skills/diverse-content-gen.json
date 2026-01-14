@@ -1,0 +1,36 @@
+{
+  "id": "diverse-content-gen",
+  "name": "diverse-content-gen",
+  "version": "1.0.0",
+  "summary": "Agent workflow for generating highly diverse creative content using Verbalized Sampling (VS) technique. Use when user requests multiple variations, brainstorming, creative ideas...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rfxlamia",
+    "github": "rfxlamia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rfxlamia/flow",
+    "skill_md": "https://raw.githubusercontent.com/rfxlamia/flow/main/creative-studio/00-diverse-content-gen/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T06:08:46.000Z",
+  "created_at": "2025-12-23T01:29:12.479Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rfxlamia%2Fflow/creative-studio%2F00-diverse-content-gen%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_831d9a401953"
+  }
+}

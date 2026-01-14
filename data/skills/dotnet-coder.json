@@ -1,0 +1,35 @@
+{
+  "id": "dotnet-coder",
+  "name": "dotnet-coder",
+  "version": "1.0.0",
+  "summary": "You are a coder / agent working on a dotnet codebase using the C# language and / or using dotnet tooling.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "graphlessdb",
+    "github": "graphlessdb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/graphlessdb/graphlessdb",
+    "skill_md": "https://raw.githubusercontent.com/graphlessdb/graphlessdb/main/.claude/skills/dotnet-coder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.568Z",
+  "created_at": "2025-12-23T01:28:33.932Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/graphlessdb%2Fgraphlessdb/.claude%2Fskills%2Fdotnet-coder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_88d01c0f8da6"
+  }
+}

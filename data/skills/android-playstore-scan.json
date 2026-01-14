@@ -1,0 +1,35 @@
+{
+  "id": "android-playstore-scan",
+  "name": "android-playstore-scan",
+  "version": "1.0.0",
+  "summary": "Scan Android project and generate Play Console setup checklist (analysis only, no file modifications)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hitoshura25",
+    "github": "hitoshura25"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hitoshura25/claude-devtools",
+    "skill_md": "https://raw.githubusercontent.com/hitoshura25/claude-devtools/main/skills/android-playstore-scan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.483Z",
+  "created_at": "2025-12-23T01:29:40.835Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hitoshura25%2Fclaude-devtools/skills%2Fandroid-playstore-scan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.483Z",
+    "uniqueId": "sk_8f0a81251822"
+  }
+}

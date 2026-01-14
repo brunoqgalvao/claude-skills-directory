@@ -1,0 +1,37 @@
+{
+  "id": "analytics-flow",
+  "name": "analytics-flow",
+  "version": "1.0.0",
+  "summary": "Analytics and data analysis workflow skill",
+  "verticals": [
+    "marketing",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vladm3105",
+    "github": "vladm3105"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vladm3105/aidoc-flow-framework",
+    "skill_md": "https://raw.githubusercontent.com/vladm3105/aidoc-flow-framework/main/.claude/skills/analytics-flow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:18:08.654Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vladm3105%2Faidoc-flow-framework/.claude%2Fskills%2Fanalytics-flow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_11e3f71bee53"
+  }
+}

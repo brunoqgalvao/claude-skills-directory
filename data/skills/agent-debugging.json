@@ -1,0 +1,35 @@
+{
+  "id": "agent-debugging",
+  "name": "agent-debugging",
+  "version": "1.0.0",
+  "summary": "Debug and troubleshoot ElevenLabs conversational AI agents and Twilio calls. Use when diagnosing agent issues, analyzing failed calls, troubleshooting audio problems, investigat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onesmartguy",
+    "github": "onesmartguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onesmartguy/next-level-real-estate",
+    "skill_md": "https://raw.githubusercontent.com/onesmartguy/next-level-real-estate/main/.claude/skills/agent-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:17:58.460Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onesmartguy%2Fnext-level-real-estate/.claude%2Fskills%2Fagent-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_cbbdfe982fae"
+  }
+}

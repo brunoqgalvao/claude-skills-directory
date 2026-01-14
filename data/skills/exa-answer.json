@@ -1,0 +1,35 @@
+{
+  "id": "exa-answer",
+  "name": "exa-answer",
+  "version": "1.0.0",
+  "summary": "Generate answers to questions with structured output using AI search and synthesis. Use when you need factual answers with citations from web sources, or when you want to extrac...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benjaminjackson",
+    "github": "benjaminjackson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benjaminjackson/exa-skills",
+    "skill_md": "https://raw.githubusercontent.com/benjaminjackson/exa-skills/main/exa-core/skills/answer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T21:19:52.000Z",
+  "created_at": "2025-12-23T01:29:23.814Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benjaminjackson%2Fexa-skills/exa-core%2Fskills%2Fanswer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_ede412a1df6e"
+  }
+}

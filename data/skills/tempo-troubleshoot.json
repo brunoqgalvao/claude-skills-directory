@@ -1,0 +1,35 @@
+{
+  "id": "tempo-troubleshoot",
+  "name": "tempo-troubleshoot",
+  "version": "1.0.0",
+  "summary": "Help craft efficient Tempo trace queries, troubleshoot distributed traces, link logs and metrics (Loki/Mimir), and perform request-level root cause analysis.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timbuchinger",
+    "github": "timbuchinger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timbuchinger/loadout",
+    "skill_md": "https://raw.githubusercontent.com/timbuchinger/loadout/main/skills/tempo-troubleshoot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:18.709Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timbuchinger%2Floadout/skills%2Ftempo-troubleshoot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_24b57dece039"
+  }
+}

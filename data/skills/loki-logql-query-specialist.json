@@ -1,0 +1,36 @@
+{
+  "id": "loki-logql-query-specialist",
+  "name": "loki-logql-query-specialist",
+  "version": "1.0.0",
+  "summary": "Query and analyze logs using Loki and LogQL. Provides patterns for correlation ID tracing, error investigation, and service debugging using HuleEdu's structured logging. Integra...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paunchygent",
+    "github": "paunchygent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paunchygent/docforge",
+    "skill_md": "https://raw.githubusercontent.com/paunchygent/docforge/main/frontend/.claude/skills/loki-logql/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T02:12:14.000Z",
+  "created_at": "2025-12-22T15:55:41.844Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paunchygent%2Fdocforge/frontend%2F.claude%2Fskills%2Floki-logql%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_e778397559a6"
+  }
+}

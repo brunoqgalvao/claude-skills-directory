@@ -1,0 +1,37 @@
+{
+  "id": "stripe",
+  "name": "stripe",
+  "version": "1.0.0",
+  "summary": "Implement Stripe Connect payments for PhotoVault marketplace using destination charges. Use when working with checkout sessions, webhook handlers, platform subscriptions ($22/mo...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanielcrowell12-spec",
+    "github": "nathanielcrowell12-spec"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanielcrowell12-spec/photo-vault",
+    "skill_md": "https://raw.githubusercontent.com/nathanielcrowell12-spec/photo-vault/main/.claude/skills/stripe/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:06:01.736Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanielcrowell12-spec%2Fphoto-vault/.claude%2Fskills%2Fstripe%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_22eb032d7d01"
+  }
+}

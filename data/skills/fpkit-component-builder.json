@@ -1,0 +1,37 @@
+{
+  "id": "fpkit-component-builder",
+  "name": "fpkit-component-builder",
+  "version": "1.0.0",
+  "summary": "Build React components using @fpkit/acss library patterns. Scaffolds complete component structures (tsx, types, scss, stories, tests), validates CSS variables follow naming conv...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shawn-sandy",
+    "github": "shawn-sandy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shawn-sandy/acss",
+    "skill_md": "https://raw.githubusercontent.com/shawn-sandy/acss/main/.claude/fpkit-component-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:15:23.101Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shawn-sandy%2Facss/.claude%2Ffpkit-component-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_347ab61ca7c7"
+  }
+}

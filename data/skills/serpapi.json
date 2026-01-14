@@ -1,0 +1,35 @@
+{
+  "id": "serpapi",
+  "name": "serpapi",
+  "version": "1.0.0",
+  "summary": "SerpApi search engine results API via curl. Use this skill to scrape Google, Bing, YouTube, and other search engines.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-skills",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-skills/main/serpapi/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:35.291Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-skills/serpapi%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_8fcb5ede29e9"
+  }
+}

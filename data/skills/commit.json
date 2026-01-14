@@ -1,0 +1,35 @@
+{
+  "id": "commit",
+  "name": "commit",
+  "version": "1.0.0",
+  "summary": "Creates commits with generated messages following project conventions. Use when asked to commit changes or create a commit.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arowinski",
+    "github": "arowinski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arowinski/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/arowinski/dotfiles/main/claude/skills/commit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T12:23:33.000Z",
+  "created_at": "2025-12-22T15:51:18.310Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arowinski%2Fdotfiles/claude%2Fskills%2Fcommit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_6d7032dd0945"
+  }
+}

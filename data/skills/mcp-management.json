@@ -1,0 +1,35 @@
+{
+  "id": "mcp-management",
+  "name": "mcp-management",
+  "version": "1.0.0",
+  "summary": "Manage Model Context Protocol (MCP) servers - discover, analyze, and execute tools/prompts/resources from configured MCP servers. Use when working with MCP integrations, need to...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "untangledfinance",
+    "github": "untangledfinance"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/untangledfinance/untangled-web",
+    "skill_md": "https://raw.githubusercontent.com/untangledfinance/untangled-web/main/.claude/skills/mcp-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T02:52:06.000Z",
+  "created_at": "2025-12-22T19:13:05.475Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/untangledfinance%2Funtangled-web/.claude%2Fskills%2Fmcp-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_e1447730349f"
+  }
+}

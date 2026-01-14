@@ -1,0 +1,36 @@
+{
+  "id": "process-file",
+  "name": "process-file",
+  "version": "1.0.0",
+  "summary": "Process arbitrary files (email, PDF, Office docs, images, audio/video) and integrate with AkashicRecords for intelligent archiving. Reads file content, analyzes intent, and sugg...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eternnoir",
+    "github": "eternnoir"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eternnoir/claude-tool",
+    "skill_md": "https://raw.githubusercontent.com/eternnoir/claude-tool/main/akashicrecords/skills/process-file/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T05:52:49.000Z",
+  "created_at": "2025-12-23T01:29:24.613Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eternnoir%2Fclaude-tool/akashicrecords%2Fskills%2Fprocess-file%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.501Z",
+    "uniqueId": "sk_acbc33faff9a"
+  }
+}

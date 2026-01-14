@@ -1,0 +1,36 @@
+{
+  "id": "advanced",
+  "name": "advanced",
+  "version": "1.0.0",
+  "summary": "Claude Code mastery for power users. Build agents, MCP servers, publish plugins.\nUse when: user wants to create agents, build integrations, or publish plugins.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/ccc/skills/advanced/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T10:35:32.000Z",
+  "created_at": "2025-12-23T01:28:40.099Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/ccc%2Fskills%2Fadvanced%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_8fd71ec3be8a"
+  }
+}

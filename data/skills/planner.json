@@ -1,0 +1,36 @@
+{
+  "id": "planner",
+  "name": "planner",
+  "version": "1.0.0",
+  "summary": "Use when planning feature implementations, creating design artifacts, or structuring development tasks. Apply when user mentions planning, designing, architecting new features, ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MRenAIAgent",
+    "github": "MRenAIAgent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MRenAIAgent/mini_agent",
+    "skill_md": "https://raw.githubusercontent.com/MRenAIAgent/mini_agent/main/.claude/skills/planner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:10.925Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MRenAIAgent%2Fmini_agent/.claude%2Fskills%2Fplanner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_9023c207064b"
+  }
+}

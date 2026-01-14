@@ -1,0 +1,36 @@
+{
+  "id": "plugin-master",
+  "name": "plugin-master",
+  "version": "1.0.0",
+  "summary": "Complete Claude Code plugin development system. PROACTIVELY activate when users want to: (1) Create/build/make plugins, (2) Add/create skills/commands/agents, (3) Package existi...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JosiahSiegel",
+    "github": "JosiahSiegel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JosiahSiegel/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/JosiahSiegel/claude-code-marketplace/main/plugins/plugin-master/skills/plugin-master/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:27:24.258Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JosiahSiegel%2Fclaude-code-marketplace/plugins%2Fplugin-master%2Fskills%2Fplugin-master%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_1db84b0d5c15"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "architecture-paradigm-cqrs-es",
+  "name": "architecture-paradigm-cqrs-es",
+  "version": "1.0.0",
+  "summary": "Apply Command Query Responsibility Segregation (CQRS) and Event Sourcing (ES) for collaboration-heavy domains that require strong auditability and independent scaling of reads a...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/archetypes/skills/architecture-paradigm-cqrs-es/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T02:20:43.000Z",
+  "created_at": "2025-12-22T16:28:21.736Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Farchetypes%2Fskills%2Farchitecture-paradigm-cqrs-es%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_7e14c969d37c"
+  }
+}

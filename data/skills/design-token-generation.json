@@ -1,0 +1,36 @@
+{
+  "id": "design-token-generation",
+  "name": "design-token-generation",
+  "version": "1.0.0",
+  "summary": "Generates design tokens from multi-dimensional configurations, creating hierarchical token names with proper naming conventions. Use when building design systems, creating token...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "osama-eldrieny",
+    "github": "osama-eldrieny"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/osama-eldrieny/design-token-generator",
+    "skill_md": "https://raw.githubusercontent.com/osama-eldrieny/design-token-generator/main/.github/skills/design-token-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:07:15.439Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/osama-eldrieny%2Fdesign-token-generator/.github%2Fskills%2Fdesign-token-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_acddd9cd656a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "repo-explore",
+  "name": "repo-explore",
+  "version": "1.0.0",
+  "summary": "Clone and explore external GitHub repositories to understand how libraries, frameworks, or dependencies work. Use when user provides a GitHub URL (github.com/owner/repo), asks \"...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "abatilo",
+    "github": "abatilo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/abatilo/vimrc",
+    "skill_md": "https://raw.githubusercontent.com/abatilo/vimrc/main/skills/repo-explore/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T07:04:05.000Z",
+  "created_at": "2025-12-22T17:08:10.098Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/abatilo%2Fvimrc/skills%2Frepo-explore%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_a7388c0bdd5d"
+  }
+}

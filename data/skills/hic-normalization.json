@@ -1,0 +1,36 @@
+{
+  "id": "hic-normalization",
+  "name": "hic-normalization",
+  "version": "1.0.0",
+  "summary": "Automatically detect and normalize Hi-C data. Only .cool or .mcool file is supported. All .mcool files are then checked for existing normalization (supports bins/weight only) an...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BIsnake2001",
+    "github": "BIsnake2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BIsnake2001/ChromSkills",
+    "skill_md": "https://raw.githubusercontent.com/BIsnake2001/ChromSkills/main/16_toolBased.hic-normalization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:09:02.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BIsnake2001%2FChromSkills/16_toolBased.hic-normalization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_3ec2589f06b6"
+  }
+}

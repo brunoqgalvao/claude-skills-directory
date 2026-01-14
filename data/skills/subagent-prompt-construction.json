@@ -1,0 +1,36 @@
+{
+  "id": "subagent-prompt-construction",
+  "name": "subagent-prompt-construction",
+  "version": "1.0.0",
+  "summary": "Systematic methodology for constructing compact (<150 lines), expressive, Claude Code-integrated subagent prompts using lambda contracts and symbolic logic. Use when creating ne...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yaleh",
+    "github": "yaleh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yaleh/meta-cc",
+    "skill_md": "https://raw.githubusercontent.com/yaleh/meta-cc/main/.claude/skills/subagent-prompt-construction/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T03:31:00.000Z",
+  "created_at": "2025-12-23T01:28:35.317Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yaleh%2Fmeta-cc/.claude%2Fskills%2Fsubagent-prompt-construction%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_d99c423572d5"
+  }
+}

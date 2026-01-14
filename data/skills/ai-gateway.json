@@ -1,0 +1,37 @@
+{
+  "id": "ai-gateway",
+  "name": "ai-gateway",
+  "version": "1.0.0",
+  "summary": "Build AI gateway services for routing and managing LLM requests. Use when implementing API proxies, rate limiting, or multi-provider AI services.",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoeffer",
+    "github": "astoeffer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoeffer/plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/astoeffer/plugin-marketplace/main/plugins/cloodle-ai-integration/skills/ai-gateway/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T15:06:06.000Z",
+  "created_at": "2025-12-23T01:28:32.983Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoeffer%2Fplugin-marketplace/plugins%2Fcloodle-ai-integration%2Fskills%2Fai-gateway%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_5b64d9e42cf9"
+  }
+}

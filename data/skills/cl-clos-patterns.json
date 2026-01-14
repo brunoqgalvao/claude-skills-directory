@@ -1,0 +1,35 @@
+{
+  "id": "cl-clos-patterns",
+  "name": "cl-clos-patterns",
+  "version": "1.0.0",
+  "summary": "CLOS設計パターンを適用。クラス設計・メソッド実装時に使用",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cxxxr",
+    "github": "cxxxr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cxxxr/.claude",
+    "skill_md": "https://raw.githubusercontent.com/cxxxr/.claude/main/skills/cl-clos-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:57:08.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cxxxr%2F.claude/skills%2Fcl-clos-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_f688c32b1cf2"
+  }
+}

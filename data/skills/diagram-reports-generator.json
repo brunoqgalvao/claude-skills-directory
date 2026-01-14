@@ -1,0 +1,37 @@
+{
+  "id": "diagram-reports-generator",
+  "name": "diagram-reports-generator",
+  "version": "1.0.0",
+  "summary": "This skill generates comprehensive diagram and MicroSim reports for the geometry course by analyzing chapter markdown files and creating table and detail reports. Use this skill...",
+  "verticals": [
+    "finance",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vishalsachdev",
+    "github": "vishalsachdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vishalsachdev/database-management",
+    "skill_md": "https://raw.githubusercontent.com/vishalsachdev/database-management/main/.claude-skills/skills/diagram-reports-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.452Z",
+  "created_at": "2025-12-23T01:29:11.043Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vishalsachdev%2Fdatabase-management/.claude-skills%2Fskills%2Fdiagram-reports-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_df286500bd8b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "blog-translator",
+  "name": "blog-translator",
+  "version": "1.0.0",
+  "summary": "Translates English blog posts to Traditional Chinese while preserving Markdown format and frontmatter structure. Use this when asked to translate posts to zh-hant or create Chin...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cmwen",
+    "github": "cmwen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cmwen/cmwen.github.io",
+    "skill_md": "https://raw.githubusercontent.com/cmwen/cmwen.github.io/main/.github/skills/translator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:36.182Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cmwen%2Fcmwen.github.io/.github%2Fskills%2Ftranslator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_733945950f03"
+  }
+}

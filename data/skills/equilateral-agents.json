@@ -1,0 +1,37 @@
+{
+  "id": "equilateral-agents",
+  "name": "equilateral-agents",
+  "version": "1.0.0",
+  "summary": "22 production-ready AI agents with database-driven orchestration for security reviews, code quality analysis, deployment validation, infrastructure checks, and compliance. Auto-...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Equilateral-AI",
+    "github": "Equilateral-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Equilateral-AI/equilateral-agents-open-core",
+    "skill_md": "https://raw.githubusercontent.com/Equilateral-AI/equilateral-agents-open-core/main/.claude/skills/equilateral-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:15:13.920Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Equilateral-AI%2Fequilateral-agents-open-core/.claude%2Fskills%2Fequilateral-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_9d1cab28a521"
+  }
+}

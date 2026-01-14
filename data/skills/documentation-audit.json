@@ -1,0 +1,35 @@
+{
+  "id": "documentation-audit",
+  "name": "documentation-audit",
+  "version": "1.0.0",
+  "summary": "Systematic documentation audit that validates every documentation claim against code and identifies undocumented features - executable as a repeatable Claude Code skill (project)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "2389-research",
+    "github": "2389-research"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/2389-research/ourocodus",
+    "skill_md": "https://raw.githubusercontent.com/2389-research/ourocodus/main/.claude/skills/documentation-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.675Z",
+  "created_at": "2025-12-22T22:13:29.976Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/2389-research%2Fourocodus/.claude%2Fskills%2Fdocumentation-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.675Z",
+    "uniqueId": "sk_13c6fd315a3f"
+  }
+}

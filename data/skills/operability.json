@@ -1,0 +1,36 @@
+{
+  "id": "operability",
+  "name": "operability",
+  "version": "1.0.0",
+  "summary": "Operations - deployment, rollback, feature flags. Use for ops tooling.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SylphxAI",
+    "github": "SylphxAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SylphxAI/flow",
+    "skill_md": "https://raw.githubusercontent.com/SylphxAI/flow/main/.claude/skills/operability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.881Z",
+  "created_at": "2025-12-22T14:54:49.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SylphxAI%2Fflow/.claude%2Fskills%2Foperability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.881Z",
+    "uniqueId": "sk_8c64b18c617d"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "codeact",
+  "name": "codeact",
+  "version": "1.0.0",
+  "summary": "Generate and execute code for acting with Python tools. Activate when user explicitly requests to \"use the codeact skill\" or similar phrases.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gradion-ai",
+    "github": "gradion-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gradion-ai/ipybox",
+    "skill_md": "https://raw.githubusercontent.com/gradion-ai/ipybox/main/plugin/skills/codeact/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.860Z",
+  "created_at": "2025-12-22T15:09:14.213Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gradion-ai%2Fipybox/plugin%2Fskills%2Fcodeact%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_a61a8039eec8"
+  }
+}

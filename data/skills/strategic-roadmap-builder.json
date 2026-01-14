@@ -1,0 +1,37 @@
+{
+  "id": "strategic-roadmap-builder",
+  "name": "strategic-roadmap-builder",
+  "version": "1.0.0",
+  "summary": "OKR-driven 18-month strategic roadmap with milestone-based execution plan. Transforms strategy into actionable phases with clear success metrics and resource allocation.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maigentic",
+    "github": "maigentic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maigentic/stratarts",
+    "skill_md": "https://raw.githubusercontent.com/maigentic/stratarts/main/skills/market-product-strategy/strategic-roadmap-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.465Z",
+  "created_at": "2025-12-23T01:30:58.874Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maigentic%2Fstratarts/skills%2Fmarket-product-strategy%2Fstrategic-roadmap-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_aae332a6ad6e"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "benchmark",
+  "name": "benchmark",
+  "version": "1.0.0",
+  "summary": "Benchmark HBF performance using Apache Bench (ab). Measures static asset serving, versioned filesystem operations, and QuickJS runtime routes. Maintains historical data for perf...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thetanil",
+    "github": "thetanil"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thetanil/hbf",
+    "skill_md": "https://raw.githubusercontent.com/thetanil/hbf/main/.claude/skills/benchmark/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.523Z",
+  "created_at": "2025-12-23T01:29:07.582Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thetanil%2Fhbf/.claude%2Fskills%2Fbenchmark%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_e15760602fdd"
+  }
+}

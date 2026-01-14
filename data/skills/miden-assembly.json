@@ -1,0 +1,36 @@
+{
+  "id": "miden-assembly",
+  "name": "miden-assembly",
+  "version": "1.0.0",
+  "summary": "Guide for understanding and writing Miden VM assembly (MASM) code. Use when:\n(1) Reading, analyzing, or explaining MASM code\n(2) Writing new MASM procedures or programs\n(3) Debu...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greenhat",
+    "github": "greenhat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greenhat/miden-assembly",
+    "skill_md": "https://raw.githubusercontent.com/greenhat/miden-assembly/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T15:58:00.000Z",
+  "created_at": "2025-12-22T17:51:13.234Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greenhat%2Fmiden-assembly/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_1f907c0014bb"
+  }
+}

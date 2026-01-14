@@ -1,0 +1,35 @@
+{
+  "id": "change-to-testing",
+  "name": "change-to-testing",
+  "version": "1.0.0",
+  "summary": "이슈를 테스트중 상태로 변경 및 QA 자동 할당. Use when:\n(1) \"테스트중으로 변경해줘\" 요청, (2) 개발 완료 후 QA 전달,\n(3) 이슈 상태를 테스트중으로 바꿔야 할 때.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/ops/qa/skills/change-to-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:10:15.557Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fops%2Fqa%2Fskills%2Fchange-to-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_fcb93ba91c2f"
+  }
+}

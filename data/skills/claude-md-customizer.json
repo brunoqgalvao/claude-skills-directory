@@ -1,0 +1,35 @@
+{
+  "id": "claude-md-customizer",
+  "name": "claude-md-customizer",
+  "version": "1.0.0",
+  "summary": "対話形式の質問を通じてユーザーの技術的背景、開発スタイル、AI協働の好みを把握し、最適化されたCLAUDE.mdを生成するスキル。ユーザーが「CLAUDE.mdをカスタマイズしたい」「AIの振る舞いを自分に合わせたい」「開発スタイルに合わせた設定がしたい」と言った時に使用する。新規ユーザーのオンボーディングや、既存CLAUDE.mdの見直し時にも有効。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/claude-md-customizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.832Z",
+  "created_at": "2025-12-22T16:54:09.801Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Fclaude-md-customizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.832Z",
+    "uniqueId": "sk_5c97cbff02e9"
+  }
+}

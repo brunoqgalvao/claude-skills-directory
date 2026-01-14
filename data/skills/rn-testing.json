@@ -1,0 +1,35 @@
+{
+  "id": "rn-testing",
+  "name": "rn-testing",
+  "version": "1.0.0",
+  "summary": "Testing patterns for React Native with Jest and React Native Testing Library. Use when writing tests, mocking Expo modules, testing Zustand stores, or debugging test failures.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CJHarmath",
+    "github": "CJHarmath"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CJHarmath/claude-agents-skills",
+    "skill_md": "https://raw.githubusercontent.com/CJHarmath/claude-agents-skills/main/skills/rn-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:34.792Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CJHarmath%2Fclaude-agents-skills/skills%2Frn-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_42cff5bd905a"
+  }
+}

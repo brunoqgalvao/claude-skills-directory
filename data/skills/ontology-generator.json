@@ -1,0 +1,36 @@
+{
+  "id": "ontology-generator",
+  "name": "ontology-generator",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive ontological knowledge graphs in [[wikilinks]] syntax for InfraNodus visualization. Use when the user requests to create an ontology, extract entities and ...",
+  "verticals": [
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "infranodus",
+    "github": "infranodus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/infranodus/skills",
+    "skill_md": "https://raw.githubusercontent.com/infranodus/skills/main/skill-ontology-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-01T15:43:24.000Z",
+  "created_at": "2025-12-23T01:29:29.314Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/infranodus%2Fskills/skill-ontology-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_f8a6c3792e1d"
+  }
+}

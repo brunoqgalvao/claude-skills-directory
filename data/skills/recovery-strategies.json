@@ -1,0 +1,35 @@
+{
+  "id": "recovery-strategies",
+  "name": "recovery-strategies",
+  "version": "1.0.0",
+  "summary": "Escalation path when stuck on pattern development. Use when encountering TypeScript errors, framework confusion, unexpected behavior, or blocked progress. Five-step recovery: ch...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkomoros",
+    "github": "jkomoros"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkomoros/community-patterns",
+    "skill_md": "https://raw.githubusercontent.com/jkomoros/community-patterns/main/.claude/skills/recovery-strategies/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:11:14.624Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkomoros%2Fcommunity-patterns/.claude%2Fskills%2Frecovery-strategies%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_02d7019c508d"
+  }
+}

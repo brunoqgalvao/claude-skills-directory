@@ -1,0 +1,35 @@
+{
+  "id": "element-relationship-analyzer",
+  "name": "element-relationship-analyzer",
+  "version": "1.0.0",
+  "summary": "プラグイン要素間の依存関係や呼び出し順序を分析する。プラグイン整合性確認時、依存関係検証時、またはユーザーが要素間依存、呼び出し順序、循環依存、アーキテクチャ検証に言及した際に使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-plugin-generator/skills/element-relationship-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:25.071Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-plugin-generator%2Fskills%2Felement-relationship-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_712aa6fdf9a7"
+  }
+}

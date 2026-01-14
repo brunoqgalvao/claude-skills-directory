@@ -1,0 +1,36 @@
+{
+  "id": "ddd-strategic-design",
+  "name": "ddd-strategic-design",
+  "version": "1.0.0",
+  "summary": "Guide for DDD strategic design - analyzing domains through structured questioning, conducting stakeholder interviews (PM/domain experts/users), and producing Bounded Context ana...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MilesChou",
+    "github": "MilesChou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MilesChou/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/MilesChou/claude-marketplace/main/plugins/ddd/skills/ddd-strategic-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:08.253Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MilesChou%2Fclaude-marketplace/plugins%2Fddd%2Fskills%2Fddd-strategic-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_fad8c82cb2d2"
+  }
+}

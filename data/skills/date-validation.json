@@ -1,0 +1,35 @@
+{
+  "id": "date-validation",
+  "name": "date-validation",
+  "version": "1.0.0",
+  "summary": "Use when editing Planning Hubs, timelines, calendars, or any file with day-name + date combinations (Wed Nov 12), relative dates (tomorrow), or countdowns (18 days until) - vali...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JackReis",
+    "github": "JackReis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JackReis/date-validation-skill",
+    "skill_md": "https://raw.githubusercontent.com/JackReis/date-validation-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:29.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JackReis%2Fdate-validation-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_7e63d78d9830"
+  }
+}

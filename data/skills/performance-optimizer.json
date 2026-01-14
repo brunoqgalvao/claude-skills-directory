@@ -1,0 +1,35 @@
+{
+  "id": "performance-optimizer",
+  "name": "performance-optimizer",
+  "version": "1.0.0",
+  "summary": "Identify and resolve performance bottlenecks through profiling, measurement, and targeted optimization.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nguyenthienthanh",
+    "github": "nguyenthienthanh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nguyenthienthanh/aura-frog",
+    "skill_md": "https://raw.githubusercontent.com/nguyenthienthanh/aura-frog/main/aura-frog/skills/performance-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:35.241Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nguyenthienthanh%2Faura-frog/aura-frog%2Fskills%2Fperformance-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_624bc06b9992"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "realitykit-ar-companion",
+  "name": "realitykit-ar-companion",
+  "version": "1.0.0",
+  "summary": "Comprehensive RealityKit skill optimized for building AR companion experiences on iOS and visionOS, with character animation, body/hand tracking, AI integration patterns, spatia...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "domocarroll",
+    "github": "domocarroll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/domocarroll/wayfinding-companion",
+    "skill_md": "https://raw.githubusercontent.com/domocarroll/wayfinding-companion/main/RealityKit_Enhanced/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.596Z",
+  "created_at": "2025-12-23T00:19:36.657Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/domocarroll%2Fwayfinding-companion/RealityKit_Enhanced%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.596Z",
+    "uniqueId": "sk_636b3adf4b06"
+  }
+}

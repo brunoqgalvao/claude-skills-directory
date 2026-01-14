@@ -1,0 +1,35 @@
+{
+  "id": "spike",
+  "name": "spike",
+  "version": "1.0.0",
+  "summary": "Prototype and explore technical approaches. Use when (1) multiple valid technical approaches exist, (2) performance characteristics unknown, (3) implementation path unclear, (4)...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/nextjs/skills/spike/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T04:53:40.000Z",
+  "created_at": "2025-12-22T15:53:03.111Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fnextjs%2Fskills%2Fspike%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_25fbfbbec8f4"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "preventing-error-exposure",
+  "name": "preventing-error-exposure",
+  "version": "1.0.0",
+  "summary": "Prevent leaking database errors and P-codes to clients. Use when implementing API error handling or user-facing error messages.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/prisma-6/skills/preventing-error-exposure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:37.665Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/prisma-6%2Fskills%2Fpreventing-error-exposure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_0e61d93c8f77"
+  }
+}

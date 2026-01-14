@@ -1,0 +1,35 @@
+{
+  "id": "readme",
+  "name": "readme",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"create a README\", \"write a README\", \"generate a README\", \"improve my README\", \"make my README better\", \"README best practices\", ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tavva",
+    "github": "tavva"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tavva/ben-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/tavva/ben-claude-plugins/main/plugins/readme-generator/skills/readme/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:29.912Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tavva%2Fben-claude-plugins/plugins%2Freadme-generator%2Fskills%2Freadme%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_2ea53090c906"
+  }
+}

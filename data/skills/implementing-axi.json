@@ -1,0 +1,35 @@
+{
+  "id": "implementing-axi",
+  "name": "implementing-axi",
+  "version": "1.0.0",
+  "summary": "Provides SVC-specific AXI/AXI-Lite naming conventions, signal ordering, and available modules. Triggers when implementing AXI or AXI-Lite interfaces.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pbozeman",
+    "github": "pbozeman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pbozeman/svc",
+    "skill_md": "https://raw.githubusercontent.com/pbozeman/svc/main/.claude/skills/implementing-axi/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T22:35:09.000Z",
+  "created_at": "2025-12-22T17:05:00.753Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pbozeman%2Fsvc/.claude%2Fskills%2Fimplementing-axi%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_fc6f6852dcd2"
+  }
+}

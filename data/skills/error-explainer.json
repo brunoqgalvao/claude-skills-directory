@@ -1,0 +1,35 @@
+{
+  "id": "error-explainer",
+  "name": "error-explainer",
+  "version": "1.0.0",
+  "summary": "Explains error messages and suggests solutions. Use when user encounters errors, exceptions, or cryptic error messages and needs help understanding and fixing them.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-ariff",
+    "github": "a-ariff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-ariff/Ariff-code-config",
+    "skill_md": "https://raw.githubusercontent.com/a-ariff/Ariff-code-config/main/claude/skills-upload/error-explainer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:20.629Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-ariff%2FAriff-code-config/claude%2Fskills-upload%2Ferror-explainer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_d7989ee4841e"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "parallel-execution-optimizer",
+  "name": "parallel-execution-optimizer",
+  "version": "1.0.0",
+  "summary": "Identify and execute independent operations in parallel for 3-5x speedup. Auto-analyzes task dependencies, groups into batches, launches parallel Task() calls. Applies to /optim...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusgoll",
+    "github": "marcusgoll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusgoll/Spec-Flow",
+    "skill_md": "https://raw.githubusercontent.com/marcusgoll/Spec-Flow/main/.codex/skills/parallel-execution-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:36.401Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusgoll%2FSpec-Flow/.codex%2Fskills%2Fparallel-execution-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_69260e5dcf77"
+  }
+}

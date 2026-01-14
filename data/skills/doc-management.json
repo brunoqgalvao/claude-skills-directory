@@ -1,0 +1,35 @@
+{
+  "id": "doc-management",
+  "name": "doc-management",
+  "version": "1.0.0",
+  "summary": "Documentation lifecycle management skill. Activates when user mentions documentation, docs, sync, quality, validation, releases, or setup. Routes to appropriate agent (doc-exper...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arimxyer",
+    "github": "arimxyer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arimxyer/doc-manager-mcp",
+    "skill_md": "https://raw.githubusercontent.com/arimxyer/doc-manager-mcp/main/plugin/skills/doc-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:15.799Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arimxyer%2Fdoc-manager-mcp/plugin%2Fskills%2Fdoc-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_61a5683254d5"
+  }
+}

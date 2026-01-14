@@ -1,0 +1,35 @@
+{
+  "id": "cli-ux-patterns",
+  "name": "cli-ux-patterns",
+  "version": "1.0.0",
+  "summary": "CLI user experience best practices for error messages, colors, progress indicators, and output formatting. Use when improving CLI usability and user experience.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "geoffjay",
+    "github": "geoffjay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/geoffjay/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/geoffjay/claude-plugins/main/plugins/rust-cli-developer/skills/cli-ux-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:13.338Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/geoffjay%2Fclaude-plugins/plugins%2Frust-cli-developer%2Fskills%2Fcli-ux-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_1d2fe68bf228"
+  }
+}

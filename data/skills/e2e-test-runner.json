@@ -1,0 +1,37 @@
+{
+  "id": "e2e-test-runner",
+  "name": "e2e-test-runner",
+  "version": "1.0.0",
+  "summary": "Run and debug end-to-end tests for web, iOS, and Android platforms.\nUse when running e2e tests, demonstrating features to leadership,\ndebugging test failures, checking test stat...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "labring",
+    "github": "labring"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/labring/vibebox",
+    "skill_md": "https://raw.githubusercontent.com/labring/vibebox/main/.claude/skills/e2e-test-runner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:28.685Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/labring%2Fvibebox/.claude%2Fskills%2Fe2e-test-runner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_355056bf2a40"
+  }
+}

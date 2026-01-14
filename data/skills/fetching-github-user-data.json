@@ -1,0 +1,35 @@
+{
+  "id": "fetching-github-user-data",
+  "name": "fetching-github-user-data",
+  "version": "1.0.0",
+  "summary": "Fetch comprehensive GitHub user data including profile, repositories, contributions, pull requests, issues, and statistics. Use when the user asks to fetch, download, or analyze...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ihainan",
+    "github": "ihainan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ihainan/claude-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/ihainan/claude-agent-skills/main/fetching-github-user-data/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T04:59:28.000Z",
+  "created_at": "2025-12-23T01:29:06.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ihainan%2Fclaude-agent-skills/fetching-github-user-data%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_2b969302e53c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "implementation-guidance-generator",
+  "name": "implementation-guidance-generator",
+  "version": "1.0.0",
+  "summary": "Generates structured implementation guidance documents for technical issues, bug fixes, and feature development. Use when creating actionable implementation plans with file refe...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paulchiu",
+    "github": "paulchiu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paulchiu/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/paulchiu/dotfiles/main/.claude/skills/implementation-guidance-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T22:49:49.000Z",
+  "created_at": "2025-12-22T18:11:00.244Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paulchiu%2Fdotfiles/.claude%2Fskills%2Fimplementation-guidance-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_d8a75bf2ae9e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "codex-patches",
+  "name": "codex-patches",
+  "version": "1.0.0",
+  "summary": "Use this when updating the codex submodule or when patch files in codex-patches/ need to be added, regenerated, or repaired.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "acrognale",
+    "github": "acrognale"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/acrognale/pasture",
+    "skill_md": "https://raw.githubusercontent.com/acrognale/pasture/main/.codex/skills/codex-patches/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T13:33:25.000Z",
+  "created_at": "2025-12-22T14:57:14.294Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/acrognale%2Fpasture/.codex%2Fskills%2Fcodex-patches%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_eafe61013649"
+  }
+}

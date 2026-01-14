@@ -1,0 +1,37 @@
+{
+  "id": "agentdb-state-manager",
+  "name": "agentdb-state-manager",
+  "version": "1.0.0",
+  "summary": "Persistent state management using AgentDB (DuckDB) for workflow analytics and checkpoints.\n\nProvides read-only analytics cache synchronized from TODO_*.md files, enabling:\n- Com...",
+  "verticals": [
+    "marketing",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stharrold",
+    "github": "stharrold"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stharrold/german",
+    "skill_md": "https://raw.githubusercontent.com/stharrold/german/main/.claude/skills/agentdb-state-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:37.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stharrold%2Fgerman/.claude%2Fskills%2Fagentdb-state-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_01c9c60b8947"
+  }
+}

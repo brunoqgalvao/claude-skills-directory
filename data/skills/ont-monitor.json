@@ -1,0 +1,36 @@
+{
+  "id": "ont-monitor",
+  "name": "ont-monitor",
+  "version": "1.0.0",
+  "summary": "Real-time and retrospective Oxford Nanopore sequencing run monitoring. Use when tracking active sequencing runs, analyzing completed run performance, checking throughput/quality...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Single-Molecule-Sequencing",
+    "github": "Single-Molecule-Sequencing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Single-Molecule-Sequencing/ont-ecosystem",
+    "skill_md": "https://raw.githubusercontent.com/Single-Molecule-Sequencing/ont-ecosystem/main/skills/ont-monitor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:06.669Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Single-Molecule-Sequencing%2Font-ecosystem/skills%2Font-monitor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_30203a5e5a50"
+  }
+}

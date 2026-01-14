@@ -1,0 +1,37 @@
+{
+  "id": "fabric-cli",
+  "name": "fabric-cli",
+  "version": "1.0.0",
+  "summary": "Use Microsoft Fabric CLI (fab) to manage workspaces, semantic models, reports, notebooks, lakehouses, and other Fabric resources via file-system metaphor and commands. Use when ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "data-goblin",
+    "github": "data-goblin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/data-goblin/fabric-cli-plugin",
+    "skill_md": "https://raw.githubusercontent.com/data-goblin/fabric-cli-plugin/main/skills/fabric-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:59.711Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/data-goblin%2Ffabric-cli-plugin/skills%2Ffabric-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_ed50598586c7"
+  }
+}

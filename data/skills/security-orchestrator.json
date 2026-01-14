@@ -1,0 +1,35 @@
+{
+  "id": "security-orchestrator",
+  "name": "security-orchestrator",
+  "version": "1.0.0",
+  "summary": "Use this skill when you need to perform comprehensive security vulnerability assessments on a codebase. This skill launches the security-orchestrator agent to conduct systematic...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fujiokayu",
+    "github": "fujiokayu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fujiokayu/aidocs",
+    "skill_md": "https://raw.githubusercontent.com/fujiokayu/aidocs/main/.claude/skills/security-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T15:12:32.000Z",
+  "created_at": "2025-12-22T16:54:47.430Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fujiokayu%2Faidocs/.claude%2Fskills%2Fsecurity-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_4aedcad3fdf6"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "debug-service",
+  "name": "debug-service",
+  "version": "1.0.0",
+  "summary": "마이크로서비스 디버깅 및 로그 분석. Use when:\n(1) 서비스 에러 분석, (2) 로그 확인, (3) 헬스체크 실패 원인 파악,\n(4) DB 연결 상태 확인, (5) 환경변수 검증.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/ms/skills/debug-service/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.530Z",
+  "created_at": "2025-12-23T01:29:00.796Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fms%2Fskills%2Fdebug-service%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_3b7cbd5d0f51"
+  }
+}

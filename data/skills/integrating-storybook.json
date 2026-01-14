@@ -1,0 +1,36 @@
+{
+  "id": "integrating-storybook",
+  "name": "integrating-storybook",
+  "version": "1.0.0",
+  "summary": "Storybook integration with spec.md. Auto-generates Stories from Component API. Triggers: storybook, stories, component api, props, argTypes, variants, csf, csf3, autodocs, front...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thkt",
+    "github": "thkt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thkt/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/thkt/claude-config/main/skills/integrating-storybook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:17.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thkt%2Fclaude-config/skills%2Fintegrating-storybook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_856a917dacfb"
+  }
+}

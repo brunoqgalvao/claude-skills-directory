@@ -1,0 +1,37 @@
+{
+  "id": "android-code-review",
+  "name": "android-code-review",
+  "version": "1.0.0",
+  "summary": "Critical Android code review for Payoo Android app. Focuses on high-impact issues - naming conventions, memory leaks, UIState patterns, business logic placement, lifecycle manag...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daispacy",
+    "github": "daispacy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daispacy/py-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/daispacy/py-claude-marketplace/main/py-plugin/skills/android-code-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:17:49.759Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daispacy%2Fpy-claude-marketplace/py-plugin%2Fskills%2Fandroid-code-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_f9f6d081eaef"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "thinking-deeply",
+  "name": "thinking-deeply",
+  "version": "1.0.0",
+  "summary": "Engages structured analysis to explore multiple perspectives and context dependencies before responding. Use when users ask confirmation-seeking questions, make leading statemen...",
+  "verticals": [
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brunoasm",
+    "github": "brunoasm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brunoasm/my_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/brunoasm/my_claude_skills/main/think_deeply/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:06:06.996Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brunoasm%2Fmy_claude_skills/think_deeply%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_d18efdb04622"
+  }
+}

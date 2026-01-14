@@ -1,0 +1,36 @@
+{
+  "id": "experiment-design",
+  "name": "experiment-design",
+  "version": "1.0.0",
+  "summary": "Design rigorous experiments following best practices. Use when: (1) Planning research studies, (2) Grant proposal development, (3) Pre-registration, (4) Ensuring internal validi...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoreyai",
+    "github": "astoreyai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoreyai/ai_scientist",
+    "skill_md": "https://raw.githubusercontent.com/astoreyai/ai_scientist/main/skills/experiment-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:43.161Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoreyai%2Fai_scientist/skills%2Fexperiment-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_723498b7ef73"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dotnet-ef-migrations",
+  "name": "dotnet-ef-migrations",
+  "version": "1.0.0",
+  "summary": "Master Entity Framework Core migrations with code-first approach, migration strategies, data seeding, rollback procedures, and production deployment patterns. Use when managing ...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onesmartguy",
+    "github": "onesmartguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onesmartguy/next-level-real-estate",
+    "skill_md": "https://raw.githubusercontent.com/onesmartguy/next-level-real-estate/main/.claude/skills/database-migrations/skills/dotnet-ef-migrations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T22:44:52.000Z",
+  "created_at": "2025-12-22T19:58:21.227Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onesmartguy%2Fnext-level-real-estate/.claude%2Fskills%2Fdatabase-migrations%2Fskills%2Fdotnet-ef-migrations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_226578fd6395"
+  }
+}

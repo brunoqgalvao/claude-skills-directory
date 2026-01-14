@@ -1,0 +1,35 @@
+{
+  "id": "sync-docs",
+  "name": "sync-docs",
+  "version": "1.0.0",
+  "summary": "英語と日本語のドキュメントを同期的に更新します。README、セットアップガイド、使用方法ガイドなどのドキュメントペアを常に同期して更新します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ncdcdev",
+    "github": "ncdcdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ncdcdev/sharepoint-docs-mcp",
+    "skill_md": "https://raw.githubusercontent.com/ncdcdev/sharepoint-docs-mcp/main/.claude/skills/sync-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:07:07.308Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ncdcdev%2Fsharepoint-docs-mcp/.claude%2Fskills%2Fsync-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_b7da73d8dbbb"
+  }
+}

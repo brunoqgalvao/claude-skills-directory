@@ -1,0 +1,35 @@
+{
+  "id": "fastmcp-cloud-deployment",
+  "name": "fastmcp-cloud-deployment",
+  "version": "1.0.0",
+  "summary": "FastMCP Cloud deployment validation, testing, and verification patterns. Use when deploying MCP servers, validating deployments, testing server configurations, checking environm...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/mcp-servers-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/mcp-servers-marketplace/main/plugins/fastmcp/skills/fastmcp-cloud-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.675Z",
+  "created_at": "2025-12-22T22:13:43.845Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fmcp-servers-marketplace/plugins%2Ffastmcp%2Fskills%2Ffastmcp-cloud-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.675Z",
+    "uniqueId": "sk_994869839b00"
+  }
+}

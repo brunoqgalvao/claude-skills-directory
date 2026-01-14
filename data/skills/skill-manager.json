@@ -1,0 +1,35 @@
+{
+  "id": "skill-manager",
+  "name": "skill-manager",
+  "version": "1.0.0",
+  "summary": "스킬 생태계를 관리하고 품질을 유지합니다. 전체 스킬 현황 파악, 품질 분석, 문제점 진단, 개선 제안, 자동 수정, 새 스킬 생성 가이드를 제공합니다. \"스킬 분석\", \"스킬 현황\", \"스킬 만들기\", \"스킬 개선\" 요청 시 활성화됩니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/meta/skill-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:57:51.840Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/meta%2Fskill-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_02c3834b061a"
+  }
+}

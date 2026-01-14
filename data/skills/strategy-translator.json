@@ -1,0 +1,35 @@
+{
+  "id": "strategy-translator",
+  "name": "strategy-translator",
+  "version": "1.0.0",
+  "summary": "Use when converting strategy documentation to code - translates markdown strategy docs into Python functions (for backtesting frameworks like Backtrader) and TradingView Pine Sc...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xbklairith",
+    "github": "xbklairith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xbklairith/kisune",
+    "skill_md": "https://raw.githubusercontent.com/xbklairith/kisune/main/trading/skills/strategy-translator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:22.816Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xbklairith%2Fkisune/trading%2Fskills%2Fstrategy-translator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_b50ab45f3a35"
+  }
+}

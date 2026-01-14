@@ -1,0 +1,36 @@
+{
+  "id": "issue-driven-development",
+  "name": "issue-driven-development",
+  "version": "1.0.0",
+  "summary": "Use for any development work - the master 13-step coding process that orchestrates all other skills, ensuring GitHub issue tracking, proper branching, TDD, code review, and CI v...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "troykelly",
+    "github": "troykelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/troykelly/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/troykelly/claude-skills/main/skills/issue-driven-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.523Z",
+  "created_at": "2025-12-23T01:29:07.621Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/troykelly%2Fclaude-skills/skills%2Fissue-driven-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_4ee476efdbb8"
+  }
+}

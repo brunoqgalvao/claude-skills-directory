@@ -1,0 +1,35 @@
+{
+  "id": "cfn-docker-wave-execution",
+  "name": "cfn-docker-wave-execution",
+  "version": "1.0.0",
+  "summary": "Orchestrate Docker container execution across parallel agent waves with memory-aware spawning",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masharratt",
+    "github": "masharratt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masharratt/claude-flow-novice",
+    "skill_md": "https://raw.githubusercontent.com/masharratt/claude-flow-novice/main/.claude/cfn-extras/skills/deprecated/cfn-docker-runtime/lib/waves/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:54.565Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masharratt%2Fclaude-flow-novice/.claude%2Fcfn-extras%2Fskills%2Fdeprecated%2Fcfn-docker-runtime%2Flib%2Fwaves%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_3ecd374c0f11"
+  }
+}

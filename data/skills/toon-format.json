@@ -1,0 +1,35 @@
+{
+  "id": "toon-format",
+  "name": "toon-format",
+  "version": "1.0.0",
+  "summary": "When working with JSON data in LLM prompts (especially large arrays or tabular data), consider the token-efficient TOON (Token-Oriented Object Notation) format which reduces tok...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattjoyce",
+    "github": "mattjoyce"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattjoyce/toon-format-skill",
+    "skill_md": "https://raw.githubusercontent.com/mattjoyce/toon-format-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.827Z",
+  "created_at": "2025-12-22T16:59:41.061Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattjoyce%2Ftoon-format-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.827Z",
+    "uniqueId": "sk_8c7bb1be4d5e"
+  }
+}

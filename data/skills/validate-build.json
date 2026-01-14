@@ -1,0 +1,37 @@
+{
+  "id": "validate-build",
+  "name": "validate-build",
+  "version": "1.0.0",
+  "summary": "Run production build validation (npm run build, vite build, tsc) to ensure code compiles and builds successfully. Returns structured output with build status, duration, size met...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BerryKuipers",
+    "github": "BerryKuipers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BerryKuipers/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/BerryKuipers/claude-code-toolkit/main/.claude/skills/quality/validate-build/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:56.359Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BerryKuipers%2Fclaude-code-toolkit/.claude%2Fskills%2Fquality%2Fvalidate-build%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_fe3e7fbaf0e6"
+  }
+}

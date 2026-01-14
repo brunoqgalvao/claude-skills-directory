@@ -1,0 +1,36 @@
+{
+  "id": "chatgpt-app",
+  "name": "chatgpt-app",
+  "version": "1.0.0",
+  "summary": "Guidance for building the chatgpt-app (Vite + React + @openai/apps-sdk-ui) with the MCP-friendly single-file output.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "flaming-codes",
+    "github": "flaming-codes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/flaming-codes/crane-app",
+    "skill_md": "https://raw.githubusercontent.com/flaming-codes/crane-app/main/.github/skills/chatgpt-app/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:06:49.586Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/flaming-codes%2Fcrane-app/.github%2Fskills%2Fchatgpt-app%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_e861c00c7242"
+  }
+}

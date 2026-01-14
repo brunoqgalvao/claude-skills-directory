@@ -1,0 +1,36 @@
+{
+  "id": "organizing-with-labels",
+  "name": "organizing-with-labels",
+  "version": "1.0.0",
+  "summary": "GitHub label and milestone management expertise. Auto-invokes when labels, milestones, taxonomies, issue organization, sprint planning, or phase tracking are mentioned. Handles ...",
+  "verticals": [
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C0ntr0lledCha0s",
+    "github": "C0ntr0lledCha0s"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C0ntr0lledCha0s/claude-code-plugin-automations",
+    "skill_md": "https://raw.githubusercontent.com/C0ntr0lledCha0s/claude-code-plugin-automations/main/github-workflows/skills/organizing-with-labels/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:18:57.144Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C0ntr0lledCha0s%2Fclaude-code-plugin-automations/github-workflows%2Fskills%2Forganizing-with-labels%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_a4aa8c681b7f"
+  }
+}

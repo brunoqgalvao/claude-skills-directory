@@ -1,0 +1,35 @@
+{
+  "id": "tamagui-component",
+  "name": "tamagui-component",
+  "version": "1.0.0",
+  "summary": "Use when creating or modifying Tamagui UI components in packages/ui. Enforces design token usage, theme compatibility, and cross-platform considerations.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nizarghribi",
+    "github": "nizarghribi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nizarghribi/hounii-monorepo-first",
+    "skill_md": "https://raw.githubusercontent.com/nizarghribi/hounii-monorepo-first/main/.claude/skills/tamagui-component/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.594Z",
+  "created_at": "2025-12-23T00:21:43.245Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nizarghribi%2Fhounii-monorepo-first/.claude%2Fskills%2Ftamagui-component%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.594Z",
+    "uniqueId": "sk_145fc4f9e358"
+  }
+}

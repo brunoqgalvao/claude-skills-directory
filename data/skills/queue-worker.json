@@ -1,0 +1,36 @@
+{
+  "id": "queue-worker",
+  "name": "queue-worker",
+  "version": "1.0.0",
+  "summary": "Bull queue setup, worker processes, job lifecycle, error handling, retries, progress reporting, Redis connection management, and queue patterns for OCR and knowledge processing",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Intellifill",
+    "github": "Intellifill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Intellifill/IntelliFill",
+    "skill_md": "https://raw.githubusercontent.com/Intellifill/IntelliFill/main/.claude/skills/queue-worker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.892Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Intellifill%2FIntelliFill/.claude%2Fskills%2Fqueue-worker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_b47fca8c94ab"
+  }
+}

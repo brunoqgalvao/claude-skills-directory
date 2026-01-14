@@ -1,0 +1,35 @@
+{
+  "id": "effective-go",
+  "name": "effective-go",
+  "version": "1.0.0",
+  "summary": "Apply Go idioms from “Effective Go” when writing, reviewing, or refactoring Go code so results remain idiomatic, maintainable, and performant.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zskulcsar",
+    "github": "zskulcsar"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zskulcsar/code-stats",
+    "skill_md": "https://raw.githubusercontent.com/zskulcsar/code-stats/main/.codex/skills/effective-go/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:58.333Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zskulcsar%2Fcode-stats/.codex%2Fskills%2Feffective-go%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_561c46b9c900"
+  }
+}

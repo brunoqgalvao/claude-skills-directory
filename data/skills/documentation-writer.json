@@ -1,0 +1,35 @@
+{
+  "id": "documentation-writer",
+  "name": "documentation-writer",
+  "version": "1.0.0",
+  "summary": "プロダクトドキュメント、技術手順書、セットアップガイド、ユーザーマニュアルを作成します。ドキュメント、手順書、ガイドが必要なときに使用してください。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sekka",
+    "github": "sekka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sekka/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sekka/dotfiles/main/home/.claude/skills/documentation-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:29.419Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sekka%2Fdotfiles/home%2F.claude%2Fskills%2Fdocumentation-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_99d0376e9ccb"
+  }
+}

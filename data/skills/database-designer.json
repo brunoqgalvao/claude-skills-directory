@@ -1,0 +1,37 @@
+{
+  "id": "database-designer",
+  "name": "database-designer",
+  "version": "1.0.0",
+  "summary": "Comprehensive database design tool creating complete schemas with tables, fields, indexes, and ER diagrams. Use when users request database design for any system. Generates Mark...",
+  "verticals": [
+    "support",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shining319",
+    "github": "shining319"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shining319/claude-code-single-person-workflow",
+    "skill_md": "https://raw.githubusercontent.com/shining319/claude-code-single-person-workflow/main/plugins/product-development-suite/skills/database-designer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.678Z",
+  "created_at": "2025-12-22T22:12:16.019Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shining319%2Fclaude-code-single-person-workflow/plugins%2Fproduct-development-suite%2Fskills%2Fdatabase-designer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.678Z",
+    "uniqueId": "sk_d32793aab253"
+  }
+}

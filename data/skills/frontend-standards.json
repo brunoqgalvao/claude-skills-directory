@@ -1,0 +1,35 @@
+{
+  "id": "frontend-standards",
+  "name": "frontend-standards",
+  "version": "1.0.0",
+  "summary": "React patterns and frontend best practices for this project. Use when implementing React components, hooks, routes, styling, or client-side logic in packages/client.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ms2sato",
+    "github": "ms2sato"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ms2sato/agent-console",
+    "skill_md": "https://raw.githubusercontent.com/ms2sato/agent-console/main/.claude/skills/frontend-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T23:39:07.000Z",
+  "created_at": "2025-12-22T14:21:51.029Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ms2sato%2Fagent-console/.claude%2Fskills%2Ffrontend-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_403f1aad93f6"
+  }
+}

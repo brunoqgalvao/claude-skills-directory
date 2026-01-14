@@ -1,0 +1,37 @@
+{
+  "id": "connect-mcp-server",
+  "name": "connect-mcp-server",
+  "version": "1.0.0",
+  "summary": "Guide for connecting MCP (Model Context Protocol) servers to Claude Code with HTTP, stdio, and SSE transports. Covers installation, configuration, authentication, environment va...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ronnycoding",
+    "github": "ronnycoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ronnycoding/.claude",
+    "skill_md": "https://raw.githubusercontent.com/ronnycoding/.claude/main/skills/connect-mcp-server/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.607Z",
+  "created_at": "2025-12-23T00:01:30.192Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ronnycoding%2F.claude/skills%2Fconnect-mcp-server%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.607Z",
+    "uniqueId": "sk_d53007123047"
+  }
+}

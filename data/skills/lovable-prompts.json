@@ -1,0 +1,35 @@
+{
+  "id": "lovable-prompts",
+  "name": "lovable-prompts",
+  "version": "1.0.0",
+  "summary": "Use when user asks to \"create lovable prompts\", \"convert PRD to lovable\", \"generate lovable sequence\", or provides a PRD file and asks to break it into implementation prompts. C...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jumski",
+    "github": "jumski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jumski/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/jumski/dotfiles/main/claude/skills/lovable-prompts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.523Z",
+  "created_at": "2025-12-23T01:29:07.489Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jumski%2Fdotfiles/claude%2Fskills%2Flovable-prompts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_6a22c4e09948"
+  }
+}

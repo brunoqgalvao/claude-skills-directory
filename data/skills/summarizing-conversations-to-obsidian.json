@@ -1,0 +1,35 @@
+{
+  "id": "summarizing-conversations-to-obsidian",
+  "name": "summarizing-conversations-to-obsidian",
+  "version": "1.0.0",
+  "summary": "Use when user requests to save conversation summary to Obsidian, mentions \"总结\", \"保存笔记\", \"卡片笔记\", or Zettelkasten - creates atomic, well-structured notes following Zettelkasten pr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pppobear",
+    "github": "pppobear"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pppobear/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/pppobear/dotfiles/main/dot_claude/skills/summarizing-conversations-to-obsidian/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-21T09:40:45.000Z",
+  "created_at": "2025-12-22T18:58:27.915Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pppobear%2Fdotfiles/dot_claude%2Fskills%2Fsummarizing-conversations-to-obsidian%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_082a4be80dc8"
+  }
+}

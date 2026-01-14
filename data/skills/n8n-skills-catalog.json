@@ -1,0 +1,35 @@
+{
+  "id": "n8n-skills-catalog",
+  "name": "n8n-skills-catalog",
+  "version": "1.0.0",
+  "summary": "Use to find the right n8n skill for a task, browse available skills, discover workflow patterns, or get an overview of all n8n automation capabilities",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aixier",
+    "github": "aixier"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aixier/n8n-automation-hub",
+    "skill_md": "https://raw.githubusercontent.com/aixier/n8n-automation-hub/main/.claude/skills/n8n-skills-catalog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:33.772Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aixier%2Fn8n-automation-hub/.claude%2Fskills%2Fn8n-skills-catalog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_1cd447203ac1"
+  }
+}

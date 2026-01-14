@@ -1,0 +1,37 @@
+{
+  "id": "domain-knowledge",
+  "name": "domain-knowledge",
+  "version": "1.0.0",
+  "summary": "Document domain knowledge including entities, attributes, relationships, processes, and ubiquitous language. Use when documenting domain models, entity relationships, business p...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SmidigStorm",
+    "github": "SmidigStorm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SmidigStorm/storm-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/SmidigStorm/storm-claude-marketplace/main/plugins/pm-domain-knowledge/skills/domain-knowledge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:31.034Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SmidigStorm%2Fstorm-claude-marketplace/plugins%2Fpm-domain-knowledge%2Fskills%2Fdomain-knowledge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_0f1bebaa995d"
+  }
+}

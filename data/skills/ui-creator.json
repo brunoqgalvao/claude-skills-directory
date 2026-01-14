@@ -1,0 +1,37 @@
+{
+  "id": "ui-creator",
+  "name": "ui-creator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users want to create new UIs, improve existing UIs, compare UI variations (A/B testing), or build component libraries. Combines visual design prin...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinceh",
+    "github": "vinceh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinceh/recipe",
+    "skill_md": "https://raw.githubusercontent.com/vinceh/recipe/main/.claude/skills/ui-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.608Z",
+  "created_at": "2025-12-23T00:01:16.739Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinceh%2Frecipe/.claude%2Fskills%2Fui-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.608Z",
+    "uniqueId": "sk_7dc54a5668ac"
+  }
+}

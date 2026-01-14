@@ -1,0 +1,36 @@
+{
+  "id": "typo3-ckeditor5",
+  "name": "typo3-ckeditor5",
+  "version": "1.0.0",
+  "summary": "CKEditor 5 development patterns for TYPO3 v12+. This skill should be used when developing custom CKEditor 5 plugins for TYPO3, configuring RTE presets, integrating CKEditor with...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "netresearch",
+    "github": "netresearch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/netresearch/typo3-ckeditor5-skill",
+    "skill_md": "https://raw.githubusercontent.com/netresearch/typo3-ckeditor5-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T12:01:31.000Z",
+  "created_at": "2025-12-23T01:29:23.763Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/netresearch%2Ftypo3-ckeditor5-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_da1f27f92c2a"
+  }
+}

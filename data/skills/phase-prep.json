@@ -1,0 +1,36 @@
+{
+  "id": "phase-prep",
+  "name": "phase-prep",
+  "version": "1.0.0",
+  "summary": "Research Godot source code to prepare critical implementation notes for upcoming phases. Use before implementing phases to avoid debugging sessions and discover Godot quirks upf...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TransitionMatrix",
+    "github": "TransitionMatrix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TransitionMatrix/godot-dap-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/TransitionMatrix/godot-dap-mcp-server/main/.claude/skills/phase-prep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.477Z",
+  "created_at": "2025-12-23T01:29:50.051Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TransitionMatrix%2Fgodot-dap-mcp-server/.claude%2Fskills%2Fphase-prep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_6438b6d9c7ab"
+  }
+}

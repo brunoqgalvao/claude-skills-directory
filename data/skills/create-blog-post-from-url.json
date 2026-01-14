@@ -1,0 +1,35 @@
+{
+  "id": "create-blog-post-from-url",
+  "name": "create-blog-post-from-url",
+  "version": "1.0.0",
+  "summary": "从给定 URL 抽取信息并生成新的博客 Markdown 文章、资源目录和 frontmatter。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "celery94",
+    "github": "celery94"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/celery94/celery94.github.io",
+    "skill_md": "https://raw.githubusercontent.com/celery94/celery94.github.io/main/.github/skills/create-blog-post-from-url/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:39.233Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/celery94%2Fcelery94.github.io/.github%2Fskills%2Fcreate-blog-post-from-url%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_7eaebd8783ee"
+  }
+}

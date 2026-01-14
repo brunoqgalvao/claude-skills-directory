@@ -1,0 +1,36 @@
+{
+  "id": "nix-devenv",
+  "name": "nix-devenv",
+  "version": "1.0.0",
+  "summary": "Expert at creating Nix flakes with flake-parts for development environments. Invoked when users want to set up devShells, configure nix-direnv, create flake.nix files, or build ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LucioFranco",
+    "github": "LucioFranco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LucioFranco/claude-nix-flakes-skill",
+    "skill_md": "https://raw.githubusercontent.com/LucioFranco/claude-nix-flakes-skill/main/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.512Z",
+  "created_at": "2025-12-23T01:29:16.355Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LucioFranco%2Fclaude-nix-flakes-skill/skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_5f90c6238e09"
+  }
+}

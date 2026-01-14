@@ -1,0 +1,35 @@
+{
+  "id": "aboutme-index",
+  "name": "aboutme-index",
+  "version": "1.0.0",
+  "summary": "Index-based file discovery using ABOUTME headers. Use INSTEAD of grep or Explore agent when searching for files by purpose or feature. Faster and more accurate than scanning cod...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stickystyle",
+    "github": "stickystyle"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stickystyle/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/stickystyle/claude-skills/main/skills/aboutme-index/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:05.868Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stickystyle%2Fclaude-skills/skills%2Faboutme-index%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_e50fb2d69234"
+  }
+}

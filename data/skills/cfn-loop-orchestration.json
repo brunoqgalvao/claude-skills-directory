@@ -1,0 +1,36 @@
+{
+  "id": "cfn-loop-orchestration",
+  "name": "cfn-loop-orchestration",
+  "version": "1.0.0",
+  "summary": "CFN Loop workflow orchestration - three-loop structure management with gate checks and consensus. Use when coordinating Loop 3 implementers and Loop 2 validators, managing itera...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masharratt",
+    "github": "masharratt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masharratt/claude-flow-novice",
+    "skill_md": "https://raw.githubusercontent.com/masharratt/claude-flow-novice/main/.claude/skills/cfn-loop-orchestration-v2/lib/orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.959Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masharratt%2Fclaude-flow-novice/.claude%2Fskills%2Fcfn-loop-orchestration-v2%2Flib%2Forchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_7ed858c46d4a"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clink-codex-delegate",
+  "name": "clink-codex-delegate",
+  "version": "1.0.0",
+  "summary": "Activate when user mentions \"clink codex\" to provide guidance on delegating implementation tasks to clink codex as a junior developer. Use when assigning coding tasks, discussin...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "qtnx",
+    "github": "qtnx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/qtnx/qtnx-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/qtnx/qtnx-claude-plugin/main/qtnx-plugin/skills/clink-codex-delegate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:14.453Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/qtnx%2Fqtnx-claude-plugin/qtnx-plugin%2Fskills%2Fclink-codex-delegate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_135d689f07db"
+  }
+}

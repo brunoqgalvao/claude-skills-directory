@@ -1,0 +1,37 @@
+{
+  "id": "tool-creator",
+  "name": "tool-creator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users want to create a new tool for the Strands SDK agent system. It supports creating both agent-as-a-tool (complex agents wrapped as tools) and ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aws-samples",
+    "github": "aws-samples"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aws-samples/aws-ai-ml-workshop-kr",
+    "skill_md": "https://raw.githubusercontent.com/aws-samples/aws-ai-ml-workshop-kr/main/genai/aws-gen-ai-kr/20_applications/08_bedrock_manus/use_cases/06_insight_extractor_strands_sdk_workshop_phase_1/skills/tool-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-22T06:09:28.000Z",
+  "created_at": "2025-12-23T01:29:27.240Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aws-samples%2Faws-ai-ml-workshop-kr/genai%2Faws-gen-ai-kr%2F20_applications%2F08_bedrock_manus%2Fuse_cases%2F06_insight_extractor_strands_sdk_workshop_phase_1%2Fskills%2Ftool-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.451Z",
+    "uniqueId": "sk_0390f0c5646a"
+  }
+}

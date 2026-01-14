@@ -1,0 +1,35 @@
+{
+  "id": "ai-chatbot",
+  "name": "ai-chatbot",
+  "version": "1.0.0",
+  "summary": "Full-featured AI chatbot with Next.js 15, Auth.js, Drizzle ORM, and multi-model support.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Eng0AI",
+    "github": "Eng0AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Eng0AI/eng0-template-skills",
+    "skill_md": "https://raw.githubusercontent.com/Eng0AI/eng0-template-skills/main/ai-chatbot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.857Z",
+  "created_at": "2025-12-22T15:11:50.047Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Eng0AI%2Feng0-template-skills/ai-chatbot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_741b57682ee5"
+  }
+}

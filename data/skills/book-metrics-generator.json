@@ -1,0 +1,37 @@
+{
+  "id": "book-metrics-generator",
+  "name": "book-metrics-generator",
+  "version": "1.0.0",
+  "summary": "This skill generates comprehensive metrics reports for intelligent textbooks built with MkDocs Material, analyzing chapters, concepts, glossary terms, FAQs, quiz questions, diag...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vishalsachdev",
+    "github": "vishalsachdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vishalsachdev/database-management",
+    "skill_md": "https://raw.githubusercontent.com/vishalsachdev/database-management/main/.claude-skills/skills/book-metrics-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.458Z",
+  "created_at": "2025-12-22T21:56:55.168Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vishalsachdev%2Fdatabase-management/.claude-skills%2Fskills%2Fbook-metrics-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.458Z",
+    "uniqueId": "sk_82f1c5e43cbd"
+  }
+}

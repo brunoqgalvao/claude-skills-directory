@@ -1,0 +1,35 @@
+{
+  "id": "spec-workflow",
+  "name": "spec-workflow",
+  "version": "1.0.0",
+  "summary": "当用户需要开发需求、创建技术方案/设计文档、规划任务、或遵循规范化开发流程时使用此技能。触发关键词包括\"开发需求\"、\"技术方案\"、\"设计文档\"、\"任务规划\"、\"TAPD链接\"、\"需求开发流程\"、\"执行需求\"等。引导用户完成4阶段标准化开发流程（准备→设计→规划→执行），包含自动化质量检查、人工审批门禁和wiki文档更新。",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lightxue",
+    "github": "lightxue"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lightxue/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/lightxue/dotfiles/main/claude/skills/spec-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:56:33.951Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lightxue%2Fdotfiles/claude%2Fskills%2Fspec-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_c2870055519c"
+  }
+}

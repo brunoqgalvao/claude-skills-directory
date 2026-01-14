@@ -1,0 +1,36 @@
+{
+  "id": "opencode-agent-generator",
+  "name": "opencode-agent-generator",
+  "version": "1.0.0",
+  "summary": "Creates OpenCode agents in project folders for opencode serve operations. Use when you need to autonomously create specialized OpenCode agents that will be used by OpenCode serv...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "IgorWarzocha",
+    "github": "IgorWarzocha"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/IgorWarzocha/opencode-agent-swarm-demo",
+    "skill_md": "https://raw.githubusercontent.com/IgorWarzocha/opencode-agent-swarm-demo/main/opencode-agents/.claude/skills/opencode-agent-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:50.443Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/IgorWarzocha%2Fopencode-agent-swarm-demo/opencode-agents%2F.claude%2Fskills%2Fopencode-agent-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_be9120ebe757"
+  }
+}

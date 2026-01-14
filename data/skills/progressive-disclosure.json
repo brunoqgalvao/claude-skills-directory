@@ -1,0 +1,35 @@
+{
+  "id": "progressive-disclosure",
+  "name": "progressive-disclosure",
+  "version": "1.0.0",
+  "summary": "Template and guide for restructuring large documentation files into token-efficient directory structures. Reduces context bloat by 40-60% while maintaining accessibility.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gptme",
+    "github": "gptme"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gptme/gptme-contrib",
+    "skill_md": "https://raw.githubusercontent.com/gptme/gptme-contrib/main/skills/progressive-disclosure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:06:56.153Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gptme%2Fgptme-contrib/skills%2Fprogressive-disclosure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_e82dadd4af4f"
+  }
+}

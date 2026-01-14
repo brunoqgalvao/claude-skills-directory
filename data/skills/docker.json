@@ -1,0 +1,36 @@
+{
+  "id": "docker",
+  "name": "docker",
+  "version": "1.0.0",
+  "summary": "Docker and Docker Compose reference for container deployment, networking, volumes,\nand orchestration. Includes Proxmox hosting and LXC comparison patterns.\nUse when working with...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "poindexter12",
+    "github": "poindexter12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/poindexter12/waypoint",
+    "skill_md": "https://raw.githubusercontent.com/poindexter12/waypoint/main/technologies/skills/docker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:55:03.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/poindexter12%2Fwaypoint/technologies%2Fskills%2Fdocker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_0228b20b07a0"
+  }
+}

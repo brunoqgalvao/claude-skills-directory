@@ -1,0 +1,35 @@
+{
+  "id": "solresol",
+  "name": "solresol",
+  "version": "1.0.0",
+  "summary": "A custom skill that helps with translating text into Solresol.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cawal",
+    "github": "cawal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cawal/cwl-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/cawal/cwl-dotfiles/main/opencode/skills/solresol/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:17.636Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cawal%2Fcwl-dotfiles/opencode%2Fskills%2Fsolresol%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_d7d0d72fc500"
+  }
+}

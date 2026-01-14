@@ -1,0 +1,37 @@
+{
+  "id": "telemetry-contracts",
+  "name": "telemetry-contracts",
+  "version": "1.0.0",
+  "summary": "Enforce telemetry contract stability (event naming, JSONL envelopes, /api/health + /api/status shape). Use when investigating telemetry drift, adding new telemetry fields, or up...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metabench",
+    "github": "metabench"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metabench/copilot-dl-news",
+    "skill_md": "https://raw.githubusercontent.com/metabench/copilot-dl-news/main/docs/agi/skills/telemetry-contracts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metabench%2Fcopilot-dl-news/docs%2Fagi%2Fskills%2Ftelemetry-contracts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_65c3852bf55f"
+  }
+}

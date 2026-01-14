@@ -1,0 +1,35 @@
+{
+  "id": "bugfix-and-debug",
+  "name": "bugfix-and-debug",
+  "version": "1.0.0",
+  "summary": "Diagnose errors and failing tests in Laravel + React applications. Use when encountering bugs, exceptions,\nstack traces, 500 errors, TypeErrors, failing Pest/Vitest tests, or un...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mgkyawzayya",
+    "github": "mgkyawzayya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mgkyawzayya/claude-code-usage-flow",
+    "skill_md": "https://raw.githubusercontent.com/mgkyawzayya/claude-code-usage-flow/main/.claude/skills/bugfix-and-debug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:06:51.167Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mgkyawzayya%2Fclaude-code-usage-flow/.claude%2Fskills%2Fbugfix-and-debug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_031ab5bee76c"
+  }
+}

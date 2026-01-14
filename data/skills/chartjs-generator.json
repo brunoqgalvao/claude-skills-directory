@@ -1,0 +1,37 @@
+{
+  "id": "chartjs-generator",
+  "name": "chartjs-generator",
+  "version": "1.0.0",
+  "summary": "This skill generates interactive Chart.js visualizations for use in iframes using any chart type supported by the library (line, bar, pie, doughnut, radar, polar area, bubble, s...",
+  "verticals": [
+    "marketing",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vishalsachdev",
+    "github": "vishalsachdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vishalsachdev/database-management",
+    "skill_md": "https://raw.githubusercontent.com/vishalsachdev/database-management/main/.claude-skills/skills/chartjs-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.456Z",
+  "created_at": "2025-12-22T23:12:00.588Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vishalsachdev%2Fdatabase-management/.claude-skills%2Fskills%2Fchartjs-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.456Z",
+    "uniqueId": "sk_1021f9b02a64"
+  }
+}

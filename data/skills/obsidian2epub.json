@@ -1,0 +1,35 @@
+{
+  "id": "obsidian2epub",
+  "name": "obsidian2epub",
+  "version": "1.0.0",
+  "summary": "Convert Obsidian vaults to EPUB ebooks. Use when the user wants to create an ebook from Obsidian notes, export a vault as EPUB, or convert markdown notes to an ebook format.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Unintendedsideeffects",
+    "github": "Unintendedsideeffects"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Unintendedsideeffects/Agents",
+    "skill_md": "https://raw.githubusercontent.com/Unintendedsideeffects/Agents/main/skills/obsidian2epub/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T23:08:30.000Z",
+  "created_at": "2025-12-23T01:28:38.026Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Unintendedsideeffects%2FAgents/skills%2Fobsidian2epub%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_8e6a3e2097e2"
+  }
+}

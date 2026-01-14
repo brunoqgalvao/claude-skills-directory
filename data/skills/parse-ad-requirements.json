@@ -1,0 +1,37 @@
+{
+  "id": "parse-ad-requirements",
+  "name": "parse-ad-requirements",
+  "version": "1.0.0",
+  "summary": "Extract structured advertising campaign parameters from natural language input provided by advertisers. This skill should be used when analyzing advertising requirements, campai...",
+  "verticals": [
+    "legal",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feed-mob",
+    "github": "feed-mob"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feed-mob/feedmob-adpilot-mcp",
+    "skill_md": "https://raw.githubusercontent.com/feed-mob/feedmob-adpilot-mcp/main/src/plugins/parse-ad-requirements/skills/parse-ad-requirements/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:10.897Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feed-mob%2Ffeedmob-adpilot-mcp/src%2Fplugins%2Fparse-ad-requirements%2Fskills%2Fparse-ad-requirements%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_fde830150ec7"
+  }
+}

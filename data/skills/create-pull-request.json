@@ -1,0 +1,35 @@
+{
+  "id": "create-pull-request",
+  "name": "create-pull-request",
+  "version": "1.0.0",
+  "summary": "Create GitHub pull requests with proper issue linking, comprehensive descriptions, and quality metrics for WescoBar project",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BerryKuipers",
+    "github": "BerryKuipers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BerryKuipers/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/BerryKuipers/claude-code-toolkit/main/.claude/skills/git-workflows/create-pull-request/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T10:26:48.000Z",
+  "created_at": "2025-12-22T17:03:57.198Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BerryKuipers%2Fclaude-code-toolkit/.claude%2Fskills%2Fgit-workflows%2Fcreate-pull-request%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_52d93ab3314f"
+  }
+}

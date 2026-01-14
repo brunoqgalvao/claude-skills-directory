@@ -1,0 +1,37 @@
+{
+  "id": "flow-builder",
+  "name": "flow-builder",
+  "version": "1.0.0",
+  "summary": "Execute implementation work with gate checks and verification. Use when user wants to code, build features, implement iterations, or execute action items. Enforces gates, guides...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "khgs2411",
+    "github": "khgs2411"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/khgs2411/flow",
+    "skill_md": "https://raw.githubusercontent.com/khgs2411/flow/main/framework/skills/flow-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T17:38:42.000Z",
+  "created_at": "2025-12-22T23:15:18.554Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/khgs2411%2Fflow/framework%2Fskills%2Fflow-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_0c7c3de199ae"
+  }
+}

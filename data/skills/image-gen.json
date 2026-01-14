@@ -1,0 +1,35 @@
+{
+  "id": "image-gen",
+  "name": "image-gen",
+  "version": "1.0.0",
+  "summary": "根据文本描述生成图像（返回生成参数和预览URL）",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "w2112515",
+    "github": "w2112515"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/w2112515/exo-protocol",
+    "skill_md": "https://raw.githubusercontent.com/w2112515/exo-protocol/main/examples/skills/image-gen/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.855Z",
+  "created_at": "2025-12-22T15:52:06.913Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/w2112515%2Fexo-protocol/examples%2Fskills%2Fimage-gen%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_1453160dfb90"
+  }
+}

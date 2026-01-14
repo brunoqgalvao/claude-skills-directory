@@ -1,0 +1,37 @@
+{
+  "id": "n8n-automation",
+  "name": "n8n-automation",
+  "version": "1.0.0",
+  "summary": "n8n workflow automation for building analytics including SkySpark multi-agent systems, FastAPI tool servers, workflow orchestration, and automated building system alert triage",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mbcoalson",
+    "github": "mbcoalson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mbcoalson/skills",
+    "skill_md": "https://raw.githubusercontent.com/mbcoalson/skills/main/.claude/skills/n8n-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.493Z",
+  "created_at": "2025-12-23T01:29:31.440Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mbcoalson%2Fskills/.claude%2Fskills%2Fn8n-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_fd8f1691ed32"
+  }
+}

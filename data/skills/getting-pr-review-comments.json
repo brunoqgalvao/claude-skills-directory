@@ -1,0 +1,35 @@
+{
+  "id": "getting-pr-review-comments",
+  "name": "getting-pr-review-comments",
+  "version": "1.0.0",
+  "summary": "Use when needing Claude bot review recommendations from PR - automatically waits for workflows (including Claude review) to complete, then extracts recommendations and returns c...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "karlmdavis",
+    "github": "karlmdavis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/karlmdavis/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/karlmdavis/dotfiles/main/private_dot_claude/skills/getting-pr-review-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T15:43:41.000Z",
+  "created_at": "2025-12-23T01:29:04.056Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/karlmdavis%2Fdotfiles/private_dot_claude%2Fskills%2Fgetting-pr-review-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_99ad9d02c4b6"
+  }
+}

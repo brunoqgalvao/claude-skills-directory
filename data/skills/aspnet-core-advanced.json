@@ -1,0 +1,35 @@
+{
+  "id": "aspnet-core-advanced",
+  "name": "aspnet-core-advanced",
+  "version": "1.0.0",
+  "summary": "Master advanced ASP.NET Core development including Entity Framework Core, authentication, testing, and enterprise patterns for production applications.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-aspnet-core",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-aspnet-core/main/skills/aspnet-core-advanced/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:24.432Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-aspnet-core/skills%2Faspnet-core-advanced%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_6a002ace946f"
+  }
+}

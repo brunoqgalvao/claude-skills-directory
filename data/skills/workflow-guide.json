@@ -1,0 +1,37 @@
+{
+  "id": "workflow-guide",
+  "name": "workflow-guide",
+  "version": "1.0.0",
+  "summary": "Guides next steps based on project state. TRIGGERS: After phase completion or user asks 'what's next'. ACTIONS: Detect research/plan/dev/test status via filesystem and suggest t...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rocky2431",
+    "github": "rocky2431"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rocky2431/ultra-builder-pro",
+    "skill_md": "https://raw.githubusercontent.com/rocky2431/ultra-builder-pro/main/.deprecated/skills/workflow-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T12:32:09.000Z",
+  "created_at": "2025-12-23T01:28:30.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rocky2431%2Fultra-builder-pro/.deprecated%2Fskills%2Fworkflow-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_4c6e9fb9936a"
+  }
+}

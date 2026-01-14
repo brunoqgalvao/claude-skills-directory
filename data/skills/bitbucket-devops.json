@@ -1,0 +1,37 @@
+{
+  "id": "bitbucket-devops",
+  "name": "bitbucket-devops",
+  "version": "1.0.0",
+  "summary": "Comprehensive Bitbucket pipeline automation using direct Node.js API calls. Monitor pipeline status, analyze failures, download logs, and trigger builds. Use this skill when the...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Apra-Labs",
+    "github": "Apra-Labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Apra-Labs/claude-bitbucket-devops-skill",
+    "skill_md": "https://raw.githubusercontent.com/Apra-Labs/claude-bitbucket-devops-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.672Z",
+  "created_at": "2025-12-22T22:15:56.689Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Apra-Labs%2Fclaude-bitbucket-devops-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.672Z",
+    "uniqueId": "sk_d8dc459dd9a1"
+  }
+}

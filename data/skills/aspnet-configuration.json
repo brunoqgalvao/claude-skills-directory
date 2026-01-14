@@ -1,0 +1,35 @@
+{
+  "id": "aspnet-configuration",
+  "name": "aspnet-configuration",
+  "version": "1.0.0",
+  "summary": "Guide for ASP.NET Core configuration with appsettings.json, environment-specific settings, and the options pattern",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NotMyself",
+    "github": "NotMyself"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NotMyself/claude-stack-dotnet",
+    "skill_md": "https://raw.githubusercontent.com/NotMyself/claude-stack-dotnet/main/.claude/skills/aspnet-configuration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T17:01:00.000Z",
+  "created_at": "2025-12-22T20:04:19.877Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NotMyself%2Fclaude-stack-dotnet/.claude%2Fskills%2Faspnet-configuration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_27d72cd841b8"
+  }
+}

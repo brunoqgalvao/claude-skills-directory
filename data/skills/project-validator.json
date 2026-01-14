@@ -1,0 +1,36 @@
+{
+  "id": "project-validator",
+  "name": "project-validator",
+  "version": "1.0.0",
+  "summary": "Validates apps-in-toss project configuration and structure for both web and React Native apps. Use when checking if granite.config.ts is properly configured, verifying required ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "toss",
+    "github": "toss"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/toss/apps-in-toss-skills",
+    "skill_md": "https://raw.githubusercontent.com/toss/apps-in-toss-skills/main/skills/project-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:18:53.636Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/toss%2Fapps-in-toss-skills/skills%2Fproject-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_ac8c32337918"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "design-experiment",
+  "name": "design-experiment",
+  "version": "1.0.0",
+  "summary": "Plan LLM fine-tuning and evaluation experiments. Use when the user wants to design a new experiment, plan training runs, or create an experiment_summary.yaml file.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "niznik-dev",
+    "github": "niznik-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/niznik-dev/cruijff_kit",
+    "skill_md": "https://raw.githubusercontent.com/niznik-dev/cruijff_kit/main/.claude/skills/design-experiment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T23:14:34.000Z",
+  "created_at": "2025-12-22T17:12:03.282Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/niznik-dev%2Fcruijff_kit/.claude%2Fskills%2Fdesign-experiment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_dcd88915b700"
+  }
+}

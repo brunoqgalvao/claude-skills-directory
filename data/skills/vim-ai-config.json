@@ -1,0 +1,35 @@
+{
+  "id": "vim-ai-config",
+  "name": "vim-ai-config",
+  "version": "1.0.0",
+  "summary": "Manage vim-ai plugin configuration files including .vimrc settings, custom roles, API keys, and model configurations. Use when user requests help with vim-ai setup, modifying vi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexfazio",
+    "github": "alexfazio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexfazio/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/alexfazio/cc-skills/main/skills/vim-ai-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:26.671Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexfazio%2Fcc-skills/skills%2Fvim-ai-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_d3e281075cf1"
+  }
+}

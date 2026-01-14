@@ -1,0 +1,37 @@
+{
+  "id": "py-testing-async",
+  "name": "py-testing-async",
+  "version": "1.0.0",
+  "summary": "Async testing patterns with pytest-asyncio. Use when writing tests, mocking async code, testing database operations, or debugging test failures.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CJHarmath",
+    "github": "CJHarmath"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CJHarmath/claude-agents-skills",
+    "skill_md": "https://raw.githubusercontent.com/CJHarmath/claude-agents-skills/main/skills/py-testing-async/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:31.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CJHarmath%2Fclaude-agents-skills/skills%2Fpy-testing-async%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_1163f6b27c6e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "style-detector",
+  "name": "style-detector",
+  "version": "1.0.0",
+  "summary": "探测用户的写作风格需求并加载对应指南。当用户提到口语化、生活化、真实感、文学性、严肃文学、纯文学、网文、爽文、快节奏、古风、武侠、古韵、极简、海明威、克制等关键词时自动激活。适用于讨论小说风格、写作文风、创作方向时使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wordflowlab",
+    "github": "wordflowlab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wordflowlab/novel-writer-skills",
+    "skill_md": "https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/templates/skills/quality-assurance/style-detector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:46.765Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wordflowlab%2Fnovel-writer-skills/templates%2Fskills%2Fquality-assurance%2Fstyle-detector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_4353582d1919"
+  }
+}

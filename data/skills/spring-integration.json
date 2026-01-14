@@ -1,0 +1,36 @@
+{
+  "id": "spring-integration",
+  "name": "spring-integration",
+  "version": "1.0.0",
+  "summary": "Spring Backend API integration guide for Next.js. Use when (1) implementing Spring API client, (2) need ApiResponse/Error mapping, (3) require DTO type generation, (4) adding ne...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/nextjs/skills/spring-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T04:53:40.000Z",
+  "created_at": "2025-12-22T17:00:20.169Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fnextjs%2Fskills%2Fspring-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_0619e7afc85c"
+  }
+}

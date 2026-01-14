@@ -1,0 +1,36 @@
+{
+  "id": "repo-docs-wiki",
+  "name": "repo-docs-wiki",
+  "version": "1.0.0",
+  "summary": "Generate and maintain DeepWiki-style documentation for code repositories. Use when the user asks to generate docs for a repo, create full documentation, build a wiki for a codeb...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eibrahimov",
+    "github": "eibrahimov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eibrahimov/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/eibrahimov/claude-skills/main/repo-docs-wiki/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T04:22:09.000Z",
+  "created_at": "2025-12-23T01:29:25.389Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eibrahimov%2Fclaude-skills/repo-docs-wiki%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_b3af6c7eaf33"
+  }
+}

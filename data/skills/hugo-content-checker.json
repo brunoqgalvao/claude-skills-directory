@@ -1,0 +1,35 @@
+{
+  "id": "hugo-content-checker",
+  "name": "hugo-content-checker",
+  "version": "1.0.0",
+  "summary": "This skill should be used when checking Hugo content for consistency issues, validating internal references, detecting duplicate content, verifying frontmatter completeness, and...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RogueRope",
+    "github": "RogueRope"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RogueRope/docs",
+    "skill_md": "https://raw.githubusercontent.com/RogueRope/docs/main/.claude/skills/hugo-content-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:13.122Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RogueRope%2Fdocs/.claude%2Fskills%2Fhugo-content-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_3bbdf4dfc0c4"
+  }
+}

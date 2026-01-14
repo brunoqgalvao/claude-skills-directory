@@ -1,0 +1,36 @@
+{
+  "id": "backend-bugfix",
+  "name": "backend-bugfix",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"debug backend tests\", \"fix pytest failures\", \"analyze Python errors\", \"fix FastAPI bugs\", or mentions keywords like \"pytest\", \"I...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "penkzhou",
+    "github": "penkzhou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/penkzhou/swiss-army-knife-plugin",
+    "skill_md": "https://raw.githubusercontent.com/penkzhou/swiss-army-knife-plugin/main/swiss-army-knife/skills/backend-bugfix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:14:18.639Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/penkzhou%2Fswiss-army-knife-plugin/swiss-army-knife%2Fskills%2Fbackend-bugfix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_4a13a7e41e5e"
+  }
+}

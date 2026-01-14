@@ -1,0 +1,35 @@
+{
+  "id": "maic-methodology",
+  "name": "maic-methodology",
+  "version": "1.0.0",
+  "summary": "Deep methodology knowledge for MAIC including assumptions, weight diagnostics, ESS interpretation, and anchored vs unanchored decisions. Use when conducting or reviewing MAIC an...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "choxos",
+    "github": "choxos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/choxos/ITC-agents",
+    "skill_md": "https://raw.githubusercontent.com/choxos/ITC-agents/main/plugins/itc-modelling/skills/maic-methodology/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T22:29:34.000Z",
+  "created_at": "2025-12-22T20:00:56.541Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/choxos%2FITC-agents/plugins%2Fitc-modelling%2Fskills%2Fmaic-methodology%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_d0b69fb58d8a"
+  }
+}

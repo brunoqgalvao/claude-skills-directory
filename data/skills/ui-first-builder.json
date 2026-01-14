@@ -1,0 +1,37 @@
+{
+  "id": "ui-first-builder",
+  "name": "ui-first-builder",
+  "version": "1.0.0",
+  "summary": "Creates production-ready UI immediately from any description. Generates complete  pages, components, and realistic mock data in FIRST response. Uses Next.js 14 +  Tailwind + sha...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wasintoh",
+    "github": "wasintoh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wasintoh/toh-framework",
+    "skill_md": "https://raw.githubusercontent.com/wasintoh/toh-framework/main/src/skills/ui-first-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:00:43.037Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wasintoh%2Ftoh-framework/src%2Fskills%2Fui-first-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_73a8542cb7c2"
+  }
+}

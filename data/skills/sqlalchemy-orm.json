@@ -1,0 +1,37 @@
+{
+  "id": "sqlalchemy-orm",
+  "name": "sqlalchemy-orm",
+  "version": "1.0.0",
+  "summary": "SQLAlchemy Python SQL toolkit and ORM with powerful query builder, relationship mapping, and database migrations via Alembic. Use when building Python applications with complex ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-python-data-sqlalchemy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:11:38.351Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-python-data-sqlalchemy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_eb804f7ec413"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "coding-patterns",
+  "name": "coding-patterns",
+  "version": "1.0.0",
+  "summary": "Use this when writing or modifying code in FOSSAPP. Provides Next.js App Router patterns, server action organization, dual Supabase client rules, TypeScript conventions, validat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ziouzitsou",
+    "github": "ziouzitsou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ziouzitsou/fossapp",
+    "skill_md": "https://raw.githubusercontent.com/ziouzitsou/fossapp/main/.claude/skills/coding-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:37.647Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ziouzitsou%2Ffossapp/.claude%2Fskills%2Fcoding-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_bb6b0ac70ec9"
+  }
+}

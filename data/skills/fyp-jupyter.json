@@ -1,0 +1,37 @@
+{
+  "id": "fyp-jupyter",
+  "name": "fyp-jupyter",
+  "version": "1.0.0",
+  "summary": "Complete data science research workflow for Jupyter notebooks covering CRISP-DM methodology from data loading through model validation, with MLflow experiment tracking integrati...",
+  "verticals": [
+    "hr",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ming-Kai-LC",
+    "github": "Ming-Kai-LC"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ming-Kai-LC/fyp-project",
+    "skill_md": "https://raw.githubusercontent.com/Ming-Kai-LC/fyp-project/main/FYP_Code/.claude/skills/fyp-jupyter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.465Z",
+  "created_at": "2025-12-23T01:30:58.843Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ming-Kai-LC%2Ffyp-project/FYP_Code%2F.claude%2Fskills%2Ffyp-jupyter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_b83773dd76c3"
+  }
+}

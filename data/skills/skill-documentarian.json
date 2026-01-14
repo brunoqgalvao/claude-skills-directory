@@ -1,0 +1,37 @@
+{
+  "id": "skill-documentarian",
+  "name": "skill-documentarian",
+  "version": "1.0.0",
+  "summary": "Documentation expert for Claude Skills showcase website. Maintains skill-to-website sync, manages tag taxonomy and badges, creates blog-style artifacts, and preserves multi-skil...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "erichowens",
+    "github": "erichowens"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/erichowens/some_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/erichowens/some_claude_skills/main/.claude/skills/skill-documentarian/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:31.023Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/erichowens%2Fsome_claude_skills/.claude%2Fskills%2Fskill-documentarian%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_2d20758d2d30"
+  }
+}

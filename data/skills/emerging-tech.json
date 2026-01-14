@@ -1,0 +1,37 @@
+{
+  "id": "emerging-tech",
+  "name": "emerging-tech",
+  "version": "1.0.0",
+  "summary": "Emerging technologies (prompt engineering, AI agents, red teaming) and leadership roles (product manager, engineering manager, DevRel, UX design, technical writing).",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-cloudflare",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-cloudflare/main/skills/emerging-tech/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:04:54.477Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-cloudflare/skills%2Femerging-tech%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_9107d90caa73"
+  }
+}

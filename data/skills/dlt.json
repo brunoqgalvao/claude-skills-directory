@@ -1,0 +1,37 @@
+{
+  "id": "dlt",
+  "name": "dlt",
+  "version": "1.0.0",
+  "summary": "dlt (data load tool) patterns for SignalRoom ETL pipelines. Use when creating sources, debugging pipeline failures, understanding schema evolution, or implementing incremental l...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mmbianco78",
+    "github": "mmbianco78"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mmbianco78/signalroom",
+    "skill_md": "https://raw.githubusercontent.com/mmbianco78/signalroom/main/.claude/skills/dlt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:06:59.001Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mmbianco78%2Fsignalroom/.claude%2Fskills%2Fdlt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_9cb3c4f1eae3"
+  }
+}

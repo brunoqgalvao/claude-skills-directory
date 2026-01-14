@@ -1,0 +1,35 @@
+{
+  "id": "supporting-custom-elements",
+  "name": "supporting-custom-elements",
+  "version": "1.0.0",
+  "summary": "Teaches Web Components (Custom Elements) support in React 19, including property vs attribute handling and custom events. Use when integrating Web Components or working with cus...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/react-19/skills/supporting-custom-elements/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:33.933Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/react-19%2Fskills%2Fsupporting-custom-elements%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_71894dc97694"
+  }
+}

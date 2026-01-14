@@ -1,0 +1,36 @@
+{
+  "id": "attribution",
+  "name": "attribution",
+  "version": "1.0.0",
+  "summary": "Use to define measurement, data sharing, and ROI reporting for joint campaigns.",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/partner-co-marketing-orchestration/skills/attribution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T14:32:29.000Z",
+  "created_at": "2025-12-22T14:57:17.581Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fpartner-co-marketing-orchestration%2Fskills%2Fattribution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_d4c4d1420f3b"
+  }
+}

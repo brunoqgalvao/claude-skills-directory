@@ -1,0 +1,36 @@
+{
+  "id": "annotate",
+  "name": "annotate",
+  "version": "1.0.0",
+  "summary": "Create flexible annotation workflows for AI applications. Contains common tools to explore raw ai agent logs/transcripts, extract out relevant evaluation data, and llm-as-a-judg...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "haizelabs",
+    "github": "haizelabs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/haizelabs/annotate",
+    "skill_md": "https://raw.githubusercontent.com/haizelabs/annotate/main/annotate_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.634Z",
+  "created_at": "2025-12-22T23:12:23.310Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/haizelabs%2Fannotate/annotate_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.634Z",
+    "uniqueId": "sk_ef5513310c66"
+  }
+}

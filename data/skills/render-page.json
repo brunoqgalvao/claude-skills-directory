@@ -2,39 +2,36 @@
   "id": "render-page",
   "name": "render-page",
   "version": "1.0.0",
-  "summary": "Use this skill to inspect what a Rails page currently displays, extract HTML content, or verify rendering WITHOUT starting a dev server. Useful for understanding page output before",
+  "summary": "Use this skill to inspect what a Rails page currently displays, extract HTML content, or verify rendering WITHOUT starting a dev server. Useful for understanding page output bef...",
   "verticals": [
-    "Data",
-    "Engineering"
+    "engineering",
+    "marketing",
+    "design"
   ],
-  "tags": [
-    "render",
-    "page",
-    "ai",
-    "testing"
-  ],
+  "tags": [],
   "author": {
     "name": "rubys",
-    "github": "rubys",
-    "avatar": "https://avatars.githubusercontent.com/u/4815?v=4"
+    "github": "rubys"
   },
   "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/rubys/showcase/tree/main/.claude/skills/render-page/SKILL.md",
-    "skill_md": "https://raw.githubusercontent.com/rubys/showcase/main/.claude/skills/render-page/SKILL.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install render-page"
+    "repo": "https://github.com/rubys/showcase",
+    "skill_md": "https://raw.githubusercontent.com/rubys/showcase/main/.claude/skills/render-page/SKILL.md"
   },
   "stats": {
-    "stars": 34,
-    "forks": 6,
+    "stars": 0,
+    "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-12-24",
-  "created_at": "2022-04-06"
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:46.446Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rubys%2Fshowcase/.claude%2Fskills%2Frender-page%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_50bdd59dda19"
+  }
 }

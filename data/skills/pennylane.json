@@ -1,0 +1,37 @@
+{
+  "id": "pennylane",
+  "name": "pennylane",
+  "version": "1.0.0",
+  "summary": "Cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Enables building and training quantum circuits with automatic differentiati...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "K-Dense-AI",
+    "github": "K-Dense-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "skill_md": "https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/pennylane/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T13:27:24.000Z",
+  "created_at": "2025-12-23T01:29:15.762Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/K-Dense-AI%2Fclaude-scientific-skills/scientific-skills%2Fpennylane%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.443Z",
+    "uniqueId": "sk_4358c702c1fd"
+  }
+}

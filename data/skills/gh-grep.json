@@ -1,0 +1,36 @@
+{
+  "id": "gh-grep",
+  "name": "gh-grep",
+  "version": "1.0.0",
+  "summary": "Search real-world code examples across millions of GitHub repositories using grep.app. This skill should be used when looking for implementation patterns, API usage examples, li...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "huynguyen03dev",
+    "github": "huynguyen03dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/huynguyen03dev/opencode-setup",
+    "skill_md": "https://raw.githubusercontent.com/huynguyen03dev/opencode-setup/main/skills/gh-grep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T09:54:55.000Z",
+  "created_at": "2025-12-22T16:06:10.057Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/huynguyen03dev%2Fopencode-setup/skills%2Fgh-grep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_625f235f63f8"
+  }
+}

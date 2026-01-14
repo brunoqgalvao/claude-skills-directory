@@ -1,0 +1,36 @@
+{
+  "id": "sync-mcp-config",
+  "name": "sync-mcp-config",
+  "version": "1.0.0",
+  "summary": "Synchronize MCP (Model Context Protocol) server settings across different Agent tools. Use when you want to copy, apply, or sync MCP settings between multiple Agent environments...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zv-louis",
+    "github": "zv-louis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zv-louis/sync-mcp-config",
+    "skill_md": "https://raw.githubusercontent.com/zv-louis/sync-mcp-config/main/sync-mcp-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:23.086Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zv-louis%2Fsync-mcp-config/sync-mcp-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_6bcbd1df7780"
+  }
+}

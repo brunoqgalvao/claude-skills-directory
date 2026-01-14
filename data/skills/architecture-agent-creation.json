@@ -1,0 +1,36 @@
+{
+  "id": "architecture-agent-creation",
+  "name": "architecture-agent-creation",
+  "version": "1.0.0",
+  "summary": "Create specialized infrastructure agent definitions for platform/service management (Grafana, Prometheus, Traefik, ERPNext, etc.). Use when the user requests creation of an agen...",
+  "verticals": [
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "auldsyababua",
+    "github": "auldsyababua"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/auldsyababua/instructor-workflow",
+    "skill_md": "https://raw.githubusercontent.com/auldsyababua/instructor-workflow/main/skills/architecture-agent-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:11:55.083Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/auldsyababua%2Finstructor-workflow/skills%2Farchitecture-agent-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_94d56c2d45f7"
+  }
+}

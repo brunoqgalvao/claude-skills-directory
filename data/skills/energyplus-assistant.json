@@ -1,0 +1,37 @@
+{
+  "id": "energyplus-assistant",
+  "name": "energyplus-assistant",
+  "version": "1.0.0",
+  "summary": "Use this skill when analyzing EnergyPlus IDF building energy models, including QA/QC validation, HVAC topology analysis, ECM testing, or running simulations. Supports fast valid...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mbcoalson",
+    "github": "mbcoalson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mbcoalson/skills",
+    "skill_md": "https://raw.githubusercontent.com/mbcoalson/skills/main/.claude/skills/energyplus-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:15:34.649Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mbcoalson%2Fskills/.claude%2Fskills%2Fenergyplus-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_5da10189867b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "factory-generator",
+  "name": "factory-generator",
+  "version": "1.0.0",
+  "summary": "컴포넌트 생성의 핵심 로직을 처리하는 스킬",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "m16khb",
+    "github": "m16khb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/m16khb/claude-integration",
+    "skill_md": "https://raw.githubusercontent.com/m16khb/claude-integration/main/plugins/automation-tools/skills/factory-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T14:49:03.000Z",
+  "created_at": "2025-12-23T01:28:32.939Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/m16khb%2Fclaude-integration/plugins%2Fautomation-tools%2Fskills%2Ffactory-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_6e64ad229e24"
+  }
+}

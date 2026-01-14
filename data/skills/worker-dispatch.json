@@ -1,0 +1,35 @@
+{
+  "id": "worker-dispatch",
+  "name": "worker-dispatch",
+  "version": "1.0.0",
+  "summary": "Use to spawn isolated worker processes for autonomous issue work. Creates git worktrees, constructs worker prompts, manages PIDs, and handles worker lifecycle.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "troykelly",
+    "github": "troykelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/troykelly/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/troykelly/claude-skills/main/skills/worker-dispatch/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/troykelly%2Fclaude-skills/skills%2Fworker-dispatch%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_5a35830e2745"
+  }
+}

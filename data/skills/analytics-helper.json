@@ -1,0 +1,37 @@
+{
+  "id": "analytics-helper",
+  "name": "analytics-helper",
+  "version": "1.0.0",
+  "summary": "Assists with building reports, dashboards, and data visualizations using Recharts and D3.js for the NABIP AMS. Use when creating member growth charts, revenue analytics, event p...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "markus41",
+    "github": "markus41"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/markus41/nabip-association-ma",
+    "skill_md": "https://raw.githubusercontent.com/markus41/nabip-association-ma/main/.claude/skills/analytics-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:37.529Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/markus41%2Fnabip-association-ma/.claude%2Fskills%2Fanalytics-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_eabdc8597ec0"
+  }
+}

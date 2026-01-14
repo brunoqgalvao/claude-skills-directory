@@ -1,0 +1,36 @@
+{
+  "id": "stripe-billing-subscriptions",
+  "name": "stripe-billing-subscriptions",
+  "version": "1.0.0",
+  "summary": "Use when implementing subscriptions, recurring billing, pricing models, or customer portals. Invoke for subscription creation, usage-based billing, invoice management, trial per...",
+  "verticals": [
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zacharyr0th",
+    "github": "zacharyr0th"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zacharyr0th/next-starter",
+    "skill_md": "https://raw.githubusercontent.com/zacharyr0th/next-starter/main/.claude/skills/stripe/stripe-billing-subscriptions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.626Z",
+  "created_at": "2025-12-22T23:16:17.277Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zacharyr0th%2Fnext-starter/.claude%2Fskills%2Fstripe%2Fstripe-billing-subscriptions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.626Z",
+    "uniqueId": "sk_417f0e372365"
+  }
+}

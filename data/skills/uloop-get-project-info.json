@@ -1,0 +1,35 @@
+{
+  "id": "uloop-get-project-info",
+  "name": "uloop-get-project-info",
+  "version": "1.0.0",
+  "summary": "Get Unity project information via uloop CLI. Use when you need to check project settings, Unity version, platform, or other project metadata.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hatayama",
+    "github": "hatayama"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hatayama/uLoopMCP",
+    "skill_md": "https://raw.githubusercontent.com/hatayama/uLoopMCP/main/.claude/skills/uloop-get-project-info/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.580Z",
+  "created_at": "2025-12-23T01:28:18.524Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hatayama%2FuLoopMCP/.claude%2Fskills%2Fuloop-get-project-info%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_4133115a0c19"
+  }
+}

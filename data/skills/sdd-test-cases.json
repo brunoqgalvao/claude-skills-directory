@@ -1,0 +1,36 @@
+{
+  "id": "sdd-test-cases",
+  "name": "sdd-test-cases",
+  "version": "1.0.0",
+  "summary": "sdd-initで作成したSpecドラフトを入力として、TDDを回せるだけのテスト観点（ハッピー/代表的失敗/境界/不変条件/非機能）をSpecに網羅する。ここではテスト実装・プロダクション実装は行わない。スコープ変更・要件追加もしない（必要なら未決事項として質問を起票し、合意が取れるまでTDDへ進ませない）。出力は「Specの更新（テスト戦略・テスト...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "See2et",
+    "github": "See2et"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/See2et/bakopa-vr",
+    "skill_md": "https://raw.githubusercontent.com/See2et/bakopa-vr/main/.codex/skills/sdd-test-cases/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:11.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/See2et%2Fbakopa-vr/.codex%2Fskills%2Fsdd-test-cases%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_738787e62d97"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rules-organizer",
+  "name": "rules-organizer",
+  "version": "1.0.0",
+  "summary": "Organize Claude Code instructions into modular rule files in .claude/rules/. Use when setting up project standards, adding team conventions, creating domain-specific rules, or m...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jdeweedata",
+    "github": "jdeweedata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jdeweedata/circletel",
+    "skill_md": "https://raw.githubusercontent.com/jdeweedata/circletel/main/.claude/skills/rules-organizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:20.217Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jdeweedata%2Fcircletel/.claude%2Fskills%2Frules-organizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_876984d0e427"
+  }
+}

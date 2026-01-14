@@ -1,0 +1,37 @@
+{
+  "id": "moai-mcp-figma",
+  "name": "moai-mcp-figma",
+  "version": "1.0.0",
+  "summary": "Figma MCP integration specialist for design system extraction, component generation, and design-to-code workflows. Use when integrating Figma designs into development.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "modu-ai",
+    "github": "modu-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/modu-ai/moai-adk",
+    "skill_md": "https://raw.githubusercontent.com/modu-ai/moai-adk/main/src/moai_adk/templates/.claude/skills/moai-mcp-figma/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T04:39:53.000Z",
+  "created_at": "2025-12-23T01:29:33.837Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/modu-ai%2Fmoai-adk/src%2Fmoai_adk%2Ftemplates%2F.claude%2Fskills%2Fmoai-mcp-figma%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_c472eb48dec8"
+  }
+}

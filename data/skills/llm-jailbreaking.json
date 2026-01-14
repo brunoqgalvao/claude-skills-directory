@@ -1,0 +1,35 @@
+{
+  "id": "llm-jailbreaking",
+  "name": "llm-jailbreaking",
+  "version": "1.0.0",
+  "summary": "Advanced LLM jailbreaking techniques, safety mechanism bypass strategies, and constraint circumvention methods. Use for comprehensive safety testing.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-ai-red-teaming",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-ai-red-teaming/main/custom-plugin-ai-red-teaming/skills/llm-jailbreaking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:23:06.000Z",
+  "created_at": "2025-12-22T15:10:52.215Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-ai-red-teaming/custom-plugin-ai-red-teaming%2Fskills%2Fllm-jailbreaking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_3915347dd37a"
+  }
+}

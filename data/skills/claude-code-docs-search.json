@@ -1,0 +1,36 @@
+{
+  "id": "claude-code-docs-search",
+  "name": "claude-code-docs-search",
+  "version": "1.0.0",
+  "summary": "Search local Claude Code documentation to answer implementation questions. Use when asked about Claude Code features, subagents, workflows, skills, hooks, MCP servers, plugins, ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arndtvoges",
+    "github": "arndtvoges"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arndtvoges/claude-code-docs",
+    "skill_md": "https://raw.githubusercontent.com/arndtvoges/claude-code-docs/main/.claude/skills/docs-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:21.936Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arndtvoges%2Fclaude-code-docs/.claude%2Fskills%2Fdocs-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_0ef4cf69f1b4"
+  }
+}

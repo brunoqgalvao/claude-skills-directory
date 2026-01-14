@@ -1,0 +1,35 @@
+{
+  "id": "research-docs",
+  "name": "research-docs",
+  "version": "1.0.0",
+  "summary": "Research and persist coding documentation using Perplexity AI. Use when user asks about documentation, APIs, frameworks, libraries, best practices, coding patterns, or needs to ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkmaker",
+    "github": "dkmaker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkmaker/ida-ai",
+    "skill_md": "https://raw.githubusercontent.com/dkmaker/ida-ai/main/.claude/skills/research-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:15.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkmaker%2Fida-ai/.claude%2Fskills%2Fresearch-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_78857b527859"
+  }
+}

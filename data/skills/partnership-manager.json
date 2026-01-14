@@ -1,0 +1,35 @@
+{
+  "id": "partnership-manager",
+  "name": "partnership-manager",
+  "version": "1.0.0",
+  "summary": "Partnership development and management",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "violetio",
+    "github": "violetio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/violetio/violet-ai-plugins",
+    "skill_md": "https://raw.githubusercontent.com/violetio/violet-ai-plugins/main/plugins/v-partnerships/skills/partnership-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:31.014Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/violetio%2Fviolet-ai-plugins/plugins%2Fv-partnerships%2Fskills%2Fpartnership-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_0ff1995a4c0f"
+  }
+}

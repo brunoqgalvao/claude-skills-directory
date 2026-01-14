@@ -1,0 +1,35 @@
+{
+  "id": "the-guy",
+  "name": "the-guy",
+  "version": "1.0.0",
+  "summary": "Integration and orchestration layer. THE GUY shows up, does the work, carries what he can carry. Coordinates other skills toward genuine collaboration rather than performed help...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "agentgptsmith",
+    "github": "agentgptsmith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/agentgptsmith/MonadFramework",
+    "skill_md": "https://raw.githubusercontent.com/agentgptsmith/MonadFramework/main/.claude/skills/the-guy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:07.329Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/agentgptsmith%2FMonadFramework/.claude%2Fskills%2Fthe-guy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_6a72411532da"
+  }
+}

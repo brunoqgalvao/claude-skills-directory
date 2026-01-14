@@ -1,38 +1,36 @@
 {
   "id": "tools",
-  "name": "Tools",
+  "name": "tools",
   "version": "1.0.0",
-  "summary": "description: Create reusable command or Skill scaffolds tailored to your project's recurring tasks",
+  "summary": "Use when implementing function calling, tool use, or agents with LLMs - unified tool API works across OpenAI, Anthropic, Google, and Ollama with consistent tool definition and e...",
   "verticals": [
-    "Operations"
+    "engineering",
+    "hr"
   ],
-  "tags": [
-    "tools",
-    "ai",
-    "claude"
-  ],
+  "tags": [],
   "author": {
-    "name": "flight505",
-    "github": "flight505",
-    "avatar": "https://avatars.githubusercontent.com/u/20601200?v=4"
+    "name": "juanre",
+    "github": "juanre"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/flight505/ClaudeCommands/tree/main/tools/newskill.md",
-    "skill_md": "https://raw.githubusercontent.com/flight505/ClaudeCommands/main/tools/newskill.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install tools"
+    "repo": "https://github.com/juanre/llmring",
+    "skill_md": "https://raw.githubusercontent.com/juanre/llmring/main/skills/tools/SKILL.md"
   },
   "stats": {
     "stars": 0,
     "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-11-12",
-  "created_at": "2025-11-06"
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:57.029Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanre%2Fllmring/skills%2Ftools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_6b81e93dda1f"
+  }
 }

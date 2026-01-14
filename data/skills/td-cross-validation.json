@@ -1,0 +1,35 @@
+{
+  "id": "td-cross-validation",
+  "name": "td-cross-validation",
+  "version": "1.0.0",
+  "summary": "Time series specific cross-validation techniques for model validation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "teradata-labs",
+    "github": "teradata-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/teradata-labs/claude-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/teradata-labs/claude-cookbooks/main/skills/analytics/td-cross-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:11:15.652Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/teradata-labs%2Fclaude-cookbooks/skills%2Fanalytics%2Ftd-cross-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_ba64621d9ae5"
+  }
+}

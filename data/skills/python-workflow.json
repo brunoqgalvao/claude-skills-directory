@@ -1,0 +1,37 @@
+{
+  "id": "python-workflow",
+  "name": "python-workflow",
+  "version": "1.0.0",
+  "summary": "Python project workflow guidelines including package management (uv, pip, poetry), virtual environment handling, code style, type safety, testing with pytest, configuration mana...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ilude",
+    "github": "ilude"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ilude/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/ilude/claude-code-config/main/skills/python-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T19:50:56.000Z",
+  "created_at": "2025-12-23T01:29:42.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ilude%2Fclaude-code-config/skills%2Fpython-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_dc8501eaf4de"
+  }
+}

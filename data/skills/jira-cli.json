@@ -1,0 +1,35 @@
+{
+  "id": "jira-cli",
+  "name": "jira-cli",
+  "version": "1.0.0",
+  "summary": "Manage Jira issues via command line - read issues, query by filters, create/update issues, add comments, and close issues after work completion.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xdg",
+    "github": "xdg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xdg/xdg-claude",
+    "skill_md": "https://raw.githubusercontent.com/xdg/xdg-claude/main/jira-cli/skills/jira-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:59:22.345Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xdg%2Fxdg-claude/jira-cli%2Fskills%2Fjira-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_d4f7732dfa1f"
+  }
+}

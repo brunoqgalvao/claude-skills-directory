@@ -1,0 +1,36 @@
+{
+  "id": "openwebf-security-remote-content",
+  "name": "openwebf-security-remote-content",
+  "version": "1.0.0",
+  "summary": "Review security risks and mitigations for remote WebF content (untrusted bundles, URL allowlists, HTTPS, trust boundaries, clickjacking). Use when the user mentions untrusted re...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "archview-ai",
+    "github": "archview-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/archview-ai/webf-plugin",
+    "skill_md": "https://raw.githubusercontent.com/archview-ai/webf-plugin/main/webf-plugin/skills/openwebf-security-remote-content/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T23:17:34.000Z",
+  "created_at": "2025-12-22T14:52:55.426Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/archview-ai%2Fwebf-plugin/webf-plugin%2Fskills%2Fopenwebf-security-remote-content%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_3c88163b66ad"
+  }
+}

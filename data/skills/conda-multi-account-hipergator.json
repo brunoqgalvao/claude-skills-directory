@@ -1,0 +1,35 @@
+{
+  "id": "conda-multi-account-hipergator",
+  "name": "conda-multi-account-hipergator",
+  "version": "1.0.0",
+  "summary": "Set up conda with multiple group storage locations on HiPerGator",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smith6jt-cop",
+    "github": "smith6jt-cop"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smith6jt-cop/Skills_Registry",
+    "skill_md": "https://raw.githubusercontent.com/smith6jt-cop/Skills_Registry/main/plugins/general/conda-multi-account-hipergator/skills/conda-multi-account-hipergator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:31.627Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smith6jt-cop%2FSkills_Registry/plugins%2Fgeneral%2Fconda-multi-account-hipergator%2Fskills%2Fconda-multi-account-hipergator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_b2bbe5afe454"
+  }
+}

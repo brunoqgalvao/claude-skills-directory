@@ -1,0 +1,35 @@
+{
+  "id": "naming-analyzer",
+  "name": "naming-analyzer",
+  "version": "1.0.0",
+  "summary": "Suggest better variable, function, and class names based on context and conventions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CuriousLearner",
+    "github": "CuriousLearner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CuriousLearner/devkit",
+    "skill_md": "https://raw.githubusercontent.com/CuriousLearner/devkit/main/skills/naming-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:05:35.161Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CuriousLearner%2Fdevkit/skills%2Fnaming-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_fb1166b1d4c5"
+  }
+}

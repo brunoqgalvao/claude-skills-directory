@@ -1,0 +1,35 @@
+{
+  "id": "sdd-pr",
+  "name": "sdd-pr",
+  "version": "1.0.0",
+  "summary": "AI-powered PR creation after spec completion. Analyzes spec metadata, git diffs, commit history, and journal entries to generate comprehensive PR descriptions with user approval...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-foundry",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-foundry/main/skills/sdd-pr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.551Z",
+  "created_at": "2025-12-23T01:28:48.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-foundry/skills%2Fsdd-pr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_c04fdb83e931"
+  }
+}

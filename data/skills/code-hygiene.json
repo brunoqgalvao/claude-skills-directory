@@ -1,0 +1,35 @@
+{
+  "id": "code-hygiene",
+  "name": "code-hygiene",
+  "version": "1.0.0",
+  "summary": "Apply code hygiene standards for clean, maintainable code. Use when writing, refactoring, or reviewing code.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EvanLavender13",
+    "github": "EvanLavender13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EvanLavender13/archctl",
+    "skill_md": "https://raw.githubusercontent.com/EvanLavender13/archctl/main/.claude/skills/code-hygiene/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T01:48:45.000Z",
+  "created_at": "2025-12-23T01:28:30.915Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EvanLavender13%2Farchctl/.claude%2Fskills%2Fcode-hygiene%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_603a24545220"
+  }
+}

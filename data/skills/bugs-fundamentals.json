@@ -1,0 +1,35 @@
+{
+  "id": "bugs-fundamentals",
+  "name": "bugs-fundamentals",
+  "version": "1.0.0",
+  "summary": "Foundational knowledge for writing BUGS/JAGS models including precision parameterization, declarative syntax, distributions, and R integration. Use when creating or reviewing BU...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "choxos",
+    "github": "choxos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/choxos/BayesianAgent",
+    "skill_md": "https://raw.githubusercontent.com/choxos/BayesianAgent/main/plugins/bayesian-modeling/skills/bugs-fundamentals/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T18:08:41.000Z",
+  "created_at": "2025-12-22T17:01:59.105Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/choxos%2FBayesianAgent/plugins%2Fbayesian-modeling%2Fskills%2Fbugs-fundamentals%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_65fb3c4afc1c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ml-tree-level4",
+  "name": "ml-tree-level4",
+  "version": "1.0.0",
+  "summary": "Advanced Maximum Likelihood phylogenetics with model selection (AIC/BIC), tree search algorithms (NNI/SPR/TBR), and performance optimization (Numba/GPU)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "roeimed0",
+    "github": "roeimed0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/roeimed0/rrna-phylo",
+    "skill_md": "https://raw.githubusercontent.com/roeimed0/rrna-phylo/main/.claude/skills/ml-tree-level4/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.623Z",
+  "created_at": "2025-12-22T23:18:46.470Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/roeimed0%2Frrna-phylo/.claude%2Fskills%2Fml-tree-level4%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.623Z",
+    "uniqueId": "sk_8d346dc59a21"
+  }
+}

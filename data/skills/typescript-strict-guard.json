@@ -1,0 +1,36 @@
+{
+  "id": "typescript-strict-guard",
+  "name": "typescript-strict-guard",
+  "version": "1.0.0",
+  "summary": "Use when writing or reviewing TypeScript code. Enforces strict mode standards, explicit typing, and best practices. Prevents 'any' types, @ts-ignore comments, and non-null asser...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Barnhardt-Enterprises-Inc",
+    "github": "Barnhardt-Enterprises-Inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Barnhardt-Enterprises-Inc/quetrex-plugin",
+    "skill_md": "https://raw.githubusercontent.com/Barnhardt-Enterprises-Inc/quetrex-plugin/main/templates/skills/typescript-strict-guard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.627Z",
+  "created_at": "2025-12-22T23:16:15.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Barnhardt-Enterprises-Inc%2Fquetrex-plugin/templates%2Fskills%2Ftypescript-strict-guard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.627Z",
+    "uniqueId": "sk_315eda25ae41"
+  }
+}

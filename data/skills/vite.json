@@ -1,0 +1,36 @@
+{
+  "id": "vite",
+  "name": "vite",
+  "version": "1.0.0",
+  "summary": "Expert knowledge for Vite build tool. Use when configuring Vite, creating plugins, managing HMR, or handling asset bundling.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "litestar-org",
+    "github": "litestar-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/litestar-org/litestar-vite",
+    "skill_md": "https://raw.githubusercontent.com/litestar-org/litestar-vite/main/.claude/skills/vite/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.562Z",
+  "created_at": "2025-12-23T01:28:39.387Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/litestar-org%2Flitestar-vite/.claude%2Fskills%2Fvite%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_003e80426011"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "workflow-logging",
+  "name": "workflow-logging",
+  "version": "1.0.0",
+  "summary": "工作流过程日志格式规范和写入模式。定义 JSONL 和文本两种格式的日志结构、事件类型、级别定义和写入方法。",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "penkzhou",
+    "github": "penkzhou"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/penkzhou/swiss-army-knife-plugin",
+    "skill_md": "https://raw.githubusercontent.com/penkzhou/swiss-army-knife-plugin/main/swiss-army-knife/skills/workflow-logging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:57:33.094Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/penkzhou%2Fswiss-army-knife-plugin/swiss-army-knife%2Fskills%2Fworkflow-logging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_e024fa6412df"
+  }
+}

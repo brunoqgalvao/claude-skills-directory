@@ -1,0 +1,37 @@
+{
+  "id": "cva-quickref-adk",
+  "name": "cva-quickref-adk",
+  "version": "1.0.0",
+  "summary": "Quick reference cheatsheet for Google ADK in Clojure. Includes agent creation patterns, model configuration, tool building, execution patterns, and common workflows. Use when wr...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joaopelegrino",
+    "github": "joaopelegrino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joaopelegrino/hello-word-closure",
+    "skill_md": "https://raw.githubusercontent.com/joaopelegrino/hello-word-closure/main/.claude-plugin/clojure-vertex-adk/skills/cva-quickref-adk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:28.152Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joaopelegrino%2Fhello-word-closure/.claude-plugin%2Fclojure-vertex-adk%2Fskills%2Fcva-quickref-adk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_88f309486c73"
+  }
+}

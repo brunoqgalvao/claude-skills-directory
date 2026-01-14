@@ -1,0 +1,35 @@
+{
+  "id": "chgis-tgaz",
+  "name": "chgis-tgaz",
+  "version": "1.0.0",
+  "summary": "Query the China Historical GIS (CHGIS) Temporal Gazetteer (TGAZ) API to search for historical Chinese placenames from 222 BCE to 1911 CE. Use this skill when searching for infor...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kltng",
+    "github": "kltng"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kltng/humanities-skills",
+    "skill_md": "https://raw.githubusercontent.com/kltng/humanities-skills/main/chgis-tgaz/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:23.003Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kltng%2Fhumanities-skills/chgis-tgaz%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_580f62032403"
+  }
+}

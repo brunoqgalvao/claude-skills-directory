@@ -1,0 +1,37 @@
+{
+  "id": "pm-analyst",
+  "name": "pm-analyst",
+  "version": "1.0.0",
+  "summary": "End-to-end PM workflow - from data analysis to pragmatic Linear tickets. Analyzes user behavior, identifies opportunities, creates specs, and audits for simplicity.",
+  "verticals": [
+    "support",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cncorp",
+    "github": "cncorp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cncorp/arsenal",
+    "skill_md": "https://raw.githubusercontent.com/cncorp/arsenal/main/dot-claude/skills/pm-analyst/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:38.862Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cncorp%2Farsenal/dot-claude%2Fskills%2Fpm-analyst%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_4974d04f9b92"
+  }
+}

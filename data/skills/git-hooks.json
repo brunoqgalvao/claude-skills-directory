@@ -1,0 +1,36 @@
+{
+  "id": "git-hooks",
+  "name": "git-hooks",
+  "version": "1.0.0",
+  "summary": "Automate code quality checks with Git hooks. Use when setting up pre-commit linting, pre-push testing, commit message validation, or automated code formatting. Supports Husky, l...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "caseymanos",
+    "github": "caseymanos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/caseymanos/dev-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/caseymanos/dev-skills-marketplace/main/dev-skills-marketplace/skills/git-hooks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:25.772Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/caseymanos%2Fdev-skills-marketplace/dev-skills-marketplace%2Fskills%2Fgit-hooks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_ea533eee2756"
+  }
+}

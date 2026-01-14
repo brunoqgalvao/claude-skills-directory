@@ -1,0 +1,36 @@
+{
+  "id": "local-development",
+  "name": "local-development",
+  "version": "1.0.0",
+  "summary": "Development server and build commands for Oak AI project including running dev server on port 2525, production and development builds, and running scripts with environment varia...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oaknational",
+    "github": "oaknational"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oaknational/oak-ai-lesson-assistant",
+    "skill_md": "https://raw.githubusercontent.com/oaknational/oak-ai-lesson-assistant/main/.claude/skills/local-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T15:55:52.000Z",
+  "created_at": "2025-12-23T01:28:24.256Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oaknational%2Foak-ai-lesson-assistant/.claude%2Fskills%2Flocal-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.577Z",
+    "uniqueId": "sk_fceff0953bbc"
+  }
+}

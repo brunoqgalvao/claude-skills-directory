@@ -1,0 +1,35 @@
+{
+  "id": "email-resend",
+  "name": "email-resend",
+  "version": "1.0.0",
+  "summary": "Email sending via Resend API for contact forms and booking requests with locale-aware templates. Use when implementing email notifications, contact form submissions, or transact...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canatufkansu",
+    "github": "canatufkansu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canatufkansu/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/canatufkansu/claude-skills/main/email-resend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:13.864Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canatufkansu%2Fclaude-skills/email-resend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_47d85fee646a"
+  }
+}

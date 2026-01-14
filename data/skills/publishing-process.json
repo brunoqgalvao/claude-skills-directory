@@ -1,0 +1,36 @@
+{
+  "id": "publishing-process",
+  "name": "publishing-process",
+  "version": "1.0.0",
+  "summary": "Use to orchestrate approvals, QA, and go-live steps for SEO content + technical launches.",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/seo-workflow-orchestration/skills/publishing-process/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:38.491Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fseo-workflow-orchestration%2Fskills%2Fpublishing-process%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_e5889422f215"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "superclaude-enhancer",
+  "name": "superclaude-enhancer",
+  "version": "1.0.0",
+  "summary": "SuperClaude 增强层 Skill，为其他 Skills 提供 SuperClaude 能力增强。\n支持前置分析、后置审查、智能建议等增强模式。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wade56754",
+    "github": "wade56754"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wade56754/AI_ad_spend02",
+    "skill_md": "https://raw.githubusercontent.com/wade56754/AI_ad_spend02/main/.claude/skills/superclaude-enhancer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.686Z",
+  "created_at": "2025-12-22T22:09:27.643Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wade56754%2FAI_ad_spend02/.claude%2Fskills%2Fsuperclaude-enhancer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.686Z",
+    "uniqueId": "sk_d1591ae124a9"
+  }
+}

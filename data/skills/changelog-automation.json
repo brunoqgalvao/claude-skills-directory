@@ -1,0 +1,35 @@
+{
+  "id": "changelog-automation",
+  "name": "changelog-automation",
+  "version": "1.0.0",
+  "summary": "Apply changelog automation and semantic versioning patterns using Changesets or semantic-release: conventional commits, automated version bumping, release notes generation. Use ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phrazzld",
+    "github": "phrazzld"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phrazzld/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/phrazzld/claude-config/main/skills/changelog-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.652Z",
+  "created_at": "2025-12-22T23:03:14.464Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phrazzld%2Fclaude-config/skills%2Fchangelog-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.652Z",
+    "uniqueId": "sk_ded9629ccf44"
+  }
+}

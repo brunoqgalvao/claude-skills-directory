@@ -1,0 +1,36 @@
+{
+  "id": "error-recovery",
+  "name": "error-recovery",
+  "version": "1.0.0",
+  "summary": "Classify workflow failures and attempt automatic recovery. Use when sprint/feature fails during implementation to determine if auto-fix is possible or manual intervention required.",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusgoll",
+    "github": "marcusgoll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusgoll/Spec-Flow",
+    "skill_md": "https://raw.githubusercontent.com/marcusgoll/Spec-Flow/main/.claude/skills/error-recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T18:39:27.000Z",
+  "created_at": "2025-12-22T19:30:02.535Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusgoll%2FSpec-Flow/.claude%2Fskills%2Ferror-recovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_269e80cd1264"
+  }
+}

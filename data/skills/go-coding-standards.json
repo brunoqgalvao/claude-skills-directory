@@ -1,0 +1,36 @@
+{
+  "id": "go-coding-standards",
+  "name": "go-coding-standards",
+  "version": "1.0.0",
+  "summary": "Go coding standards following idiomatic Go patterns, error handling, concurrency best practices, and modern Go tooling. Use for Go projects requiring clean, efficient, productio...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "williamzujkowski",
+    "github": "williamzujkowski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/williamzujkowski/standards",
+    "skill_md": "https://raw.githubusercontent.com/williamzujkowski/standards/main/skills/coding-standards/go/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:46.102Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/williamzujkowski%2Fstandards/skills%2Fcoding-standards%2Fgo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_99cff985ce1e"
+  }
+}

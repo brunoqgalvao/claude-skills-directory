@@ -1,0 +1,37 @@
+{
+  "id": "limacharlie-call",
+  "name": "limacharlie-call",
+  "version": "1.0.0",
+  "summary": "**REQUIRED for ALL LimaCharlie operations** - list orgs, sensors, rules, detections, queries, and 120+ functions. NEVER call LimaCharlie MCP tools directly. Use cases: 'what org...",
+  "verticals": [
+    "legal",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "refractionPOINT",
+    "github": "refractionPOINT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/refractionPOINT/lc-ai",
+    "skill_md": "https://raw.githubusercontent.com/refractionPOINT/lc-ai/main/marketplace/plugins/lc-essentials/skills/limacharlie-call/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.685Z",
+  "created_at": "2025-12-22T22:09:49.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/refractionPOINT%2Flc-ai/marketplace%2Fplugins%2Flc-essentials%2Fskills%2Flimacharlie-call%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.685Z",
+    "uniqueId": "sk_573c2cabd475"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bloodbank-event-publisher",
+  "name": "bloodbank-event-publisher",
+  "version": "1.0.0",
+  "summary": "Complete guide for creating, publishing, and consuming events in the DeLoNET home network's 33GOD agentic developer pipeline. Built on RabbitMQ with strict type safety via Pydan...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "delorenj",
+    "github": "delorenj"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/delorenj/bloodbank",
+    "skill_md": "https://raw.githubusercontent.com/delorenj/bloodbank/main/claude_updates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.468Z",
+  "created_at": "2025-12-23T01:30:52.861Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/delorenj%2Fbloodbank/claude_updates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.468Z",
+    "uniqueId": "sk_68ff42d5b815"
+  }
+}

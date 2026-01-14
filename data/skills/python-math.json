@@ -1,0 +1,35 @@
+{
+  "id": "python-math",
+  "name": "python-math",
+  "version": "1.0.0",
+  "summary": "Small Python utilities for math and text files.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trpc-group",
+    "github": "trpc-group"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trpc-group/trpc-agent-go",
+    "skill_md": "https://raw.githubusercontent.com/trpc-group/trpc-agent-go/main/examples/skillrun/skills/python_math/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T12:08:41.000Z",
+  "created_at": "2025-12-22T14:16:00.373Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trpc-group%2Ftrpc-agent-go/examples%2Fskillrun%2Fskills%2Fpython_math%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_b118b14db01b"
+  }
+}

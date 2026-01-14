@@ -1,0 +1,35 @@
+{
+  "id": "task-completion-report",
+  "name": "task-completion-report",
+  "version": "1.0.0",
+  "summary": "Generate a detailed task completion report for any milestone spec, showing overall completion percentage, per-phase breakdown with progress bars, and status indicators. Invoked ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NarubyRiverlione",
+    "github": "NarubyRiverlione"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NarubyRiverlione/FishBowl",
+    "skill_md": "https://raw.githubusercontent.com/NarubyRiverlione/FishBowl/main/.claude/skills/task-completion-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:50.495Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NarubyRiverlione%2FFishBowl/.claude%2Fskills%2Ftask-completion-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_3e6d4a4d84ef"
+  }
+}

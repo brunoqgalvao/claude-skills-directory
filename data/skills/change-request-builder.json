@@ -1,0 +1,37 @@
+{
+  "id": "change-request-builder",
+  "name": "change-request-builder",
+  "version": "1.0.0",
+  "summary": "Creates comprehensive ServiceNow change request documentation when users request CR creation, need to generate change requests, ask to prepare deployment documentation, or menti...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smorand",
+    "github": "smorand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smorand/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/smorand/claude-config/main/archives/skills.old/create-change-request/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.702Z",
+  "created_at": "2025-12-22T21:57:04.578Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smorand%2Fclaude-config/archives%2Fskills.old%2Fcreate-change-request%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.702Z",
+    "uniqueId": "sk_a6c1b02d9c68"
+  }
+}

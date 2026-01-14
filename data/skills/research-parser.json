@@ -1,0 +1,35 @@
+{
+  "id": "research-parser",
+  "name": "research-parser",
+  "version": "1.0.0",
+  "summary": "딥리서치 결과 파일(research/*.md)을 파싱하여 테스트 생성에 필요한 구조화된 데이터 추출. 리서치 파일 읽기, 차원/결과 추출 시 사용.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dayoumin",
+    "github": "dayoumin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dayoumin/mbti",
+    "skill_md": "https://raw.githubusercontent.com/dayoumin/mbti/main/.claude/skills/research-parser/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:35.967Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dayoumin%2Fmbti/.claude%2Fskills%2Fresearch-parser%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_74db73511359"
+  }
+}

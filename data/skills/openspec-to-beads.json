@@ -1,0 +1,35 @@
+{
+  "id": "openspec-to-beads",
+  "name": "openspec-to-beads",
+  "version": "1.0.0",
+  "summary": "PROACTIVELY convert approved OpenSpec specs into Beads issues when user applies a change or explicitly approves implementation. Creates trackable work with dependencies, discove...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lucastamoios",
+    "github": "lucastamoios"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lucastamoios/celeiro",
+    "skill_md": "https://raw.githubusercontent.com/lucastamoios/celeiro/main/.claude/skills/openspec-to-beads/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:57:36.849Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lucastamoios%2Fceleiro/.claude%2Fskills%2Fopenspec-to-beads%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_25e650ba0d38"
+  }
+}

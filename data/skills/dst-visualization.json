@@ -1,0 +1,37 @@
+{
+  "id": "dst-visualization",
+  "name": "dst-visualization",
+  "version": "1.0.0",
+  "summary": "Create interactive Chart.js visualizations for DST data analysis. Use when generating charts, creating visual reports, building dashboards, or displaying trends from database ta...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikkelkrogsholm",
+    "github": "mikkelkrogsholm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikkelkrogsholm/dst-skills",
+    "skill_md": "https://raw.githubusercontent.com/mikkelkrogsholm/dst-skills/main/.claude/skills/dst-visualization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:57.255Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikkelkrogsholm%2Fdst-skills/.claude%2Fskills%2Fdst-visualization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_757a37abd113"
+  }
+}

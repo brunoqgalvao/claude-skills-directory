@@ -1,0 +1,37 @@
+{
+  "id": "nafv4-coordinator",
+  "name": "nafv4-coordinator",
+  "version": "1.0.0",
+  "summary": "Coordinate NAF v4 / ADMBw modeling across all viewpoint categories. Routes requests to specialized skills (Requirements, Architecture Metadata, Concepts, Logical Specification, ...",
+  "verticals": [
+    "support",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "carstenlucke",
+    "github": "carstenlucke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/carstenlucke/naf4_admbw_claudeskill",
+    "skill_md": "https://raw.githubusercontent.com/carstenlucke/naf4_admbw_claudeskill/main/skill_nafv4-coordinator/nafv4-coordinator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.702Z",
+  "created_at": "2025-12-22T21:56:54.603Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/carstenlucke%2Fnaf4_admbw_claudeskill/skill_nafv4-coordinator%2Fnafv4-coordinator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.702Z",
+    "uniqueId": "sk_abc4eb1b46a3"
+  }
+}

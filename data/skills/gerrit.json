@@ -1,0 +1,36 @@
+{
+  "id": "gerrit",
+  "name": "gerrit",
+  "version": "1.0.0",
+  "summary": "Interact with Storj Gerrit team code collaboration service, which we just called it gerrit, when the user ask to do it",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_all/gerrit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T20:36:35.000Z",
+  "created_at": "2025-12-22T16:05:42.917Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_all%2Fgerrit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_a834a6022852"
+  }
+}

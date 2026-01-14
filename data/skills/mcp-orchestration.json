@@ -1,0 +1,35 @@
+{
+  "id": "mcp-orchestration",
+  "name": "mcp-orchestration",
+  "version": "1.0.0",
+  "summary": "Model Context Protocol for LLM-controlled trading. Claude/Gemini directly call trading tools via MCP servers. Natural language to trade execution.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LEDGERGHOST90",
+    "github": "LEDGERGHOST90"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LEDGERGHOST90/SOVEREIGN_SHADOW_3",
+    "skill_md": "https://raw.githubusercontent.com/LEDGERGHOST90/SOVEREIGN_SHADOW_3/main/.claude/skills/mcp-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T20:07:26.000Z",
+  "created_at": "2025-12-23T01:29:27.424Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LEDGERGHOST90%2FSOVEREIGN_SHADOW_3/.claude%2Fskills%2Fmcp-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_d23e4ac54975"
+  }
+}

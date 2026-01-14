@@ -1,0 +1,35 @@
+{
+  "id": "git-directory-management",
+  "name": "git-directory-management",
+  "version": "1.0.0",
+  "summary": "Manage git-tracked directories correctly - never create .gitkeep files in directories that will immediately contain tracked files",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "boneskull",
+    "github": "boneskull"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/boneskull/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/boneskull/claude-plugins/main/plugins/tools/skills/git-directory-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T18:38:34.000Z",
+  "created_at": "2025-12-23T01:29:02.701Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/boneskull%2Fclaude-plugins/plugins%2Ftools%2Fskills%2Fgit-directory-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_f8659e10edf1"
+  }
+}

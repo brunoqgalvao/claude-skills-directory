@@ -1,0 +1,35 @@
+{
+  "id": "subagent-patterns",
+  "name": "subagent-patterns",
+  "version": "1.0.0",
+  "summary": "SubAgent組み合わせパターン・選択ロジック提供。14種類のAgent定義・選択原則・Phase特性別組み合わせパターン・SubAgent責務境界判定・並列実行判断ロジック。Step開始時のSubAgent選択に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-kishi",
+    "github": "d-kishi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-kishi/ubiquitous-lang-mng",
+    "skill_md": "https://raw.githubusercontent.com/d-kishi/ubiquitous-lang-mng/main/.claude/skills/subagent-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:01:58.393Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-kishi%2Fubiquitous-lang-mng/.claude%2Fskills%2Fsubagent-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_ef0a9eff8830"
+  }
+}

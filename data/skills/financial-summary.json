@@ -1,0 +1,37 @@
+{
+  "id": "financial-summary",
+  "name": "financial-summary",
+  "version": "1.0.0",
+  "summary": "Parse and analyze personal financial transaction CSV exports to calculate account totals and generate detailed breakdowns. Use when the user asks to analyze transaction data, ge...",
+  "verticals": [
+    "support",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asermax",
+    "github": "asermax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asermax/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/asermax/claude-plugins/main/superpowers/skills/financial-summary/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:49.242Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asermax%2Fclaude-plugins/superpowers%2Fskills%2Ffinancial-summary%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_abb1c1a2b32b"
+  }
+}

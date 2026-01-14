@@ -1,0 +1,35 @@
+{
+  "id": "performance-security",
+  "name": "performance-security",
+  "version": "1.0.0",
+  "summary": "Performance optimization, accessibility, and security best practices for React apps. Covers code-splitting, React Compiler patterns, asset optimization, a11y testing, and securi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claude-code/main/plugins/frontend/skills/performance-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.495Z",
+  "created_at": "2025-12-23T01:29:29.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaude-code/plugins%2Ffrontend%2Fskills%2Fperformance-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_ca655e2ef0d4"
+  }
+}

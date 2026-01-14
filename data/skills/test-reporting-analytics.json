@@ -1,0 +1,37 @@
+{
+  "id": "test-reporting-analytics",
+  "name": "test-reporting-analytics",
+  "version": "1.0.0",
+  "summary": "Advanced test reporting, quality dashboards, predictive analytics, trend analysis, and executive reporting for QE metrics. Use when communicating quality status, tracking trends...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "proffesor-for-testing",
+    "github": "proffesor-for-testing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/proffesor-for-testing/sentinel-api-testing",
+    "skill_md": "https://raw.githubusercontent.com/proffesor-for-testing/sentinel-api-testing/main/.claude/skills/test-reporting-analytics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:56:53.056Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/proffesor-for-testing%2Fsentinel-api-testing/.claude%2Fskills%2Ftest-reporting-analytics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_d40c3704bcdf"
+  }
+}

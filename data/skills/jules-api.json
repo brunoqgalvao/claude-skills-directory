@@ -1,0 +1,37 @@
+{
+  "id": "jules-api",
+  "name": "jules-api",
+  "version": "1.0.0",
+  "summary": "Delegate asynchronous coding tasks to Jules (Google's AI coding agent) to maximize efficiency. Use for code reviews, refactoring, adding tests, bug fixes, and documentation. Pro...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "franklinbaldo",
+    "github": "franklinbaldo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/franklinbaldo/egregora",
+    "skill_md": "https://raw.githubusercontent.com/franklinbaldo/egregora/main/.claude/skills/jules-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.481Z",
+  "created_at": "2025-12-23T01:29:42.720Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/franklinbaldo%2Fegregora/.claude%2Fskills%2Fjules-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_ba973513becf"
+  }
+}

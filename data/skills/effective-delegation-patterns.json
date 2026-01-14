@@ -1,0 +1,35 @@
+{
+  "id": "effective-delegation-patterns",
+  "name": "effective-delegation-patterns",
+  "version": "1.0.0",
+  "summary": "This skill should be used when deciding what to delegate to agents versus doing yourself, and how to structure delegation for maximum agent effectiveness - covers task breakdown...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chriscarterux",
+    "github": "chriscarterux"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chriscarterux/chris-claude-stack",
+    "skill_md": "https://raw.githubusercontent.com/chriscarterux/chris-claude-stack/main/skills/effective-delegation-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.623Z",
+  "created_at": "2025-12-22T23:18:47.380Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chriscarterux%2Fchris-claude-stack/skills%2Feffective-delegation-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.623Z",
+    "uniqueId": "sk_e2b14e4cb85a"
+  }
+}

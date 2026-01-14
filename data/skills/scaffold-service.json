@@ -1,0 +1,35 @@
+{
+  "id": "scaffold-service",
+  "name": "scaffold-service",
+  "version": "1.0.0",
+  "summary": "마이크로서비스 보일러플레이트 생성. Use when: 새 마이크로서비스 디렉토리 구조 및 기본 파일 생성 필요 시",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-ms",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-ms/main/skills/scaffold-service/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.845Z",
+  "created_at": "2025-12-22T16:04:34.561Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-ms/skills%2Fscaffold-service%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_a0393bd1b2e3"
+  }
+}

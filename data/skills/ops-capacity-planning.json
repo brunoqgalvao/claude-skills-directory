@@ -1,0 +1,35 @@
+{
+  "id": "ops-capacity-planning",
+  "name": "ops-capacity-planning",
+  "version": "1.0.0",
+  "summary": "Structured workflow for infrastructure capacity planning including growth\nforecasting, scaling strategy, and resource provisioning decisions.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/ops-team/skills/ops-capacity-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:26.550Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/ops-team%2Fskills%2Fops-capacity-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_5fd077e09073"
+  }
+}

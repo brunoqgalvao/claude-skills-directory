@@ -1,0 +1,36 @@
+{
+  "id": "business-glossary",
+  "name": "business-glossary",
+  "version": "1.0.0",
+  "summary": "Comprehensive glossary of business and marketing terms used at realtor.com. Includes definitions for KPIs, campaign types, metrics, business concepts, analytical terminology, an...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MoveRDC",
+    "github": "MoveRDC"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MoveRDC/claude-skills-marketing",
+    "skill_md": "https://raw.githubusercontent.com/MoveRDC/claude-skills-marketing/main/skills/business-glossary/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:34.861Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MoveRDC%2Fclaude-skills-marketing/skills%2Fbusiness-glossary%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_a44a37726d27"
+  }
+}

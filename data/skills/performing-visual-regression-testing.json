@@ -1,0 +1,37 @@
+{
+  "id": "performing-visual-regression-testing",
+  "name": "performing-visual-regression-testing",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to execute visual regression tests using tools like Percy, Chromatic, and BackstopJS. It captures screenshots, compares them against baselines, and ana...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/testing/visual-regression-tester/skills/visual-regression-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:58.141Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskills-migration-20251108-070147%2Fplugins%2Ftesting%2Fvisual-regression-tester%2Fskills%2Fvisual-regression-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_8915f9944c03"
+  }
+}

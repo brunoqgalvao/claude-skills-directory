@@ -1,0 +1,36 @@
+{
+  "id": "elixir-testing",
+  "name": "elixir-testing",
+  "version": "1.0.0",
+  "summary": "Guide for writing comprehensive tests in Elixir using ExUnit, property-based testing, mocks, and test organization best practices",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinnie357",
+    "github": "vinnie357"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinnie357/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/vinnie357/claude-skills/main/elixir/skills/testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-15T19:46:30.000Z",
+  "created_at": "2025-12-23T01:29:58.122Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinnie357%2Fclaude-skills/elixir%2Fskills%2Ftesting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_fc9fbe394884"
+  }
+}

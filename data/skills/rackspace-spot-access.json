@@ -1,0 +1,35 @@
+{
+  "id": "rackspace-spot-access",
+  "name": "rackspace-spot-access",
+  "version": "1.0.0",
+  "summary": "Provides step-by-step instructions for accessing the Rackspace Spot Kubernetes cluster to debug ARC runners using spotctl. Covers installation, authentication via GCP Secret Man...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Matchpoint-AI",
+    "github": "Matchpoint-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Matchpoint-AI/matchpoint-github-runners-helm",
+    "skill_md": "https://raw.githubusercontent.com/Matchpoint-AI/matchpoint-github-runners-helm/main/.claude/skills/rackspace-spot-access/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.484Z",
+  "created_at": "2025-12-23T01:29:39.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Matchpoint-AI%2Fmatchpoint-github-runners-helm/.claude%2Fskills%2Frackspace-spot-access%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.484Z",
+    "uniqueId": "sk_7048cf266da9"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mcp-server-development",
+  "name": "mcp-server-development",
+  "version": "1.0.0",
+  "summary": "Expert guidance for building MCP (Model Context Protocol) servers using the TypeScript SDK. Use when developing MCP servers, implementing tools/resources/prompts, or working wit...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "akiojin",
+    "github": "akiojin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/akiojin/llm-router",
+    "skill_md": "https://raw.githubusercontent.com/akiojin/llm-router/main/.codex/skills/mcp-server-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T07:26:07.000Z",
+  "created_at": "2025-12-22T18:02:17.621Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/akiojin%2Fllm-router/.codex%2Fskills%2Fmcp-server-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_96ae0193cb5d"
+  }
+}

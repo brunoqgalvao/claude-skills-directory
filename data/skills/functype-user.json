@@ -1,0 +1,35 @@
+{
+  "id": "functype-user",
+  "name": "functype-user",
+  "version": "1.0.0",
+  "summary": "Help developers use functype functional programming patterns in their TypeScript projects. Use this skill when converting imperative/OOP code to functional patterns, looking up ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jordanburke",
+    "github": "jordanburke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jordanburke/functype",
+    "skill_md": "https://raw.githubusercontent.com/jordanburke/functype/main/.claude/skills/functype-user/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:07:10.268Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jordanburke%2Ffunctype/.claude%2Fskills%2Ffunctype-user%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_7c779c92233e"
+  }
+}

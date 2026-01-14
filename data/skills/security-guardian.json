@@ -1,0 +1,36 @@
+{
+  "id": "security-guardian",
+  "name": "security-guardian",
+  "version": "1.0.0",
+  "summary": "Expert en sécurité applicative pour détecter les vulnérabilités, auditer le code, et guider les bonnes pratiques de sécurité. OWASP Top 10, authentification, autorisation, crypt...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Bikach",
+    "github": "Bikach"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Bikach/skills-claude-code",
+    "skill_md": "https://raw.githubusercontent.com/Bikach/skills-claude-code/main/security-guardian/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:59:17.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Bikach%2Fskills-claude-code/security-guardian%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_ab624062dbc5"
+  }
+}

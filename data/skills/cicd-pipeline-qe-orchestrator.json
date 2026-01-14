@@ -1,0 +1,37 @@
+{
+  "id": "cicd-pipeline-qe-orchestrator",
+  "name": "cicd-pipeline-qe-orchestrator",
+  "version": "1.0.0",
+  "summary": "Orchestrate quality engineering across CI/CD pipeline phases. Use when designing test strategies, planning quality gates, or implementing shift-left/shift-right testing.",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "proffesor-for-testing",
+    "github": "proffesor-for-testing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/proffesor-for-testing/agentic-qe",
+    "skill_md": "https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/.claude/skills/cicd-pipeline-qe-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T10:07:46.000Z",
+  "created_at": "2025-12-22T20:58:54.018Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/proffesor-for-testing%2Fagentic-qe/.claude%2Fskills%2Fcicd-pipeline-qe-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_7ffd998d3335"
+  }
+}

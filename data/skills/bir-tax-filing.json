@@ -1,0 +1,36 @@
+{
+  "id": "bir-tax-filing",
+  "name": "bir-tax-filing",
+  "version": "1.0.0",
+  "summary": "Automate Philippine BIR (Bureau of Internal Revenue) tax form generation and filing. Handles 1601-C (withholding tax), 2550Q (quarterly VAT), 1702-RT/EX (annual income tax), and...",
+  "verticals": [
+    "legal",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jgtolentino",
+    "github": "jgtolentino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jgtolentino/insightpulse-odoo",
+    "skill_md": "https://raw.githubusercontent.com/jgtolentino/insightpulse-odoo/main/docs/claude-code-skills/community/bir-tax-filing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:19:21.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jgtolentino%2Finsightpulse-odoo/docs%2Fclaude-code-skills%2Fcommunity%2Fbir-tax-filing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_7594de7b8f46"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claude-review",
+  "name": "claude-review",
+  "version": "1.0.0",
+  "summary": "現在のClaudeセッション内でクイックレビューを実施します。コンテキストを保持したまま即座にコード品質、セキュリティ、パフォーマンスを評価します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sekka",
+    "github": "sekka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sekka/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sekka/dotfiles/main/home/.claude/skills/claude-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.530Z",
+  "created_at": "2025-12-23T01:29:01.988Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sekka%2Fdotfiles/home%2F.claude%2Fskills%2Fclaude-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_44efe43a0414"
+  }
+}

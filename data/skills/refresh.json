@@ -1,0 +1,36 @@
+{
+  "id": "refresh",
+  "name": "refresh",
+  "version": "1.0.0",
+  "summary": "Reload behavioral guidelines and audit recent actions for compliance",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm-wylbur",
+    "github": "vm-wylbur"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm-wylbur/pb-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/vm-wylbur/pb-dotfiles/main/ai/claude-code/skills/refresh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:36.450Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm-wylbur%2Fpb-dotfiles/ai%2Fclaude-code%2Fskills%2Frefresh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_e7d13428bd77"
+  }
+}

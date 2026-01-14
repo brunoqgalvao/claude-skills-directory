@@ -1,0 +1,36 @@
+{
+  "id": "update-ai-models",
+  "name": "update-ai-models",
+  "version": "1.0.0",
+  "summary": "Search the web for the latest AI models from Anthropic, OpenAI, and Google, then update src/models.ts with new model IDs. Use when user asks to update or add AI models.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rot1024",
+    "github": "rot1024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rot1024/honyo",
+    "skill_md": "https://raw.githubusercontent.com/rot1024/honyo/main/.claude/skills/update-ai-models/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.569Z",
+  "created_at": "2025-12-23T01:28:33.902Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rot1024%2Fhonyo/.claude%2Fskills%2Fupdate-ai-models%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_5955047dc5e9"
+  }
+}

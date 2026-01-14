@@ -1,0 +1,35 @@
+{
+  "id": "go-doc",
+  "name": "go-doc",
+  "version": "1.0.0",
+  "summary": "This skill should be used when drafting or reviewing Go doc comments so they align with the official Go documentation style and pkgsite rendering rules.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zskulcsar",
+    "github": "zskulcsar"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zskulcsar/code-stats",
+    "skill_md": "https://raw.githubusercontent.com/zskulcsar/code-stats/main/.codex/skills/go-doc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:59:26.536Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zskulcsar%2Fcode-stats/.codex%2Fskills%2Fgo-doc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_741c9591a947"
+  }
+}

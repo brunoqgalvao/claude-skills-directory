@@ -1,0 +1,35 @@
+{
+  "id": "git-state-validator",
+  "name": "git-state-validator",
+  "version": "1.0.0",
+  "summary": "Check git repository status, detect conflicts, and validate branch state before operations. Use when verifying working directory cleanliness, checking for conflicts, or validati...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EdanStarfire",
+    "github": "EdanStarfire"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EdanStarfire/claudecode_webui",
+    "skill_md": "https://raw.githubusercontent.com/EdanStarfire/claudecode_webui/main/.claude/skills/git-state-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:17.823Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EdanStarfire%2Fclaudecode_webui/.claude%2Fskills%2Fgit-state-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_7a5974bb2fbe"
+  }
+}

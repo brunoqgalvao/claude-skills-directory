@@ -1,0 +1,36 @@
+{
+  "id": "learning-path",
+  "name": "learning-path",
+  "version": "1.0.0",
+  "summary": "Assess Claude Code knowledge and route to appropriate learning level.\nUse when: user wants to learn Claude Code, asks for guidance, or says \"teach me\".\nTriggers: \"learn Claude C...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/ccc/skills/learning-path/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:09.959Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/ccc%2Fskills%2Flearning-path%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_1f3865fb6c10"
+  }
+}

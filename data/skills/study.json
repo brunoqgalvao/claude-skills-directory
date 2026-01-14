@@ -1,0 +1,35 @@
+{
+  "id": "study",
+  "name": "study",
+  "version": "1.0.0",
+  "summary": "Persona-based collaborative research tool with intelligent role-based orchestration and conversation threading",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-model-chorus",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-model-chorus/main/skills/study/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:58.138Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-model-chorus/skills%2Fstudy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_1c4ef3a2c1a2"
+  }
+}

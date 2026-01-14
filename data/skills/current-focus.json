@@ -1,0 +1,36 @@
+{
+  "id": "current-focus",
+  "name": "current-focus",
+  "version": "1.0.0",
+  "summary": "Sync Linear cycle data with CURRENT-FOCUS.md, analyze chat context for gaps, prioritize work based on dependencies and test failures, and provide actionable recommendations. Thi...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shayonpal",
+    "github": "shayonpal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shayonpal/mcp-for-lifeos",
+    "skill_md": "https://raw.githubusercontent.com/shayonpal/mcp-for-lifeos/main/.claude/skills/current-focus/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.941Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shayonpal%2Fmcp-for-lifeos/.claude%2Fskills%2Fcurrent-focus%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_e2f575b7e738"
+  }
+}

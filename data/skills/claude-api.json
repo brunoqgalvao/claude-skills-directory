@@ -1,0 +1,36 @@
+{
+  "id": "claude-api",
+  "name": "claude-api",
+  "version": "1.0.0",
+  "summary": "Anthropic Claude API development patterns, tool use, Agent SDK, prompt engineering, and best practices.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "parkerhancock",
+    "github": "parkerhancock"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/parkerhancock/ai-docs-plugin",
+    "skill_md": "https://raw.githubusercontent.com/parkerhancock/ai-docs-plugin/main/skills/claude-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:14:46.552Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/parkerhancock%2Fai-docs-plugin/skills%2Fclaude-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_4e0cd249e910"
+  }
+}

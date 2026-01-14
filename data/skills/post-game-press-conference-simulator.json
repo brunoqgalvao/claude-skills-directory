@@ -1,0 +1,35 @@
+{
+  "id": "post-game-press-conference-simulator",
+  "name": "post-game-press-conference-simulator",
+  "version": "1.0.0",
+  "summary": "Generate realistic coach/player interview responses for wins, losses, controversies, injuries. Authentic coachspeak and player personalities.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gked2121",
+    "github": "gked2121"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gked2121/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gked2121/claude-skills/main/post-game-press-conference-simulator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.464Z",
+  "created_at": "2025-12-22T15:01:02.154Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gked2121%2Fclaude-skills/post-game-press-conference-simulator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.464Z",
+    "uniqueId": "sk_56b6fac0e761"
+  }
+}

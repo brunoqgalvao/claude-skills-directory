@@ -1,0 +1,35 @@
+{
+  "id": "aws-sdk-java-v2-lambda",
+  "name": "aws-sdk-java-v2-lambda",
+  "version": "1.0.0",
+  "summary": "AWS Lambda patterns using AWS SDK for Java 2.x. Use when invoking Lambda functions, creating/updating functions, managing function configurations, working with Lambda layers, or...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "giuseppe-trisciuoglio",
+    "github": "giuseppe-trisciuoglio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "skill_md": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/aws-java/aws-sdk-java-v2-lambda/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T19:11:10.000Z",
+  "created_at": "2025-12-23T01:29:42.586Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/giuseppe-trisciuoglio%2Fdeveloper-kit/skills%2Faws-java%2Faws-sdk-java-v2-lambda%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_b576d95aa81a"
+  }
+}

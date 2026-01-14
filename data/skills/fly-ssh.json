@@ -1,0 +1,37 @@
+{
+  "id": "fly-ssh",
+  "name": "fly-ssh",
+  "version": "1.0.0",
+  "summary": "Use when asked to run \"fly ssh console\", SSH into Fly.io machines, inspect files on production machines, check processes on Fly.io, or examine deployed machine state. Covers cri...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rubys",
+    "github": "rubys"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rubys/showcase",
+    "skill_md": "https://raw.githubusercontent.com/rubys/showcase/main/.claude/skills/fly-ssh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rubys%2Fshowcase/.claude%2Fskills%2Ffly-ssh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_b07d5c6073cd"
+  }
+}

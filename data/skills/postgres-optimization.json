@@ -1,0 +1,35 @@
+{
+  "id": "postgres-optimization",
+  "name": "postgres-optimization",
+  "version": "1.0.0",
+  "summary": "PostgreSQL database optimization combining institutional knowledge with live analysis",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm-wylbur",
+    "github": "vm-wylbur"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm-wylbur/pb-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/vm-wylbur/pb-dotfiles/main/ai/claude-code/skills/postgres-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.675Z",
+  "created_at": "2025-12-22T22:13:27.001Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm-wylbur%2Fpb-dotfiles/ai%2Fclaude-code%2Fskills%2Fpostgres-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.675Z",
+    "uniqueId": "sk_1ba2d75f98d1"
+  }
+}

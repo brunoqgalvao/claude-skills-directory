@@ -1,0 +1,36 @@
+{
+  "id": "python-ase",
+  "name": "python-ase",
+  "version": "1.0.0",
+  "summary": "Expert assistance with the Atomic Simulation Environment (ASE) Python library for atomistic simulations, including structure building, calculator setup, optimization, dynamics, ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkitchin",
+    "github": "jkitchin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkitchin/skillz",
+    "skill_md": "https://raw.githubusercontent.com/jkitchin/skillz/main/skills/programming/python-ase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:40.800Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkitchin%2Fskillz/skills%2Fprogramming%2Fpython-ase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_6dfabcddc20c"
+  }
+}

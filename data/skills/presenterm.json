@@ -1,0 +1,35 @@
+{
+  "id": "presenterm",
+  "name": "presenterm",
+  "version": "1.0.0",
+  "summary": "Create and deliver terminal-based presentations from markdown files with themes, code execution, mermaid/d2 diagrams, LaTeX/typst formulas, and PDF/HTML export capabilities.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lanej",
+    "github": "lanej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lanej/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/lanej/dotfiles/main/claude/skills/presenterm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.605Z",
+  "created_at": "2025-12-23T00:03:48.385Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lanej%2Fdotfiles/claude%2Fskills%2Fpresenterm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.605Z",
+    "uniqueId": "sk_a79274234dcf"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "speech-recognition",
+  "name": "speech-recognition",
+  "version": "1.0.0",
+  "summary": "iOS speech recognition implementation using @react-native-voice/voice. Use when debugging transcription issues, modifying session handling, or understanding the accumulated text...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Takashi-Matsumura",
+    "github": "Takashi-Matsumura"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Takashi-Matsumura/webrtc-demo",
+    "skill_md": "https://raw.githubusercontent.com/Takashi-Matsumura/webrtc-demo/main/.claude/skills/speech-recognition/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T23:34:47.000Z",
+  "created_at": "2025-12-23T01:28:48.992Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Takashi-Matsumura%2Fwebrtc-demo/.claude%2Fskills%2Fspeech-recognition%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_37041c3fc5f6"
+  }
+}

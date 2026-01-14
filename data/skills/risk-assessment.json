@@ -1,0 +1,35 @@
+{
+  "id": "risk-assessment",
+  "name": "risk-assessment",
+  "version": "1.0.0",
+  "summary": "Identifies technical, timeline, and dependency risks with mitigation strategies. Use when reviewing plans or implementations to catch potential issues early before they become p...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "binee108",
+    "github": "binee108"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/binee108/nine-step-workflow-plugin",
+    "skill_md": "https://raw.githubusercontent.com/binee108/nine-step-workflow-plugin/main/skills/risk-assessment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T07:05:45.000Z",
+  "created_at": "2025-12-23T01:29:25.380Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/binee108%2Fnine-step-workflow-plugin/skills%2Frisk-assessment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_cf4807ed1168"
+  }
+}

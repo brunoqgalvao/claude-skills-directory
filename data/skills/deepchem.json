@@ -1,0 +1,35 @@
+{
+  "id": "deepchem",
+  "name": "deepchem",
+  "version": "1.0.0",
+  "summary": "Molecular machine learning toolkit. Property prediction (ADMET, toxicity), GNNs (GCN, MPNN), MoleculeNet benchmarks, pretrained models, featurization, for drug discovery ML.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lifangda",
+    "github": "lifangda"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lifangda/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/lifangda/claude-plugins/main/cli-tool/skills-library/scientific-computing/cheminformatics/deepchem/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.450Z",
+  "created_at": "2025-12-23T01:29:58.379Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lifangda%2Fclaude-plugins/cli-tool%2Fskills-library%2Fscientific-computing%2Fcheminformatics%2Fdeepchem%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_b373088d2054"
+  }
+}

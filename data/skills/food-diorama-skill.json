@@ -1,0 +1,35 @@
+{
+  "id": "food-diorama-skill",
+  "name": "food-diorama-skill",
+  "version": "1.0.0",
+  "summary": "Generate 3D historical gourmet diorama images for Chinese cities using Google Gemini API. Creates artistic miniature food worlds with four-quadrant layouts featuring iconic dish...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lqshow",
+    "github": "lqshow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lqshow/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/lqshow/claude-skills/main/food-diorama-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T13:48:00.000Z",
+  "created_at": "2025-12-23T01:29:02.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lqshow%2Fclaude-skills/food-diorama-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.529Z",
+    "uniqueId": "sk_0cfee94f383c"
+  }
+}

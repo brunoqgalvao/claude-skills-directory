@@ -1,0 +1,36 @@
+{
+  "id": "spec-effects",
+  "name": "spec-effects",
+  "version": "1.0.0",
+  "summary": "Define effect types used by morphisms. Creates the effect algebra including\nIO, error types, state, and reader effects. Use when: defining error types,\nspecifying effect semanti...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BellaBe",
+    "github": "BellaBe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BellaBe/ideas-os",
+    "skill_md": "https://raw.githubusercontent.com/BellaBe/ideas-os/main/.claude/skills/engineering-spec-effects/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:07:00.214Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BellaBe%2Fideas-os/.claude%2Fskills%2Fengineering-spec-effects%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_deb7fdd07c81"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "gpt-researcher",
+  "name": "gpt-researcher",
+  "version": "1.0.0",
+  "summary": "Run the GPT Researcher autonomous agent to generate comprehensive deep research reports. Requires LLM and Search API keys (e.g., OPENAI_API_KEY, TAVILY_API_KEY).",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "closedloop-technologies",
+    "github": "closedloop-technologies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/closedloop-technologies/awesome-deep-researchers",
+    "skill_md": "https://raw.githubusercontent.com/closedloop-technologies/awesome-deep-researchers/main/.claude/skills/gpt-researcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.872Z",
+  "created_at": "2025-12-22T15:04:42.913Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/closedloop-technologies%2Fawesome-deep-researchers/.claude%2Fskills%2Fgpt-researcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.872Z",
+    "uniqueId": "sk_bf7e00a57ba6"
+  }
+}

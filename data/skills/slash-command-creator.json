@@ -1,0 +1,35 @@
+{
+  "id": "slash-command-creator",
+  "name": "slash-command-creator",
+  "version": "1.0.0",
+  "summary": "Create custom slash commands for Claude Code with complete frontmatter, arguments, and advanced features. Use when creating /commands, writing command .md files, configuring all...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "basher83",
+    "github": "basher83"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/basher83/lunar-claude",
+    "skill_md": "https://raw.githubusercontent.com/basher83/lunar-claude/main/plugins/meta/meta-claude/skills/slash-command-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:18.274Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/basher83%2Flunar-claude/plugins%2Fmeta%2Fmeta-claude%2Fskills%2Fslash-command-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_8f097df3eb42"
+  }
+}

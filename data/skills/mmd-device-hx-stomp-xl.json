@@ -1,0 +1,37 @@
+{
+  "id": "mmd-device-hx-stomp-xl",
+  "name": "mmd-device-hx-stomp-xl",
+  "version": "1.0.0",
+  "summary": "Guide for using the Line 6 HX Stomp XL device library in MMD files. Use when the user mentions HX Stomp XL, Stomp XL processor, or needs help with 4-snapshot control, 8 footswit...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cjgdev",
+    "github": "cjgdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cjgdev/midi-markdown",
+    "skill_md": "https://raw.githubusercontent.com/cjgdev/midi-markdown/main/.claude/skills/mmd-device-hx-stomp-xl/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-15T08:28:00.000Z",
+  "created_at": "2025-12-22T21:11:21.155Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cjgdev%2Fmidi-markdown/.claude%2Fskills%2Fmmd-device-hx-stomp-xl%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_2d9d4f00a01c"
+  }
+}

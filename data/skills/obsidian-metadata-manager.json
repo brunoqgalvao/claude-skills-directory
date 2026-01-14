@@ -1,0 +1,36 @@
+{
+  "id": "obsidian-metadata-manager",
+  "name": "obsidian-metadata-manager",
+  "version": "1.0.0",
+  "summary": "Manage and standardize frontmatter metadata across Obsidian vault. Use when files are missing metadata, have inconsistent frontmatter, or need standardized date/tag/type fields....",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeongsk",
+    "github": "jeongsk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeongsk/langchain-academy",
+    "skill_md": "https://raw.githubusercontent.com/jeongsk/langchain-academy/main/.claude/skills/obsidian-metadata-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:59:30.165Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeongsk%2Flangchain-academy/.claude%2Fskills%2Fobsidian-metadata-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_536169f87fd4"
+  }
+}

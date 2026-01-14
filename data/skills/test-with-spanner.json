@@ -1,0 +1,36 @@
+{
+  "id": "test-with-spanner",
+  "name": "test-with-spanner",
+  "version": "1.0.0",
+  "summary": "Run unit tests that require the Spanner emulator. Use this skill when the user wants to run tests in packages like satellite/metabase, satellite/metainfo, or any other tests tha...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "storj",
+    "github": "storj"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/storj/storj",
+    "skill_md": "https://raw.githubusercontent.com/storj/storj/main/.claude/skills/test-with-spanner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T13:34:40.000Z",
+  "created_at": "2025-12-23T01:28:42.027Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/storj%2Fstorj/.claude%2Fskills%2Ftest-with-spanner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.453Z",
+    "uniqueId": "sk_cd26be4b42d5"
+  }
+}

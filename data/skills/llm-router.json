@@ -1,0 +1,35 @@
+{
+  "id": "llm-router",
+  "name": "llm-router",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users want to route LLM requests to different AI providers (OpenAI, Grok/xAI, Groq, DeepSeek, OpenRouter) using SwiftOpenAI-CLI. Use this skill wh...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jamesrochabrun",
+    "github": "jamesrochabrun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jamesrochabrun/skills",
+    "skill_md": "https://raw.githubusercontent.com/jamesrochabrun/skills/main/skills/llm-router/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:39.307Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jamesrochabrun%2Fskills/skills%2Fllm-router%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_040cd5c0faf4"
+  }
+}

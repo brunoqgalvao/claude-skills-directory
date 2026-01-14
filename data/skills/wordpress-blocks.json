@@ -1,0 +1,37 @@
+{
+  "id": "wordpress-blocks",
+  "name": "wordpress-blocks",
+  "version": "1.0.0",
+  "summary": "WordPress block development including Gutenberg blocks, Block Hooks API for dynamic injection, Interactivity API for frontend features, custom post types, shortcodes, widgets, a...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikkelkrogsholm",
+    "github": "mikkelkrogsholm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikkelkrogsholm/wp-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mikkelkrogsholm/wp-plugins/main/.claude/skills/wordpress-blocks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:11.650Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikkelkrogsholm%2Fwp-plugins/.claude%2Fskills%2Fwordpress-blocks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_b40a0e1d5841"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "package-conventions",
+  "name": "package-conventions",
+  "version": "1.0.0",
+  "summary": "Emacs Lisp package development standards and conventions",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hugoduncan",
+    "github": "hugoduncan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hugoduncan/library-skills",
+    "skill_md": "https://raw.githubusercontent.com/hugoduncan/library-skills/main/plugins/emacs-libraries/skills/package-conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:24.534Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hugoduncan%2Flibrary-skills/plugins%2Femacs-libraries%2Fskills%2Fpackage-conventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_d48c2bcad938"
+  }
+}

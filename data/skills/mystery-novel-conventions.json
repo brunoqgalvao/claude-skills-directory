@@ -1,0 +1,35 @@
+{
+  "id": "mystery-novel-conventions",
+  "name": "mystery-novel-conventions",
+  "version": "1.0.0",
+  "summary": "Use when user mentions mystery, detective, crime, or suspense-focused narrative - provides genre conventions, clue placement, and fair play principles for mystery writing",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wordflowlab",
+    "github": "wordflowlab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wordflowlab/novel-writer-skills",
+    "skill_md": "https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/templates/skills/genre-knowledge/mystery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.778Z",
+  "created_at": "2025-12-22T19:30:42.065Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wordflowlab%2Fnovel-writer-skills/templates%2Fskills%2Fgenre-knowledge%2Fmystery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_eaf70fd70b7a"
+  }
+}

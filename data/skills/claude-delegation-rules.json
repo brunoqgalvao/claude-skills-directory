@@ -1,0 +1,37 @@
+{
+  "id": "claude-delegation-rules",
+  "name": "claude-delegation-rules",
+  "version": "1.0.0",
+  "summary": "Rules and patterns for Claude Code agent delegation, including when to delegate, how to hand off context, and how to coordinate between agents. Use when designing agent systems ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "L-Sypniewski",
+    "github": "L-Sypniewski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/L-Sypniewski/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/L-Sypniewski/claude-code-toolkit/main/plugins/documentation-templates/skills/claude-delegation-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:59:17.316Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/L-Sypniewski%2Fclaude-code-toolkit/plugins%2Fdocumentation-templates%2Fskills%2Fclaude-delegation-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_85d16233dcdd"
+  }
+}

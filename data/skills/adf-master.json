@@ -1,0 +1,36 @@
+{
+  "id": "adf-master",
+  "name": "adf-master",
+  "version": "1.0.0",
+  "summary": "Comprehensive Azure Data Factory knowledge base with official documentation sources, CI/CD methods, deployment patterns, and troubleshooting resources",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JosiahSiegel",
+    "github": "JosiahSiegel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JosiahSiegel/claude-plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/JosiahSiegel/claude-plugin-marketplace/main/plugins/adf-master/skills/adf-master/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:54.505Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JosiahSiegel%2Fclaude-plugin-marketplace/plugins%2Fadf-master%2Fskills%2Fadf-master%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_7ac7e0a54624"
+  }
+}

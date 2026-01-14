@@ -1,0 +1,35 @@
+{
+  "id": "supabase-migration",
+  "name": "supabase-migration",
+  "version": "1.0.0",
+  "summary": "Database migration toolkit for Supabase projects. Use when: (1) Creating new migration files, (2) Writing schema changes (CREATE TABLE, ALTER, etc.), (3) Adding indexes, trigger...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ninyawee",
+    "github": "ninyawee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ninyawee/armed-claude",
+    "skill_md": "https://raw.githubusercontent.com/ninyawee/armed-claude/main/skills/supabase-migration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:40.974Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ninyawee%2Farmed-claude/skills%2Fsupabase-migration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_28af2377940d"
+  }
+}

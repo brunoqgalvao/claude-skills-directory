@@ -1,0 +1,36 @@
+{
+  "id": "terraform-provider-testing",
+  "name": "terraform-provider-testing",
+  "version": "1.0.0",
+  "summary": "Comprehensive test-driven development for Terraform providers with iterative co-development of tests, generators, and schemas. NEVER skip development or refactoring - always fix...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robinmordasiewicz",
+    "github": "robinmordasiewicz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robinmordasiewicz/terraform-provider-f5xc",
+    "skill_md": "https://raw.githubusercontent.com/robinmordasiewicz/terraform-provider-f5xc/main/.claude/skills/terraform-provider-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:18:25.146Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robinmordasiewicz%2Fterraform-provider-f5xc/.claude%2Fskills%2Fterraform-provider-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_e49009a2a9ae"
+  }
+}

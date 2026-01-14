@@ -1,0 +1,35 @@
+{
+  "id": "command-generator",
+  "name": "command-generator",
+  "version": "1.0.0",
+  "summary": "エージェントとスキルの組み合わせから、Commandのマークダウンファイルを生成する。コマンド作成時、スラッシュコマンド定義時、またはユーザーがCommand生成、スラッシュコマンド、コマンド定義、実行フローに言及した際に使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-plugin-generator/skills/command-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.675Z",
+  "created_at": "2025-12-22T22:13:48.252Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-plugin-generator%2Fskills%2Fcommand-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.675Z",
+    "uniqueId": "sk_fc41e24b630f"
+  }
+}

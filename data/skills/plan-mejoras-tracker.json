@@ -1,0 +1,35 @@
+{
+  "id": "plan-mejoras-tracker",
+  "name": "plan-mejoras-tracker",
+  "version": "1.0.0",
+  "summary": "Documenta progreso y marca tareas completadas en PLAN_MEJORAS.md. Usa SIEMPRE después de completar cualquier tarea del plan de mejoras.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sanchezx1",
+    "github": "sanchezx1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sanchezx1/v0-fullcolor-cotizador",
+    "skill_md": "https://raw.githubusercontent.com/sanchezx1/v0-fullcolor-cotizador/main/.claude/skills/plan-mejoras-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T03:32:21.000Z",
+  "created_at": "2025-12-23T01:28:35.977Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sanchezx1%2Fv0-fullcolor-cotizador/.claude%2Fskills%2Fplan-mejoras-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_273e7c926010"
+  }
+}

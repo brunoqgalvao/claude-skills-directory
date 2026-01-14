@@ -1,0 +1,35 @@
+{
+  "id": "llm-inference",
+  "name": "llm-inference",
+  "version": "1.0.0",
+  "summary": "Use when wanting to interact with any LLM - Explains available inference endpoints so the agent selects suitable models.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dave1010",
+    "github": "dave1010"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dave1010/tools",
+    "skill_md": "https://raw.githubusercontent.com/dave1010/tools/main/.skills/llm-inference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:55.565Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dave1010%2Ftools/.skills%2Fllm-inference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_1e7dd790466f"
+  }
+}

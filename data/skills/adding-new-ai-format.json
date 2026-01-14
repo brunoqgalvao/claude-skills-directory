@@ -1,0 +1,37 @@
+{
+  "id": "adding-new-ai-format",
+  "name": "adding-new-ai-format",
+  "version": "1.0.0",
+  "summary": "Step-by-step guide for adding support for a new AI editor format to PRPM - covers types, converters, schemas, CLI, webapp, and testing",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pr-pm",
+    "github": "pr-pm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pr-pm/prpm",
+    "skill_md": "https://raw.githubusercontent.com/pr-pm/prpm/main/.claude/skills/adding-new-ai-format/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.476Z",
+  "created_at": "2025-12-23T01:29:52.656Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pr-pm%2Fprpm/.claude%2Fskills%2Fadding-new-ai-format%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.476Z",
+    "uniqueId": "sk_8b12c3ee77c0"
+  }
+}

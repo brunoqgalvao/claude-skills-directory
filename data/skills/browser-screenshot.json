@@ -1,0 +1,37 @@
+{
+  "id": "browser-screenshot",
+  "name": "browser-screenshot",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to capture screenshots of web pages. It supports full-page screenshots, viewport-specific captures, responsive screenshots across multi...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Igosuki",
+    "github": "Igosuki"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Igosuki/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Igosuki/claude-skills/main/browser-screenshot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-21T12:13:49.000Z",
+  "created_at": "2025-12-23T01:29:19.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Igosuki%2Fclaude-skills/browser-screenshot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.508Z",
+    "uniqueId": "sk_c4d05964d8a8"
+  }
+}

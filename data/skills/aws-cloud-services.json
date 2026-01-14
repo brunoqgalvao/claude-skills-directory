@@ -1,0 +1,35 @@
+{
+  "id": "aws-cloud-services",
+  "name": "aws-cloud-services",
+  "version": "1.0.0",
+  "summary": "Comprehensive AWS cloud services skill covering S3, Lambda, DynamoDB, EC2, RDS, IAM, CloudFormation, and enterprise cloud architecture patterns with AWS SDK",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manutej",
+    "github": "manutej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manutej/luxor-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/manutej/luxor-claude-marketplace/main/plugins/luxor-devops-suite/skills/aws-cloud-services/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:25:56.764Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manutej%2Fluxor-claude-marketplace/plugins%2Fluxor-devops-suite%2Fskills%2Faws-cloud-services%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_b00349a86f79"
+  }
+}

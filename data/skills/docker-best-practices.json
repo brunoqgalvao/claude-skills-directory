@@ -1,0 +1,36 @@
+{
+  "id": "docker-best-practices",
+  "name": "docker-best-practices",
+  "version": "1.0.0",
+  "summary": "Create optimized Dockerfiles with multi-stage builds, security hardening, layer caching, and health checks. Includes docker-compose patterns for development and production envir...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ils15",
+    "github": "ils15"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ils15/copilot-global-config",
+    "skill_md": "https://raw.githubusercontent.com/ils15/copilot-global-config/main/skills/docker-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:22.298Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ils15%2Fcopilot-global-config/skills%2Fdocker-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_27a4bf398489"
+  }
+}

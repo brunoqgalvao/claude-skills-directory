@@ -1,0 +1,36 @@
+{
+  "id": "scala-conventions-enforcer",
+  "name": "scala-conventions-enforcer",
+  "version": "1.0.0",
+  "summary": "This skill should be used proactively before writing any Scala code for the first time in a session. It ensures all Scala code adheres to project-specific coding standards, form...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matthew-bram",
+    "github": "matthew-bram"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matthew-bram/enterprise-confluent-test-probe",
+    "skill_md": "https://raw.githubusercontent.com/matthew-bram/enterprise-confluent-test-probe/main/.claude/skills/scala-conventions-enforcer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:10:33.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matthew-bram%2Fenterprise-confluent-test-probe/.claude%2Fskills%2Fscala-conventions-enforcer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_add7f51e2180"
+  }
+}

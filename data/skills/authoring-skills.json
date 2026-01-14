@@ -1,0 +1,36 @@
+{
+  "id": "authoring-skills",
+  "name": "authoring-skills",
+  "version": "1.0.0",
+  "summary": "Use when creating new skills, improving existing skills, or when the user requests help with skill authoring. Creates optimized Claude Code skills (SKILL.md files) following off...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkappers",
+    "github": "jkappers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkappers/claude-code-software-delivery-plugin",
+    "skill_md": "https://raw.githubusercontent.com/jkappers/claude-code-software-delivery-plugin/main/.claude/skills/authoring-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:24.695Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkappers%2Fclaude-code-software-delivery-plugin/.claude%2Fskills%2Fauthoring-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_d723bcff2689"
+  }
+}

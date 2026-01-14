@@ -1,0 +1,36 @@
+{
+  "id": "badger-app-creator",
+  "name": "badger-app-creator",
+  "version": "1.0.0",
+  "summary": "Create MicroPython applications for Universe 2025 (Tufty) Badge including display graphics, button handling, and MonaOS app structure. Use when building badge apps, creating int...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/badger-2350-plugin",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/badger-2350-plugin/main/badger-2350-dev/skills/badger-app-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.477Z",
+  "created_at": "2025-12-23T01:29:50.259Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fbadger-2350-plugin/badger-2350-dev%2Fskills%2Fbadger-app-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_b9755514594f"
+  }
+}

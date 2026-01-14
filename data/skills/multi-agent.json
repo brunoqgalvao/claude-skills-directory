@@ -1,0 +1,35 @@
+{
+  "id": "multi-agent",
+  "name": "multi-agent",
+  "version": "1.0.0",
+  "summary": "Multi-agent collaboration. Use when working with other Claude Code sessions, coordinating work, or needing to communicate with teammates.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "data-desk-eco",
+    "github": "data-desk-eco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/data-desk-eco/.github",
+    "skill_md": "https://raw.githubusercontent.com/data-desk-eco/.github/main/.claude/skills/multi-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:43.586Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/data-desk-eco%2F.github/.claude%2Fskills%2Fmulti-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_d7ee28d5121a"
+  }
+}

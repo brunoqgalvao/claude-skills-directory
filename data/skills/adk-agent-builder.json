@@ -1,0 +1,37 @@
+{
+  "id": "adk-agent-builder",
+  "name": "adk-agent-builder",
+  "version": "1.0.0",
+  "summary": "Guide for adding new agents to the ADK pipeline. Use when creating a new LlmAgent, SequentialAgent, or ParallelAgent, or when extending the pipeline with additional processing s...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lavinigam-gcp",
+    "github": "lavinigam-gcp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lavinigam-gcp/build-with-adk",
+    "skill_md": "https://raw.githubusercontent.com/lavinigam-gcp/build-with-adk/main/retail-ai-location-strategy/.ai/.claude/skills/adk-agent-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:40.519Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lavinigam-gcp%2Fbuild-with-adk/retail-ai-location-strategy%2F.ai%2F.claude%2Fskills%2Fadk-agent-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_08a840554e8e"
+  }
+}

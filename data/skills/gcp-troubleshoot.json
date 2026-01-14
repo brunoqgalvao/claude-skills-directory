@@ -1,0 +1,35 @@
+{
+  "id": "gcp-troubleshoot",
+  "name": "gcp-troubleshoot",
+  "version": "1.0.0",
+  "summary": "Troubleshoot GCP services using tool-first access (via MCP when available), falling back to the CLI only when necessary. Focus on Firestore, Cloud Run, networking, load balancer...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timbuchinger",
+    "github": "timbuchinger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timbuchinger/loadout",
+    "skill_md": "https://raw.githubusercontent.com/timbuchinger/loadout/main/skills/gcp-troubleshoot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.851Z",
+  "created_at": "2025-12-22T15:55:58.250Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timbuchinger%2Floadout/skills%2Fgcp-troubleshoot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_27cc2866dc33"
+  }
+}

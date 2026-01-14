@@ -1,0 +1,37 @@
+{
+  "id": "mutation-testing",
+  "name": "mutation-testing",
+  "version": "1.0.0",
+  "summary": "Use PROACTIVELY when checking if tests catch real bugs, assessing test suite quality, finding weak tests, or measuring mutation score. Validates test effectiveness beyond covera...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cskiro",
+    "github": "cskiro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cskiro/claudex",
+    "skill_md": "https://raw.githubusercontent.com/cskiro/claudex/main/skills/mutation-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:25.776Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cskiro%2Fclaudex/skills%2Fmutation-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_b031b7d90c3d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "code-understanding",
+  "name": "code-understanding",
+  "version": "1.0.0",
+  "summary": "代码理解和文档生成技能，用于递归分析代码库结构并在每个目录层级生成包含模块概述、详细讲解和文件摘要的README.md文档。当用户需要理解新项目、生成技术文档或进行代码库结构分析时使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yulong-me",
+    "github": "yulong-me"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yulong-me/skills",
+    "skill_md": "https://raw.githubusercontent.com/yulong-me/skills/main/code-understanding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T01:09:54.000Z",
+  "created_at": "2025-12-23T01:28:46.212Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yulong-me%2Fskills/code-understanding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_e2227efc0a0c"
+  }
+}

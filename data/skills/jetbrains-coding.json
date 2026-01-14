@@ -1,0 +1,35 @@
+{
+  "id": "jetbrains-coding",
+  "name": "jetbrains-coding",
+  "version": "1.0.0",
+  "summary": "Use when JetBrains MCP tools are available (mcp__jetbrains__*) - enforces IDE-native workflow with problem checking after file completion, and smart refactoring tools instead of...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maidevberlin",
+    "github": "maidevberlin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maidevberlin/logikids",
+    "skill_md": "https://raw.githubusercontent.com/maidevberlin/logikids/main/.claude/skills/jetbrains-coding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:42.740Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maidevberlin%2Flogikids/.claude%2Fskills%2Fjetbrains-coding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_cdc4a0b5cee7"
+  }
+}

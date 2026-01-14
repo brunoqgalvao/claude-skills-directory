@@ -1,0 +1,35 @@
+{
+  "id": "async-sync-advisor",
+  "name": "async-sync-advisor",
+  "version": "1.0.0",
+  "summary": "Guides users on choosing between async and sync patterns for Lambda functions, including when to use tokio, rayon, and spawn_blocking. Activates when users write Lambda handlers...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EmilLindfors",
+    "github": "EmilLindfors"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EmilLindfors/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/EmilLindfors/claude-marketplace/main/plugins/rust-lambda/skills/async-sync-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T12:20:42.000Z",
+  "created_at": "2025-12-22T17:09:52.810Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EmilLindfors%2Fclaude-marketplace/plugins%2Frust-lambda%2Fskills%2Fasync-sync-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_ce88b799a50c"
+  }
+}

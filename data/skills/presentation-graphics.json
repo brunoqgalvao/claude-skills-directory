@@ -1,0 +1,35 @@
+{
+  "id": "presentation-graphics",
+  "name": "presentation-graphics",
+  "version": "1.0.0",
+  "summary": "Generate images for Quarto presentations using Gemini image generation (nano-banana).\nCreates title backgrounds, concept visuals, and section dividers optimized for\nacademic pre...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sysylvia",
+    "github": "sysylvia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sysylvia/ssylvia-website",
+    "skill_md": "https://raw.githubusercontent.com/sysylvia/ssylvia-website/main/.claude/skills/presentation-graphics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T13:00:44.000Z",
+  "created_at": "2025-12-23T01:28:49.535Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sysylvia%2Fssylvia-website/.claude%2Fskills%2Fpresentation-graphics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_54610189f760"
+  }
+}

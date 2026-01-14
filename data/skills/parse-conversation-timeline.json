@@ -1,0 +1,35 @@
+{
+  "id": "parse-conversation-timeline",
+  "name": "parse-conversation-timeline",
+  "version": "1.0.0",
+  "summary": "Transform raw session logs into structured timeline JSON for protocol audit analysis",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cowwoc",
+    "github": "cowwoc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cowwoc/styler",
+    "skill_md": "https://raw.githubusercontent.com/cowwoc/styler/main/.claude/skills/parse-conversation-timeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T17:27:54.000Z",
+  "created_at": "2025-12-23T01:29:24.579Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cowwoc%2Fstyler/.claude%2Fskills%2Fparse-conversation-timeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.501Z",
+    "uniqueId": "sk_a6ddc3d4b30f"
+  }
+}

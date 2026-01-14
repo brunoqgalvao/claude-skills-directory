@@ -1,0 +1,37 @@
+{
+  "id": "async-falcon-rails",
+  "name": "async-falcon-rails",
+  "version": "1.0.0",
+  "summary": "Transform a Rails application to use Falcon web server with async job processing (async-job), async Action Cable, and Redis-compatible database (Valkey for production). Use when...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "darkamenosa",
+    "github": "darkamenosa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/darkamenosa/async-falcon-rails",
+    "skill_md": "https://raw.githubusercontent.com/darkamenosa/async-falcon-rails/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.697Z",
+  "created_at": "2025-12-22T22:01:13.639Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/darkamenosa%2Fasync-falcon-rails/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.697Z",
+    "uniqueId": "sk_231564f73a18"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "athena-queries",
+  "name": "athena-queries",
+  "version": "1.0.0",
+  "summary": "Run AWS Athena queries against telemetry data. Use when executing SQL against \ntelemetry-parser-db (raw Parquet from telemetry-parser-service) or telemetry_alerts \n(DBT-transfor...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asimihsan",
+    "github": "asimihsan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asimihsan/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/asimihsan/dotfiles/main/chezmoi/dot_claude/skills/athena-queries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:09.283Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asimihsan%2Fdotfiles/chezmoi%2Fdot_claude%2Fskills%2Fathena-queries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_6976c28a4404"
+  }
+}

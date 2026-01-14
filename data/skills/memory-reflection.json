@@ -1,0 +1,35 @@
+{
+  "id": "memory-reflection",
+  "name": "memory-reflection",
+  "version": "1.0.0",
+  "summary": "Use after completing a task, debugging session, or research to capture learnings and context gaps for improving future efficiency. Generates structured reflections appended to ....",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kpiteira",
+    "github": "kpiteira"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kpiteira/ktrdr",
+    "skill_md": "https://raw.githubusercontent.com/kpiteira/ktrdr/main/.claude/skills/memory-reflection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T19:27:25.000Z",
+  "created_at": "2025-12-22T16:57:20.721Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kpiteira%2Fktrdr/.claude%2Fskills%2Fmemory-reflection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_e59ac7e40e82"
+  }
+}

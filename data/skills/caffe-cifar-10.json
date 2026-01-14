@@ -1,0 +1,37 @@
+{
+  "id": "caffe-cifar-10",
+  "name": "caffe-cifar-10",
+  "version": "1.0.0",
+  "summary": "Guidance for building Caffe from source and training CIFAR-10 models. This skill applies when tasks involve compiling Caffe deep learning framework, configuring Makefile.config,...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "letta-ai",
+    "github": "letta-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/letta-ai/skills",
+    "skill_md": "https://raw.githubusercontent.com/letta-ai/skills/main/ai/benchmarks/letta/terminal-bench-2/trajectory-feedback/caffe-cifar-10/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.792Z",
+  "created_at": "2025-12-22T18:57:40.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/letta-ai%2Fskills/ai%2Fbenchmarks%2Fletta%2Fterminal-bench-2%2Ftrajectory-feedback%2Fcaffe-cifar-10%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.792Z",
+    "uniqueId": "sk_667b6f3fa5d3"
+  }
+}

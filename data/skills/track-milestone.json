@@ -1,0 +1,35 @@
+{
+  "id": "track-milestone",
+  "name": "track-milestone",
+  "version": "1.0.0",
+  "summary": "Track and manage project milestones, deliverables, and deadlines. Use when user mentions \"milestone\", \"deadline\", \"deliverable\", \"release\", \"target date\", or wants to track majo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eternnoir",
+    "github": "eternnoir"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eternnoir/claude-tool",
+    "skill_md": "https://raw.githubusercontent.com/eternnoir/claude-tool/main/projectmaster/skills/track-milestone/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.670Z",
+  "created_at": "2025-12-22T22:16:30.038Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eternnoir%2Fclaude-tool/projectmaster%2Fskills%2Ftrack-milestone%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.670Z",
+    "uniqueId": "sk_2ecef8b00b6e"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "yaml-driven-architecture",
+  "name": "yaml-driven-architecture",
+  "version": "1.0.0",
+  "summary": "Apply YAML-driven architecture-as-code patterns for system definition, configuration management, and automated generation. Use when designing configuration schemas, building cod...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EvanLavender13",
+    "github": "EvanLavender13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EvanLavender13/archctl",
+    "skill_md": "https://raw.githubusercontent.com/EvanLavender13/archctl/main/.claude/skills/yaml-driven-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:37.307Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EvanLavender13%2Farchctl/.claude%2Fskills%2Fyaml-driven-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_286607f0c158"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "claude-a11y-audit",
+  "name": "claude-a11y-audit",
+  "version": "1.0.0",
+  "summary": "Use when reviewing UI diffs, accessibility audits, or flaky UI tests to catch a11y regressions, semantic issues, keyboard/focus problems, and to recommend minimal fixes plus rol...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SwitchbackTech",
+    "github": "SwitchbackTech"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SwitchbackTech/compass",
+    "skill_md": "https://raw.githubusercontent.com/SwitchbackTech/compass/main/.claude/skills/a11y-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T01:28:09.487Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SwitchbackTech%2Fcompass/.claude%2Fskills%2Fa11y-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_e6f45242d4d0"
+  }
+}

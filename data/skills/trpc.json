@@ -1,0 +1,35 @@
+{
+  "id": "trpc",
+  "name": "trpc",
+  "version": "1.0.0",
+  "summary": "tRPC v11 patterns for Next.js applications with command-query separation. This skill should be used when creating routers, procedures, implementing RBAC, handling errors, or usi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "josechifflet",
+    "github": "josechifflet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/josechifflet/architecture-patterns",
+    "skill_md": "https://raw.githubusercontent.com/josechifflet/architecture-patterns/main/nextjs-trpc-drizzle-tailwind-shadcn/.claude/skills/trpc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.662Z",
+  "created_at": "2025-12-22T22:17:35.229Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/josechifflet%2Farchitecture-patterns/nextjs-trpc-drizzle-tailwind-shadcn%2F.claude%2Fskills%2Ftrpc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.662Z",
+    "uniqueId": "sk_d056d6771faa"
+  }
+}

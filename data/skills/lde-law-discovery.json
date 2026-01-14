@@ -1,0 +1,35 @@
+{
+  "id": "lde-law-discovery",
+  "name": "lde-law-discovery",
+  "version": "1.0.0",
+  "summary": "コードベースや要件からVocabulary（語彙）とLaw（守るべき条件）を自動発見するスキル。\n名辞抽象（Term/Type）と関係抽象（Law/制約）の両方を抽出し、\n/lde-term-card および /lde-law-card への入力を生成する。\n使用タイミング: (1) 新規プロジェクトでVocabulary/Lawを洗い出す時、\n(2)...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/lde-law-discovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.507Z",
+  "created_at": "2025-12-23T01:29:19.915Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Flde-law-discovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_120bab19c37e"
+  }
+}

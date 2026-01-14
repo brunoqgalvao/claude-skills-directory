@@ -1,0 +1,36 @@
+{
+  "id": "process-mapper",
+  "name": "process-mapper",
+  "version": "1.0.0",
+  "summary": "Map workflows, extract SOPs, and identify automation opportunities through systematic process capture and AI tractability assessment. Use when documenting workflows, creating SO...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leegonzales",
+    "github": "leegonzales"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leegonzales/AISkills",
+    "skill_md": "https://raw.githubusercontent.com/leegonzales/AISkills/main/ProcessMapper/process-mapper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:18.780Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leegonzales%2FAISkills/ProcessMapper%2Fprocess-mapper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_f469ac8940f4"
+  }
+}

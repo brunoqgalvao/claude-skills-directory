@@ -1,0 +1,35 @@
+{
+  "id": "todoist-daily-review",
+  "name": "todoist-daily-review",
+  "version": "1.0.0",
+  "summary": "Reviews today's Todoist tasks for tools/articles to investigate. Researches each item via web search, generates structured markdown summaries, appends to Obsidian daily notes, a...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "steveclarke",
+    "github": "steveclarke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/steveclarke/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/steveclarke/dotfiles/main/ai/skills/todoist-daily-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-18T16:46:02.000Z",
+  "created_at": "2025-12-22T19:12:05.436Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/steveclarke%2Fdotfiles/ai%2Fskills%2Ftodoist-daily-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_3a1ece7d31c8"
+  }
+}

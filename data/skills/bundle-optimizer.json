@@ -1,0 +1,36 @@
+{
+  "id": "bundle-optimizer",
+  "name": "bundle-optimizer",
+  "version": "1.0.0",
+  "summary": "Analyze and reduce bundle size, implement code splitting, optimize dependencies, and improve build performance. Use when bundle is too large, load times are slow, or implementin...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshtol",
+    "github": "joshtol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshtol/emotive-engine",
+    "skill_md": "https://raw.githubusercontent.com/joshtol/emotive-engine/main/skills/bundle-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:11:53.650Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshtol%2Femotive-engine/skills%2Fbundle-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_9a14f45b1762"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "devops-orchestrator",
+  "name": "devops-orchestrator",
+  "version": "1.0.0",
+  "summary": "Coordinates infrastructure, CI/CD, and deployment tasks. Use when provisioning infrastructure, setting up pipelines, configuring monitoring, or managing deployments. Applies dev...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Brownbull",
+    "github": "Brownbull"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Brownbull/ayni_core",
+    "skill_md": "https://raw.githubusercontent.com/Brownbull/ayni_core/main/.claude/skills/devops-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:49.792Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Brownbull%2Fayni_core/.claude%2Fskills%2Fdevops-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_8de7702d4182"
+  }
+}

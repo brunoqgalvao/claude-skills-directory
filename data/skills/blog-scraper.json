@@ -1,0 +1,35 @@
+{
+  "id": "blog-scraper",
+  "name": "blog-scraper",
+  "version": "1.0.0",
+  "summary": "Fetch and compress blog articles from tech-lab.sios.jp into the doc/ directory with token usage statistics and OGP metadata",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ryunosuke-Tanaka-sti",
+    "github": "Ryunosuke-Tanaka-sti"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ryunosuke-Tanaka-sti/claude_and_blog_seminar",
+    "skill_md": "https://raw.githubusercontent.com/Ryunosuke-Tanaka-sti/claude_and_blog_seminar/main/.claude/skills/blog-scraper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:10.437Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ryunosuke-Tanaka-sti%2Fclaude_and_blog_seminar/.claude%2Fskills%2Fblog-scraper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_66561f093664"
+  }
+}

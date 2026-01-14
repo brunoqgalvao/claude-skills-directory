@@ -1,0 +1,35 @@
+{
+  "id": "karibu-tester",
+  "name": "karibu-tester",
+  "version": "1.0.0",
+  "summary": "Creates Karibu unit tests for Vaadin views.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martinellich",
+    "github": "martinellich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martinellich/aiup-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/martinellich/aiup-marketplace/main/aiup-vaadin-jooq/skills/karibu-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:09:31.245Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martinellich%2Faiup-marketplace/aiup-vaadin-jooq%2Fskills%2Fkaribu-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_b91bec5ff2ac"
+  }
+}

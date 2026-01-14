@@ -1,0 +1,37 @@
+{
+  "id": "baml-codegen",
+  "name": "baml-codegen",
+  "version": "1.0.0",
+  "summary": "Generates production-ready BAML applications from natural language requirements. Creates complete type definitions, functions, clients, tests, and framework integrations for dat...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FryrAI",
+    "github": "FryrAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FryrAI/BAML-Claude-Skill",
+    "skill_md": "https://raw.githubusercontent.com/FryrAI/BAML-Claude-Skill/main/baml-codegen/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T18:40:10.000Z",
+  "created_at": "2025-12-23T01:29:29.329Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FryrAI%2FBAML-Claude-Skill/baml-codegen%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_dad24ae5bb22"
+  }
+}

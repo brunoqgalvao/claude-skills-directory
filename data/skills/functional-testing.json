@@ -1,0 +1,35 @@
+{
+  "id": "functional-testing",
+  "name": "functional-testing",
+  "version": "1.0.0",
+  "summary": "Write functional tests that test public interfaces only (HTTP APIs via requests, libraries via exported functions, CLIs via command execution). Never test internal functions dir...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thrawn01",
+    "github": "thrawn01"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thrawn01/claude-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/thrawn01/claude-dotfiles/main/skills/functional-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:11:01.077Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thrawn01%2Fclaude-dotfiles/skills%2Ffunctional-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_ca2a5680b569"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "council-of-five",
+  "name": "council-of-five",
+  "version": "1.0.0",
+  "summary": "Spawn 5 Opus subagents with randomly-generated distinct personas to debate a problem from multiple angles. Use when exploring UX decisions, architecture choices, or any decision...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/claude",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/claude/main/skills/council-of-five/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:24.751Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fclaude/skills%2Fcouncil-of-five%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_6f604d24c64f"
+  }
+}

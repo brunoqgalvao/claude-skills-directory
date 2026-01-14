@@ -1,0 +1,35 @@
+{
+  "id": "tech-report",
+  "name": "tech-report",
+  "version": "1.0.0",
+  "summary": "Generates professional technical reports from performance analysis data. Creates investor and client-ready documents with executive summaries, visualizations, and actionable rec...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "michaeldubu",
+    "github": "michaeldubu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/michaeldubu/Nexus-Code-CLI",
+    "skill_md": "https://raw.githubusercontent.com/michaeldubu/Nexus-Code-CLI/main/src/skills/tech_report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T10:19:08.000Z",
+  "created_at": "2025-12-23T01:28:41.450Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/michaeldubu%2FNexus-Code-CLI/src%2Fskills%2Ftech_report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_d14b608fad28"
+  }
+}

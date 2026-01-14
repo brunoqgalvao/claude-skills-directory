@@ -1,0 +1,37 @@
+{
+  "id": "multi-agent-observability",
+  "name": "multi-agent-observability",
+  "version": "1.0.0",
+  "summary": "Build observability interfaces for multi-agent systems. Use when monitoring multi-agent execution, tracking agent metrics, implementing logging for parallel agents, or debugging...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/multi-agent-observability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T01:23:53.000Z",
+  "created_at": "2025-12-23T01:29:28.103Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Fmulti-agent-observability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_1d96ab22208f"
+  }
+}

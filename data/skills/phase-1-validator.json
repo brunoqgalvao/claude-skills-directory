@@ -1,0 +1,36 @@
+{
+  "id": "phase-1-validator",
+  "name": "phase-1-validator",
+  "version": "1.0.0",
+  "summary": "Validates Requirements Phase completion before advancing to Design Phase. Checks business requirements document for completeness, quality gate compliance, and readiness for desi...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DarkMonkDev",
+    "github": "DarkMonkDev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DarkMonkDev/WitchCityRope",
+    "skill_md": "https://raw.githubusercontent.com/DarkMonkDev/WitchCityRope/main/.claude/skills/phase-1-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T07:54:01.000Z",
+  "created_at": "2025-12-23T01:29:02.675Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DarkMonkDev%2FWitchCityRope/.claude%2Fskills%2Fphase-1-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_b91da9da9c28"
+  }
+}

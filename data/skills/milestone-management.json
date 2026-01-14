@@ -1,0 +1,35 @@
+{
+  "id": "milestone-management",
+  "name": "milestone-management",
+  "version": "1.0.0",
+  "summary": "Use for time-based grouping of issues into delivery phases. Creates, updates, and tracks milestones, associates issues and epics, monitors progress toward milestone completion.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "troykelly",
+    "github": "troykelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/troykelly/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/troykelly/claude-skills/main/skills/milestone-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.768Z",
+  "created_at": "2025-12-22T20:04:22.844Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/troykelly%2Fclaude-skills/skills%2Fmilestone-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_06d7d441fb4d"
+  }
+}

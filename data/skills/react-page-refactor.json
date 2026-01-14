@@ -1,0 +1,35 @@
+{
+  "id": "react-page-refactor",
+  "name": "react-page-refactor",
+  "version": "1.0.0",
+  "summary": "Analyzes code quality, suggests improvements, and safely refactors code while preserving behavior. Use when improving code structure, addressing technical debt, or refactoring a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "roeibajayo",
+    "github": "roeibajayo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/roeibajayo/claude-tools",
+    "skill_md": "https://raw.githubusercontent.com/roeibajayo/claude-tools/main/.claude/skills/react-page-refactor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.784Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/roeibajayo%2Fclaude-tools/.claude%2Fskills%2Freact-page-refactor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_e23483207249"
+  }
+}

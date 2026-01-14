@@ -1,0 +1,36 @@
+{
+  "id": "validate-sibling-dependency",
+  "name": "validate-sibling-dependency",
+  "version": "1.0.0",
+  "summary": "Validate Sibling Dependency Law (ADR-020) for Xentri architecture. Use when checking module dependencies, creating new requirements, adding interfaces between entities, or revie...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "carlo-spada",
+    "github": "carlo-spada"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/carlo-spada/xentri",
+    "skill_md": "https://raw.githubusercontent.com/carlo-spada/xentri/main/.claude/skills/validate-sibling-dependency/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:07:33.362Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/carlo-spada%2Fxentri/.claude%2Fskills%2Fvalidate-sibling-dependency%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_ceb8f0fcb1fc"
+  }
+}

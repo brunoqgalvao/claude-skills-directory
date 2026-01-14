@@ -1,0 +1,35 @@
+{
+  "id": "filament-resource-generator",
+  "name": "filament-resource-generator",
+  "version": "1.0.0",
+  "summary": "Automated Filament resource generation with correct namespace imports (Schemas vs Forms), Vietnamese labels, standard structure, Observer patterns, ImagesRelationManager integra...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hieubkav",
+    "github": "Hieubkav"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hieubkav/wincellarCloneBackend",
+    "skill_md": "https://raw.githubusercontent.com/Hieubkav/wincellarCloneBackend/main/.claude/skills/filament/filament-resource-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T01:39:42.000Z",
+  "created_at": "2025-12-23T01:28:53.124Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hieubkav%2FwincellarCloneBackend/.claude%2Fskills%2Ffilament%2Ffilament-resource-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_fd98155c6490"
+  }
+}

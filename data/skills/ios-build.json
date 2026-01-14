@@ -1,0 +1,36 @@
+{
+  "id": "ios-build",
+  "name": "ios-build",
+  "version": "1.0.0",
+  "summary": "Use when ANY iOS build fails, test crashes, Xcode misbehaves, or environment issue occurs before debugging code. Covers build failures, compilation errors, dependency conflicts,...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CharlesWiltgen",
+    "github": "CharlesWiltgen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CharlesWiltgen/Axiom",
+    "skill_md": "https://raw.githubusercontent.com/CharlesWiltgen/Axiom/main/.claude-plugin/plugins/axiom/skills/ios-build/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:31.472Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CharlesWiltgen%2FAxiom/.claude-plugin%2Fplugins%2Faxiom%2Fskills%2Fios-build%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_2729cef6a015"
+  }
+}

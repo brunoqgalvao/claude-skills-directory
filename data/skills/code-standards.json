@@ -1,0 +1,36 @@
+{
+  "id": "code-standards",
+  "name": "code-standards",
+  "version": "1.0.0",
+  "summary": "Expert in code design standards including SOLID principles, Clean Code patterns (KISS, YAGNI, DRY, TDA), and pragmatic software design. **ALWAYS use when designing ANY classes/m...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcioaltoe",
+    "github": "marcioaltoe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcioaltoe/claude-craftkit",
+    "skill_md": "https://raw.githubusercontent.com/marcioaltoe/claude-craftkit/main/plugins/architecture-design/skills/code-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:09:40.194Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcioaltoe%2Fclaude-craftkit/plugins%2Farchitecture-design%2Fskills%2Fcode-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_5669af0da879"
+  }
+}

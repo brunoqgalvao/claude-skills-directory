@@ -1,0 +1,36 @@
+{
+  "id": "htmx",
+  "name": "htmx",
+  "version": "1.0.0",
+  "summary": "Expert knowledge for HTMX development. Use when building hypermedia-driven applications with Litestar templates and partial HTML responses.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "litestar-org",
+    "github": "litestar-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/litestar-org/litestar-vite",
+    "skill_md": "https://raw.githubusercontent.com/litestar-org/litestar-vite/main/.claude/skills/htmx/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:29.561Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/litestar-org%2Flitestar-vite/.claude%2Fskills%2Fhtmx%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_59a7ce196596"
+  }
+}

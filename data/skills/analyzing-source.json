@@ -1,0 +1,35 @@
+{
+  "id": "analyzing-source",
+  "name": "analyzing-source",
+  "version": "1.0.0",
+  "summary": "Conducts in-depth analysis of a specific source or topic, producing comprehensive summaries for research synthesis. Use when you need detailed analysis and documentation of indi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sawyer-Middeleer",
+    "github": "Sawyer-Middeleer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sawyer-Middeleer/dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/Sawyer-Middeleer/dot-claude/main/plugins/dot-claude/skills/analyzing-source/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:52.495Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sawyer-Middeleer%2Fdot-claude/plugins%2Fdot-claude%2Fskills%2Fanalyzing-source%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_f97e330614ac"
+  }
+}

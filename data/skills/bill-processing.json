@@ -1,0 +1,36 @@
+{
+  "id": "bill-processing",
+  "name": "bill-processing",
+  "version": "1.0.0",
+  "summary": "Extract data from bill/receipt images and return JSON for lunch-splitter app",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mAbduqayum",
+    "github": "mAbduqayum"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mAbduqayum/lunch-splitter",
+    "skill_md": "https://raw.githubusercontent.com/mAbduqayum/lunch-splitter/main/.claude/skills/bill-processing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.859Z",
+  "created_at": "2025-12-22T15:09:40.921Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mAbduqayum%2Flunch-splitter/.claude%2Fskills%2Fbill-processing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_f9fbc398d42a"
+  }
+}

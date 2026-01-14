@@ -1,0 +1,35 @@
+{
+  "id": "plugin-architect",
+  "name": "plugin-architect",
+  "version": "1.0.0",
+  "summary": "Design and architect Obsidian plugins with proper structure, patterns, and best practices",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jwplatta",
+    "github": "jwplatta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jwplatta/prompt-library",
+    "skill_md": "https://raw.githubusercontent.com/jwplatta/prompt-library/main/claude/plugins/obsidian-plugin-builder/skills/plugin-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:30:15.338Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jwplatta%2Fprompt-library/claude%2Fplugins%2Fobsidian-plugin-builder%2Fskills%2Fplugin-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_5c9e8950e3b0"
+  }
+}

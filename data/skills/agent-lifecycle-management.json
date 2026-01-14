@@ -1,0 +1,35 @@
+{
+  "id": "agent-lifecycle-management",
+  "name": "agent-lifecycle-management",
+  "version": "1.0.0",
+  "summary": "エージェントライフサイクル管理を専門とするスキル。\n起動、実行、状態管理、終了、バージョニング、メンテナンスにより、\nエージェントの継続的な品質を保証します。\n\n📚 リソース参照:\nこのスキルには以下のリソースが含まれています。\n必要に応じて該当するリソースを参照してください:\n\n- `.claude/skills/agent-lifecycle-m...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/agent-lifecycle-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.822Z",
+  "created_at": "2025-12-22T17:05:52.131Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fagent-lifecycle-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.822Z",
+    "uniqueId": "sk_127a824b2e5c"
+  }
+}

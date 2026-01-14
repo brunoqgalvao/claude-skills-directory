@@ -1,0 +1,36 @@
+{
+  "id": "container-signing",
+  "name": "container-signing",
+  "version": "1.0.0",
+  "summary": "Set up Docker image signing with Cosign and SLSA provenance attestations. Use when configuring CI/CD for container builds, setting up GHCR publishing, or implementing supply cha...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cameronsjo",
+    "github": "cameronsjo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cameronsjo/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/cameronsjo/claude-marketplace/main/plugins/cloud/skills/container-signing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:10:26.562Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cameronsjo%2Fclaude-marketplace/plugins%2Fcloud%2Fskills%2Fcontainer-signing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_ff059296b83f"
+  }
+}

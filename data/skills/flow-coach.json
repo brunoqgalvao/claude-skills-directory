@@ -1,0 +1,37 @@
+{
+  "id": "flow-coach",
+  "name": "flow-coach",
+  "version": "1.0.0",
+  "summary": "Interactive claude-flow orchestration coach that guides users through swarm topology selection, agent deployment, memory configuration, and SPARC workflows. Use when learning cl...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cgbarlow",
+    "github": "cgbarlow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cgbarlow/skills",
+    "skill_md": "https://raw.githubusercontent.com/cgbarlow/skills/main/flow-coach/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:44.870Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cgbarlow%2Fskills/flow-coach%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_37f70adbb2a2"
+  }
+}

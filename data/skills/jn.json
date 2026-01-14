@@ -1,0 +1,37 @@
+{
+  "id": "jn",
+  "name": "jn",
+  "version": "1.0.0",
+  "summary": "Use JN for data transformation and ETL. Read data with 'jn cat', filter with 'jn filter', write with 'jn put'. Convert between CSV/JSON/Excel/YAML formats. Stream data through U...",
+  "verticals": [
+    "sales",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "botassembly",
+    "github": "botassembly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/botassembly/jn",
+    "skill_md": "https://raw.githubusercontent.com/botassembly/jn/main/.claude/skills/jn/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.683Z",
+  "created_at": "2025-12-22T22:10:29.043Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/botassembly%2Fjn/.claude%2Fskills%2Fjn%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.683Z",
+    "uniqueId": "sk_a6ad373c2890"
+  }
+}

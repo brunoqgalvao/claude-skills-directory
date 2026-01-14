@@ -1,0 +1,37 @@
+{
+  "id": "coding-guidelines-verify",
+  "name": "coding-guidelines-verify",
+  "version": "1.0.0",
+  "summary": "Verify changes follow nearest-scoped AGENTS.md rules: group changed files by nested scope, auto-fix formatting, run lint/tests, and report violations.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nymbo",
+    "github": "Nymbo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nymbo/Skills",
+    "skill_md": "https://raw.githubusercontent.com/Nymbo/Skills/main/coding-guidelines-verify/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:52:46.615Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nymbo%2FSkills/coding-guidelines-verify%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_5a3b33eb2ff2"
+  }
+}

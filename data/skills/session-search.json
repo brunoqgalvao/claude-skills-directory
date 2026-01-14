@@ -1,0 +1,36 @@
+{
+  "id": "session-search",
+  "name": "session-search",
+  "version": "1.0.0",
+  "summary": "For CLI agents WITHOUT subagent support (e.g., Codex CLI). Search previous code agent sessions for specific work, decisions, or code patterns.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pchalasani",
+    "github": "pchalasani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pchalasani/claude-code-tools",
+    "skill_md": "https://raw.githubusercontent.com/pchalasani/claude-code-tools/main/plugins/aichat/skills/session-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:25.290Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pchalasani%2Fclaude-code-tools/plugins%2Faichat%2Fskills%2Fsession-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_013624b5f669"
+  }
+}

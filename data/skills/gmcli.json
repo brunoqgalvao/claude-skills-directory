@@ -1,0 +1,35 @@
+{
+  "id": "gmcli",
+  "name": "gmcli",
+  "version": "1.0.0",
+  "summary": "Gmail CLI for searching emails, reading threads, sending messages, managing drafts, and handling labels/attachments.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "badlogic",
+    "github": "badlogic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/badlogic/pi-skills",
+    "skill_md": "https://raw.githubusercontent.com/badlogic/pi-skills/main/gmcli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.865Z",
+  "created_at": "2025-12-22T15:05:05.371Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/badlogic%2Fpi-skills/gmcli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.865Z",
+    "uniqueId": "sk_3b3936e49f45"
+  }
+}

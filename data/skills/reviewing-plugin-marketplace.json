@@ -1,0 +1,37 @@
+{
+  "id": "reviewing-plugin-marketplace",
+  "name": "reviewing-plugin-marketplace",
+  "version": "1.0.0",
+  "summary": "Review Claude Code plugin marketplace configurations against official best practices. Use when analyzing marketplace.json and plugin.json files for structural issues, common err...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "taisukeoe",
+    "github": "taisukeoe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/taisukeoe/agentic-ai-skills-creator",
+    "skill_md": "https://raw.githubusercontent.com/taisukeoe/agentic-ai-skills-creator/main/plugins/skills-helper/skills/reviewing-plugin-marketplace/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:05:01.168Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/taisukeoe%2Fagentic-ai-skills-creator/plugins%2Fskills-helper%2Fskills%2Freviewing-plugin-marketplace%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_22844f5d4e74"
+  }
+}

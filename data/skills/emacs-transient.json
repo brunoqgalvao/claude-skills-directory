@@ -1,0 +1,36 @@
+{
+  "id": "emacs-transient",
+  "name": "emacs-transient",
+  "version": "1.0.0",
+  "summary": "Expert guide for building Emacs transient menus (keyboard-driven UI like Magit). Use when implementing or debugging transient-define-prefix, transient-define-suffix, or transien...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "r0man",
+    "github": "r0man"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/r0man/beads.el",
+    "skill_md": "https://raw.githubusercontent.com/r0man/beads.el/main/.claude/skills/emacs-transient/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:18:07.576Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/r0man%2Fbeads.el/.claude%2Fskills%2Femacs-transient%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_a112eb1cef42"
+  }
+}

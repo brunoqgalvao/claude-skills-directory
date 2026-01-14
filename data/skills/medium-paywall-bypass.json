@@ -1,0 +1,37 @@
+{
+  "id": "medium-paywall-bypass",
+  "name": "medium-paywall-bypass",
+  "version": "1.0.0",
+  "summary": "Use when user shares a Medium article URL behind a paywall and wants to read the full content. Also use for articles on Medium-hosted publications like towardsdatascience.com, b...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ratacat",
+    "github": "ratacat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ratacat/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ratacat/claude-skills/main/skills/medium-paywall-bypass/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.559Z",
+  "created_at": "2025-12-23T01:28:42.156Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ratacat%2Fclaude-skills/skills%2Fmedium-paywall-bypass%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.559Z",
+    "uniqueId": "sk_5445abaa38aa"
+  }
+}

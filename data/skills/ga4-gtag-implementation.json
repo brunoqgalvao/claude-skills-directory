@@ -1,0 +1,37 @@
+{
+  "id": "ga4-gtag-implementation",
+  "name": "ga4-gtag-implementation",
+  "version": "1.0.0",
+  "summary": "Expert guidance for implementing GA4 using gtag.js directly on websites without Google Tag Manager. Use when implementing gtag.js tracking code, writing custom gtag() commands, ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henkisdabro",
+    "github": "henkisdabro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henkisdabro/wookstar-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-code-plugins/main/ga-suite/skills/ga4-gtag-implementation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T06:47:15.000Z",
+  "created_at": "2025-12-23T01:29:02.750Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henkisdabro%2Fwookstar-claude-code-plugins/ga-suite%2Fskills%2Fga4-gtag-implementation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_e2b97168a4a2"
+  }
+}

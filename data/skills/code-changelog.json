@@ -1,0 +1,35 @@
+{
+  "id": "code-changelog",
+  "name": "code-changelog",
+  "version": "1.0.0",
+  "summary": "AI가 만든 모든 코드 변경사항을 reviews 폴더에 기록하고 간단한 HTML 뷰어로 웹 브라우저에서 실시간 확인할 수 있습니다. 매 수정마다 문서가 생성되고 Python 서버로 즉시 확인 가능합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dayoumin",
+    "github": "dayoumin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dayoumin/Skills",
+    "skill_md": "https://raw.githubusercontent.com/dayoumin/Skills/main/skills/code-changelog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.459Z",
+  "created_at": "2025-12-22T20:16:16.052Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dayoumin%2FSkills/skills%2Fcode-changelog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.459Z",
+    "uniqueId": "sk_4758d8ad9cc7"
+  }
+}

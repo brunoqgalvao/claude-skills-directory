@@ -1,0 +1,35 @@
+{
+  "id": "implement-ticket",
+  "name": "implement-ticket",
+  "version": "1.0.0",
+  "summary": "Proactively use this skill when implementing a Jira ticket.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hdemers",
+    "github": "hdemers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hdemers/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/hdemers/dotfiles/main/.claude/skills.symlink/implement-ticket/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T19:55:00.000Z",
+  "created_at": "2025-12-23T01:28:10.736Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hdemers%2Fdotfiles/.claude%2Fskills.symlink%2Fimplement-ticket%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.586Z",
+    "uniqueId": "sk_46202fe202cc"
+  }
+}

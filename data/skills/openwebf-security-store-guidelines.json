@@ -1,0 +1,37 @@
+{
+  "id": "openwebf-security-store-guidelines",
+  "name": "openwebf-security-store-guidelines",
+  "version": "1.0.0",
+  "summary": "Ensure store compliance for WebF apps (remote updates, interpreters, rollout/rollback constraints). Use when the user mentions App Store/Play Store, store compliance, remote upd...",
+  "verticals": [
+    "legal",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "archview-ai",
+    "github": "archview-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/archview-ai/webf-plugin",
+    "skill_md": "https://raw.githubusercontent.com/archview-ai/webf-plugin/main/webf-plugin/skills/openwebf-security-store-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T23:17:34.000Z",
+  "created_at": "2025-12-23T01:28:24.427Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/archview-ai%2Fwebf-plugin/webf-plugin%2Fskills%2Fopenwebf-security-store-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.576Z",
+    "uniqueId": "sk_3884fa3d6aca"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "shopify",
+  "name": "shopify",
+  "version": "1.0.0",
+  "summary": "Shopify API patterns, GraphQL, webhooks",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "violetio",
+    "github": "violetio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/violetio/violet-ai-plugins",
+    "skill_md": "https://raw.githubusercontent.com/violetio/violet-ai-plugins/main/plugins/v-shopify/skills/shopify/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T22:00:03.000Z",
+  "created_at": "2025-12-22T17:55:48.031Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/violetio%2Fviolet-ai-plugins/plugins%2Fv-shopify%2Fskills%2Fshopify%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_dfcd07da9005"
+  }
+}

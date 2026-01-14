@@ -1,0 +1,36 @@
+{
+  "id": "generating-swift-package-docs",
+  "name": "generating-swift-package-docs",
+  "version": "1.0.0",
+  "summary": "Use when encountering unfamiliar import statements; when exploring a dependency's API; when user asks \"what's import X?\", \"what does import X do?\", or about package documentatio...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AJBcoding",
+    "github": "AJBcoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AJBcoding/claude-skill-eval",
+    "skill_md": "https://raw.githubusercontent.com/AJBcoding/claude-skill-eval/main/claude-code-stuff-main/skills/generating-swift-package-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.463Z",
+  "created_at": "2025-12-22T15:52:58.542Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AJBcoding%2Fclaude-skill-eval/claude-code-stuff-main%2Fskills%2Fgenerating-swift-package-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.463Z",
+    "uniqueId": "sk_a5947cd3a2e6"
+  }
+}

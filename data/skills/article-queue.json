@@ -1,0 +1,35 @@
+{
+  "id": "article-queue",
+  "name": "article-queue",
+  "version": "1.0.0",
+  "summary": "Manage article task queue - add, filter, update status, and track multi-language outputs",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mwguerra",
+    "github": "mwguerra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mwguerra/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mwguerra/claude-code-plugins/main/article-writer/skills/article-queue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:39.395Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mwguerra%2Fclaude-code-plugins/article-writer%2Fskills%2Farticle-queue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_35ee5665b1aa"
+  }
+}

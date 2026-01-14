@@ -1,0 +1,37 @@
+{
+  "id": "kiro",
+  "name": "kiro",
+  "version": "1.0.0",
+  "summary": "This skill should be used when managing structured spec-driven development workflows. Triggered by phrases like [kiro], [check kiro status], [load kiro], [update kiro], [kiro wo...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "towry",
+    "github": "towry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/towry/dots",
+    "skill_md": "https://raw.githubusercontent.com/towry/dots/main/conf/claude-local-marketplace/skills/kiro/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:17:15.984Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/towry%2Fdots/conf%2Fclaude-local-marketplace%2Fskills%2Fkiro%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_0bb036c78a28"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "opencode-server-launcher",
+  "name": "opencode-server-launcher",
+  "version": "1.0.0",
+  "summary": "Launch and manage OpenCode servers with simple commands, from single instances to multi-server swarms",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "IgorWarzocha",
+    "github": "IgorWarzocha"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/IgorWarzocha/opencode-agent-swarm-demo",
+    "skill_md": "https://raw.githubusercontent.com/IgorWarzocha/opencode-agent-swarm-demo/main/opencode-agents/.claude/skills/opencode-server-launcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:57:09.856Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/IgorWarzocha%2Fopencode-agent-swarm-demo/opencode-agents%2F.claude%2Fskills%2Fopencode-server-launcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_82c7c679d75f"
+  }
+}

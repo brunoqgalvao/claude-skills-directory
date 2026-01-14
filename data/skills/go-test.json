@@ -1,0 +1,35 @@
+{
+  "id": "go-test",
+  "name": "go-test",
+  "version": "1.0.0",
+  "summary": "Provides Go standard testing package expertise and best practices. Ensures proper table-driven test patterns, subtests organization, benchmark implementation, and test coverage ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KubrickCode",
+    "github": "KubrickCode"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KubrickCode/Repo-Management",
+    "skill_md": "https://raw.githubusercontent.com/KubrickCode/Repo-Management/main/.claude/skills/go-test/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.462Z",
+  "created_at": "2025-12-22T17:06:53.877Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KubrickCode%2FRepo-Management/.claude%2Fskills%2Fgo-test%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.462Z",
+    "uniqueId": "sk_d293d165bd9c"
+  }
+}

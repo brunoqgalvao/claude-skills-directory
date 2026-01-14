@@ -1,0 +1,37 @@
+{
+  "id": "escape-room-balance-engineer",
+  "name": "escape-room-balance-engineer",
+  "version": "1.0.0",
+  "summary": "Balance escape room difficulty, timing, and hint systems to achieve 60-70% completion rate. Designs progressive difficulty curves, three-tier hint systems, stuck-point analysis,...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robinade",
+    "github": "robinade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robinade/persona-theater",
+    "skill_md": "https://raw.githubusercontent.com/robinade/persona-theater/main/.kiro/docs/escape-room-balance-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:41.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robinade%2Fpersona-theater/.kiro%2Fdocs%2Fescape-room-balance-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_233761490abf"
+  }
+}

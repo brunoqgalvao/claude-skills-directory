@@ -1,0 +1,37 @@
+{
+  "id": "infrastructure-guidelines",
+  "name": "infrastructure-guidelines",
+  "version": "1.0.0",
+  "summary": "Infrastructure guidelines for A4C-AppSuite. Covers idempotent Supabase SQL migrations with RLS policies, Kubernetes deployments for Temporal workers, CQRS projections with Postg...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Analytics4Change",
+    "github": "Analytics4Change"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Analytics4Change/A4C-AppSuite",
+    "skill_md": "https://raw.githubusercontent.com/Analytics4Change/A4C-AppSuite/main/.claude/skills/infrastructure-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.646Z",
+  "created_at": "2025-12-22T23:04:15.455Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Analytics4Change%2FA4C-AppSuite/.claude%2Fskills%2Finfrastructure-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.646Z",
+    "uniqueId": "sk_9cac08d273e7"
+  }
+}

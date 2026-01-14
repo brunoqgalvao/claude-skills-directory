@@ -1,0 +1,35 @@
+{
+  "id": "mcp-next-devtools",
+  "name": "mcp-next-devtools",
+  "version": "1.0.0",
+  "summary": "Next.js開発統合ツール - Next.jsプロジェクト作業時に最優先使用。診断、アップグレード、Cache Components最適化、エラー自動修正を提供。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sumik5",
+    "github": "sumik5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sumik5/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sumik5/dotfiles/main/claude-code/skills/mcp-next-devtools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:05:49.784Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sumik5%2Fdotfiles/claude-code%2Fskills%2Fmcp-next-devtools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_8f8a01aa2a5a"
+  }
+}

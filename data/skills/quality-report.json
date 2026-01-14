@@ -1,0 +1,36 @@
+{
+  "id": "quality-report",
+  "name": "quality-report",
+  "version": "1.0.0",
+  "summary": "Génère un rapport complet de qualité du code incluant les vérifications TypeScript, Biome (lint/format), les tests et la couverture de code. Utilise ce skill quand l'utilisateur...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebc-dev",
+    "github": "sebc-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebc-dev/website",
+    "skill_md": "https://raw.githubusercontent.com/sebc-dev/website/main/.claude/skills/quality-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T15:37:59.000Z",
+  "created_at": "2025-12-23T01:28:56.437Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebc-dev%2Fwebsite/.claude%2Fskills%2Fquality-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.536Z",
+    "uniqueId": "sk_63d26ab5e4f3"
+  }
+}

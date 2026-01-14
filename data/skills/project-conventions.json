@@ -1,0 +1,35 @@
+{
+  "id": "project-conventions",
+  "name": "project-conventions",
+  "version": "1.0.0",
+  "summary": "Polibaseのプロジェクト規約とベストプラクティスを説明します。Pre-commit hooks遵守、CI/CD運用、中間ファイル管理、知識蓄積層の活用など、開発時に守るべきルールとガイドラインをカバーします。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trust-chain-organization",
+    "github": "trust-chain-organization"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trust-chain-organization/sagebase",
+    "skill_md": "https://raw.githubusercontent.com/trust-chain-organization/sagebase/main/.claude/skills/project-conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T12:15:10.000Z",
+  "created_at": "2025-12-22T18:11:01.268Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trust-chain-organization%2Fsagebase/.claude%2Fskills%2Fproject-conventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_2c1a89a60113"
+  }
+}

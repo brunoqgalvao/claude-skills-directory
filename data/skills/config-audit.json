@@ -1,0 +1,37 @@
+{
+  "id": "config-audit",
+  "name": "config-audit",
+  "version": "1.0.0",
+  "summary": "This skill should be used when auditing or comparing Claude Code and Cursor IDE configurations to identify feature gaps, equivalencies, and migration opportunities. Useful when ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amhuppert",
+    "github": "amhuppert"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amhuppert/my-ai-resources",
+    "skill_md": "https://raw.githubusercontent.com/amhuppert/my-ai-resources/main/claude/ai-resources-plugin/skills/config-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.775Z",
+  "created_at": "2025-12-22T19:57:59.868Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amhuppert%2Fmy-ai-resources/claude%2Fai-resources-plugin%2Fskills%2Fconfig-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.775Z",
+    "uniqueId": "sk_18b8de038dc8"
+  }
+}

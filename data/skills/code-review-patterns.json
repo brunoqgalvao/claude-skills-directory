@@ -1,0 +1,37 @@
+{
+  "id": "code-review-patterns",
+  "name": "code-review-patterns",
+  "version": "1.0.0",
+  "summary": "DO NOT invoke directly - loaded by workflow agents via cc10x-router.\nAlways loaded by: code-reviewer, silent-failure-hunter.\nProvides code review patterns: two-stage review (spe...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "romiluz13",
+    "github": "romiluz13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/romiluz13/cc10x",
+    "skill_md": "https://raw.githubusercontent.com/romiluz13/cc10x/main/plugins/cc10x/skills/code-review-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T22:04:11.000Z",
+  "created_at": "2025-12-22T19:00:18.828Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/romiluz13%2Fcc10x/plugins%2Fcc10x%2Fskills%2Fcode-review-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_9d1f368ec622"
+  }
+}

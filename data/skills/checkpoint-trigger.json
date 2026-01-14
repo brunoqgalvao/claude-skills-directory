@@ -1,0 +1,35 @@
+{
+  "id": "checkpoint-trigger",
+  "name": "checkpoint-trigger",
+  "version": "1.0.0",
+  "summary": "Natural language wrapper for checkpoint commands - automatically triggers /checkpoint:create, /checkpoint:restore, /checkpoint:list when users request checkpoint operations",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "grandinh",
+    "github": "grandinh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/grandinh/claude-chaos-express",
+    "skill_md": "https://raw.githubusercontent.com/grandinh/claude-chaos-express/main/.claude/skills/checkpoint-trigger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.571Z",
+  "created_at": "2025-12-23T01:28:30.949Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/grandinh%2Fclaude-chaos-express/.claude%2Fskills%2Fcheckpoint-trigger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_2fa7de767327"
+  }
+}

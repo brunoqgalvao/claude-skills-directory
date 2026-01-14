@@ -1,0 +1,36 @@
+{
+  "id": "innovation-game-miner",
+  "name": "innovation-game-miner",
+  "version": "1.0.0",
+  "summary": "This skill should be used when developing, optimizing, testing, or submitting algorithms for The Innovation Game challenges (3-SAT, CVRP, Knapsack). Use it for algorithm develop...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synapz-org",
+    "github": "synapz-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synapz-org/innovation-game-miner",
+    "skill_md": "https://raw.githubusercontent.com/synapz-org/innovation-game-miner/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.645Z",
+  "created_at": "2025-12-22T23:05:34.261Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synapz-org%2Finnovation-game-miner/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.645Z",
+    "uniqueId": "sk_eb03642ec939"
+  }
+}

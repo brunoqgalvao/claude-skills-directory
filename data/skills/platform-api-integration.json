@@ -1,0 +1,37 @@
+{
+  "id": "platform-api-integration",
+  "name": "platform-api-integration",
+  "version": "1.0.0",
+  "summary": "Guide for discovering and integrating with Rubin Science Platform (RSP) APIs using OpenAPI specifications. Use this skill when working with Gafaelfawr authentication APIs (/auth...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lsst-sqre",
+    "github": "lsst-sqre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lsst-sqre/squareone",
+    "skill_md": "https://raw.githubusercontent.com/lsst-sqre/squareone/main/.claude/skills/platform-api-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:57:46.483Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lsst-sqre%2Fsquareone/.claude%2Fskills%2Fplatform-api-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_4a354a011b45"
+  }
+}

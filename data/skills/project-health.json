@@ -1,0 +1,35 @@
+{
+  "id": "project-health",
+  "name": "project-health",
+  "version": "1.0.0",
+  "summary": "프로젝트 상태 점검 및 건강 진단. 상태, 점검, health, check, inspect 키워드에 자동 활성화.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "IDEA-on-Action",
+    "github": "IDEA-on-Action"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/IDEA-on-Action/IDEA-on-Action",
+    "skill_md": "https://raw.githubusercontent.com/IDEA-on-Action/IDEA-on-Action/main/.claude/skills/project-health/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:03:56.491Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/IDEA-on-Action%2FIDEA-on-Action/.claude%2Fskills%2Fproject-health%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_670ae30b53cb"
+  }
+}

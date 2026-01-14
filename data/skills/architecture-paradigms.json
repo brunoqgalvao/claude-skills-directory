@@ -1,0 +1,35 @@
+{
+  "id": "architecture-paradigms",
+  "name": "architecture-paradigms",
+  "version": "1.0.0",
+  "summary": "Interactive selector and implementation planner for architecture paradigms. Use when selecting or comparing architecture patterns for a new system.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/archetypes/skills/architecture-paradigms/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T17:38:26.000Z",
+  "created_at": "2025-12-22T19:11:39.729Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Farchetypes%2Fskills%2Farchitecture-paradigms%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_c097a2b490ba"
+  }
+}

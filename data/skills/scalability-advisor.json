@@ -1,0 +1,35 @@
+{
+  "id": "scalability-advisor",
+  "name": "scalability-advisor",
+  "version": "1.0.0",
+  "summary": "Guidance for scaling systems from startup to enterprise scale. Use when planning for growth, diagnosing bottlenecks, or designing systems that need to handle 10x-1000x current l...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alirezarezvani",
+    "github": "alirezarezvani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alirezarezvani/claude-cto-team",
+    "skill_md": "https://raw.githubusercontent.com/alirezarezvani/claude-cto-team/main/skills/scalability-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:52.867Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alirezarezvani%2Fclaude-cto-team/skills%2Fscalability-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_d08f12d8101f"
+  }
+}

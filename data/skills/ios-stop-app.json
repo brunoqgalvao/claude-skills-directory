@@ -1,0 +1,35 @@
+{
+  "id": "ios-stop-app",
+  "name": "ios-stop-app",
+  "version": "1.0.0",
+  "summary": "Stop the iOS app running on connected iPhone. Cleanly terminates the app using SIGTERM. Use when stopping the app for debugging, testing, or cleanup.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asnar00",
+    "github": "asnar00"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asnar00/miso",
+    "skill_md": "https://raw.githubusercontent.com/asnar00/miso/main/.claude/skills/ios-stop-app/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:26.755Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asnar00%2Fmiso/.claude%2Fskills%2Fios-stop-app%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_88f2d915c9e7"
+  }
+}

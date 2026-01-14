@@ -1,0 +1,37 @@
+{
+  "id": "spec-driven",
+  "name": "spec-driven",
+  "version": "1.0.0",
+  "summary": "Guide spec-driven development workflow (Requirements → Design → Tasks → Implementation) with approval gates between phases. Use when user wants structured feature planning or sa...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NikiforovAll",
+    "github": "NikiforovAll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NikiforovAll/claude-code-rules",
+    "skill_md": "https://raw.githubusercontent.com/NikiforovAll/claude-code-rules/main/plugins/handbook-agent-spec-kit/skills/spec-driven/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:07.222Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NikiforovAll%2Fclaude-code-rules/plugins%2Fhandbook-agent-spec-kit%2Fskills%2Fspec-driven%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_d5c18e5a4893"
+  }
+}

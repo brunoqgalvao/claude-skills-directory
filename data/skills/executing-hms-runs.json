@@ -1,0 +1,36 @@
+{
+  "id": "executing-hms-runs",
+  "name": "executing-hms-runs",
+  "version": "1.0.0",
+  "summary": "Executes HEC-HMS simulations using HmsCmdr.compute_run(), handles parallel\nexecution across multiple runs, and manages Jython script generation. Use when\nrunning HMS simulations...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gpt-cmdr",
+    "github": "gpt-cmdr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gpt-cmdr/hms-commander",
+    "skill_md": "https://raw.githubusercontent.com/gpt-cmdr/hms-commander/main/.claude/skills/executing-hms-runs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:08:29.991Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gpt-cmdr%2Fhms-commander/.claude%2Fskills%2Fexecuting-hms-runs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_399b57234ade"
+  }
+}

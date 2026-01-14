@@ -1,0 +1,35 @@
+{
+  "id": "game-scoring",
+  "name": "game-scoring",
+  "version": "1.0.0",
+  "summary": "Use when working with candidate scoring, confidence calculation, softmax aggregation, or guess decision logic. Load for understanding how candidates are ranked, when the system ...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "discountedcookie",
+    "github": "discountedcookie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/discountedcookie/10x-mapmaster",
+    "skill_md": "https://raw.githubusercontent.com/discountedcookie/10x-mapmaster/main/.opencode/skills/game-scoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:57:52.919Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/discountedcookie%2F10x-mapmaster/.opencode%2Fskills%2Fgame-scoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_77ddda30783f"
+  }
+}

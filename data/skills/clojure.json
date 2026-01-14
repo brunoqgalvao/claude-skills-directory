@@ -1,0 +1,35 @@
+{
+  "id": "clojure",
+  "name": "clojure",
+  "version": "1.0.0",
+  "summary": "Develop Clojure applications using deps.edn, tools.deps, and functional patterns. Activate when working with .clj/.cljc/.cljs files, deps.edn, or user mentions Clojure, REPL, sp...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anntnzrb",
+    "github": "anntnzrb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anntnzrb/.claude",
+    "skill_md": "https://raw.githubusercontent.com/anntnzrb/.claude/main/skills/clojure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:17:37.482Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anntnzrb%2F.claude/skills%2Fclojure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_4953048adcf6"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "angular-testing",
+  "name": "angular-testing",
+  "version": "1.0.0",
+  "summary": "Use when writing unit tests for Angular components, services, pipes, or directives. Triggers on requests to \"write tests\", \"add tests\", \"create spec\", \"test this component\", or ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielsogl",
+    "github": "danielsogl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielsogl/copilot-workflow-demo",
+    "skill_md": "https://raw.githubusercontent.com/danielsogl/copilot-workflow-demo/main/.claude/skills/angular-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T16:03:00.000Z",
+  "created_at": "2025-12-23T01:29:06.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielsogl%2Fcopilot-workflow-demo/.claude%2Fskills%2Fangular-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_79615c132f80"
+  }
+}

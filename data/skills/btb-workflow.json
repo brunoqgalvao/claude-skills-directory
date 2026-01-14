@@ -1,0 +1,37 @@
+{
+  "id": "btb-workflow",
+  "name": "btb-workflow",
+  "version": "1.0.0",
+  "summary": "BackToBack/ByTheBooks (BTB) - An in-repo collaboration pattern for Human-AI engineering teams. Use this skill when working in repositories with a SPECS/ directory containing REA...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ships",
+    "github": "ships"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ships/eden",
+    "skill_md": "https://raw.githubusercontent.com/ships/eden/main/assets/claude/skills/btb-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:12:42.046Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ships%2Feden/assets%2Fclaude%2Fskills%2Fbtb-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_2b3520f3e1a6"
+  }
+}

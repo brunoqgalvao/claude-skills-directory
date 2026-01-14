@@ -1,0 +1,35 @@
+{
+  "id": "ai-handler",
+  "name": "ai-handler",
+  "version": "1.0.0",
+  "summary": "Integrate Replicate AI models with background processing, S3 storage, and credit systems",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AayushBaniya2006",
+    "github": "AayushBaniya2006"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AayushBaniya2006/blinkfund",
+    "skill_md": "https://raw.githubusercontent.com/AayushBaniya2006/blinkfund/main/.claude/skills/ai-handler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:30.189Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AayushBaniya2006%2Fblinkfund/.claude%2Fskills%2Fai-handler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_2d0b0ed9214f"
+  }
+}

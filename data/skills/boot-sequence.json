@@ -1,0 +1,35 @@
+{
+  "id": "boot-sequence",
+  "name": "boot-sequence",
+  "version": "1.0.0",
+  "summary": "ALWAYS LOAD FIRST. Triggers full cognitive stack for theoretical work sessions. Use at start of any conversation involving MONAD, consciousness research, AI collaboration, Dokka...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "agentgptsmith",
+    "github": "agentgptsmith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/agentgptsmith/MonadFramework",
+    "skill_md": "https://raw.githubusercontent.com/agentgptsmith/MonadFramework/main/.claude/skills/boot-sequence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:36.812Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/agentgptsmith%2FMonadFramework/.claude%2Fskills%2Fboot-sequence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_4e0d199f419e"
+  }
+}

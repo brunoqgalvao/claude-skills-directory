@@ -1,0 +1,37 @@
+{
+  "id": "running-e2e-tests",
+  "name": "running-e2e-tests",
+  "version": "1.0.0",
+  "summary": "Execute end-to-end tests covering full user workflows across frontend and backend.\nUse when performing specialized testing.\nTrigger with phrases like \"run end-to-end tests\", \"te...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/testing/e2e-test-framework/skills/e2e-test-framework/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:05:42.194Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Ftesting%2Fe2e-test-framework%2Fskills%2Fe2e-test-framework%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_f6b2e6598432"
+  }
+}

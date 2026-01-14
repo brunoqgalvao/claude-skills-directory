@@ -1,0 +1,35 @@
+{
+  "id": "commit-operations",
+  "name": "commit-operations",
+  "version": "1.0.0",
+  "summary": "View and analyze commits in GitHub repositories - commit history, diffs, and commit details using gh CLI",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nice-Wolf-Studio",
+    "github": "Nice-Wolf-Studio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nice-Wolf-Studio/agent-github-skills",
+    "skill_md": "https://raw.githubusercontent.com/Nice-Wolf-Studio/agent-github-skills/main/skills/commit-operations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:06:48.207Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nice-Wolf-Studio%2Fagent-github-skills/skills%2Fcommit-operations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_440dcc2445ed"
+  }
+}

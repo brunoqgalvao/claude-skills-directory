@@ -1,0 +1,35 @@
+{
+  "id": "mcp-genkit-flows-skill",
+  "name": "mcp-genkit-flows-skill",
+  "version": "1.0.0",
+  "summary": "Execute and manage 26 Genkit AI flows via MCP with 90% caching. Use when generating KSC responses, creating cover letters, analyzing resumes, or orchestrating multi-step AI work...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "okgoogle13",
+    "github": "okgoogle13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/okgoogle13/careercopilot",
+    "skill_md": "https://raw.githubusercontent.com/okgoogle13/careercopilot/main/.claude/skills/mcp-genkit-flows-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:02.613Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/okgoogle13%2Fcareercopilot/.claude%2Fskills%2Fmcp-genkit-flows-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_98568d9079d0"
+  }
+}

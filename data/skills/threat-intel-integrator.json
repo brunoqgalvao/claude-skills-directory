@@ -1,0 +1,37 @@
+{
+  "id": "threat-intel-integrator",
+  "name": "threat-intel-integrator",
+  "version": "1.0.0",
+  "summary": "Activate when the user needs help integrating threat intelligence feeds, configuring API-based lookups, creating custom threat feeds, or enriching detections with threat intelli...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tekgrunt",
+    "github": "tekgrunt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tekgrunt/boot-test",
+    "skill_md": "https://raw.githubusercontent.com/tekgrunt/boot-test/main/.claude-plugin/plugins/limacharlie-skills/skills/threat-intel-integrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:14:48.820Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tekgrunt%2Fboot-test/.claude-plugin%2Fplugins%2Flimacharlie-skills%2Fskills%2Fthreat-intel-integrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_3cf76676b4b2"
+  }
+}

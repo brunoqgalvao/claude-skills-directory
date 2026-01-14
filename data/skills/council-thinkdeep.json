@@ -1,0 +1,35 @@
+{
+  "id": "council-thinkdeep",
+  "name": "council-thinkdeep",
+  "version": "1.0.0",
+  "summary": "Use for deep multi-step investigation and analysis with both Codex and Gemini. Triggers on \"council deep analysis\", \"investigate with council\", \"council thorough investigation\",...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kanlanc",
+    "github": "kanlanc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kanlanc/Claude-Code-Kanlanc-Marketplace",
+    "skill_md": "https://raw.githubusercontent.com/kanlanc/Claude-Code-Kanlanc-Marketplace/main/ai-council/skills/council-thinkdeep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T18:09:21.000Z",
+  "created_at": "2025-12-22T15:08:20.382Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kanlanc%2FClaude-Code-Kanlanc-Marketplace/ai-council%2Fskills%2Fcouncil-thinkdeep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_9f40744c8dec"
+  }
+}

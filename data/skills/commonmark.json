@@ -1,0 +1,35 @@
+{
+  "id": "commonmark",
+  "name": "commonmark",
+  "version": "1.0.0",
+  "summary": "Use when parsing or generating Markdown following the CommonMark specification - AST structure, block/inline elements, and extensions",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/omg",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/omg/main/.claude/skills/commonmark/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:29.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fomg/.claude%2Fskills%2Fcommonmark%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_083e0aaca340"
+  }
+}

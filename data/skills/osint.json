@@ -1,0 +1,35 @@
+{
+  "id": "osint",
+  "name": "osint",
+  "version": "1.0.0",
+  "summary": "Gathers intelligence from public sources. Use when searching for usernames, geolocating images, investigating social media, analyzing domains, or solving information gathering c...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kiwamizamurai",
+    "github": "kiwamizamurai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kiwamizamurai/cctf",
+    "skill_md": "https://raw.githubusercontent.com/kiwamizamurai/cctf/main/.claude/skills/osint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T20:10:24.000Z",
+  "created_at": "2025-12-23T01:28:34.618Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kiwamizamurai%2Fcctf/.claude%2Fskills%2Fosint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_c7cba77176af"
+  }
+}

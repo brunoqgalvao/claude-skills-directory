@@ -1,0 +1,35 @@
+{
+  "id": "notion-meeting-intelligence",
+  "name": "notion-meeting-intelligence",
+  "version": "1.0.0",
+  "summary": "Prepare meeting materials with Notion context and Codex research; use when gathering context, drafting agendas/pre-reads, and tailoring materials to attendees.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "openai",
+    "github": "openai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/openai/skills",
+    "skill_md": "https://raw.githubusercontent.com/openai/skills/main/skills/.curated/notion-meeting-intelligence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T17:18:15.000Z",
+  "created_at": "2025-12-22T16:28:48.695Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/openai%2Fskills/skills%2F.curated%2Fnotion-meeting-intelligence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_a091a40e33d9"
+  }
+}

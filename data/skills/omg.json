@@ -1,0 +1,35 @@
+{
+  "id": "omg",
+  "name": "omg",
+  "version": "1.0.0",
+  "summary": "Use when writing or editing .omg.md files - the human-first DSL for API specification that compiles to OpenAPI 3.1",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/omg",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/omg/main/.claude/skills/omg/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T21:58:21.000Z",
+  "created_at": "2025-12-22T14:55:05.553Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fomg/.claude%2Fskills%2Fomg%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_22a6c8cf433f"
+  }
+}

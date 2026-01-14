@@ -1,0 +1,37 @@
+{
+  "id": "stripe-best-practices",
+  "name": "stripe-best-practices",
+  "version": "1.0.0",
+  "summary": "Best practices for building Stripe integrations. Use when implementing payment processing, checkout flows, subscriptions, webhooks, Connect platforms, or any Stripe API integrat...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stripe",
+    "github": "stripe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stripe/ai",
+    "skill_md": "https://raw.githubusercontent.com/stripe/ai/main/providers/claude/plugin/skills/stripe-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T18:10:01.000Z",
+  "created_at": "2025-12-23T01:29:02.037Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stripe%2Fai/providers%2Fclaude%2Fplugin%2Fskills%2Fstripe-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.447Z",
+    "uniqueId": "sk_f15501456261"
+  }
+}

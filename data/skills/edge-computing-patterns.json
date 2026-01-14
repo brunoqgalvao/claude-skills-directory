@@ -1,0 +1,35 @@
+{
+  "id": "edge-computing-patterns",
+  "name": "edge-computing-patterns",
+  "version": "1.0.0",
+  "summary": "Deploy to edge runtimes (Cloudflare Workers, Vercel Edge, Deno Deploy) for globally distributed, low-latency applications. Master edge middleware, streaming, and runtime constra...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ArieGoldkin",
+    "github": "ArieGoldkin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ArieGoldkin/ai-agent-hub",
+    "skill_md": "https://raw.githubusercontent.com/ArieGoldkin/ai-agent-hub/main/skills/edge-computing-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T10:42:35.000Z",
+  "created_at": "2025-12-23T01:29:00.903Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ArieGoldkin%2Fai-agent-hub/skills%2Fedge-computing-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_c4d30fbd5ecc"
+  }
+}

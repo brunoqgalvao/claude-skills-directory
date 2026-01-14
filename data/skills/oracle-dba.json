@@ -1,0 +1,37 @@
+{
+  "id": "oracle-dba",
+  "name": "oracle-dba",
+  "version": "1.0.0",
+  "summary": "Oracle DBA and DevOps expertise for Autonomous Database (ADB) on OCI. This skill should be used when managing Oracle Autonomous Databases, writing optimized SQL/PLSQL, configuri...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "acedergren",
+    "github": "acedergren"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/acedergren/oracle-dba-skill",
+    "skill_md": "https://raw.githubusercontent.com/acedergren/oracle-dba-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:05.035Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/acedergren%2Foracle-dba-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_70fb4891b9ad"
+  }
+}

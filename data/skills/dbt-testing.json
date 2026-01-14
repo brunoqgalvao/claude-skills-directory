@@ -1,0 +1,36 @@
+{
+  "id": "dbt-testing",
+  "name": "dbt-testing",
+  "version": "1.0.0",
+  "summary": "dbt testing strategies using dbt_constraints for database-level enforcement, generic tests, and singular tests. Use this skill when implementing data quality checks, adding prim...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sfc-gh-dflippo",
+    "github": "sfc-gh-dflippo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sfc-gh-dflippo/snowflake-dbt-demo",
+    "skill_md": "https://raw.githubusercontent.com/sfc-gh-dflippo/snowflake-dbt-demo/main/.claude/skills/dbt-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:29.209Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sfc-gh-dflippo%2Fsnowflake-dbt-demo/.claude%2Fskills%2Fdbt-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_24f9bbea6a02"
+  }
+}

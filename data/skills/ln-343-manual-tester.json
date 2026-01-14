@@ -1,0 +1,36 @@
+{
+  "id": "ln-343-manual-tester",
+  "name": "ln-343-manual-tester",
+  "version": "1.0.0",
+  "summary": "Performs manual testing of Story AC via executable bash scripts saved to tests/manual/. Creates reusable test suites per Story. Worker only.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-343-manual-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T20:42:12.000Z",
+  "created_at": "2025-12-23T01:28:57.148Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-343-manual-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.534Z",
+    "uniqueId": "sk_fa41399b7867"
+  }
+}

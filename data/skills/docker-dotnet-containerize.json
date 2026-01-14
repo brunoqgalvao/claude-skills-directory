@@ -1,0 +1,36 @@
+{
+  "id": "docker-dotnet-containerize",
+  "name": "docker-dotnet-containerize",
+  "version": "1.0.0",
+  "summary": "Generate production-ready Docker configurations for .NET APIs with multi-stage builds, Alpine optimization, layer caching, and build scripts. Use when containerizing .NET applic...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/docker-dotnet-containerize/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:41.366Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fdocker-dotnet-containerize%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_ebcaaabd9e67"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "telegram-bot",
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "summary": "Telegram bot komutlari ve handler referansi. Use when working with Telegram bot commands, callbacks, or approval workflows.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "olivenet-iot",
+    "github": "olivenet-iot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/olivenet-iot/olivenet-social-bot",
+    "skill_md": "https://raw.githubusercontent.com/olivenet-iot/olivenet-social-bot/main/.claude/skills/telegram-bot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.545Z",
+  "created_at": "2025-12-23T01:28:52.450Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/olivenet-iot%2Folivenet-social-bot/.claude%2Fskills%2Ftelegram-bot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_e01a9d5c23bc"
+  }
+}

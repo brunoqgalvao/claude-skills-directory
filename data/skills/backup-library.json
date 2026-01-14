@@ -1,0 +1,35 @@
+{
+  "id": "backup-library",
+  "name": "backup-library",
+  "version": "1.0.0",
+  "summary": "Creates compressed ZIP backups of libraries directory. Backs up library.yaml, transcripts, and roughcuts (not video files). This skill can also be useful when you need to restor...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "barefootford",
+    "github": "barefootford"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/barefootford/buttercut",
+    "skill_md": "https://raw.githubusercontent.com/barefootford/buttercut/main/.claude/skills/backup-library/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T07:39:41.000Z",
+  "created_at": "2025-12-23T01:28:19.099Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/barefootford%2Fbuttercut/.claude%2Fskills%2Fbackup-library%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_8441b52e5bad"
+  }
+}

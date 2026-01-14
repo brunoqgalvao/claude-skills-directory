@@ -1,0 +1,35 @@
+{
+  "id": "composable-svelte-media",
+  "name": "composable-svelte-media",
+  "version": "1.0.0",
+  "summary": "Audio, video, and voice components for Composable Svelte. Use when implementing audio players, video embeds, or voice input. Covers AudioPlayer (Web Audio API), VideoEmbed (YouT...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jonathanbelolo",
+    "github": "jonathanbelolo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jonathanbelolo/composable-svelte",
+    "skill_md": "https://raw.githubusercontent.com/jonathanbelolo/composable-svelte/main/.claude/skills/composable-svelte-media/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:39.286Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jonathanbelolo%2Fcomposable-svelte/.claude%2Fskills%2Fcomposable-svelte-media%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_62f3fa755664"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "requirement-analyzer",
+  "name": "requirement-analyzer",
+  "version": "1.0.0",
+  "summary": "Extends generic requirement analysis with PHP/CakePHP specific considerations and technical mappings",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masanao-ohba",
+    "github": "masanao-ohba"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masanao-ohba/claude-manifests",
+    "skill_md": "https://raw.githubusercontent.com/masanao-ohba/claude-manifests/main/skills/php-cakephp/requirement-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.788Z",
+  "created_at": "2025-12-22T19:02:37.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masanao-ohba%2Fclaude-manifests/skills%2Fphp-cakephp%2Frequirement-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_7d75414c9472"
+  }
+}

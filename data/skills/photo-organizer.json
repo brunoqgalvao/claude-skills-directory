@@ -1,0 +1,35 @@
+{
+  "id": "photo-organizer",
+  "name": "photo-organizer",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to automatically organize classroom photos by student names and dates using face recognition technology. It provides the complete workf...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NEILXIANG",
+    "github": "NEILXIANG"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NEILXIANG/SundaySchool",
+    "skill_md": "https://raw.githubusercontent.com/NEILXIANG/SundaySchool/main/photo-organizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:45.445Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NEILXIANG%2FSundaySchool/photo-organizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_bc8f3c4f4433"
+  }
+}

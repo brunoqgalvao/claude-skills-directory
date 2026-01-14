@@ -1,0 +1,35 @@
+{
+  "id": "skyline-screenshots",
+  "name": "skyline-screenshots",
+  "version": "1.0.0",
+  "summary": "Use when reviewing tutorial screenshots, using ImageComparer, analyzing screenshot diffs, or updating screenshots for releases. Activate for s-XX.png references in tutorial cont...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ProteoWizard",
+    "github": "ProteoWizard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ProteoWizard/pwiz",
+    "skill_md": "https://raw.githubusercontent.com/ProteoWizard/pwiz/main/.claude/skills/skyline-screenshots/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T13:42:03.000Z",
+  "created_at": "2025-12-23T01:28:29.596Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ProteoWizard%2Fpwiz/.claude%2Fskills%2Fskyline-screenshots%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_57c34f7d1b11"
+  }
+}

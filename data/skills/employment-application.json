@@ -1,0 +1,36 @@
+{
+  "id": "employment-application",
+  "name": "employment-application",
+  "version": "1.0.0",
+  "summary": "Analyze employment opportunities and create compelling, tailored cover letters and CVs/resumes that explicitly address selection criteria. Use this skill when users request help...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robin-collins",
+    "github": "robin-collins"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robin-collins/claude_code_skills",
+    "skill_md": "https://raw.githubusercontent.com/robin-collins/claude_code_skills/main/employment-application/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.683Z",
+  "created_at": "2025-12-22T22:10:29.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robin-collins%2Fclaude_code_skills/employment-application%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.683Z",
+    "uniqueId": "sk_708fd3321fed"
+  }
+}

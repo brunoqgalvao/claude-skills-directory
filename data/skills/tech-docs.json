@@ -1,0 +1,35 @@
+{
+  "id": "tech-docs",
+  "name": "tech-docs",
+  "version": "1.0.0",
+  "summary": "Access local technical documentation before searching the internet. Use FIRST when researching any tech stack question.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "atilladeniz",
+    "github": "atilladeniz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/atilladeniz/next-go-pg",
+    "skill_md": "https://raw.githubusercontent.com/atilladeniz/next-go-pg/main/.claude/skills/tech-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T21:03:34.000Z",
+  "created_at": "2025-12-23T01:28:40.779Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/atilladeniz%2Fnext-go-pg/.claude%2Fskills%2Ftech-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_be6c112d4826"
+  }
+}

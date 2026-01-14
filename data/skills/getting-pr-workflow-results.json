@@ -1,0 +1,35 @@
+{
+  "id": "getting-pr-workflow-results",
+  "name": "getting-pr-workflow-results",
+  "version": "1.0.0",
+  "summary": "Use when needing workflow job results and log commands from PR - automatically waits for workflows to complete, then returns job summaries with gh commands to retrieve logs with...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "karlmdavis",
+    "github": "karlmdavis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/karlmdavis/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/karlmdavis/dotfiles/main/private_dot_claude/skills/getting-pr-workflow-results/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:00.457Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/karlmdavis%2Fdotfiles/private_dot_claude%2Fskills%2Fgetting-pr-workflow-results%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_765cbbf1fc7a"
+  }
+}

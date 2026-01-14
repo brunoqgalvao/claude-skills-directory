@@ -1,0 +1,35 @@
+{
+  "id": "notification-system",
+  "name": "notification-system",
+  "version": "1.0.0",
+  "summary": "Push notification management, scheduling, and user preferences for LiveMetro subway alerts. Use when implementing notification features.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "k002bill2",
+    "github": "k002bill2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/k002bill2/LiveMetro",
+    "skill_md": "https://raw.githubusercontent.com/k002bill2/LiveMetro/main/.claude/skills/notification-system/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:08.245Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/k002bill2%2FLiveMetro/.claude%2Fskills%2Fnotification-system%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_f19020a75820"
+  }
+}

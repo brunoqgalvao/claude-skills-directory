@@ -1,0 +1,37 @@
+{
+  "id": "dot-export",
+  "name": "dot-export",
+  "version": "1.0.0",
+  "summary": "Export DOT/Graphviz diagrams from documents to SVG images. Use after creating documents with DOT code blocks when you need to render them as static images for distribution, GitH...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sparkling",
+    "github": "sparkling"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sparkling/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/sparkling/claude-config/main/skills/dot-export/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.505Z",
+  "created_at": "2025-12-23T01:29:21.341Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sparkling%2Fclaude-config/skills%2Fdot-export%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_0deebfa5c0cc"
+  }
+}

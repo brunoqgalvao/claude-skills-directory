@@ -1,0 +1,35 @@
+{
+  "id": "actor-critic-methods",
+  "name": "actor-critic-methods",
+  "version": "1.0.0",
+  "summary": "Master A2C, A3C, SAC, TD3 - actor-critic methods for continuous control",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tachyon-beep",
+    "github": "tachyon-beep"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tachyon-beep/hamlet",
+    "skill_md": "https://raw.githubusercontent.com/tachyon-beep/hamlet/main/.claude/skills/yzmir-deep-rl/skills/actor-critic-methods/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.469Z",
+  "created_at": "2025-12-23T01:30:51.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tachyon-beep%2Fhamlet/.claude%2Fskills%2Fyzmir-deep-rl%2Fskills%2Factor-critic-methods%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.469Z",
+    "uniqueId": "sk_e2cad17cca47"
+  }
+}

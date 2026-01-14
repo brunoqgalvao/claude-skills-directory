@@ -1,0 +1,35 @@
+{
+  "id": "gdcli",
+  "name": "gdcli",
+  "version": "1.0.0",
+  "summary": "Google Drive CLI for listing, searching, uploading, downloading, and sharing files and folders.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "badlogic",
+    "github": "badlogic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/badlogic/pi-skills",
+    "skill_md": "https://raw.githubusercontent.com/badlogic/pi-skills/main/gdcli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T23:49:15.000Z",
+  "created_at": "2025-12-23T01:28:42.809Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/badlogic%2Fpi-skills/gdcli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_eca88294d5dc"
+  }
+}

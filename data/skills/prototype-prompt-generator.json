@@ -1,0 +1,35 @@
+{
+  "id": "prototype-prompt-generator",
+  "name": "prototype-prompt-generator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to generate detailed, structured prompts for creating UI/UX prototypes. Trigger when users request help with \"create a prototype prompt...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cexll",
+    "github": "cexll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cexll/myclaude",
+    "skill_md": "https://raw.githubusercontent.com/cexll/myclaude/main/skills/prototype-prompt-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.617Z",
+  "created_at": "2025-12-22T23:20:46.494Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cexll%2Fmyclaude/skills%2Fprototype-prompt-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.617Z",
+    "uniqueId": "sk_15a54aa21d38"
+  }
+}

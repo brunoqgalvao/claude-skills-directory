@@ -1,0 +1,36 @@
+{
+  "id": "content-trend-researcher",
+  "name": "content-trend-researcher",
+  "version": "1.0.0",
+  "summary": "Advanced content and topic research skill that analyzes trends across Google Analytics, Google Trends, Substack, Medium, Reddit, LinkedIn, X, blogs, podcasts, and YouTube to gen...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/claude-code-skills-factory",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/claude-code-skills-factory/main/generated-skills/content-trend-researcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.445Z",
+  "created_at": "2025-12-22T19:13:56.680Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fclaude-code-skills-factory/generated-skills%2Fcontent-trend-researcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.445Z",
+    "uniqueId": "sk_e450769475cb"
+  }
+}

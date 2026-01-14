@@ -1,0 +1,37 @@
+{
+  "id": "tech-stack-architect",
+  "name": "tech-stack-architect",
+  "version": "1.0.0",
+  "summary": "Design complete technology stack and system architecture from project requirements - generates TECH-STACK.md with frontend/backend/database/DevOps choices plus rationale, and AR...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MacroMan5",
+    "github": "MacroMan5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MacroMan5/claude-code-workflow-plugins",
+    "skill_md": "https://raw.githubusercontent.com/MacroMan5/claude-code-workflow-plugins/main/.claude/skills/tech-stack-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:39.733Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MacroMan5%2Fclaude-code-workflow-plugins/.claude%2Fskills%2Ftech-stack-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_6b6202021f45"
+  }
+}

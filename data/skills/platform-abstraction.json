@@ -1,0 +1,36 @@
+{
+  "id": "platform-abstraction",
+  "name": "platform-abstraction",
+  "version": "1.0.0",
+  "summary": "Use @effect/platform abstractions for cross-platform file I/O, process spawning, HTTP clients, and terminal operations. Apply this skill when writing code that interacts with th...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "front-depiction",
+    "github": "front-depiction"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/front-depiction/claude-setup",
+    "skill_md": "https://raw.githubusercontent.com/front-depiction/claude-setup/main/skills/platform-abstraction/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:23.591Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/front-depiction%2Fclaude-setup/skills%2Fplatform-abstraction%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_84718c3828e4"
+  }
+}

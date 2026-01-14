@@ -1,0 +1,36 @@
+{
+  "id": "go-uber-style",
+  "name": "go-uber-style",
+  "version": "1.0.0",
+  "summary": "Use this skill when writing Go code following the Uber Go Style Guide. Provides comprehensive guidance on idiomatic Go patterns, error handling, concurrency safety, performance ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nhlongnguyen",
+    "github": "nhlongnguyen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nhlongnguyen/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nhlongnguyen/dotfiles/main/config/claude/skills/go-uber-style/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:00:54.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nhlongnguyen%2Fdotfiles/config%2Fclaude%2Fskills%2Fgo-uber-style%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_c9420d386581"
+  }
+}

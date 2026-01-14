@@ -1,0 +1,36 @@
+{
+  "id": "db",
+  "name": "db",
+  "version": "1.0.0",
+  "summary": "Database operations for SQLite, PostgreSQL, and MySQL. Use for queries, schema inspection, migrations, and AI-assisted query generation.",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/claude",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/claude/main/skills/db/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.531Z",
+  "created_at": "2025-12-23T01:29:00.738Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fclaude/skills%2Fdb%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.531Z",
+    "uniqueId": "sk_8657b9f8065a"
+  }
+}

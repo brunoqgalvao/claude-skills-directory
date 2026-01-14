@@ -1,0 +1,37 @@
+{
+  "id": "dbt-semantic-layer-developer",
+  "name": "dbt-semantic-layer-developer",
+  "version": "1.0.0",
+  "summary": "Provides expert-level assistance with dbt Semantic Layer, MetricFlow, semantic models, metrics, dimensions, entities, measures, and BI tool integrations. Use this skill when bui...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "keithbinkly",
+    "github": "keithbinkly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/keithbinkly/dbt-semantic-layer",
+    "skill_md": "https://raw.githubusercontent.com/keithbinkly/dbt-semantic-layer/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:43.578Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/keithbinkly%2Fdbt-semantic-layer/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_33fead5114dd"
+  }
+}

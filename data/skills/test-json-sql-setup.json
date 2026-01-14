@@ -1,0 +1,36 @@
+{
+  "id": "test-json-sql-setup",
+  "name": "test-json-sql-setup",
+  "version": "1.0.0",
+  "summary": "Creates test data for JSON SQL primitive tests",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bdambrosio",
+    "github": "bdambrosio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bdambrosio/Cognitive_workbench",
+    "skill_md": "https://raw.githubusercontent.com/bdambrosio/Cognitive_workbench/main/src/saved_plans/test-json-sql-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.580Z",
+  "created_at": "2025-12-23T01:28:19.216Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bdambrosio%2FCognitive_workbench/src%2Fsaved_plans%2Ftest-json-sql-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_db5d09cb8d40"
+  }
+}

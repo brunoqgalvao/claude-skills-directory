@@ -1,0 +1,35 @@
+{
+  "id": "local-book-researcher",
+  "name": "local-book-researcher",
+  "version": "1.0.0",
+  "summary": "本地智能图书检索专家，支持简单检索模式，以及包含\"搜索-分析-草稿-迭代-执行\"闭环的深度研究模式。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xulei-shl",
+    "github": "xulei-shl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xulei-shl/Library-AI-demos",
+    "skill_md": "https://raw.githubusercontent.com/xulei-shl/Library-AI-demos/main/rss-fetcher/.claude/skills/local-book-researcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:25.339Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xulei-shl%2FLibrary-AI-demos/rss-fetcher%2F.claude%2Fskills%2Flocal-book-researcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_48935da594a2"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "process-inbox",
+  "name": "process-inbox",
+  "version": "1.0.0",
+  "summary": "Guide user through inbox processing, clarifying and organizing items one at a time using the clarify and organize workflow. Automatically invoked when user wants to process thei...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elinsky",
+    "github": "elinsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elinsky/execution-system-skills",
+    "skill_md": "https://raw.githubusercontent.com/elinsky/execution-system-skills/main/process-inbox/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.683Z",
+  "created_at": "2025-12-22T22:10:28.527Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elinsky%2Fexecution-system-skills/process-inbox%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.683Z",
+    "uniqueId": "sk_e414c27699f9"
+  }
+}

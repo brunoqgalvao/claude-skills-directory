@@ -1,0 +1,35 @@
+{
+  "id": "audio-recorder",
+  "name": "audio-recorder",
+  "version": "1.0.0",
+  "summary": "Expert in managing audio recordings using sox. **Use this skill whenever the user mentions \"record\", \"recording\", \"start recording\", \"stop recording\", \"list records\", or asks to...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smorand",
+    "github": "smorand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smorand/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/smorand/claude-config/main/skills/audio-recorder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:12.517Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smorand%2Fclaude-config/skills%2Faudio-recorder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_0ff91155894e"
+  }
+}

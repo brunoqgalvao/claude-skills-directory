@@ -1,0 +1,35 @@
+{
+  "id": "leap-year-analyzer",
+  "name": "leap-year-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyze leap year calculations, calendar systems, and date validation logic. Use this when the user asks about leap year rules, calendar types (Gregorian, Julian, Hebrew, Chines...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ruchernchong",
+    "github": "ruchernchong"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ruchernchong/is-leap-year",
+    "skill_md": "https://raw.githubusercontent.com/ruchernchong/is-leap-year/main/.claude/skills/leap-year-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:04:50.132Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ruchernchong%2Fis-leap-year/.claude%2Fskills%2Fleap-year-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_02a2bdfe0f30"
+  }
+}

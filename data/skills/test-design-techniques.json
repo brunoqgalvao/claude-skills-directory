@@ -1,0 +1,37 @@
+{
+  "id": "test-design-techniques",
+  "name": "test-design-techniques",
+  "version": "1.0.0",
+  "summary": "Systematic test design with boundary value analysis, equivalence partitioning, decision tables, state transition testing, and combinatorial testing. Use when designing comprehen...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/ampel",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/ampel/main/.claude/skills/test-design-techniques/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:09:34.269Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fampel/.claude%2Fskills%2Ftest-design-techniques%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_5a96c60e2be7"
+  }
+}

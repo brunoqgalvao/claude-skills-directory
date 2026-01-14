@@ -1,0 +1,36 @@
+{
+  "id": "deno-debugger",
+  "name": "deno-debugger",
+  "version": "1.0.0",
+  "summary": "Interactive debugger for Deno/TypeScript applications using the V8 Inspector Protocol. This skill should be used when investigating issues in Deno applications, including memory...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "willkelly",
+    "github": "willkelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/willkelly/deno-debug-skill",
+    "skill_md": "https://raw.githubusercontent.com/willkelly/deno-debug-skill/main/deno-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.597Z",
+  "created_at": "2025-12-23T00:19:24.073Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/willkelly%2Fdeno-debug-skill/deno-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.597Z",
+    "uniqueId": "sk_2b3878f7838e"
+  }
+}

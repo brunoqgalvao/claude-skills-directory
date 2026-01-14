@@ -1,0 +1,37 @@
+{
+  "id": "hook-authoring",
+  "name": "hook-authoring",
+  "version": "1.0.0",
+  "summary": "Complete guide for writing Claude Code and SDK hooks with security-first design.\n\nTriggers: hook creation, hook writing, PreToolUse, PostToolUse, UserPromptSubmit,\ntool validati...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/abstract/skills/hook-authoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.488Z",
+  "created_at": "2025-12-23T01:29:36.854Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fabstract%2Fskills%2Fhook-authoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_37bf76a17b99"
+  }
+}

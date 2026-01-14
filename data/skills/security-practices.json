@@ -1,0 +1,36 @@
+{
+  "id": "security-practices",
+  "name": "security-practices",
+  "version": "1.0.0",
+  "summary": "Secure backend applications against OWASP threats. Implement authentication, encryption, scanning, compliance, and incident response procedures.",
+  "verticals": [
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-backend",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-backend/main/skills/security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T18:05:13.000Z",
+  "created_at": "2025-12-22T15:08:42.509Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-backend/skills%2Fsecurity%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_e001f50bac1e"
+  }
+}

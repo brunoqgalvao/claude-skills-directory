@@ -1,0 +1,37 @@
+{
+  "id": "simulation-config",
+  "name": "simulation-config",
+  "version": "1.0.0",
+  "summary": "Configure TraitorSim game parameters including regional rule variants (UK/US/Australia), recruitment mechanics, end-game modes, tie-breaking, and player counts. Use when setting...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rickoslyder",
+    "github": "rickoslyder"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rickoslyder/TraitorSim",
+    "skill_md": "https://raw.githubusercontent.com/rickoslyder/TraitorSim/main/.claude/skills/simulation-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:41.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rickoslyder%2FTraitorSim/.claude%2Fskills%2Fsimulation-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_e0e85820dd3c"
+  }
+}

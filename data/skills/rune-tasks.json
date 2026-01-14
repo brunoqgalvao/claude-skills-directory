@@ -1,0 +1,35 @@
+{
+  "id": "rune-tasks",
+  "name": "rune-tasks",
+  "version": "1.0.0",
+  "summary": "Manage hierarchical task lists using the rune CLI tool. Create, update, and organize tasks with phases, subtasks, and status tracking.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ArjenSchwarz",
+    "github": "ArjenSchwarz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ArjenSchwarz/agentic-coding",
+    "skill_md": "https://raw.githubusercontent.com/ArjenSchwarz/agentic-coding/main/claude/skills/rune/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:03:06.228Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ArjenSchwarz%2Fagentic-coding/claude%2Fskills%2Frune%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_11903f608645"
+  }
+}

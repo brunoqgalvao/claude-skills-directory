@@ -1,0 +1,36 @@
+{
+  "id": "gemini-blog",
+  "name": "gemini-blog",
+  "version": "1.0.0",
+  "summary": "Configure or debug LLM blog post generation using Vercel AI SDK and Google Gemini. Use when updating blog generation prompts, fixing AI integration issues, or modifying content ...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sgcarstrends",
+    "github": "sgcarstrends"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sgcarstrends/sgcarstrends",
+    "skill_md": "https://raw.githubusercontent.com/sgcarstrends/sgcarstrends/main/.claude/skills/gemini-blog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.677Z",
+  "created_at": "2025-12-22T22:12:50.117Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sgcarstrends%2Fsgcarstrends/.claude%2Fskills%2Fgemini-blog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.677Z",
+    "uniqueId": "sk_f482f54f3838"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mcpkit-guide",
+  "name": "mcpkit-guide",
+  "version": "1.0.0",
+  "summary": "Guide for using MCPKit Swift package to build MCP (Model Context Protocol) tool servers. Use when creating new MCP servers, defining tools, or integrating MCP into Swift projects.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sunalamye",
+    "github": "Sunalamye"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sunalamye/MCPKit",
+    "skill_md": "https://raw.githubusercontent.com/Sunalamye/MCPKit/main/Skills/skills/mcpkit-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T06:09:05.000Z",
+  "created_at": "2025-12-22T17:08:30.708Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sunalamye%2FMCPKit/Skills%2Fskills%2Fmcpkit-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_fc6de03fe78c"
+  }
+}

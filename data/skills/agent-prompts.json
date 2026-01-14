@@ -1,0 +1,37 @@
+{
+  "id": "agent-prompts",
+  "name": "agent-prompts",
+  "version": "1.0.0",
+  "summary": "Ready-to-use prompt templates for specialized agents. Use when building n8n workflows, AI integrations, or sales materials. Contains structured prompts for automation-architect,...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dvorkinguy",
+    "github": "dvorkinguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dvorkinguy/claude-skills-agents",
+    "skill_md": "https://raw.githubusercontent.com/dvorkinguy/claude-skills-agents/main/skills/agent-prompts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T19:50:02.000Z",
+  "created_at": "2025-12-23T01:28:40.029Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dvorkinguy%2Fclaude-skills-agents/skills%2Fagent-prompts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_9e58acd80171"
+  }
+}

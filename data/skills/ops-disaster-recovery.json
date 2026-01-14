@@ -1,0 +1,36 @@
+{
+  "id": "ops-disaster-recovery",
+  "name": "ops-disaster-recovery",
+  "version": "1.0.0",
+  "summary": "Structured workflow for disaster recovery planning, implementation, and testing\nincluding RTO/RPO definition, DR strategy selection, and failover procedures.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/ops-team/skills/ops-disaster-recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.708Z",
+  "created_at": "2025-12-22T21:18:22.487Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/ops-team%2Fskills%2Fops-disaster-recovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.708Z",
+    "uniqueId": "sk_4766859423ab"
+  }
+}

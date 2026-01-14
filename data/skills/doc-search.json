@@ -1,0 +1,35 @@
+{
+  "id": "doc-search",
+  "name": "doc-search",
+  "version": "1.0.0",
+  "summary": "Automatically activates when documentation lookup is needed. Routes to the optimal source (Sanity MCP, Context7, Ref, or WebSearch) based on the technology being queried.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexadark",
+    "github": "alexadark"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexadark/darko-kalany",
+    "skill_md": "https://raw.githubusercontent.com/alexadark/darko-kalany/main/.claude/skills/doc-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:58:43.000Z",
+  "created_at": "2025-12-23T01:28:49.597Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexadark%2Fdarko-kalany/.claude%2Fskills%2Fdoc-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_61b900b67f99"
+  }
+}

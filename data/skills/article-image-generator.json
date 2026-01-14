@@ -1,0 +1,35 @@
+{
+  "id": "article-image-generator",
+  "name": "article-image-generator",
+  "version": "1.0.0",
+  "summary": "Generates consistent, professional cover images for business/fiscal articles using Ideogram with standardized prompts and naming conventions. Use when creating new articles, upd...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "proclama2022",
+    "github": "proclama2022"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/proclama2022/dobusinessinitaly",
+    "skill_md": "https://raw.githubusercontent.com/proclama2022/dobusinessinitaly/main/.claude/skills/article-image-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:24.799Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/proclama2022%2Fdobusinessinitaly/.claude%2Fskills%2Farticle-image-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_fc3443520b58"
+  }
+}

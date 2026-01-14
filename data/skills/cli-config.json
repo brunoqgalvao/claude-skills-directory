@@ -1,0 +1,35 @@
+{
+  "id": "cli-config",
+  "name": "cli-config",
+  "version": "1.0.0",
+  "summary": "Manage CLI application configuration with Cobra and Viper. Use when implementing config files, environment variables, flags binding, or when user mentions Viper, configuration m...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yurifrl",
+    "github": "yurifrl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yurifrl/cly",
+    "skill_md": "https://raw.githubusercontent.com/yurifrl/cly/main/.claude/skills/cli-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:12:54.786Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yurifrl%2Fcly/.claude%2Fskills%2Fcli-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_7ab5f6d9b99b"
+  }
+}

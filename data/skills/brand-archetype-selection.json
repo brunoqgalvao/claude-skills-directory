@@ -1,0 +1,35 @@
+{
+  "id": "brand-archetype-selection",
+  "name": "brand-archetype-selection",
+  "version": "1.0.0",
+  "summary": "Provides Jungian brand archetype frameworks, the 12 archetypes with profiles, the 70/30 primary/secondary rule, archetype combinations, and selection templates. Auto-activates d...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mike-coulbourn",
+    "github": "mike-coulbourn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mike-coulbourn/claude-vibes",
+    "skill_md": "https://raw.githubusercontent.com/mike-coulbourn/claude-vibes/main/plugins/vibes/skills/brand-archetype-selection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.315Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mike-coulbourn%2Fclaude-vibes/plugins%2Fvibes%2Fskills%2Fbrand-archetype-selection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_2224f5a3b6c2"
+  }
+}

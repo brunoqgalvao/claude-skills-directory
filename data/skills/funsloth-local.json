@@ -1,0 +1,35 @@
+{
+  "id": "funsloth-local",
+  "name": "funsloth-local",
+  "version": "1.0.0",
+  "summary": "Training manager for local GPU training - validate CUDA, manage GPU selection, monitor progress, handle checkpoints",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chrisvoncsefalvay",
+    "github": "chrisvoncsefalvay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chrisvoncsefalvay/funsloth",
+    "skill_md": "https://raw.githubusercontent.com/chrisvoncsefalvay/funsloth/main/skills/funsloth-local/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:48.537Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chrisvoncsefalvay%2Ffunsloth/skills%2Ffunsloth-local%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_dd06b05427a3"
+  }
+}

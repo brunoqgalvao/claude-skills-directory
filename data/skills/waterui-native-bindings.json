@@ -1,0 +1,37 @@
+{
+  "id": "waterui-native-bindings",
+  "name": "waterui-native-bindings",
+  "version": "1.0.0",
+  "summary": "Implement FFI bindings for WaterUI components across Rust, Apple Swift, and Android Kotlin/JNI layers. Use when adding new component types, metadata wrappers, or fixing native b...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "water-rs",
+    "github": "water-rs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/water-rs/waterui",
+    "skill_md": "https://raw.githubusercontent.com/water-rs/waterui/main/.claude/skills/waterui-native-bindings/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:08.431Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/water-rs%2Fwaterui/.claude%2Fskills%2Fwaterui-native-bindings%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_5f14165d5c6c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "database-performance",
+  "name": "database-performance",
+  "version": "1.0.0",
+  "summary": "Analyze and optimize database performance through index analysis and query profiling. Identify missing/unused indexes, interpret EXPLAIN plans, find performance bottlenecks, and...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hieubkav",
+    "github": "Hieubkav"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hieubkav/wincellarCloneBackend",
+    "skill_md": "https://raw.githubusercontent.com/Hieubkav/wincellarCloneBackend/main/.claude/skills/database/database-performance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:03:23.259Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hieubkav%2FwincellarCloneBackend/.claude%2Fskills%2Fdatabase%2Fdatabase-performance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_033b09a5792a"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "redmine-issues",
+  "name": "redmine-issues",
+  "version": "1.0.0",
+  "summary": "이 스킬은 사용자가 \"이슈 만들어\", \"버그 등록\", \"태스크 생성\", \"이슈 목록\", \"내 할일\", \"할당된 이슈\", \"이슈 수정\", \"이슈 상태 변경\", \"이슈 검색\", \"ticket\", \"issue\", \"bug report\" 등을 언급할 때 사용됩니다. Redmine 이슈 관리 기능을 제공합니다.",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ncuritylabs",
+    "github": "ncuritylabs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ncuritylabs/ncurion-plugins-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/ncuritylabs/ncurion-plugins-marketplace/main/plugins/ncurion-plugin/skills/redmine-issues/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:02:43.566Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ncuritylabs%2Fncurion-plugins-marketplace/plugins%2Fncurion-plugin%2Fskills%2Fredmine-issues%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_976352d7269a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "atomic-design-planning",
+  "name": "atomic-design-planning",
+  "version": "1.0.0",
+  "summary": "Use this skill when discussing UI components, design systems, frontend implementation, or component architecture. Guides thinking about Atomic Design methodology - atoms, molecu...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jclfocused",
+    "github": "jclfocused"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jclfocused/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/jclfocused/claude-agents/main/custom_plugins/plugins/jira-planning-workflow/skills/atomic-design-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:27.928Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jclfocused%2Fclaude-agents/custom_plugins%2Fplugins%2Fjira-planning-workflow%2Fskills%2Fatomic-design-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_711fd40a6de1"
+  }
+}

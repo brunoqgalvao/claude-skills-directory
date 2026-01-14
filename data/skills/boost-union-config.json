@@ -1,0 +1,35 @@
+{
+  "id": "boost-union-config",
+  "name": "boost-union-config",
+  "version": "1.0.0",
+  "summary": "Configure Moodle Boost Union theme settings and customizations. Use when theming Moodle, configuring layouts, or customizing Boost Union features.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoeffer",
+    "github": "astoeffer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoeffer/plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/astoeffer/plugin-marketplace/main/plugins/cloodle-moodle-theming/skills/boost-union-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T15:06:06.000Z",
+  "created_at": "2025-12-22T14:57:20.031Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoeffer%2Fplugin-marketplace/plugins%2Fcloodle-moodle-theming%2Fskills%2Fboost-union-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_c90a75195511"
+  }
+}

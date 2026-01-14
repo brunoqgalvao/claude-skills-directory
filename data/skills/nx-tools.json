@@ -1,0 +1,36 @@
+{
+  "id": "nx-tools",
+  "name": "nx-tools",
+  "version": "1.0.0",
+  "summary": "Queries Nx workspace metadata, project configurations, affected detection, generator schemas, and dependency graphs via unified Python CLI. Use when analyzing monorepo structure...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bsamiee",
+    "github": "bsamiee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bsamiee/Parametric_Portal",
+    "skill_md": "https://raw.githubusercontent.com/bsamiee/Parametric_Portal/main/.claude/skills/nx-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T03:55:39.000Z",
+  "created_at": "2025-12-22T15:50:57.453Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bsamiee%2FParametric_Portal/.claude%2Fskills%2Fnx-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_f7f63926371a"
+  }
+}

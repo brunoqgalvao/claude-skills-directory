@@ -1,0 +1,36 @@
+{
+  "id": "hono-r2-integration",
+  "name": "hono-r2-integration",
+  "version": "1.0.0",
+  "summary": "Use this skill whenever the user wants to design, set up, or refactor Cloudflare R2 object storage usage in a Hono + TypeScript app running on Cloudflare Workers/Pages, includin...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentiveCity",
+    "github": "AgentiveCity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentiveCity/SkillFactory",
+    "skill_md": "https://raw.githubusercontent.com/AgentiveCity/SkillFactory/main/.claude/skills/hono-r2-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:01.705Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentiveCity%2FSkillFactory/.claude%2Fskills%2Fhono-r2-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_8018cd90f1b0"
+  }
+}

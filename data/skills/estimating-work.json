@@ -1,0 +1,35 @@
+{
+  "id": "estimating-work",
+  "name": "estimating-work",
+  "version": "1.0.0",
+  "summary": "Estimate effort for development tasks. Use when planning sprints, roadmaps, or project timelines. Covers story points, relative estimation, and uncertainty.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dralgorhythm",
+    "github": "dralgorhythm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dralgorhythm/claude-agentic-framework",
+    "skill_md": "https://raw.githubusercontent.com/dralgorhythm/claude-agentic-framework/main/.claude/skills/product/estimating-work/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:07.422Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dralgorhythm%2Fclaude-agentic-framework/.claude%2Fskills%2Fproduct%2Festimating-work%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_9d07af9677f0"
+  }
+}

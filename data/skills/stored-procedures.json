@@ -1,0 +1,35 @@
+{
+  "id": "stored-procedures",
+  "name": "stored-procedures",
+  "version": "1.0.0",
+  "summary": "Implement stored procedures and functions for database logic. Use when creating reusable database routines, complex queries, or server-side calculations.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/stored-procedures/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:09:38.725Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fstored-procedures%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_53ce5ec6eaf3"
+  }
+}

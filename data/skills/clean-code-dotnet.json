@@ -1,0 +1,35 @@
+{
+  "id": "clean-code-dotnet",
+  "name": "clean-code-dotnet",
+  "version": "1.0.0",
+  "summary": "Clean Code principles adapted for C#/.NET including naming, variables, functions, SOLID, error handling, and async patterns. Use when: (1) reviewing C# code, (2) refactoring for...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/clean-code-dotnet/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.697Z",
+  "created_at": "2025-12-22T22:01:13.815Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fclean-code-dotnet%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.697Z",
+    "uniqueId": "sk_5b73e6d85806"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "claude-code-plugin-dev",
+  "name": "claude-code-plugin-dev",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for building, testing, and distributing Claude Code plugins including slash commands, Agent Skills, subagents, MCP servers, and hooks. Use this when the user...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julep-ai",
+    "github": "julep-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julep-ai/vibesafe",
+    "skill_md": "https://raw.githubusercontent.com/julep-ai/vibesafe/main/.claude/skills/claude-code-plugin-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:14.399Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julep-ai%2Fvibesafe/.claude%2Fskills%2Fclaude-code-plugin-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_8a5c0d02914b"
+  }
+}

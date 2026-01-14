@@ -1,0 +1,36 @@
+{
+  "id": "svelte-runes",
+  "name": "svelte-runes",
+  "version": "1.0.0",
+  "summary": "Svelte runes guidance. Use for reactive state, props, effects, attachments, or migration. Covers $state, $derived, $effect, @attach. Prevents reactivity mistakes.",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "spences10",
+    "github": "spences10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/spences10/svelte-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/spences10/svelte-claude-skills/main/.claude/skills/svelte-runes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T19:06:27.000Z",
+  "created_at": "2025-12-23T01:28:36.630Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/spences10%2Fsvelte-claude-skills/.claude%2Fskills%2Fsvelte-runes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_80ebe83f2d48"
+  }
+}

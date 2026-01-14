@@ -1,0 +1,36 @@
+{
+  "id": "migrating-apis",
+  "name": "migrating-apis",
+  "version": "1.0.0",
+  "summary": "Migrate APIs between versions, platforms, or frameworks with minimal downtime.\nUse when upgrading APIs between versions.\nTrigger with phrases like \"migrate the API\", \"upgrade AP...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/api-development/api-migration-tool/skills/api-migration-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:30.787Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Fapi-development%2Fapi-migration-tool%2Fskills%2Fapi-migration-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_227920a02155"
+  }
+}

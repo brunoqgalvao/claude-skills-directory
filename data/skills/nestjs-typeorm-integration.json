@@ -1,0 +1,36 @@
+{
+  "id": "nestjs-typeorm-integration",
+  "name": "nestjs-typeorm-integration",
+  "version": "1.0.0",
+  "summary": "Use this skill whenever the user wants to set up, configure, or refactor TypeORM within a NestJS TypeScript project, including data sources, entities, migrations, repositories, ...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentiveCity",
+    "github": "AgentiveCity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentiveCity/SkillFactory",
+    "skill_md": "https://raw.githubusercontent.com/AgentiveCity/SkillFactory/main/.claude/skills/nestjs-typeorm-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:16:18.714Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentiveCity%2FSkillFactory/.claude%2Fskills%2Fnestjs-typeorm-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_ae387e4b0dd3"
+  }
+}

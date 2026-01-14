@@ -1,0 +1,36 @@
+{
+  "id": "read-avro-files",
+  "name": "read-avro-files",
+  "version": "1.0.0",
+  "summary": "Extracts and displays JSON data from Apache Avro files. Use this when the user wants to read, convert, or view the contents of an .avro file. Automatically deserializes nested J...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ranjanpoudel1234",
+    "github": "ranjanpoudel1234"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ranjanpoudel1234/ai-tools",
+    "skill_md": "https://raw.githubusercontent.com/ranjanpoudel1234/ai-tools/main/ClaudeCode/configuration/skills/read-avro-files/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:07:33.713Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ranjanpoudel1234%2Fai-tools/ClaudeCode%2Fconfiguration%2Fskills%2Fread-avro-files%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_715cb31f0ccb"
+  }
+}

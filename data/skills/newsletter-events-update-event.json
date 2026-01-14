@@ -1,0 +1,35 @@
+{
+  "id": "newsletter-events-update-event",
+  "name": "newsletter-events-update-event",
+  "version": "1.0.0",
+  "summary": "Manually refresh specific event pages to update event data",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aniketpanjwani",
+    "github": "aniketpanjwani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aniketpanjwani/local_media_tools",
+    "skill_md": "https://raw.githubusercontent.com/aniketpanjwani/local_media_tools/main/skills/newsletter-events-update-event/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:59:20.087Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aniketpanjwani%2Flocal_media_tools/skills%2Fnewsletter-events-update-event%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_e473f824f5ca"
+  }
+}

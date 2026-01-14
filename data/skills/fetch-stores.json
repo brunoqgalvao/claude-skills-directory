@@ -1,0 +1,36 @@
+{
+  "id": "fetch-stores",
+  "name": "fetch-stores",
+  "version": "1.0.0",
+  "summary": "Fetch store leads from Google Maps using Dumpling AI API. Use this skill when the user wants to search for businesses, stores, restaurants, or any places on Google Maps.",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-cookbooks/main/103-fetch-stores/claude-fetch-stores/skills/fetch-stores/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T09:31:47.000Z",
+  "created_at": "2025-12-23T01:28:34.568Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-cookbooks/103-fetch-stores%2Fclaude-fetch-stores%2Fskills%2Ffetch-stores%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_db8c22b69f7d"
+  }
+}

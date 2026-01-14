@@ -1,0 +1,35 @@
+{
+  "id": "commit-drafter",
+  "name": "commit-drafter",
+  "version": "1.0.0",
+  "summary": "Automatically draft commit messages by analyzing git status and staged changes",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AbeJitsu",
+    "github": "AbeJitsu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AbeJitsu/Learn-Claude-Code",
+    "skill_md": "https://raw.githubusercontent.com/AbeJitsu/Learn-Claude-Code/main/skills/commit-drafter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:03:28.831Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AbeJitsu%2FLearn-Claude-Code/skills%2Fcommit-drafter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_6a04e571d22d"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "plugin-architecture-patterns",
+  "name": "plugin-architecture-patterns",
+  "version": "1.0.0",
+  "summary": "Clean architecture patterns for JUCE plugins including separation of concerns, APVTS patterns, state management, preset systems, MIDI handling, and modulation routing. Use when ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yebot",
+    "github": "yebot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yebot/rad-cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/yebot/rad-cc-plugins/main/plugins/juce-dev-team/skills/plugin-architecture-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:42.707Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yebot%2Frad-cc-plugins/plugins%2Fjuce-dev-team%2Fskills%2Fplugin-architecture-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_898144985e31"
+  }
+}

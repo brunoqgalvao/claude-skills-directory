@@ -1,0 +1,35 @@
+{
+  "id": "ide",
+  "name": "ide",
+  "version": "1.0.0",
+  "summary": "How to integrate Claude Code with VS Code and JetBrains IDEs. Use when user asks about IDE integration, VS Code extension, JetBrains plugin, or IDE setup.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reggiechan74",
+    "github": "reggiechan74"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reggiechan74/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/reggiechan74/claude-plugins/main/plugins/claude-code-metaskill/skills/ide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:10.984Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reggiechan74%2Fclaude-plugins/plugins%2Fclaude-code-metaskill%2Fskills%2Fide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_1237b329883c"
+  }
+}

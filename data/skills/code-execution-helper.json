@@ -1,0 +1,37 @@
+{
+  "id": "code-execution-helper",
+  "name": "code-execution-helper",
+  "version": "1.0.0",
+  "summary": "Guide for using code execution capabilities to perform parallel batch processing, conditional filtering, and data aggregation. This skill should be used when agents need to anal...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "davidmatousek",
+    "github": "davidmatousek"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/davidmatousek/product-led-spec-kit",
+    "skill_md": "https://raw.githubusercontent.com/davidmatousek/product-led-spec-kit/main/.claude/skills/code-execution-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.657Z",
+  "created_at": "2025-12-22T22:58:31.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/davidmatousek%2Fproduct-led-spec-kit/.claude%2Fskills%2Fcode-execution-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.657Z",
+    "uniqueId": "sk_4aba1dc5454f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "shortcut-api-lookup",
+  "name": "shortcut-api-lookup",
+  "version": "1.0.0",
+  "summary": "Look up Shortcut REST API methods, schemas, and signatures. Use this instead of fetching the documentation webpages.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jinnovation",
+    "github": "jinnovation"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jinnovation/shortcut.el",
+    "skill_md": "https://raw.githubusercontent.com/jinnovation/shortcut.el/main/.claude/skills/shortcut-api-lookup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T20:25:54.000Z",
+  "created_at": "2025-12-23T01:28:14.751Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jinnovation%2Fshortcut.el/.claude%2Fskills%2Fshortcut-api-lookup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.582Z",
+    "uniqueId": "sk_ab9508c25dc7"
+  }
+}

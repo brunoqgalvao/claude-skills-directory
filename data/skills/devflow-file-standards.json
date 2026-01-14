@@ -1,0 +1,35 @@
+{
+  "id": "devflow-file-standards",
+  "name": "devflow-file-standards",
+  "version": "1.0.0",
+  "summary": "File naming conventions, directory structure, and YAML frontmatter standards for CC-DevFlow. Consolidates shared conventions from all agents.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Dimon94",
+    "github": "Dimon94"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Dimon94/cc-devflow",
+    "skill_md": "https://raw.githubusercontent.com/Dimon94/cc-devflow/main/.claude/skills/devflow-file-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T21:00:06.584Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Dimon94%2Fcc-devflow/.claude%2Fskills%2Fdevflow-file-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_e0a5c871e397"
+  }
+}

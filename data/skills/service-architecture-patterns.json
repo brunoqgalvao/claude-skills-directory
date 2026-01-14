@@ -1,0 +1,37 @@
+{
+  "id": "service-architecture-patterns",
+  "name": "service-architecture-patterns",
+  "version": "1.0.0",
+  "summary": "Modular design pattern for external service integrations (CAPTCHA, payment, SMS, file storage, analytics). Use when implementing third-party services, designing service abstract...",
+  "verticals": [
+    "finance",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SlavaMelanko",
+    "github": "SlavaMelanko"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SlavaMelanko/smela-back",
+    "skill_md": "https://raw.githubusercontent.com/SlavaMelanko/smela-back/main/.claude/skills/service-architecture-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:54:36.799Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SlavaMelanko%2Fsmela-back/.claude%2Fskills%2Fservice-architecture-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_1bde93fd9a50"
+  }
+}

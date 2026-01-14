@@ -1,0 +1,36 @@
+{
+  "id": "jira-workflow",
+  "name": "jira-workflow",
+  "version": "1.0.0",
+  "summary": "Create and manage Jira tickets with Carefeed conventions. Auto-infers project (CORE, INT, PAYM, APP), type (Bug, Task, Story), and priority from description. Use when user menti...",
+  "verticals": [
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thehammer",
+    "github": "thehammer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thehammer/claude_code",
+    "skill_md": "https://raw.githubusercontent.com/thehammer/claude_code/main/skills/jira-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T16:32:08.000Z",
+  "created_at": "2025-12-23T01:28:59.275Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thehammer%2Fclaude_code/skills%2Fjira-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.533Z",
+    "uniqueId": "sk_f5856db181de"
+  }
+}

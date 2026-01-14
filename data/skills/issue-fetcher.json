@@ -1,0 +1,35 @@
+{
+  "id": "issue-fetcher",
+  "name": "issue-fetcher",
+  "version": "1.0.0",
+  "summary": "Fetch and analyze GitHub issues from the monorepo. Use when user asks about issues, what's blocking, issue status, dependencies, or wants to see issue details.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rollercoaster-dev",
+    "github": "rollercoaster-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rollercoaster-dev/monorepo",
+    "skill_md": "https://raw.githubusercontent.com/rollercoaster-dev/monorepo/main/.claude/skills/issue-fetcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:16.385Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rollercoaster-dev%2Fmonorepo/.claude%2Fskills%2Fissue-fetcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_158e6bdb49de"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "lde-law-card",
+  "name": "lde-law-card",
+  "version": "1.0.0",
+  "summary": "LDE（Law-Driven Engineering）のLaw Card作成スキル。\nビジネス上の「守るべき条件」を標準フォーマットで文書化する。\n使用タイミング: (1) 新しいLawを追加する時、(2) 既存Lawを更新する時、\n(3) Law Catalogに新規エントリを追加する時、(4) Grounding Mapを更新する時",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/lde-law-card/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:51.593Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Flde-law-card%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_1aab5b96e9f5"
+  }
+}

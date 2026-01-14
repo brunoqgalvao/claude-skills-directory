@@ -1,0 +1,35 @@
+{
+  "id": "channel-info",
+  "name": "channel-info",
+  "version": "1.0.0",
+  "summary": "Check available messaging channels, channel capabilities, and channel configuration for Sinch Conversation API. Use when the user asks which channels are available, what channel...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sinch",
+    "github": "sinch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sinch/sinch-plugins",
+    "skill_md": "https://raw.githubusercontent.com/sinch/sinch-plugins/main/plugins/sinch-claude-plugin/skills/channel-info/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:58:49.865Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sinch%2Fsinch-plugins/plugins%2Fsinch-claude-plugin%2Fskills%2Fchannel-info%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_1dfe30b81b00"
+  }
+}

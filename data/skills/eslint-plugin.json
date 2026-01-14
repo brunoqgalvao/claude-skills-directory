@@ -1,0 +1,36 @@
+{
+  "id": "eslint-plugin",
+  "name": "eslint-plugin",
+  "version": "1.0.0",
+  "summary": "Author custom ESLint plugins and rules with test-driven development. Supports flat config (eslint.config.js) and legacy (.eslintrc.*) formats. Uses @typescript-eslint/rule-teste...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "third774",
+    "github": "third774"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/third774/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/third774/dotfiles/main/opencode/skills/eslint-plugins/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:13:42.404Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/third774%2Fdotfiles/opencode%2Fskills%2Feslint-plugins%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_15a46c89e93f"
+  }
+}

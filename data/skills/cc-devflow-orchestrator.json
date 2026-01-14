@@ -1,0 +1,37 @@
+{
+  "id": "cc-devflow-orchestrator",
+  "name": "cc-devflow-orchestrator",
+  "version": "1.0.0",
+  "summary": "CC-DevFlow workflow router and agent recommender. Use when starting requirements, running flow commands, or asking about devflow processes.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Dimon94",
+    "github": "Dimon94"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Dimon94/cc-devflow",
+    "skill_md": "https://raw.githubusercontent.com/Dimon94/cc-devflow/main/.claude/skills/cc-devflow-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T05:55:04.000Z",
+  "created_at": "2025-12-23T01:29:26.696Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Dimon94%2Fcc-devflow/.claude%2Fskills%2Fcc-devflow-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_045c93291338"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "decisions",
+  "name": "decisions",
+  "version": "1.0.0",
+  "summary": "Structured business decision-making using Tree of Thoughts methodology with expert consultants exploring multiple approaches",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majesticlabs-dev",
+    "github": "majesticlabs-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majesticlabs-dev/majestic-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/majesticlabs-dev/majestic-marketplace/main/plugins/majestic-company/skills/ceo/decisions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T06:15:19.000Z",
+  "created_at": "2025-12-22T18:01:17.253Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majesticlabs-dev%2Fmajestic-marketplace/plugins%2Fmajestic-company%2Fskills%2Fceo%2Fdecisions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_ff3aa879a182"
+  }
+}

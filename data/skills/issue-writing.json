@@ -1,0 +1,36 @@
+{
+  "id": "issue-writing",
+  "name": "issue-writing",
+  "version": "1.0.0",
+  "summary": "Use this skill when writing, reviewing, or discussing issue descriptions, acceptance criteria, or task breakdowns. Ensures consistent, high-quality issue structure that any deve...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jclfocused",
+    "github": "jclfocused"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jclfocused/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/jclfocused/claude-agents/main/custom_plugins/plugins/jira-planning-workflow/skills/issue-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T10:32:39.000Z",
+  "created_at": "2025-12-22T15:53:04.351Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jclfocused%2Fclaude-agents/custom_plugins%2Fplugins%2Fjira-planning-workflow%2Fskills%2Fissue-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_4184b9107bcc"
+  }
+}

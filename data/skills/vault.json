@@ -1,0 +1,35 @@
+{
+  "id": "vault",
+  "name": "vault",
+  "version": "1.0.0",
+  "summary": "Use when user says \"save this\", \"create project\", \"promote from inbox\" - manages Obsidian vault documentation with frontmatter (project/status/type/created), file naming (YYYY-M...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fnichol",
+    "github": "fnichol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fnichol/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fnichol/claude-code-plugins/main/plugins/obsidian/skills/vault/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T04:18:19.000Z",
+  "created_at": "2025-12-22T20:05:42.095Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fnichol%2Fclaude-code-plugins/plugins%2Fobsidian%2Fskills%2Fvault%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_d843e8fad4f8"
+  }
+}

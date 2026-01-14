@@ -1,0 +1,36 @@
+{
+  "id": "threat-report-evaluation",
+  "name": "threat-report-evaluation",
+  "version": "1.0.0",
+  "summary": "Evaluate threat reports, breach analyses, and IOC reports to search for compromise indicators across LimaCharlie organizations. Extract IOCs (hashes, domains, IPs, file paths), ...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "refractionPOINT",
+    "github": "refractionPOINT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/refractionPOINT/lc-ai",
+    "skill_md": "https://raw.githubusercontent.com/refractionPOINT/lc-ai/main/marketplace/plugins/lc-essentials/skills/threat-report-evaluation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.694Z",
+  "created_at": "2025-12-22T22:03:58.411Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/refractionPOINT%2Flc-ai/marketplace%2Fplugins%2Flc-essentials%2Fskills%2Fthreat-report-evaluation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.694Z",
+    "uniqueId": "sk_27aeed90033f"
+  }
+}

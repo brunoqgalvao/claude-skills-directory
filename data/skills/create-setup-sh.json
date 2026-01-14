@@ -1,0 +1,35 @@
+{
+  "id": "create-setup-sh",
+  "name": "create-setup-sh",
+  "version": "1.0.0",
+  "summary": "프로젝트 초기화 스크립트(init.sh)와 정리 스크립트(clear.sh)를 생성합니다. lint/typecheck 상태 확인 및 개발 서버 실행을 자동화합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seonghyeonkimm",
+    "github": "seonghyeonkimm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seonghyeonkimm/agents",
+    "skill_md": "https://raw.githubusercontent.com/seonghyeonkimm/agents/main/plugins/ai-workflow/skills/create-setup-sh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:12.996Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seonghyeonkimm%2Fagents/plugins%2Fai-workflow%2Fskills%2Fcreate-setup-sh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_4aa60ef30907"
+  }
+}

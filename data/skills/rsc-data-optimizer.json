@@ -1,0 +1,36 @@
+{
+  "id": "rsc-data-optimizer",
+  "name": "rsc-data-optimizer",
+  "version": "1.0.0",
+  "summary": "Optimize Next.js App Router data fetching by converting slow client-side \nfetching to fast server-side fetching using React Server Components (RSC).\n\nUse when:\n- User reports sl...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "h4v1d",
+    "github": "h4v1d"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/h4v1d/extension-collection-geminicli",
+    "skill_md": "https://raw.githubusercontent.com/h4v1d/extension-collection-geminicli/main/rsc-data-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.444Z",
+  "created_at": "2025-12-22T16:05:33.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/h4v1d%2Fextension-collection-geminicli/rsc-data-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.444Z",
+    "uniqueId": "sk_9ba5484c97b4"
+  }
+}

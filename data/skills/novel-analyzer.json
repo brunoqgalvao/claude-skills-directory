@@ -1,0 +1,35 @@
+{
+  "id": "novel-analyzer",
+  "name": "novel-analyzer",
+  "version": "1.0.0",
+  "summary": "四阶段小说精读分析工作流。用于深度分析长篇小说的情节、人物、文风和主题。触发条件：用户请求分析/精读/深度解读小说文本，或需要生成文学分析报告、人物弧光追踪、文风研究、角色档案。执行流程：粗读提取元数据 → 并行精读分块（自动计算分块数和边界）→ 整合生成中文深度报告 → (可选)生成角色档案。输出包含情节梳理、人物列传、文体分析、修辞手法、黄金语录、...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "waylon256yhw",
+    "github": "waylon256yhw"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/waylon256yhw/novel-analysis-skill",
+    "skill_md": "https://raw.githubusercontent.com/waylon256yhw/novel-analysis-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:38.875Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/waylon256yhw%2Fnovel-analysis-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_b8f2ae6b2a48"
+  }
+}

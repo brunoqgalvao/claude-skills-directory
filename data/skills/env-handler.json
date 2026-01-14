@@ -1,0 +1,35 @@
+{
+  "id": "env-handler",
+  "name": "env-handler",
+  "version": "1.0.0",
+  "summary": "Manage environment variables securely. Handles distinction between .env (template) and .env.local (secrets).",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AayushBaniya2006",
+    "github": "AayushBaniya2006"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AayushBaniya2006/blinkfund",
+    "skill_md": "https://raw.githubusercontent.com/AayushBaniya2006/blinkfund/main/.claude/skills/env-handler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:56.303Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AayushBaniya2006%2Fblinkfund/.claude%2Fskills%2Fenv-handler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_d4c80a1b161f"
+  }
+}

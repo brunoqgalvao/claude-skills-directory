@@ -1,0 +1,37 @@
+{
+  "id": "hud-first",
+  "name": "hud-first",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"build an AI assistant\", \"create a chatbot\", \"make an agent that does X for me\", \"design a copilot feature\", \"automate this workf...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kylesnowschwartz",
+    "github": "kylesnowschwartz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kylesnowschwartz/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/kylesnowschwartz/dotfiles/main/claude/skills/hud-first/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:57:53.971Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kylesnowschwartz%2Fdotfiles/claude%2Fskills%2Fhud-first%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_adb3de4e8587"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "agent-selection",
+  "name": "agent-selection",
+  "version": "1.0.0",
+  "summary": "Systematic framework for selecting the optimal specialized agent for any task. Use when delegating to subagents via the Task tool to ensure the most appropriate specialist is ch...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "michael-h-patrianna",
+    "github": "michael-h-patrianna"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/michael-h-patrianna/chain-offer-mock",
+    "skill_md": "https://raw.githubusercontent.com/michael-h-patrianna/chain-offer-mock/main/.claude/skills/agent-selection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:09:40.801Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/michael-h-patrianna%2Fchain-offer-mock/.claude%2Fskills%2Fagent-selection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_8b8c06c495ee"
+  }
+}

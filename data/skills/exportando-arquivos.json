@@ -1,0 +1,35 @@
+{
+  "id": "exportando-arquivos",
+  "name": "exportando-arquivos",
+  "version": "1.0.0",
+  "summary": "Gera arquivos Excel, CSV ou JSON para download pelo usuario. Use quando o usuario pedir para exportar dados, criar planilha, gerar relatorio ou baixar informacoes. SEMPRE use es...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Rafael-2109",
+    "github": "Rafael-2109"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Rafael-2109/frete-sistema",
+    "skill_md": "https://raw.githubusercontent.com/Rafael-2109/frete-sistema/main/.claude/skills/exportando-arquivos/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T16:57:52.000Z",
+  "created_at": "2025-12-23T01:28:56.464Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Rafael-2109%2Ffrete-sistema/.claude%2Fskills%2Fexportando-arquivos%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.536Z",
+    "uniqueId": "sk_082c21bf2e4f"
+  }
+}

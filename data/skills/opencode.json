@@ -1,0 +1,36 @@
+{
+  "id": "opencode",
+  "name": "opencode",
+  "version": "1.0.0",
+  "summary": "Expertise for using OpenCode (an open-source AI coding agent) and building client applications that interact with the OpenCode HTTP server. Use this skill when the user asks abo...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "titonio",
+    "github": "titonio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/titonio/opencode-jb",
+    "skill_md": "https://raw.githubusercontent.com/titonio/opencode-jb/main/.claude/skills/opencode/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.855Z",
+  "created_at": "2025-12-22T15:52:33.959Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/titonio%2Fopencode-jb/.claude%2Fskills%2Fopencode%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_30a1b28b71e9"
+  }
+}

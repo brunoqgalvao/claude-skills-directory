@@ -1,0 +1,36 @@
+{
+  "id": "test-backend-router",
+  "name": "test-backend-router",
+  "version": "1.0.0",
+  "summary": "Test implementation of thin router skill for DiPeO backend. Provides decision criteria and documentation anchors for FastAPI server, CLI (dipeo run/results/metrics/compile/expor...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sorryhyun",
+    "github": "sorryhyun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sorryhyun/DiPeO",
+    "skill_md": "https://raw.githubusercontent.com/sorryhyun/DiPeO/main/.claude/skills/test-backend-router/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:06:38.959Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sorryhyun%2FDiPeO/.claude%2Fskills%2Ftest-backend-router%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_ef6cee95ff57"
+  }
+}

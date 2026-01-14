@@ -1,0 +1,36 @@
+{
+  "id": "network-framework-ref",
+  "name": "network-framework-ref",
+  "version": "1.0.0",
+  "summary": "Reference — Comprehensive Network.framework guide covering NetworkConnection (iOS 26+), NWConnection (iOS 12-25), TLV framing, Coder protocol, NetworkListener, NetworkBrowser, W...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CharlesWiltgen",
+    "github": "CharlesWiltgen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CharlesWiltgen/Axiom",
+    "skill_md": "https://raw.githubusercontent.com/CharlesWiltgen/Axiom/main/.claude-plugin/plugins/axiom/skills/network-framework-ref/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.467Z",
+  "created_at": "2025-12-23T01:30:54.262Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CharlesWiltgen%2FAxiom/.claude-plugin%2Fplugins%2Faxiom%2Fskills%2Fnetwork-framework-ref%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_391b4bfc7a42"
+  }
+}

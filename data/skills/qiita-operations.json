@@ -1,0 +1,35 @@
+{
+  "id": "qiita-operations",
+  "name": "qiita-operations",
+  "version": "1.0.0",
+  "summary": "Qiita CLI操作とワークフローの共通知識。記事作成、公開状態変更、プレビュー時に参照。",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "toku345",
+    "github": "toku345"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/toku345/qiita-contents",
+    "skill_md": "https://raw.githubusercontent.com/toku345/qiita-contents/main/.claude/skills/qiita-operations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:43.709Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/toku345%2Fqiita-contents/.claude%2Fskills%2Fqiita-operations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_39a5ad883878"
+  }
+}

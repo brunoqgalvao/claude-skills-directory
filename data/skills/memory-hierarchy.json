@@ -1,0 +1,36 @@
+{
+  "id": "memory-hierarchy",
+  "name": "memory-hierarchy",
+  "version": "1.0.0",
+  "summary": "Complete reference for Claude Code's memory management system including all file types, locations, import syntax, and best practices. Use when planning or managing CLAUDE.md and...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yebot",
+    "github": "yebot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yebot/rad-cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/yebot/rad-cc-plugins/main/plugins/documentation-tools/skills/memory-hierarchy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.513Z",
+  "created_at": "2025-12-23T01:29:14.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yebot%2Frad-cc-plugins/plugins%2Fdocumentation-tools%2Fskills%2Fmemory-hierarchy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_8af3e3d928e5"
+  }
+}

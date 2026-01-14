@@ -1,0 +1,35 @@
+{
+  "id": "venv-manager",
+  "name": "venv-manager",
+  "version": "1.0.0",
+  "summary": "Create, manage, and validate Python virtual environments. Use for project isolation and dependency management.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/agentic/code/frameworks/sdlc-complete/extensions/python/skills/venv-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T02:18:02.000Z",
+  "created_at": "2025-12-23T01:28:51.069Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/agentic%2Fcode%2Fframeworks%2Fsdlc-complete%2Fextensions%2Fpython%2Fskills%2Fvenv-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.548Z",
+    "uniqueId": "sk_0f0607646bd7"
+  }
+}

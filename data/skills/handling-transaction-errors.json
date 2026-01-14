@@ -1,0 +1,35 @@
+{
+  "id": "handling-transaction-errors",
+  "name": "handling-transaction-errors",
+  "version": "1.0.0",
+  "summary": "Handle transaction errors properly with P-code checking and timeout configuration. Use when implementing transaction error recovery.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/prisma-6/skills/handling-transaction-errors/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:31.489Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/prisma-6%2Fskills%2Fhandling-transaction-errors%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_a85bb0a60cf4"
+  }
+}

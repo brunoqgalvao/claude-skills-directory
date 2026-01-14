@@ -1,0 +1,36 @@
+{
+  "id": "magentaa11y",
+  "name": "magentaa11y",
+  "version": "1.0.0",
+  "summary": "MagentaA11y accessibility acceptance criteria reference. Use this skill when users ask for accessibility criteria, acceptance criteria (AC), Gherkin tests, developer notes, or h...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joe-watkins",
+    "github": "joe-watkins"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joe-watkins/a11y-skills",
+    "skill_md": "https://raw.githubusercontent.com/joe-watkins/a11y-skills/main/magentaa11y/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:54.387Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joe-watkins%2Fa11y-skills/magentaa11y%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_351a4897af15"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "analyzing-database-indexes",
+  "name": "analyzing-database-indexes",
+  "version": "1.0.0",
+  "summary": "This skill uses the database-index-advisor plugin to analyze query patterns and recommend optimal database indexes. It identifies missing indexes to improve query performance an...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/database/database-index-advisor/skills/database-index-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T07:07:39.000Z",
+  "created_at": "2025-12-22T15:58:57.625Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskills-migration-20251108-070147%2Fplugins%2Fdatabase%2Fdatabase-index-advisor%2Fskills%2Fdatabase-index-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_829076c18059"
+  }
+}

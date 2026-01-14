@@ -1,0 +1,35 @@
+{
+  "id": "game-architect",
+  "name": "game-architect",
+  "version": "1.0.0",
+  "summary": "Validate codebase architecture and organization before releases. Use when user asks to 'check architecture', 'validate structure', 'pre-release check', or before versioning.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sunholo-data",
+    "github": "sunholo-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sunholo-data/stapledons_voyage",
+    "skill_md": "https://raw.githubusercontent.com/sunholo-data/stapledons_voyage/main/.claude/skills/game-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:32.539Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sunholo-data%2Fstapledons_voyage/.claude%2Fskills%2Fgame-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_39cd7fe7cf2c"
+  }
+}

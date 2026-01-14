@@ -1,0 +1,36 @@
+{
+  "id": "atft-autonomy",
+  "name": "atft-autonomy",
+  "version": "1.0.0",
+  "summary": "Coordinate Claude Code skills with OpenAI Codex autonomous workflows for end-to-end ATFT-GAT-FAN maintenance.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wer-inc",
+    "github": "wer-inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wer-inc/gogooku3",
+    "skill_md": "https://raw.githubusercontent.com/wer-inc/gogooku3/main/claude/skills/atft-autonomy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T15:04:32.000Z",
+  "created_at": "2025-12-23T01:28:48.973Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wer-inc%2Fgogooku3/claude%2Fskills%2Fatft-autonomy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_442cc0a06219"
+  }
+}

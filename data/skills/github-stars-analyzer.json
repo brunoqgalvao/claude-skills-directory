@@ -1,0 +1,35 @@
+{
+  "id": "github-stars-analyzer",
+  "name": "github-stars-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes GitHub repository data to generate comprehensive research reports about stars, popularity trends, and comparative insights",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chaorenex1",
+    "github": "chaorenex1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chaorenex1/coding-agent-workflow",
+    "skill_md": "https://raw.githubusercontent.com/chaorenex1/coding-agent-workflow/main/skills/github-stars-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T17:16:07.000Z",
+  "created_at": "2025-12-23T01:28:47.602Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chaorenex1%2Fcoding-agent-workflow/skills%2Fgithub-stars-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_1f6239b88ede"
+  }
+}

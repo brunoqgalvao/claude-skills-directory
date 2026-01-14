@@ -1,0 +1,35 @@
+{
+  "id": "agent-detector",
+  "name": "agent-detector",
+  "version": "1.0.0",
+  "summary": "CRITICAL: MUST run for EVERY message. Detects which specialized agent should handle the request using multi-layer scoring. Always runs FIRST before any other skill.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nguyenthienthanh",
+    "github": "nguyenthienthanh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nguyenthienthanh/aura-frog",
+    "skill_md": "https://raw.githubusercontent.com/nguyenthienthanh/aura-frog/main/aura-frog/skills/agent-detector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T17:34:22.000Z",
+  "created_at": "2025-12-23T01:29:28.036Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nguyenthienthanh%2Faura-frog/aura-frog%2Fskills%2Fagent-detector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_5e9f6747c1c5"
+  }
+}

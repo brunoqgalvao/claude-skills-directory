@@ -1,0 +1,37 @@
+{
+  "id": "backend-debugging",
+  "name": "backend-debugging",
+  "version": "1.0.0",
+  "summary": "Systematic debugging for Encore.ts backend incidents using diagnostic scripts, database queries, and structured logging. Use when backend tests fail, services crash, or async fl...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nirukk52",
+    "github": "nirukk52"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nirukk52/ScreenGraph",
+    "skill_md": "https://raw.githubusercontent.com/nirukk52/ScreenGraph/main/.claude-skills/backend-debugging_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T07:36:35.000Z",
+  "created_at": "2025-12-22T16:06:48.284Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nirukk52%2FScreenGraph/.claude-skills%2Fbackend-debugging_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_f7f509a62a32"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "kindle-capture",
+  "name": "kindle-capture",
+  "version": "1.0.0",
+  "summary": "Kindle Web ReaderからスクリーンショットをキャプチャしてPDF生成。書籍名やASIN指定でKindle本を自動PDF化。Kindleライブラリから書籍検索、PlaywrightでKindleページ自動取得、PNG画像からPDF変換、レイアウト設定（single/double）、範囲指定、品質調整、リサイズに対応。「githubの本」など...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Tsunoda-s-FT",
+    "github": "Tsunoda-s-FT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Tsunoda-s-FT/kindle-app",
+    "skill_md": "https://raw.githubusercontent.com/Tsunoda-s-FT/kindle-app/main/.claude/skills/kindle-capture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:49.699Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Tsunoda-s-FT%2Fkindle-app/.claude%2Fskills%2Fkindle-capture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_16510bde3403"
+  }
+}

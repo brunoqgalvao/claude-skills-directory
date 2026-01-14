@@ -1,0 +1,37 @@
+{
+  "id": "opentrons-integration",
+  "name": "opentrons-integration",
+  "version": "1.0.0",
+  "summary": "Lab automation platform for Flex/OT-2 robots. Write Protocol API v2 protocols, liquid handling, hardware modules (heater-shaker, thermocycler), labware management, for automated...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lifangda",
+    "github": "lifangda"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lifangda/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/lifangda/claude-plugins/main/cli-tool/skills-library/scientific-integrations/opentrons-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T01:33:37.000Z",
+  "created_at": "2025-12-22T22:12:58.445Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lifangda%2Fclaude-plugins/cli-tool%2Fskills-library%2Fscientific-integrations%2Fopentrons-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.438Z",
+    "uniqueId": "sk_d72fdd23f1f5"
+  }
+}

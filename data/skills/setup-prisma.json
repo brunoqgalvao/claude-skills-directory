@@ -1,0 +1,35 @@
+{
+  "id": "setup-prisma",
+  "name": "setup-prisma",
+  "version": "1.0.0",
+  "summary": "Prisma 스키마 및 마이그레이션 설정. Use when: Prisma 초기 설정 및 서비스별 스키마 구성 필요 시",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/ms/skills/setup-prisma/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:01:57.733Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fms%2Fskills%2Fsetup-prisma%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_0306192c1cd7"
+  }
+}

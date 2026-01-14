@@ -1,0 +1,35 @@
+{
+  "id": "location-services",
+  "name": "location-services",
+  "version": "1.0.0",
+  "summary": "GPS tracking, geofencing, and nearby station detection for LiveMetro. Use when implementing location-based features.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "k002bill2",
+    "github": "k002bill2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/k002bill2/LiveMetro",
+    "skill_md": "https://raw.githubusercontent.com/k002bill2/LiveMetro/main/.claude/skills/location-services/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:14.992Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/k002bill2%2FLiveMetro/.claude%2Fskills%2Flocation-services%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_5bede08e0e30"
+  }
+}

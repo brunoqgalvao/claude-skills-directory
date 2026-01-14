@@ -1,0 +1,35 @@
+{
+  "id": "board-status",
+  "name": "board-status",
+  "version": "1.0.0",
+  "summary": "Check GitHub Project board status for the monorepo. Use when user asks about board status, what's in progress, sprint status, or issue tracking.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rollercoaster-dev",
+    "github": "rollercoaster-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rollercoaster-dev/monorepo",
+    "skill_md": "https://raw.githubusercontent.com/rollercoaster-dev/monorepo/main/.claude/skills/board-status/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T21:21:19.000Z",
+  "created_at": "2025-12-22T15:09:17.816Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rollercoaster-dev%2Fmonorepo/.claude%2Fskills%2Fboard-status%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_1b82a7cb8b11"
+  }
+}

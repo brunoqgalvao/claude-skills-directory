@@ -1,0 +1,35 @@
+{
+  "id": "funsloth-train",
+  "name": "funsloth-train",
+  "version": "1.0.0",
+  "summary": "Generate Unsloth training notebooks and scripts. Use when the user wants to create a training notebook, configure fine-tuning parameters, or set up SFT/DPO/GRPO training.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chrisvoncsefalvay",
+    "github": "chrisvoncsefalvay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chrisvoncsefalvay/funsloth",
+    "skill_md": "https://raw.githubusercontent.com/chrisvoncsefalvay/funsloth/main/skills/funsloth-train/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T05:06:37.000Z",
+  "created_at": "2025-12-23T01:28:47.529Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chrisvoncsefalvay%2Ffunsloth/skills%2Ffunsloth-train%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.553Z",
+    "uniqueId": "sk_ff175e373e97"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sonnet",
+  "name": "sonnet",
+  "version": "1.0.0",
+  "summary": "Override default model selection for specific subagents to use Sonnet instead of Opus. Use ONLY when the user explicitly requests to use Sonnet model for Plan, code-reviewer, co...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rumor-ml",
+    "github": "rumor-ml"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rumor-ml/commons.systems",
+    "skill_md": "https://raw.githubusercontent.com/rumor-ml/commons.systems/main/.claude/skills/sonnet/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T22:33:49.000Z",
+  "created_at": "2025-12-22T15:51:02.525Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rumor-ml%2Fcommons.systems/.claude%2Fskills%2Fsonnet%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_ff45db428ed3"
+  }
+}

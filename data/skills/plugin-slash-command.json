@@ -1,0 +1,35 @@
+{
+  "id": "plugin-slash-command",
+  "name": "plugin-slash-command",
+  "version": "1.0.0",
+  "summary": "Generate new Navigator slash commands following project conventions. Use when user says \"add slash command\", \"create command\", \"new /nav command\", or \"add /nav:[name] command\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alekspetrov",
+    "github": "alekspetrov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alekspetrov/navigator",
+    "skill_md": "https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/plugin-slash-command/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:16:37.916Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alekspetrov%2Fnavigator/skills%2Fplugin-slash-command%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_da9bfbcf906e"
+  }
+}

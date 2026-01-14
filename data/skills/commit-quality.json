@@ -1,0 +1,35 @@
+{
+  "id": "commit-quality",
+  "name": "commit-quality",
+  "version": "1.0.0",
+  "summary": "Run quality checks and create properly formatted git commits. Use before committing code to ensure quality standards are met and commit messages follow project conventions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "claimhawk",
+    "github": "claimhawk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/claimhawk/shebang",
+    "skill_md": "https://raw.githubusercontent.com/claimhawk/shebang/main/.claude/skills/commit-quality/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.866Z",
+  "created_at": "2025-12-22T15:04:57.782Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/claimhawk%2Fshebang/.claude%2Fskills%2Fcommit-quality%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.866Z",
+    "uniqueId": "sk_f7172af21f47"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "md2html",
+  "name": "md2html",
+  "version": "1.0.0",
+  "summary": "Convert markdown documents to HTML format for website publishing with dark theme styling, image conversion (Excalidraw to PNG/SVG), and proper frontmatter handling",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jykim",
+    "github": "jykim"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jykim/AI4BM",
+    "skill_md": "https://raw.githubusercontent.com/jykim/AI4BM/main/_Settings_/Skills/md2html/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T23:04:08.000Z",
+  "created_at": "2025-12-22T20:00:31.431Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jykim%2FAI4BM/_Settings_%2FSkills%2Fmd2html%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_e165b3bf8949"
+  }
+}

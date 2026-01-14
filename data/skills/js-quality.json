@@ -1,0 +1,36 @@
+{
+  "id": "js-quality",
+  "name": "js-quality",
+  "version": "1.0.0",
+  "summary": "Interpretive guidance for JavaScript/TypeScript code quality using biome (modern) or eslint+prettier (traditional). Use when linting JS/TS files, configuring JS/TS tools, troubl...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "racurry",
+    "github": "racurry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/racurry/neat-little-package",
+    "skill_md": "https://raw.githubusercontent.com/racurry/neat-little-package/main/plugins/mr-sparkle/skills/js-quality/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.484Z",
+  "created_at": "2025-12-23T01:29:39.572Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/racurry%2Fneat-little-package/plugins%2Fmr-sparkle%2Fskills%2Fjs-quality%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.484Z",
+    "uniqueId": "sk_5430bcac2d24"
+  }
+}

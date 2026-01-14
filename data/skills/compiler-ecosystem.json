@@ -1,0 +1,35 @@
+{
+  "id": "compiler-ecosystem",
+  "name": "compiler-ecosystem",
+  "version": "1.0.0",
+  "summary": "提供完整的编译器开发生态系统支持，包括ANTLR4语法设计、项目构建、测试、调试和部署。整合编译器开发技能、构建脚本、MCP服务器配置和跨平台开发工具。当用户需要进行编译器项目开发、调试、优化或部署时使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "whtoo",
+    "github": "whtoo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/whtoo/How_to_implment_PL_in_Antlr4",
+    "skill_md": "https://raw.githubusercontent.com/whtoo/How_to_implment_PL_in_Antlr4/main/.claude/skills/compiler-ecosystem/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T16:01:04.000Z",
+  "created_at": "2025-12-19T20:33:23.482Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/whtoo%2FHow_to_implment_PL_in_Antlr4/.claude%2Fskills%2Fcompiler-ecosystem%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_0565238b48ed"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bigquery-ethereum-data-acquisition",
+  "name": "bigquery-ethereum-data-acquisition",
+  "version": "1.0.0",
+  "summary": "Workflow for acquiring historical Ethereum blockchain data using Google BigQuery free tier. Empirically validated for cost estimation, streaming downloads, and DuckDB integratio...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/gapless-network-data",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/gapless-network-data/main/.claude/skills/bigquery-ethereum-data-acquisition/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.528Z",
+  "created_at": "2025-12-23T01:29:02.717Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fgapless-network-data/.claude%2Fskills%2Fbigquery-ethereum-data-acquisition%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_b6cd612c14a6"
+  }
+}

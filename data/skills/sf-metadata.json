@@ -1,0 +1,36 @@
+{
+  "id": "sf-metadata",
+  "name": "sf-metadata",
+  "version": "1.0.0",
+  "summary": "Generates and queries Salesforce metadata with 120-point scoring. Use when creating custom objects, fields, profiles, permission sets, validation rules, or querying org metadata...",
+  "verticals": [
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jaganpro",
+    "github": "Jaganpro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jaganpro/sf-skills",
+    "skill_md": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-metadata/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:12.255Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jaganpro%2Fsf-skills/sf-metadata%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_9522a697f70b"
+  }
+}

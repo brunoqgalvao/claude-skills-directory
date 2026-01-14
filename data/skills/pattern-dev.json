@@ -1,0 +1,37 @@
+{
+  "id": "pattern-dev",
+  "name": "pattern-dev",
+  "version": "1.0.0",
+  "summary": "Guide for developing CommonTools patterns (TypeScript modules that define reactive data transformations with UI). Use this skill when creating patterns, modifying existing patte...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "commontoolsinc",
+    "github": "commontoolsinc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/commontoolsinc/labs",
+    "skill_md": "https://raw.githubusercontent.com/commontoolsinc/labs/main/.claude/skills/pattern-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T00:29:01.000Z",
+  "created_at": "2025-12-22T21:03:42.077Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/commontoolsinc%2Flabs/.claude%2Fskills%2Fpattern-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_bab28ed4da79"
+  }
+}

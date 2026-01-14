@@ -1,0 +1,37 @@
+{
+  "id": "moai-workflow-spec",
+  "name": "moai-workflow-spec",
+  "version": "1.0.0",
+  "summary": "SPEC workflow orchestration with EARS format, requirement clarification, and Plan-Run-Sync integration for MoAI-ADK development methodology",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "modu-ai",
+    "github": "modu-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/modu-ai/moai-adk",
+    "skill_md": "https://raw.githubusercontent.com/modu-ai/moai-adk/main/src/moai_adk/templates/.claude/skills/moai-workflow-spec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.626Z",
+  "created_at": "2025-12-22T23:16:23.619Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/modu-ai%2Fmoai-adk/src%2Fmoai_adk%2Ftemplates%2F.claude%2Fskills%2Fmoai-workflow-spec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.626Z",
+    "uniqueId": "sk_16419f805505"
+  }
+}

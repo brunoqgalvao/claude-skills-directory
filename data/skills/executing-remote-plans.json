@@ -1,0 +1,35 @@
+{
+  "id": "executing-remote-plans",
+  "name": "executing-remote-plans",
+  "version": "1.0.0",
+  "summary": "Distributed HEC-RAS execution across remote workers (PsExec, Docker, SSH, cloud).\nHandles worker initialization, queue scheduling, and result aggregation. Use when\nsetting up re...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gpt-cmdr",
+    "github": "gpt-cmdr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gpt-cmdr/ras-commander",
+    "skill_md": "https://raw.githubusercontent.com/gpt-cmdr/ras-commander/main/.claude/skills/executing-remote-plans/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T13:36:15.000Z",
+  "created_at": "2025-12-22T21:11:13.264Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gpt-cmdr%2Fras-commander/.claude%2Fskills%2Fexecuting-remote-plans%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_00515851e21b"
+  }
+}

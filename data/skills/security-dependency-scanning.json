@@ -1,0 +1,36 @@
+{
+  "id": "security-dependency-scanning",
+  "name": "security-dependency-scanning",
+  "version": "1.0.0",
+  "summary": "Guide for conducting comprehensive web dependency security scans to identify outdated libraries, CVEs, and security misconfigurations. Use when analyzing deployed websites for d...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "charlesjones-dev",
+    "github": "charlesjones-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/charlesjones-dev/claude-code-plugins-dev",
+    "skill_md": "https://raw.githubusercontent.com/charlesjones-dev/claude-code-plugins-dev/main/plugins/ai-security/skills/security-dependency-scanning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.470Z",
+  "created_at": "2025-12-23T01:30:49.639Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/charlesjones-dev%2Fclaude-code-plugins-dev/plugins%2Fai-security%2Fskills%2Fsecurity-dependency-scanning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.470Z",
+    "uniqueId": "sk_fec76ae0a12b"
+  }
+}

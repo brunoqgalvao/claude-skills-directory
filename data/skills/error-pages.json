@@ -1,0 +1,35 @@
+{
+  "id": "error-pages",
+  "name": "error-pages",
+  "version": "1.0.0",
+  "summary": "Create custom 404 and 500 error pages with brand styling. Use at project end before release. Triggers on \"404\", \"error pages\", \"not found\", \"500 error\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "deomiarn",
+    "github": "deomiarn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/deomiarn/website-template",
+    "skill_md": "https://raw.githubusercontent.com/deomiarn/website-template/main/.claude/skills/error-pages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T12:45:39.000Z",
+  "created_at": "2025-12-22T15:07:44.824Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/deomiarn%2Fwebsite-template/.claude%2Fskills%2Ferror-pages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.464Z",
+    "uniqueId": "sk_a38aa60b0b1c"
+  }
+}

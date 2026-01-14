@@ -1,0 +1,36 @@
+{
+  "id": "adapter-configurator",
+  "name": "adapter-configurator",
+  "version": "1.0.0",
+  "summary": "Activate when users need help setting up, configuring, or troubleshooting LimaCharlie adapters to ingest telemetry from cloud services, identity providers, log sources, or other...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tekgrunt",
+    "github": "tekgrunt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tekgrunt/boot-test",
+    "skill_md": "https://raw.githubusercontent.com/tekgrunt/boot-test/main/.claude-plugin/plugins/limacharlie-skills/skills/adapter-configurator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.479Z",
+  "created_at": "2025-12-23T01:29:44.938Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tekgrunt%2Fboot-test/.claude-plugin%2Fplugins%2Flimacharlie-skills%2Fskills%2Fadapter-configurator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_b183aabf76be"
+  }
+}

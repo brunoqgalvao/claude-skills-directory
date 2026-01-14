@@ -1,0 +1,36 @@
+{
+  "id": "skill-creation",
+  "name": "skill-creation",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"create a skill\", \"add a new skill\", \"write a skill\", \"make a skill\", \"build a skill for Claude\", or mentions creating Claude Cod...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sun33t",
+    "github": "sun33t"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sun33t/suneet-codes",
+    "skill_md": "https://raw.githubusercontent.com/sun33t/suneet-codes/main/.claude/skills/skill-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:02:13.196Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sun33t%2Fsuneet-codes/.claude%2Fskills%2Fskill-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_a81b64d7b11b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "duckdb-sql",
+  "name": "duckdb-sql",
+  "version": "1.0.0",
+  "summary": "Generate DuckDB SQL queries. Use when user asks about DuckDB queries, data analysis, exploring .ddb database files, CSV files, Parquet files, wants help editing/improving SQL, a...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robdmc",
+    "github": "robdmc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robdmc/claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/robdmc/claude_skills/main/duckdb_sql/code/duckdb-sql/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.465Z",
+  "created_at": "2025-12-23T01:30:58.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robdmc%2Fclaude_skills/duckdb_sql%2Fcode%2Fduckdb-sql%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_78810e7906b1"
+  }
+}

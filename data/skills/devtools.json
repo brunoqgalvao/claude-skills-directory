@@ -1,0 +1,35 @@
+{
+  "id": "devtools",
+  "name": "devtools",
+  "version": "1.0.0",
+  "summary": "Use CDP at localhost:9222 to test/debug websites, automate browser tasks",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sanand0",
+    "github": "sanand0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sanand0/scripts",
+    "skill_md": "https://raw.githubusercontent.com/sanand0/scripts/main/agents/devtools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T07:31:12.000Z",
+  "created_at": "2025-12-23T01:28:42.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sanand0%2Fscripts/agents%2Fdevtools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_2b6df1e0dd44"
+  }
+}

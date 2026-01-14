@@ -1,0 +1,37 @@
+{
+  "id": "builder-ux",
+  "name": "builder-ux",
+  "version": "1.0.0",
+  "summary": "Builder user experience systems for Three.js building games. Use when implementing prefab/blueprint save/load, undo/redo command patterns, ghost preview placement, multi-select,...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Bbeierle12",
+    "github": "Bbeierle12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Bbeierle12/Skill-MCP-Claude",
+    "skill_md": "https://raw.githubusercontent.com/Bbeierle12/Skill-MCP-Claude/main/skills/builder-ux/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T18:22:18.000Z",
+  "created_at": "2025-12-22T17:12:04.519Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Bbeierle12%2FSkill-MCP-Claude/skills%2Fbuilder-ux%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_198162b29f88"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "datum-system",
+  "name": "datum-system",
+  "version": "1.0.0",
+  "summary": "Helps work with the b00t datum system - TOML-based configuration for AI models,\nproviders, and services. Datums are stored in ~/.dotfiles/_b00t_/ and specify\nWHICH environment v...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elasticdotventures",
+    "github": "elasticdotventures"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elasticdotventures/__b00t__",
+    "skill_md": "https://raw.githubusercontent.com/elasticdotventures/__b00t__/main/skills/datum-system/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.512Z",
+  "created_at": "2025-12-23T01:29:16.312Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elasticdotventures%2F__b00t__/skills%2Fdatum-system%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_d6ded37ccbe8"
+  }
+}

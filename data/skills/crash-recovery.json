@@ -1,0 +1,35 @@
+{
+  "id": "crash-recovery",
+  "name": "crash-recovery",
+  "version": "1.0.0",
+  "summary": "Reconstructs session context after crashes or context limit exhaustion by combining git state, issue tracker (bd), and user memory. Triggers on phrases like \"session crashed\", \"...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "spm1001",
+    "github": "spm1001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/spm1001/claude-config-public",
+    "skill_md": "https://raw.githubusercontent.com/spm1001/claude-config-public/main/skills/crash-recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:46.344Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/spm1001%2Fclaude-config-public/skills%2Fcrash-recovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_69a51434b2b2"
+  }
+}

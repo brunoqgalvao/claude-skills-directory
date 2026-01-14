@@ -1,0 +1,37 @@
+{
+  "id": "spec-test-driven-development",
+  "name": "spec-test-driven-development",
+  "version": "1.0.0",
+  "summary": "Use when user requests new features or functionality. Defines complete workflow from specification through testing to implementation.",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "craigtkhill",
+    "github": "craigtkhill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/craigtkhill/stdd-agents",
+    "skill_md": "https://raw.githubusercontent.com/craigtkhill/stdd-agents/main/skills/spec-test-driven-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:28.428Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/craigtkhill%2Fstdd-agents/skills%2Fspec-test-driven-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_1b1dc0d7bb26"
+  }
+}

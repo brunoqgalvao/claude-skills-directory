@@ -1,0 +1,35 @@
+{
+  "id": "json-validation",
+  "name": "json-validation",
+  "version": "1.0.0",
+  "summary": "Pydantic schema validation for agent outputs. Use to validate JSON against TableOfContents, ClinicalSummary, TreatmentPlan, and EvaluatorFeedback schemas before accepting agent ...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RooseveltAdvisors",
+    "github": "RooseveltAdvisors"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RooseveltAdvisors/ClinicalNoteAgent",
+    "skill_md": "https://raw.githubusercontent.com/RooseveltAdvisors/ClinicalNoteAgent/main/.agent/skills/json-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:17:36.052Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RooseveltAdvisors%2FClinicalNoteAgent/.agent%2Fskills%2Fjson-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_a8f4358be926"
+  }
+}

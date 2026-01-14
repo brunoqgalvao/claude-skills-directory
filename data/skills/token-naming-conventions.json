@@ -1,0 +1,35 @@
+{
+  "id": "token-naming-conventions",
+  "name": "token-naming-conventions",
+  "version": "1.0.0",
+  "summary": "Standardizes design token naming patterns using hierarchical slash notation, dimension ordering, and consistent formatting rules. Use when establishing token naming standards, c...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "osama-eldrieny",
+    "github": "osama-eldrieny"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/osama-eldrieny/design-token-generator",
+    "skill_md": "https://raw.githubusercontent.com/osama-eldrieny/design-token-generator/main/.github/skills/token-naming-conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:58:59.494Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/osama-eldrieny%2Fdesign-token-generator/.github%2Fskills%2Ftoken-naming-conventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_180abf8e9a09"
+  }
+}

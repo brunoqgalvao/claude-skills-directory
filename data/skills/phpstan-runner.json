@@ -1,0 +1,35 @@
+{
+  "id": "phpstan-runner",
+  "name": "phpstan-runner",
+  "version": "1.0.0",
+  "summary": "Run PHPStan static analysis and fix errors using intelligent agent delegation. Use when user requests to:\n- Run static analysis\n- Fix PHPStan errors\n- Check code quality\n- Analy...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LongTermSupport",
+    "github": "LongTermSupport"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LongTermSupport/php-qa-ci",
+    "skill_md": "https://raw.githubusercontent.com/LongTermSupport/php-qa-ci/main/.claude/skills/phpstan-runner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T15:32:30.000Z",
+  "created_at": "2025-12-23T01:28:44.197Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LongTermSupport%2Fphp-qa-ci/.claude%2Fskills%2Fphpstan-runner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_a0be2905e001"
+  }
+}

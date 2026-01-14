@@ -1,0 +1,37 @@
+{
+  "id": "subgraph-explorer",
+  "name": "subgraph-explorer",
+  "version": "1.0.0",
+  "summary": "Explore and query blockchain subgraphs through a private MCP server running in Docker. Use this skill when exploring GraphQL subgraphs, querying blockchain data from subgraphs (...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nschwermann",
+    "github": "nschwermann"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nschwermann/claude-tools",
+    "skill_md": "https://raw.githubusercontent.com/nschwermann/claude-tools/main/subgraph-explorer/skills/subgraph-explorer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:10:57.964Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nschwermann%2Fclaude-tools/subgraph-explorer%2Fskills%2Fsubgraph-explorer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_ebfc7b7a8ddb"
+  }
+}

@@ -2,37 +2,35 @@
   "id": "navigator",
   "name": "navigator",
   "version": "1.0.0",
-  "summary": "Working with the Navigator Go submodule for web server fixes and enhancements. Use when deployment plans require Navigator changes, config parsing issues arise, or new routing/prox",
+  "summary": "Working with the Navigator Go submodule for web server fixes and enhancements. Use when deployment plans require Navigator changes, config parsing issues arise, or new routing/p...",
   "verticals": [
-    "Engineering",
-    "Operations"
+    "engineering",
+    "design"
   ],
-  "tags": [
-    "navigator",
-    "git"
-  ],
+  "tags": [],
   "author": {
     "name": "rubys",
-    "github": "rubys",
-    "avatar": "https://avatars.githubusercontent.com/u/4815?v=4"
+    "github": "rubys"
   },
   "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/rubys/showcase/tree/main/.claude/skills/navigator/SKILL.md",
-    "skill_md": "https://raw.githubusercontent.com/rubys/showcase/main/.claude/skills/navigator/SKILL.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install navigator"
+    "repo": "https://github.com/rubys/showcase",
+    "skill_md": "https://raw.githubusercontent.com/rubys/showcase/main/.claude/skills/navigator/SKILL.md"
   },
   "stats": {
-    "stars": 34,
-    "forks": 6,
+    "stars": 0,
+    "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-12-24",
-  "created_at": "2022-04-06"
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:20.063Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rubys%2Fshowcase/.claude%2Fskills%2Fnavigator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_5f88f10cbe00"
+  }
 }

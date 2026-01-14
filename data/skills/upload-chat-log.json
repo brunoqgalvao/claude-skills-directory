@@ -1,0 +1,35 @@
+{
+  "id": "upload-chat-log",
+  "name": "upload-chat-log",
+  "version": "1.0.0",
+  "summary": "Export and upload the current chat conversation as a markdown file attachment to a JIRA ticket for later review and documentation.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "opendatahub-io",
+    "github": "opendatahub-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/opendatahub-io/ai-helpers",
+    "skill_md": "https://raw.githubusercontent.com/opendatahub-io/ai-helpers/main/claude-plugins/jira/skills/upload-chat-log/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T17:35:02.000Z",
+  "created_at": "2025-12-23T01:28:53.136Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/opendatahub-io%2Fai-helpers/claude-plugins%2Fjira%2Fskills%2Fupload-chat-log%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_4343c3c63a8e"
+  }
+}

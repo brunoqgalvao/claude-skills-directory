@@ -1,0 +1,37 @@
+{
+  "id": "task-patterns",
+  "name": "task-patterns",
+  "version": "1.0.0",
+  "summary": "Production-ready Celery task templates with error handling, retries, rate limiting, time limits, and custom task classes. Use when creating Celery tasks, implementing retry logi...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/celery/skills/task-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:16.018Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fcelery%2Fskills%2Ftask-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_a9acfa08d4c5"
+  }
+}

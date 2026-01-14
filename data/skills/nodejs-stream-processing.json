@@ -1,0 +1,37 @@
+{
+  "id": "nodejs-stream-processing",
+  "name": "nodejs-stream-processing",
+  "version": "1.0.0",
+  "summary": "Node.jsにおけるストリーム処理とバックプレッシャー管理の専門知識。\n大容量ファイルの効率的処理、メモリ使用量の最適化、\nReadable/Writable/Transform/Duplexストリームの適切な活用方法を提供。\n\n📚 リソース参照:\nこのスキルには以下のリソースが含まれています。\n必要に応じて該当するリソースを参照してください:\n\n...",
+  "verticals": [
+    "sales",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/nodejs-stream-processing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.491Z",
+  "created_at": "2025-12-23T01:29:32.988Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fnodejs-stream-processing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.491Z",
+    "uniqueId": "sk_2346644099d0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "latest-instructions",
+  "name": "latest-instructions",
+  "version": "1.0.0",
+  "summary": "交易员最新指令管理 - AI 代理在每次对话开始时必须检查此 skill, 读取并遵守 docs/最新指令.md 中的指令",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phpmac",
+    "github": "phpmac"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phpmac/trader",
+    "skill_md": "https://raw.githubusercontent.com/phpmac/trader/main/.claude/skills/最新指令/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:47.992Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phpmac%2Ftrader/.claude%2Fskills%2F%E6%9C%80%E6%96%B0%E6%8C%87%E4%BB%A4%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_9c120a70023a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mkdraft",
+  "name": "mkdraft",
+  "version": "1.0.0",
+  "summary": "Creates a timestamped markdown draft file for iterating on long-form content like PR descriptions, release notes, or issue descriptions",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dtinth",
+    "github": "dtinth"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dtinth/mkdraft",
+    "skill_md": "https://raw.githubusercontent.com/dtinth/mkdraft/main/skills/mkdraft/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T05:40:57.000Z",
+  "created_at": "2025-12-23T01:28:38.677Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dtinth%2Fmkdraft/skills%2Fmkdraft%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_b9f3953a80b2"
+  }
+}

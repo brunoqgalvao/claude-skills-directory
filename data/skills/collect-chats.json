@@ -1,0 +1,35 @@
+{
+  "id": "collect-chats",
+  "name": "collect-chats",
+  "version": "1.0.0",
+  "summary": "Orchestrate the LOPS collect workflow to process unprocessed chats and create Linear issues. Use when triaging messages, user asks to collect chats, processing chat backlog, or ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexisvincent",
+    "github": "alexisvincent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexisvincent/mia",
+    "skill_md": "https://raw.githubusercontent.com/alexisvincent/mia/main/.claude/skills/collect-chats/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:59.186Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexisvincent%2Fmia/.claude%2Fskills%2Fcollect-chats%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_caee41b6daee"
+  }
+}

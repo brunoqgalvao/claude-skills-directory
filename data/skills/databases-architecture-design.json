@@ -1,0 +1,37 @@
+{
+  "id": "databases-architecture-design",
+  "name": "databases-architecture-design",
+  "version": "1.0.0",
+  "summary": "Master database design, optimization, and software architecture. Learn PostgreSQL, SQL, Redis, MongoDB, system design patterns, SOLID principles, and building scalable systems t...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-rust",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-rust/main/skills/databases-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:30:29.000Z",
+  "created_at": "2025-12-23T01:29:25.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-rust/skills%2Fdatabases-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_20f69f8fc407"
+  }
+}

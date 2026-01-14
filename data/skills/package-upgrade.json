@@ -1,0 +1,35 @@
+{
+  "id": "package-upgrade",
+  "name": "package-upgrade",
+  "version": "1.0.0",
+  "summary": "Use when the user asks to analyze package upgrades, check for outdated dependencies, plan npm/NuGet updates, or assess breaking changes in package updates. Triggers on keywords ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "duc01226",
+    "github": "duc01226"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/duc01226/EasyPlatform",
+    "skill_md": "https://raw.githubusercontent.com/duc01226/EasyPlatform/main/.github/skills/package-upgrade/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T21:07:03.000Z",
+  "created_at": "2025-12-23T01:29:06.229Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/duc01226%2FEasyPlatform/.github%2Fskills%2Fpackage-upgrade%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_585cc1f566be"
+  }
+}

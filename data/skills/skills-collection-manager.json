@@ -1,0 +1,35 @@
+{
+  "id": "skills-collection-manager",
+  "name": "skills-collection-manager",
+  "version": "1.0.0",
+  "summary": "Comprehensive toolkit for managing large Claude Code skill collections including bulk downloading from GitHub, organizing into categories, detecting and removing duplicates, con...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jackspace",
+    "github": "jackspace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jackspace/ClaudeSkillz",
+    "skill_md": "https://raw.githubusercontent.com/jackspace/ClaudeSkillz/main/skills/skills-collection-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.472Z",
+  "created_at": "2025-12-23T01:29:58.409Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jackspace%2FClaudeSkillz/skills%2Fskills-collection-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.472Z",
+    "uniqueId": "sk_e6db125b40c2"
+  }
+}

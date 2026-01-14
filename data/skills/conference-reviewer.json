@@ -1,0 +1,35 @@
+{
+  "id": "conference-reviewer",
+  "name": "conference-reviewer",
+  "version": "1.0.0",
+  "summary": "This skill should be used when writing official conference-style reviews for research papers as if from a top-tier systems conference reviewer. Use when the author wants a reali...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "minhuw",
+    "github": "minhuw"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/minhuw/claude-writer",
+    "skill_md": "https://raw.githubusercontent.com/minhuw/claude-writer/main/skills/conference-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.495Z",
+  "created_at": "2025-12-23T01:29:29.341Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/minhuw%2Fclaude-writer/skills%2Fconference-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_93965d779197"
+  }
+}

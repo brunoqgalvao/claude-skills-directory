@@ -1,0 +1,36 @@
+{
+  "id": "building-logseq-plugins",
+  "name": "building-logseq-plugins",
+  "version": "1.0.0",
+  "summary": "Expert guidance for building Logseq plugins compatible with the new DB architecture. Auto-invokes when users want to create Logseq plugins, work with the Logseq Plugin API, exte...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C0ntr0lledCha0s",
+    "github": "C0ntr0lledCha0s"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C0ntr0lledCha0s/claude-code-plugin-automations",
+    "skill_md": "https://raw.githubusercontent.com/C0ntr0lledCha0s/claude-code-plugin-automations/main/logseq-expert/skills/building-logseq-plugins/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T09:18:07.000Z",
+  "created_at": "2025-12-23T01:29:04.021Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C0ntr0lledCha0s%2Fclaude-code-plugin-automations/logseq-expert%2Fskills%2Fbuilding-logseq-plugins%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_deaa5ba299b7"
+  }
+}

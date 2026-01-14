@@ -1,0 +1,35 @@
+{
+  "id": "btc-momentum-analyzer",
+  "name": "btc-momentum-analyzer",
+  "version": "1.0.0",
+  "summary": "使用自定义动能理论分析 BTC 市场，多时间级别嵌套分析（2日线/1日/12h/6h/4h/2h/1h/30min），识别上涨线段、下跌线段、分立调控、单位调整周期、连续跳空背离、黄白线背离，生成包含详细属性判断的动能报告和交易信号。当用户询问 BTC 动能、线段状态、MACD 分析、周期判断、背离检测时自动激活。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Druidss",
+    "github": "Druidss"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Druidss/MACD",
+    "skill_md": "https://raw.githubusercontent.com/Druidss/MACD/main/.claude/skills/btc-momentum-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T10:24:51.000Z",
+  "created_at": "2025-12-23T01:29:44.849Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Druidss%2FMACD/.claude%2Fskills%2Fbtc-momentum-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_a64c062786b6"
+  }
+}

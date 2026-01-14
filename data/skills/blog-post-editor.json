@@ -1,0 +1,35 @@
+{
+  "id": "blog-post-editor",
+  "name": "blog-post-editor",
+  "version": "1.0.0",
+  "summary": "Write new blog posts or edit existing ones to match the established writing voice and style guidelines.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dgalarza",
+    "github": "dgalarza"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dgalarza/dgalarza.github.io",
+    "skill_md": "https://raw.githubusercontent.com/dgalarza/dgalarza.github.io/main/.claude/skills/blog-post-editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:31.648Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dgalarza%2Fdgalarza.github.io/.claude%2Fskills%2Fblog-post-editor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_6ccd303e016d"
+  }
+}

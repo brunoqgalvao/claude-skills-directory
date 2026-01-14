@@ -1,0 +1,35 @@
+{
+  "id": "git-expert",
+  "name": "git-expert",
+  "version": "1.0.0",
+  "summary": "Git operations, history exploration, and intelligent commit management. Use when users ask about git history (\"what did we change\", \"when did we add\"), want to understand past c...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanvale",
+    "github": "nathanvale"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanvale/side-quest-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/nathanvale/side-quest-marketplace/main/plugins/git/skills/git-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T02:27:06.000Z",
+  "created_at": "2025-12-22T15:52:51.051Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanvale%2Fside-quest-marketplace/plugins%2Fgit%2Fskills%2Fgit-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_b0e714c9f68f"
+  }
+}

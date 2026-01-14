@@ -1,0 +1,35 @@
+{
+  "id": "doodle",
+  "name": "doodle",
+  "version": "1.0.0",
+  "summary": "Create and manage experimental features in the Doodle project. Use this skill when user requests creating a new doodle, adding features to the features folder, or mentions worki...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "homveloper",
+    "github": "homveloper"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/homveloper/doodle",
+    "skill_md": "https://raw.githubusercontent.com/homveloper/doodle/main/.claude/skills/doodle/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T08:18:52.000Z",
+  "created_at": "2025-12-22T20:03:39.360Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/homveloper%2Fdoodle/.claude%2Fskills%2Fdoodle%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_a287e3ce8c9a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sap-cap-capire",
+  "name": "sap-cap-capire",
+  "version": "1.0.0",
+  "summary": "SAP Cloud Application Programming Model (CAP) development skill using Capire documentation.\nUse when: building CAP applications, defining CDS models, implementing services, work...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "secondsky",
+    "github": "secondsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/secondsky/sap-skills",
+    "skill_md": "https://raw.githubusercontent.com/secondsky/sap-skills/main/skills/sap-cap-capire/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:35.934Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/secondsky%2Fsap-skills/skills%2Fsap-cap-capire%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_42becdc6f8ce"
+  }
+}

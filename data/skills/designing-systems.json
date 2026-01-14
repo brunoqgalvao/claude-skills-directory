@@ -1,0 +1,35 @@
+{
+  "id": "designing-systems",
+  "name": "designing-systems",
+  "version": "1.0.0",
+  "summary": "Design scalable, reliable software systems. Use when planning new systems, major features, or architecture changes. Covers C4 diagrams, trade-off analysis, and system decomposit...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dralgorhythm",
+    "github": "dralgorhythm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dralgorhythm/claude-agentic-framework",
+    "skill_md": "https://raw.githubusercontent.com/dralgorhythm/claude-agentic-framework/main/.claude/skills/architecture/designing-systems/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:08:21.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dralgorhythm%2Fclaude-agentic-framework/.claude%2Fskills%2Farchitecture%2Fdesigning-systems%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_903cc7cb45fc"
+  }
+}

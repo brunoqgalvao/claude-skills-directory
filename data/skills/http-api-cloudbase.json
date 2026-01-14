@@ -1,0 +1,36 @@
+{
+  "id": "http-api-cloudbase",
+  "name": "http-api-cloudbase",
+  "version": "1.0.0",
+  "summary": "Use CloudBase HTTP API to access CloudBase platform features (database, authentication, cloud functions, cloud hosting, cloud storage, AI) via HTTP protocol from backends or scr...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "binggg",
+    "github": "binggg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/binggg/GALAXY-VORTEX",
+    "skill_md": "https://raw.githubusercontent.com/binggg/GALAXY-VORTEX/main/.claude/skills/http-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.663Z",
+  "created_at": "2025-12-22T22:17:20.038Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/binggg%2FGALAXY-VORTEX/.claude%2Fskills%2Fhttp-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.663Z",
+    "uniqueId": "sk_068301f172fd"
+  }
+}

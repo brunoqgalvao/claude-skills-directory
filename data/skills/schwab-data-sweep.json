@@ -1,0 +1,35 @@
+{
+  "id": "schwab-data-sweep",
+  "name": "schwab-data-sweep",
+  "version": "1.0.0",
+  "summary": "Collect a single Schwab MCP data snapshot (accounts, quotes, indicators, option chains) with a five-minute cache so trading agents can reuse consistent inputs. Use whenever an o...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkoelker",
+    "github": "jkoelker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkoelker/zephyr",
+    "skill_md": "https://raw.githubusercontent.com/jkoelker/zephyr/main/skills/schwab-data-sweep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:24.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkoelker%2Fzephyr/skills%2Fschwab-data-sweep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_a24c53de4fd5"
+  }
+}

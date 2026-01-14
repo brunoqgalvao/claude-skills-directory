@@ -1,0 +1,36 @@
+{
+  "id": "verification-gate",
+  "name": "verification-gate",
+  "version": "1.0.0",
+  "summary": "Hidden quality gate that runs before showing \"Done!\" to user - ensures all tests pass, build succeeds, and requirements met before claiming completion",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/vibe-coder/skills/verification-gate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:51:38.778Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/vibe-coder%2Fskills%2Fverification-gate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_5bfea3515316"
+  }
+}

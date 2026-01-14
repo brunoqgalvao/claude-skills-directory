@@ -1,0 +1,37 @@
+{
+  "id": "sap-btp-master-data-integration",
+  "name": "sap-btp-master-data-integration",
+  "version": "1.0.0",
+  "summary": "Configures and integrates SAP Master Data Integration (MDI) service on SAP Business Technology Platform. Use when setting up MDI tenants, connecting applications (S/4HANA, Succe...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "secondsky",
+    "github": "secondsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/secondsky/sap-skills",
+    "skill_md": "https://raw.githubusercontent.com/secondsky/sap-skills/main/skills/sap-btp-master-data-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:16:54.739Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/secondsky%2Fsap-skills/skills%2Fsap-btp-master-data-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_8778dcffc535"
+  }
+}

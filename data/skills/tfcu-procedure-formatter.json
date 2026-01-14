@@ -1,0 +1,35 @@
+{
+  "id": "tfcu-procedure-formatter",
+  "name": "tfcu-procedure-formatter",
+  "version": "1.0.0",
+  "summary": "Transforms legacy TFCU policies and procedures into standardized professional documents. Activate when user requests: (1) reformatting old policies/procedures into TFCU template...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sokoliem",
+    "github": "Sokoliem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sokoliem/tfcu-formatting-skill",
+    "skill_md": "https://raw.githubusercontent.com/Sokoliem/tfcu-formatting-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:03:59.398Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sokoliem%2Ftfcu-formatting-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_7eb2ff514ffe"
+  }
+}

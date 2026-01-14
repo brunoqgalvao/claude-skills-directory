@@ -1,0 +1,37 @@
+{
+  "id": "spreadsheet-tools",
+  "name": "spreadsheet-tools",
+  "version": "1.0.0",
+  "summary": "Guides and code for creating, analyzing, and formatting spreadsheets. Use this skill to work with Excel files programmatically and apply data analysis techniques.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DegrassiAaron",
+    "github": "DegrassiAaron"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DegrassiAaron/influencerai-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/DegrassiAaron/influencerai-monorepo/main/.claude/skills/spreadsheet-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-18T09:54:47.000Z",
+  "created_at": "2025-12-22T15:09:19.988Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DegrassiAaron%2Finfluencerai-monorepo/.claude%2Fskills%2Fspreadsheet-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_4eb499c91369"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "time-filtering",
+  "name": "time-filtering",
+  "version": "1.0.0",
+  "summary": "Time-based filtering using `td_interval()`, `td_time_range()`, and `td_time_string()` for Treasure Data queries. Covers relative filtering (-1d=yesterday, -7d=last week), offset...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "treasure-data",
+    "github": "treasure-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/treasure-data/td-skills",
+    "skill_md": "https://raw.githubusercontent.com/treasure-data/td-skills/main/sql-skills/time-filtering/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.560Z",
+  "created_at": "2025-12-23T01:28:41.435Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/treasure-data%2Ftd-skills/sql-skills%2Ftime-filtering%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_7ea1222af742"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pm-workflow-guide",
+  "name": "pm-workflow-guide",
+  "version": "1.0.0",
+  "summary": "Provides intelligent context-aware PM workflow guidance with automatic phase detection. Prioritizes 6 natural workflow commands (plan, work, sync, commit, verify, done) for stre...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "duongdev",
+    "github": "duongdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/duongdev/ccpm",
+    "skill_md": "https://raw.githubusercontent.com/duongdev/ccpm/main/skills/pm-workflow-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.613Z",
+  "created_at": "2025-12-22T23:57:08.670Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/duongdev%2Fccpm/skills%2Fpm-workflow-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.613Z",
+    "uniqueId": "sk_96dd57fbc0dd"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "momentum-anchor",
+  "name": "momentum-anchor",
+  "version": "1.0.0",
+  "summary": "Create rich resumption points when hyperfocus breaks. Capture energy state, not just tasks. Use at the end of work sessions, when interrupted, or when sensing focus shifting.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Kingly-Agency",
+    "github": "Kingly-Agency"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Kingly-Agency/kingly-claude-adapter",
+    "skill_md": "https://raw.githubusercontent.com/Kingly-Agency/kingly-claude-adapter/main/skills/momentum-anchor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:54:36.240Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Kingly-Agency%2Fkingly-claude-adapter/skills%2Fmomentum-anchor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_f5c62d206374"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "gitops-workflows",
+  "name": "gitops-workflows",
+  "version": "1.0.0",
+  "summary": "GitOps workflows and patterns using ArgoCD and Flux for declarative Kubernetes deployments. Use when implementing CI/CD for Kubernetes, managing multi-environment deployments, o...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NickCrew",
+    "github": "NickCrew"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NickCrew/claude-cortex",
+    "skill_md": "https://raw.githubusercontent.com/NickCrew/claude-cortex/main/skills/gitops-workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:09:39.324Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NickCrew%2Fclaude-cortex/skills%2Fgitops-workflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_69e532682f2f"
+  }
+}

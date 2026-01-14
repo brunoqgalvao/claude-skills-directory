@@ -1,0 +1,36 @@
+{
+  "id": "session-processor",
+  "name": "session-processor",
+  "version": "1.0.0",
+  "summary": "Orchestrate end-to-end processing of D&D session videos from upload through knowledge extraction. Use when the user wants a complete automated workflow to process a new session ...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Gambitnl",
+    "github": "Gambitnl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Gambitnl/Video_chunking",
+    "skill_md": "https://raw.githubusercontent.com/Gambitnl/Video_chunking/main/.claude/skills/session-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:43.901Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Gambitnl%2FVideo_chunking/.claude%2Fskills%2Fsession-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_1ff3a71498e6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rip-video",
+  "name": "rip-video",
+  "version": "1.0.0",
+  "summary": "根据 todolist.md 使用 MCP 从 MP4 视频提取音频和字幕。读取任务清单，调用 MCP 服务提取封面、音频(mp3)和字幕(srt)，更新任务完成状态。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mojito-llm",
+    "github": "mojito-llm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mojito-llm/freeship-skills",
+    "skill_md": "https://raw.githubusercontent.com/mojito-llm/freeship-skills/main/parsing-skills/rip-video/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T10:50:55.000Z",
+  "created_at": "2025-12-22T15:52:03.866Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mojito-llm%2Ffreeship-skills/parsing-skills%2Frip-video%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_db030e0adfbe"
+  }
+}

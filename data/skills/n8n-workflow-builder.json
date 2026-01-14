@@ -1,0 +1,37 @@
+{
+  "id": "n8n-workflow-builder",
+  "name": "n8n-workflow-builder",
+  "version": "1.0.0",
+  "summary": "Build n8n automation workflows using MCP tools. Use when creating workflows, configuring nodes, validating configurations, deploying templates, or integrating n8n with Rails app...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dvorkinguy",
+    "github": "dvorkinguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dvorkinguy/claude-skills-agents",
+    "skill_md": "https://raw.githubusercontent.com/dvorkinguy/claude-skills-agents/main/skills/n8n-workflow-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.409Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dvorkinguy%2Fclaude-skills-agents/skills%2Fn8n-workflow-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_c8ef14fb2b77"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "create-skills",
+  "name": "create-skills",
+  "version": "1.0.0",
+  "summary": "効果的なスキルを作成するためのガイド。ユーザーが専門知識、ワークフロー、ツール統合でClaudeの能力を拡張する新しいスキルを作成（または既存のスキルを更新）したい場合に使用します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nayukata",
+    "github": "nayukata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nayukata/notify-patch-notes",
+    "skill_md": "https://raw.githubusercontent.com/nayukata/notify-patch-notes/main/.claude/skills/create-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T13:42:14.000Z",
+  "created_at": "2025-12-22T21:11:21.938Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nayukata%2Fnotify-patch-notes/.claude%2Fskills%2Fcreate-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_391452e9b3bd"
+  }
+}

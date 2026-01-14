@@ -1,0 +1,35 @@
+{
+  "id": "speckit-checklist-zh",
+  "name": "speckit-checklist-zh",
+  "version": "1.0.0",
+  "summary": "基于用户需求为当前功能生成定制检查清单的专业工具。专门用于需求质量验证，生成\"英语的单元测试\"，验证需求的完整性、清晰度和一致性。触发词：speckit-checklist、检查清单、需求验证、质量检查、checklist、requirements validation、质量审查、spec review",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "forztf",
+    "github": "forztf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/forztf/open-skilled-sdd",
+    "skill_md": "https://raw.githubusercontent.com/forztf/open-skilled-sdd/main/skills/speckit-checklist-zh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:03.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/forztf%2Fopen-skilled-sdd/skills%2Fspeckit-checklist-zh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_b1e2980a6086"
+  }
+}

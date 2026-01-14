@@ -1,0 +1,36 @@
+{
+  "id": "service-dev",
+  "name": "service-dev",
+  "version": "1.0.0",
+  "summary": "Park Golf Platform 백엔드 서비스 개발 가이드. 새 서비스 생성, API 개발, NATS 메시징, 데이터베이스 연동 방법 안내. \"서비스 만들기\", \"API 추가\", \"NATS\", \"마이크로서비스\" 관련 질문 시 사용합니다.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "uniyous",
+    "github": "uniyous"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/uniyous/parkgolf-platform",
+    "skill_md": "https://raw.githubusercontent.com/uniyous/parkgolf-platform/main/.claude/skills/development/service-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T19:00:14.645Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/uniyous%2Fparkgolf-platform/.claude%2Fskills%2Fdevelopment%2Fservice-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_10750d3d32d2"
+  }
+}

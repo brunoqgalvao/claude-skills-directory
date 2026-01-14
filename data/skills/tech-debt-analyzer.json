@@ -1,0 +1,35 @@
+{
+  "id": "tech-debt-analyzer",
+  "name": "tech-debt-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyze and prioritize technical debt with refactoring recommendations. Use when evaluating code quality or planning debt reduction.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/tech-debt-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T06:11:39.000Z",
+  "created_at": "2025-12-22T15:07:39.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Ftech-debt-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_7fbe6711ac03"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "parsing",
+  "name": "parsing",
+  "version": "1.0.0",
+  "summary": "Use the lean4-parser library for parsing structured input. Invoke when implementing parsers for AoC puzzles or other text processing tasks in Lean.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kim-em",
+    "github": "kim-em"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kim-em/AoC2025",
+    "skill_md": "https://raw.githubusercontent.com/kim-em/AoC2025/main/.claude/skills/parsing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T07:34:43.000Z",
+  "created_at": "2025-12-23T01:28:40.775Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kim-em%2FAoC2025/.claude%2Fskills%2Fparsing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_309437dcf09b"
+  }
+}

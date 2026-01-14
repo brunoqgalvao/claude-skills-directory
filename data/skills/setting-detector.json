@@ -1,0 +1,35 @@
+{
+  "id": "setting-detector",
+  "name": "setting-detector",
+  "version": "1.0.0",
+  "summary": "基于关键词自动检测故事设定（类型、时代、主题）并激活相应的知识库 - 在后台静默工作，无需用户干预即可提供相关写作指导",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wordflowlab",
+    "github": "wordflowlab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wordflowlab/novelweave",
+    "skill_md": "https://raw.githubusercontent.com/wordflowlab/novelweave/main/templates/skills/quality-assurance/setting-detector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-20T17:43:27.000Z",
+  "created_at": "2025-12-23T01:29:38.330Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wordflowlab%2Fnovelweave/templates%2Fskills%2Fquality-assurance%2Fsetting-detector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_8fba366cf8b3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "figma-desktop",
+  "name": "figma-desktop",
+  "version": "1.0.0",
+  "summary": "Extract design data from Figma files using REST API scripts. Includes frame extraction, metadata retrieval, screenshots, design token extraction, annotations, and FigJam content...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "VitorAndTxr",
+    "github": "VitorAndTxr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/VitorAndTxr/Bioteca.Prism.InteroperableResearchInterfaceSystem",
+    "skill_md": "https://raw.githubusercontent.com/VitorAndTxr/Bioteca.Prism.InteroperableResearchInterfaceSystem/main/.claude/skills/figma-desktop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T17:17:04.000Z",
+  "created_at": "2025-12-22T16:56:59.290Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/VitorAndTxr%2FBioteca.Prism.InteroperableResearchInterfaceSystem/.claude%2Fskills%2Ffigma-desktop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_f9bac1cb70ac"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "skill-linter",
+  "name": "skill-linter",
+  "version": "1.0.0",
+  "summary": "Validate skills against agentskills.io specification. Use when adding new skills to the marketplace, reviewing skill PRs, checking skill compliance, or running quality gates on ...",
+  "verticals": [
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majesticlabs-dev",
+    "github": "majesticlabs-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majesticlabs-dev/majestic-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/majesticlabs-dev/majestic-marketplace/main/.claude/skills/skill-linter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:30.278Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majesticlabs-dev%2Fmajestic-marketplace/.claude%2Fskills%2Fskill-linter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_9516eddcf88e"
+  }
+}

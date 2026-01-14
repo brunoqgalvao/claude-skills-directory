@@ -1,0 +1,35 @@
+{
+  "id": "reverse-engineering-firmware-analysis",
+  "name": "reverse-engineering-firmware-analysis",
+  "version": "1.0.0",
+  "summary": "Firmware extraction and IoT security analysis (RE Level 5) for routers and embedded systems. Use when analyzing IoT firmware, extracting embedded filesystems (SquashFS/JFFS2/Cra...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/context-cascade",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/context-cascade/main/skills/security/reverse-engineering-firmware/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.469Z",
+  "created_at": "2025-12-23T01:30:51.100Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fcontext-cascade/skills%2Fsecurity%2Freverse-engineering-firmware%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.469Z",
+    "uniqueId": "sk_dd11cde5d502"
+  }
+}

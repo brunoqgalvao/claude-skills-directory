@@ -1,0 +1,36 @@
+{
+  "id": "mmd-debugging",
+  "name": "mmd-debugging",
+  "version": "1.0.0",
+  "summary": "Troubleshoot and debug MIDI Markdown (MMD) files including validation errors, timing issues, value ranges, syntax problems, and compilation failures. Use when the user encounter...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cjgdev",
+    "github": "cjgdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cjgdev/midi-markdown",
+    "skill_md": "https://raw.githubusercontent.com/cjgdev/midi-markdown/main/.claude/skills/mmd-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:14:24.510Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cjgdev%2Fmidi-markdown/.claude%2Fskills%2Fmmd-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_de2475a6cee9"
+  }
+}

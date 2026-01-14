@@ -1,0 +1,35 @@
+{
+  "id": "webgl",
+  "name": "webgl",
+  "version": "1.0.0",
+  "summary": "WebGL shaders and effects for JARVIS 3D HUD",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martinholovsky",
+    "github": "martinholovsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martinholovsky/claude-skills-generator",
+    "skill_md": "https://raw.githubusercontent.com/martinholovsky/claude-skills-generator/main/skills/webgl/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:32.278Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martinholovsky%2Fclaude-skills-generator/skills%2Fwebgl%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_73ef2aefbacf"
+  }
+}

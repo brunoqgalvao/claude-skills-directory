@@ -1,0 +1,35 @@
+{
+  "id": "git-workspace-init",
+  "name": "git-workspace-init",
+  "version": "1.0.0",
+  "summary": "Initialize a new git worktree and branch for feature development or bug fixes. Use when: (1) Starting work on a new feature, (2) Beginning a bug fix, (3) Creating an isolated wo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BillChirico",
+    "github": "BillChirico"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BillChirico/bills-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/BillChirico/bills-claude-skills/main/git-workspace-init/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T17:00:32.000Z",
+  "created_at": "2025-12-23T01:29:34.770Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BillChirico%2Fbills-claude-skills/git-workspace-init%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_0bacab5c848d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "maceff-tree-awareness",
+  "name": "maceff-tree-awareness",
+  "version": "1.0.0",
+  "summary": "USE *IMMEDIATELY* AFTER COMPACTION RECOVERY BEFORE REPORTING TO USER! Refresh structural awareness of MacEff repository to prevent assumption errors about file locations, packag...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cversek",
+    "github": "cversek"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cversek/MacEff",
+    "skill_md": "https://raw.githubusercontent.com/cversek/MacEff/main/framework/skills/maceff-tree-awareness/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:48.458Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cversek%2FMacEff/framework%2Fskills%2Fmaceff-tree-awareness%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_789275bd846e"
+  }
+}

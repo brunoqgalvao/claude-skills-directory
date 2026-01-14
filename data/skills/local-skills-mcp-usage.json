@@ -1,0 +1,35 @@
+{
+  "id": "local-skills-mcp-usage",
+  "name": "local-skills-mcp-usage",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for using Local Skills MCP - creating skills in the right locations, understanding skill directories, setup, and configuration. Use when creating new skills,...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kdpa-llc",
+    "github": "kdpa-llc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kdpa-llc/local-skills-mcp",
+    "skill_md": "https://raw.githubusercontent.com/kdpa-llc/local-skills-mcp/main/skills/local-skills-mcp-usage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:30.916Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kdpa-llc%2Flocal-skills-mcp/skills%2Flocal-skills-mcp-usage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_65edc82c5acd"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "debug-mode",
+  "name": "debug-mode",
+  "version": "1.0.0",
+  "summary": "Autonomous debugging workflow mirroring Cursor IDE's debug mode. Triggers on \"debug mode\", \"help me debug\", error messages, stack traces, or debugging loops. Generates 5-7 hypot...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Remedy92",
+    "github": "Remedy92"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Remedy92/debug-mode-plugin",
+    "skill_md": "https://raw.githubusercontent.com/Remedy92/debug-mode-plugin/main/skills/debug-mode/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T09:00:13.000Z",
+  "created_at": "2025-12-23T01:28:41.355Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Remedy92%2Fdebug-mode-plugin/skills%2Fdebug-mode%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_4bc2d4e46fa0"
+  }
+}

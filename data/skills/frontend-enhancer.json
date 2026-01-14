@@ -1,0 +1,36 @@
+{
+  "id": "frontend-enhancer",
+  "name": "frontend-enhancer",
+  "version": "1.0.0",
+  "summary": "This skill should be used when enhancing the visual design and aesthetics of Next.js web applications. It provides modern UI components, design patterns, color palettes, animati...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "auldsyababua",
+    "github": "auldsyababua"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/auldsyababua/instructor-workflow",
+    "skill_md": "https://raw.githubusercontent.com/auldsyababua/instructor-workflow/main/skills/frontend-enhancer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T23:24:50.000Z",
+  "created_at": "2025-12-22T21:11:29.220Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/auldsyababua%2Finstructor-workflow/skills%2Ffrontend-enhancer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.448Z",
+    "uniqueId": "sk_34e55df80984"
+  }
+}

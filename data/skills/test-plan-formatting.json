@@ -1,0 +1,37 @@
+{
+  "id": "test-plan-formatting",
+  "name": "test-plan-formatting",
+  "version": "1.0.0",
+  "summary": "Format concise, actionable test plans for Jira tickets using existing fptest tools and minimal MongoDB operations",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "randalmurphal",
+    "github": "randalmurphal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/randalmurphal/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/randalmurphal/claude-config/main/skills/test-plan-formatting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T19:00:30.610Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/randalmurphal%2Fclaude-config/skills%2Ftest-plan-formatting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_e511c740a81a"
+  }
+}

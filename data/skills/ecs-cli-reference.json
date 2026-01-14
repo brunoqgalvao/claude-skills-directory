@@ -1,0 +1,35 @@
+{
+  "id": "ecs-cli-reference",
+  "name": "ecs-cli-reference",
+  "version": "1.0.0",
+  "summary": "AWS CLI ECS command reference. Use when understanding how users interact with ECS via AWS CLI, including command syntax, options, examples, and output formats. Essential for KEC...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nandemo-ya",
+    "github": "nandemo-ya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nandemo-ya/kecs",
+    "skill_md": "https://raw.githubusercontent.com/nandemo-ya/kecs/main/.claude/skills/ecs-cli-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T15:29:31.000Z",
+  "created_at": "2025-12-23T01:28:50.405Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nandemo-ya%2Fkecs/.claude%2Fskills%2Fecs-cli-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_59a58ec14c2a"
+  }
+}

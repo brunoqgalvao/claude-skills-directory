@@ -1,0 +1,37 @@
+{
+  "id": "threat-hunter",
+  "name": "threat-hunter",
+  "version": "1.0.0",
+  "summary": "Activate when the user needs help conducting proactive threat hunting, investigating suspicious activity, or building hypothesis-driven hunts in LimaCharlie.",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tekgrunt",
+    "github": "tekgrunt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tekgrunt/boot-test",
+    "skill_md": "https://raw.githubusercontent.com/tekgrunt/boot-test/main/.claude-plugin/plugins/limacharlie-skills/skills/threat-hunter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.697Z",
+  "created_at": "2025-12-22T22:01:34.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tekgrunt%2Fboot-test/.claude-plugin%2Fplugins%2Flimacharlie-skills%2Fskills%2Fthreat-hunter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.697Z",
+    "uniqueId": "sk_009bf9b94125"
+  }
+}

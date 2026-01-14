@@ -1,0 +1,35 @@
+{
+  "id": "gem-port",
+  "name": "gem-port",
+  "version": "1.0.0",
+  "summary": "Port Ruby gems with native C extensions to Fil-C. Use when fixing gem compilation errors, VALUE/int type mismatches, rb_attr/rb_protect issues, or using ast-grep for Ruby C exte...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mbrock",
+    "github": "mbrock"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mbrock/filnix",
+    "skill_md": "https://raw.githubusercontent.com/mbrock/filnix/main/.claude/skills/gem-port/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:21.156Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mbrock%2Ffilnix/.claude%2Fskills%2Fgem-port%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_10aad353d999"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sync-patterns",
+  "name": "sync-patterns",
+  "version": "1.0.0",
+  "summary": "Compare specs with implementation state, update spec status, and generate sync reports. Use when syncing specs, checking implementation status, marking tasks complete, generatin...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/dev-lifecycle-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/dev-lifecycle-marketplace/main/plugins/iterate/skills/sync-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.778Z",
+  "created_at": "2025-12-22T19:30:34.657Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fdev-lifecycle-marketplace/plugins%2Fiterate%2Fskills%2Fsync-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_f6678fd2f0cb"
+  }
+}

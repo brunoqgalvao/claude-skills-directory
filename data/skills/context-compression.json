@@ -1,0 +1,35 @@
+{
+  "id": "context-compression",
+  "name": "context-compression",
+  "version": "1.0.0",
+  "summary": "Design and evaluate context compression strategies for long-running agent sessions. Use when agents exhaust memory, need to summarize conversation history, or when optimizing to...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "muratcankoylan",
+    "github": "muratcankoylan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering",
+    "skill_md": "https://raw.githubusercontent.com/muratcankoylan/Agent-Skills-for-Context-Engineering/main/skills/context-compression/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.490Z",
+  "created_at": "2025-12-23T01:29:34.635Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/muratcankoylan%2FAgent-Skills-for-Context-Engineering/skills%2Fcontext-compression%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_3efcff741468"
+  }
+}

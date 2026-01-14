@@ -1,0 +1,36 @@
+{
+  "id": "panel-digitizer",
+  "name": "panel-digitizer",
+  "version": "1.0.0",
+  "summary": "Extract panel schedule data from images (photos or CAD drawings) and generate PanelCalc-compatible JSON import files. Use when user provides panel schedule images, panel directo...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sashburner26",
+    "github": "sashburner26"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sashburner26/ampacity",
+    "skill_md": "https://raw.githubusercontent.com/sashburner26/ampacity/main/shared/skills/_archive/panel-digitizer-v2.1/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:05:45.181Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sashburner26%2Fampacity/shared%2Fskills%2F_archive%2Fpanel-digitizer-v2.1%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_04cbb87cf467"
+  }
+}

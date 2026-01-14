@@ -1,0 +1,35 @@
+{
+  "id": "claude-mobile-metro-manager",
+  "name": "claude-mobile-metro-manager",
+  "version": "1.0.0",
+  "summary": "Use when starting Metro bundler for Expo development, debugging Metro errors, or enabling expo-mcp local capabilities - manages Metro lifecycle with EXPO_UNSTABLE_MCP_SERVER=1 f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/claude-mobile-expo",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/claude-mobile-expo/main/.claude/skills/claude-mobile-metro-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T04:07:15.000Z",
+  "created_at": "2025-12-22T16:59:37.502Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fclaude-mobile-expo/.claude%2Fskills%2Fclaude-mobile-metro-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.827Z",
+    "uniqueId": "sk_9db4e037e948"
+  }
+}

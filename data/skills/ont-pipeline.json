@@ -1,0 +1,37 @@
+{
+  "id": "ont-pipeline",
+  "name": "ont-pipeline",
+  "version": "1.0.0",
+  "summary": "Oxford Nanopore multi-step workflow orchestration with unified QC aggregation. Use when running complete analysis pipelines (QC → basecalling → alignment → variants → pharmacoge...",
+  "verticals": [
+    "sales",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Single-Molecule-Sequencing",
+    "github": "Single-Molecule-Sequencing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Single-Molecule-Sequencing/ont-ecosystem",
+    "skill_md": "https://raw.githubusercontent.com/Single-Molecule-Sequencing/ont-ecosystem/main/skills/ont-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T01:50:48.000Z",
+  "created_at": "2025-12-23T01:29:27.343Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Single-Molecule-Sequencing%2Font-ecosystem/skills%2Font-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_68a8055bb9cf"
+  }
+}

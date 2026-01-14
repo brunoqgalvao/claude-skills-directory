@@ -1,0 +1,36 @@
+{
+  "id": "astrolabe-workflow",
+  "name": "astrolabe-workflow",
+  "version": "1.0.0",
+  "summary": "Workflow execution framework with state transitions, bulk operations, rule-based triggers, and authorization. Use when implementing entity workflows with CRUD operations requiri...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astrolabe-apps",
+    "github": "astrolabe-apps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astrolabe-apps/astrolabe-common",
+    "skill_md": "https://raw.githubusercontent.com/astrolabe-apps/astrolabe-common/main/skills/astrolabe-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:14:02.493Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astrolabe-apps%2Fastrolabe-common/skills%2Fastrolabe-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_eacad735f966"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "docs-structure-maintainer",
+  "name": "docs-structure-maintainer",
+  "version": "1.0.0",
+  "summary": "Understand and maintain HuleEdu documentation and task documentation structure. Guides placement, naming, and validation using the canonical specs and management scripts.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paunchygent",
+    "github": "paunchygent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paunchygent/docforge",
+    "skill_md": "https://raw.githubusercontent.com/paunchygent/docforge/main/frontend/.claude/skills/docs-structure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T02:12:14.000Z",
+  "created_at": "2025-12-22T15:51:02.349Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paunchygent%2Fdocforge/frontend%2F.claude%2Fskills%2Fdocs-structure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_b67aa25d0653"
+  }
+}

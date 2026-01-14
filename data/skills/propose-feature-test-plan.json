@@ -1,0 +1,36 @@
+{
+  "id": "propose-feature-test-plan",
+  "name": "propose-feature-test-plan",
+  "version": "1.0.0",
+  "summary": "Create a test plan mapping EARS requirements and Critical Constraints to specific tests",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cbgbt",
+    "github": "cbgbt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cbgbt/bottlerocket-forest",
+    "skill_md": "https://raw.githubusercontent.com/cbgbt/bottlerocket-forest/main/skills/propose-feature-test-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:51:01.731Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cbgbt%2Fbottlerocket-forest/skills%2Fpropose-feature-test-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_93ef169c568d"
+  }
+}

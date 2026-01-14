@@ -1,0 +1,35 @@
+{
+  "id": "web-development",
+  "name": "web-development",
+  "version": "1.0.0",
+  "summary": "Web frontend project development rules. Use this skill when developing web frontend pages, deploying static hosting, and integrating CloudBase Web SDK.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TencentCloudBase",
+    "github": "TencentCloudBase"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TencentCloudBase/awesome-cloudbase-examples",
+    "skill_md": "https://raw.githubusercontent.com/TencentCloudBase/awesome-cloudbase-examples/main/miniprogram/tcb-shop-ai-generate/.claude/skills/web-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T04:19:57.000Z",
+  "created_at": "2025-12-22T18:00:33.841Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TencentCloudBase%2Fawesome-cloudbase-examples/miniprogram%2Ftcb-shop-ai-generate%2F.claude%2Fskills%2Fweb-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_b6f4866eb9d5"
+  }
+}

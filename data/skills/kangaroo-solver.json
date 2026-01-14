@@ -1,0 +1,35 @@
+{
+  "id": "kangaroo-solver",
+  "name": "kangaroo-solver",
+  "version": "1.0.0",
+  "summary": "Pollard's Kangaroo algorithm for solving ECDLP on secp256k1. Use when searching for Bitcoin private keys in a known range, solving discrete log problems, or running the main puz...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "web3guru888",
+    "github": "web3guru888"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/web3guru888/btchunt",
+    "skill_md": "https://raw.githubusercontent.com/web3guru888/btchunt/main/.claude/skills/kangaroo-solver/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.885Z",
+  "created_at": "2025-12-21T23:46:26.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/web3guru888%2Fbtchunt/.claude%2Fskills%2Fkangaroo-solver%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_c3db08c7717d"
+  }
+}

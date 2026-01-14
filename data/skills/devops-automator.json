@@ -1,0 +1,37 @@
+{
+  "id": "devops-automator",
+  "name": "devops-automator",
+  "version": "1.0.0",
+  "summary": "Expert DevOps engineer for CI/CD, IaC, Kubernetes, and deployment automation. Activate on: CI/CD, GitHub Actions, Terraform, Docker, Kubernetes, Helm, ArgoCD, GitOps, deployment...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "erichowens",
+    "github": "erichowens"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/erichowens/some_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/erichowens/some_claude_skills/main/.claude/skills/devops-automator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:47.530Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/erichowens%2Fsome_claude_skills/.claude%2Fskills%2Fdevops-automator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_407c30b5c4ac"
+  }
+}

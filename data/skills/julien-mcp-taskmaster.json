@@ -1,0 +1,35 @@
+{
+  "id": "julien-mcp-taskmaster",
+  "name": "julien-mcp-taskmaster",
+  "version": "1.0.0",
+  "summary": "Install TaskMaster AI MCP for task management. Use when user needs AI-powered project task breakdown.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theflysurfer",
+    "github": "theflysurfer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theflysurfer/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/theflysurfer/claude-skills-marketplace/main/archive/mcp-skills-individual/julien-mcp-taskmaster/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:04:58.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theflysurfer%2Fclaude-skills-marketplace/archive%2Fmcp-skills-individual%2Fjulien-mcp-taskmaster%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_5b9f6af1376e"
+  }
+}

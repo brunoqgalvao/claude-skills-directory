@@ -1,0 +1,35 @@
+{
+  "id": "tech-article-extractor",
+  "name": "tech-article-extractor",
+  "version": "1.0.0",
+  "summary": "技術サイトから特定の技術に関する記事・動画・スライド・論文を抽出・分析します。Qiita、Zenn、Stack Overflow、GitHub、Dev.to、Medium、YouTube、arXiv等50以上のソースから最新記事を検索・フィルタリングし、トレンド分析やキャッチアップに活用できます。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/tech-article-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.470Z",
+  "created_at": "2025-12-23T01:30:49.912Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Ftech-article-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.470Z",
+    "uniqueId": "sk_a11decaa3067"
+  }
+}

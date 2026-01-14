@@ -1,0 +1,35 @@
+{
+  "id": "marp-image-generator",
+  "name": "marp-image-generator",
+  "version": "1.0.0",
+  "summary": "Generate optimized images for Marp slides using Playwright MCP with theme-matching color palettes and guideline-compliant sizes",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ryunosuke-Tanaka-sti",
+    "github": "Ryunosuke-Tanaka-sti"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ryunosuke-Tanaka-sti/claude_and_blog_seminar",
+    "skill_md": "https://raw.githubusercontent.com/Ryunosuke-Tanaka-sti/claude_and_blog_seminar/main/.claude/skills/marp-image-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T12:07:24.000Z",
+  "created_at": "2025-12-23T01:29:42.757Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ryunosuke-Tanaka-sti%2Fclaude_and_blog_seminar/.claude%2Fskills%2Fmarp-image-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_9ddf590e2028"
+  }
+}

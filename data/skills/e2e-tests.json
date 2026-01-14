@@ -1,0 +1,35 @@
+{
+  "id": "e2e-tests",
+  "name": "e2e-tests",
+  "version": "1.0.0",
+  "summary": "Create and maintain Playwright E2E tests following project patterns. Use when adding new tests, debugging test failures, or understanding test structure.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "godiemp",
+    "github": "godiemp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/godiemp/math",
+    "skill_md": "https://raw.githubusercontent.com/godiemp/math/main/.claude/skills/e2e-tests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.505Z",
+  "created_at": "2025-12-23T01:29:21.367Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/godiemp%2Fmath/.claude%2Fskills%2Fe2e-tests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_344f7d2b04fc"
+  }
+}

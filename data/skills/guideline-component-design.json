@@ -1,0 +1,36 @@
+{
+  "id": "guideline-component-design",
+  "name": "guideline-component-design",
+  "version": "1.0.0",
+  "summary": "Vueコンポーネント設計、単一責任、props/emit設計、レイアウト分離のガイド。コンポーネント作成、UI実装、レイアウト調整、リファクタリングの際に自動参照。",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "negi524",
+    "github": "negi524"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/negi524/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/negi524/dotfiles/main/.claude/skills/guideline-component-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:15:03.108Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/negi524%2Fdotfiles/.claude%2Fskills%2Fguideline-component-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_4c11760c721e"
+  }
+}

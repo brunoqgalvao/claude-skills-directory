@@ -1,0 +1,36 @@
+{
+  "id": "component-docs",
+  "name": "component-docs",
+  "version": "1.0.0",
+  "summary": "Guide for documenting project components and features. Creates or updates documentation in docs/components/ by exploring git changes to understand implementation details. Provid...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "putto11262002",
+    "github": "putto11262002"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/putto11262002/jimmodel",
+    "skill_md": "https://raw.githubusercontent.com/putto11262002/jimmodel/main/.claude/skills/component-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:10:35.343Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/putto11262002%2Fjimmodel/.claude%2Fskills%2Fcomponent-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_aaeb02775d82"
+  }
+}

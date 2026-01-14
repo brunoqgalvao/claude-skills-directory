@@ -1,0 +1,37 @@
+{
+  "id": "avoiding-any-types",
+  "name": "avoiding-any-types",
+  "version": "1.0.0",
+  "summary": "Teaches when and how to use unknown instead of any type in TypeScript. Use when working with TypeScript code that has any types, needs type safety, handling external data, or wh...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/typescript/skills/avoiding-any-types/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:01:32.163Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/typescript%2Fskills%2Favoiding-any-types%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_8c63dba33be1"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "hooks-builder",
+  "name": "hooks-builder",
+  "version": "1.0.0",
+  "summary": "Create event-driven hooks for Claude Code automation. Use when the user wants to create hooks, automate tool validation, add pre/post processing, enforce security policies, or c...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mike-coulbourn",
+    "github": "mike-coulbourn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mike-coulbourn/claude-vibes",
+    "skill_md": "https://raw.githubusercontent.com/mike-coulbourn/claude-vibes/main/plugins/vibes/skills/hooks-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:33.691Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mike-coulbourn%2Fclaude-vibes/plugins%2Fvibes%2Fskills%2Fhooks-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_4f54878b63e7"
+  }
+}

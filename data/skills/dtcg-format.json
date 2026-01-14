@@ -1,0 +1,37 @@
+{
+  "id": "dtcg-format",
+  "name": "dtcg-format",
+  "version": "1.0.0",
+  "summary": "Exports design tokens in Design Tokens Community Group (DTCG) format with Figma extensions for variable metadata. Use when creating DTCG-compliant token files, integrating with ...",
+  "verticals": [
+    "support",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "osama-eldrieny",
+    "github": "osama-eldrieny"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/osama-eldrieny/design-token-generator",
+    "skill_md": "https://raw.githubusercontent.com/osama-eldrieny/design-token-generator/main/.github/skills/dtcg-format/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:15.526Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/osama-eldrieny%2Fdesign-token-generator/.github%2Fskills%2Fdtcg-format%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_bab3bf4e9caa"
+  }
+}

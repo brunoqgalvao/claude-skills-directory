@@ -1,0 +1,35 @@
+{
+  "id": "env-config-management",
+  "name": "env-config-management",
+  "version": "1.0.0",
+  "summary": "환경변수(.env.*), Spring 프로파일(application-*.yml) 수정 시 사용. app/backend/CLAUDE.md 참조 필수. 서비스별 포트 중복 검증, 민감 정보는 .env.local만, application-*.yml은 플레이스홀더만(기본값 금지). 의미없는 override 지양. SQS 엔...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SolidCitadel",
+    "github": "SolidCitadel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SolidCitadel/UniSync",
+    "skill_md": "https://raw.githubusercontent.com/SolidCitadel/UniSync/main/.claude/skills/env-config-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.493Z",
+  "created_at": "2025-12-23T01:29:31.411Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SolidCitadel%2FUniSync/.claude%2Fskills%2Fenv-config-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_555af46ccec5"
+  }
+}

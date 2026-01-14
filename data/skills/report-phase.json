@@ -1,0 +1,36 @@
+{
+  "id": "report-phase",
+  "name": "report-phase",
+  "version": "1.0.0",
+  "summary": "Final reporting and sign-off workflow. Spawns business-analyst for PRD completion verification, project-manager to consolidate results into executive report with metrics and rec...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/workflow-steps/report-phase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T20:44:15.000Z",
+  "created_at": "2025-12-23T01:28:51.018Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fworkflow-steps%2Freport-phase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.548Z",
+    "uniqueId": "sk_6eaf37f84229"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "specification-architect",
+  "name": "specification-architect",
+  "version": "1.0.0",
+  "summary": "A rigorous, traceability-first system that generates five interconnected architectural documents (blueprint.md, requirements.md, design.md, tasks.md, and validation.md) with com...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adrianpuiu",
+    "github": "adrianpuiu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adrianpuiu/specification-document-generator",
+    "skill_md": "https://raw.githubusercontent.com/adrianpuiu/specification-document-generator/main/specification-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.144Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adrianpuiu%2Fspecification-document-generator/specification-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_0fee790e1d4f"
+  }
+}

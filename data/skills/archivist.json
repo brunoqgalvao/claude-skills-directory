@@ -1,0 +1,35 @@
+{
+  "id": "archivist",
+  "name": "archivist",
+  "version": "1.0.0",
+  "summary": "Connecte les prédictions et visions du passé aux réalités présentes pour l'Acte VI d'un épisode NEW TEMPS X. Utilise ce Skill quand tu dois créer un pont temporel entre les anné...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nmarchand73",
+    "github": "nmarchand73"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nmarchand73/new_tempsx",
+    "skill_md": "https://raw.githubusercontent.com/nmarchand73/new_tempsx/main/.claude/skills/archivist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.652Z",
+  "created_at": "2025-12-22T23:03:14.106Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nmarchand73%2Fnew_tempsx/.claude%2Fskills%2Farchivist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.652Z",
+    "uniqueId": "sk_f424bf5da847"
+  }
+}

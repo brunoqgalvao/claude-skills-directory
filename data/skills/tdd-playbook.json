@@ -1,0 +1,36 @@
+{
+  "id": "tdd-playbook",
+  "name": "tdd-playbook",
+  "version": "1.0.0",
+  "summary": "Guides strict TDD (red/green/refactor), prioritizing domain unit tests and small steps.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikivujkovic",
+    "github": "mikivujkovic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikivujkovic/claude-code-ddd-tdd-bdd",
+    "skill_md": "https://raw.githubusercontent.com/mikivujkovic/claude-code-ddd-tdd-bdd/main/.claude/skills/tdd-playbook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T16:58:41.000Z",
+  "created_at": "2025-12-22T14:13:39.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikivujkovic%2Fclaude-code-ddd-tdd-bdd/.claude%2Fskills%2Ftdd-playbook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_05faf4cee670"
+  }
+}

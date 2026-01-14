@@ -1,0 +1,35 @@
+{
+  "id": "dumbwaiter-mcp",
+  "name": "dumbwaiter-mcp",
+  "version": "1.0.0",
+  "summary": "Provider-agnostic wait-for-change skill that uses the Dumbwaiter MCP server to wait on PR events (GitHub first) via wait.start/status/cancel/await, with progress notifications a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lambdamechanic",
+    "github": "lambdamechanic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lambdamechanic/sk",
+    "skill_md": "https://raw.githubusercontent.com/lambdamechanic/sk/main/skills/dumbwaiter-mcp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T12:10:29.000Z",
+  "created_at": "2025-12-23T01:28:52.416Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lambdamechanic%2Fsk/skills%2Fdumbwaiter-mcp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.546Z",
+    "uniqueId": "sk_9af3ef59c5b9"
+  }
+}

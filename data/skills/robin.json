@@ -1,0 +1,36 @@
+{
+  "id": "robin",
+  "name": "robin",
+  "version": "1.0.0",
+  "summary": "Hyper-opinionated Claude agent for building production-ready Next.js apps with DynamoDB. Enforces best practices, eliminates technology debates, and focuses on shipping function...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "swapkats",
+    "github": "swapkats"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/swapkats/robin",
+    "skill_md": "https://raw.githubusercontent.com/swapkats/robin/main/skills/robin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T06:28:58.000Z",
+  "created_at": "2025-12-23T01:29:25.348Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/swapkats%2Frobin/skills%2Frobin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.500Z",
+    "uniqueId": "sk_39cecba8dc16"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "managing-changelog",
+  "name": "managing-changelog",
+  "version": "1.0.0",
+  "summary": "Creates, updates, and maintains CHANGELOG.md files following Common Changelog and Keep a Changelog standards. Use when creating changelogs, adding release entries, updating unre...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thoeltig",
+    "github": "thoeltig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thoeltig/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/thoeltig/claude-code-toolkit/main/plugins/changelog/skills/managing-changelog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T16:08:00.000Z",
+  "created_at": "2025-12-23T01:29:31.491Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thoeltig%2Fclaude-code-toolkit/plugins%2Fchangelog%2Fskills%2Fmanaging-changelog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_c2206a64e4eb"
+  }
+}

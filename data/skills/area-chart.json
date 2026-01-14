@@ -1,0 +1,35 @@
+{
+  "id": "area-chart",
+  "name": "area-chart",
+  "version": "1.0.0",
+  "summary": "Configure area charts in drizzle-cube dashboards for cumulative trends and stacked time series. Use when creating area charts, stacked area graphs, or cumulative visualizations.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cliftonc",
+    "github": "cliftonc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cliftonc/drizzle-cube-skills",
+    "skill_md": "https://raw.githubusercontent.com/cliftonc/drizzle-cube-skills/main/charts/area-chart/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:18.391Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cliftonc%2Fdrizzle-cube-skills/charts%2Farea-chart%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_aa0f061414b8"
+  }
+}

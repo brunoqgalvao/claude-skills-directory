@@ -1,0 +1,36 @@
+{
+  "id": "slack-memory-cleanup",
+  "name": "slack-memory-cleanup",
+  "version": "1.0.0",
+  "summary": "Memory cleanup and organization skill for AI employees. Provides guidelines for detecting duplicates, fixing misclassified files, and removing stale information from memory stor...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krafton-ai",
+    "github": "krafton-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krafton-ai/KIRA",
+    "skill_md": "https://raw.githubusercontent.com/krafton-ai/KIRA/main/.claude/skills/slack-memory-cleanup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:05:39.330Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krafton-ai%2FKIRA/.claude%2Fskills%2Fslack-memory-cleanup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_96a98c818626"
+  }
+}

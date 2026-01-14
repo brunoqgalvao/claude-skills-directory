@@ -1,0 +1,35 @@
+{
+  "id": "chess-commentator",
+  "name": "chess-commentator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when analyzing chess positions. Automatically triggers when users provide FEN positions for analysis or ask about specific chess positions. Provides en...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pilipolio",
+    "github": "pilipolio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pilipolio/chess-sandbox",
+    "skill_md": "https://raw.githubusercontent.com/pilipolio/chess-sandbox/main/.claude/skills/chess-commentator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T13:36:41.000Z",
+  "created_at": "2025-12-23T01:29:02.615Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pilipolio%2Fchess-sandbox/.claude%2Fskills%2Fchess-commentator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.529Z",
+    "uniqueId": "sk_b2f9ad717ff9"
+  }
+}

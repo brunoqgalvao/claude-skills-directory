@@ -1,0 +1,37 @@
+{
+  "id": "website-debug",
+  "name": "website-debug",
+  "version": "1.0.0",
+  "summary": "Frontend website debugging toolkit using Chrome DevTools Protocol with Playwright/WebKit fallbacks. Use this skill when: (1) Debugging CSS, HTML, or JavaScript issues on a webpa...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AnthemFlynn",
+    "github": "AnthemFlynn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AnthemFlynn/ccmp",
+    "skill_md": "https://raw.githubusercontent.com/AnthemFlynn/ccmp/main/plugins/website-debug/skills/website-debug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:10:16.141Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AnthemFlynn%2Fccmp/plugins%2Fwebsite-debug%2Fskills%2Fwebsite-debug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_e0f64bed8ff9"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "arcgis-map-tools",
+  "name": "arcgis-map-tools",
+  "version": "1.0.0",
+  "summary": "Interactive map tools including swipe comparison, measurement, identify, and routing. Use for layer comparison, distance/area measurement, and navigation services.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SaschaBrunnerCH",
+    "github": "SaschaBrunnerCH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context",
+    "skill_md": "https://raw.githubusercontent.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context/main/contexts/4.34/claude/arcgis-map-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T08:21:21.000Z",
+  "created_at": "2025-12-23T01:29:44.721Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SaschaBrunnerCH%2Farcgis-maps-sdk-js-ai-context/contexts%2F4.34%2Fclaude%2Farcgis-map-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_5d3d2086e38e"
+  }
+}

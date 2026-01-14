@@ -1,0 +1,36 @@
+{
+  "id": "ampeco-public-api",
+  "name": "ampeco-public-api",
+  "version": "1.0.0",
+  "summary": "Explore AMPECO Public API endpoints, schemas, and develop integrations\nwith the EV charging platform. Use for API exploration, building\nintegrations, or understanding available ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ampeco",
+    "github": "ampeco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ampeco/claude-code-ampeco-public-api-skill",
+    "skill_md": "https://raw.githubusercontent.com/ampeco/claude-code-ampeco-public-api-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:14:00.941Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ampeco%2Fclaude-code-ampeco-public-api-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_bb6967c218a7"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mlflow-python",
+  "name": "mlflow-python",
+  "version": "1.0.0",
+  "summary": "Log experiment metrics, parameters, and artifacts using MLflow Python API. Query and analyze runs with DataFrame operations. Use when user mentions \"log backtest\", \"MLflow metri...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/devops-tools/skills/mlflow-python/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T12:40:44.000Z",
+  "created_at": "2025-12-22T17:55:29.072Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fdevops-tools%2Fskills%2Fmlflow-python%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_1e13434f517b"
+  }
+}

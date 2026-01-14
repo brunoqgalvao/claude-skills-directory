@@ -1,0 +1,35 @@
+{
+  "id": "spawn-parallel",
+  "name": "spawn-parallel",
+  "version": "1.0.0",
+  "summary": "Pattern for spawning parallel subagents efficiently. Use when you need multiple independent tasks done concurrently.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Clouder0",
+    "github": "Clouder0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Clouder0/dotagent",
+    "skill_md": "https://raw.githubusercontent.com/Clouder0/dotagent/main/.claude/skills/spawn-parallel/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T23:39:34.000Z",
+  "created_at": "2025-12-22T16:57:36.006Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Clouder0%2Fdotagent/.claude%2Fskills%2Fspawn-parallel%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_fc1fce9715dc"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "skills-registry-organization",
+  "name": "skills-registry-organization",
+  "version": "1.0.0",
+  "summary": "Pattern for organizing Skills Registry as a shared submodule across projects",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smith6jt-cop",
+    "github": "smith6jt-cop"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smith6jt-cop/Skills_Registry",
+    "skill_md": "https://raw.githubusercontent.com/smith6jt-cop/Skills_Registry/main/plugins/general/skills-registry-organization/skills/skills-registry-organization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:56:31.084Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smith6jt-cop%2FSkills_Registry/plugins%2Fgeneral%2Fskills-registry-organization%2Fskills%2Fskills-registry-organization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_505439749ec2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "android-additional-tests",
+  "name": "android-additional-tests",
+  "version": "1.0.0",
+  "summary": "Optional - Add comprehensive tests beyond the basic smoke test",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hitoshura25",
+    "github": "hitoshura25"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hitoshura25/claude-devtools",
+    "skill_md": "https://raw.githubusercontent.com/hitoshura25/claude-devtools/main/skills/android-additional-tests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:15:49.000Z",
+  "created_at": "2025-12-23T01:29:20.654Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hitoshura25%2Fclaude-devtools/skills%2Fandroid-additional-tests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_2d07d2647f93"
+  }
+}

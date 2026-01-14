@@ -1,0 +1,35 @@
+{
+  "id": "procedure-checker",
+  "name": "procedure-checker",
+  "version": "1.0.0",
+  "summary": "Validate generated experimental procedures against LA-Bench evaluation criteria. This skill orchestrates formal validation (via script) and semantic evaluation (via subagent) to...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dakesan",
+    "github": "dakesan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dakesan/la-bench2025",
+    "skill_md": "https://raw.githubusercontent.com/dakesan/la-bench2025/main/.claude/skills/procedure-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:14.632Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dakesan%2Fla-bench2025/.claude%2Fskills%2Fprocedure-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_4e5dd95e89ed"
+  }
+}

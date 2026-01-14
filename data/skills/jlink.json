@@ -1,0 +1,36 @@
+{
+  "id": "jlink",
+  "name": "jlink",
+  "version": "1.0.0",
+  "summary": "Java automation toolkit for Creo Parametric (J-Link/Object TOOLKIT Java). Use when users ask about: writing Jlink applications, Session management, model/feature/parameter opera...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dmdorta1111",
+    "github": "dmdorta1111"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dmdorta1111/jac-v1",
+    "skill_md": "https://raw.githubusercontent.com/dmdorta1111/jac-v1/main/.claude/skills/jlink/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:10:53.285Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dmdorta1111%2Fjac-v1/.claude%2Fskills%2Fjlink%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_461c9a00aab3"
+  }
+}

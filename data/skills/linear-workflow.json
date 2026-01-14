@@ -1,0 +1,36 @@
+{
+  "id": "linear-workflow",
+  "name": "linear-workflow",
+  "version": "1.0.0",
+  "summary": "Linear issue-tracked development workflow. Auto-activates when starting work on issues, creating branches, changing status, writing comments, or creating PRs.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bahamoth",
+    "github": "bahamoth"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bahamoth/claude-linear-workflow",
+    "skill_md": "https://raw.githubusercontent.com/bahamoth/claude-linear-workflow/main/skills/linear-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.518Z",
+  "created_at": "2025-12-23T01:29:11.612Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bahamoth%2Fclaude-linear-workflow/skills%2Flinear-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_6f5ba3aa5196"
+  }
+}

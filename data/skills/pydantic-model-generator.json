@@ -1,0 +1,35 @@
+{
+  "id": "pydantic-model-generator",
+  "name": "pydantic-model-generator",
+  "version": "1.0.0",
+  "summary": "Auto-generate Pydantic models from schema descriptions with type hints, validation rules, examples, and JSON schema export. 75% token savings (2,000→500).",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gptprojectmanager",
+    "github": "gptprojectmanager"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gptprojectmanager/liquidations",
+    "skill_md": "https://raw.githubusercontent.com/gptprojectmanager/liquidations/main/.claude/skills/pydantic-model-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T20:06:46.000Z",
+  "created_at": "2025-12-23T01:29:26.599Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gptprojectmanager%2Fliquidations/.claude%2Fskills%2Fpydantic-model-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_905f08edb0b6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cs-guide-writer",
+  "name": "cs-guide-writer",
+  "version": "1.0.0",
+  "summary": "CS 학습 문서를 작성합니다. \"오늘의 CS\", \"CS 정리\", \"{주제} 정리해줘\", \"최근 이슈 CS\" 요청 시 사용하세요.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "younwony",
+    "github": "younwony"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/younwony/TIL",
+    "skill_md": "https://raw.githubusercontent.com/younwony/TIL/main/.claude/skills/cs-guide-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.788Z",
+  "created_at": "2025-12-22T19:01:26.613Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/younwony%2FTIL/.claude%2Fskills%2Fcs-guide-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_d6014f275943"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "build-quality-gates",
+  "name": "build-quality-gates",
+  "version": "1.0.0",
+  "summary": "Systematic methodology for implementing comprehensive build quality gates using BAIME framework.\nAchieved 98% error coverage with 17.4s detection time, reducing CI failures from...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yaleh",
+    "github": "yaleh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yaleh/meta-cc",
+    "skill_md": "https://raw.githubusercontent.com/yaleh/meta-cc/main/.claude/skills/build-quality-gates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.468Z",
+  "created_at": "2025-12-23T01:30:52.746Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yaleh%2Fmeta-cc/.claude%2Fskills%2Fbuild-quality-gates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.468Z",
+    "uniqueId": "sk_491f860c8454"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "julia-numerical",
+  "name": "julia-numerical",
+  "version": "1.0.0",
+  "summary": "Execute numerical calculations and mathematical computations using Julia. Use this skill for matrix operations, linear algebra, numerical integration, optimization, statistics, ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kongdd",
+    "github": "kongdd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kongdd/Skills_for_Your_AI_Student",
+    "skill_md": "https://raw.githubusercontent.com/kongdd/Skills_for_Your_AI_Student/main/skills/julia-numerical/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-24T04:32:03.000Z",
+  "created_at": "2025-12-23T01:28:40.776Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kongdd%2FSkills_for_Your_AI_Student/skills%2Fjulia-numerical%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_2ef161b068f6"
+  }
+}

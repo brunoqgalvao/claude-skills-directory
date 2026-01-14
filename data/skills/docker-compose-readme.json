@@ -1,0 +1,35 @@
+{
+  "id": "docker-compose-readme",
+  "name": "docker-compose-readme",
+  "version": "1.0.0",
+  "summary": "Generates comprehensive README.md files for Docker Compose projects by analyzing compose.yml and .env.example files. Use when user requests documentation for a docker-compose fo...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cshahdev",
+    "github": "cshahdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cshahdev/docker-compose-files",
+    "skill_md": "https://raw.githubusercontent.com/cshahdev/docker-compose-files/main/.claude/skills/docker-compose-readme/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:27.045Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cshahdev%2Fdocker-compose-files/.claude%2Fskills%2Fdocker-compose-readme%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_d2b98ee3cf65"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cohere-v2-python",
+  "name": "cohere-v2-python",
+  "version": "1.0.0",
+  "summary": "Master Cohere v2 Chat API with Python, specializing in entity extraction using JSON Schema mode for structured outputs. Use when extracting entities from text, building data ext...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ActiveInferenceInstitute",
+    "github": "ActiveInferenceInstitute"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ActiveInferenceInstitute/Journal-Utilities",
+    "skill_md": "https://raw.githubusercontent.com/ActiveInferenceInstitute/Journal-Utilities/main/.claude/skills/cohere-v2-python/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.645Z",
+  "created_at": "2025-12-22T23:05:36.970Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ActiveInferenceInstitute%2FJournal-Utilities/.claude%2Fskills%2Fcohere-v2-python%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.645Z",
+    "uniqueId": "sk_9ead42e77ef4"
+  }
+}

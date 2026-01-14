@@ -1,0 +1,37 @@
+{
+  "id": "sop-product-launch",
+  "name": "sop-product-launch",
+  "version": "1.0.0",
+  "summary": "Complete product launch workflow coordinating 15+ specialist agents across research, development, marketing, sales, and operations. Uses sequential and parallel orchestration fo...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/ai-chrome-extension",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/ai-chrome-extension/main/.claude/skills/sop-product-launch/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.688Z",
+  "created_at": "2025-12-22T22:08:30.933Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fai-chrome-extension/.claude%2Fskills%2Fsop-product-launch%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.688Z",
+    "uniqueId": "sk_2f1737f1d81c"
+  }
+}

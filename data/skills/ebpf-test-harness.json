@@ -1,0 +1,36 @@
+{
+  "id": "ebpf-test-harness",
+  "name": "ebpf-test-harness",
+  "version": "1.0.0",
+  "summary": "Generate test infrastructure for eBPF CNF programs including network namespace setup, virtual interface creation, traffic generation, packet injection, and validation of packet ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cassamajor",
+    "github": "cassamajor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cassamajor/xcnf",
+    "skill_md": "https://raw.githubusercontent.com/cassamajor/xcnf/main/.claude/skills/ebpf-test-harness/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:11:48.823Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cassamajor%2Fxcnf/.claude%2Fskills%2Febpf-test-harness%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_2bfaa46995de"
+  }
+}

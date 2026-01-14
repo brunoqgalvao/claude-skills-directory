@@ -1,0 +1,36 @@
+{
+  "id": "github-copilot",
+  "name": "github-copilot",
+  "version": "1.0.0",
+  "summary": "GitHub Copilot REST API via curl. Use this skill to manage Copilot subscriptions and retrieve usage metrics.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-skills",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-skills/main/github-copilot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:28.098Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-skills/github-copilot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_97cdee89e3e2"
+  }
+}

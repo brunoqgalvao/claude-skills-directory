@@ -1,0 +1,36 @@
+{
+  "id": "complete-spec",
+  "name": "complete-spec",
+  "version": "1.0.0",
+  "summary": "Interactive conversation to resolve [NEEDS CLARIFICATION] markers using /speckit.clarify command. Claude asks questions about missing features, UX/UI details, behavior, and prio...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jschulte",
+    "github": "jschulte"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jschulte/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jschulte/claude-plugins/main/stackshift/skills/complete-spec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:12.144Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jschulte%2Fclaude-plugins/stackshift%2Fskills%2Fcomplete-spec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_4626df44bddb"
+  }
+}

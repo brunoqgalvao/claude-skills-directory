@@ -1,0 +1,35 @@
+{
+  "id": "drizzle-patterns",
+  "name": "drizzle-patterns",
+  "version": "1.0.0",
+  "summary": "Drizzle ORM schema patterns for Otaku Odyssey. Use when creating or modifying database schemas, migrations, or relations.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leonardoacosta",
+    "github": "leonardoacosta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leonardoacosta/Installfest",
+    "skill_md": "https://raw.githubusercontent.com/leonardoacosta/Installfest/main/automate/.claude/skills/drizzle-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T22:36:21.000Z",
+  "created_at": "2025-12-23T01:29:00.845Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leonardoacosta%2FInstallfest/automate%2F.claude%2Fskills%2Fdrizzle-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_c3176c052e42"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "advanced-debugging",
+  "name": "advanced-debugging",
+  "version": "1.0.0",
+  "summary": "State-of-the-art debugging agent with hypothesis-driven analysis, automatic code instrumentation, git worktree isolation, and browser automation. Use when debugging errors, stac...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "g97iulio1609",
+    "github": "g97iulio1609"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/g97iulio1609/vscode-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/g97iulio1609/vscode-agent-skills/main/skills/advanced-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:28.441Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/g97iulio1609%2Fvscode-agent-skills/skills%2Fadvanced-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_36159bba6a4c"
+  }
+}

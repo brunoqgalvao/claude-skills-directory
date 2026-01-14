@@ -1,0 +1,35 @@
+{
+  "id": "quality-advisor",
+  "name": "quality-advisor",
+  "version": "1.0.0",
+  "summary": "Proactive quality guidance system that monitors artifact creation and provides real-time feedback on documentation quality",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vladm3105",
+    "github": "vladm3105"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vladm3105/aidoc-flow-framework",
+    "skill_md": "https://raw.githubusercontent.com/vladm3105/aidoc-flow-framework/main/.claude/skills/quality-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:37.655Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vladm3105%2Faidoc-flow-framework/.claude%2Fskills%2Fquality-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_4c08c8b304fc"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "math-tools",
+  "name": "math-tools",
+  "version": "1.0.0",
+  "summary": "Deterministic mathematical computation using SymPy. Use for ANY math operation requiring exact/verified results - basic arithmetic, algebra (simplify, expand, factor, solve equa...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ananddtyagi",
+    "github": "ananddtyagi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ananddtyagi/cc-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/ananddtyagi/cc-marketplace/main/plugins/math/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:51:10.730Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ananddtyagi%2Fcc-marketplace/plugins%2Fmath%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_0a2d518c56c1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "csrf-auth-debugger",
+  "name": "csrf-auth-debugger",
+  "version": "1.0.0",
+  "summary": "Debug CSRF token issues and authentication problems including 403 Forbidden errors, cookie issues, JWT tokens, OAuth flows, and session management. Use when troubleshooting CSRF...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "allthriveai",
+    "github": "allthriveai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/allthriveai/allthriveai",
+    "skill_md": "https://raw.githubusercontent.com/allthriveai/allthriveai/main/.claude/skills/csrf-auth-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:33.042Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/allthriveai%2Fallthriveai/.claude%2Fskills%2Fcsrf-auth-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_fb26a582656c"
+  }
+}

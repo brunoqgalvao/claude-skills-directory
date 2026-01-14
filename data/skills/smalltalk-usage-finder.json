@@ -1,0 +1,35 @@
+{
+  "id": "smalltalk-usage-finder",
+  "name": "smalltalk-usage-finder",
+  "version": "1.0.0",
+  "summary": "Use this skill when user asks \"with smalltalk-usage-finder\", \"how to use X class?\", \"show usage examples\", \"what is X responsible for?\", \"find examples of Y\", \"what does this cl...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mumez",
+    "github": "mumez"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mumez/smalltalk-dev-plugin",
+    "skill_md": "https://raw.githubusercontent.com/mumez/smalltalk-dev-plugin/main/skills/smalltalk-usage-finder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T14:30:59.000Z",
+  "created_at": "2025-12-23T01:29:23.899Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mumez%2Fsmalltalk-dev-plugin/skills%2Fsmalltalk-usage-finder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_c9a07b168fdd"
+  }
+}

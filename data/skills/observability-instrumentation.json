@@ -1,0 +1,36 @@
+{
+  "id": "observability-instrumentation",
+  "name": "observability-instrumentation",
+  "version": "1.0.0",
+  "summary": "Add comprehensive observability to new code with structured logs (correlation ID), metrics (latency, errors, RPS), and traces around DB/HTTP calls. Use when implementing new fea...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "VilnaCRM-Org",
+    "github": "VilnaCRM-Org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/VilnaCRM-Org/core-service",
+    "skill_md": "https://raw.githubusercontent.com/VilnaCRM-Org/core-service/main/.claude/skills/observability-instrumentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:38.754Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/VilnaCRM-Org%2Fcore-service/.claude%2Fskills%2Fobservability-instrumentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_6f0e0c8ad700"
+  }
+}

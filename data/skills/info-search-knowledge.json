@@ -1,0 +1,35 @@
+{
+  "id": "info-search-knowledge",
+  "name": "info-search-knowledge",
+  "version": "1.0.0",
+  "summary": "针对新产品、新技术进行多渠道信息搜索和验证，并将可靠信息保存到知识库。优先选择权威科技媒体，忽略过时信息源。当用户提到\"最新信息\"、\"新产品\"、\"新技术\"、\"搜索资料\"、\"查资料\"、\"了解XX\"时使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alchaincyf",
+    "github": "alchaincyf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alchaincyf/glm-claude",
+    "skill_md": "https://raw.githubusercontent.com/alchaincyf/glm-claude/main/skills/info-search-knowledge/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:15:46.931Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alchaincyf%2Fglm-claude/skills%2Finfo-search-knowledge%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_7a9fcbb56d48"
+  }
+}

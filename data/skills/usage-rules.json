@@ -1,0 +1,35 @@
+{
+  "id": "usage-rules",
+  "name": "usage-rules",
+  "version": "1.0.0",
+  "summary": "Search for package-specific usage rules and best practices from Elixir packages. Use when you need coding conventions, patterns, common mistakes, or good/bad examples for packag...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bradleygolden",
+    "github": "bradleygolden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bradleygolden/claude-marketplace-elixir",
+    "skill_md": "https://raw.githubusercontent.com/bradleygolden/claude-marketplace-elixir/main/plugins/core/skills/usage-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:52.685Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bradleygolden%2Fclaude-marketplace-elixir/plugins%2Fcore%2Fskills%2Fusage-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_99524ba65959"
+  }
+}

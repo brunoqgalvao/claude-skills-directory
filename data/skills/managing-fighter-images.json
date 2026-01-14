@@ -1,0 +1,36 @@
+{
+  "id": "managing-fighter-images",
+  "name": "managing-fighter-images",
+  "version": "1.0.0",
+  "summary": "Use this skill when working with UFC fighter images including downloading from multiple sources (Wikimedia, Sherdog, Bing), detecting and replacing placeholder images, handling ...",
+  "verticals": [
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wolfiesch",
+    "github": "wolfiesch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wolfiesch/UFC-pokedex",
+    "skill_md": "https://raw.githubusercontent.com/wolfiesch/UFC-pokedex/main/.claude/skills/managing-fighter-images/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T06:15:18.000Z",
+  "created_at": "2025-12-23T01:29:44.733Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wolfiesch%2FUFC-pokedex/.claude%2Fskills%2Fmanaging-fighter-images%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_42ef221ae9d7"
+  }
+}

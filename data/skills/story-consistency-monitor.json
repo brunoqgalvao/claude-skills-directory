@@ -1,0 +1,35 @@
+{
+  "id": "story-consistency-monitor",
+  "name": "story-consistency-monitor",
+  "version": "1.0.0",
+  "summary": "Use during chapter writing to automatically check character behavior, world rules, and timeline consistency - alerts when detecting potential contradictions before they become m...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wordflowlab",
+    "github": "wordflowlab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wordflowlab/novel-writer-skills",
+    "skill_md": "https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/templates/skills/quality-assurance/consistency-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:56:59.345Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wordflowlab%2Fnovel-writer-skills/templates%2Fskills%2Fquality-assurance%2Fconsistency-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_816f53b18243"
+  }
+}

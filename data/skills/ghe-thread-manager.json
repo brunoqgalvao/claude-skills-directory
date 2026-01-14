@@ -1,0 +1,37 @@
+{
+  "id": "ghe-thread-manager",
+  "name": "ghe-thread-manager",
+  "version": "1.0.0",
+  "summary": "Use this skill when the user expresses ANY intent related to issue/thread management:\n\n- Switching issues: \"let's work on X\", \"switch to #Y\", \"go to the auth issue\"\n- Checking s...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Emasoft",
+    "github": "Emasoft"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Emasoft/ghe-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Emasoft/ghe-marketplace/main/plugins/ghe/skills/ghe-thread-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-22T23:59:03.817Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Emasoft%2Fghe-marketplace/plugins%2Fghe%2Fskills%2Fghe-thread-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_badbcfc062a7"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fake-driven-testing",
+  "name": "fake-driven-testing",
+  "version": "1.0.0",
+  "summary": "This skill should be used when writing tests, fixing bugs, adding features, or modifying the gateway layer. Use when you need guidance on testing architecture, working with fake...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dagster-io",
+    "github": "dagster-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dagster-io/erk",
+    "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/.claude/skills/fake-driven-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:28.066Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dagster-io%2Ferk/.claude%2Fskills%2Ffake-driven-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_7b0a5ea39d51"
+  }
+}

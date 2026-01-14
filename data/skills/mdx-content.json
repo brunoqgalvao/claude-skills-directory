@@ -1,0 +1,37 @@
+{
+  "id": "mdx-content",
+  "name": "mdx-content",
+  "version": "1.0.0",
+  "summary": "Content schema design and MDX configuration patterns for knowledge bases. Use when designing content structure, configuring MDX processing, or setting up frontmatter schemas.",
+  "verticals": [
+    "marketing",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wlfmnstr",
+    "github": "wlfmnstr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wlfmnstr/agentic-knowledge-base",
+    "skill_md": "https://raw.githubusercontent.com/wlfmnstr/agentic-knowledge-base/main/.claude/skills/mdx-content/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:01.621Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wlfmnstr%2Fagentic-knowledge-base/.claude%2Fskills%2Fmdx-content%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_4c1a4ec73dbd"
+  }
+}

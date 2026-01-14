@@ -1,0 +1,37 @@
+{
+  "id": "therapy-orchestrator",
+  "name": "therapy-orchestrator",
+  "version": "1.0.0",
+  "summary": "Master coordinator for NextStep Therapy's 12 skills. Diagnoses what the user needs, routes to appropriate skills, manages state across sessions, and handles context handoffs wit...",
+  "verticals": [
+    "marketing",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jhcynamon1",
+    "github": "jhcynamon1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jhcynamon1/NextStepTherapySite-v2",
+    "skill_md": "https://raw.githubusercontent.com/jhcynamon1/NextStepTherapySite-v2/main/.claude/skills/therapy-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:00.536Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jhcynamon1%2FNextStepTherapySite-v2/.claude%2Fskills%2Ftherapy-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_c4f7661b082e"
+  }
+}

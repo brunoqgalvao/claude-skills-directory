@@ -1,0 +1,37 @@
+{
+  "id": "nodejs-backend-typescript",
+  "name": "nodejs-backend-typescript",
+  "version": "1.0.0",
+  "summary": "Node.js backend development with TypeScript, Express/Fastify servers, routing, middleware, and database integration. Use when building REST APIs with TypeScript, creating Expres...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-typescript-frameworks-nodejs-backend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.607Z",
+  "created_at": "2025-12-23T00:01:47.007Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-typescript-frameworks-nodejs-backend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.607Z",
+    "uniqueId": "sk_24c4a499a634"
+  }
+}

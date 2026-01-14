@@ -1,0 +1,37 @@
+{
+  "id": "rust-project",
+  "name": "rust-project",
+  "version": "1.0.0",
+  "summary": "Modern Rust project architecture guide for 2025. Use when creating Rust projects (CLI, web services, libraries). Covers workspace structure, error handling, async patterns, and ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majiayu000",
+    "github": "majiayu000"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majiayu000/claude-arsenal",
+    "skill_md": "https://raw.githubusercontent.com/majiayu000/claude-arsenal/main/skills/rust-project/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:40.995Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majiayu000%2Fclaude-arsenal/skills%2Frust-project%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_405e7ca21dff"
+  }
+}

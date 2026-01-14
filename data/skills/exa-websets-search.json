@@ -1,0 +1,35 @@
+{
+  "id": "exa-websets-search",
+  "name": "exa-websets-search",
+  "version": "1.0.0",
+  "summary": "Use for creating websets, running searches, importing CSV data, managing items, and adding enrichments to extract structured data.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benjaminjackson",
+    "github": "benjaminjackson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benjaminjackson/exa-skills",
+    "skill_md": "https://raw.githubusercontent.com/benjaminjackson/exa-skills/main/exa-websets/skills/search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:31.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benjaminjackson%2Fexa-skills/exa-websets%2Fskills%2Fsearch%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_0ef8ab983e9a"
+  }
+}

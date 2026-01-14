@@ -1,0 +1,35 @@
+{
+  "id": "trading-session",
+  "name": "trading-session",
+  "version": "1.0.0",
+  "summary": "交易时段配置 - 定义可交易时间段, AI 代理在开仓前必须检查当前是否在可交易时段内",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phpmac",
+    "github": "phpmac"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phpmac/trader",
+    "skill_md": "https://raw.githubusercontent.com/phpmac/trader/main/.claude/skills/交易时段/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T12:57:52.000Z",
+  "created_at": "2025-12-23T01:28:28.972Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phpmac%2Ftrader/.claude%2Fskills%2F%E4%BA%A4%E6%98%93%E6%97%B6%E6%AE%B5%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_258a7ce44092"
+  }
+}

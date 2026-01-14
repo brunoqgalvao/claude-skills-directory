@@ -1,0 +1,35 @@
+{
+  "id": "dismech-references",
+  "name": "dismech-references",
+  "version": "1.0.0",
+  "summary": "Skill for validating and repairing evidence references in the dismech knowledge base. Use this skill when working with evidence items in disorder YAML files, validating that sni...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "monarch-initiative",
+    "github": "monarch-initiative"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/monarch-initiative/dismech",
+    "skill_md": "https://raw.githubusercontent.com/monarch-initiative/dismech/main/.claude/skills/dismech-references/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T16:57:31.000Z",
+  "created_at": "2025-12-23T01:29:05.364Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/monarch-initiative%2Fdismech/.claude%2Fskills%2Fdismech-references%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_58785182510c"
+  }
+}

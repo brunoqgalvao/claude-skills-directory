@@ -1,0 +1,35 @@
+{
+  "id": "fizzy",
+  "name": "fizzy",
+  "version": "1.0.0",
+  "summary": "Manage Fizzy boards, cards, and tasks using the fizzy CLI",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robzolkos",
+    "github": "robzolkos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robzolkos/fizzy-skill",
+    "skill_md": "https://raw.githubusercontent.com/robzolkos/fizzy-skill/main/fizzy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:43.182Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robzolkos%2Ffizzy-skill/fizzy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_eaf622f984fb"
+  }
+}

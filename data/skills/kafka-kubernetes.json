@@ -1,0 +1,36 @@
+{
+  "id": "kafka-kubernetes",
+  "name": "kafka-kubernetes",
+  "version": "1.0.0",
+  "summary": "Kubernetes deployment expert for Apache Kafka. Guides K8s deployments using Helm charts, operators (Strimzi, Confluent), StatefulSets, and production best practices. Activates f...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave-kafka/skills/kafka-kubernetes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:04:13.754Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave-kafka%2Fskills%2Fkafka-kubernetes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_b3220709d35e"
+  }
+}

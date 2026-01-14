@@ -1,0 +1,35 @@
+{
+  "id": "context7-docs",
+  "name": "context7-docs",
+  "version": "1.0.0",
+  "summary": "Retrieve up-to-date official documentation for any library or framework using Context7",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-jelly",
+    "github": "dev-jelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-jelly/jelly-dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/dev-jelly/jelly-dotclaude/main/plugins/skills/skills/context7-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T10:57:53.000Z",
+  "created_at": "2025-12-23T01:28:34.552Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-jelly%2Fjelly-dotclaude/plugins%2Fskills%2Fskills%2Fcontext7-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_bc04f21ea878"
+  }
+}

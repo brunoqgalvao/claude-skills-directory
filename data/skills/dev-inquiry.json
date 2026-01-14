@@ -1,0 +1,37 @@
+{
+  "id": "dev-inquiry",
+  "name": "dev-inquiry",
+  "version": "1.0.0",
+  "summary": "Developer inquiry skill for technical investigation, validation, and decision-making. Use when exploring unfamiliar technology, validating approaches with spikes, comparing opti...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpazaryna",
+    "github": "mpazaryna"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpazaryna/claude-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/mpazaryna/claude-toolkit/main/generated-skills/dev-inquiry/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.833Z",
+  "created_at": "2025-12-22T16:53:49.296Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpazaryna%2Fclaude-toolkit/generated-skills%2Fdev-inquiry%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.833Z",
+    "uniqueId": "sk_7a9240837620"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "design-schema",
+  "name": "design-schema",
+  "version": "1.0.0",
+  "summary": "Design complete database schemas with tables, relationships, constraints, and indexes for Supabase. Triggers when user describes data models, entities, or requests schema design.",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rdimascio",
+    "github": "rdimascio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rdimascio/supabase-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/rdimascio/supabase-marketplace/main/plugins/database-operations/.claude/skills/design-schema/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:28.624Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rdimascio%2Fsupabase-marketplace/plugins%2Fdatabase-operations%2F.claude%2Fskills%2Fdesign-schema%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_4aede3227dd4"
+  }
+}

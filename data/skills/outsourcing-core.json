@@ -1,0 +1,35 @@
+{
+  "id": "outsourcing-core",
+  "name": "outsourcing-core",
+  "version": "1.0.0",
+  "summary": "로컬 AI CLI에 작업을 아웃소싱할 때 자동 활성화. Use when the task is complex, requires specialized AI capabilities, or benefits from distributing work to different AI models",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "inchan",
+    "github": "inchan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/inchan/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/inchan/claude-plugins/main/plugins/outsourcing/skills/outsourcing-core/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:43.492Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/inchan%2Fclaude-plugins/plugins%2Foutsourcing%2Fskills%2Foutsourcing-core%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_28954a4b91b8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "comprehensive-research",
+  "name": "comprehensive-research",
+  "version": "1.0.0",
+  "summary": "Multi-phase research orchestration skill for thorough codebase, documentation, and external knowledge investigation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "v1truv1us",
+    "github": "v1truv1us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/v1truv1us/ai-eng-system",
+    "skill_md": "https://raw.githubusercontent.com/v1truv1us/ai-eng-system/main/plugins/ai-eng-system/skills/research/comprehensive-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:19:40.296Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/v1truv1us%2Fai-eng-system/plugins%2Fai-eng-system%2Fskills%2Fresearch%2Fcomprehensive-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_775b348efc46"
+  }
+}

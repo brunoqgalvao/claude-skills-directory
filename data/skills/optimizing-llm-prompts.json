@@ -1,0 +1,35 @@
+{
+  "id": "optimizing-llm-prompts",
+  "name": "optimizing-llm-prompts",
+  "version": "1.0.0",
+  "summary": "Refine and structure prompts for LLMs to ensure clarity, reliability, and optimal performance. Use when writing system prompts, complex instructions, or debugging agent behaviors.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kylehughes",
+    "github": "kylehughes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kylehughes/knapsack",
+    "skill_md": "https://raw.githubusercontent.com/kylehughes/knapsack/main/dotfiles/link/claude/skills/optimizing-llm-prompts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T00:10:36.000Z",
+  "created_at": "2025-12-23T01:28:40.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kylehughes%2Fknapsack/dotfiles%2Flink%2Fclaude%2Fskills%2Foptimizing-llm-prompts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_d0397a712af2"
+  }
+}

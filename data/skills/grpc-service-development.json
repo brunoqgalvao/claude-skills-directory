@@ -1,0 +1,37 @@
+{
+  "id": "grpc-service-development",
+  "name": "grpc-service-development",
+  "version": "1.0.0",
+  "summary": "Build high-performance gRPC services with Protocol Buffers, bidirectional streaming, and microservice communication. Use when building gRPC servers, defining service contracts, ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/grpc-service-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:02.478Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fgrpc-service-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_227f6d130446"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "zaregoto-miko",
+  "name": "zaregoto-miko",
+  "version": "1.0.0",
+  "summary": "将素材转换为戏言系列葵井巫女子的说话风格。触发场景：(1) 用户提供素材并要求「用巫女子风格改写」「巫女子会怎么说」；(2) 用户说「戏言风格」「巫女子口吻」；(3) 需要将普通文字转换为荒诞比喻 + 活泼语气的风格。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "niracler",
+    "github": "niracler"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/niracler/skill",
+    "skill_md": "https://raw.githubusercontent.com/niracler/skill/main/zaregoto-miko/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:54:49.482Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/niracler%2Fskill/zaregoto-miko%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_c43f1651fd5e"
+  }
+}

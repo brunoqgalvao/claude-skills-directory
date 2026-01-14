@@ -1,0 +1,35 @@
+{
+  "id": "weekly-reflection",
+  "name": "weekly-reflection",
+  "version": "1.0.0",
+  "summary": "Conduct comprehensive weekly reflections by integrating time tracking (Timing app), habit tracking (Streaks), task completion (Todoist), email activity (Gmail), and notes (Obsid...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fdhidalgo",
+    "github": "fdhidalgo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fdhidalgo/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/fdhidalgo/claude-config/main/skills-desktop/weekly-reflection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-22T23:58:34.688Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fdhidalgo%2Fclaude-config/skills-desktop%2Fweekly-reflection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_b09e690134d1"
+  }
+}

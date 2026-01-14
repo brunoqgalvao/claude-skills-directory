@@ -1,0 +1,35 @@
+{
+  "id": "chatmemo-update",
+  "name": "chatmemo-update",
+  "version": "1.0.0",
+  "summary": "This skill should be used when a user wants to create Chat Memo update release materials, specifically to generate an HTML poster and a markdown update description document for ...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eze-is",
+    "github": "eze-is"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eze-is/chat-memo-website",
+    "skill_md": "https://raw.githubusercontent.com/eze-is/chat-memo-website/main/update-item/.claude/skills/chatmemo-update/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:51.870Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eze-is%2Fchat-memo-website/update-item%2F.claude%2Fskills%2Fchatmemo-update%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_32ac6edb61aa"
+  }
+}

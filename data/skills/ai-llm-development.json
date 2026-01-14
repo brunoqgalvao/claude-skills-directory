@@ -1,0 +1,36 @@
+{
+  "id": "ai-llm-development",
+  "name": "ai-llm-development",
+  "version": "1.0.0",
+  "summary": "MANDATORY invocation for ALL LLM-related work. Invoke immediately when:\n- ANY mention of model names, IDs, or versions\n- ANY configuration of AI providers or APIs\n- ANY defaults...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phrazzld",
+    "github": "phrazzld"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phrazzld/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/phrazzld/claude-config/main/skills/ai-llm-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.721Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phrazzld%2Fclaude-config/skills%2Fai-llm-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_a466193dde6c"
+  }
+}

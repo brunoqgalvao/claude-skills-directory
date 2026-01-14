@@ -1,0 +1,35 @@
+{
+  "id": "council-router",
+  "name": "council-router",
+  "version": "1.0.0",
+  "summary": "Route code reviews to appropriate council members. Use when reviewing PRs, architecture decisions, or significant code changes that need expert perspective.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "namastexlabs",
+    "github": "namastexlabs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/namastexlabs/automagik-tools",
+    "skill_md": "https://raw.githubusercontent.com/namastexlabs/automagik-tools/main/.claude/skills/council-router/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.464Z",
+  "created_at": "2025-12-22T15:03:04.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/namastexlabs%2Fautomagik-tools/.claude%2Fskills%2Fcouncil-router%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.464Z",
+    "uniqueId": "sk_ea9c1d4a7e2f"
+  }
+}

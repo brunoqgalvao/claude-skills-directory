@@ -1,0 +1,37 @@
+{
+  "id": "designing-clis",
+  "name": "designing-clis",
+  "version": "1.0.0",
+  "summary": "Use when building, improving, or reviewing command-line interfaces for better user experience - before implementing commands/output/errors, when users report confusion or frustr...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "technicalpickles",
+    "github": "technicalpickles"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/technicalpickles/pickled-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/technicalpickles/pickled-claude-plugins/main/plugins/dev-tools/skills/designing-clis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.822Z",
+  "created_at": "2025-12-22T17:06:10.166Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/technicalpickles%2Fpickled-claude-plugins/plugins%2Fdev-tools%2Fskills%2Fdesigning-clis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.822Z",
+    "uniqueId": "sk_82ea29b21815"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "blinding",
+  "name": "blinding",
+  "version": "1.0.0",
+  "summary": "Implement blinding procedures to reduce bias in experimental studies. Use when: (1) Designing RCTs, (2) Ensuring objectivity, (3) Meeting CONSORT standards, (4) Minimizing perfo...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoreyai",
+    "github": "astoreyai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoreyai/ai_scientist",
+    "skill_md": "https://raw.githubusercontent.com/astoreyai/ai_scientist/main/skills/blinding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:56:51.874Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoreyai%2Fai_scientist/skills%2Fblinding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_4b79674c6a94"
+  }
+}

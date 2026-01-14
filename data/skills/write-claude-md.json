@@ -1,0 +1,35 @@
+{
+  "id": "write-claude-md",
+  "name": "write-claude-md",
+  "version": "1.0.0",
+  "summary": "Create effective CLAUDE.md files with proper constitution using <law> blocks. Use when creating project setup, writing new CLAUDE.md, or improving existing configuration.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wayne930242",
+    "github": "wayne930242"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wayne930242/Reflexive-Claude-Code",
+    "skill_md": "https://raw.githubusercontent.com/wayne930242/Reflexive-Claude-Code/main/skills/write-claude-md/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:53.637Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wayne930242%2FReflexive-Claude-Code/skills%2Fwrite-claude-md%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_25e3a4e96eaa"
+  }
+}

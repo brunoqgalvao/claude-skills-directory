@@ -1,0 +1,35 @@
+{
+  "id": "recursive-communicator",
+  "name": "recursive-communicator",
+  "version": "1.0.0",
+  "summary": "Auto-activates when managing agent-to-agent communication for validation failures and recursive fix cycles between validation specialists and main agent.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matteocervelli",
+    "github": "matteocervelli"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matteocervelli/llms",
+    "skill_md": "https://raw.githubusercontent.com/matteocervelli/llms/main/.claude/skills/recursive-communicator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.476Z",
+  "created_at": "2025-12-23T01:29:52.703Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matteocervelli%2Fllms/.claude%2Fskills%2Frecursive-communicator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.476Z",
+    "uniqueId": "sk_2a14b65fbfae"
+  }
+}

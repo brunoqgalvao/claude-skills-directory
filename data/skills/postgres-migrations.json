@@ -1,0 +1,36 @@
+{
+  "id": "postgres-migrations",
+  "name": "postgres-migrations",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide to PostgreSQL migrations - common errors, generated columns, full-text search, indexes, idempotent migrations, and best practices for database schema changes",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_categorized/nosql-databases/postgres-migrations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.458Z",
+  "created_at": "2025-12-22T21:18:58.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_categorized%2Fnosql-databases%2Fpostgres-migrations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.458Z",
+    "uniqueId": "sk_a62c9e1dc55f"
+  }
+}

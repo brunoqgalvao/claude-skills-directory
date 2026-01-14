@@ -1,0 +1,36 @@
+{
+  "id": "weekly-analysis",
+  "name": "weekly-analysis",
+  "version": "1.0.0",
+  "summary": "Complete weekly stock analysis workflow: fetch end-of-week prices, calculate returns/momentum, and merge with fundamentals from Rice Data Portal. Self-contained for all weekly a...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kerryback",
+    "github": "kerryback"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kerryback/mgmt638",
+    "skill_md": "https://raw.githubusercontent.com/kerryback/mgmt638/main/.claude/skills/weekly-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:13.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kerryback%2Fmgmt638/.claude%2Fskills%2Fweekly-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_4c86738aa94a"
+  }
+}

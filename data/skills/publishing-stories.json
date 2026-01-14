@@ -1,0 +1,35 @@
+{
+  "id": "publishing-stories",
+  "name": "publishing-stories",
+  "version": "1.0.0",
+  "summary": "Guides commit, push, and draft PR creation for stories. Use when ready to commit changes, pushing to remote, or creating a pull request for review.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kecbigmt",
+    "github": "kecbigmt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kecbigmt/story-driven-cc",
+    "skill_md": "https://raw.githubusercontent.com/kecbigmt/story-driven-cc/main/skills/publishing-stories/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:05:59.447Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kecbigmt%2Fstory-driven-cc/skills%2Fpublishing-stories%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_8558d4f11330"
+  }
+}

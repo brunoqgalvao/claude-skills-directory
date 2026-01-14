@@ -1,0 +1,35 @@
+{
+  "id": "create-custom-dagster-component",
+  "name": "create-custom-dagster-component",
+  "version": "1.0.0",
+  "summary": "Create a custom Dagster Component with demo mode support, realistic asset structure, and optional custom scaffolder using the dg CLI. Use this skill if there is no Component inc...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C00ldudeNoonan",
+    "github": "C00ldudeNoonan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C00ldudeNoonan/economic-data-project",
+    "skill_md": "https://raw.githubusercontent.com/C00ldudeNoonan/economic-data-project/main/.claude/skills/create-custom-dagster-component/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:36.419Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C00ldudeNoonan%2Feconomic-data-project/.claude%2Fskills%2Fcreate-custom-dagster-component%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_eacea4a69165"
+  }
+}

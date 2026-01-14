@@ -1,0 +1,37 @@
+{
+  "id": "dev-cli-development",
+  "name": "dev-cli-development",
+  "version": "1.0.0",
+  "summary": "Guide for developing AIDB dev-cli commands and services. Covers Click framework patterns, service architecture, command development, decorators, error handling, CommandExecutor,...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ai-debugger-inc",
+    "github": "ai-debugger-inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ai-debugger-inc/aidb",
+    "skill_md": "https://raw.githubusercontent.com/ai-debugger-inc/aidb/main/.claude/skills/dev-cli-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.472Z",
+  "created_at": "2025-12-23T01:29:58.439Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ai-debugger-inc%2Faidb/.claude%2Fskills%2Fdev-cli-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.472Z",
+    "uniqueId": "sk_ceaf2c034f1b"
+  }
+}

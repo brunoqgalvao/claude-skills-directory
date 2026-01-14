@@ -1,0 +1,35 @@
+{
+  "id": "auth-bypass",
+  "name": "auth-bypass",
+  "version": "1.0.0",
+  "summary": "认证绕过漏洞检测与利用。当目标存在登录功能、权限控制、JWT/Session 认证时使用。包括 IDOR、越权访问等。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yhy0",
+    "github": "yhy0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yhy0/CHYing-agent",
+    "skill_md": "https://raw.githubusercontent.com/yhy0/CHYing-agent/main/chying_agent/skills/auth-bypass/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:23.736Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yhy0%2FCHYing-agent/chying_agent%2Fskills%2Fauth-bypass%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_abeb1d2f838f"
+  }
+}

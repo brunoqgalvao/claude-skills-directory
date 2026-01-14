@@ -1,0 +1,37 @@
+{
+  "id": "podcast",
+  "name": "podcast",
+  "version": "1.0.0",
+  "summary": "Creates audio podcasts from text using browser text-to-speech. Use when user mentions podcast, audio conversation, dialogue, spoken content, voice narration, audio book, or text...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sgasser",
+    "github": "sgasser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sgasser/claude-skill-podcast",
+    "skill_md": "https://raw.githubusercontent.com/sgasser/claude-skill-podcast/main/podcast/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:08.876Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sgasser%2Fclaude-skill-podcast/podcast%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_945cb56a6598"
+  }
+}

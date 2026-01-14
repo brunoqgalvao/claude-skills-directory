@@ -1,0 +1,35 @@
+{
+  "id": "feature-validator",
+  "name": "feature-validator",
+  "version": "1.0.0",
+  "summary": "Validates new features against the project's feature system documented in docs/FEATURES.md. Ensures feature flags follow conventions, checks feature module structure, validates ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lewisflude",
+    "github": "lewisflude"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lewisflude/nix",
+    "skill_md": "https://raw.githubusercontent.com/lewisflude/nix/main/.claude/skills/feature-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:42.011Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lewisflude%2Fnix/.claude%2Fskills%2Ffeature-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_c0b5cffc392a"
+  }
+}

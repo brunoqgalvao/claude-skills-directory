@@ -1,0 +1,35 @@
+{
+  "id": "unused-code-cleanup",
+  "name": "unused-code-cleanup",
+  "version": "1.0.0",
+  "summary": "Systematically identify and remove unused imports, variables, and dead code from TypeScript/React projects using --noUnusedLocals and --noUnusedParameters compiler flags",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phamhung075",
+    "github": "phamhung075"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phamhung075/4genthub-hooks",
+    "skill_md": "https://raw.githubusercontent.com/phamhung075/4genthub-hooks/main/skills/unused-code-cleanup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:03:50.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phamhung075%2F4genthub-hooks/skills%2Funused-code-cleanup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_c5821e6af121"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claude-refactoring",
+  "name": "claude-refactoring",
+  "version": "1.0.0",
+  "summary": "CLAUDE.md 메모리 파일 리팩토링 및 정리 스킬. 기존 CLAUDE.md 분석, 구조 개선, 컨텍스트 효율성 최적화를 수행합니다. 트리거: CLAUDE.md 리팩토링, CLAUDE.md 정리, 메모리 파일 개선, 프로젝트 가이드 최적화, CLAUDE.md 분석, 클로드 가이드 작성, CLAUDE.md 작성 도와줘.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rungchan2",
+    "github": "rungchan2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rungchan2/frontend-skills",
+    "skill_md": "https://raw.githubusercontent.com/rungchan2/frontend-skills/main/skills/claude-refactoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.530Z",
+  "created_at": "2025-12-23T01:29:01.945Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rungchan2%2Ffrontend-skills/skills%2Fclaude-refactoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_e3090b507ba5"
+  }
+}

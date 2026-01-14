@@ -1,0 +1,36 @@
+{
+  "id": "mongodb-schema-design",
+  "name": "mongodb-schema-design",
+  "version": "1.0.0",
+  "summary": "Master MongoDB schema design and data modeling patterns. Learn embedding vs referencing, relationships, normalization, and schema evolution. Use when designing databases, normal...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-mongodb",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-mongodb/main/skills/mongodb-schema-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:49.067Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-mongodb/skills%2Fmongodb-schema-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_828f6a6b0788"
+  }
+}

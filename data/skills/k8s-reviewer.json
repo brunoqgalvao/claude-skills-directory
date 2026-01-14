@@ -1,0 +1,35 @@
+{
+  "id": "k8s-reviewer",
+  "name": "k8s-reviewer",
+  "version": "1.0.0",
+  "summary": "WHEN: Kubernetes manifest review, Helm charts, resource limits, probes, RBAC\nWHAT: Resource configuration + Health probes + Security context + RBAC policies + Helm best practice...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "physics91",
+    "github": "physics91"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/physics91/claude-vibe",
+    "skill_md": "https://raw.githubusercontent.com/physics91/claude-vibe/main/skills/k8s-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T04:32:08.000Z",
+  "created_at": "2025-12-22T19:30:44.196Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/physics91%2Fclaude-vibe/skills%2Fk8s-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_dd99982531e8"
+  }
+}

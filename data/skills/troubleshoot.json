@@ -1,0 +1,36 @@
+{
+  "id": "troubleshoot",
+  "name": "troubleshoot",
+  "version": "1.0.0",
+  "summary": "Diagnose and fix rad-mem installation issues. Checks PM2 worker status, database integrity, service health, dependencies, and provides automated fixes for common problems.",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thedotmack",
+    "github": "thedotmack"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thedotmack/rad-mem",
+    "skill_md": "https://raw.githubusercontent.com/thedotmack/rad-mem/main/plugin/skills/troubleshoot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:06:36.027Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thedotmack%2Frad-mem/plugin%2Fskills%2Ftroubleshoot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_de60c18300d0"
+  }
+}

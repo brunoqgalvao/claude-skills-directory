@@ -1,0 +1,37 @@
+{
+  "id": "clean-architecture-principles",
+  "name": "clean-architecture-principles",
+  "version": "1.0.0",
+  "summary": "Enforce clean architecture principles including DRY, YAGNI, KISS, Law of Demeter, and Separation of Concerns. Warns when complexity creeps in and questions unnecessary features....",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "T1nker-1220",
+    "github": "T1nker-1220"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/T1nker-1220/.claude",
+    "skill_md": "https://raw.githubusercontent.com/T1nker-1220/.claude/main/skills/clean-architecture-principles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:50.125Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/T1nker-1220%2F.claude/skills%2Fclean-architecture-principles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_fa21a22be2b9"
+  }
+}

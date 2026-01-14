@@ -1,0 +1,36 @@
+{
+  "id": "art",
+  "name": "art",
+  "version": "1.0.0",
+  "summary": "Visual content system with Tron-meets-Excalidraw aesthetic.\nDark backgrounds, neon accents, hand-drawn sketch style.\n\nUSE WHEN user wants to create visual content, illustrations...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sysylvia",
+    "github": "sysylvia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sysylvia/ssylvia-website",
+    "skill_md": "https://raw.githubusercontent.com/sysylvia/ssylvia-website/main/.claude/skills/art/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:45.411Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sysylvia%2Fssylvia-website/.claude%2Fskills%2Fart%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_27d9cb1c2313"
+  }
+}

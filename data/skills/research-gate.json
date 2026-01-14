@@ -1,0 +1,35 @@
+{
+  "id": "research-gate",
+  "name": "research-gate",
+  "version": "1.0.0",
+  "summary": "Gates expensive external research (perplexity deep_research) while allowing quick lookups. Enforces knowledge priority - local documentation and project patterns first, external...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikev10",
+    "github": "mikev10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikev10/EchoGraph",
+    "skill_md": "https://raw.githubusercontent.com/mikev10/EchoGraph/main/packages/cli/src/echograph_cli/templates/.claude/skills/research-gate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:31.559Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikev10%2FEchoGraph/packages%2Fcli%2Fsrc%2Fechograph_cli%2Ftemplates%2F.claude%2Fskills%2Fresearch-gate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_8b48485d5d48"
+  }
+}

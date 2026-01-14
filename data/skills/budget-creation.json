@@ -1,0 +1,36 @@
+{
+  "id": "budget-creation",
+  "name": "budget-creation",
+  "version": "1.0.0",
+  "summary": "Complete budgeting and forecasting workflow covering annual budgets, departmental budgets,\nrolling forecasts, and variance analysis. Delivers documented budgets with approval tr...",
+  "verticals": [
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/finance-team/skills/budget-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:50:31.000Z",
+  "created_at": "2025-12-23T01:29:20.612Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/finance-team%2Fskills%2Fbudget-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_10d04568e307"
+  }
+}

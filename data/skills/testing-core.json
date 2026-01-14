@@ -1,0 +1,35 @@
+{
+  "id": "testing-core",
+  "name": "testing-core",
+  "version": "1.0.0",
+  "summary": "Cross-language testing patterns: unit, integration, E2E testing strategies.\nUse when: writing tests, setting up test infrastructure, or improving coverage.\nTriggers: \"test\", \"te...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/craft-coder/testing-core/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:07.683Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/craft-coder%2Ftesting-core%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_64190c4b8dd4"
+  }
+}

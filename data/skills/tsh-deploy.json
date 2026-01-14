@@ -1,0 +1,36 @@
+{
+  "id": "tsh-deploy",
+  "name": "tsh-deploy",
+  "version": "1.0.0",
+  "summary": "Vercel deployment workflow for TSH Clients Console. Use when:\n(1) Deploying changes to production or staging\n(2) Checking deployment status\n(3) Troubleshooting deployment issues...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Qmop1967",
+    "github": "Qmop1967"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Qmop1967/Clients-Console",
+    "skill_md": "https://raw.githubusercontent.com/Qmop1967/Clients-Console/main/.claude/skills/tsh-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:33.559Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Qmop1967%2FClients-Console/.claude%2Fskills%2Ftsh-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_f2884a899226"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tui-designer",
+  "name": "tui-designer",
+  "version": "1.0.0",
+  "summary": "Design and implement retro/cyberpunk/hacker-style terminal UIs. Covers React (Tuimorphic), SwiftUI (Metal shaders), and CSS approaches. Use when creating terminal aesthetics, CR...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ckorhonen",
+    "github": "ckorhonen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ckorhonen/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ckorhonen/claude-skills/main/skills/tui-designer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.483Z",
+  "created_at": "2025-12-23T01:29:40.825Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ckorhonen%2Fclaude-skills/skills%2Ftui-designer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.483Z",
+    "uniqueId": "sk_e956ba3b35ce"
+  }
+}

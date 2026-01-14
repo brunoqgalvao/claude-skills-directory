@@ -1,0 +1,35 @@
+{
+  "id": "list-my-tasks",
+  "name": "list-my-tasks",
+  "version": "1.0.0",
+  "summary": "내 할당 작업 조회. Use when (1) \"내 할당된 작업\", (2) \"내 이슈 확인\",\n(3) \"나한테 할당된 거\". GitHub에서 로그인 유저에게 할당된 Open 이슈 조회.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/biz/management/skills/list-my-tasks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.839Z",
+  "created_at": "2025-12-22T16:29:36.330Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fbiz%2Fmanagement%2Fskills%2Flist-my-tasks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_adaf3db629c9"
+  }
+}

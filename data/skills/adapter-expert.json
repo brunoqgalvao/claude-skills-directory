@@ -1,0 +1,35 @@
+{
+  "id": "adapter-expert",
+  "name": "adapter-expert",
+  "version": "1.0.0",
+  "summary": "Adapter Layer 전문가. CommandAdapter(persist만, JpaRepository 1:1), QueryAdapter(4개 메서드, QueryDslRepository 1:1),\nAdminQueryAdapter(Join 허용, DTO Projection), LockQueryAdapter(6개 Loc...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryu-qqq",
+    "github": "ryu-qqq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryu-qqq/setof-commerce",
+    "skill_md": "https://raw.githubusercontent.com/ryu-qqq/setof-commerce/main/.claude/skills/adapter-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:28.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryu-qqq%2Fsetof-commerce/.claude%2Fskills%2Fadapter-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_f48eb4dddbb7"
+  }
+}

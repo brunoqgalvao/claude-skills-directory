@@ -1,0 +1,37 @@
+{
+  "id": "rag-cag-security",
+  "name": "rag-cag-security",
+  "version": "1.0.0",
+  "summary": "Security patterns for RAG and CAG systems with multi-tenant isolation. Use when building retrieval-augmented or cache-augmented generation systems that require tenant isolation,...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoutrin",
+    "github": "jpoutrin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoutrin/product-forge",
+    "skill_md": "https://raw.githubusercontent.com/jpoutrin/product-forge/main/plugins/rag-cag/skills/rag-cag-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T10:16:26.000Z",
+  "created_at": "2025-12-23T01:28:38.617Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoutrin%2Fproduct-forge/plugins%2Frag-cag%2Fskills%2Frag-cag-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_235220d92a91"
+  }
+}

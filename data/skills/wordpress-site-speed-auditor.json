@@ -1,0 +1,35 @@
+{
+  "id": "wordpress-site-speed-auditor",
+  "name": "wordpress-site-speed-auditor",
+  "version": "1.0.0",
+  "summary": "Performs comprehensive WordPress site speed and performance audits. Use when analyzing WordPress themes, plugins, or sites for performance optimization opportunities, checking i...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattcowan",
+    "github": "mattcowan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattcowan/claude-wordpress-utilities",
+    "skill_md": "https://raw.githubusercontent.com/mattcowan/claude-wordpress-utilities/main/skills/wordpress-site-speed-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:10.713Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattcowan%2Fclaude-wordpress-utilities/skills%2Fwordpress-site-speed-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_9594b0b42332"
+  }
+}

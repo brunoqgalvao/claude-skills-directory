@@ -1,0 +1,35 @@
+{
+  "id": "error-learner",
+  "name": "error-learner",
+  "version": "1.0.0",
+  "summary": "**AUTO-TRIGGER:** Invoked by yolo1 skill after every commit to analyze session errors.\n\nAnalyzes the current session for error patterns, researches solutions, and either:\n1. Upd...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "coopeverything",
+    "github": "coopeverything"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/coopeverything/TogetherOS",
+    "skill_md": "https://raw.githubusercontent.com/coopeverything/TogetherOS/main/.claude/skills/error-learner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:43.631Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/coopeverything%2FTogetherOS/.claude%2Fskills%2Ferror-learner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_64ddb8365b39"
+  }
+}

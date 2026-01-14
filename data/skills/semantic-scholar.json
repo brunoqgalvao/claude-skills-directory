@@ -1,0 +1,35 @@
+{
+  "id": "semantic-scholar",
+  "name": "semantic-scholar",
+  "version": "1.0.0",
+  "summary": "Search academic papers. Returns Collection of JSON Notes with fields text (full paper text via GROBID when PDF available, otherwise abstract), metadata.title, metadata.authors, ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bdambrosio",
+    "github": "bdambrosio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bdambrosio/Cognitive_workbench",
+    "skill_md": "https://raw.githubusercontent.com/bdambrosio/Cognitive_workbench/main/src/tools/semantic-scholar/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T20:34:21.000Z",
+  "created_at": "2025-12-23T01:28:44.187Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bdambrosio%2FCognitive_workbench/src%2Ftools%2Fsemantic-scholar%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_0b7d30c855c8"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "the-archivist",
+  "name": "the-archivist",
+  "version": "1.0.0",
+  "summary": "This skill should be used when engineering decisions are being made during code implementation. The Archivist enforces decision documentation as a standard practice, ensuring ev...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Cygnusfear",
+    "github": "Cygnusfear"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Cygnusfear/claude-stuff",
+    "skill_md": "https://raw.githubusercontent.com/Cygnusfear/claude-stuff/main/skills/the-archivist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:14:57.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Cygnusfear%2Fclaude-stuff/skills%2Fthe-archivist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_dedb4cd25496"
+  }
+}

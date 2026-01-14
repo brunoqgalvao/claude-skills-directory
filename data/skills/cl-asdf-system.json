@@ -1,0 +1,35 @@
+{
+  "id": "cl-asdf-system",
+  "name": "cl-asdf-system",
+  "version": "1.0.0",
+  "summary": "ASDFシステム定義のベストプラクティス。.asdファイル作成・編集時に使用",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cxxxr",
+    "github": "cxxxr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cxxxr/.claude",
+    "skill_md": "https://raw.githubusercontent.com/cxxxr/.claude/main/skills/cl-asdf-system/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:57:58.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cxxxr%2F.claude/skills%2Fcl-asdf-system%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_62f2c0cb9255"
+  }
+}

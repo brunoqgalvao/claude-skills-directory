@@ -1,0 +1,36 @@
+{
+  "id": "admin-infra-linode",
+  "name": "admin-infra-linode",
+  "version": "1.0.0",
+  "summary": "Deploys infrastructure on Linode (Akamai Cloud) with Linodes, Firewalls, and VLANs.\nStrong Kubernetes support with Cluster Autoscaler and Akamai edge network integration.\n\nUse w...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evolv3-ai",
+    "github": "evolv3-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evolv3-ai/vibe-skills",
+    "skill_md": "https://raw.githubusercontent.com/evolv3-ai/vibe-skills/main/skills/admin-infra-linode/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.493Z",
+  "created_at": "2025-12-23T01:29:30.814Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evolv3-ai%2Fvibe-skills/skills%2Fadmin-infra-linode%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_430ec4d69284"
+  }
+}

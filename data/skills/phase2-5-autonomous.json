@@ -1,0 +1,36 @@
+{
+  "id": "phase2-5-autonomous",
+  "name": "phase2-5-autonomous",
+  "version": "1.0.0",
+  "summary": "Phase 2-5 autonomous execution guidance - Activate when Claude needs to decide technical choices during implementation/testing/review/release phases",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "perfectuser21",
+    "github": "perfectuser21"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/perfectuser21/Claude_Enhancer",
+    "skill_md": "https://raw.githubusercontent.com/perfectuser21/Claude_Enhancer/main/.claude/skills/phase2-5-autonomous/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:09:41.015Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/perfectuser21%2FClaude_Enhancer/.claude%2Fskills%2Fphase2-5-autonomous%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_28b90c5c1b24"
+  }
+}

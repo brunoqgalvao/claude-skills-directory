@@ -1,0 +1,35 @@
+{
+  "id": "vuln-patterns-languages",
+  "name": "vuln-patterns-languages",
+  "version": "1.0.0",
+  "summary": "Language-specific vulnerability detection patterns for JavaScript/TypeScript, Python, Go, Java, Ruby, and PHP. Provides regex patterns and grep commands for common security vuln...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zate",
+    "github": "Zate"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zate/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/Zate/cc-plugins/main/plugins/security/skills/vuln-patterns-languages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T03:33:54.000Z",
+  "created_at": "2025-12-22T21:11:23.579Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zate%2Fcc-plugins/plugins%2Fsecurity%2Fskills%2Fvuln-patterns-languages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_baff39bb9f41"
+  }
+}

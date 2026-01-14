@@ -1,0 +1,37 @@
+{
+  "id": "learning-path-builder",
+  "name": "learning-path-builder",
+  "version": "1.0.0",
+  "summary": "Creates personalized learning paths for technologies, frameworks, or concepts.\nUse for user-interactive session only for onboarding new technologies, hackathon skill-building, o...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rysweet",
+    "github": "rysweet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rysweet/azure-tenant-grapher",
+    "skill_md": "https://raw.githubusercontent.com/rysweet/azure-tenant-grapher/main/.claude/skills/learning-path-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:35.114Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rysweet%2Fazure-tenant-grapher/.claude%2Fskills%2Flearning-path-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_eb001a3abcfe"
+  }
+}

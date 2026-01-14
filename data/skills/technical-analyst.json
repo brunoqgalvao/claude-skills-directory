@@ -1,0 +1,36 @@
+{
+  "id": "technical-analyst",
+  "name": "technical-analyst",
+  "version": "1.0.0",
+  "summary": "This skill should be used when analyzing weekly price charts for stocks, stock indices, cryptocurrencies, or forex pairs. Use this skill when the user provides chart images and ...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tradermonty",
+    "github": "tradermonty"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tradermonty/claude-trading-skills",
+    "skill_md": "https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/technical-analyst/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T14:44:19.000Z",
+  "created_at": "2025-12-23T01:29:23.891Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tradermonty%2Fclaude-trading-skills/technical-analyst%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_121a527c5c19"
+  }
+}

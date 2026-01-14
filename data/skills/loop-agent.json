@@ -1,0 +1,36 @@
+{
+  "id": "loop-agent",
+  "name": "loop-agent",
+  "version": "1.0.0",
+  "summary": "Execute workflow agents iteratively for refinement and progressive improvement. Use when tasks require repetitive refinement, multi-iteration improvements, progressive optimizat...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-o-hub",
+    "github": "d-o-hub"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-o-hub/rust-self-learning-memory",
+    "skill_md": "https://raw.githubusercontent.com/d-o-hub/rust-self-learning-memory/main/.claude/skills/loop-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:02:59.308Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-o-hub%2Frust-self-learning-memory/.claude%2Fskills%2Floop-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_faeddb1917ff"
+  }
+}

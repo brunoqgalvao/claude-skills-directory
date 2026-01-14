@@ -1,0 +1,35 @@
+{
+  "id": "react-native-reviewer",
+  "name": "react-native-reviewer",
+  "version": "1.0.0",
+  "summary": "Review de codigo React Native para o projeto Nossa Maternidade. Detecta anti-patterns como ScrollView com .map() (usar FlatList), console.log (usar logger), any em TypeScript, c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LionGab",
+    "github": "LionGab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LionGab/NossaMaternidade-2",
+    "skill_md": "https://raw.githubusercontent.com/LionGab/NossaMaternidade-2/main/.claude/skills/react-native-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:52.633Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LionGab%2FNossaMaternidade-2/.claude%2Fskills%2Freact-native-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_cb6607f50c83"
+  }
+}

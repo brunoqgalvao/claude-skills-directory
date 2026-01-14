@@ -1,0 +1,36 @@
+{
+  "id": "forge-security",
+  "name": "forge-security",
+  "version": "1.0.0",
+  "summary": "Enforces security guardrails for Claude Code. Blocks access to secrets, credentials, and sensitive files. Requires confirmation for network requests and infrastructure changes. ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martimramos",
+    "github": "martimramos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martimramos/claude-forge",
+    "skill_md": "https://raw.githubusercontent.com/martimramos/claude-forge/main/skills/security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.881Z",
+  "created_at": "2025-12-22T14:54:47.926Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martimramos%2Fclaude-forge/skills%2Fsecurity%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.881Z",
+    "uniqueId": "sk_5e011c4739b7"
+  }
+}

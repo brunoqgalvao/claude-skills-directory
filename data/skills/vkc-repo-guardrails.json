@@ -1,0 +1,35 @@
+{
+  "id": "vkc-repo-guardrails",
+  "name": "vkc-repo-guardrails",
+  "version": "1.0.0",
+  "summary": "Enforce Viet K-Connect non-negotiables (no Server Actions, API Routes only, Drizzle/Supabase patterns, TanStack Query repo layer, i18n ko/en/vi key parity). Use before/after cod...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LEE-SANG-BOK",
+    "github": "LEE-SANG-BOK"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LEE-SANG-BOK/VKC-2-",
+    "skill_md": "https://raw.githubusercontent.com/LEE-SANG-BOK/VKC-2-/main/.codex/skills/vkc-repo-guardrails/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:31.548Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LEE-SANG-BOK%2FVKC-2-/.codex%2Fskills%2Fvkc-repo-guardrails%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_fa6665459f38"
+  }
+}

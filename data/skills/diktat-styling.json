@@ -1,0 +1,35 @@
+{
+  "id": "diktat-styling",
+  "name": "diktat-styling",
+  "version": "1.0.0",
+  "summary": "Apply Diktat.ai design system guidelines when creating or reviewing Vue/Nuxt components. Use this skill when implementing new UI components, reviewing existing components for de...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "therealstein",
+    "github": "therealstein"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/therealstein/diktatai-homepage",
+    "skill_md": "https://raw.githubusercontent.com/therealstein/diktatai-homepage/main/.claude/skills/diktat-styling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T07:03:15.000Z",
+  "created_at": "2025-12-23T01:29:19.892Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/therealstein%2Fdiktatai-homepage/.claude%2Fskills%2Fdiktat-styling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_738adf5067bb"
+  }
+}

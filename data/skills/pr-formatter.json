@@ -1,0 +1,35 @@
+{
+  "id": "pr-formatter",
+  "name": "pr-formatter",
+  "version": "1.0.0",
+  "summary": "**AUTO-TRIGGER when user says:** \"create PR\", \"format PR\", \"prepare PR body\", \"what category for this PR\", \"generate PR keywords\"\n\nFormats TogetherOS pull requests with proper c...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "coopeverything",
+    "github": "coopeverything"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/coopeverything/TogetherOS",
+    "skill_md": "https://raw.githubusercontent.com/coopeverything/TogetherOS/main/.claude/skills/pr-formatter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.481Z",
+  "created_at": "2025-12-23T01:29:42.770Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/coopeverything%2FTogetherOS/.claude%2Fskills%2Fpr-formatter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_7a444f1d60fa"
+  }
+}

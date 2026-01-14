@@ -1,0 +1,35 @@
+{
+  "id": "at-dispatch-v2",
+  "name": "at-dispatch-v2",
+  "version": "1.0.0",
+  "summary": "Convert PyTorch AT_DISPATCH macros to AT_DISPATCH_V2 format in ATen C++ code. Use when porting AT_DISPATCH_ALL_TYPES_AND*, AT_DISPATCH_FLOATING_TYPES*, or other dispatch macros ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "teddytennant",
+    "github": "teddytennant"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/teddytennant/rusttorch",
+    "skill_md": "https://raw.githubusercontent.com/teddytennant/rusttorch/main/.claude/skills/at-dispatch-v2/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T21:36:19.000Z",
+  "created_at": "2025-12-22T20:00:35.474Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/teddytennant%2Frusttorch/.claude%2Fskills%2Fat-dispatch-v2%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.444Z",
+    "uniqueId": "sk_ab241e55f4e2"
+  }
+}

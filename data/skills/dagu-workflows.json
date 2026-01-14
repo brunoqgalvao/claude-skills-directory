@@ -1,0 +1,37 @@
+{
+  "id": "dagu-workflows",
+  "name": "dagu-workflows",
+  "version": "1.0.0",
+  "summary": "Guide for authoring Dagu workflows including YAML syntax, steps, executors, scheduling, dependencies, and workflow composition",
+  "verticals": [
+    "finance",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinnie357",
+    "github": "vinnie357"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinnie357/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/vinnie357/claude-skills/main/dagu/skills/workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.672Z",
+  "created_at": "2025-12-22T22:15:48.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinnie357%2Fclaude-skills/dagu%2Fskills%2Fworkflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.672Z",
+    "uniqueId": "sk_0f7192d86a18"
+  }
+}

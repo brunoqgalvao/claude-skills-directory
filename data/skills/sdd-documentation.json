@@ -1,0 +1,35 @@
+{
+  "id": "sdd-documentation",
+  "name": "sdd-documentation",
+  "version": "1.0.0",
+  "summary": "ソフトウェア設計ドキュメント（SDD）を作成・修正・更新・管理します。3つの主要ファイル - requirements.md（EARS記法によるユーザーストーリー）、design.md（技術アーキテクチャ）、tasks.md（実装計画）の新規作成、既存ドキュメントの編集、EARS記法への変換、要件・設計・タスクの追加や修正が必要な場合に使用してください。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "windschord",
+    "github": "windschord"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/windschord/claude_skils",
+    "skill_md": "https://raw.githubusercontent.com/windschord/claude_skils/main/sdd-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.468Z",
+  "created_at": "2025-12-23T01:30:54.102Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/windschord%2Fclaude_skils/sdd-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.468Z",
+    "uniqueId": "sk_73dd0449ddea"
+  }
+}

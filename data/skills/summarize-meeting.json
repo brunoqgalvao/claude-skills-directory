@@ -1,0 +1,35 @@
+{
+  "id": "summarize-meeting",
+  "name": "summarize-meeting",
+  "version": "1.0.0",
+  "summary": "Extract action items, decisions, and key points from meeting transcripts. Automatically routes items to tasks.md or GitHub Issues based on complexity. Use when the user types /s...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "braselog",
+    "github": "braselog"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/braselog/researchAssistant",
+    "skill_md": "https://raw.githubusercontent.com/braselog/researchAssistant/main/.ra/skills/summarize-meeting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:33.988Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/braselog%2FresearchAssistant/.ra%2Fskills%2Fsummarize-meeting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_4f6485939c74"
+  }
+}

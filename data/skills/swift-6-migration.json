@@ -1,0 +1,37 @@
+{
+  "id": "swift-6-migration",
+  "name": "swift-6-migration",
+  "version": "1.0.0",
+  "summary": "Guides Swift code migration to Swift 6, including concurrency adoption, data race safety, and strict checking. Fixes Sendable conformance issues, actor isolation problems, and e...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ivan-magda",
+    "github": "ivan-magda"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ivan-magda/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/ivan-magda/claude-code-marketplace/main/plugins/swift/skills/swift-6-migration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T23:31:02.000Z",
+  "created_at": "2025-12-22T15:53:49.471Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ivan-magda%2Fclaude-code-marketplace/plugins%2Fswift%2Fskills%2Fswift-6-migration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_044b6de5daa6"
+  }
+}

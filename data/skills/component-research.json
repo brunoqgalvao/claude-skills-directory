@@ -1,0 +1,36 @@
+{
+  "id": "component-research",
+  "name": "component-research",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"evaluate if TBC covers a use case\", \"decide which TBC component to use\", \"check if a TBC template fits\", \"research TBC capabilit...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rafaelcalleja",
+    "github": "rafaelcalleja"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rafaelcalleja/claude-market-place",
+    "skill_md": "https://raw.githubusercontent.com/rafaelcalleja/claude-market-place/main/plugins/gitlab-tbc/skills/component-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T08:43:45.000Z",
+  "created_at": "2025-12-23T01:29:20.597Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rafaelcalleja%2Fclaude-market-place/plugins%2Fgitlab-tbc%2Fskills%2Fcomponent-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_e3deea798890"
+  }
+}

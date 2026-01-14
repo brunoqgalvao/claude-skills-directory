@@ -1,0 +1,35 @@
+{
+  "id": "prior-art-search",
+  "name": "prior-art-search",
+  "version": "1.0.0",
+  "summary": "Systematic 7-step methodology for comprehensive patent prior art searches and patentability assessments using BigQuery and CPC classification",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RobThePCGuy",
+    "github": "RobThePCGuy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RobThePCGuy/Claude-Patent-Creator",
+    "skill_md": "https://raw.githubusercontent.com/RobThePCGuy/Claude-Patent-Creator/main/skills/prior-art-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T05:28:00.000Z",
+  "created_at": "2025-12-22T19:14:24.230Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RobThePCGuy%2FClaude-Patent-Creator/skills%2Fprior-art-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_2f3ca0aff88e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "profiling-practices",
+  "name": "profiling-practices",
+  "version": "1.0.0",
+  "summary": "Performance profiling best practices using py-spy and other Python profiling tools. Activated when profiling code, analyzing bottlenecks, or optimizing performance.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tbhb",
+    "github": "tbhb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tbhb/rig",
+    "skill_md": "https://raw.githubusercontent.com/tbhb/rig/main/.claude/skills/profiling-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T18:36:35.000Z",
+  "created_at": "2025-12-23T01:28:53.831Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tbhb%2Frig/.claude%2Fskills%2Fprofiling-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_3617688f5596"
+  }
+}

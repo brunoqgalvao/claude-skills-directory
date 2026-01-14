@@ -1,0 +1,37 @@
+{
+  "id": "autonomous-coding-agent",
+  "name": "autonomous-coding-agent",
+  "version": "1.0.0",
+  "summary": "Build autonomous coding agents with CLI integration. Use when creating automated coding workflows, managing multi-session development, or building CI/CD code generation pipelines.",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ShunsukeHayashi",
+    "github": "ShunsukeHayashi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ShunsukeHayashi/Miyabi",
+    "skill_md": "https://raw.githubusercontent.com/ShunsukeHayashi/Miyabi/main/.claude/skills/autonomous-coding-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:44.186Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ShunsukeHayashi%2FMiyabi/.claude%2Fskills%2Fautonomous-coding-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_4bcf81f3ac71"
+  }
+}

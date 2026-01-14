@@ -1,0 +1,37 @@
+{
+  "id": "grafana-http-api",
+  "name": "grafana-http-api",
+  "version": "1.0.0",
+  "summary": "Comprehensive skill for interacting with Grafana's HTTP API to manage dashboards, data sources, folders, alerting, annotations, users, teams, and organizations. Use when Claude ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julianobarbosa",
+    "github": "julianobarbosa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julianobarbosa/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/grafana-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T17:05:27.000Z",
+  "created_at": "2025-12-23T01:29:25.379Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julianobarbosa%2Fclaude-code-skills/skills%2Fgrafana-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_388f4defb520"
+  }
+}

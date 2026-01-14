@@ -1,0 +1,37 @@
+{
+  "id": "sql-splitter",
+  "name": "sql-splitter",
+  "version": "1.0.0",
+  "summary": "High-performance CLI for working with SQL dump files: split/merge by table, analyze contents, validate integrity, convert between MySQL/PostgreSQL/SQLite, create FK-safe samples...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HelgeSverre",
+    "github": "HelgeSverre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HelgeSverre/sql-splitter",
+    "skill_md": "https://raw.githubusercontent.com/HelgeSverre/sql-splitter/main/skills/sql-splitter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:12.013Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HelgeSverre%2Fsql-splitter/skills%2Fsql-splitter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_82c3378220b0"
+  }
+}

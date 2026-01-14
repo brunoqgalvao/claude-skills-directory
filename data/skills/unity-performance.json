@@ -1,0 +1,35 @@
+{
+  "id": "unity-performance",
+  "name": "unity-performance",
+  "version": "1.0.0",
+  "summary": "Optimize Unity game performance through profiling, draw call reduction, and resource management. Masters batching, LOD, occlusion culling, and mobile optimization. Use for perfo...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "creator-hian",
+    "github": "creator-hian"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/creator-hian/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/creator-hian/claude-code-plugins/main/unity-plugin/skills/unity-performance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:47.358Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/creator-hian%2Fclaude-code-plugins/unity-plugin%2Fskills%2Funity-performance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_523cf7172a0d"
+  }
+}

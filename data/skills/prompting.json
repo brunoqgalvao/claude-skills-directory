@@ -1,0 +1,35 @@
+{
+  "id": "prompting",
+  "name": "prompting",
+  "version": "1.0.0",
+  "summary": "Prompt engineering standards and context engineering principles for AI agents based on Anthropic best practices. Covers clarity, structure, progressive discovery, and optimizati...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielmiessler",
+    "github": "danielmiessler"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielmiessler/Personal_AI_Infrastructure",
+    "skill_md": "https://raw.githubusercontent.com/danielmiessler/Personal_AI_Infrastructure/main/.claude/Skills/Prompting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:24.547Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielmiessler%2FPersonal_AI_Infrastructure/.claude%2FSkills%2FPrompting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_9a85bfe960fa"
+  }
+}

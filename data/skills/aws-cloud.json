@@ -1,0 +1,37 @@
+{
+  "id": "aws-cloud",
+  "name": "aws-cloud",
+  "version": "1.0.0",
+  "summary": "Master AWS services for building scalable cloud applications.",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-machine-learning",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-machine-learning/main/skills/cloud-devops/aws-cloud/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:31:38.000Z",
+  "created_at": "2025-12-23T01:28:27.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-machine-learning/skills%2Fcloud-devops%2Faws-cloud%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_2e21cd1eb029"
+  }
+}

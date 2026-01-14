@@ -1,0 +1,36 @@
+{
+  "id": "us-stock-analysis",
+  "name": "us-stock-analysis",
+  "version": "1.0.0",
+  "summary": "Comprehensive US stock analysis including fundamental analysis (financial metrics, business quality, valuation), technical analysis (indicators, chart patterns, support/resistan...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tradermonty",
+    "github": "tradermonty"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tradermonty/claude-trading-skills",
+    "skill_md": "https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/us-stock-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-19T16:52:40.000Z",
+  "created_at": "2025-12-22T20:11:21.937Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tradermonty%2Fclaude-trading-skills/us-stock-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_80c497ee125a"
+  }
+}

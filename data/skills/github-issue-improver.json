@@ -1,0 +1,35 @@
+{
+  "id": "github-issue-improver",
+  "name": "github-issue-improver",
+  "version": "1.0.0",
+  "summary": "自動的にGitHub Issueを分析し、構造化された内容に改善するスキル。 雑なIssueや情報不足のIssueをAIが作業しやすい形式に自動補完・加筆訂正する。 タイトルの標準化、本文の構造化、適切なラベル付与、不足情報の指摘を行う。 「このIssueを改善して」「Issue内容を整えて」といった依頼で使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nobu007",
+    "github": "nobu007"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nobu007/speech-to-visuals",
+    "skill_md": "https://raw.githubusercontent.com/nobu007/speech-to-visuals/main/.claude/skills/github-issue-improver/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:05.675Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nobu007%2Fspeech-to-visuals/.claude%2Fskills%2Fgithub-issue-improver%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_ce5bd1aa5651"
+  }
+}

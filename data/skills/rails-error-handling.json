@@ -1,0 +1,36 @@
+{
+  "id": "rails-error-handling",
+  "name": "rails-error-handling",
+  "version": "1.0.0",
+  "summary": "Implement comprehensive error handling with specific rescue blocks, structured error responses, and proper logging. Use when handling exceptions, implementing error recovery, or...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nekorush14",
+    "github": "nekorush14"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nekorush14/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nekorush14/dotfiles/main/configs/claude/skills/rails-error-handling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:46.050Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nekorush14%2Fdotfiles/configs%2Fclaude%2Fskills%2Frails-error-handling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_18820b30137f"
+  }
+}

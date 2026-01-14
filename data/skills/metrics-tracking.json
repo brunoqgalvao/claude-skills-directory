@@ -1,0 +1,35 @@
+{
+  "id": "metrics-tracking",
+  "name": "metrics-tracking",
+  "version": "1.0.0",
+  "summary": "ベロシティ計測、バーンダウンチャート、リードタイム分析など\nアジャイルメトリクスの追跡と分析手法。データに基づく継続的改善と\n予測可能な開発を実現します。\n\n📚 リソース参照:\nこのスキルにはリソースファイルがありません。",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/metrics-tracking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T14:54:39.000Z",
+  "created_at": "2025-12-22T20:08:38.680Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fmetrics-tracking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_6495e658c9ff"
+  }
+}

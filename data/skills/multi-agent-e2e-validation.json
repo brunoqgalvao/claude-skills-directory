@@ -1,0 +1,37 @@
+{
+  "id": "multi-agent-e2e-validation",
+  "name": "multi-agent-e2e-validation",
+  "version": "1.0.0",
+  "summary": "Multi-agent parallel E2E validation workflow for database refactors and system migrations. Use when validating QuestDB deployments, schema migrations, bulk data ingestion pipeli...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/quality-tools/skills/multi-agent-e2e-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:17:21.456Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fquality-tools%2Fskills%2Fmulti-agent-e2e-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_1ce504640e75"
+  }
+}

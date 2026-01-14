@@ -1,0 +1,35 @@
+{
+  "id": "coding-shell-scripts",
+  "name": "coding-shell-scripts",
+  "version": "1.0.0",
+  "summary": "Guidelines and patterns for writing bash/shell scripts. Use when creating new shell scripts, bin scripts, or bash utilities. Includes script templates, header comments, error ha...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "loklaan",
+    "github": "loklaan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/loklaan/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/loklaan/dotfiles/main/home/dot_claude/skills/coding-shell-scripts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:56.195Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/loklaan%2Fdotfiles/home%2Fdot_claude%2Fskills%2Fcoding-shell-scripts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_d6b1451a2e2d"
+  }
+}

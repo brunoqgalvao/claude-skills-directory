@@ -1,0 +1,35 @@
+{
+  "id": "prompt-engineering",
+  "name": "prompt-engineering",
+  "version": "1.0.0",
+  "summary": "Expert in crafting prompts for LLMs including Claude Projects / Agents / Skills / Plugins, system prompts, agent definitions, and custom prompt templates. Use for creating proje...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theMickster",
+    "github": "theMickster"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theMickster/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/theMickster/claude-agents/main/plugins/prompt-curator/skills/prompt-engineering/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T06:45:00.000Z",
+  "created_at": "2025-12-19T20:27:48.879Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theMickster%2Fclaude-agents/plugins%2Fprompt-curator%2Fskills%2Fprompt-engineering%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_ee17ef8d6e14"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sampling-bluesky-zeitgeist",
+  "name": "sampling-bluesky-zeitgeist",
+  "version": "1.0.0",
+  "summary": "Sample and analyze Bluesky firehose to identify trending topics and content clusters. Use when user asks about \"what's happening on Bluesky\", \"Bluesky trends\", \"zeitgeist\", \"fir...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oaustegard",
+    "github": "oaustegard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oaustegard/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/sampling-bluesky-zeitgeist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T03:21:46.000Z",
+  "created_at": "2025-12-22T17:54:43.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oaustegard%2Fclaude-skills/sampling-bluesky-zeitgeist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_44e0cdd0a115"
+  }
+}

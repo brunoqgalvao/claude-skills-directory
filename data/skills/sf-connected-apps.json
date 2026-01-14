@@ -1,0 +1,36 @@
+{
+  "id": "sf-connected-apps",
+  "name": "sf-connected-apps",
+  "version": "1.0.0",
+  "summary": "Creates and manages Salesforce Connected Apps and External Client Apps with 120-point scoring. Use when configuring OAuth flows, creating connected apps, setting up JWT bearer a...",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jaganpro",
+    "github": "Jaganpro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jaganpro/sf-skills",
+    "skill_md": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-connected-apps/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T20:55:21.000Z",
+  "created_at": "2025-12-23T01:29:36.816Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jaganpro%2Fsf-skills/sf-connected-apps%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_b42a6d2da533"
+  }
+}

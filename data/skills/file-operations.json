@@ -1,0 +1,37 @@
+{
+  "id": "file-operations",
+  "name": "file-operations",
+  "version": "1.0.0",
+  "summary": "Analyze files and get detailed metadata including size, line counts, modification times, and content statistics. Use when users request file information, statistics, or analysis...",
+  "verticals": [
+    "marketing",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mhattingpete",
+    "github": "mhattingpete"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mhattingpete/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/mhattingpete/claude-skills-marketplace/main/code-operations-plugin/skills/file-operations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T13:41:28.000Z",
+  "created_at": "2025-12-22T15:52:50.322Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mhattingpete%2Fclaude-skills-marketplace/code-operations-plugin%2Fskills%2Ffile-operations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_3baebf23814f"
+  }
+}

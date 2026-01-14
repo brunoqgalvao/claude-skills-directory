@@ -1,0 +1,35 @@
+{
+  "id": "kpi-calculator",
+  "name": "kpi-calculator",
+  "version": "1.0.0",
+  "summary": "基于每周六截止的年度累计CSV数据，精确计算车险业务16个核心KPI指标。接受原始CSV数据，执行聚合和计算，输出完整的KPI结果。当用户提到\"计算KPI\"、\"KPI计算\"、\"赔付率\"、\"边际贡献\"、\"指标\"时使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alongor666",
+    "github": "alongor666"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alongor666/chexianduoweifenxi",
+    "skill_md": "https://raw.githubusercontent.com/alongor666/chexianduoweifenxi/main/.claude/skills/kpi-calculator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:35.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alongor666%2Fchexianduoweifenxi/.claude%2Fskills%2Fkpi-calculator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_65c24d2dff8b"
+  }
+}

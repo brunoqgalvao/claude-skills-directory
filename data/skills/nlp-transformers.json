@@ -1,0 +1,35 @@
+{
+  "id": "nlp-transformers",
+  "name": "nlp-transformers",
+  "version": "1.0.0",
+  "summary": "Natural language processing, BERT, GPT, fine-tuning, and text generation.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-machine-learning",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-machine-learning/main/skills/ai-ml/nlp-transformers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:58:59.000Z",
+  "created_at": "2025-12-23T01:28:33.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-machine-learning/skills%2Fai-ml%2Fnlp-transformers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_ec08f0155a55"
+  }
+}

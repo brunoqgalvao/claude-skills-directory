@@ -1,0 +1,36 @@
+{
+  "id": "employment-contract-templates",
+  "name": "employment-contract-templates",
+  "version": "1.0.0",
+  "summary": "Create employment contracts, offer letters, and HR policy documents following legal best practices. Use when drafting employment agreements, creating HR policies, or standardizi...",
+  "verticals": [
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wshobson/agents",
+    "skill_md": "https://raw.githubusercontent.com/wshobson/agents/main/plugins/hr-legal-compliance/skills/employment-contract-templates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:00:51.673Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wshobson%2Fagents/plugins%2Fhr-legal-compliance%2Fskills%2Femployment-contract-templates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_ca186af070d6"
+  }
+}

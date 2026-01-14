@@ -1,0 +1,36 @@
+{
+  "id": "frappe-doctype-builder",
+  "name": "frappe-doctype-builder",
+  "version": "1.0.0",
+  "summary": "Build Frappe DocTypes with fields, permissions, and naming configurations. Use this skill when creating or modifying DocType structures.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Venkateshvenki404224",
+    "github": "Venkateshvenki404224"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Venkateshvenki404224/frappe-apps-manager",
+    "skill_md": "https://raw.githubusercontent.com/Venkateshvenki404224/frappe-apps-manager/main/frappe-apps-manager/skills/frappe-doctype-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:48.589Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Venkateshvenki404224%2Ffrappe-apps-manager/frappe-apps-manager%2Fskills%2Ffrappe-doctype-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_549c9f2135a6"
+  }
+}

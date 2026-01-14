@@ -1,0 +1,37 @@
+{
+  "id": "practical-ui-agent",
+  "name": "practical-ui-agent",
+  "version": "1.0.0",
+  "summary": "AI agent skill for implementing evidence-based UI improvements. Use when tasked with UI audits, design system implementation, accessibility fixes, or frontend optimization. Prov...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ezhulati",
+    "github": "ezhulati"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ezhulati/texaslobbyorg",
+    "skill_md": "https://raw.githubusercontent.com/ezhulati/texaslobbyorg/main/docs/skills/practical-ui-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:09:37.419Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ezhulati%2Ftexaslobbyorg/docs%2Fskills%2Fpractical-ui-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_6b9cf1402055"
+  }
+}

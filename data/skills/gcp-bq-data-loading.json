@@ -1,0 +1,35 @@
+{
+  "id": "gcp-bq-data-loading",
+  "name": "gcp-bq-data-loading",
+  "version": "1.0.0",
+  "summary": "Use when loading data into BigQuery from CSV, JSON, Avro, Parquet files, Cloud Storage, or local files. Covers bq load command, source formats, schema detection, incremental loa...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FunnelEnvy",
+    "github": "FunnelEnvy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FunnelEnvy/agents_webinar_demos",
+    "skill_md": "https://raw.githubusercontent.com/FunnelEnvy/agents_webinar_demos/main/.claude/skills/gcp-bq-data-loading/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.743Z",
+  "created_at": "2025-12-22T21:09:21.201Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FunnelEnvy%2Fagents_webinar_demos/.claude%2Fskills%2Fgcp-bq-data-loading%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.743Z",
+    "uniqueId": "sk_a3650348ed0a"
+  }
+}

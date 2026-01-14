@@ -1,0 +1,37 @@
+{
+  "id": "cloning-hms-components",
+  "name": "cloning-hms-components",
+  "version": "1.0.0",
+  "summary": "Clones HEC-HMS components (basins, met models, control specs, runs) using the\nCLB Engineering LLM Forward approach. Creates non-destructive, traceable, GUI-verifiable\ncopies for...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gpt-cmdr",
+    "github": "gpt-cmdr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gpt-cmdr/hms-commander",
+    "skill_md": "https://raw.githubusercontent.com/gpt-cmdr/hms-commander/main/.claude/skills/cloning-hms-components/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T11:02:11.000Z",
+  "created_at": "2025-12-23T01:29:01.952Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gpt-cmdr%2Fhms-commander/.claude%2Fskills%2Fcloning-hms-components%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_928fea62c438"
+  }
+}

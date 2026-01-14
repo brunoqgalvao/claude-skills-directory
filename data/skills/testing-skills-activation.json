@@ -1,0 +1,36 @@
+{
+  "id": "testing-skills-activation",
+  "name": "testing-skills-activation",
+  "version": "1.0.0",
+  "summary": "Use when creating or refining Claude Code skills to validate that skill descriptions trigger correctly - provides systematic testing methodology for skill activation patterns us...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asermax",
+    "github": "asermax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asermax/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/asermax/claude-plugins/main/superpowers/skills/testing-skills-activation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.702Z",
+  "created_at": "2025-12-22T21:57:03.031Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asermax%2Fclaude-plugins/superpowers%2Fskills%2Ftesting-skills-activation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.702Z",
+    "uniqueId": "sk_a0ce1890e97c"
+  }
+}

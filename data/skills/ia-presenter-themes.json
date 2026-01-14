@@ -1,0 +1,35 @@
+{
+  "id": "ia-presenter-themes",
+  "name": "ia-presenter-themes",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating, modifying, or troubleshooting custom themes for iA Presenter.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AJBcoding",
+    "github": "AJBcoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AJBcoding/claude-skill-eval",
+    "skill_md": "https://raw.githubusercontent.com/AJBcoding/claude-skill-eval/main/agentic-coding-main/Claude/skills/ia-presenter-themes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.702Z",
+  "created_at": "2025-12-22T21:57:04.928Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AJBcoding%2Fclaude-skill-eval/agentic-coding-main%2FClaude%2Fskills%2Fia-presenter-themes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.702Z",
+    "uniqueId": "sk_1b862794d0e6"
+  }
+}

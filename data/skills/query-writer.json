@@ -1,0 +1,36 @@
+{
+  "id": "query-writer",
+  "name": "query-writer",
+  "version": "1.0.0",
+  "summary": "Use this skill when writing or updating SQL queries (query.sql) or Python ETL scripts (query.py) following Mozilla BigQuery ETL conventions. ALWAYS checks for and updates existi...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mozilla",
+    "github": "mozilla"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mozilla/bigquery-etl-skills",
+    "skill_md": "https://raw.githubusercontent.com/mozilla/bigquery-etl-skills/main/query-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T15:08:13.000Z",
+  "created_at": "2025-12-23T01:29:42.688Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mozilla%2Fbigquery-etl-skills/query-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_7104374117f1"
+  }
+}

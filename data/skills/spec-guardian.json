@@ -1,0 +1,36 @@
+{
+  "id": "spec-guardian",
+  "name": "spec-guardian",
+  "version": "1.0.0",
+  "summary": "Ensure features are developed according to specifications by validating implementation against API docs, database schemas, and acceptance criteria. Use before starting implement...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AlexBaum-ai",
+    "github": "AlexBaum-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AlexBaum-ai/NEURM",
+    "skill_md": "https://raw.githubusercontent.com/AlexBaum-ai/NEURM/main/.claude/skills/spec-guardian/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:54.573Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AlexBaum-ai%2FNEURM/.claude%2Fskills%2Fspec-guardian%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_98150ca11b15"
+  }
+}

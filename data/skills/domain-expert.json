@@ -1,0 +1,35 @@
+{
+  "id": "domain-expert",
+  "name": "domain-expert",
+  "version": "1.0.0",
+  "summary": "DDD Aggregate Root 설계, Law of Demeter 적용, Tell Don't Ask 패턴 강제. /kb-domain 명령 시 자동 활성화.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryu-qqq",
+    "github": "ryu-qqq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryu-qqq/MarketPlace",
+    "skill_md": "https://raw.githubusercontent.com/ryu-qqq/MarketPlace/main/.claude/skills/domain-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.872Z",
+  "created_at": "2025-12-22T15:04:47.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryu-qqq%2FMarketPlace/.claude%2Fskills%2Fdomain-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.872Z",
+    "uniqueId": "sk_6d90da9b133f"
+  }
+}

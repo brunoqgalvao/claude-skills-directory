@@ -1,0 +1,35 @@
+{
+  "id": "nci-manipulation-analysis",
+  "name": "nci-manipulation-analysis",
+  "version": "1.0.0",
+  "summary": "Analyzes content for manipulation techniques using the NCI (Narrative Credibility Index) Protocol. Detects emotional manipulation, suspicious timing, uniform messaging, tribal d...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synaptiai",
+    "github": "synaptiai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synaptiai/synapti-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/synaptiai/synapti-marketplace/main/plugins/decipon/skills/nci-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:10:26.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synaptiai%2Fsynapti-marketplace/plugins%2Fdecipon%2Fskills%2Fnci-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_44ce0535e81d"
+  }
+}

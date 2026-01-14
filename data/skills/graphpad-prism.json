@@ -1,0 +1,36 @@
+{
+  "id": "graphpad-prism",
+  "name": "graphpad-prism",
+  "version": "1.0.0",
+  "summary": "Expert assistance with GraphPad Prism scientific graphing and statistics software, specializing in Prism scripting for automation, batch processing, and data analysis workflows.",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zygi",
+    "github": "zygi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zygi/bio_tool_skills",
+    "skill_md": "https://raw.githubusercontent.com/zygi/bio_tool_skills/main/graphpad-prism/skills/graphpad-prism-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T23:35:10.000Z",
+  "created_at": "2025-12-22T18:15:53.596Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zygi%2Fbio_tool_skills/graphpad-prism%2Fskills%2Fgraphpad-prism-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_59c7fb32862e"
+  }
+}

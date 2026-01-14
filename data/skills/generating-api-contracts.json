@@ -1,0 +1,37 @@
+{
+  "id": "generating-api-contracts",
+  "name": "generating-api-contracts",
+  "version": "1.0.0",
+  "summary": "Generate API contracts and OpenAPI specifications from code or design documents.\nUse when documenting API contracts and specifications.\nTrigger with phrases like \"generate API c...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/api-development/api-contract-generator/skills/api-contract-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T16:03:52.453Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fapi-development%2Fapi-contract-generator%2Fskills%2Fapi-contract-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_5c67035b82b3"
+  }
+}

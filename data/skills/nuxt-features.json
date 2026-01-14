@@ -1,0 +1,37 @@
+{
+  "id": "nuxt-features",
+  "name": "nuxt-features",
+  "version": "1.0.0",
+  "summary": "Feature module pattern organizing domain logic into queries, mutations, and actions. Use when implementing data fetching with filters, API mutations with loading states, busines...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-nuxt",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-nuxt/main/skills/nuxt-features/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T11:02:50.000Z",
+  "created_at": "2025-12-22T15:09:41.868Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-nuxt/skills%2Fnuxt-features%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_c5aff36cdaaa"
+  }
+}

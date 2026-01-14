@@ -1,0 +1,37 @@
+{
+  "id": "sca-blackduck",
+  "name": "sca-blackduck",
+  "version": "1.0.0",
+  "summary": "Software Composition Analysis (SCA) using Synopsys Black Duck for identifying open source vulnerabilities, license compliance risks, and supply chain security threats with CVE, ...",
+  "verticals": [
+    "legal",
+    "sales",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentSecOps",
+    "github": "AgentSecOps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentSecOps/SecOpsAgentKit",
+    "skill_md": "https://raw.githubusercontent.com/AgentSecOps/SecOpsAgentKit/main/skills/appsec/sca-blackduck/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.672Z",
+  "created_at": "2025-12-22T22:15:57.679Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentSecOps%2FSecOpsAgentKit/skills%2Fappsec%2Fsca-blackduck%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.672Z",
+    "uniqueId": "sk_b1c773976548"
+  }
+}

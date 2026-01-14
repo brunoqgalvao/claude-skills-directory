@@ -1,0 +1,36 @@
+{
+  "id": "codex-chat",
+  "name": "codex-chat",
+  "version": "1.0.0",
+  "summary": "Use when user wants to ask Codex a question, get a second opinion, or consult with gpt-5.2. Triggers on phrases like \"ask codex\", \"codex opinion\", \"what does codex think\".",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kanlanc",
+    "github": "kanlanc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kanlanc/Claude-Code-Kanlanc-Marketplace",
+    "skill_md": "https://raw.githubusercontent.com/kanlanc/Claude-Code-Kanlanc-Marketplace/main/codex-consulting/skills/codex-chat/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.578Z",
+  "created_at": "2025-12-23T01:28:22.327Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kanlanc%2FClaude-Code-Kanlanc-Marketplace/codex-consulting%2Fskills%2Fcodex-chat%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_0a337c5cdbda"
+  }
+}

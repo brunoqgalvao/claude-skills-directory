@@ -1,0 +1,35 @@
+{
+  "id": "plan-phases",
+  "name": "plan-phases",
+  "version": "1.0.0",
+  "summary": "Use when creating implementation plans, phase planning documents, breaking features into phases, or when /workflow-plan-phases command is invoked. Provides methodology for conte...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "charlesjones-dev",
+    "github": "charlesjones-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/charlesjones-dev/claude-code-plugins-dev",
+    "skill_md": "https://raw.githubusercontent.com/charlesjones-dev/claude-code-plugins-dev/main/plugins/ai-workflow/skills/plan-phases/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T04:11:28.000Z",
+  "created_at": "2025-12-22T21:00:56.527Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/charlesjones-dev%2Fclaude-code-plugins-dev/plugins%2Fai-workflow%2Fskills%2Fplan-phases%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_2de2ee17a59d"
+  }
+}

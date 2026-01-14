@@ -1,0 +1,35 @@
+{
+  "id": "code-quality-auditor",
+  "name": "code-quality-auditor",
+  "version": "1.0.0",
+  "summary": "Proactively audits developer work to ensure completeness and production-readiness. This skill should be used when reviewing code changes, validating task completion, or verifyin...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinceh",
+    "github": "vinceh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinceh/recipe",
+    "skill_md": "https://raw.githubusercontent.com/vinceh/recipe/main/.claude/skills/code-quality-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T09:30:16.000Z",
+  "created_at": "2025-12-22T17:55:17.912Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinceh%2Frecipe/.claude%2Fskills%2Fcode-quality-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_4fba5d211bb5"
+  }
+}

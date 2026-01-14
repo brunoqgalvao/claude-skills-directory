@@ -1,0 +1,35 @@
+{
+  "id": "doppler-benchmark",
+  "name": "doppler-benchmark",
+  "version": "1.0.0",
+  "summary": "Run DOPPLER performance benchmarks. Use when measuring inference speed, comparing against baselines, or tracking performance regressions. Outputs JSON results per the BENCHMARK_...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "clocksmith",
+    "github": "clocksmith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/clocksmith/reploid",
+    "skill_md": "https://raw.githubusercontent.com/clocksmith/reploid/main/doppler/reploid/doppler/.claude/skills/doppler-benchmark/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T21:33:10.000Z",
+  "created_at": "2025-12-23T01:29:21.357Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/clocksmith%2Freploid/doppler%2Freploid%2Fdoppler%2F.claude%2Fskills%2Fdoppler-benchmark%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_5182cc6066c9"
+  }
+}

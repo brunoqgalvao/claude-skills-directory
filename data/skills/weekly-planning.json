@@ -1,0 +1,35 @@
+{
+  "id": "weekly-planning",
+  "name": "weekly-planning",
+  "version": "1.0.0",
+  "summary": "Weekly review and planning. Reviews past week accomplishments, plans upcoming week focus areas. Auto-triggers on phrases like \"weekly review\", \"planera veckan\", \"veckans planeri...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ninjasenap",
+    "github": "Ninjasenap"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ninjasenap/AIDA",
+    "skill_md": "https://raw.githubusercontent.com/Ninjasenap/AIDA/main/.claude/skills/weekly-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:10.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ninjasenap%2FAIDA/.claude%2Fskills%2Fweekly-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_8af0827e3f26"
+  }
+}

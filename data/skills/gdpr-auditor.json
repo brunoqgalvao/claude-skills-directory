@@ -1,0 +1,37 @@
+{
+  "id": "gdpr-auditor",
+  "name": "gdpr-auditor",
+  "version": "1.0.0",
+  "summary": "This skill should be used when analyzing codebases, applications, databases, or systems for GDPR (General Data Protection Regulation) compliance. Use this skill when users need ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "diegocconsolini",
+    "github": "diegocconsolini"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/diegocconsolini/ClaudeSkillCollection",
+    "skill_md": "https://raw.githubusercontent.com/diegocconsolini/ClaudeSkillCollection/main/gdpr-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:59:55.554Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/diegocconsolini%2FClaudeSkillCollection/gdpr-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_37bcb2443cd5"
+  }
+}

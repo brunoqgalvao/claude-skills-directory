@@ -1,0 +1,35 @@
+{
+  "id": "iot-edge-module",
+  "name": "iot-edge-module",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating a new Azure IoT Edge module. Use when the user requests to scaffold, create, or set up a new edge module. The skill automates module scaf...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "atc-net",
+    "github": "atc-net"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/atc-net/atc-agentic-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/atc-net/atc-agentic-toolkit/main/.claude/plugins/azure-iot/skills/iot-edge-module/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.605Z",
+  "created_at": "2025-12-23T00:03:53.013Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/atc-net%2Fatc-agentic-toolkit/.claude%2Fplugins%2Fazure-iot%2Fskills%2Fiot-edge-module%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.605Z",
+    "uniqueId": "sk_0faa4f34226a"
+  }
+}

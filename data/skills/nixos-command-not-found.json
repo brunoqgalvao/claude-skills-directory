@@ -1,0 +1,35 @@
+{
+  "id": "nixos-command-not-found",
+  "name": "nixos-command-not-found",
+  "version": "1.0.0",
+  "summary": "Auto-install missing commands in NixOS environments. Detects NixOS, searches for packages containing the missing command, and re-runs with nix shell. Use when commands fail with...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "clempat",
+    "github": "clempat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/clempat/ai-tools-flake",
+    "skill_md": "https://raw.githubusercontent.com/clempat/ai-tools-flake/main/config/skills/nixos-command-not-found/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:46.767Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/clempat%2Fai-tools-flake/config%2Fskills%2Fnixos-command-not-found%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_e68f88b32e9c"
+  }
+}

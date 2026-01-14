@@ -1,0 +1,35 @@
+{
+  "id": "moving-rainbow",
+  "name": "moving-rainbow",
+  "version": "1.0.0",
+  "summary": "Generate MicroPython programs for the Moving Rainbow LED strip educational project using Raspberry Pi Pico with NeoPixel strips and button controls.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dmccreary",
+    "github": "dmccreary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dmccreary/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/moving-rainbow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-01T19:53:15.000Z",
+  "created_at": "2025-12-23T01:29:18.353Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dmccreary%2Fclaude-skills/skills%2Fmoving-rainbow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_0b30205b9c5f"
+  }
+}

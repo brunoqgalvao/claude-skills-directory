@@ -1,0 +1,35 @@
+{
+  "id": "hooks-reference",
+  "name": "hooks-reference",
+  "version": "1.0.0",
+  "summary": "Use this skill when asked about \"hooks\", \"PreToolUse\", \"PostToolUse\", \"SessionStart\", \"hook events\", \"validate tool use\", \"block commands\", \"add context on session start\", or im...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-ariff",
+    "github": "a-ariff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-ariff/Ariff-code-config",
+    "skill_md": "https://raw.githubusercontent.com/a-ariff/Ariff-code-config/main/.claude-plugin/plugins/hooks-reference/skills/hooks-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:35.850Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-ariff%2FAriff-code-config/.claude-plugin%2Fplugins%2Fhooks-reference%2Fskills%2Fhooks-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_0c580a19c364"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "web-auth",
+  "name": "web-auth",
+  "version": "1.0.0",
+  "summary": "Authentication patterns for React web applications. Use when implementing login flows, OAuth, JWT handling, session management, or protected routes in React web apps.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CJHarmath",
+    "github": "CJHarmath"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CJHarmath/claude-agents-skills",
+    "skill_md": "https://raw.githubusercontent.com/CJHarmath/claude-agents-skills/main/skills/web-auth/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:36.941Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CJHarmath%2Fclaude-agents-skills/skills%2Fweb-auth%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_a51e5e2b8fc4"
+  }
+}

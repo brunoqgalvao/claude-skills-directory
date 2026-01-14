@@ -1,0 +1,37 @@
+{
+  "id": "ai-image-asset-generator",
+  "name": "ai-image-asset-generator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when generating AI image assets for websites, landing pages, or applications. It automatically analyzes page requirements, generates images using Gemin...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Kartikk-26",
+    "github": "Kartikk-26"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Kartikk-26/Claude-Code-Skills",
+    "skill_md": "https://raw.githubusercontent.com/Kartikk-26/Claude-Code-Skills/main/.claude/ai-image-asset-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:23.233Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Kartikk-26%2FClaude-Code-Skills/.claude%2Fai-image-asset-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_f3275a01574f"
+  }
+}

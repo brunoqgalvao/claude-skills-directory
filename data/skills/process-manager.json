@@ -1,0 +1,35 @@
+{
+  "id": "process-manager",
+  "name": "process-manager",
+  "version": "1.0.0",
+  "summary": "Safely start, monitor, and stop processes by PID across platforms. Use when managing background servers, finding running processes, or ensuring clean process termination.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EdanStarfire",
+    "github": "EdanStarfire"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EdanStarfire/claudecode_webui",
+    "skill_md": "https://raw.githubusercontent.com/EdanStarfire/claudecode_webui/main/.claude/skills/process-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T05:22:43.000Z",
+  "created_at": "2025-12-23T01:29:19.696Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EdanStarfire%2Fclaudecode_webui/.claude%2Fskills%2Fprocess-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.508Z",
+    "uniqueId": "sk_39dc8cb4e70c"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "notion-mcp-developer",
+  "name": "notion-mcp-developer",
+  "version": "1.0.0",
+  "summary": "Develop Notion templates and databases using Notion MCP tools in Claude Code. Orchestrates escape room design skills (narrative-architect, puzzle-designer, formula-master, local...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robinade",
+    "github": "robinade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robinade/persona-theater",
+    "skill_md": "https://raw.githubusercontent.com/robinade/persona-theater/main/.claude/skills/notion-mcp-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robinade%2Fpersona-theater/.claude%2Fskills%2Fnotion-mcp-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_2c50fe48409a"
+  }
+}

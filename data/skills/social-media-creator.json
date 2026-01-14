@@ -1,0 +1,35 @@
+{
+  "id": "social-media-creator",
+  "name": "social-media-creator",
+  "version": "1.0.0",
+  "summary": "SNS投稿やキャンペーン用のコピー・企画を作成します。Twitter/X、LinkedIn、Instagram、TikTokでの投稿文、スレッド、ハッシュタグ、CTAを専門とします。SNS、ツイート、投稿が必要なときに使用してください。",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sekka",
+    "github": "sekka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sekka/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sekka/dotfiles/main/home/.claude/skills/social-media-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T01:00:51.000Z",
+  "created_at": "2025-12-23T01:28:48.212Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sekka%2Fdotfiles/home%2F.claude%2Fskills%2Fsocial-media-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_3af6c5daa20a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "omarchy",
+  "name": "omarchy",
+  "version": "1.0.0",
+  "summary": "Expert guide for Omarchy Linux system management. Use when user asks about Omarchy commands, updates, migrations, configuration, or how Omarchy works. Inspects the local Omarchy...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mkelk",
+    "github": "mkelk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mkelk/omarchy-fast",
+    "skill_md": "https://raw.githubusercontent.com/mkelk/omarchy-fast/main/.claude/skills/omarchy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:22.285Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mkelk%2Fomarchy-fast/.claude%2Fskills%2Fomarchy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_4349c9f1ba51"
+  }
+}

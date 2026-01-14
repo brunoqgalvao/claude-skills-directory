@@ -1,0 +1,35 @@
+{
+  "id": "update-component-reference",
+  "name": "update-component-reference",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user wants to add components (commands, agents, skills, hooks, or MCP servers) to the Component Reference section of the website.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NikiforovAll",
+    "github": "NikiforovAll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NikiforovAll/claude-code-rules",
+    "skill_md": "https://raw.githubusercontent.com/NikiforovAll/claude-code-rules/main/.claude/skills/update-component-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:14:22.687Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NikiforovAll%2Fclaude-code-rules/.claude%2Fskills%2Fupdate-component-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_7b82da504c8b"
+  }
+}

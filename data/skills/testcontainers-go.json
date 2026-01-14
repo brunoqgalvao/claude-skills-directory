@@ -1,0 +1,37 @@
+{
+  "id": "testcontainers-go",
+  "name": "testcontainers-go",
+  "version": "1.0.0",
+  "summary": "A comprehensive guide for using Testcontainers for Go to write reliable integration tests with Docker containers in Go projects. Supports 62+ pre-configured modules for database...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "testcontainers",
+    "github": "testcontainers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/testcontainers/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/testcontainers/claude-skills/main/testcontainers-go/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.465Z",
+  "created_at": "2025-12-23T01:30:58.894Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/testcontainers%2Fclaude-skills/testcontainers-go%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_79493fe63a65"
+  }
+}

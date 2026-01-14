@@ -1,0 +1,36 @@
+{
+  "id": "sdd-init",
+  "name": "sdd-init",
+  "version": "1.0.0",
+  "summary": "sdd-slice-wishで決めた「推奨スライス」を入力として、仕様書 docs/specs/YYYYMMDD-{name}.md のドラフトを作成する。ここでは実装もテスト実装も行わない。テストケースの網羅（境界・異常・不変条件の列挙）は sdd-test-cases の責務。",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "See2et",
+    "github": "See2et"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/See2et/bakopa-vr",
+    "skill_md": "https://raw.githubusercontent.com/See2et/bakopa-vr/main/.codex/skills/sdd-init/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:01.259Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/See2et%2Fbakopa-vr/.codex%2Fskills%2Fsdd-init%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_da5b0cc9f65b"
+  }
+}

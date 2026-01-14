@@ -1,0 +1,37 @@
+{
+  "id": "architecture-paradigm-client-server",
+  "name": "architecture-paradigm-client-server",
+  "version": "1.0.0",
+  "summary": "Model system responsibilities across clients, servers, and optional peer-to-peer\nnodes for traditional distributed applications.\n\nTriggers: client-server, web architecture, mobi...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/archetypes/skills/architecture-paradigm-client-server/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.551Z",
+  "created_at": "2025-12-23T01:28:48.324Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Farchetypes%2Fskills%2Farchitecture-paradigm-client-server%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_ebbd31acce09"
+  }
+}

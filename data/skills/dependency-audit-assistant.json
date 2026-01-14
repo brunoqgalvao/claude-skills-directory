@@ -1,0 +1,35 @@
+{
+  "id": "dependency-audit-assistant",
+  "name": "dependency-audit-assistant",
+  "version": "1.0.0",
+  "summary": "Reviews package dependencies for security vulnerabilities, outdated versions, and license compliance. Use when user asks about dependencies, security audits, or before releases.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CrazyDubya",
+    "github": "CrazyDubya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CrazyDubya/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/CrazyDubya/claude-skills/main/dependency-audit-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T02:10:32.000Z",
+  "created_at": "2025-12-22T20:01:22.763Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CrazyDubya%2Fclaude-skills/dependency-audit-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_34d9105494e7"
+  }
+}

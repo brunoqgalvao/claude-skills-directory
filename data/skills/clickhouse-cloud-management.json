@@ -1,0 +1,35 @@
+{
+  "id": "clickhouse-cloud-management",
+  "name": "clickhouse-cloud-management",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"create ClickHouse user\", \"manage ClickHouse permissions\", \"test ClickHouse connection\", \"troubleshoot ClickHouse Cloud\", or ment...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/devops-tools/skills/clickhouse-cloud-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:02:55.558Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fdevops-tools%2Fskills%2Fclickhouse-cloud-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_bbc04015651c"
+  }
+}

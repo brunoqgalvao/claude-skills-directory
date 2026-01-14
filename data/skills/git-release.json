@@ -1,0 +1,35 @@
+{
+  "id": "git-release",
+  "name": "git-release",
+  "version": "1.0.0",
+  "summary": "Git 项目版本发布自动化工具。支持语义化版本号升级 (major/minor/patch)，\n基于 Angular commit 规范自动生成 CHANGELOG，创建 git tag 并推送到远程仓库。\n触发关键词：\n- \"发布版本\"、\"升级版本\"、\"更新版本\"、\"版本发布\"、\"发新版\"\n- \"更新版本并提交\"、\"升级并提交\"、\"发布并推送\"\n- ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chogng",
+    "github": "chogng"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chogng/claude-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/chogng/claude-agent-skills/main/git-release/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:35.592Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chogng%2Fclaude-agent-skills/git-release%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_ec1c095f9a6f"
+  }
+}

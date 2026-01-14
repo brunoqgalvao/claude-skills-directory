@@ -1,0 +1,35 @@
+{
+  "id": "jira-projects",
+  "name": "jira-projects",
+  "version": "1.0.0",
+  "summary": "Manage Jira projects. Use when listing projects, getting project configuration, retrieving issue types, or managing components and versions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "01000001-01001110",
+    "github": "01000001-01001110"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/01000001-01001110/agent-jira-skills",
+    "skill_md": "https://raw.githubusercontent.com/01000001-01001110/agent-jira-skills/main/jira-projects/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:57:25.723Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/01000001-01001110%2Fagent-jira-skills/jira-projects%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_92e7a1dd2761"
+  }
+}

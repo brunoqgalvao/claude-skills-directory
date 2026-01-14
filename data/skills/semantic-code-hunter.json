@@ -1,0 +1,36 @@
+{
+  "id": "semantic-code-hunter",
+  "name": "semantic-code-hunter",
+  "version": "1.0.0",
+  "summary": "Use when you need to find code by concept (not just text). Uses Serena MCP for semantic code search across the codebase with minimal token usage. Ideal for understanding archite...",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Barnhardt-Enterprises-Inc",
+    "github": "Barnhardt-Enterprises-Inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Barnhardt-Enterprises-Inc/quetrex-plugin",
+    "skill_md": "https://raw.githubusercontent.com/Barnhardt-Enterprises-Inc/quetrex-plugin/main/templates/skills/semantic-code-hunter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T18:02:24.000Z",
+  "created_at": "2025-12-22T17:11:48.757Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Barnhardt-Enterprises-Inc%2Fquetrex-plugin/templates%2Fskills%2Fsemantic-code-hunter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_6e866500fd07"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "adr-architecture",
+  "name": "adr-architecture",
+  "version": "1.0.0",
+  "summary": "Use when documenting significant technical or architectural decisions that need context, rationale, and consequences recorded. Invoke when choosing between technology options, m...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lyndonkl",
+    "github": "lyndonkl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lyndonkl/claude",
+    "skill_md": "https://raw.githubusercontent.com/lyndonkl/claude/main/skills/adr-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:04:54.742Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lyndonkl%2Fclaude/skills%2Fadr-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_308c64b1b241"
+  }
+}

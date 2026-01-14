@@ -1,0 +1,35 @@
+{
+  "id": "multi-agent-ai-projects",
+  "name": "multi-agent-ai-projects",
+  "version": "1.0.0",
+  "summary": "Guidelines for multi-agent AI and learning projects with lesson-based structures. Activate when working with AI learning projects, experimental directories like .spec/, lessons/...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ilude",
+    "github": "ilude"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ilude/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/ilude/claude-code-config/main/skills/multi-agent-ai-projects/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.845Z",
+  "created_at": "2025-12-22T16:04:22.275Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ilude%2Fclaude-code-config/skills%2Fmulti-agent-ai-projects%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_69bf94573551"
+  }
+}

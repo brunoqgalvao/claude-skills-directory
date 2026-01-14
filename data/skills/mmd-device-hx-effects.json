@@ -1,0 +1,37 @@
+{
+  "id": "mmd-device-hx-effects",
+  "name": "mmd-device-hx-effects",
+  "version": "1.0.0",
+  "summary": "Guide for using the Line 6 HX Effects device library in MMD files. Use when the user mentions HX Effects, HX Effects processor, effects-only processor, or needs help with 4-snap...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cjgdev",
+    "github": "cjgdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cjgdev/midi-markdown",
+    "skill_md": "https://raw.githubusercontent.com/cjgdev/midi-markdown/main/.claude/skills/mmd-device-hx-effects/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:15:33.735Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cjgdev%2Fmidi-markdown/.claude%2Fskills%2Fmmd-device-hx-effects%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_ecc4264f9911"
+  }
+}

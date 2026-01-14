@@ -1,0 +1,35 @@
+{
+  "id": "test-auth-wrapper",
+  "name": "test-auth-wrapper",
+  "version": "1.0.0",
+  "summary": "Expert knowledge on CLI testing with auth bypass, automated endpoint testing, and the 3 bypass methods (headers, environment, test headers). Use this skill when user asks about ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sanchay-T",
+    "github": "Sanchay-T"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sanchay-T/influencer-platform-app",
+    "skill_md": "https://raw.githubusercontent.com/Sanchay-T/influencer-platform-app/main/.claude/skills/test-auth-wrapper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:06:53.728Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sanchay-T%2Finfluencer-platform-app/.claude%2Fskills%2Ftest-auth-wrapper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_18c9457bbf7b"
+  }
+}

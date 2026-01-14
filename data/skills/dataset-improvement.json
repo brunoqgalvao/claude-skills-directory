@@ -1,0 +1,35 @@
+{
+  "id": "dataset-improvement",
+  "name": "dataset-improvement",
+  "version": "1.0.0",
+  "summary": "Extract, review, and replace lines in JSONL dataset files for hand-crafted quality improvements. Use when improving synthetic training data, fixing thinking blocks, or manually ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ProfSynapse",
+    "github": "ProfSynapse"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ProfSynapse/Synaptic-Tuner",
+    "skill_md": "https://raw.githubusercontent.com/ProfSynapse/Synaptic-Tuner/main/.claude/skills/synethetic-data-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T21:00:32.000Z",
+  "created_at": "2025-12-23T01:28:50.431Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ProfSynapse%2FSynaptic-Tuner/.claude%2Fskills%2Fsynethetic-data-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_e201fce9940d"
+  }
+}

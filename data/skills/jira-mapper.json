@@ -1,0 +1,35 @@
+{
+  "id": "jira-mapper",
+  "name": "jira-mapper",
+  "version": "1.0.0",
+  "summary": "Expert in mapping SpecWeave increments to JIRA epics/stories/subtasks. Content flows SpecWeave→JIRA, status flows JIRA→SpecWeave. Handles export (increment → JIRA), import (JIRA...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave-jira/skills/jira-mapper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:57.063Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave-jira%2Fskills%2Fjira-mapper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_c79c21a29eef"
+  }
+}

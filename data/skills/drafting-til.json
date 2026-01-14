@@ -1,0 +1,35 @@
+{
+  "id": "drafting-til",
+  "name": "drafting-til",
+  "version": "1.0.0",
+  "summary": "Drafts a TIL blog post in the user's voice and creates it in Notion with Status=\"Claude Draft\". Contains voice guide for matching the user's writing style. Use when user approve...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ooloth",
+    "github": "ooloth"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ooloth/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ooloth/dotfiles/main/tools/claude/config/skills/drafting-til/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:17.931Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ooloth%2Fdotfiles/tools%2Fclaude%2Fconfig%2Fskills%2Fdrafting-til%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_c26f8d762ebd"
+  }
+}

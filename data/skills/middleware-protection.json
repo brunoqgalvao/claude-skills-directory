@@ -1,0 +1,35 @@
+{
+  "id": "middleware-protection",
+  "name": "middleware-protection",
+  "version": "1.0.0",
+  "summary": "Route protection and authorization patterns for Clerk middleware. Use when implementing route guards, protecting API routes, configuring middleware matchers, setting up role-bas...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/clerk/skills/middleware-protection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T22:26:35.000Z",
+  "created_at": "2025-12-23T01:29:20.595Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fclerk%2Fskills%2Fmiddleware-protection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_6b84616c5839"
+  }
+}

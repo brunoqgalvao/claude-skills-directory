@@ -1,0 +1,37 @@
+{
+  "id": "setup-assistant",
+  "name": "setup-assistant",
+  "version": "1.0.0",
+  "summary": "Detect when user is working in an un-indexed project and proactively suggest enabling semantic memory. Activates on first code question in new projects to guide users through in...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "squirrelsoft-dev",
+    "github": "squirrelsoft-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/squirrelsoft-dev/infinite-memory",
+    "skill_md": "https://raw.githubusercontent.com/squirrelsoft-dev/infinite-memory/main/skills/setup-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:44.033Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/squirrelsoft-dev%2Finfinite-memory/skills%2Fsetup-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_f10a2b821c4a"
+  }
+}

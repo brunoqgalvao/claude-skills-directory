@@ -1,0 +1,36 @@
+{
+  "id": "ipv6-first",
+  "name": "ipv6-first",
+  "version": "1.0.0",
+  "summary": "IPv6 is THE first-class citizen. All code, tests, documentation, and configurations MUST be IPv6-first. IPv4 MAY be added only for legacy support as a second-class citizen.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "troykelly",
+    "github": "troykelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/troykelly/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/troykelly/claude-skills/main/skills/ipv6-first/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T04:47:57.000Z",
+  "created_at": "2025-12-23T01:29:21.276Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/troykelly%2Fclaude-skills/skills%2Fipv6-first%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_6e67e52c89c6"
+  }
+}

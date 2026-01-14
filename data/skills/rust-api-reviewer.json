@@ -1,0 +1,35 @@
+{
+  "id": "rust-api-reviewer",
+  "name": "rust-api-reviewer",
+  "version": "1.0.0",
+  "summary": "WHEN: Rust API review with Actix-web/Axum/Rocket, async patterns, extractors, middleware\nWHAT: Async handlers + Extractors + State management + Error responses + Tower middlewar...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "physics91",
+    "github": "physics91"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/physics91/claude-vibe",
+    "skill_md": "https://raw.githubusercontent.com/physics91/claude-vibe/main/skills/rust-api-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T04:32:08.000Z",
+  "created_at": "2025-12-23T01:29:31.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/physics91%2Fclaude-vibe/skills%2Frust-api-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_143e30d52901"
+  }
+}

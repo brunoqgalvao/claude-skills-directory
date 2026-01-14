@@ -1,0 +1,36 @@
+{
+  "id": "julien-mcp-playwright",
+  "name": "julien-mcp-playwright",
+  "version": "1.0.0",
+  "summary": "Install Playwright MCP for browser automation. Use when user needs web testing/scraping capabilities.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theflysurfer",
+    "github": "theflysurfer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theflysurfer/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/theflysurfer/claude-skills-marketplace/main/archive/mcp-skills-individual/julien-mcp-playwright/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T22:13:58.000Z",
+  "created_at": "2025-12-23T01:28:33.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theflysurfer%2Fclaude-skills-marketplace/archive%2Fmcp-skills-individual%2Fjulien-mcp-playwright%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_37fd44b3bfed"
+  }
+}

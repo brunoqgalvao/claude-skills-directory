@@ -1,0 +1,37 @@
+{
+  "id": "analyze-yii2-project",
+  "name": "analyze-yii2-project",
+  "version": "1.0.0",
+  "summary": "Use this when user provides a Yii2 codebase for analysis or migration planning. Provides 6-phase workflow: scan, capability extraction, dependency analysis, requirements extract...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PearlThoughts",
+    "github": "PearlThoughts"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PearlThoughts/CodeCompass",
+    "skill_md": "https://raw.githubusercontent.com/PearlThoughts/CodeCompass/main/.claude/skills/analyze-yii2-project/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T09:14:56.000Z",
+  "created_at": "2025-12-23T01:29:26.003Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PearlThoughts%2FCodeCompass/.claude%2Fskills%2Fanalyze-yii2-project%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_0835efe102d7"
+  }
+}

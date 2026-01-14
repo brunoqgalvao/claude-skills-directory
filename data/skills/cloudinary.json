@@ -1,0 +1,35 @@
+{
+  "id": "cloudinary",
+  "name": "cloudinary",
+  "version": "1.0.0",
+  "summary": "Upload images and videos to Cloudinary with CDN delivery and transformations. Use this skill for media hosting, optimization, resizing, format conversion, and video concatenation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-skills",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-skills/main/cloudinary/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.506Z",
+  "created_at": "2025-12-23T01:29:21.238Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-skills/cloudinary%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_138141c1dd12"
+  }
+}

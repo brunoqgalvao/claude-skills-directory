@@ -1,0 +1,36 @@
+{
+  "id": "write-docs",
+  "name": "write-docs",
+  "version": "1.0.0",
+  "summary": "Use when user requests automated documentation generation from requirements file. Triggers include:\n- Korean: \"문서 작성해줘\", \"write-docs 실행해줘\", \"자동 문서 생성\"\n- English: \"write document...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "furiosa-ai",
+    "github": "furiosa-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/furiosa-ai/agent_skills",
+    "skill_md": "https://raw.githubusercontent.com/furiosa-ai/agent_skills/main/write-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T12:57:21.000Z",
+  "created_at": "2025-12-23T01:29:23.856Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/furiosa-ai%2Fagent_skills/write-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_11aecc1a089d"
+  }
+}

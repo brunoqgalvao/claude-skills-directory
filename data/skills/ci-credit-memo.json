@@ -1,0 +1,35 @@
+{
+  "id": "ci-credit-memo",
+  "name": "ci-credit-memo",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive Commercial & Industrial (C&I) loan credit memos for banking demos. Interviews bankers, gathers data from Morningstar/S&P/Aiera/LSEG, handles file uploads,...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gregjacobi",
+    "github": "gregjacobi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gregjacobi/Banks",
+    "skill_md": "https://raw.githubusercontent.com/gregjacobi/Banks/main/.claude/skills/ci-credit-memo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:27:16.276Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gregjacobi%2FBanks/.claude%2Fskills%2Fci-credit-memo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_2cb473580b54"
+  }
+}

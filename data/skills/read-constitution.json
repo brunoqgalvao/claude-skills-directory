@@ -1,0 +1,35 @@
+{
+  "id": "read-constitution",
+  "name": "read-constitution",
+  "version": "1.0.0",
+  "summary": "This skill should be used to load the constitution files located in .constitution",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tordks",
+    "github": "tordks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tordks/claude-workflow",
+    "skill_md": "https://raw.githubusercontent.com/tordks/claude-workflow/main/plugins/cwf/skills/read-constitution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T07:58:14.000Z",
+  "created_at": "2025-12-23T01:28:14.758Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tordks%2Fclaude-workflow/plugins%2Fcwf%2Fskills%2Fread-constitution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.582Z",
+    "uniqueId": "sk_94717200c2a2"
+  }
+}

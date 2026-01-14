@@ -1,0 +1,35 @@
+{
+  "id": "literature-filter",
+  "name": "literature-filter",
+  "version": "1.0.0",
+  "summary": "Filter, validate and organize literature search results.\nLOAD THIS SKILL WHEN: User has search results and needs to \"過濾\", \"篩選\", \"filter\", \"選擇文獻\" | reviewing search results | nar...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "u9401066",
+    "github": "u9401066"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/u9401066/copilot-capability-manager",
+    "skill_md": "https://raw.githubusercontent.com/u9401066/copilot-capability-manager/main/.claude/skills/literature-filter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:35.936Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/u9401066%2Fcopilot-capability-manager/.claude%2Fskills%2Fliterature-filter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_4d5706b07eb3"
+  }
+}

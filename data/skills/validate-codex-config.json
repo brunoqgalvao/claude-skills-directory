@@ -1,0 +1,36 @@
+{
+  "id": "validate-codex-config",
+  "name": "validate-codex-config",
+  "version": "1.0.0",
+  "summary": "Validate afi-config codex and governance configuration for structural consistency, broken references, and schema alignment, without changing protocol semantics. This skill perfo...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AFI-Protocol",
+    "github": "AFI-Protocol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AFI-Protocol/afi-config",
+    "skill_md": "https://raw.githubusercontent.com/AFI-Protocol/afi-config/main/.factory/skills/validate-codex-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.630Z",
+  "created_at": "2025-12-22T23:14:04.629Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AFI-Protocol%2Fafi-config/.factory%2Fskills%2Fvalidate-codex-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.630Z",
+    "uniqueId": "sk_b73cda1140a5"
+  }
+}

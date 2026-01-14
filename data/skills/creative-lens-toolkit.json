@@ -1,0 +1,35 @@
+{
+  "id": "creative-lens-toolkit",
+  "name": "creative-lens-toolkit",
+  "version": "1.0.0",
+  "summary": "Archetypal lenses and tactical transforms for creative prompt exploration. Use when: scene is correct but lacks emotional subtext, need mythic or archetypal phrasing, exploring ...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "davidrd123",
+    "github": "davidrd123"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/davidrd123/ComfyPromptByAPI",
+    "skill_md": "https://raw.githubusercontent.com/davidrd123/ComfyPromptByAPI/main/.claude/skills/creative-lens-toolkit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T08:15:46.000Z",
+  "created_at": "2025-12-23T01:29:06.076Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/davidrd123%2FComfyPromptByAPI/.claude%2Fskills%2Fcreative-lens-toolkit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_e3f8a2faba06"
+  }
+}

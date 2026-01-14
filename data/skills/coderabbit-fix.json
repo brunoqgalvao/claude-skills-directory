@@ -1,0 +1,35 @@
+{
+  "id": "coderabbit-fix",
+  "name": "coderabbit-fix",
+  "version": "1.0.0",
+  "summary": "Implement fixes for specific CodeRabbit review issues. Runs in isolated subagent context with focused task. Verifies fixes with tests before returning. Use one per issue from tr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "caiokf",
+    "github": "caiokf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/caiokf/homepage",
+    "skill_md": "https://raw.githubusercontent.com/caiokf/homepage/main/.claude/skills/coderabbit-fix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T10:05:51.000Z",
+  "created_at": "2025-12-23T01:29:28.000Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/caiokf%2Fhomepage/.claude%2Fskills%2Fcoderabbit-fix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_5fab073a9334"
+  }
+}

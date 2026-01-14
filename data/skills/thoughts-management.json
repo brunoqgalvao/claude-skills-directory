@@ -1,0 +1,37 @@
+{
+  "id": "thoughts-management",
+  "name": "thoughts-management",
+  "version": "1.0.0",
+  "summary": "Manage thoughts directory operations including initialization, synchronization, and metadata generation. Use after creating or modifying research documents, implementation plans...",
+  "verticals": [
+    "hr",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nikeyes",
+    "github": "nikeyes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nikeyes/stepwise-dev",
+    "skill_md": "https://raw.githubusercontent.com/nikeyes/stepwise-dev/main/skills/thoughts-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:13.089Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nikeyes%2Fstepwise-dev/skills%2Fthoughts-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_40afaaf41176"
+  }
+}

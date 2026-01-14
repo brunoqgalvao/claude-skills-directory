@@ -1,0 +1,36 @@
+{
+  "id": "register-watch",
+  "name": "register-watch",
+  "version": "1.0.0",
+  "summary": "Use when debugging register corruption issues - registers have unexpected values after context switches, userspace processes crash with corrupted state, stack pointer corruption...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryanbreen",
+    "github": "ryanbreen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryanbreen/breenix",
+    "skill_md": "https://raw.githubusercontent.com/ryanbreen/breenix/main/breenix-register-watch/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:59:55.732Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryanbreen%2Fbreenix/breenix-register-watch%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_349fcf1ce389"
+  }
+}

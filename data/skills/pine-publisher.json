@@ -1,0 +1,35 @@
+{
+  "id": "pine-publisher",
+  "name": "pine-publisher",
+  "version": "1.0.0",
+  "summary": "Prepares Pine Scripts for publication in TradingView's community library with proper documentation and compliance. Use when preparing to publish, adding documentation, ensuring ...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TradersPost",
+    "github": "TradersPost"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TradersPost/pinescript-agents",
+    "skill_md": "https://raw.githubusercontent.com/TradersPost/pinescript-agents/main/.claude/skills/pine-publisher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.482Z",
+  "created_at": "2025-12-23T01:29:42.635Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TradersPost%2Fpinescript-agents/.claude%2Fskills%2Fpine-publisher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_f57caed516d1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "episode-start",
+  "name": "episode-start",
+  "version": "1.0.0",
+  "summary": "Start a new learning episode in the self-learning memory system with proper context. Use this skill when beginning a new task that should be tracked for learning from execution ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-o-hub",
+    "github": "d-o-hub"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-o-hub/rust-self-learning-memory",
+    "skill_md": "https://raw.githubusercontent.com/d-o-hub/rust-self-learning-memory/main/.claude/skills/episode-start/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T07:06:09.000Z",
+  "created_at": "2025-12-22T15:05:45.795Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-o-hub%2Frust-self-learning-memory/.claude%2Fskills%2Fepisode-start%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_da7136bd54c5"
+  }
+}

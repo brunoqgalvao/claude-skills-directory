@@ -1,0 +1,35 @@
+{
+  "id": "classifying-review-findings",
+  "name": "classifying-review-findings",
+  "version": "1.0.0",
+  "summary": "Classifies code review findings into severity categories (CRITICAL, IMPORTANT, DEBT, SUGGESTED, QUESTION) following Bitwarden standards. Use when determining severity levels, ca...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bitwarden",
+    "github": "bitwarden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bitwarden/ai-plugins",
+    "skill_md": "https://raw.githubusercontent.com/bitwarden/ai-plugins/main/plugins/bitwarden-code-review/skills/classifying-review-findings/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.568Z",
+  "created_at": "2025-12-23T01:28:34.604Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bitwarden%2Fai-plugins/plugins%2Fbitwarden-code-review%2Fskills%2Fclassifying-review-findings%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_8d7b7d8519be"
+  }
+}

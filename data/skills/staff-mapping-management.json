@@ -1,0 +1,35 @@
+{
+  "id": "staff-mapping-management",
+  "name": "staff-mapping-management",
+  "version": "1.0.0",
+  "summary": "Manage staff-institution mapping table for vehicle insurance platform. Use when updating mapping files, resolving name conflicts, converting Excel to JSON, or checking mapping c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alongor666",
+    "github": "alongor666"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alongor666/daylyreport",
+    "skill_md": "https://raw.githubusercontent.com/alongor666/daylyreport/main/.claude/skills/staff-mapping-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:03:48.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alongor666%2Fdaylyreport/.claude%2Fskills%2Fstaff-mapping-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_cec35174c253"
+  }
+}

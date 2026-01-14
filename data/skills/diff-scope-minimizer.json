@@ -1,0 +1,35 @@
+{
+  "id": "diff-scope-minimizer",
+  "name": "diff-scope-minimizer",
+  "version": "1.0.0",
+  "summary": "Keep changes narrowly scoped with a tiny patch plan and stop criteria",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MacroMan5",
+    "github": "MacroMan5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MacroMan5/claude-code-workflow-plugins",
+    "skill_md": "https://raw.githubusercontent.com/MacroMan5/claude-code-workflow-plugins/main/.claude/skills/diff-scope-minimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T15:41:34.000Z",
+  "created_at": "2025-12-22T14:20:44.760Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MacroMan5%2Fclaude-code-workflow-plugins/.claude%2Fskills%2Fdiff-scope-minimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_c7a54779a58e"
+  }
+}

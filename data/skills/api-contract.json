@@ -1,0 +1,37 @@
+{
+  "id": "api-contract",
+  "name": "api-contract",
+  "version": "1.0.0",
+  "summary": "EmberApi SSOT with HttpApiBuilder and HttpApiClient patterns.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aitchwhy",
+    "github": "aitchwhy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aitchwhy/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/aitchwhy/dotfiles/main/config/agents/skills/api-contract/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.851Z",
+  "created_at": "2025-12-22T15:56:37.522Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aitchwhy%2Fdotfiles/config%2Fagents%2Fskills%2Fapi-contract%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_d9512f035677"
+  }
+}

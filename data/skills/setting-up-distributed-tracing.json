@@ -1,0 +1,37 @@
+{
+  "id": "setting-up-distributed-tracing",
+  "name": "setting-up-distributed-tracing",
+  "version": "1.0.0",
+  "summary": "This skill automates the setup of distributed tracing for microservices. It helps developers implement end-to-end request visibility by configuring context propagation, span cre...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/backups/skills-batch-20251204-000554/plugins/performance/distributed-tracing-setup/skills/distributed-tracing-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T06:09:39.000Z",
+  "created_at": "2025-12-19T19:56:45.721Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/backups%2Fskills-batch-20251204-000554%2Fplugins%2Fperformance%2Fdistributed-tracing-setup%2Fskills%2Fdistributed-tracing-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.887Z",
+    "uniqueId": "sk_860305121661"
+  }
+}

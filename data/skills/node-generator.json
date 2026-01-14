@@ -1,0 +1,36 @@
+{
+  "id": "node-generator",
+  "name": "node-generator",
+  "version": "1.0.0",
+  "summary": "Generate new workflow nodes with implementation, tests, and registry registration",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dafthunk-com",
+    "github": "dafthunk-com"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dafthunk-com/dafthunk",
+    "skill_md": "https://raw.githubusercontent.com/dafthunk-com/dafthunk/main/.claude/skills/node-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T22:11:28.000Z",
+  "created_at": "2025-12-23T01:29:19.949Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dafthunk-com%2Fdafthunk/.claude%2Fskills%2Fnode-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_4ca38261f242"
+  }
+}

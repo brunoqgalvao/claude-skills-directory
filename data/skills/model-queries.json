@@ -1,0 +1,37 @@
+{
+  "id": "model-queries",
+  "name": "model-queries",
+  "version": "1.0.0",
+  "summary": "Building database queries with the Options API",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "griffnb",
+    "github": "griffnb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/griffnb/techboss-ai-go",
+    "skill_md": "https://raw.githubusercontent.com/griffnb/techboss-ai-go/main/.claude/skills/model-queries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-15T18:36:15.000Z",
+  "created_at": "2025-12-23T01:28:57.027Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/griffnb%2Ftechboss-ai-go/.claude%2Fskills%2Fmodel-queries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.535Z",
+    "uniqueId": "sk_4f1d30b697b2"
+  }
+}

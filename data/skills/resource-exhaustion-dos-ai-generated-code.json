@@ -1,0 +1,37 @@
+{
+  "id": "resource-exhaustion-dos-ai-generated-code",
+  "name": "resource-exhaustion-dos-ai-generated-code",
+  "version": "1.0.0",
+  "summary": "Understand resource exhaustion and denial of service vulnerabilities in AI code including unbounded loops, missing rate limits, and uncontrolled resource consumption. Use this s...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "harperaa",
+    "github": "harperaa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/harperaa/secure-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/harperaa/secure-claude-skills/main/security-awareness/resource-exhaustion/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.608Z",
+  "created_at": "2025-12-23T00:01:08.341Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/harperaa%2Fsecure-claude-skills/security-awareness%2Fresource-exhaustion%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.608Z",
+    "uniqueId": "sk_fc317040f8f4"
+  }
+}

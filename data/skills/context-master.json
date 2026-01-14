@@ -1,0 +1,36 @@
+{
+  "id": "context-master",
+  "name": "context-master",
+  "version": "1.0.0",
+  "summary": "Universal context management and planning system. PROACTIVELY activate for: (1) ANY complex task requiring planning, (2) Multi-file projects/websites/apps, (3) Architecture deci...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JosiahSiegel",
+    "github": "JosiahSiegel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JosiahSiegel/claude-plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/JosiahSiegel/claude-plugin-marketplace/main/plugins/context-master/skills/context-master/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.465Z",
+  "created_at": "2025-12-23T01:30:58.801Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JosiahSiegel%2Fclaude-plugin-marketplace/plugins%2Fcontext-master%2Fskills%2Fcontext-master%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_7dff48bd84c7"
+  }
+}

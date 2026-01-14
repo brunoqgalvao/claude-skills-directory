@@ -1,0 +1,37 @@
+{
+  "id": "sanitize-git-repo",
+  "name": "sanitize-git-repo",
+  "version": "1.0.0",
+  "summary": "Guidance for sanitizing git repositories by identifying and removing sensitive credentials, API keys, tokens, and other secrets. This skill should be used when tasks involve cle...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "letta-ai",
+    "github": "letta-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/letta-ai/skills",
+    "skill_md": "https://raw.githubusercontent.com/letta-ai/skills/main/ai/benchmarks/letta/terminal-bench-2/trajectory-only/sanitize-git-repo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.796Z",
+  "created_at": "2025-12-22T18:16:52.484Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/letta-ai%2Fskills/ai%2Fbenchmarks%2Fletta%2Fterminal-bench-2%2Ftrajectory-only%2Fsanitize-git-repo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.796Z",
+    "uniqueId": "sk_56e7e577e3af"
+  }
+}

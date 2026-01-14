@@ -1,0 +1,36 @@
+{
+  "id": "monthly-analysis",
+  "name": "monthly-analysis",
+  "version": "1.0.0",
+  "summary": "Complete monthly stock analysis workflow: fetch end-of-month prices, calculate returns/momentum, and merge with fundamentals from Rice Data Portal. Self-contained for all monthl...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kerryback",
+    "github": "kerryback"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kerryback/mgmt638",
+    "skill_md": "https://raw.githubusercontent.com/kerryback/mgmt638/main/.claude/skills/monthly-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:25.184Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kerryback%2Fmgmt638/.claude%2Fskills%2Fmonthly-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_1566a1fb5647"
+  }
+}

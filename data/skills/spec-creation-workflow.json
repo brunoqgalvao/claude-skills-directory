@@ -1,0 +1,36 @@
+{
+  "id": "spec-creation-workflow",
+  "name": "spec-creation-workflow",
+  "version": "1.0.0",
+  "summary": "Use when creating new spec or resuming incomplete spec - detects current phase, routes to appropriate phase skill (initialization, requirements, spec-writing, tasks-planning, ve...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcos-abreu",
+    "github": "marcos-abreu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcos-abreu/connect_kit",
+    "skill_md": "https://raw.githubusercontent.com/marcos-abreu/connect_kit/main/.claude/skills/spec-creation-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T17:47:03.000Z",
+  "created_at": "2025-12-22T17:51:11.630Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcos-abreu%2Fconnect_kit/.claude%2Fskills%2Fspec-creation-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_b70857bd670b"
+  }
+}

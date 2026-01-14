@@ -1,0 +1,37 @@
+{
+  "id": "zhongyi-rules",
+  "name": "zhongyi-rules",
+  "version": "1.0.0",
+  "summary": "Mandatory rules for the zhongyi TCM system. ALWAYS follow these rules when writing any code, templates, or content. Includes bilingual display requirements, Chinese-first format...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tanmk-pm22",
+    "github": "tanmk-pm22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tanmk-pm22/zhongyi-system",
+    "skill_md": "https://raw.githubusercontent.com/tanmk-pm22/zhongyi-system/main/.claude/skills/zhongyi-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.503Z",
+  "created_at": "2025-12-23T01:29:22.552Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tanmk-pm22%2Fzhongyi-system/.claude%2Fskills%2Fzhongyi-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_07a7d0a59fe3"
+  }
+}

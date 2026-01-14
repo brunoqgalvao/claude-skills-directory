@@ -1,0 +1,37 @@
+{
+  "id": "chronicle-remote-summarizer",
+  "name": "chronicle-remote-summarizer",
+  "version": "1.0.0",
+  "summary": "Automate cross-system summarization workflow for Chronicle sessions. Export sessions from remote systems (like FreeBSD) and import/summarize on local machine with Gemini API. Us...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChandlerHardy",
+    "github": "ChandlerHardy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChandlerHardy/chronicle",
+    "skill_md": "https://raw.githubusercontent.com/ChandlerHardy/chronicle/main/chronicle-skills/chronicle-remote-summarizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T08:11:46.000Z",
+  "created_at": "2025-12-23T01:29:31.496Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChandlerHardy%2Fchronicle/chronicle-skills%2Fchronicle-remote-summarizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_fa68865af93e"
+  }
+}

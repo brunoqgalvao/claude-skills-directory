@@ -1,0 +1,35 @@
+{
+  "id": "image-editor",
+  "name": "image-editor",
+  "version": "1.0.0",
+  "summary": "Image editing tool supporting format conversion (JPEG, PNG, TIFF, HEIC, WebP), basic edits (rotate, resize, flip), color adjustments (brightness, contrast, saturation), and tran...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "garg-aayush",
+    "github": "garg-aayush"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/garg-aayush/tutorials",
+    "skill_md": "https://raw.githubusercontent.com/garg-aayush/tutorials/main/claude-skills/image-editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:41.446Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/garg-aayush%2Ftutorials/claude-skills%2Fimage-editor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_6687bdae9072"
+  }
+}

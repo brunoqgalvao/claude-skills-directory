@@ -1,0 +1,35 @@
+{
+  "id": "doc-updater",
+  "name": "doc-updater",
+  "version": "1.0.0",
+  "summary": "コード変更、API変更、新機能追加時にドキュメントを自動更新します。公開APIやインターフェースの変更、新クラス・関数・モジュールの追加、アーキテクチャの重要な変更、ユーザーからの明示的なドキュメント更新依頼時に起動します。プロジェクトのドキュメント標準に準拠した更新を提案します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "drillan",
+    "github": "drillan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/drillan/note-mcp",
+    "skill_md": "https://raw.githubusercontent.com/drillan/note-mcp/main/.claude/skills/doc-updater/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:47.523Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/drillan%2Fnote-mcp/.claude%2Fskills%2Fdoc-updater%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_9d24cbb23d5a"
+  }
+}

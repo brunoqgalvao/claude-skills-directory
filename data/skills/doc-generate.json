@@ -1,0 +1,35 @@
+{
+  "id": "doc-generate",
+  "name": "doc-generate",
+  "version": "1.0.0",
+  "summary": "ドキュメント生成・更新時に使用。英語版(.md)と日本語版(.ja.md)の\n相互リンク設定と命名規則を自動適用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tqer39",
+    "github": "tqer39"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tqer39/xtrade",
+    "skill_md": "https://raw.githubusercontent.com/tqer39/xtrade/main/.claude/skills/doc-generate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:39.217Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tqer39%2Fxtrade/.claude%2Fskills%2Fdoc-generate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_65fc530f5ebf"
+  }
+}

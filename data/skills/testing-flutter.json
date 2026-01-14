@@ -1,0 +1,35 @@
+{
+  "id": "testing-flutter",
+  "name": "testing-flutter",
+  "version": "1.0.0",
+  "summary": ". Use when writing tests, reviewing test coverage, or setting up testing.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TheBeardedBearSAS",
+    "github": "TheBeardedBearSAS"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TheBeardedBearSAS/claude-craft",
+    "skill_md": "https://raw.githubusercontent.com/TheBeardedBearSAS/claude-craft/main/Dev/i18n/en/Flutter/skills/testing-flutter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T01:28:09.437Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TheBeardedBearSAS%2Fclaude-craft/Dev%2Fi18n%2Fen%2FFlutter%2Fskills%2Ftesting-flutter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_ed23678cd7ab"
+  }
+}

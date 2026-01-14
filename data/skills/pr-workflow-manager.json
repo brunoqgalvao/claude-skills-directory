@@ -1,0 +1,35 @@
+{
+  "id": "pr-workflow-manager",
+  "name": "pr-workflow-manager",
+  "version": "1.0.0",
+  "summary": "Manages complete PR workflow from start to finish - creates feature branch, commits changes, pushes to remote, and opens pull request. Use when user wants to create a PR (e.g., ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryoppippi",
+    "github": "ryoppippi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryoppippi/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ryoppippi/dotfiles/main/claude/skills/pr-workflow-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:35.743Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryoppippi%2Fdotfiles/claude%2Fskills%2Fpr-workflow-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_b401d9c14461"
+  }
+}

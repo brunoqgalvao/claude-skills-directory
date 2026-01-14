@@ -1,0 +1,35 @@
+{
+  "id": "playwright-e2e-testing",
+  "name": "playwright-e2e-testing",
+  "version": "1.0.0",
+  "summary": "Write end-to-end tests with Playwright for web applications. Includes fixtures, page objects, test templates, visual regression testing, and accessibility audits.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ils15",
+    "github": "ils15"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ils15/copilot-global-config",
+    "skill_md": "https://raw.githubusercontent.com/ils15/copilot-global-config/main/skills/playwright-e2e-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.694Z",
+  "created_at": "2025-12-22T22:03:57.877Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ils15%2Fcopilot-global-config/skills%2Fplaywright-e2e-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.694Z",
+    "uniqueId": "sk_ec680ff59f60"
+  }
+}

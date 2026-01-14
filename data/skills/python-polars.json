@@ -1,0 +1,37 @@
+{
+  "id": "python-polars",
+  "name": "python-polars",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"work with polars\", \"create a dataframe\", \"use lazy evaluation\", \"migrate from pandas\", \"optimize data pipelines\", \"read parquet ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tbhb",
+    "github": "tbhb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tbhb/oaps",
+    "skill_md": "https://raw.githubusercontent.com/tbhb/oaps/main/skills/python-polars/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:05:47.486Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tbhb%2Foaps/skills%2Fpython-polars%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_3e59e84d4f18"
+  }
+}

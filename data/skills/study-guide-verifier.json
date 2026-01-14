@@ -1,0 +1,36 @@
+{
+  "id": "study-guide-verifier",
+  "name": "study-guide-verifier",
+  "version": "1.0.0",
+  "summary": "CRITICAL AUTOMATION: Automatically performs comprehensive study guide verification using the study-guide-analyzer agent.\n\nACTIVATES when user requests accuracy verification, pos...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dung-nguyen3",
+    "github": "dung-nguyen3"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dung-nguyen3/Skills",
+    "skill_md": "https://raw.githubusercontent.com/dung-nguyen3/Skills/main/.claude/skills/study-guide-verifier/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.476Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dung-nguyen3%2FSkills/.claude%2Fskills%2Fstudy-guide-verifier%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_cec0834313e7"
+  }
+}

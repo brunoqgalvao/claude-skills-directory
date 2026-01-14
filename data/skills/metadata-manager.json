@@ -1,0 +1,36 @@
+{
+  "id": "metadata-manager",
+  "name": "metadata-manager",
+  "version": "1.0.0",
+  "summary": "Use this skill when creating or updating DAG configurations (dags.yaml), schema.yaml, and metadata.yaml files for BigQuery tables. Handles creating new DAGs when needed and coor...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mozilla",
+    "github": "mozilla"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mozilla/bigquery-etl-skills",
+    "skill_md": "https://raw.githubusercontent.com/mozilla/bigquery-etl-skills/main/metadata-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:57.121Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mozilla%2Fbigquery-etl-skills/metadata-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_3a8575390ee0"
+  }
+}

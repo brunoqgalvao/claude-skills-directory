@@ -1,0 +1,36 @@
+{
+  "id": "mcp-code-execution-results-comparison-analyzer",
+  "name": "mcp-code-execution-results-comparison-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes experimental results comparing code-execution vs direct-MCP approaches for any task. Extracts performance metrics, execution logs, and workspace outputs from zip archiv...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "olaservo",
+    "github": "olaservo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/olaservo/code-execution-with-mcp",
+    "skill_md": "https://raw.githubusercontent.com/olaservo/code-execution-with-mcp/main/.claude/skills/results-comparison-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T16:15:15.000Z",
+  "created_at": "2025-12-23T01:28:41.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/olaservo%2Fcode-execution-with-mcp/.claude%2Fskills%2Fresults-comparison-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_d7ae110a8073"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "legal-ocr",
+  "name": "legal-ocr",
+  "version": "1.0.0",
+  "summary": "Extrai texto de documentos jurídicos escaneados em PDF usando OCR otimizado para linguagem jurídica brasileira. Use quando precisar converter PDFs escaneados (sentenças, petiçõe...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fbmoulin",
+    "github": "fbmoulin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fbmoulin/legal-ocr-skill",
+    "skill_md": "https://raw.githubusercontent.com/fbmoulin/legal-ocr-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:38.866Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fbmoulin%2Flegal-ocr-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_fff827e33db0"
+  }
+}

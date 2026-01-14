@@ -1,0 +1,35 @@
+{
+  "id": "shelby-cli-helper",
+  "name": "shelby-cli-helper",
+  "version": "1.0.0",
+  "summary": "Use when working with the Shelby Protocol CLI for uploading files, downloading blobs, managing accounts, or configuring contexts. Helps with initialization, funding accounts wit...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zacharyr0th",
+    "github": "zacharyr0th"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zacharyr0th/next-starter",
+    "skill_md": "https://raw.githubusercontent.com/zacharyr0th/next-starter/main/.claude/skills/shelby/shelby-cli-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T17:24:23.000Z",
+  "created_at": "2025-12-23T01:29:19.011Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zacharyr0th%2Fnext-starter/.claude%2Fskills%2Fshelby%2Fshelby-cli-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_e4ea43605958"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "python-style-guide",
+  "name": "python-style-guide",
+  "version": "1.0.0",
+  "summary": "Comprehensive Python programming guidelines based on Google's Python Style Guide. Use when Claude needs to write Python code, review Python code for style issues, refactor Pytho...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CodingKaiser",
+    "github": "CodingKaiser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CodingKaiser/claude-kaiser-skills",
+    "skill_md": "https://raw.githubusercontent.com/CodingKaiser/claude-kaiser-skills/main/python-style-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.496Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CodingKaiser%2Fclaude-kaiser-skills/python-style-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_6acaec490b35"
+  }
+}

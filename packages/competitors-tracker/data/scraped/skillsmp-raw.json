@@ -1,0 +1,1490 @@
+[
+  {
+    "id": "prompt-engineering",
+    "name": "prompt-engineering",
+    "summary": "Use this skill when you writing commands, hooks, skills for Agent, or prompts for sub agents or any other LLM interaction, including optimizing prompts, improving LLM outputs, or d",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/prompt-engineering",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-customaize-agent-skills-prompt-engineering-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.409Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "software-architecture",
+    "name": "software-architecture",
+    "summary": "Guide for quality focused software architecture. This skill should be used when users want to write code, design architecture, analyze code, in any case that relates to software de",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/ddd/skills/software-architecture",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-ddd-skills-software-architecture-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "kaizen",
+    "name": "kaizen",
+    "summary": "Use when Code implementation and refactoring, architecturing or designing systems, process and workflow improvements, error handling and validation. Provide tehniquest to avoid ove",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/kaizen/skills/kaizen",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-kaizen-skills-kaizen-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "subagent-driven-development",
+    "name": "subagent-driven-development",
+    "summary": "Use when executing implementation plans with independent tasks in the current session or facing 3+ independent issues that can be investigated without shared state or dependencies ",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd/skills/subagent-driven-development",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-sadd-skills-subagent-driven-development-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "test-driven-development",
+    "name": "test-driven-development",
+    "summary": "Use when implementing any feature or bugfix, before writing implementation code - write the test first, watch it fail, write minimal code to pass; ensures tests actually verify beh",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/tdd/skills/test-driven-development",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-tdd-skills-test-driven-development-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "agent-evaluation",
+    "name": "agent-evaluation",
+    "summary": "Evaluate and improve Claude Code commands, skills, and agents. Use when testing prompt effectiveness, validating context engineering choices, or measuring improvement quality.",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/agent-evaluation",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-customaize-agent-skills-agent-evaluation-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "thought-based-reasoning",
+    "name": "thought-based-reasoning",
+    "summary": "Use when tackling complex reasoning tasks requiring step-by-step logic, multi-step arithmetic, commonsense reasoning, symbolic manipulation, or problems where simple prompting fail",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/thought-based-reasoning",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-customaize-agent-skills-thought-based-reasoning-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "context-engineering",
+    "name": "context-engineering",
+    "summary": "Understand the components, mechanics, and constraints of context in agent systems. Use when writing, editing, or optimizing commands, skills, or sub-agents prompts.",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/customaize-agent/skills/context-engineering",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-customaize-agent-skills-context-engineering-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "multi-agent-patterns",
+    "name": "multi-agent-patterns",
+    "summary": "Design multi-agent architectures for complex tasks. Use when single-agent context limits are exceeded, when tasks decompose naturally into subtasks, or when specializing agents imp",
+    "author": {
+      "name": "NeoLabHQ",
+      "github": "NeoLabHQ",
+      "avatar": "https://avatars.githubusercontent.com/u/208055522?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/NeoLabHQ/context-engineering-kit/tree/master/plugins/sadd/skills/multi-agent-patterns",
+      "skill_md": "https://raw.githubusercontent.com/NeoLabHQ/context-engineering-kit/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 174,
+      "forks": 20
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/neolabhq-context-engineering-kit-plugins-sadd-skills-multi-agent-patterns-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "launchpad",
+    "name": "launchpad",
+    "summary": "Interact with Canonical's Launchpad platform (launchpad.net) using the lp-api CLI tool. Use when working with Ubuntu/Debian packages, bugs, builds, people, projects, or any Launchp",
+    "author": {
+      "name": "fourdollars",
+      "github": "fourdollars",
+      "avatar": "https://avatars.githubusercontent.com/u/39708?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/fourdollars/lp-api/tree/main/launchpad",
+      "skill_md": "https://raw.githubusercontent.com/fourdollars/lp-api/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 5,
+      "forks": 1
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/fourdollars-lp-api-launchpad-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "add-cuda-kernel",
+    "name": "add-cuda-kernel",
+    "summary": "Step-by-step tutorial for adding new CUDA kernels to FlashInfer",
+    "author": {
+      "name": "flashinfer-ai",
+      "github": "flashinfer-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/145061914?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/flashinfer-ai/flashinfer/tree/main/.claude/skills/add-cuda-kernel",
+      "skill_md": "https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 4419,
+      "forks": 621
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/flashinfer-ai-flashinfer-claude-skills-add-cuda-kernel-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "benchmark-kernel",
+    "name": "benchmark-kernel",
+    "summary": "Guide for benchmarking FlashInfer kernels with CUPTI timing",
+    "author": {
+      "name": "flashinfer-ai",
+      "github": "flashinfer-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/145061914?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/flashinfer-ai/flashinfer/tree/main/.claude/skills/benchmark-kernel",
+      "skill_md": "https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 4419,
+      "forks": 621
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/flashinfer-ai-flashinfer-claude-skills-benchmark-kernel-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "debug-cuda-crash",
+    "name": "debug-cuda-crash",
+    "summary": "Tutorial for debugging CUDA crashes using API logging",
+    "author": {
+      "name": "flashinfer-ai",
+      "github": "flashinfer-ai",
+      "avatar": "https://avatars.githubusercontent.com/u/145061914?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/flashinfer-ai/flashinfer/tree/main/.claude/skills/debug-cuda-crash",
+      "skill_md": "https://raw.githubusercontent.com/flashinfer-ai/flashinfer/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 4419,
+      "forks": 621
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/flashinfer-ai-flashinfer-claude-skills-debug-cuda-crash-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "tabz-guide",
+    "name": "tabz-guide",
+    "summary": "Progressive disclosure guide to TabzChrome capabilities. This skill should be used when users ask about profiles, terminal management, browser automation, MCP tools, audio/TTS noti",
+    "author": {
+      "name": "GGPrompts",
+      "github": "GGPrompts",
+      "avatar": "https://avatars.githubusercontent.com/u/121205049?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/tabz-guide/skills/tabz-guide",
+      "skill_md": "https://raw.githubusercontent.com/GGPrompts/TabzChrome/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 115,
+      "forks": 10
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/ggprompts-tabzchrome-plugins-tabz-guide-skills-tabz-guide-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "tabz-mcp",
+    "name": "tabz-mcp",
+    "summary": "Control Chrome browser: take screenshots, click buttons, fill forms, download images, inspect pages, capture network requests. Use when user says: 'screenshot this', 'click the but",
+    "author": {
+      "name": "GGPrompts",
+      "github": "GGPrompts",
+      "avatar": "https://avatars.githubusercontent.com/u/121205049?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/tabz-mcp/skills/tabz-mcp",
+      "skill_md": "https://raw.githubusercontent.com/GGPrompts/TabzChrome/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 115,
+      "forks": 10
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/ggprompts-tabzchrome-plugins-tabz-mcp-skills-tabz-mcp-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "xterm-js",
+    "name": "xterm-js",
+    "summary": "This skill should be used when working with xterm.js terminal implementations, React-based terminal applications, WebSocket terminal communication, or refactoring terminal-related ",
+    "author": {
+      "name": "GGPrompts",
+      "github": "GGPrompts",
+      "avatar": "https://avatars.githubusercontent.com/u/121205049?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/xterm-js/skills/xterm-js",
+      "skill_md": "https://raw.githubusercontent.com/GGPrompts/TabzChrome/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 115,
+      "forks": 10
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/ggprompts-tabzchrome-plugins-xterm-js-skills-xterm-js-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "orchestration",
+    "name": "orchestration",
+    "summary": "Multi-session Claude workflow orchestration. Spawn workers via TabzChrome, coordinate parallel tasks, use subagents for monitoring/exploration, manage beads issues. Use this skill ",
+    "author": {
+      "name": "GGPrompts",
+      "github": "GGPrompts",
+      "avatar": "https://avatars.githubusercontent.com/u/121205049?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/GGPrompts/TabzChrome/tree/main/plugins/conductor/skills/orchestration",
+      "skill_md": "https://raw.githubusercontent.com/GGPrompts/TabzChrome/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 115,
+      "forks": 10
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/ggprompts-tabzchrome-plugins-conductor-skills-orchestration-skill-md",
+      "scrapedAt": "2026-01-04T13:07:15.414Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "worktrunk",
+    "name": "worktrunk",
+    "summary": "Guidance for Worktrunk, a CLI tool for managing git worktrees. Covers configuration (user config at ~/.config/worktrunk/config.toml and project hooks at .config/wt.toml), usage, an",
+    "author": {
+      "name": "max-sixty",
+      "github": "max-sixty",
+      "avatar": "https://avatars.githubusercontent.com/u/5635139?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/max-sixty/worktrunk/tree/main/.claude-plugin/skills/worktrunk",
+      "skill_md": "https://raw.githubusercontent.com/max-sixty/worktrunk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 583,
+      "forks": 23
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/max-sixty-worktrunk-claude-plugin-skills-worktrunk-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.419Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "release",
+    "name": "release",
+    "summary": "Worktrunk release workflow. Use when user asks to \"do a release\", \"release a new version\", \"cut a release\", or wants to publish a new version to crates.io and GitHub.",
+    "author": {
+      "name": "max-sixty",
+      "github": "max-sixty",
+      "avatar": "https://avatars.githubusercontent.com/u/5635139?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/max-sixty/worktrunk/tree/main/.claude/skills/release",
+      "skill_md": "https://raw.githubusercontent.com/max-sixty/worktrunk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 583,
+      "forks": 23
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/max-sixty-worktrunk-claude-skills-release-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.419Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "code-consistency-logging-standards",
+    "name": "code-consistency-logging-standards",
+    "summary": "Check Python logging levels and patterns for correctness. Focus on identifying wrong severity levels and missing exception handling. Use when reviewing code quality.",
+    "author": {
+      "name": "taylorsatula",
+      "github": "taylorsatula",
+      "avatar": "https://avatars.githubusercontent.com/u/216224?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/taylorsatula/mira-OSS/tree/main/.claude/skills/checking-code-consistency",
+      "skill_md": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 336,
+      "forks": 25
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/taylorsatula-mira-oss-claude-skills-checking-code-consistency-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.419Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "contextvar-opportunity-finder",
+    "name": "contextvar-opportunity-finder",
+    "summary": "Detect explicit user_id parameters in functions to identify potential opportunities for using ambient context. This is an investigation tool that flags instances for human review, ",
+    "author": {
+      "name": "taylorsatula",
+      "github": "taylorsatula",
+      "avatar": "https://avatars.githubusercontent.com/u/216224?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/taylorsatula/mira-OSS/tree/main/.claude/skills/contextvar-opportunity-finder",
+      "skill_md": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 336,
+      "forks": 25
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/taylorsatula-mira-oss-claude-skills-contextvar-opportunity-finder-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.419Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "fail-fast-no-hedging",
+    "name": "fail-fast-no-hedging",
+    "summary": "Eliminate component hedging anti-patterns that mask infrastructure failures. Build systems that fail loudly when broken instead of limping along in degraded states. Critical for pr",
+    "author": {
+      "name": "taylorsatula",
+      "github": "taylorsatula",
+      "avatar": "https://avatars.githubusercontent.com/u/216224?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/taylorsatula/mira-OSS/tree/main/.claude/skills/fail-fast-no-hedging",
+      "skill_md": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 336,
+      "forks": 25
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/taylorsatula-mira-oss-claude-skills-fail-fast-no-hedging-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.419Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "git-workflow",
+    "name": "git-workflow",
+    "summary": "DO NOT COMMIT unless user explicitly tells you to. Use this skill EVERY SINGLE TIME before creating a git commit. Provides mandatory commit message format, staging rules, and post-",
+    "author": {
+      "name": "taylorsatula",
+      "github": "taylorsatula",
+      "avatar": "https://avatars.githubusercontent.com/u/216224?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/taylorsatula/mira-OSS/tree/main/.claude/skills/git-workflow",
+      "skill_md": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 336,
+      "forks": 25
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/taylorsatula-mira-oss-claude-skills-git-workflow-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.419Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "investigate-dependencies",
+    "name": "investigate-dependencies",
+    "summary": "Conduct thorough dependency audits to identify redundant code, unused features, and improper usage patterns. Examines each import to ensure we're leveraging existing capabilities r",
+    "author": {
+      "name": "taylorsatula",
+      "github": "taylorsatula",
+      "avatar": "https://avatars.githubusercontent.com/u/216224?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/taylorsatula/mira-OSS/tree/main/.claude/skills/investigate-dependencies",
+      "skill_md": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 336,
+      "forks": 25
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/taylorsatula-mira-oss-claude-skills-investigate-dependencies-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.420Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "prompt-mastery",
+    "name": "prompt-mastery",
+    "summary": "Advanced LLM prompt engineering expertise for crafting highly effective prompts, system messages, and tool descriptions with Claude-specific techniques",
+    "author": {
+      "name": "taylorsatula",
+      "github": "taylorsatula",
+      "avatar": "https://avatars.githubusercontent.com/u/216224?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/taylorsatula/mira-OSS/tree/main/.claude/skills/prompt-mastery",
+      "skill_md": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 336,
+      "forks": 25
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/taylorsatula-mira-oss-claude-skills-prompt-mastery-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.420Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "real-pytest-no-mocks-real-tests",
+    "name": "real-pytest-no-mocks-real-tests",
+    "summary": "Write pytests that test real public interfaces with actual components, no mocking, and precise assertions. MIRA-specific patterns. Use when creating or reviewing tests.",
+    "author": {
+      "name": "taylorsatula",
+      "github": "taylorsatula",
+      "avatar": "https://avatars.githubusercontent.com/u/216224?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/taylorsatula/mira-OSS/tree/main/.claude/skills/pytest-real-testing",
+      "skill_md": "https://raw.githubusercontent.com/taylorsatula/mira-OSS/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 336,
+      "forks": 25
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/taylorsatula-mira-oss-claude-skills-pytest-real-testing-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.420Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "mcpc",
+    "name": "mcpc",
+    "summary": "Use mcpc CLI to interact with MCP servers - call tools, read resources, get prompts. Use this when working with Model Context Protocol servers, calling MCP tools, or accessing MCP ",
+    "author": {
+      "name": "apify",
+      "github": "apify",
+      "avatar": "https://avatars.githubusercontent.com/u/24586296?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/apify/mcpc/tree/main/docs/claude-skill",
+      "skill_md": "https://raw.githubusercontent.com/apify/mcpc/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 29,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/apify-mcpc-docs-claude-skill-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.420Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "herb-enterprise-context",
+    "name": "herb-enterprise-context",
+    "summary": "Search enterprise context data (Slack, docs, meetings, PRs) from the HERB benchmark to answer questions about products, employees, customers, and organizational activities. Use whe",
+    "author": {
+      "name": "nexi-lab",
+      "github": "nexi-lab",
+      "avatar": "https://avatars.githubusercontent.com/u/236730925?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/nexi-lab/nexus/tree/main/benchmarks/herb/enterprise-context",
+      "skill_md": "https://raw.githubusercontent.com/nexi-lab/nexus/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 23,
+      "forks": 3
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/nexi-lab-nexus-benchmarks-herb-enterprise-context-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.420Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "site-tools",
+    "name": "site-tools",
+    "summary": "Use the public toolbox scripts published from docs/tools via tool-runner.js. Covers listing tools, executing them safely with droid exec context, and required environment variables",
+    "author": {
+      "name": "factory-ben",
+      "github": "factory-ben",
+      "avatar": "https://avatars.githubusercontent.com/u/230200579?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/factory-ben/feed/tree/main/.factory/skills/site-tools",
+      "skill_md": "https://raw.githubusercontent.com/factory-ben/feed/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 136,
+      "forks": 21
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/factory-ben-feed-factory-skills-site-tools-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.420Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "version-bump",
+    "name": "version-bump",
+    "summary": "Manage semantic version updates for claude-mem project. Handles patch, minor, and major version increments following semantic versioning. Updates package.json, marketplace.json, an",
+    "author": {
+      "name": "thedotmack",
+      "github": "thedotmack",
+      "avatar": "https://avatars.githubusercontent.com/u/683968?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/thedotmack/claude-mem/tree/main/.claude/skills/version-bump",
+      "skill_md": "https://raw.githubusercontent.com/thedotmack/claude-mem/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 10126,
+      "forks": 615
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/thedotmack-claude-mem-claude-skills-version-bump-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.420Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "prepare-changelog",
+    "name": "prepare-changelog",
+    "summary": "Guidelines for preparing changelog entries for nextest releases following Keep a Changelog format",
+    "author": {
+      "name": "nextest-rs",
+      "github": "nextest-rs",
+      "avatar": "https://avatars.githubusercontent.com/u/99227291?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/nextest-rs/nextest/tree/main/.claude/skills/prepare-changelog",
+      "skill_md": "https://raw.githubusercontent.com/nextest-rs/nextest/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 2760,
+      "forks": 137
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/nextest-rs-nextest-claude-skills-prepare-changelog-skill-md",
+      "scrapedAt": "2026-01-04T13:07:16.420Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "infographic-template-updater",
+    "name": "infographic-template-updater",
+    "summary": "Update template catalogs and UI prompts after adding new infographic templates (src/templates/*.ts), including SKILL.md template list, site gallery template mappings, and the AIPla",
+    "author": {
+      "name": "antvis",
+      "github": "antvis",
+      "avatar": "https://avatars.githubusercontent.com/u/19199542?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/antvis/Infographic/tree/main/.skills/infographic-template-updater",
+      "skill_md": "https://raw.githubusercontent.com/antvis/Infographic/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 2709,
+      "forks": 172
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/antvis-infographic-skills-infographic-template-updater-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "infographic-item-creator",
+    "name": "infographic-item-creator",
+    "summary": "Generate or update infographic Item components for this repo (TypeScript/TSX in src/designs/items). Use when asked to design, implement, or modify data item visuals, layout logic, ",
+    "author": {
+      "name": "antvis",
+      "github": "antvis",
+      "avatar": "https://avatars.githubusercontent.com/u/19199542?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/antvis/Infographic/tree/main/.skills/infographic-item-creator",
+      "skill_md": "https://raw.githubusercontent.com/antvis/Infographic/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 2709,
+      "forks": 172
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/antvis-infographic-skills-infographic-item-creator-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "infographic-structure-creator",
+    "name": "infographic-structure-creator",
+    "summary": "Generate or update infographic Structure components for this repo (TypeScript/TSX in src/designs/structures). Use when asked to design, implement, or modify structure layouts (list",
+    "author": {
+      "name": "antvis",
+      "github": "antvis",
+      "avatar": "https://avatars.githubusercontent.com/u/19199542?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/antvis/Infographic/tree/main/.skills/infographic-structure-creator",
+      "skill_md": "https://raw.githubusercontent.com/antvis/Infographic/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 2709,
+      "forks": 172
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/antvis-infographic-skills-infographic-structure-creator-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "infographic-creator",
+    "name": "infographic-creator",
+    "summary": "Create beautiful infographics based on the given text content. Use this when users request creating infographics.",
+    "author": {
+      "name": "antvis",
+      "github": "antvis",
+      "avatar": "https://avatars.githubusercontent.com/u/19199542?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/antvis/Infographic/tree/main/.skills/infographic-creator",
+      "skill_md": "https://raw.githubusercontent.com/antvis/Infographic/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 2709,
+      "forks": 172
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/antvis-infographic-skills-infographic-creator-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "infographic-syntax-creator",
+    "name": "infographic-syntax-creator",
+    "summary": "Generate AntV Infographic syntax outputs. Use when asked to turn user content into the Infographic DSL (template selection, data structuring, theme), or to output `infographic <tem",
+    "author": {
+      "name": "antvis",
+      "github": "antvis",
+      "avatar": "https://avatars.githubusercontent.com/u/19199542?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/antvis/Infographic/tree/main/.skills/infographic-syntax-creator",
+      "skill_md": "https://raw.githubusercontent.com/antvis/Infographic/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 2709,
+      "forks": 172
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/antvis-infographic-skills-infographic-syntax-creator-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "ci-iteration",
+    "name": "ci-iteration",
+    "summary": "This skill should be used when running CI checks iteratively and fixing failures. Use when executing make targets (fast-ci, all-ci, ci), iterating on lint/format/type/test errors, ",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/ci-iteration",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-ci-iteration-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "cli-skill-creator",
+    "name": "cli-skill-creator",
+    "summary": "This skill should be used when creating a skill for a CLI tool. Use when users ask to document a command-line tool, create CLI guidance, or build a skill for terminal commands. Ess",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/cli-skill-creator",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-cli-skill-creator-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "command-creator",
+    "name": "command-creator",
+    "summary": "This skill should be used when creating a Claude Code slash command. Use when users ask to \"create a command\", \"make a slash command\", \"add a command\", or want to document a workfl",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/command-creator",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-command-creator-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "dignified-python",
+    "name": "dignified-python",
+    "summary": "Python coding standards with automatic version detection. Use when writing, reviewing, or refactoring Python to ensure adherence to LBYL exception handling patterns, modern type sy",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/dignified-python",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-dignified-python-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "erk-diff-analysis",
+    "name": "erk-diff-analysis",
+    "summary": "Internal skill for commit message generation. Only load when explicitly requested by name or invoked by commands.",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/erk-diff-analysis",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-erk-diff-analysis-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "fake-driven-testing",
+    "name": "fake-driven-testing",
+    "summary": "This skill should be used when writing tests, fixing bugs, adding features, or modifying the gateway layer. Use when you need guidance on testing architecture, working with fakes, ",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/fake-driven-testing",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-fake-driven-testing-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "gh",
+    "name": "gh",
+    "summary": "This skill should be used when working with GitHub CLI (gh) for pull requests, issues, releases, and GitHub automation. Use when users mention gh commands, GitHub workflows, PR ope",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/gh",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-gh-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "gt",
+    "name": "gt",
+    "summary": "This skill should be used when working with Graphite (gt) for stacked pull requests. Use when users mention gt commands, stack management, PR workflows, or when dealing with depend",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/gt",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-gt-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "learned-docs",
+    "name": "learned-docs",
+    "summary": "This skill should be used when writing, modifying, or reorganizing documentation in docs/learned/. Use when creating new documents, updating frontmatter, choosing categories, creat",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/learned-docs",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-learned-docs-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "objective",
+    "name": "objective",
+    "summary": "This skill should be used when managing objectives - coherent goals that require 2+ plans/PRs to complete. Use when users want to create multi-plan tracking issues, log progress ac",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/objective",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-objective-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "session-inspector",
+    "name": "session-inspector",
+    "summary": "This skill should be used when inspecting, analyzing, or querying Claude Code session logs. Use when users ask about session history, want to find sessions, analyze context usage, ",
+    "author": {
+      "name": "dagster-io",
+      "github": "dagster-io",
+      "avatar": "https://avatars.githubusercontent.com/u/40032576?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/dagster-io/erk/tree/master/.claude/skills/session-inspector",
+      "skill_md": "https://raw.githubusercontent.com/dagster-io/erk/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 32,
+      "forks": 2
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/dagster-io-erk-claude-skills-session-inspector-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "github-assistant",
+    "name": "github-assistant",
+    "summary": "GitHub workflow automation using `gh` CLI. Use when creating PRs, reviewing code, managing issues, auto-replying to fixed issues, adding comments, assigning users, managing labels,",
+    "author": {
+      "name": "khaphanspace",
+      "github": "khaphanspace",
+      "avatar": "https://avatars.githubusercontent.com/u/16458012?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/khaphanspace/gonhanh.org/tree/main/.claude/skills/github-assistant",
+      "skill_md": "https://raw.githubusercontent.com/khaphanspace/gonhanh.org/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 467,
+      "forks": 52
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/khaphanspace-gonhanh-org-claude-skills-github-assistant-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "screenshot-feature-extractor",
+    "name": "screenshot-feature-extractor",
+    "summary": "Analyze product screenshots to extract feature lists and generate development task checklists. Use when: (1) Analyzing competitor product screenshots for feature extraction, (2) Ge",
+    "author": {
+      "name": "notedit",
+      "github": "notedit",
+      "avatar": "https://avatars.githubusercontent.com/u/480864?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/notedit/happy-coding-agent/tree/main/.claude/skills/screenshot-feature-extractor",
+      "skill_md": "https://raw.githubusercontent.com/notedit/happy-coding-agent/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 17,
+      "forks": 3
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/notedit-happy-coding-agent-claude-skills-screenshot-feature-extractor-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "task-execution-engine",
+    "name": "task-execution-engine",
+    "summary": "Execute implementation tasks from design documents using markdown checkboxes. Use when (1) implementing features from feature-design-assistant output, (2) resuming interrupted work",
+    "author": {
+      "name": "notedit",
+      "github": "notedit",
+      "avatar": "https://avatars.githubusercontent.com/u/480864?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/notedit/happy-coding-agent/tree/main/.claude/skills/task-execution-engine",
+      "skill_md": "https://raw.githubusercontent.com/notedit/happy-coding-agent/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 17,
+      "forks": 3
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/notedit-happy-coding-agent-claude-skills-task-execution-engine-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "feature-design-assistant",
+    "name": "feature-design-assistant",
+    "summary": "Turn ideas into fully formed designs and specs through natural collaborative dialogue. Use when planning new features, designing architecture, or making significant changes to the ",
+    "author": {
+      "name": "notedit",
+      "github": "notedit",
+      "avatar": "https://avatars.githubusercontent.com/u/480864?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/notedit/happy-coding-agent/tree/main/.claude/skills/feature-design-assistant",
+      "skill_md": "https://raw.githubusercontent.com/notedit/happy-coding-agent/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 17,
+      "forks": 3
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/notedit-happy-coding-agent-claude-skills-feature-design-assistant-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "skill-creation-guide",
+    "name": "skill-creation-guide",
+    "summary": "Guide for creating effective skills. This skill should be used when users want to create a new skill (or update an existing skill) that extends Claude's capabilities with specializ",
+    "author": {
+      "name": "notedit",
+      "github": "notedit",
+      "avatar": "https://avatars.githubusercontent.com/u/480864?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/notedit/happy-coding-agent/tree/main/.claude/skills/skill-creation-guide",
+      "skill_md": "https://raw.githubusercontent.com/notedit/happy-coding-agent/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 17,
+      "forks": 3
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/notedit-happy-coding-agent-claude-skills-skill-creation-guide-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "run-dev",
+    "name": "run-dev",
+    "summary": "Launch the PeakyPanes dev workflow by running scripts/dev-run in the current repo. Use when the user says \"run dev\" or asks to open a fresh Ghostty dev session that go installs, re",
+    "author": {
+      "name": "regenrek",
+      "github": "regenrek",
+      "avatar": "https://avatars.githubusercontent.com/u/5182020?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/regenrek/peakypanes/tree/main/.codex/skills/run-dev",
+      "skill_md": "https://raw.githubusercontent.com/regenrek/peakypanes/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 104,
+      "forks": 6
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/regenrek-peakypanes-codex-skills-run-dev-skill-md",
+      "scrapedAt": "2026-01-04T13:07:17.402Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "octave-compression",
+    "name": "octave-compression",
+    "summary": "Specialized workflow for transforming verbose natural language into semantic OCTAVE structures. REQUIRES octave-literacy to be loaded first. Use when refactoring documentation, gen",
+    "author": {
+      "name": "elevanaltd",
+      "github": "elevanaltd",
+      "avatar": "https://avatars.githubusercontent.com/u/203208177?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/elevanaltd/octave-mcp/tree/main/skills/octave-compression",
+      "skill_md": "https://raw.githubusercontent.com/elevanaltd/octave-mcp/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 26,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/elevanaltd-octave-mcp-skills-octave-compression-skill-md",
+      "scrapedAt": "2026-01-04T13:07:18.366Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "octave-literacy",
+    "name": "octave-literacy",
+    "summary": "Fundamental reading and writing capability for the OCTAVE format. Inject this to give an agent basic structural competence without the overhead of full architectural specifications",
+    "author": {
+      "name": "elevanaltd",
+      "github": "elevanaltd",
+      "avatar": "https://avatars.githubusercontent.com/u/203208177?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/elevanaltd/octave-mcp/tree/main/skills/octave-literacy",
+      "skill_md": "https://raw.githubusercontent.com/elevanaltd/octave-mcp/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 26,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/elevanaltd-octave-mcp-skills-octave-literacy-skill-md",
+      "scrapedAt": "2026-01-04T13:07:18.366Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "octave-mastery",
+    "name": "octave-mastery",
+    "summary": "Advanced semantic vocabulary and architectural patterns for the OCTAVE format. REQUIRES octave-literacy to be loaded first. Use for designing agents, crafting high-density specific",
+    "author": {
+      "name": "elevanaltd",
+      "github": "elevanaltd",
+      "avatar": "https://avatars.githubusercontent.com/u/203208177?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/elevanaltd/octave-mcp/tree/main/skills/octave-mastery",
+      "skill_md": "https://raw.githubusercontent.com/elevanaltd/octave-mcp/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 26,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/elevanaltd-octave-mcp-skills-octave-mastery-skill-md",
+      "scrapedAt": "2026-01-04T13:07:18.366Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "octave-mythology",
+    "name": "octave-mythology",
+    "summary": "Functional mythological compression for OCTAVE documents. Semantic shorthand for LLM audiences, not prose decoration. Activates 60-70% compression with 88-96% zero-shot comprehensi",
+    "author": {
+      "name": "elevanaltd",
+      "github": "elevanaltd",
+      "avatar": "https://avatars.githubusercontent.com/u/203208177?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/elevanaltd/octave-mcp/tree/main/skills/octave-mythology",
+      "skill_md": "https://raw.githubusercontent.com/elevanaltd/octave-mcp/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 26,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/elevanaltd-octave-mcp-skills-octave-mythology-skill-md",
+      "scrapedAt": "2026-01-04T13:07:18.366Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "creating-git-branch",
+    "name": "creating-git-branch",
+    "summary": "Git リポジトリの慣習に則って新しいブランチを作成します。ユーザーがブランチの作成を求めたときや、エージェントがブランチを作成するときに必ず使用してください。",
+    "author": {
+      "name": "p-chan",
+      "github": "p-chan",
+      "avatar": "https://avatars.githubusercontent.com/u/7752475?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/p-chan/dotfiles/tree/main/shared/agents/skills/creating-git-branch",
+      "skill_md": "https://raw.githubusercontent.com/p-chan/dotfiles/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 8,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/p-chan-dotfiles-shared-agents-skills-creating-git-branch-skill-md",
+      "scrapedAt": "2026-01-04T13:07:19.418Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "gh-review-comment",
+    "name": "gh-review-comment",
+    "summary": "`gh` コマンドを用いて GitHub の PR レビューコメントを操作します。レビューコメントへの返信（Reply）や解決（Resolve）するときに必ず使用してください。",
+    "author": {
+      "name": "p-chan",
+      "github": "p-chan",
+      "avatar": "https://avatars.githubusercontent.com/u/7752475?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/p-chan/dotfiles/tree/main/shared/agents/skills/gh-review-comment",
+      "skill_md": "https://raw.githubusercontent.com/p-chan/dotfiles/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 8,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/p-chan-dotfiles-shared-agents-skills-gh-review-comment-skill-md",
+      "scrapedAt": "2026-01-04T13:07:19.418Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "installing-npm-packages",
+    "name": "installing-npm-packages",
+    "summary": "npm、yarn、pnpm、bun で適切なバージョンのパッケージをインストールします。npm、yarn、pnpm、bun を使ってパッケージをインストールするときに必ず使用してください。",
+    "author": {
+      "name": "p-chan",
+      "github": "p-chan",
+      "avatar": "https://avatars.githubusercontent.com/u/7752475?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/p-chan/dotfiles/tree/main/shared/agents/skills/installing-npm-packages",
+      "skill_md": "https://raw.githubusercontent.com/p-chan/dotfiles/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 8,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/p-chan-dotfiles-shared-agents-skills-installing-npm-packages-skill-md",
+      "scrapedAt": "2026-01-04T13:07:19.418Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "creating-git-commit",
+    "name": "creating-git-commit",
+    "summary": "Git リポジトリのスタイルに合わせてコミットを作成します。ユーザーがコミットを求めたときや、エージェントがコミットするときに必ず使用してください。",
+    "author": {
+      "name": "p-chan",
+      "github": "p-chan",
+      "avatar": "https://avatars.githubusercontent.com/u/7752475?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/p-chan/dotfiles/tree/main/shared/agents/skills/creating-git-commit",
+      "skill_md": "https://raw.githubusercontent.com/p-chan/dotfiles/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 8,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/p-chan-dotfiles-shared-agents-skills-creating-git-commit-skill-md",
+      "scrapedAt": "2026-01-04T13:07:19.418Z"
+    },
+    "lastUpdated": "2026-01-04"
+  },
+  {
+    "id": "protoc",
+    "name": "protoc",
+    "summary": "Re-generates the project's code from protobuf source. Use when .proto files are changed.",
+    "author": {
+      "name": "wham",
+      "github": "wham",
+      "avatar": "https://avatars.githubusercontent.com/u/448809?v=4"
+    },
+    "links": {
+      "repo": "https://github.com/wham/kaja/tree/main/.claude/skills/protoc",
+      "skill_md": "https://raw.githubusercontent.com/wham/kaja/main/SKILL.md"
+    },
+    "stats": {
+      "stars": 14,
+      "forks": 0
+    },
+    "source": {
+      "type": "skillsmp",
+      "url": "https://skillsmp.com/skill/wham-kaja-claude-skills-protoc-skill-md",
+      "scrapedAt": "2026-01-04T13:07:19.418Z"
+    },
+    "lastUpdated": "2026-01-04"
+  }
+]

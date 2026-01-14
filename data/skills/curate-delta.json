@@ -1,0 +1,35 @@
+{
+  "id": "curate-delta",
+  "name": "curate-delta",
+  "version": "1.0.0",
+  "summary": "Synthesize Reflector insights into structured delta proposals for playbook updates, following ACE paper's Curator architecture",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmanhype",
+    "github": "jmanhype"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmanhype/claude-code-plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/jmanhype/claude-code-plugin-marketplace/main/plugins/ace-context-engineering/skills/curate-delta/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:39.441Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmanhype%2Fclaude-code-plugin-marketplace/plugins%2Face-context-engineering%2Fskills%2Fcurate-delta%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_e7d56f08c8d1"
+  }
+}

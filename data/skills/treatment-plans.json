@@ -1,0 +1,37 @@
+{
+  "id": "treatment-plans",
+  "name": "treatment-plans",
+  "version": "1.0.0",
+  "summary": "Generate concise (3-4 page), focused medical treatment plans in LaTeX/PDF format for all clinical specialties. Supports general medical treatment, rehabilitation therapy, mental...",
+  "verticals": [
+    "legal",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jimmc414",
+    "github": "jimmc414"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jimmc414/Kosmos",
+    "skill_md": "https://raw.githubusercontent.com/jimmc414/Kosmos/main/kosmos-reference/kosmos-claude-scientific-writer/.claude/skills/treatment-plans/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.449Z",
+  "created_at": "2025-12-23T01:30:58.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jimmc414%2FKosmos/kosmos-reference%2Fkosmos-claude-scientific-writer%2F.claude%2Fskills%2Ftreatment-plans%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_d36f17f83aac"
+  }
+}

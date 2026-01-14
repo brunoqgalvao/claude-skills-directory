@@ -1,0 +1,35 @@
+{
+  "id": "jaeger-tracing-specialist",
+  "name": "jaeger-tracing-specialist",
+  "version": "1.0.0",
+  "summary": "Jaeger/OpenTelemetry patterns plus Skriptoteket tracing conventions (async context propagation, correlation, debugging).",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "paunchygent",
+    "github": "paunchygent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/paunchygent/skriptoteket",
+    "skill_md": "https://raw.githubusercontent.com/paunchygent/skriptoteket/main/.claude/skills/jaeger-tracing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.550Z",
+  "created_at": "2025-12-23T01:28:50.263Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/paunchygent%2Fskriptoteket/.claude%2Fskills%2Fjaeger-tracing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_d84ed7feb066"
+  }
+}

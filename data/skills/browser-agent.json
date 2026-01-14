@@ -1,0 +1,36 @@
+{
+  "id": "browser-agent",
+  "name": "browser-agent",
+  "version": "1.0.0",
+  "summary": "Autonomous browser agent for complex multi-step web tasks. WHEN: User needs complex web automation, multi-page workflows, form filling sequences, tasks requiring multiple browse...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cyrup-ai",
+    "github": "cyrup-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cyrup-ai/kodegen-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/cyrup-ai/kodegen-claude-plugin/main/plugins/kg/skills/browser-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:44.641Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cyrup-ai%2Fkodegen-claude-plugin/plugins%2Fkg%2Fskills%2Fbrowser-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_b9926679bce4"
+  }
+}

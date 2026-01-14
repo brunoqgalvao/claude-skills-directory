@@ -1,0 +1,37 @@
+{
+  "id": "cljr-feature-dev",
+  "name": "cljr-feature-dev",
+  "version": "1.0.0",
+  "summary": "Develop features for the Cljr Clojure-to-.NET compiler. Use when adding emitter features, expression types, analyzer support, or testing features. Guides the complete workflow f...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Dangercoder",
+    "github": "Dangercoder"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Dangercoder/clojure-dotnet",
+    "skill_md": "https://raw.githubusercontent.com/Dangercoder/clojure-dotnet/main/.claude/skills/cljr-feature-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:20.350Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Dangercoder%2Fclojure-dotnet/.claude%2Fskills%2Fcljr-feature-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_b5bacdbdc7b6"
+  }
+}

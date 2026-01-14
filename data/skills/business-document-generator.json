@@ -1,0 +1,37 @@
+{
+  "id": "business-document-generator",
+  "name": "business-document-generator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user requests to create professional business documents (proposals, business plans, or budgets) from templates. It provides PDF templates and ...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ailabs-393",
+    "github": "ailabs-393"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ailabs-393/ai-labs-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ailabs-393/ai-labs-claude-skills/main/packages/skills/business-document-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T13:38:14.000Z",
+  "created_at": "2025-12-23T01:29:20.583Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ailabs-393%2Fai-labs-claude-skills/packages%2Fskills%2Fbusiness-document-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.447Z",
+    "uniqueId": "sk_6b2beda0f0dd"
+  }
+}

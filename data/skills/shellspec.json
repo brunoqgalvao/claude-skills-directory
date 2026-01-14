@@ -1,0 +1,35 @@
+{
+  "id": "shellspec",
+  "name": "shellspec",
+  "version": "1.0.0",
+  "summary": "Comprehensive unit testing framework for Bash and POSIX shell scripts using ShellSpec with TDD/BDD best practices. Use when writing tests for shell scripts, debugging test failu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OleksandrKucherenko",
+    "github": "OleksandrKucherenko"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OleksandrKucherenko/e-bash",
+    "skill_md": "https://raw.githubusercontent.com/OleksandrKucherenko/e-bash/main/.claude/skills/shellspec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.627Z",
+  "created_at": "2025-12-22T23:16:12.440Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OleksandrKucherenko%2Fe-bash/.claude%2Fskills%2Fshellspec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.627Z",
+    "uniqueId": "sk_ffb90d7ead0e"
+  }
+}

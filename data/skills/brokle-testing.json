@@ -1,0 +1,36 @@
+{
+  "id": "brokle-testing",
+  "name": "brokle-testing",
+  "version": "1.0.0",
+  "summary": "Use this skill when writing, reviewing, or improving tests for the Brokle platform. This includes creating service tests, domain tests, integration tests, or understanding what ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brokle-ai",
+    "github": "brokle-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brokle-ai/brokle",
+    "skill_md": "https://raw.githubusercontent.com/brokle-ai/brokle/main/.claude/skills/brokle-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.741Z",
+  "created_at": "2025-12-22T21:10:53.090Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brokle-ai%2Fbrokle/.claude%2Fskills%2Fbrokle-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_f6b11248fd18"
+  }
+}

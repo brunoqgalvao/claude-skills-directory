@@ -1,0 +1,36 @@
+{
+  "id": "cilium-expert",
+  "name": "cilium-expert",
+  "version": "1.0.0",
+  "summary": "Expert in Cilium eBPF-based networking and security for Kubernetes. Use for CNI setup, network policies (L3/L4/L7), service mesh, Hubble observability, zero-trust security, and ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martinholovsky",
+    "github": "martinholovsky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martinholovsky/claude-skills-generator",
+    "skill_md": "https://raw.githubusercontent.com/martinholovsky/claude-skills-generator/main/skills/cilium-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:25:46.345Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martinholovsky%2Fclaude-skills-generator/skills%2Fcilium-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_9b823dc83c7e"
+  }
+}

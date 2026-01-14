@@ -1,0 +1,36 @@
+{
+  "id": "test-fixer",
+  "name": "test-fixer",
+  "version": "1.0.0",
+  "summary": "Fix failing tests based on failure reports, verify fixes, and iterate until all tests pass. This skill should be used after test-executor generates failure reports, providing sy...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LaizyIO",
+    "github": "LaizyIO"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LaizyIO/WorkflowSkills",
+    "skill_md": "https://raw.githubusercontent.com/LaizyIO/WorkflowSkills/main/test-fixer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.692Z",
+  "created_at": "2025-12-22T22:04:40.995Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LaizyIO%2FWorkflowSkills/test-fixer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.692Z",
+    "uniqueId": "sk_efa0db30524f"
+  }
+}

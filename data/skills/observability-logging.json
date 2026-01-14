@@ -1,0 +1,35 @@
+{
+  "id": "observability-logging",
+  "name": "observability-logging",
+  "version": "1.0.0",
+  "summary": "Automatically applies when adding logging and observability. Ensures structured logging, OpenTelemetry tracing, LLM-specific metrics (tokens, cost, latency), and proper log corr...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ricardoroche",
+    "github": "ricardoroche"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ricardoroche/ricardos-claude-code",
+    "skill_md": "https://raw.githubusercontent.com/ricardoroche/ricardos-claude-code/main/.claude/skills/observability-logging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:25.942Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ricardoroche%2Fricardos-claude-code/.claude%2Fskills%2Fobservability-logging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_44ce021b8ec7"
+  }
+}

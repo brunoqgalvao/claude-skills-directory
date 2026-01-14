@@ -1,0 +1,35 @@
+{
+  "id": "audit-sax",
+  "name": "audit-sax",
+  "version": "1.0.0",
+  "summary": "전체 SAX 패키지 통합 품질 감사. Use when (1) 전체 패키지 품질 점검, (2) Agent/Skill/Command 표준 준수 검토, (3) 비효율적 구조 탐지, (4) 정기 감사 수행.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-meta",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-meta/main/skills/audit-sax/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:22.160Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-meta/skills%2Faudit-sax%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_7e16f9d8f239"
+  }
+}

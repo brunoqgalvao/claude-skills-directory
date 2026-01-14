@@ -1,0 +1,37 @@
+{
+  "id": "hook-builder",
+  "name": "hook-builder",
+  "version": "1.0.0",
+  "summary": "Guide Hook creation with mandatory security review checklist, event selection, and safety validation. Hooks execute arbitrary commands automatically and require careful security...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eLafo",
+    "github": "eLafo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eLafo/ouroboros",
+    "skill_md": "https://raw.githubusercontent.com/eLafo/ouroboros/main/skills/hook-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:39.422Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eLafo%2Fouroboros/skills%2Fhook-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_6703433f5d09"
+  }
+}

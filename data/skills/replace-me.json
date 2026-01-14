@@ -1,0 +1,35 @@
+{
+  "id": "replace-me",
+  "name": "replace-me",
+  "version": "1.0.0",
+  "summary": "Replace with what this skill does and the exact situations that should trigger it in this repo.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "w3bsuki",
+    "github": "w3bsuki"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/w3bsuki/amazong",
+    "skill_md": "https://raw.githubusercontent.com/w3bsuki/amazong/main/templates/agent-skill-template/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.577Z",
+  "created_at": "2025-12-23T01:28:24.378Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/w3bsuki%2Famazong/templates%2Fagent-skill-template%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.577Z",
+    "uniqueId": "sk_0c08eff1d114"
+  }
+}

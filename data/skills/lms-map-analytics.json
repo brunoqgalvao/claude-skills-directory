@@ -1,0 +1,36 @@
+{
+  "id": "lms-map-analytics",
+  "name": "lms-map-analytics",
+  "version": "1.0.0",
+  "summary": "KCIS MAP Growth statistical analysis and reporting logic. Use this skill when implementing MAP data analysis features including group averages by English Level, benchmark classi...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "geonook",
+    "github": "geonook"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/geonook/learning-management-system-esid",
+    "skill_md": "https://raw.githubusercontent.com/geonook/learning-management-system-esid/main/.claude/skills/lms-map-analytics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T09:45:27.000Z",
+  "created_at": "2025-12-23T01:28:46.170Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/geonook%2Flearning-management-system-esid/.claude%2Fskills%2Flms-map-analytics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_7a949cc2d514"
+  }
+}

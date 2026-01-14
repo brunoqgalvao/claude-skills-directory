@@ -1,0 +1,35 @@
+{
+  "id": "gmail-intelligence",
+  "name": "gmail-intelligence",
+  "version": "1.0.0",
+  "summary": "Transform Gmail into a business intelligence system for MTL Craft Cocktails. Answer questions about emails, detect leads, draft responses, and track client communications with c...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ashleytower",
+    "github": "ashleytower"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ashleytower/claude-skills-collection",
+    "skill_md": "https://raw.githubusercontent.com/ashleytower/claude-skills-collection/main/skills/gmail-intelligence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:08:10.297Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ashleytower%2Fclaude-skills-collection/skills%2Fgmail-intelligence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_50515fdb5785"
+  }
+}

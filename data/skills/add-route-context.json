@@ -1,0 +1,35 @@
+{
+  "id": "add-route-context",
+  "name": "add-route-context",
+  "version": "1.0.0",
+  "summary": "为Flutter页面添加路由上下文记录功能，支持日期等参数的AI上下文识别。当需要让AI助手通过\"询问当前上下文\"功能获取页面状态（如日期、ID等参数）时使用。适用场景：(1) 日期驱动的页面（日记、活动、日历等），(2) ID驱动的页面（用户详情、订单详情等），(3) 任何需要AI理解当前页面参数的场景",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hunmer",
+    "github": "hunmer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hunmer/Memento",
+    "skill_md": "https://raw.githubusercontent.com/hunmer/Memento/main/.claude/skills/add-route-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:43.151Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hunmer%2FMemento/.claude%2Fskills%2Fadd-route-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_dd5626abd980"
+  }
+}

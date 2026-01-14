@@ -1,0 +1,36 @@
+{
+  "id": "golang-microservice",
+  "name": "golang-microservice",
+  "version": "1.0.0",
+  "summary": "Skill for creating and modifying Golang microservices using DDD, immutable models, functional composition, GORM entities, JSON:API transport, and Kafka messaging with context ba...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Chronicle20",
+    "github": "Chronicle20"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Chronicle20/atlas",
+    "skill_md": "https://raw.githubusercontent.com/Chronicle20/atlas/main/.claude/skills/backend-dev-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:55.865Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Chronicle20%2Fatlas/.claude%2Fskills%2Fbackend-dev-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_0bd699abee91"
+  }
+}

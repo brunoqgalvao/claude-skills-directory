@@ -1,0 +1,36 @@
+{
+  "id": "building-project",
+  "name": "building-project",
+  "version": "1.0.0",
+  "summary": "Used to build a project",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KonstantinKhan",
+    "github": "KonstantinKhan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KonstantinKhan/etl-assistant",
+    "skill_md": "https://raw.githubusercontent.com/KonstantinKhan/etl-assistant/main/.claude/skills/building-project/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T17:31:38.000Z",
+  "created_at": "2025-12-23T01:28:10.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KonstantinKhan%2Fetl-assistant/.claude%2Fskills%2Fbuilding-project%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.586Z",
+    "uniqueId": "sk_54c104afc97e"
+  }
+}

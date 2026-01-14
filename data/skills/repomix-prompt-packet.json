@@ -1,0 +1,35 @@
+{
+  "id": "repomix-prompt-packet",
+  "name": "repomix-prompt-packet",
+  "version": "1.0.0",
+  "summary": "Use when creating AI-optimized repository snapshots paired with sophisticated prompts for LLM consumption. Combines repomix configuration selection with prompt engineering to ge...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Kingly-Agency",
+    "github": "Kingly-Agency"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Kingly-Agency/kingly-claude-adapter",
+    "skill_md": "https://raw.githubusercontent.com/Kingly-Agency/kingly-claude-adapter/main/skills/repomix-prompt-packet/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.684Z",
+  "created_at": "2025-12-22T22:10:15.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Kingly-Agency%2Fkingly-claude-adapter/skills%2Frepomix-prompt-packet%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.684Z",
+    "uniqueId": "sk_b643cbf5d684"
+  }
+}

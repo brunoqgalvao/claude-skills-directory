@@ -1,0 +1,36 @@
+{
+  "id": "ddd-context-generator",
+  "name": "ddd-context-generator",
+  "version": "1.0.0",
+  "summary": "Generate complete DDD bounded context with all 4 layers (Domain, Application, Infrastructure, Presentation). Use when user wants to create new business capability, scaffold comp...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "moasadi",
+    "github": "moasadi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/moasadi/ddd-bun-api-boilerplate",
+    "skill_md": "https://raw.githubusercontent.com/moasadi/ddd-bun-api-boilerplate/main/.claude/skills/ddd-context-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T14:08:34.000Z",
+  "created_at": "2025-12-23T01:29:21.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/moasadi%2Fddd-bun-api-boilerplate/.claude%2Fskills%2Fddd-context-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_55aeae8b71f5"
+  }
+}

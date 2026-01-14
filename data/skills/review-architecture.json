@@ -1,0 +1,35 @@
+{
+  "id": "review-architecture",
+  "name": "review-architecture",
+  "version": "1.0.0",
+  "summary": "アーキテクチャレビュースキル（設計整合性、コーディング規約、ドキュメント整合性の確認）",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Crearize",
+    "github": "Crearize"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Crearize/ProjectTemplate",
+    "skill_md": "https://raw.githubusercontent.com/Crearize/ProjectTemplate/main/.claude/skills/review-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.646Z",
+  "created_at": "2025-12-22T23:04:15.278Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Crearize%2FProjectTemplate/.claude%2Fskills%2Freview-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.646Z",
+    "uniqueId": "sk_d895cc1bd2e6"
+  }
+}

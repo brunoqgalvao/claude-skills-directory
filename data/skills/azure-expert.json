@@ -1,0 +1,37 @@
+{
+  "id": "azure-expert",
+  "name": "azure-expert",
+  "version": "1.0.0",
+  "summary": "Comprehensive Azure cloud expertise covering all major services (App Service, Functions, Container Apps, AKS, databases, storage, monitoring). Use when working with Azure infras...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "QuestForTech-Investments",
+    "github": "QuestForTech-Investments"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/QuestForTech-Investments/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/QuestForTech-Investments/claude-code-skills/main/azure-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:38.890Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/QuestForTech-Investments%2Fclaude-code-skills/azure-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_26a878ccdffe"
+  }
+}

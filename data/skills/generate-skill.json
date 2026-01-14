@@ -1,0 +1,35 @@
+{
+  "id": "generate-skill",
+  "name": "generate-skill",
+  "version": "1.0.0",
+  "summary": "This skill uses the Renku CLI to generate video compositions given an inquiry prompt. It can generate all the media files required for the composition and stitches them into a f...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "keremk",
+    "github": "keremk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/keremk/renku",
+    "skill_md": "https://raw.githubusercontent.com/keremk/renku/main/renku-plugin/skills/generate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:30.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/keremk%2Frenku/renku-plugin%2Fskills%2Fgenerate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_df8c1ea342e0"
+  }
+}

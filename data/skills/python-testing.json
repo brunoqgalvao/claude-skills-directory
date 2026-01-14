@@ -1,0 +1,36 @@
+{
+  "id": "python-testing",
+  "name": "python-testing",
+  "version": "1.0.0",
+  "summary": "Use when writing or running Python tests with pytest. Covers fixtures, mocking, parametrization, freezegun for time, and async testing. Triggers on test file creation, fixture d...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "btimothy-har",
+    "github": "btimothy-har"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/btimothy-har/mycc-config",
+    "skill_md": "https://raw.githubusercontent.com/btimothy-har/mycc-config/main/brian-claude-skills/skills/python-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:06:00.289Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/btimothy-har%2Fmycc-config/brian-claude-skills%2Fskills%2Fpython-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_020b43e7700e"
+  }
+}

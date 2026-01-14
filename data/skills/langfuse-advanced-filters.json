@@ -1,0 +1,36 @@
+{
+  "id": "langfuse-advanced-filters",
+  "name": "langfuse-advanced-filters",
+  "version": "1.0.0",
+  "summary": "Precisely filter and query Langfuse traces/observations using advanced filter operators for debugging and optimization workflows",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mberto10",
+    "github": "mberto10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mberto10/web_research_agent",
+    "skill_md": "https://raw.githubusercontent.com/mberto10/web_research_agent/main/.claude/skills/langfuse-advanced-filters/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:43.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mberto10%2Fweb_research_agent/.claude%2Fskills%2Flangfuse-advanced-filters%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_f29ebb22fd60"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "google-docs-automation",
+  "name": "google-docs-automation",
+  "version": "1.0.0",
+  "summary": "Use when automating Google Workspace (Docs, Sheets, Slides) operations - covers authentication, common patterns, and best practices for gspread and googleapiclient",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dbmcco",
+    "github": "dbmcco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dbmcco/claude-agent-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/dbmcco/claude-agent-toolkit/main/skills/google-docs-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T20:19:05.000Z",
+  "created_at": "2025-12-23T01:29:27.283Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dbmcco%2Fclaude-agent-toolkit/skills%2Fgoogle-docs-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_37ca8e213c66"
+  }
+}

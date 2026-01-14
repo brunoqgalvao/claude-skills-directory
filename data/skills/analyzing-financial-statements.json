@@ -1,0 +1,35 @@
+{
+  "id": "analyzing-financial-statements",
+  "name": "analyzing-financial-statements",
+  "version": "1.0.0",
+  "summary": "This skill calculates key financial ratios and metrics from financial statement data for investment analysis",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ronnycoding",
+    "github": "ronnycoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ronnycoding/.claude",
+    "skill_md": "https://raw.githubusercontent.com/ronnycoding/.claude/main/skills/analyzing-financial-statements/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T20:11:59.000Z",
+  "created_at": "2025-12-23T01:28:38.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ronnycoding%2F.claude/skills%2Fanalyzing-financial-statements%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_f8b0e16ca6b0"
+  }
+}

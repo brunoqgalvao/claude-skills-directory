@@ -1,0 +1,35 @@
+{
+  "id": "infrastructure-testing",
+  "name": "infrastructure-testing",
+  "version": "1.0.0",
+  "summary": "Run TestKube and PGBouncer tests on Kubernetes clusters with mandatory context verification to prevent accidental deployments to wrong environments",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tstapler",
+    "github": "tstapler"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tstapler/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/tstapler/dotfiles/main/.claude/skills/infrastructure-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:03:03.991Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tstapler%2Fdotfiles/.claude%2Fskills%2Finfrastructure-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_a9f646ea250a"
+  }
+}

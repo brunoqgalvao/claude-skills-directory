@@ -1,0 +1,37 @@
+{
+  "id": "universal-workflow-init",
+  "name": "universal-workflow-init",
+  "version": "1.0.0",
+  "summary": "Bootstraps new projects by running a 5-question intake and generating a minimal scaffold (WORKPLAN.md, BRIEF.md, OUTLINE.md, SOURCES.md, LOG.md) plus optional folders for writin...",
+  "verticals": [
+    "legal",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "laguna821",
+    "github": "laguna821"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/laguna821/achmage_universal_workflow_initiator",
+    "skill_md": "https://raw.githubusercontent.com/laguna821/achmage_universal_workflow_initiator/main/achmage_universal_workflow_init_v1_1/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:06:47.763Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/laguna821%2Fachmage_universal_workflow_initiator/achmage_universal_workflow_init_v1_1%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_c43166374263"
+  }
+}

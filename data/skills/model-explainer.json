@@ -1,0 +1,36 @@
+{
+  "id": "model-explainer",
+  "name": "model-explainer",
+  "version": "1.0.0",
+  "summary": "Model interpretability and explainability using SHAP, LIME, feature importance, and partial dependence plots. Activates for \"explain model\", \"model interpretability\", \"SHAP\", \"L...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/sw-soccer-manager",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/sw-soccer-manager/main/plugins/specweave-ml/skills/model-explainer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:35.731Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fsw-soccer-manager/plugins%2Fspecweave-ml%2Fskills%2Fmodel-explainer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_60d4ccc9a244"
+  }
+}

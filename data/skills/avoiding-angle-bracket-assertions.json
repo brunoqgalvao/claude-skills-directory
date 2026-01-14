@@ -1,0 +1,35 @@
+{
+  "id": "avoiding-angle-bracket-assertions",
+  "name": "avoiding-angle-bracket-assertions",
+  "version": "1.0.0",
+  "summary": "Avoid angle-bracket type assertions (<Type>) and use 'as Type' syntax instead",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/typescript/skills/avoiding-angle-bracket-assertions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:26.219Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/typescript%2Fskills%2Favoiding-angle-bracket-assertions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_362a5ea17c67"
+  }
+}

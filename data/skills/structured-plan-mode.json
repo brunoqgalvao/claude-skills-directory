@@ -1,0 +1,36 @@
+{
+  "id": "structured-plan-mode",
+  "name": "structured-plan-mode",
+  "version": "1.0.0",
+  "summary": "This skill should be used when planning and tracking complex feature implementations that require systematic task decomposition. Use this skill to break down large features into...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NikiforovAll",
+    "github": "NikiforovAll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NikiforovAll/claude-code-rules",
+    "skill_md": "https://raw.githubusercontent.com/NikiforovAll/claude-code-rules/main/plugins/handbook-structured-plan-mode/skills/structured-plan-mode/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:56:55.166Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NikiforovAll%2Fclaude-code-rules/plugins%2Fhandbook-structured-plan-mode%2Fskills%2Fstructured-plan-mode%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_21e9674f4afe"
+  }
+}

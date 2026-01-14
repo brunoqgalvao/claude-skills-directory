@@ -1,0 +1,37 @@
+{
+  "id": "killbill-admin",
+  "name": "killbill-admin",
+  "version": "1.0.0",
+  "summary": "Expert KillBill administrator for managing billing, subscriptions, invoices, and overdue states. Provides ready-to-use commands via Traefik DNS for tenant management, catalog up...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tariron",
+    "github": "tariron"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tariron/saasodoo",
+    "skill_md": "https://raw.githubusercontent.com/tariron/saasodoo/main/.claude/skills/killbill-admin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.677Z",
+  "created_at": "2025-12-22T22:12:40.459Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tariron%2Fsaasodoo/.claude%2Fskills%2Fkillbill-admin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.677Z",
+    "uniqueId": "sk_1cf797d83ea9"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "docker-compose",
+  "name": "docker-compose",
+  "version": "1.0.0",
+  "summary": "Expert guidance for Docker Compose including multi-container applications, service definitions, networks, volumes, environment variables, health checks, and orchestration. Use t...",
+  "verticals": [
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oriolrius",
+    "github": "oriolrius"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oriolrius/nifi-cluster",
+    "skill_md": "https://raw.githubusercontent.com/oriolrius/nifi-cluster/main/.claude/skills/docker-compose/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:20.930Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oriolrius%2Fnifi-cluster/.claude%2Fskills%2Fdocker-compose%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_6f924a4f6383"
+  }
+}

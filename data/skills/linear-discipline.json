@@ -1,0 +1,35 @@
+{
+  "id": "linear-discipline",
+  "name": "linear-discipline",
+  "version": "1.0.0",
+  "summary": "Use this skill when discussing code changes, implementation work, feature status, or when starting/completing development tasks. Reminds about Linear issue tracking discipline -...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jclfocused",
+    "github": "jclfocused"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jclfocused/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/jclfocused/claude-agents/main/custom_plugins/plugins/linear-planning-workflow/skills/linear-discipline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T10:32:39.000Z",
+  "created_at": "2025-12-22T15:57:45.356Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jclfocused%2Fclaude-agents/custom_plugins%2Fplugins%2Flinear-planning-workflow%2Fskills%2Flinear-discipline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_0dfd9161dedd"
+  }
+}

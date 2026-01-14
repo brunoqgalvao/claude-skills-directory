@@ -1,0 +1,37 @@
+{
+  "id": "analyzing-market-sentiment",
+  "name": "analyzing-market-sentiment",
+  "version": "1.0.0",
+  "summary": "Analyze crypto market sentiment from social media, news, and on-chain metrics.\nUse when gauging market sentiment and social trends.\nTrigger with phrases like \"analyze sentiment\"...",
+  "verticals": [
+    "marketing",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/crypto/market-sentiment-analyzer/skills/market-sentiment-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T17:59:10.002Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fcrypto%2Fmarket-sentiment-analyzer%2Fskills%2Fmarket-sentiment-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.888Z",
+    "uniqueId": "sk_df283c2ab1d5"
+  }
+}

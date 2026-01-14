@@ -1,0 +1,35 @@
+{
+  "id": "rails-architect",
+  "name": "rails-architect",
+  "version": "1.0.0",
+  "summary": "Expert Ruby on Rails architect for reviewing existing Rails applications, suggesting architectural improvements, and designing new features following modern Rails best practices...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brianfoshee",
+    "github": "brianfoshee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brianfoshee/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/brianfoshee/dotfiles/main/claude/skills/rails-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:33.428Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brianfoshee%2Fdotfiles/claude%2Fskills%2Frails-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_806d7793c62d"
+  }
+}

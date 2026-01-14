@@ -1,0 +1,35 @@
+{
+  "id": "ai-content-quality-checker",
+  "name": "ai-content-quality-checker",
+  "version": "1.0.0",
+  "summary": "AI生成コンテンツの総合品質チェックスキル。読みやすさ、正確性、関連性、独自性、SEO、アクセシビリティ、エンゲージメント、文法・スタイルを多角的に評価。",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/ai-content-quality-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:13:51.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Fai-content-quality-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_40acd8341e0d"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cli-testing-patterns",
+  "name": "cli-testing-patterns",
+  "version": "1.0.0",
+  "summary": "CLI testing strategies and patterns for Node.js (Jest) and Python (pytest, Click.testing.CliRunner). Use when writing tests for CLI tools, testing command execution, validating ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/cli-builder",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/cli-builder/main/plugins/cli-builder/skills/cli-testing-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:57:54.672Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fcli-builder/plugins%2Fcli-builder%2Fskills%2Fcli-testing-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_8ee999729c9b"
+  }
+}

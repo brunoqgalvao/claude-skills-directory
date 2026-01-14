@@ -1,0 +1,35 @@
+{
+  "id": "trace",
+  "name": "trace",
+  "version": "1.0.0",
+  "summary": "TRACE (Type-Readability-Atomic-Cognitive-Essential) code review lens; use for reviews, refactors, readability audits, and explaining confusing code paths with concrete file/line...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tkersey",
+    "github": "tkersey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tkersey/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/tkersey/dotfiles/main/codex/skills/trace/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.866Z",
+  "created_at": "2025-12-22T15:04:54.737Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tkersey%2Fdotfiles/codex%2Fskills%2Ftrace%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.866Z",
+    "uniqueId": "sk_386177cbf72a"
+  }
+}

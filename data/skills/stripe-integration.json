@@ -1,0 +1,35 @@
+{
+  "id": "stripe-integration",
+  "name": "stripe-integration",
+  "version": "1.0.0",
+  "summary": "Stripe payment integration for SaaS. Use when implementing Stripe checkout, webhooks, subscriptions, or payment flows. Includes secure patterns for Next.js.",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dvorkinguy",
+    "github": "dvorkinguy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dvorkinguy/claude-skills-agents",
+    "skill_md": "https://raw.githubusercontent.com/dvorkinguy/claude-skills-agents/main/skills/stripe-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.851Z",
+  "created_at": "2025-12-22T15:56:38.596Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dvorkinguy%2Fclaude-skills-agents/skills%2Fstripe-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_6aaa913454c1"
+  }
+}

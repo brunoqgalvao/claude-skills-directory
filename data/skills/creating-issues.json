@@ -1,0 +1,35 @@
+{
+  "id": "creating-issues",
+  "name": "creating-issues",
+  "version": "1.0.0",
+  "summary": "Issue creation expertise and convention enforcement. Auto-invokes when creating issues, writing issue descriptions, asking about issue best practices, or needing help with issue...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C0ntr0lledCha0s",
+    "github": "C0ntr0lledCha0s"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C0ntr0lledCha0s/claude-code-plugin-automations",
+    "skill_md": "https://raw.githubusercontent.com/C0ntr0lledCha0s/claude-code-plugin-automations/main/github-workflows/skills/creating-issues/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.625Z",
+  "created_at": "2025-12-22T23:16:57.890Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C0ntr0lledCha0s%2Fclaude-code-plugin-automations/github-workflows%2Fskills%2Fcreating-issues%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.625Z",
+    "uniqueId": "sk_186758071b7d"
+  }
+}

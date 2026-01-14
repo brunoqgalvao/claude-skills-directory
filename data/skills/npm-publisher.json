@@ -1,0 +1,36 @@
+{
+  "id": "npm-publisher",
+  "name": "npm-publisher",
+  "version": "1.0.0",
+  "summary": "This skill must be loaded via the skill tool when the user mentions anything related to publishing or release an npm package. It contains essential knowledge about the complete ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "klaudworks",
+    "github": "klaudworks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/klaudworks/universal-skills",
+    "skill_md": "https://raw.githubusercontent.com/klaudworks/universal-skills/main/.agent/skills/npm-publisher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:32.165Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/klaudworks%2Funiversal-skills/.agent%2Fskills%2Fnpm-publisher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_e8d6a62b309a"
+  }
+}

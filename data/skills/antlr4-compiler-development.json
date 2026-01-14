@@ -1,0 +1,35 @@
+{
+  "id": "antlr4-compiler-development",
+  "name": "antlr4-compiler-development",
+  "version": "1.0.0",
+  "summary": "为ANTLR4编译器开发项目提供专业指导，支持21章节渐进式Cymbol语言编译器实现。包括语法分析、语义分析、IR生成、虚拟机实现和优化技术。当用户需要ANTLR4语法设计、编译器前端开发、类型系统实现、中间代码生成或编译器优化相关帮助时使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "whtoo",
+    "github": "whtoo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/whtoo/How_to_implment_PL_in_Antlr4",
+    "skill_md": "https://raw.githubusercontent.com/whtoo/How_to_implment_PL_in_Antlr4/main/.claude/skills/antlr4-compiler-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:00:44.085Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/whtoo%2FHow_to_implment_PL_in_Antlr4/.claude%2Fskills%2Fantlr4-compiler-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_37ef742e4154"
+  }
+}

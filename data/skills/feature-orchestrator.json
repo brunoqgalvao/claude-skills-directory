@@ -1,0 +1,37 @@
+{
+  "id": "feature-orchestrator",
+  "name": "feature-orchestrator",
+  "version": "1.0.0",
+  "summary": "Research-backed feature implementation workflow enforcing gap analysis, incremental planning, agent coordination, and continuous integration best practices. Auto-invoked for ALL...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WomenDefiningAI",
+    "github": "WomenDefiningAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WomenDefiningAI/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/WomenDefiningAI/claude-code-skills/main/skills/feature-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:58.249Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WomenDefiningAI%2Fclaude-code-skills/skills%2Ffeature-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_bbf19ffd6b76"
+  }
+}

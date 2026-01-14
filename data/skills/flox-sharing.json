@@ -1,0 +1,35 @@
+{
+  "id": "flox-sharing",
+  "name": "flox-sharing",
+  "version": "1.0.0",
+  "summary": "Sharing and composing Flox environments. Use for environment composition, remote environments, FloxHub, and team collaboration patterns.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "flox",
+    "github": "flox"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/flox/flox-agentic",
+    "skill_md": "https://raw.githubusercontent.com/flox/flox-agentic/main/flox-plugin/skills/flox-sharing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T20:19:49.000Z",
+  "created_at": "2025-12-23T01:29:25.362Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/flox%2Fflox-agentic/flox-plugin%2Fskills%2Fflox-sharing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.500Z",
+    "uniqueId": "sk_bdd7ba323f0b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nix-module-expert",
+  "name": "nix-module-expert",
+  "version": "1.0.0",
+  "summary": "Expert in Nix module architecture, placement, and best practices. Automatically analyzes module structure, detects antipatterns (with pkgs, hardcoded values, wrong placement), a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lewisflude",
+    "github": "lewisflude"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lewisflude/nix",
+    "skill_md": "https://raw.githubusercontent.com/lewisflude/nix/main/.claude/skills/nix-module-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T14:06:14.000Z",
+  "created_at": "2025-12-22T19:56:52.723Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lewisflude%2Fnix/.claude%2Fskills%2Fnix-module-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_941b57aa2996"
+  }
+}

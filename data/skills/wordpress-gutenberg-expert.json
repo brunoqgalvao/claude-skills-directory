@@ -1,0 +1,35 @@
+{
+  "id": "wordpress-gutenberg-expert",
+  "name": "wordpress-gutenberg-expert",
+  "version": "1.0.0",
+  "summary": "Expert WordPress et Gutenberg pour répondre à toutes questions sur le développement WordPress, la création de thèmes, plugins, blocks Gutenberg, et l'API Block Editor. Utilise c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "truchot",
+    "github": "truchot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/truchot/claude-skills-test",
+    "skill_md": "https://raw.githubusercontent.com/truchot/claude-skills-test/main/.claude/skills/wordpress-gutenberg-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.617Z",
+  "created_at": "2025-12-22T23:20:24.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/truchot%2Fclaude-skills-test/.claude%2Fskills%2Fwordpress-gutenberg-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.617Z",
+    "uniqueId": "sk_317dcb9ff9e0"
+  }
+}

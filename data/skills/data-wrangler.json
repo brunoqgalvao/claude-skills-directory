@@ -1,0 +1,35 @@
+{
+  "id": "data-wrangler",
+  "name": "data-wrangler",
+  "version": "1.0.0",
+  "summary": "Transform and export data using DuckDB SQL. Read CSV/Parquet/JSON/Excel/databases, apply SQL transformations (joins, aggregations, PIVOT/UNPIVOT, sampling), and optionally write...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "richard-gyiko",
+    "github": "richard-gyiko"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/richard-gyiko/data-wrangler-plugin",
+    "skill_md": "https://raw.githubusercontent.com/richard-gyiko/data-wrangler-plugin/main/skills/data-wrangler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:05:33.189Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/richard-gyiko%2Fdata-wrangler-plugin/skills%2Fdata-wrangler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_2be9d13c9c03"
+  }
+}

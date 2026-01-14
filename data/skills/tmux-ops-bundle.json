@@ -1,0 +1,36 @@
+{
+  "id": "tmux-ops-bundle",
+  "name": "tmux-ops-bundle",
+  "version": "1.0.0",
+  "summary": "Advanced tmux operations bundle for Miyabi multi-agent AI orchestration.\nIncludes auto-recovery, health monitoring, task queue integration, \nand MCP server coordination. The def...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ShunsukeHayashi",
+    "github": "ShunsukeHayashi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ShunsukeHayashi/omakase-ai",
+    "skill_md": "https://raw.githubusercontent.com/ShunsukeHayashi/omakase-ai/main/.claude/skills/tmux-ops-bundle/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:09:42.799Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ShunsukeHayashi%2Fomakase-ai/.claude%2Fskills%2Ftmux-ops-bundle%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_d40d74701196"
+  }
+}

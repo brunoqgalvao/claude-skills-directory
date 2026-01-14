@@ -1,0 +1,37 @@
+{
+  "id": "json-outputs-implementer",
+  "name": "json-outputs-implementer",
+  "version": "1.0.0",
+  "summary": "Use PROACTIVELY when extracting structured data from text/images, classifying content, or formatting API responses with guaranteed schema compliance. Implements Anthropic's JSON...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cskiro",
+    "github": "cskiro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cskiro/claudex",
+    "skill_md": "https://raw.githubusercontent.com/cskiro/claudex/main/skills/json-outputs-implementer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:04:51.980Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cskiro%2Fclaudex/skills%2Fjson-outputs-implementer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_0c46ce9b1534"
+  }
+}

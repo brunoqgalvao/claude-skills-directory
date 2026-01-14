@@ -1,0 +1,35 @@
+{
+  "id": "dotnet-expert",
+  "name": "dotnet-expert",
+  "version": "1.0.0",
+  "summary": ".NET 8.0 development expertise for VoiceLite including WPF patterns, async/await best practices, IDisposable patterns, and NuGet package recommendations. Activates when working ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikha08-rgb",
+    "github": "mikha08-rgb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikha08-rgb/VoiceLite",
+    "skill_md": "https://raw.githubusercontent.com/mikha08-rgb/VoiceLite/main/.claude/skills/dotnet-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:32.216Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikha08-rgb%2FVoiceLite/.claude%2Fskills%2Fdotnet-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_70ca3516d34d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "arxivterminal",
+  "name": "arxivterminal",
+  "version": "1.0.0",
+  "summary": "CLI tool (arxivterminal) for fetching, searching, and managing arXiv papers locally. Use when working with arXiv papers using the arxivterminal command - fetching new papers by ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ultimatile",
+    "github": "ultimatile"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ultimatile/arxiv-skills",
+    "skill_md": "https://raw.githubusercontent.com/ultimatile/arxiv-skills/main/skills/arxivterminal/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:32.239Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ultimatile%2Farxiv-skills/skills%2Farxivterminal%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_df4eb2a53648"
+  }
+}

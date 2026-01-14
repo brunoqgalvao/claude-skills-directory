@@ -1,0 +1,35 @@
+{
+  "id": "jira-discipline",
+  "name": "jira-discipline",
+  "version": "1.0.0",
+  "summary": "Use this skill when discussing code changes, implementation work, feature status, or when starting/completing development tasks. Reminds about Jira issue tracking discipline - a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jclfocused",
+    "github": "jclfocused"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jclfocused/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/jclfocused/claude-agents/main/custom_plugins/plugins/jira-planning-workflow/skills/jira-discipline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:03:04.371Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jclfocused%2Fclaude-agents/custom_plugins%2Fplugins%2Fjira-planning-workflow%2Fskills%2Fjira-discipline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_91a5aa062ca6"
+  }
+}

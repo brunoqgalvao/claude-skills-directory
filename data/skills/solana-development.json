@@ -1,0 +1,37 @@
+{
+  "id": "solana-development",
+  "name": "solana-development",
+  "version": "1.0.0",
+  "summary": "Build Solana programs with Anchor framework or native Rust. Use when developing Solana smart contracts, implementing token operations, testing programs, deploying to networks, o...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tenequm",
+    "github": "tenequm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tenequm/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/tenequm/claude-plugins/main/solana/skills/solana-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:14:58.557Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tenequm%2Fclaude-plugins/solana%2Fskills%2Fsolana-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_10a56149625a"
+  }
+}

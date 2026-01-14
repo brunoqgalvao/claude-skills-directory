@@ -1,0 +1,35 @@
+{
+  "id": "research-orchestration",
+  "name": "research-orchestration",
+  "version": "1.0.0",
+  "summary": "Use when brainstorming completes and user selects research-first option - manages parallel research subagents (up to 4) across codebase, library docs, web, and GitHub sources, s...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seanGSISG",
+    "github": "seanGSISG"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seanGSISG/crispy-claude",
+    "skill_md": "https://raw.githubusercontent.com/seanGSISG/crispy-claude/main/cc/skills/research-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T01:55:24.000Z",
+  "created_at": "2025-12-23T01:29:21.333Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seanGSISG%2Fcrispy-claude/cc%2Fskills%2Fresearch-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_49785516f5f8"
+  }
+}

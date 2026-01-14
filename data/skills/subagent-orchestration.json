@@ -1,0 +1,36 @@
+{
+  "id": "subagent-orchestration",
+  "name": "subagent-orchestration",
+  "version": "1.0.0",
+  "summary": "This skill should be used when coordinating multiple subagents, implementing orchestrator\npatterns, or managing parallel agent workflows.\nTrigger phrases: \"orchestrate agents\", ...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DieGopherLT",
+    "github": "DieGopherLT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DieGopherLT/claude-kit",
+    "skill_md": "https://raw.githubusercontent.com/DieGopherLT/claude-kit/main/skills/subagent-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.561Z",
+  "created_at": "2025-12-23T01:28:40.073Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DieGopherLT%2Fclaude-kit/skills%2Fsubagent-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_5e8d611ac28f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tasks-planning",
+  "name": "tasks-planning",
+  "version": "1.0.0",
+  "summary": "Use during Phase 4 of spec creation to break specification into organized task groups with dependencies - analyzes requirements to determine natural groupings, presents structur...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcos-abreu",
+    "github": "marcos-abreu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcos-abreu/connect_kit",
+    "skill_md": "https://raw.githubusercontent.com/marcos-abreu/connect_kit/main/.claude/skills/tasks-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:08.735Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcos-abreu%2Fconnect_kit/.claude%2Fskills%2Ftasks-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_91f8149a469a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pr-monitor-fix",
+  "name": "pr-monitor-fix",
+  "version": "1.0.0",
+  "summary": "Create GitHub PRs (via gh cli or MCP), monitor them continuously in background, and auto-generate fix plans for review comments and CI failures. Supports real-time monitoring an...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nuwa-protocol",
+    "github": "nuwa-protocol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nuwa-protocol/x402-exec",
+    "skill_md": "https://raw.githubusercontent.com/nuwa-protocol/x402-exec/main/.claude/skills/pr-monitor-fix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.685Z",
+  "created_at": "2025-12-22T22:10:10.294Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nuwa-protocol%2Fx402-exec/.claude%2Fskills%2Fpr-monitor-fix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.685Z",
+    "uniqueId": "sk_664e267164d8"
+  }
+}

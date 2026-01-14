@@ -1,0 +1,35 @@
+{
+  "id": "deeptools",
+  "name": "deeptools",
+  "version": "1.0.0",
+  "summary": "NGS analysis toolkit. BAM to bigWig conversion, QC (correlation, PCA, fingerprints), heatmaps/profiles (TSS, peaks), for ChIP-seq, RNA-seq, ATAC-seq visualization.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lifangda",
+    "github": "lifangda"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lifangda/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/lifangda/claude-plugins/main/cli-tool/skills-library/scientific-computing/bioinformatics/deeptools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.450Z",
+  "created_at": "2025-12-23T01:29:58.378Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lifangda%2Fclaude-plugins/cli-tool%2Fskills-library%2Fscientific-computing%2Fbioinformatics%2Fdeeptools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_d6699d08dc60"
+  }
+}

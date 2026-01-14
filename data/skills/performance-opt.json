@@ -1,0 +1,36 @@
+{
+  "id": "performance-opt",
+  "name": "performance-opt",
+  "version": "1.0.0",
+  "summary": "Analyze and optimize application performance including bundle size, render performance, and API response times. Use when investigating slow pages or optimizing production builds.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sgcarstrends",
+    "github": "sgcarstrends"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sgcarstrends/sgcarstrends",
+    "skill_md": "https://raw.githubusercontent.com/sgcarstrends/sgcarstrends/main/.claude/skills/performance-opt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.690Z",
+  "created_at": "2025-12-22T22:05:47.209Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sgcarstrends%2Fsgcarstrends/.claude%2Fskills%2Fperformance-opt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.690Z",
+    "uniqueId": "sk_f07363a8b3f5"
+  }
+}

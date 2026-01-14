@@ -1,0 +1,35 @@
+{
+  "id": "design-system",
+  "name": "design-system",
+  "version": "1.0.0",
+  "summary": "iOS/SwiftUIアプリのデザインシステム・スタイルガイドを構築するスキル。カラーパレット、タイポグラフィ、スペーシング、コンポーネントスタイルをSwiftコードとして生成。使用シーン：(1)「スタイルガイドを作って」「デザインシステムを構築して」などの新規作成リクエスト (2)「既存のスタイルを分析して」「色やフォントを整理して」などの既存コード...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hiragram",
+    "github": "hiragram"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hiragram/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/hiragram/claude-code-plugins/main/ios-team/skills/design-system/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:06:50.282Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hiragram%2Fclaude-code-plugins/ios-team%2Fskills%2Fdesign-system%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_0e163212ea13"
+  }
+}

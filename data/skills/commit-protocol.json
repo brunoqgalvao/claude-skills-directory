@@ -1,0 +1,35 @@
+{
+  "id": "commit-protocol",
+  "name": "commit-protocol",
+  "version": "1.0.0",
+  "summary": "Use when user asks to commit changes or when finishing significant work. Enforces quality gates, testing verification, and explicit user approval before any git commit.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nizarghribi",
+    "github": "nizarghribi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nizarghribi/hounii-monorepo-first",
+    "skill_md": "https://raw.githubusercontent.com/nizarghribi/hounii-monorepo-first/main/.claude/skills/commit-protocol/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:56.290Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nizarghribi%2Fhounii-monorepo-first/.claude%2Fskills%2Fcommit-protocol%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_bdc68793a113"
+  }
+}

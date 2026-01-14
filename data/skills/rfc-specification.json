@@ -1,0 +1,35 @@
+{
+  "id": "rfc-specification",
+  "name": "rfc-specification",
+  "version": "1.0.0",
+  "summary": "RFC (Request for Comments) specification writing with objective technical analysis. Use when creating technical specifications, design documents, or architecture proposals that ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoutrin",
+    "github": "jpoutrin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoutrin/product-forge",
+    "skill_md": "https://raw.githubusercontent.com/jpoutrin/product-forge/main/plugins/devops-data/skills/rfc-specification/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:22.147Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoutrin%2Fproduct-forge/plugins%2Fdevops-data%2Fskills%2Frfc-specification%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_b77b84c46ff8"
+  }
+}

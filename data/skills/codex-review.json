@@ -1,0 +1,35 @@
+{
+  "id": "codex-review",
+  "name": "codex-review",
+  "version": "1.0.0",
+  "summary": "OpenAI Codex CLI を使ってコード、設定ファイル、ドキュメントのレビューを実行します。「Codex にレビューして」「Codex でレビュー」「OpenAI にレビューしてもらって」「codex review」などのリクエストがあった場合に使用します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jedipunkz",
+    "github": "jedipunkz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jedipunkz/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/jedipunkz/dotfiles/main/.config/opencode/skills/codex-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:17.904Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jedipunkz%2Fdotfiles/.config%2Fopencode%2Fskills%2Fcodex-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_1d4af1cc8d78"
+  }
+}

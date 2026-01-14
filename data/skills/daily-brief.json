@@ -1,0 +1,36 @@
+{
+  "id": "daily-brief",
+  "name": "daily-brief",
+  "version": "1.0.0",
+  "summary": "Generate personalized news intelligence with verified sources (7-day freshness requirement)",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "huytieu",
+    "github": "huytieu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/huytieu/COG-second-brain",
+    "skill_md": "https://raw.githubusercontent.com/huytieu/COG-second-brain/main/.claude/skills/daily-brief/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T03:01:03.000Z",
+  "created_at": "2025-12-22T21:57:16.514Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/huytieu%2FCOG-second-brain/.claude%2Fskills%2Fdaily-brief%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_eeb47f9a9683"
+  }
+}

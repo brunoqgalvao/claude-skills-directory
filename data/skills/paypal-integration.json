@@ -1,0 +1,37 @@
+{
+  "id": "paypal-integration",
+  "name": "paypal-integration",
+  "version": "1.0.0",
+  "summary": "Integrate PayPal payment processing with support for express checkout, subscriptions, and refund management. Use when implementing PayPal payments, processing online transaction...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HermeticOrmus",
+    "github": "HermeticOrmus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HermeticOrmus/after-the-third-cup",
+    "skill_md": "https://raw.githubusercontent.com/HermeticOrmus/after-the-third-cup/main/plugins/payment-processing/skills/paypal-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.684Z",
+  "created_at": "2025-12-22T22:10:15.437Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HermeticOrmus%2Fafter-the-third-cup/plugins%2Fpayment-processing%2Fskills%2Fpaypal-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.684Z",
+    "uniqueId": "sk_8358bb39229a"
+  }
+}

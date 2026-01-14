@@ -1,0 +1,35 @@
+{
+  "id": "ansible-role-init",
+  "name": "ansible-role-init",
+  "version": "1.0.0",
+  "summary": "Scaffold a new Ansible role via ansible-galaxy init",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jphetphoumy",
+    "github": "jphetphoumy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jphetphoumy/skillstack",
+    "skill_md": "https://raw.githubusercontent.com/jphetphoumy/skillstack/main/skills/ansible-role-init/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:05.194Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jphetphoumy%2Fskillstack/skills%2Fansible-role-init%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_ac6b368d6b9c"
+  }
+}

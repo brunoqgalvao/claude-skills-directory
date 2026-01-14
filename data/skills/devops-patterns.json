@@ -1,0 +1,36 @@
+{
+  "id": "devops-patterns",
+  "name": "devops-patterns",
+  "version": "1.0.0",
+  "summary": "Docker-first DevOps - Docker Compose for local dev, Vitest for testing, Pulumi ESC for secrets.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aitchwhy",
+    "github": "aitchwhy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aitchwhy/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/aitchwhy/dotfiles/main/config/agents/skills/devops-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:23.577Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aitchwhy%2Fdotfiles/config%2Fagents%2Fskills%2Fdevops-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_650919808f12"
+  }
+}

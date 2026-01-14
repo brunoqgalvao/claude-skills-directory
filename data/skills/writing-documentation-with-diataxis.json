@@ -1,0 +1,36 @@
+{
+  "id": "writing-documentation-with-diataxis",
+  "name": "writing-documentation-with-diataxis",
+  "version": "1.0.0",
+  "summary": "Applies the Diataxis framework to create or improve technical documentation. Use when being asked to write high quality tutorials, how-to guides, reference docs, or explanations...",
+  "verticals": [
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AJBcoding",
+    "github": "AJBcoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AJBcoding/claude-skill-eval",
+    "skill_md": "https://raw.githubusercontent.com/AJBcoding/claude-skill-eval/main/agentic-coding-main/Claude/skills/diataxis-documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.460Z",
+  "created_at": "2025-12-22T20:04:40.893Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AJBcoding%2Fclaude-skill-eval/agentic-coding-main%2FClaude%2Fskills%2Fdiataxis-documentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_48708edc1b96"
+  }
+}

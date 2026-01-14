@@ -1,0 +1,35 @@
+{
+  "id": "text-writer",
+  "name": "text-writer",
+  "version": "1.0.0",
+  "summary": "技術研修テキスト教材を執筆。:::stepディレクティブ、学習目標、コードブロックルール（//addstart等）に準拠。テキスト教材、技術ドキュメント作成時に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "imagepit",
+    "github": "imagepit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/imagepit/text-lint-plugin",
+    "skill_md": "https://raw.githubusercontent.com/imagepit/text-lint-plugin/main/skills/text-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:13.895Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/imagepit%2Ftext-lint-plugin/skills%2Ftext-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_fab78dec4cc2"
+  }
+}

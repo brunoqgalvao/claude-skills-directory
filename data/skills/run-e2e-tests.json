@@ -1,0 +1,35 @@
+{
+  "id": "run-e2e-tests",
+  "name": "run-e2e-tests",
+  "version": "1.0.0",
+  "summary": "Executes end-to-end tests for OADP projects with proper environment setup, test selection, and result analysis.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpryc",
+    "github": "mpryc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpryc/ai-agents-and-skills",
+    "skill_md": "https://raw.githubusercontent.com/mpryc/ai-agents-and-skills/main/claude/oadp-operator/skills/development/run-e2e-tests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:58:38.634Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpryc%2Fai-agents-and-skills/claude%2Foadp-operator%2Fskills%2Fdevelopment%2Frun-e2e-tests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_31b71ef931c4"
+  }
+}

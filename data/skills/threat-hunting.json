@@ -1,0 +1,36 @@
+{
+  "id": "threat-hunting",
+  "name": "threat-hunting",
+  "version": "1.0.0",
+  "summary": "Proactively search for security threats, vulnerabilities, and suspicious patterns in applications and infrastructure before they cause damage. Use when conducting security audit...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "korallis",
+    "github": "korallis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/korallis/Droidz",
+    "skill_md": "https://raw.githubusercontent.com/korallis/Droidz/main/droidz_installer/payloads/claude/default/skills/threat-hunting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T14:52:17.000Z",
+  "created_at": "2025-12-23T01:28:29.646Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/korallis%2FDroidz/droidz_installer%2Fpayloads%2Fclaude%2Fdefault%2Fskills%2Fthreat-hunting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_fd5a77adc253"
+  }
+}

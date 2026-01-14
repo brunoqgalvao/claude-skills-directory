@@ -1,0 +1,36 @@
+{
+  "id": "following-plans",
+  "name": "following-plans",
+  "version": "1.0.0",
+  "summary": "Algorithmic decision tree for when to follow plan exactly vs when to report BLOCKED - prevents scope creep and unauthorized deviations",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cipherstash",
+    "github": "cipherstash"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cipherstash/cipherpowers",
+    "skill_md": "https://raw.githubusercontent.com/cipherstash/cipherpowers/main/plugin/skills/following-plans/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T22:24:40.000Z",
+  "created_at": "2025-12-22T19:11:01.372Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cipherstash%2Fcipherpowers/plugin%2Fskills%2Ffollowing-plans%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_7d6f42ce44e8"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ml-integration-patterns",
+  "name": "ml-integration-patterns",
+  "version": "1.0.0",
+  "summary": "Machine learning integration patterns for rRNA-Phylo covering three use cases - rRNA sequence classification (supervised learning with sklearn/PyTorch), multi-tree consensus (en...",
+  "verticals": [
+    "legal",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "roeimed0",
+    "github": "roeimed0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/roeimed0/rrna-phylo",
+    "skill_md": "https://raw.githubusercontent.com/roeimed0/rrna-phylo/main/.claude/skills/ml-integration-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:19:56.470Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/roeimed0%2Frrna-phylo/.claude%2Fskills%2Fml-integration-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_c5df9489a0f5"
+  }
+}

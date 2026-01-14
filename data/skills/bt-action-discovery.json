@@ -1,0 +1,35 @@
+{
+  "id": "bt-action-discovery",
+  "name": "bt-action-discovery",
+  "version": "1.0.0",
+  "summary": "Discovers available robot actions by reading action_library.yaml. Returns action catalog with parameters and constraints for BT generation and validation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jsalfity",
+    "github": "jsalfity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jsalfity/bt-composition-prototype",
+    "skill_md": "https://raw.githubusercontent.com/jsalfity/bt-composition-prototype/main/skills/bt-action-discovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:03:21.788Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jsalfity%2Fbt-composition-prototype/skills%2Fbt-action-discovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_a99f3d1fabdd"
+  }
+}

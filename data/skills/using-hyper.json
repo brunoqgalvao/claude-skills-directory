@@ -1,0 +1,35 @@
+{
+  "id": "using-hyper",
+  "name": "using-hyper",
+  "version": "1.0.0",
+  "summary": "Use when starting any conversation - establishes mandatory workflows for finding and using skills",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "withzombies",
+    "github": "withzombies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/withzombies/hyperpowers",
+    "skill_md": "https://raw.githubusercontent.com/withzombies/hyperpowers/main/skills/using-hyper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:44.447Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/withzombies%2Fhyperpowers/skills%2Fusing-hyper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_76dea8c82dc8"
+  }
+}

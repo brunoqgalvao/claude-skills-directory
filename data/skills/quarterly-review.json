@@ -1,0 +1,35 @@
+{
+  "id": "quarterly-review",
+  "name": "quarterly-review",
+  "version": "1.0.0",
+  "summary": "Conduct a quarterly review of your overall research mission and direction. This is a user-level review stored in ~/.researchAssistant/. Use when the user types /quarterly_review...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "braselog",
+    "github": "braselog"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/braselog/researchAssistant",
+    "skill_md": "https://raw.githubusercontent.com/braselog/researchAssistant/main/.ra/skills/quarterly-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T13:30:15.000Z",
+  "created_at": "2025-12-23T01:29:00.709Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/braselog%2FresearchAssistant/.ra%2Fskills%2Fquarterly-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.531Z",
+    "uniqueId": "sk_f7ade4639595"
+  }
+}

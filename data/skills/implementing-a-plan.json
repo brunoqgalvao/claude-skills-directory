@@ -1,0 +1,35 @@
+{
+  "id": "implementing-a-plan",
+  "name": "implementing-a-plan",
+  "version": "1.0.0",
+  "summary": "Loads plan, reviews critically, executes each batch, and reports for review between batches. Use when implementing a plan from a plan file.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jasonraimondi",
+    "github": "jasonraimondi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jasonraimondi/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/jasonraimondi/dotfiles/main/claude/dot-claude/skills/implementing-a-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-09T02:51:48.000Z",
+  "created_at": "2025-12-23T01:28:36.671Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jasonraimondi%2Fdotfiles/claude%2Fdot-claude%2Fskills%2Fimplementing-a-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.454Z",
+    "uniqueId": "sk_e8e146f2851e"
+  }
+}

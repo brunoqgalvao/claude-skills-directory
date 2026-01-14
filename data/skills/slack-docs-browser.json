@@ -1,0 +1,36 @@
+{
+  "id": "slack-docs-browser",
+  "name": "slack-docs-browser",
+  "version": "1.0.0",
+  "summary": "Search, fetch, and convert Slack Developer Docs pages from https://docs.slack.dev into clean markdown files for local grep and analysis. Use when you need to browse Slack develo...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Tiberriver256",
+    "github": "Tiberriver256"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Tiberriver256/codex-alfred",
+    "skill_md": "https://raw.githubusercontent.com/Tiberriver256/codex-alfred/main/.codex/skills/slack-docs-browser/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.857Z",
+  "created_at": "2025-12-22T15:12:24.627Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Tiberriver256%2Fcodex-alfred/.codex%2Fskills%2Fslack-docs-browser%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_75978c02ee33"
+  }
+}

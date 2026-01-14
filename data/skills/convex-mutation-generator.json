@@ -1,0 +1,37 @@
+{
+  "id": "convex-mutation-generator",
+  "name": "convex-mutation-generator",
+  "version": "1.0.0",
+  "summary": "Generates Convex backend functions (queries, mutations, actions) for Mek Tycoon with proper TypeScript typing, argument validation, and transactional patterns. Use when creating...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hugio55",
+    "github": "hugio55"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hugio55/mek-tycoon-react",
+    "skill_md": "https://raw.githubusercontent.com/hugio55/mek-tycoon-react/main/.claude/skills/convex-mutation-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:26.018Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hugio55%2Fmek-tycoon-react/.claude%2Fskills%2Fconvex-mutation-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_0bc5ee8882a4"
+  }
+}

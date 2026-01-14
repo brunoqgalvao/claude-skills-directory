@@ -1,0 +1,36 @@
+{
+  "id": "mimir",
+  "name": "mimir",
+  "version": "1.0.0",
+  "summary": "Guide for implementing Grafana Mimir - a horizontally scalable, highly available, multi-tenant TSDB for long-term storage of Prometheus metrics. Use when configuring Mimir on Ku...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julianobarbosa",
+    "github": "julianobarbosa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julianobarbosa/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/mimir-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:33.371Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julianobarbosa%2Fclaude-code-skills/skills%2Fmimir-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_ade50e5a2bd7"
+  }
+}

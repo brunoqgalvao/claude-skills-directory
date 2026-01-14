@@ -1,0 +1,35 @@
+{
+  "id": "redpanda-migrator",
+  "name": "redpanda-migrator",
+  "version": "1.0.0",
+  "summary": "Generate Redpanda Migrator YAML configuration files for migrating data between Kafka-compatible clusters. Use when users request migration configurations for Kafka, Redpanda, Co...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ajurcenk",
+    "github": "ajurcenk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ajurcenk/claude_code_redpanda_migrator_cfg_gen_agent_skiils",
+    "skill_md": "https://raw.githubusercontent.com/ajurcenk/claude_code_redpanda_migrator_cfg_gen_agent_skiils/main/redpanda-migrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.681Z",
+  "created_at": "2025-12-22T22:10:45.941Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ajurcenk%2Fclaude_code_redpanda_migrator_cfg_gen_agent_skiils/redpanda-migrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.681Z",
+    "uniqueId": "sk_223c6ffd10bf"
+  }
+}

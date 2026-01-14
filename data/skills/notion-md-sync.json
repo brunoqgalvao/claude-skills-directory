@@ -1,0 +1,35 @@
+{
+  "id": "notion-md-sync",
+  "name": "notion-md-sync",
+  "version": "1.0.0",
+  "summary": "Batch upload local Markdown files to Notion via Python script. Optimized for single or multiple files with zero token cost. Direct script execution bypasses LLM parsing, saving ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "waleking",
+    "github": "waleking"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/waleking/weijing_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/waleking/weijing_claude_skills/main/notion-md-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:24.639Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/waleking%2Fweijing_claude_skills/notion-md-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_e148cddf7383"
+  }
+}

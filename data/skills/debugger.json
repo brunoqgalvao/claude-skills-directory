@@ -1,0 +1,35 @@
+{
+  "id": "debugger",
+  "name": "debugger",
+  "version": "1.0.0",
+  "summary": "Verify frontend changes by running flows in browser using Playwright MCP. Checks console logs, captures snapshots, and validates user interactions work correctly.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tomeraitz",
+    "github": "tomeraitz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tomeraitz/dotclaude-templates",
+    "skill_md": "https://raw.githubusercontent.com/tomeraitz/dotclaude-templates/main/.claude/skills/debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:17:33.651Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tomeraitz%2Fdotclaude-templates/.claude%2Fskills%2Fdebugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_2983bd9b059c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "jelly-ios-simulator",
+  "name": "jelly-ios-simulator",
+  "version": "1.0.0",
+  "summary": "iOS Simulator 외부 조작 및 자동화. xcrun simctl 명령어, 입력 시뮬레이션, 스크린샷/녹화, 푸시 알림 테스트, 위치/네트워크 시뮬레이션, 생체인증 테스트 지원. 테스트 자동화 및 CI/CD 파이프라인 통합에 최적화.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dev-jelly",
+    "github": "dev-jelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dev-jelly/jelly-dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/dev-jelly/jelly-dotclaude/main/skills/jelly-ios-simulator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T16:37:20.000Z",
+  "created_at": "2025-12-22T19:12:31.792Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dev-jelly%2Fjelly-dotclaude/skills%2Fjelly-ios-simulator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_912cd275a5a2"
+  }
+}

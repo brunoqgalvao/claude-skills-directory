@@ -1,0 +1,37 @@
+{
+  "id": "react-vm",
+  "name": "react-vm",
+  "version": "1.0.0",
+  "summary": "Implement the VM pattern using Effect and Effect-Atom for reactive, testable frontend state management. Use this skill when building React applications with View Models that bri...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "front-depiction",
+    "github": "front-depiction"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/front-depiction/claude-setup",
+    "skill_md": "https://raw.githubusercontent.com/front-depiction/claude-setup/main/skills/react-vm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:06.483Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/front-depiction%2Fclaude-setup/skills%2Freact-vm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_51ded47d0bf8"
+  }
+}

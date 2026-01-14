@@ -1,0 +1,35 @@
+{
+  "id": "maintain-skill-files",
+  "name": "maintain-skill-files",
+  "version": "1.0.0",
+  "summary": "Proactively update SKILL.md files when they become outdated, incorrect, or need improvements. Use when you notice a skill doesn't match current workflow, when user corrects your...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Recidiviz",
+    "github": "Recidiviz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Recidiviz/pulse-data",
+    "skill_md": "https://raw.githubusercontent.com/Recidiviz/pulse-data/main/.claude/skills/maintain_skill_files/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T09:04:52.000Z",
+  "created_at": "2025-12-23T01:29:09.634Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Recidiviz%2Fpulse-data/.claude%2Fskills%2Fmaintain_skill_files%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.520Z",
+    "uniqueId": "sk_bc946a5e52b2"
+  }
+}

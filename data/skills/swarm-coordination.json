@@ -1,0 +1,36 @@
+{
+  "id": "swarm-coordination",
+  "name": "swarm-coordination",
+  "version": "1.0.0",
+  "summary": "Multi-agent coordination patterns for OpenCode swarm workflows. Use when working on complex tasks that benefit from parallelization, when coordinating multiple agents, or when m...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joelhooks",
+    "github": "joelhooks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joelhooks/opencode-config",
+    "skill_md": "https://raw.githubusercontent.com/joelhooks/opencode-config/main/skills/swarm-coordination/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:31.095Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joelhooks%2Fopencode-config/skills%2Fswarm-coordination%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_b6df695507d0"
+  }
+}

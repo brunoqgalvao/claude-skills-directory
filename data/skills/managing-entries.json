@@ -1,0 +1,35 @@
+{
+  "id": "managing-entries",
+  "name": "managing-entries",
+  "version": "1.0.0",
+  "summary": "Create and manage changelog entries. Use when adding changelog entries, finishing features or bugfixes, documenting changes, writing release notes, working in changelog/ directo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tenzir",
+    "github": "tenzir"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tenzir/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/tenzir/claude-plugins/main/plugins/changelog/skills/managing-entries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:51:21.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tenzir%2Fclaude-plugins/plugins%2Fchangelog%2Fskills%2Fmanaging-entries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_aec263b27968"
+  }
+}

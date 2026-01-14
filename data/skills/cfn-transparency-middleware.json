@@ -1,0 +1,37 @@
+{
+  "id": "cfn-transparency-middleware",
+  "name": "cfn-transparency-middleware",
+  "version": "1.0.0",
+  "summary": "Agent interaction capture, logging, and analysis with memory tracking and security (Rust implementation). Use when you need to capture and analyze agent interactions, track tool...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masharratt",
+    "github": "masharratt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masharratt/claude-flow-novice",
+    "skill_md": "https://raw.githubusercontent.com/masharratt/claude-flow-novice/main/.claude/skills/cfn-transparency-middleware/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:59:24.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masharratt%2Fclaude-flow-novice/.claude%2Fskills%2Fcfn-transparency-middleware%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_7197b5b8c9bb"
+  }
+}

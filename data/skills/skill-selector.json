@@ -1,0 +1,35 @@
+{
+  "id": "skill-selector",
+  "name": "skill-selector",
+  "version": "1.0.0",
+  "summary": "Select the right skill for any task. Use when starting work, uncertain which skill applies, or to identify gaps in skill coverage.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sernstberger",
+    "github": "sernstberger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sernstberger/base-joy",
+    "skill_md": "https://raw.githubusercontent.com/sernstberger/base-joy/main/.claude/skills/skill-selector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.479Z",
+  "created_at": "2025-12-23T01:29:44.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sernstberger%2Fbase-joy/.claude%2Fskills%2Fskill-selector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_d106ae37e53a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "polyglot-rust-c",
+  "name": "polyglot-rust-c",
+  "version": "1.0.0",
+  "summary": "Guidance for creating polyglot source files that compile and run correctly as both Rust and C or C++. This skill applies when tasks require writing code that is valid in multipl...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "letta-ai",
+    "github": "letta-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/letta-ai/skills",
+    "skill_md": "https://raw.githubusercontent.com/letta-ai/skills/main/ai/benchmarks/letta/terminal-bench-2/trajectory-feedback/polyglot-rust-c/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:20.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/letta-ai%2Fskills/ai%2Fbenchmarks%2Fletta%2Fterminal-bench-2%2Ftrajectory-feedback%2Fpolyglot-rust-c%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_1f64bdedd943"
+  }
+}

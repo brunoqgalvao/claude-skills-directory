@@ -1,0 +1,35 @@
+{
+  "id": "job-apply",
+  "name": "job-apply",
+  "version": "1.0.0",
+  "summary": "Analyze job roles for fit, draft application question responses, find hiring managers, and create follow-up emails for RYLLC job applications. Focuses on climate tech IC product...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattforni",
+    "github": "mattforni"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattforni/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/mattforni/dotfiles/main/.claude/skills/job-apply/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T18:40:09.000Z",
+  "created_at": "2025-12-23T01:29:42.690Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattforni%2Fdotfiles/.claude%2Fskills%2Fjob-apply%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_d114ba1a2a2e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "urdf-robot-model",
+  "name": "urdf-robot-model",
+  "version": "1.0.0",
+  "summary": "Create robot models using URDF with proper links, joints, visual geometry, collision shapes, and physical properties",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mjunaidca",
+    "github": "mjunaidca"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mjunaidca/robolearn",
+    "skill_md": "https://raw.githubusercontent.com/mjunaidca/robolearn/main/.claude/skills/authoring/urdf-robot-model/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:11:21.209Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mjunaidca%2Frobolearn/.claude%2Fskills%2Fauthoring%2Furdf-robot-model%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_3f58a256903b"
+  }
+}

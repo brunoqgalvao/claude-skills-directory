@@ -1,0 +1,35 @@
+{
+  "id": "java-package-info",
+  "name": "java-package-info",
+  "version": "1.0.0",
+  "summary": "Generate package-info.java files for Java packages. Use when the user requests to add package documentation files to Java packages, create package-info.java files, or document J...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tis-abe-akira",
+    "github": "tis-abe-akira"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tis-abe-akira/mybatis-learning",
+    "skill_md": "https://raw.githubusercontent.com/tis-abe-akira/mybatis-learning/main/.claude/skills/java-package-info/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.563Z",
+  "created_at": "2025-12-23T01:28:38.640Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tis-abe-akira%2Fmybatis-learning/.claude%2Fskills%2Fjava-package-info%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_57616a194e8a"
+  }
+}

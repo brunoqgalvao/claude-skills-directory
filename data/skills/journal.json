@@ -1,0 +1,35 @@
+{
+  "id": "journal",
+  "name": "journal",
+  "version": "1.0.0",
+  "summary": "Generates a journal entry from git commit history - just say \"journal this\" and I'll read the commits and write it up",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpazaryna",
+    "github": "mpazaryna"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpazaryna/WhisperKit",
+    "skill_md": "https://raw.githubusercontent.com/mpazaryna/WhisperKit/main/.claude/skills/journal/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T19:01:00.000Z",
+  "created_at": "2025-12-22T14:57:42.440Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpazaryna%2FWhisperKit/.claude%2Fskills%2Fjournal%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_4027e553029f"
+  }
+}

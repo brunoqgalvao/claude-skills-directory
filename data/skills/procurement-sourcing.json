@@ -1,0 +1,35 @@
+{
+  "id": "procurement-sourcing",
+  "name": "procurement-sourcing",
+  "version": "1.0.0",
+  "summary": "SAP Ariba alternative - PR, PO, RFQ, vendor management, three-way match",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jgtolentino",
+    "github": "jgtolentino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jgtolentino/insightpulse-odoo",
+    "skill_md": "https://raw.githubusercontent.com/jgtolentino/insightpulse-odoo/main/docs/claude-code-skills/community/procurement-sourcing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T13:03:26.000Z",
+  "created_at": "2025-12-23T01:28:17.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jgtolentino%2Finsightpulse-odoo/docs%2Fclaude-code-skills%2Fcommunity%2Fprocurement-sourcing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_20c388324e77"
+  }
+}

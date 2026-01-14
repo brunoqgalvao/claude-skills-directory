@@ -1,0 +1,35 @@
+{
+  "id": "backup-sovereign",
+  "name": "backup-sovereign",
+  "version": "1.0.0",
+  "summary": "Create encrypted, verifiable backups with proof receipts (BLAKE3 + ROOT.txt) and mandatory restore drill. Uses age encryption for modern, simple UX. Designed for sovereign EU in...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vaultmesh-org",
+    "github": "vaultmesh-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vaultmesh-org/backup-sovereign",
+    "skill_md": "https://raw.githubusercontent.com/vaultmesh-org/backup-sovereign/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.532Z",
+  "created_at": "2025-12-23T01:29:00.133Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vaultmesh-org%2Fbackup-sovereign/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_e77d03c46919"
+  }
+}

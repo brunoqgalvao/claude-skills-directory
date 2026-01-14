@@ -1,0 +1,35 @@
+{
+  "id": "security-workflow",
+  "name": "security-workflow",
+  "version": "1.0.0",
+  "summary": "Use when creating backlog tasks from security findings, integrating security scans into workflow states, or managing security remediation tracking. Invoked for security workflow...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoley",
+    "github": "jpoley"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoley/flowspec",
+    "skill_md": "https://raw.githubusercontent.com/jpoley/flowspec/main/templates/skills/security-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:36.888Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoley%2Fflowspec/templates%2Fskills%2Fsecurity-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_55ef247e439a"
+  }
+}

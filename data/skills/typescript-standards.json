@@ -1,0 +1,36 @@
+{
+  "id": "typescript-standards",
+  "name": "typescript-standards",
+  "version": "1.0.0",
+  "summary": "Guide for creating TypeScript libraries using the typescript-library-template pattern and applying its standards to existing projects. Use when setting up new npm packages, stan...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jordanburke",
+    "github": "jordanburke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jordanburke/typescript-library-template",
+    "skill_md": "https://raw.githubusercontent.com/jordanburke/typescript-library-template/main/.claude/skills/typescript-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.757Z",
+  "created_at": "2025-12-22T20:15:44.011Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jordanburke%2Ftypescript-library-template/.claude%2Fskills%2Ftypescript-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.757Z",
+    "uniqueId": "sk_4f781e007e51"
+  }
+}

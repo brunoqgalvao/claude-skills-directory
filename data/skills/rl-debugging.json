@@ -1,0 +1,35 @@
+{
+  "id": "rl-debugging",
+  "name": "rl-debugging",
+  "version": "1.0.0",
+  "summary": "Systematic RL debugging - diagnose learning failures, common bugs, diagnosis trees",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tachyon-beep",
+    "github": "tachyon-beep"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tachyon-beep/hamlet",
+    "skill_md": "https://raw.githubusercontent.com/tachyon-beep/hamlet/main/.claude/skills/yzmir-deep-rl/skills/rl-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.847Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tachyon-beep%2Fhamlet/.claude%2Fskills%2Fyzmir-deep-rl%2Fskills%2Frl-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_f51ccf39ec07"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "worktree-user",
+  "name": "worktree-user",
+  "version": "1.0.0",
+  "summary": "You are a user of git worktrees.  You interact with git worktrees to carry out coding tasks.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "graphlessdb",
+    "github": "graphlessdb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/graphlessdb/graphlessdb",
+    "skill_md": "https://raw.githubusercontent.com/graphlessdb/graphlessdb/main/.claude/skills/worktree-user/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:43.335Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/graphlessdb%2Fgraphlessdb/.claude%2Fskills%2Fworktree-user%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_7a0d4654f879"
+  }
+}

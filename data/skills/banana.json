@@ -1,0 +1,35 @@
+{
+  "id": "banana",
+  "name": "banana",
+  "version": "1.0.0",
+  "summary": "Generate images using Google's Gemini image generation model with Deno. Use this skill when the user wants to create AI-generated images, perform image-to-image transformations,...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ghostmind-dev",
+    "github": "ghostmind-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ghostmind-dev/system",
+    "skill_md": "https://raw.githubusercontent.com/ghostmind-dev/system/main/plugins/utils/skills/banana/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:06:00.170Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ghostmind-dev%2Fsystem/plugins%2Futils%2Fskills%2Fbanana%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_84629666964f"
+  }
+}

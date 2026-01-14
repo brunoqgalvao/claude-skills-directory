@@ -1,0 +1,35 @@
+{
+  "id": "semantic-line-breaks",
+  "name": "semantic-line-breaks",
+  "version": "1.0.0",
+  "summary": "Provides formatting guidelines for prose. This skill's guidance is automatically applied when writing multi-line comments, commit messages, markdown, or other prose.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "abhinav",
+    "github": "abhinav"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/abhinav/home",
+    "skill_md": "https://raw.githubusercontent.com/abhinav/home/main/.claude/skills/semantic-line-breaks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T02:00:20.000Z",
+  "created_at": "2025-12-23T01:29:00.831Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/abhinav%2Fhome/.claude%2Fskills%2Fsemantic-line-breaks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_4921bf8b6957"
+  }
+}

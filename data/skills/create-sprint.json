@@ -1,0 +1,35 @@
+{
+  "id": "create-sprint",
+  "name": "create-sprint",
+  "version": "1.0.0",
+  "summary": "Sprint(Iteration) 목표 설정 및 시작. Use when (1) 새 Sprint 시작,\n(2) Sprint 계획 수립, (3) /SEMO:sprint create 커맨드.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/biz/management/skills/create-sprint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T09:52:48.000Z",
+  "created_at": "2025-12-22T16:53:40.453Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fbiz%2Fmanagement%2Fskills%2Fcreate-sprint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.833Z",
+    "uniqueId": "sk_f8ecaba49b38"
+  }
+}

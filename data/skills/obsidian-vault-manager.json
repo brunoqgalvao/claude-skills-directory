@@ -1,0 +1,35 @@
+{
+  "id": "obsidian-vault-manager",
+  "name": "obsidian-vault-manager",
+  "version": "1.0.0",
+  "summary": "Expert in managing Obsidian vaults using obsidian-cli workflows for reading, writing, searching, moving, and organizing notes while preserving wiki-link integrity and vault stru...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sjungling",
+    "github": "sjungling"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sjungling/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/sjungling/claude-plugins/main/plugins/technical-writer/skills/obsidian-vault-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:10:01.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sjungling%2Fclaude-plugins/plugins%2Ftechnical-writer%2Fskills%2Fobsidian-vault-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_4a4dd591d5ed"
+  }
+}

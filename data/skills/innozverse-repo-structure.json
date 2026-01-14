@@ -1,0 +1,35 @@
+{
+  "id": "innozverse-repo-structure",
+  "name": "innozverse-repo-structure",
+  "version": "1.0.0",
+  "summary": "Navigate and understand the innozverse repository structure, file organization, naming conventions, and module boundaries. Use when creating new files, organizing code, or under...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lastcow",
+    "github": "lastcow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lastcow/innozverse",
+    "skill_md": "https://raw.githubusercontent.com/lastcow/innozverse/main/.claude/skills/repo-structure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:15:36.424Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lastcow%2Finnozverse/.claude%2Fskills%2Frepo-structure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_e48c4b2e668e"
+  }
+}

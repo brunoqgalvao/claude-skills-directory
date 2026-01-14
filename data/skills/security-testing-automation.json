@@ -1,0 +1,37 @@
+{
+  "id": "security-testing-automation",
+  "name": "security-testing-automation",
+  "version": "1.0.0",
+  "summary": "Automate security testing, create reusable test suites, integrate with CI/CD, and measure security improvements over time.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-ai-red-teaming",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-ai-red-teaming/main/custom-plugin-ai-red-teaming/skills/security-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:23:06.000Z",
+  "created_at": "2025-12-23T01:28:34.572Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-ai-red-teaming/custom-plugin-ai-red-teaming%2Fskills%2Fsecurity-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_43e5d78d547d"
+  }
+}

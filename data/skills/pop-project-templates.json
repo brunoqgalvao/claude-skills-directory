@@ -1,0 +1,37 @@
+{
+  "id": "pop-project-templates",
+  "name": "pop-project-templates",
+  "version": "1.0.0",
+  "summary": "Curated project templates that guide feature-dev Phase 3 questions with research-backed technology choices. Provides standardized options for common project types (SaaS API, ML ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jrc1883",
+    "github": "jrc1883"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jrc1883/popkit-claude",
+    "skill_md": "https://raw.githubusercontent.com/jrc1883/popkit-claude/main/skills/pop-project-templates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T15:25:07.000Z",
+  "created_at": "2025-12-23T01:29:02.073Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jrc1883%2Fpopkit-claude/skills%2Fpop-project-templates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.529Z",
+    "uniqueId": "sk_1b838827269f"
+  }
+}

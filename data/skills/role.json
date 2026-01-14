@@ -1,0 +1,35 @@
+{
+  "id": "role",
+  "name": "role",
+  "version": "1.0.0",
+  "summary": "Load specific role(s) for focused work. Use when user says \"role [name]\" or wants to work with specific roles. Supports single or multiple roles.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshuacook",
+    "github": "joshuacook"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshuacook/motoko",
+    "skill_md": "https://raw.githubusercontent.com/joshuacook/motoko/main/.claude/skills/role/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.572Z",
+  "created_at": "2025-12-23T01:28:30.271Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshuacook%2Fmotoko/.claude%2Fskills%2Frole%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_e87e98ee796d"
+  }
+}

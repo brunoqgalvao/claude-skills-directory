@@ -1,0 +1,35 @@
+{
+  "id": "git-commit-helper",
+  "name": "git-commit-helper",
+  "version": "1.0.0",
+  "summary": "SEMPRE use esta skill quando usuario pedir para fazer commit, commitar, criar commit, ou escrever mensagem de commit. Analisa git diffs e gera mensagens seguindo Conventional Co...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "edneyreis999",
+    "github": "edneyreis999"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/edneyreis999/zord-project",
+    "skill_md": "https://raw.githubusercontent.com/edneyreis999/zord-project/main/service_financial-claude/skills/git-commit-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:20.523Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/edneyreis999%2Fzord-project/service_financial-claude%2Fskills%2Fgit-commit-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_232d16800e9a"
+  }
+}

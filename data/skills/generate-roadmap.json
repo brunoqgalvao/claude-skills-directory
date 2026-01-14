@@ -1,0 +1,35 @@
+{
+  "id": "generate-roadmap",
+  "name": "generate-roadmap",
+  "version": "1.0.0",
+  "summary": "Epic 기반 Roadmap 생성. Use when (1) 장기 일정 시각화,\n(2) /SAX:roadmap 커맨드, (3) 마일스톤 계획.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-pm",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-pm/main/skills/generate-roadmap/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:59.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-pm/skills%2Fgenerate-roadmap%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_d51e34afcfce"
+  }
+}

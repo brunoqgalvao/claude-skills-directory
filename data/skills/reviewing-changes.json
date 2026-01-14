@@ -1,0 +1,37 @@
+{
+  "id": "reviewing-changes",
+  "name": "reviewing-changes",
+  "version": "1.0.0",
+  "summary": "Performs comprehensive code reviews for Bitwarden iOS projects, verifying architecture compliance, style guidelines, compilation safety, test coverage, and security requirements...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bitwarden",
+    "github": "bitwarden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bitwarden/ios",
+    "skill_md": "https://raw.githubusercontent.com/bitwarden/ios/main/.claude/skills/reviewing-changes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T15:52:48.000Z",
+  "created_at": "2025-12-23T01:28:53.214Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bitwarden%2Fios/.claude%2Fskills%2Freviewing-changes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_2dd80f612d3d"
+  }
+}

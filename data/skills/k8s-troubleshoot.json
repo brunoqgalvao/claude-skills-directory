@@ -1,0 +1,37 @@
+{
+  "id": "k8s-troubleshoot",
+  "name": "k8s-troubleshoot",
+  "version": "1.0.0",
+  "summary": "Kubernetes troubleshooting toolkit - search pods by labels and execute diagnostic commands inside containers. Use when user reports service errors, exceptions, crashes, timeouts...",
+  "verticals": [
+    "support",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "XiaoMi",
+    "github": "XiaoMi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/XiaoMi/mone",
+    "skill_md": "https://raw.githubusercontent.com/XiaoMi/mone/main/jcommon/mcp/mcp-smartsre/.claude/skills/k8s-troubleshoot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.845Z",
+  "created_at": "2025-12-22T16:04:33.835Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/XiaoMi%2Fmone/jcommon%2Fmcp%2Fmcp-smartsre%2F.claude%2Fskills%2Fk8s-troubleshoot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_58a1b025d0f0"
+  }
+}

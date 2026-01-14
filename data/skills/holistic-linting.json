@@ -1,0 +1,37 @@
+{
+  "id": "holistic-linting",
+  "name": "holistic-linting",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the model needs to ensure code quality through comprehensive linting and formatting. It provides automatic linting workflows for orchestrators (fo...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jamie-BitFlight",
+    "github": "Jamie-BitFlight"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jamie-BitFlight/claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/holistic-linting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.882Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jamie-BitFlight%2Fclaude_skills/holistic-linting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_6e58ae1a1f54"
+  }
+}

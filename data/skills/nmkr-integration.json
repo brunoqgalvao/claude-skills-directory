@@ -1,0 +1,37 @@
+{
+  "id": "nmkr-integration",
+  "name": "nmkr-integration",
+  "version": "1.0.0",
+  "summary": "Expert NMKR Studio integration for Cardano NFT minting, sales, and webhooks in Mek Tycoon. Handles payment widget, API calls, webhook verification, and troubleshooting. Use when...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hugio55",
+    "github": "hugio55"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hugio55/mek-tycoon-react",
+    "skill_md": "https://raw.githubusercontent.com/hugio55/mek-tycoon-react/main/.claude/skills/nmkr-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:37.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hugio55%2Fmek-tycoon-react/.claude%2Fskills%2Fnmkr-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_7d24e2d69b84"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "write-hook",
+  "name": "write-hook",
+  "version": "1.0.0",
+  "summary": "Create Claude Code hooks for static analysis and code quality. Provides pre-built linting, formatting, and type-checking hooks. Use when setting up project quality gates, enforc...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wayne930242",
+    "github": "wayne930242"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wayne930242/Reflexive-Claude-Code",
+    "skill_md": "https://raw.githubusercontent.com/wayne930242/Reflexive-Claude-Code/main/skills/write-hook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:45.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wayne930242%2FReflexive-Claude-Code/skills%2Fwrite-hook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_d8db38dfb574"
+  }
+}

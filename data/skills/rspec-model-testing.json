@@ -1,0 +1,36 @@
+{
+  "id": "rspec-model-testing",
+  "name": "rspec-model-testing",
+  "version": "1.0.0",
+  "summary": "Write RSpec tests for ActiveRecord models including validations, associations, scopes, and model methods. Use when testing model behavior, data integrity rules, or creating mode...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nekorush14",
+    "github": "nekorush14"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nekorush14/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nekorush14/dotfiles/main/configs/claude/skills/rspec-model-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T07:06:50.000Z",
+  "created_at": "2025-12-22T20:14:40.119Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nekorush14%2Fdotfiles/configs%2Fclaude%2Fskills%2Frspec-model-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.757Z",
+    "uniqueId": "sk_25bd8b7c1dd3"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cs-sync",
+  "name": "cs-sync",
+  "version": "1.0.0",
+  "summary": "CS-GUIDE.md 업데이트 시 기존 CS 문서들을 새로운 가이드에 맞춰 동기화합니다. \"CS 동기화\", \"CS 싱크\", \"가이드 반영\" 요청 시 사용하세요.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "younwony",
+    "github": "younwony"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/younwony/TIL",
+    "skill_md": "https://raw.githubusercontent.com/younwony/TIL/main/.claude/skills/cs-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.527Z",
+  "created_at": "2025-12-23T01:29:03.949Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/younwony%2FTIL/.claude%2Fskills%2Fcs-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_37fc4a58c926"
+  }
+}

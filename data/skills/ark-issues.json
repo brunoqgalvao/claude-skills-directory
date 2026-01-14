@@ -1,0 +1,35 @@
+{
+  "id": "ark-issues",
+  "name": "ark-issues",
+  "version": "1.0.0",
+  "summary": "Search, create, and manage GitHub issues for the Ark project. Use when you need to find existing issues, create new ones, or update issue status.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dwmkerr",
+    "github": "dwmkerr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dwmkerr/ark-claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/dwmkerr/ark-claude-code-marketplace/main/ark/skills/issues/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.504Z",
+  "created_at": "2025-12-23T01:29:22.470Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dwmkerr%2Fark-claude-code-marketplace/ark%2Fskills%2Fissues%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_b9ce9a772b1a"
+  }
+}

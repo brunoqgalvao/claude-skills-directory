@@ -1,0 +1,37 @@
+{
+  "id": "fullstory-identify-users",
+  "name": "fullstory-identify-users",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for implementing Fullstory's User Identification API (setIdentity) across web applications. Teaches proper uid handling, property passing, re-identification ...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fullstorydev",
+    "github": "fullstorydev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fullstorydev/fs-skills",
+    "skill_md": "https://raw.githubusercontent.com/fullstorydev/fs-skills/main/core/fullstory-identify-users/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:17:58.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fullstorydev%2Ffs-skills/core%2Ffullstory-identify-users%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_8e4c9ff32572"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "structlog",
+  "name": "structlog",
+  "version": "1.0.0",
+  "summary": "Structured logging for Python applications with context support and powerful processors",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SlanyCukr",
+    "github": "SlanyCukr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SlanyCukr/riot-api-project",
+    "skill_md": "https://raw.githubusercontent.com/SlanyCukr/riot-api-project/main/.claude/skills/backend/structlog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T19:00:13.325Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SlanyCukr%2Friot-api-project/.claude%2Fskills%2Fbackend%2Fstructlog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_953205af8dd0"
+  }
+}

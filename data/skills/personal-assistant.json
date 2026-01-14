@@ -1,0 +1,36 @@
+{
+  "id": "personal-assistant",
+  "name": "personal-assistant",
+  "version": "1.0.0",
+  "summary": "This skill should be used whenever users request personal assistance tasks such as schedule management, task tracking, reminder setting, habit monitoring, productivity advice, t...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tmoody1973",
+    "github": "tmoody1973"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tmoody1973/hakivo-v2",
+    "skill_md": "https://raw.githubusercontent.com/tmoody1973/hakivo-v2/main/hakivo-api/.claude/skills/personal-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.447Z",
+  "created_at": "2025-12-22T23:16:48.879Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tmoody1973%2Fhakivo-v2/hakivo-api%2F.claude%2Fskills%2Fpersonal-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.447Z",
+    "uniqueId": "sk_a25ab9537701"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "velociraptor",
+  "name": "velociraptor",
+  "version": "1.0.0",
+  "summary": "Velociraptor DFIR integration for LimaCharlie. List available VQL artifacts, view artifact definitions, launch forensic collections on endpoints. Find raw collection data in Art...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "refractionPOINT",
+    "github": "refractionPOINT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/refractionPOINT/lc-ai",
+    "skill_md": "https://raw.githubusercontent.com/refractionPOINT/lc-ai/main/marketplace/plugins/lc-essentials/skills/velociraptor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:16.335Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/refractionPOINT%2Flc-ai/marketplace%2Fplugins%2Flc-essentials%2Fskills%2Fvelociraptor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_36758fc41ca6"
+  }
+}

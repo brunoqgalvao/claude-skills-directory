@@ -1,0 +1,37 @@
+{
+  "id": "fullstory-saas",
+  "name": "fullstory-saas",
+  "version": "1.0.0",
+  "summary": "Industry-specific guide for implementing Fullstory in B2B SaaS applications. Covers feature adoption tracking, onboarding optimization, churn prediction signals, multi-tenant pr...",
+  "verticals": [
+    "support",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fullstorydev",
+    "github": "fullstorydev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fullstorydev/fs-skills",
+    "skill_md": "https://raw.githubusercontent.com/fullstorydev/fs-skills/main/industry/fullstory-saas/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:24:52.679Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fullstorydev%2Ffs-skills/industry%2Ffullstory-saas%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_f51edee7dc56"
+  }
+}

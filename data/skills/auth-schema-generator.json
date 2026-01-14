@@ -1,0 +1,36 @@
+{
+  "id": "auth-schema-generator",
+  "name": "auth-schema-generator",
+  "version": "1.0.0",
+  "summary": "Generate Better Auth user schema configuration with custom additional fields for user profiles. Use when implementing authentication, user profiles, or extending user data model...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "muhammadhamza718",
+    "github": "muhammadhamza718"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/muhammadhamza718/Hackathon-Book",
+    "skill_md": "https://raw.githubusercontent.com/muhammadhamza718/Hackathon-Book/main/.claude/skills/auth-schema-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:54:47.954Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/muhammadhamza718%2FHackathon-Book/.claude%2Fskills%2Fauth-schema-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_2b459646fe09"
+  }
+}

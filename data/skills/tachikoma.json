@@ -1,0 +1,35 @@
+{
+  "id": "tachikoma",
+  "name": "tachikoma",
+  "version": "1.0.0",
+  "summary": "Developer Agent運用 - 実装担当。Worktree配下で作業、全ツール使用可。dev1-4が異なる専門性を持ち並列実装。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sumik5",
+    "github": "sumik5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sumik5/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sumik5/dotfiles/main/claude-code/skills/tachikoma/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:59:21.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sumik5%2Fdotfiles/claude-code%2Fskills%2Ftachikoma%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_a4e6bc196a7d"
+  }
+}

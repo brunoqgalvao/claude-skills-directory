@@ -1,0 +1,36 @@
+{
+  "id": "bot-developer",
+  "name": "bot-developer",
+  "version": "1.0.0",
+  "summary": "Expert bot developer specializing in Discord, Telegram, Slack automation with deep knowledge of rate limiting, state machines, event sourcing, moderation systems, and conversati...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "erichowens",
+    "github": "erichowens"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/erichowens/some_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/erichowens/some_claude_skills/main/.claude/skills/bot-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:55:01.891Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/erichowens%2Fsome_claude_skills/.claude%2Fskills%2Fbot-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_a540aaeb714f"
+  }
+}

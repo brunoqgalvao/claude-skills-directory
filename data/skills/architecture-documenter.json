@@ -1,0 +1,35 @@
+{
+  "id": "architecture-documenter",
+  "name": "architecture-documenter",
+  "version": "1.0.0",
+  "summary": "Maintain and update architecture documentation in docs/architecture/. Uses tool-based inspection first, falling back to CLI only when needed.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timbuchinger",
+    "github": "timbuchinger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timbuchinger/loadout",
+    "skill_md": "https://raw.githubusercontent.com/timbuchinger/loadout/main/skills/architecture-documenter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T04:44:51.000Z",
+  "created_at": "2025-12-22T16:51:42.148Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timbuchinger%2Floadout/skills%2Farchitecture-documenter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_7c8bcaa1a31e"
+  }
+}

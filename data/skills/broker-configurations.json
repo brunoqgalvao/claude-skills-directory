@@ -1,0 +1,35 @@
+{
+  "id": "broker-configurations",
+  "name": "broker-configurations",
+  "version": "1.0.0",
+  "summary": "Message broker setup patterns (Redis, RabbitMQ, SQS) for Celery including connection strings, SSL configuration, high availability, and production best practices. Use when confi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/celery/skills/broker-configurations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:04:15.436Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fcelery%2Fskills%2Fbroker-configurations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_bdf334909490"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "backend-test",
+  "name": "backend-test",
+  "version": "1.0.0",
+  "summary": "Generate backend tests (unit, integration, mocks). Auto-invoke when user says \"write test for\", \"add test\", \"test this\", or \"create test\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alekspetrov",
+    "github": "alekspetrov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alekspetrov/navigator",
+    "skill_md": "https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/backend-test/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:22:06.808Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alekspetrov%2Fnavigator/skills%2Fbackend-test%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_9fcc99f051c8"
+  }
+}

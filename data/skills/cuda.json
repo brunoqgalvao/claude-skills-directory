@@ -1,0 +1,36 @@
+{
+  "id": "cuda",
+  "name": "cuda",
+  "version": "1.0.0",
+  "summary": "CUDA kernel development, debugging, and performance optimization for Claude Code. Use when writing, debugging, or optimizing CUDA code, GPU kernels, or parallel algorithms. Cove...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "technillogue",
+    "github": "technillogue"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/technillogue/ptx-isa-markdown",
+    "skill_md": "https://raw.githubusercontent.com/technillogue/ptx-isa-markdown/main/cuda_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T06:08:49.000Z",
+  "created_at": "2025-12-22T20:17:16.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/technillogue%2Fptx-isa-markdown/cuda_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_733208922ace"
+  }
+}

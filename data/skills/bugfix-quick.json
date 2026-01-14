@@ -1,0 +1,36 @@
+{
+  "id": "bugfix-quick",
+  "name": "bugfix-quick",
+  "version": "1.0.0",
+  "summary": "Fast bug fixes with TDD. Lightweight: understand → test → fix → verify.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nguyenthienthanh",
+    "github": "nguyenthienthanh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nguyenthienthanh/aura-frog",
+    "skill_md": "https://raw.githubusercontent.com/nguyenthienthanh/aura-frog/main/aura-frog/skills/bugfix-quick/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nguyenthienthanh%2Faura-frog/aura-frog%2Fskills%2Fbugfix-quick%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_a310ea37ba71"
+  }
+}

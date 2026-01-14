@@ -1,0 +1,35 @@
+{
+  "id": "fastapi-code-review",
+  "name": "fastapi-code-review",
+  "version": "1.0.0",
+  "summary": "Reviews FastAPI code for routing patterns, dependency injection, validation, and async handlers. Use when reviewing FastAPI apps, checking APIRouter setup, Depends() usage, or r...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "existential-birds",
+    "github": "existential-birds"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/existential-birds/beagle",
+    "skill_md": "https://raw.githubusercontent.com/existential-birds/beagle/main/skills/fastapi-code-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:38.869Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/existential-birds%2Fbeagle/skills%2Ffastapi-code-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_53ab35a45995"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "home-assistant-diagnostics",
+  "name": "home-assistant-diagnostics",
+  "version": "1.0.0",
+  "summary": "Diagnose Home Assistant errors by connecting via SSH, checking Docker containers, reading logs, and identifying integration issues. Use when the user mentions Home Assistant err...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andrew-blake",
+    "github": "andrew-blake"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andrew-blake/melcloudhome",
+    "skill_md": "https://raw.githubusercontent.com/andrew-blake/melcloudhome/main/.claude/skills/home-assistant-diagnostics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:38.146Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andrew-blake%2Fmelcloudhome/.claude%2Fskills%2Fhome-assistant-diagnostics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_138a4c43df47"
+  }
+}

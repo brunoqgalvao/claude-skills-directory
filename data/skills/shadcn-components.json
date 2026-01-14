@@ -1,0 +1,36 @@
+{
+  "id": "shadcn-components",
+  "name": "shadcn-components",
+  "version": "1.0.0",
+  "summary": "Building shadcn/ui components with Radix UI primitives, CVA variants, accessibility, and MobX integration",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "griffnb",
+    "github": "griffnb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/griffnb/assettradingdesk-ui",
+    "skill_md": "https://raw.githubusercontent.com/griffnb/assettradingdesk-ui/main/.claude/skills/shadcn-components/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:31.372Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/griffnb%2Fassettradingdesk-ui/.claude%2Fskills%2Fshadcn-components%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_5b00380edff4"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "supabase-auth-db",
+  "name": "supabase-auth-db",
+  "version": "1.0.0",
+  "summary": "Implement or debug Supabase integration in this repo (Auth, SSR, DB access patterns, RLS expectations, env vars). Use when editing auth flows, server actions/route handlers that...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "w3bsuki",
+    "github": "w3bsuki"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/w3bsuki/amazong",
+    "skill_md": "https://raw.githubusercontent.com/w3bsuki/amazong/main/.github/skills/supabase-auth-db/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:06.850Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/w3bsuki%2Famazong/.github%2Fskills%2Fsupabase-auth-db%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_9d0169063b88"
+  }
+}

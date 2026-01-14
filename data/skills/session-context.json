@@ -1,0 +1,35 @@
+{
+  "id": "session-context",
+  "name": "session-context",
+  "version": "1.0.0",
+  "summary": "Gathers session context for project-analysis agent including git history, recent plans, and pending work detection.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brianclaridge",
+    "github": "brianclaridge"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brianclaridge/.claude",
+    "skill_md": "https://raw.githubusercontent.com/brianclaridge/.claude/main/skills/session-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:16.890Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brianclaridge%2F.claude/skills%2Fsession-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_3ebe19b25237"
+  }
+}

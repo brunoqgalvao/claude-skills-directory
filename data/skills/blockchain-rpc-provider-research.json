@@ -1,0 +1,36 @@
+{
+  "id": "blockchain-rpc-provider-research",
+  "name": "blockchain-rpc-provider-research",
+  "version": "1.0.0",
+  "summary": "Systematic workflow for researching and validating blockchain RPC providers. Use when evaluating RPC providers for historical data collection, rate limits, archive access, compu...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/gapless-network-data",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/gapless-network-data/main/.claude/skills/blockchain-rpc-provider-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:07:01.826Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fgapless-network-data/.claude%2Fskills%2Fblockchain-rpc-provider-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_c1990bde8eec"
+  }
+}

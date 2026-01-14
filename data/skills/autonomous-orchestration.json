@@ -1,0 +1,35 @@
+{
+  "id": "autonomous-orchestration",
+  "name": "autonomous-orchestration",
+  "version": "1.0.0",
+  "summary": "Use when user confirms autonomous operation across multiple issues. Orchestrates parallel workers, monitors progress, handles SLEEP/WAKE cycles, and works until scope is complete.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "troykelly",
+    "github": "troykelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/troykelly/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/troykelly/claude-skills/main/skills/autonomous-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.626Z",
+  "created_at": "2025-12-22T23:16:15.703Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/troykelly%2Fclaude-skills/skills%2Fautonomous-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.626Z",
+    "uniqueId": "sk_1ca826b36c6e"
+  }
+}

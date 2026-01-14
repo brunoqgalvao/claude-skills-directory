@@ -1,0 +1,35 @@
+{
+  "id": "graphiti-mcp-usage",
+  "name": "graphiti-mcp-usage",
+  "version": "1.0.0",
+  "summary": "Workflow for using Graphiti MCP tools to capture preferences, procedures, and facts consistently.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nirukk52",
+    "github": "nirukk52"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nirukk52/ScreenGraph",
+    "skill_md": "https://raw.githubusercontent.com/nirukk52/ScreenGraph/main/.claude-skills/graphiti-mcp-usage_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T05:50:35.000Z",
+  "created_at": "2025-12-23T01:29:17.643Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nirukk52%2FScreenGraph/.claude-skills%2Fgraphiti-mcp-usage_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_8cf33b8a3ea2"
+  }
+}

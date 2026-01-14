@@ -1,0 +1,37 @@
+{
+  "id": "github-workflow-authoring",
+  "name": "github-workflow-authoring",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating or improving GitHub Actions CI/CD workflows for Breenix kernel development. Use for authoring new test workflows, optimizing existing CI ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryanbreen",
+    "github": "ryanbreen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryanbreen/breenix",
+    "skill_md": "https://raw.githubusercontent.com/ryanbreen/breenix/main/breenix-github-workflow-authoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:59:17.541Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryanbreen%2Fbreenix/breenix-github-workflow-authoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_e3a8758739ae"
+  }
+}

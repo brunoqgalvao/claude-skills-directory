@@ -1,0 +1,35 @@
+{
+  "id": "daily-workflow",
+  "name": "daily-workflow",
+  "version": "1.0.0",
+  "summary": "Morning routine, midday check-in, and evening shutdown workflows. Structure daily planning, task review, and end-of-day reflection. Use for daily productivity routines.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ballred",
+    "github": "ballred"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ballred/obsidian-claude-pkm",
+    "skill_md": "https://raw.githubusercontent.com/ballred/obsidian-claude-pkm/main/vault-template/.claude/skills/daily-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:53.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ballred%2Fobsidian-claude-pkm/vault-template%2F.claude%2Fskills%2Fdaily-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_488b0ccae41a"
+  }
+}

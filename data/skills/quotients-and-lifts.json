@@ -1,0 +1,35 @@
+{
+  "id": "quotients-and-lifts",
+  "name": "quotients-and-lifts",
+  "version": "1.0.0",
+  "summary": "Work effectively with Lean 4 quotients in ComputationalPaths (Quot.lift/Quot.ind/Quot.sound), including nested lifts and common proof obligations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Arthur742Ramos",
+    "github": "Arthur742Ramos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Arthur742Ramos/ComputationalPathsLean",
+    "skill_md": "https://raw.githubusercontent.com/Arthur742Ramos/ComputationalPathsLean/main/.claude/skills/quotients-and-lifts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:31.680Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Arthur742Ramos%2FComputationalPathsLean/.claude%2Fskills%2Fquotients-and-lifts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_8f72ebdbdcbe"
+  }
+}

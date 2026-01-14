@@ -1,0 +1,35 @@
+{
+  "id": "youtube-to-knowledge-doc",
+  "name": "youtube-to-knowledge-doc",
+  "version": "1.0.0",
+  "summary": "Use when user provides YouTube URL and says \"document this\", \"create notes\", or \"save this video\". Automatically extracts transcript, determines folder placement, and generates ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tekliner",
+    "github": "tekliner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tekliner/improvado-agentic-frameworks-and-skills",
+    "skill_md": "https://raw.githubusercontent.com/tekliner/improvado-agentic-frameworks-and-skills/main/skills/youtube-to-knowledge-doc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T06:38:17.000Z",
+  "created_at": "2025-12-23T01:29:42.741Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tekliner%2Fimprovado-agentic-frameworks-and-skills/skills%2Fyoutube-to-knowledge-doc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_b51e679efe86"
+  }
+}

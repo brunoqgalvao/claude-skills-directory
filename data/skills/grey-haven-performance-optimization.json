@@ -1,0 +1,37 @@
+{
+  "id": "grey-haven-performance-optimization",
+  "name": "grey-haven-performance-optimization",
+  "version": "1.0.0",
+  "summary": "Comprehensive performance analysis and optimization for algorithms (O(n²)→O(n)), databases (N+1 queries, indexes), React (memoization, virtual lists), bundles (code splitting), ...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greyhaven-ai",
+    "github": "greyhaven-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greyhaven-ai/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/greyhaven-ai/claude-code-config/main/grey-haven-plugins/core/skills/performance-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T04:32:30.000Z",
+  "created_at": "2025-12-23T01:28:39.431Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greyhaven-ai%2Fclaude-code-config/grey-haven-plugins%2Fcore%2Fskills%2Fperformance-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_8e8a0b37ccb1"
+  }
+}

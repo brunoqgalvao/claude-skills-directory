@@ -1,0 +1,37 @@
+{
+  "id": "aws-sagemaker",
+  "name": "aws-sagemaker",
+  "version": "1.0.0",
+  "summary": "Amazon SageMaker for building, training, and deploying machine learning models. Use for SageMaker AI endpoints, model training, inference, MLOps, and AWS machine learning services.",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rish2jain",
+    "github": "rish2jain"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rish2jain/paperresearchagent",
+    "skill_md": "https://raw.githubusercontent.com/rish2jain/paperresearchagent/main/.claude/skills/aws-sagemaker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T17:58:09.000Z",
+  "created_at": "2025-12-23T01:29:44.738Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rish2jain%2Fpaperresearchagent/.claude%2Fskills%2Faws-sagemaker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_c14bbc8e15d5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "openwebf-host-performance-metrics",
+  "name": "openwebf-host-performance-metrics",
+  "version": "1.0.0",
+  "summary": "Instrument and diagnose WebF performance in Flutter (FP/FCP/LCP, dumpLoadingState, loading-state events). Use when the user mentions FP/FCP/LCP, dumpLoadingState, first render s...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "archview-ai",
+    "github": "archview-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/archview-ai/webf-plugin",
+    "skill_md": "https://raw.githubusercontent.com/archview-ai/webf-plugin/main/webf-plugin/skills/openwebf-host-performance-metrics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.574Z",
+  "created_at": "2025-12-23T01:28:27.658Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/archview-ai%2Fwebf-plugin/webf-plugin%2Fskills%2Fopenwebf-host-performance-metrics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_fea6c31d93d7"
+  }
+}

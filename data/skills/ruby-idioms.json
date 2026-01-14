@@ -1,0 +1,35 @@
+{
+  "id": "ruby-idioms",
+  "name": "ruby-idioms",
+  "version": "1.0.0",
+  "summary": "Ruby language patterns and idioms. Use when writing Ruby code, reviewing diffs, or discussing Ruby style. Covers naming, conditionals, method organization, and the \"fail loud\" p...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stephendolan",
+    "github": "stephendolan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stephendolan/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/stephendolan/dotfiles/main/claude/skills/ruby-idioms/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:51:06.854Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stephendolan%2Fdotfiles/claude%2Fskills%2Fruby-idioms%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_d927fbad04f8"
+  }
+}

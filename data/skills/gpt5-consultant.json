@@ -1,0 +1,37 @@
+{
+  "id": "gpt5-consultant",
+  "name": "gpt5-consultant",
+  "version": "1.0.0",
+  "summary": "Use this skill when stuck in circular debugging, when solutions aren't working despite multiple attempts, or when the user expresses frustration with lack of progress. Bring in ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nicknisi",
+    "github": "nicknisi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nicknisi/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nicknisi/dotfiles/main/home/.claude/skills/gpt5-consultant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-21T16:23:44.000Z",
+  "created_at": "2025-12-22T21:10:24.056Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nicknisi%2Fdotfiles/home%2F.claude%2Fskills%2Fgpt5-consultant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.458Z",
+    "uniqueId": "sk_76b3f44e8ba5"
+  }
+}

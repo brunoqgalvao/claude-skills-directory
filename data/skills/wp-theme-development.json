@@ -1,0 +1,36 @@
+{
+  "id": "wp-theme-development",
+  "name": "wp-theme-development",
+  "version": "1.0.0",
+  "summary": "WordPress theme development best practices and standards. Use when building new themes, creating custom templates, implementing theme features, working with template hierarchy, ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vapvarun",
+    "github": "vapvarun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vapvarun/claude-backup",
+    "skill_md": "https://raw.githubusercontent.com/vapvarun/claude-backup/main/skills/wp-theme-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:30.952Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vapvarun%2Fclaude-backup/skills%2Fwp-theme-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_4cb0cd9e4657"
+  }
+}

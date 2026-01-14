@@ -1,0 +1,35 @@
+{
+  "id": "propose-feature-design",
+  "name": "propose-feature-design",
+  "version": "1.0.0",
+  "summary": "Create or update feature technical design document with architecture and implementation guidance",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cbgbt",
+    "github": "cbgbt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cbgbt/bottlerocket-forest",
+    "skill_md": "https://raw.githubusercontent.com/cbgbt/bottlerocket-forest/main/skills/propose-feature-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:09.019Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cbgbt%2Fbottlerocket-forest/skills%2Fpropose-feature-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_59e82cd80304"
+  }
+}

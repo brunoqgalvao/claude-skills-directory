@@ -1,0 +1,36 @@
+{
+  "id": "markdown-tools",
+  "name": "markdown-tools",
+  "version": "1.0.0",
+  "summary": "Converts documents to markdown (PDFs, Word docs, PowerPoint, Confluence exports) with Windows/WSL path handling. Activates when converting .doc/.docx/PDF/PPTX files to markdown,...",
+  "description": "# Markdown Tools\n\nConvert documents to markdown with image extraction and Windows/WSL path handling.\n\n## Quick Start\n\n### Install markitdown with PDF Support\n\n```bash\n# IMPORTANT: Use [pdf] extra for PDF support\nuv tool install \"markitdown[pdf]\"\n\n# Or via pip\npip install \"markitdown[pdf]\"\n```\n\n### Basic Conversion\n\n```bash\nmarkitdown \"document.pdf\" -o output.md\n# Or redirect: markitdown \"document.pdf\" > output.md\n```\n\n## PDF Conversion with Images\n\nmarkitdown extracts text only. For PDFs with images, use this workflow:\n\n### Step 1: Convert Text\n\n```bash\nmarkitdown \"document.pdf\" -o output.md\n```\n\n### Step 2: Extract Images\n\n```bash\n# Create assets directory alongside the markdown\nmkdir -p assets\n\n# Extract images using PyMuPDF\nuv run --with pymupdf python scripts/extract_pdf_images.py \"document.pdf\" ./assets\n```\n\n### Step 3: Add Image References\n\nInsert image references in the markdown where needed:\n\n```markdown\n![Description](assets/img_page1_1.png)\n```\n\n### Step 4: Format Cleanup\n\nmarkitdown output often needs manual fixes:\n- Add proper heading levels (`#`, `##`, `###`)\n- Reconstruct tables in markdown format\n- Fix broken line breaks\n- Restore indentation structure\n\n## Path Conversion (Windows/WSL)\n\n```bash\n# Windows → WSL conversion\nC:\\Users\\name\\file.pdf → /mnt/c/Users/name/file.pdf\n\n# Use helper script\npython scripts/convert_path.py \"C:\\Users\\name\\Documents\\file.pdf\"\n```\n\n## Common Issues\n\n**\"dependencies needed to read .pdf files\"**\n```bash\n# Install with PDF support\nuv tool install \"markitdown[pdf]\" --force\n```\n\n**FontBBox warnings during PDF conversion**\n- These are harmless font parsing warnings, output is still correct\n\n**Images missing from output**\n- Use `scripts/extract_pdf_images.py` to extract images separately\n\n## Resources\n\n- `scripts/extract_pdf_images.py` - Extract images from PDF using PyMuPDF\n- `scripts/convert_path.py` - Windows to WSL path converter\n- `references/conversion-examples.md` - Detailed examples for batch operations",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daymade",
+    "github": "daymade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daymade/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/daymade/claude-code-skills/main/markdown-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 154,
+    "forks": 13,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T15:30:48Z",
+  "created_at": "2025-10-22T11:17:31Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/daymade/claude-code-skills/blob/main/markdown-tools/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_8676aafb2c66"
+  }
+}

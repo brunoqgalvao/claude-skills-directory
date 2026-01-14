@@ -1,0 +1,36 @@
+{
+  "id": "pm-planner",
+  "name": "pm-planner",
+  "version": "1.0.0",
+  "summary": "Use when creating, editing, or breaking down backlog tasks. Invoked for task management, feature decomposition, writing acceptance criteria, and ensuring tasks follow atomic, te...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoley",
+    "github": "jpoley"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoley/flowspec",
+    "skill_md": "https://raw.githubusercontent.com/jpoley/flowspec/main/.claude/skills/pm-planner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:01:43.760Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoley%2Fflowspec/.claude%2Fskills%2Fpm-planner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_98ffc4d429a8"
+  }
+}

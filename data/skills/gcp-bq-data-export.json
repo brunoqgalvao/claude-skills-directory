@@ -1,0 +1,35 @@
+{
+  "id": "gcp-bq-data-export",
+  "name": "gcp-bq-data-export",
+  "version": "1.0.0",
+  "summary": "Use when exporting BigQuery data to Cloud Storage, extracting tables to CSV, JSON, Avro, or Parquet formats, or using EXPORT DATA statements. Covers bq extract command, format o...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FunnelEnvy",
+    "github": "FunnelEnvy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FunnelEnvy/agents_webinar_demos",
+    "skill_md": "https://raw.githubusercontent.com/FunnelEnvy/agents_webinar_demos/main/.claude/skills/gcp-bq-data-export/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:10:47.717Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FunnelEnvy%2Fagents_webinar_demos/.claude%2Fskills%2Fgcp-bq-data-export%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_feadeb776459"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "test-plan-generator",
+  "name": "test-plan-generator",
+  "version": "1.0.0",
+  "summary": "Automatically generate comprehensive QA test plans when user mentions testing requirements, QA needs, or asks what should be tested. Analyzes code changes and features to create...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kanopi",
+    "github": "kanopi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kanopi/cms-cultivator",
+    "skill_md": "https://raw.githubusercontent.com/kanopi/cms-cultivator/main/skills/test-plan-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T13:43:14.000Z",
+  "created_at": "2025-12-22T14:57:10.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kanopi%2Fcms-cultivator/skills%2Ftest-plan-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_cdcc18e78074"
+  }
+}

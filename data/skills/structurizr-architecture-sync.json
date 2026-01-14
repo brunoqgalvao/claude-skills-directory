@@ -1,0 +1,35 @@
+{
+  "id": "structurizr-architecture-sync",
+  "name": "structurizr-architecture-sync",
+  "version": "1.0.0",
+  "summary": "Maintain Structurizr C4 architecture diagrams in sync with code changes. Use when adding components, modifying relationships, changing architectural boundaries, or implementing ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "VilnaCRM-Org",
+    "github": "VilnaCRM-Org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/VilnaCRM-Org/core-service",
+    "skill_md": "https://raw.githubusercontent.com/VilnaCRM-Org/core-service/main/.claude/skills/structurizr-architecture-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T20:12:01.000Z",
+  "created_at": "2025-12-22T20:08:40.953Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/VilnaCRM-Org%2Fcore-service/.claude%2Fskills%2Fstructurizr-architecture-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_b672604ee4df"
+  }
+}

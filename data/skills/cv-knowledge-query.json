@@ -1,0 +1,36 @@
+{
+  "id": "cv-knowledge-query",
+  "name": "cv-knowledge-query",
+  "version": "1.0.0",
+  "summary": "Query the CV knowledge base to find achievements, stories, and metrics by theme, skill, company, or keyword. Use when user asks about experience, wants to find specific accompli...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fotescodev",
+    "github": "fotescodev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fotescodev/portfolio",
+    "skill_md": "https://raw.githubusercontent.com/fotescodev/portfolio/main/.claude/skills/cv-knowledge-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:49.011Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fotescodev%2Fportfolio/.claude%2Fskills%2Fcv-knowledge-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_8a37327912cd"
+  }
+}

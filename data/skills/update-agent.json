@@ -1,0 +1,35 @@
+{
+  "id": "update-agent",
+  "name": "update-agent",
+  "version": "1.0.0",
+  "summary": "修改现有的agent",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "blueif16",
+    "github": "blueif16"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/blueif16/amazing-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/blueif16/amazing-claude-code-plugins/main/skillforge/skills/update-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:54.407Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/blueif16%2Famazing-claude-code-plugins/skillforge%2Fskills%2Fupdate-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_499d4b2729c7"
+  }
+}

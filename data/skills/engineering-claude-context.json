@@ -1,0 +1,37 @@
+{
+  "id": "engineering-claude-context",
+  "name": "engineering-claude-context",
+  "version": "1.0.0",
+  "summary": "Curates context, optimizes prompts with XML, and manages extended thinking for Anthropic Claude models. Use when building Claude-based agents, designing system prompts, or handl...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kylehughes",
+    "github": "kylehughes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kylehughes/knapsack",
+    "skill_md": "https://raw.githubusercontent.com/kylehughes/knapsack/main/dotfiles/link/claude/skills/engineering-claude-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:30:45.592Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kylehughes%2Fknapsack/dotfiles%2Flink%2Fclaude%2Fskills%2Fengineering-claude-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_2dd70be98840"
+  }
+}

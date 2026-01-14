@@ -1,0 +1,37 @@
+{
+  "id": "flox-services",
+  "name": "flox-services",
+  "version": "1.0.0",
+  "summary": "Running services and background processes in Flox environments. Use for service configuration, network services, logging, database setup, and service debugging.",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "flox",
+    "github": "flox"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/flox/flox-agentic",
+    "skill_md": "https://raw.githubusercontent.com/flox/flox-agentic/main/flox-plugin/skills/flox-services/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T21:20:04.000Z",
+  "created_at": "2025-12-22T18:15:13.315Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/flox%2Fflox-agentic/flox-plugin%2Fskills%2Fflox-services%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_af45cec91036"
+  }
+}

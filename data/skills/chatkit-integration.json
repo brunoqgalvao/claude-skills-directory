@@ -1,0 +1,35 @@
+{
+  "id": "chatkit-integration",
+  "name": "chatkit-integration",
+  "version": "1.0.0",
+  "summary": "Integrate OpenAI ChatKit framework with custom backend and AI agents. Handles ChatKit server implementation, React component integration, context injection, and conversation per...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mjunaidca",
+    "github": "mjunaidca"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mjunaidca/robolearn",
+    "skill_md": "https://raw.githubusercontent.com/mjunaidca/robolearn/main/.claude/skills/engineering/chatkit-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.478Z",
+  "created_at": "2025-12-23T01:29:46.185Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mjunaidca%2Frobolearn/.claude%2Fskills%2Fengineering%2Fchatkit-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_6c0420330a02"
+  }
+}

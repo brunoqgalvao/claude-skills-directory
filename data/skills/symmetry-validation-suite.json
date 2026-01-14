@@ -1,0 +1,37 @@
+{
+  "id": "symmetry-validation-suite",
+  "name": "symmetry-validation-suite",
+  "version": "1.0.0",
+  "summary": "Use when you need to empirically test whether hypothesized symmetries actually hold in your data or model. Invoke when user mentions testing invariance, validating equivariance,...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lyndonkl",
+    "github": "lyndonkl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lyndonkl/claude",
+    "skill_md": "https://raw.githubusercontent.com/lyndonkl/claude/main/skills/symmetry-validation-suite/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:09:11.000Z",
+  "created_at": "2025-12-23T01:29:20.627Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lyndonkl%2Fclaude/skills%2Fsymmetry-validation-suite%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_024120174cb8"
+  }
+}

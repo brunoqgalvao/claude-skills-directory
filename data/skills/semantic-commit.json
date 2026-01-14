@@ -1,0 +1,35 @@
+{
+  "id": "semantic-commit",
+  "name": "semantic-commit",
+  "version": "1.0.0",
+  "summary": "Git変更の論理的分割、Conventional Commitsメッセージ生成、プロジェクト規約検出。大きな変更を意味のある最小単位に分割してコミットする際に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "udus122",
+    "github": "udus122"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/udus122/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/udus122/dotfiles/main/.claude/skills/semantic-commit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T23:27:10.000Z",
+  "created_at": "2025-12-23T01:29:28.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/udus122%2Fdotfiles/.claude%2Fskills%2Fsemantic-commit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_fad03e1e29d0"
+  }
+}

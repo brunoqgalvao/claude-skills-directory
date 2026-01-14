@@ -1,0 +1,37 @@
+{
+  "id": "omnifocus",
+  "name": "omnifocus",
+  "version": "1.0.0",
+  "summary": "Manage OmniFocus projects and tasks programmatically. This skill should be used when creating, reading, updating, or listing OmniFocus tasks and projects. Supports all OmniFocus...",
+  "verticals": [
+    "support",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arlenagreer",
+    "github": "arlenagreer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arlenagreer/claude_configuration_docs",
+    "skill_md": "https://raw.githubusercontent.com/arlenagreer/claude_configuration_docs/main/skills/omnifocus/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:30.474Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arlenagreer%2Fclaude_configuration_docs/skills%2Fomnifocus%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_a81f97120537"
+  }
+}

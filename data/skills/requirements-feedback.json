@@ -1,0 +1,37 @@
+{
+  "id": "requirements-feedback",
+  "name": "requirements-feedback",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks about \"feedback loops\", \"iterate on requirements\", \"continuous documentation\", \"refine requirements\", \"update requirements\", \"requir...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sjnims",
+    "github": "sjnims"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sjnims/requirements-expert",
+    "skill_md": "https://raw.githubusercontent.com/sjnims/requirements-expert/main/plugins/requirements-expert/skills/requirements-feedback/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.741Z",
+  "created_at": "2025-12-22T21:10:40.392Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sjnims%2Frequirements-expert/plugins%2Frequirements-expert%2Fskills%2Frequirements-feedback%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_ebaaabeb31f0"
+  }
+}

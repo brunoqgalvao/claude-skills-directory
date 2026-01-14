@@ -1,0 +1,35 @@
+{
+  "id": "condense",
+  "name": "condense",
+  "version": "1.0.0",
+  "summary": "Deduplicate and consolidate CLAUDE.md memory files. Trigger when user says \"condense my CLAUDE.md files\", \"deduplicate CLAUDE.md\", \"clean up my memory files\", or \"consolidate my...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robbyt",
+    "github": "robbyt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robbyt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/robbyt/claude-skills/main/plugins/claude-md/skills/condense/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T15:21:11.000Z",
+  "created_at": "2025-12-23T01:28:44.801Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robbyt%2Fclaude-skills/plugins%2Fclaude-md%2Fskills%2Fcondense%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_0b75c74be5b8"
+  }
+}

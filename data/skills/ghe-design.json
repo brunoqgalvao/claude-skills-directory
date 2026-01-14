@@ -1,0 +1,35 @@
+{
+  "id": "ghe-design",
+  "name": "ghe-design",
+  "version": "1.0.0",
+  "summary": "Reference material for Athena when writing requirements. NOT a template - Athena writes requirements freely based on the domain. This skill provides guidance patterns that may b...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Emasoft",
+    "github": "Emasoft"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Emasoft/ghe-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Emasoft/ghe-marketplace/main/plugins/ghe/skills/ghe-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:21.997Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Emasoft%2Fghe-marketplace/plugins%2Fghe%2Fskills%2Fghe-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_87e95083a7f0"
+  }
+}

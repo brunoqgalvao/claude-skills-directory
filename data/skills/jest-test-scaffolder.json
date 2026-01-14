@@ -1,0 +1,35 @@
+{
+  "id": "jest-test-scaffolder",
+  "name": "jest-test-scaffolder",
+  "version": "1.0.0",
+  "summary": "Scaffolds Jest unit tests for React components and hooks. Use when creating tests for frontend components.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "okgoogle13",
+    "github": "okgoogle13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/okgoogle13/careercopilot",
+    "skill_md": "https://raw.githubusercontent.com/okgoogle13/careercopilot/main/.claude/skills/jest-test-scaffolder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.792Z",
+  "created_at": "2025-12-22T18:57:41.179Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/okgoogle13%2Fcareercopilot/.claude%2Fskills%2Fjest-test-scaffolder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.792Z",
+    "uniqueId": "sk_9f217cee531d"
+  }
+}

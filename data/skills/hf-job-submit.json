@@ -1,0 +1,35 @@
+{
+  "id": "hf-job-submit",
+  "name": "hf-job-submit",
+  "version": "1.0.0",
+  "summary": "Submit training jobs to Hugging Face cloud GPUs",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-cookbooks/main/105-hf-trainer/claude-hf-trainer/skills/hf-job-submit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:56:56.634Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-cookbooks/105-hf-trainer%2Fclaude-hf-trainer%2Fskills%2Fhf-job-submit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_fbba61bc74d9"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "orchestrating-tmux-claudes",
+  "name": "orchestrating-tmux-claudes",
+  "version": "1.0.0",
+  "summary": "Orchestrate multiple AI instances (clauded/codex CLIs) in tmux panes. Self-discovering coordinator with mandatory verification, synchronous monitoring, and auto-approval. Zero h...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dbmcco",
+    "github": "dbmcco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dbmcco/claude-agent-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/dbmcco/claude-agent-toolkit/main/skills/orchestrating-tmux-claudes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:57:46.813Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dbmcco%2Fclaude-agent-toolkit/skills%2Forchestrating-tmux-claudes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_7e1a44c9ec05"
+  }
+}

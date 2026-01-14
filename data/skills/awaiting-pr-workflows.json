@@ -1,0 +1,35 @@
+{
+  "id": "awaiting-pr-workflows",
+  "name": "awaiting-pr-workflows",
+  "version": "1.0.0",
+  "summary": "Use when needing to check PR workflow status, especially under time pressure or after pushing commits - ensures verification of unpushed changes, commit correlation, and patient...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "karlmdavis",
+    "github": "karlmdavis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/karlmdavis/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/karlmdavis/dotfiles/main/private_dot_claude/skills/awaiting-pr-workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T15:43:41.000Z",
+  "created_at": "2025-12-23T01:29:17.629Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/karlmdavis%2Fdotfiles/private_dot_claude%2Fskills%2Fawaiting-pr-workflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_b01a2eecfc41"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "coreml-optimizer",
+  "name": "coreml-optimizer",
+  "version": "1.0.0",
+  "summary": "Optimize CoreML models for iOS and macOS deployment. Covers quantization, palettization, pruning, Neural Engine targeting, compute unit selection, and performance profiling. Use...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ckorhonen",
+    "github": "ckorhonen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ckorhonen/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ckorhonen/claude-skills/main/skills/coreml-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.629Z",
+  "created_at": "2025-12-22T23:14:43.002Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ckorhonen%2Fclaude-skills/skills%2Fcoreml-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.629Z",
+    "uniqueId": "sk_0b7492fa522a"
+  }
+}

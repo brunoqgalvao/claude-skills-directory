@@ -1,0 +1,36 @@
+{
+  "id": "maternal-chat-helper",
+  "name": "maternal-chat-helper",
+  "version": "1.0.0",
+  "summary": "Auxilia desenvolvimento do chat NathIA no projeto Nossa Maternidade. Conhece a arquitetura de agentes IA (MaternalChatAgent, EmotionAnalysisAgent), MCP servers (Supabase, Google...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LionGab",
+    "github": "LionGab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LionGab/NossaMaternidade-2",
+    "skill_md": "https://raw.githubusercontent.com/LionGab/NossaMaternidade-2/main/.claude/skills/maternal-chat-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:53.183Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LionGab%2FNossaMaternidade-2/.claude%2Fskills%2Fmaternal-chat-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_b0f2d5bcc592"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "project-planning",
+  "name": "project-planning",
+  "version": "1.0.0",
+  "summary": "Create clear, step-by-step implementation plans with acceptance criteria. EXCLUSIVE to planner agent.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mgkyawzayya",
+    "github": "mgkyawzayya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mgkyawzayya/claude-code-usage-flow",
+    "skill_md": "https://raw.githubusercontent.com/mgkyawzayya/claude-code-usage-flow/main/.claude/skills/project-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T15:44:04.000Z",
+  "created_at": "2025-12-22T15:07:28.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mgkyawzayya%2Fclaude-code-usage-flow/.claude%2Fskills%2Fproject-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_2d4227e29885"
+  }
+}

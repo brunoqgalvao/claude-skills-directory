@@ -1,0 +1,36 @@
+{
+  "id": "tracking-crypto-portfolio",
+  "name": "tracking-crypto-portfolio",
+  "version": "1.0.0",
+  "summary": "Track multi-chain crypto portfolio with real-time valuations and performance metrics.\nUse when managing multi-chain crypto holdings.\nTrigger with phrases like \"track my portfoli...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/crypto/crypto-portfolio-tracker/skills/crypto-portfolio-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:38.942Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Fcrypto%2Fcrypto-portfolio-tracker%2Fskills%2Fcrypto-portfolio-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_7c1d6689c17b"
+  }
+}

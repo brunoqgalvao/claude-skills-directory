@@ -1,0 +1,37 @@
+{
+  "id": "database-patterns",
+  "name": "database-patterns",
+  "version": "1.0.0",
+  "summary": "SQLite veritabani yapisi ve CRUD pattern referansi. Use when working with database operations, queries, or understanding the data model.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "olivenet-iot",
+    "github": "olivenet-iot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/olivenet-iot/olivenet-social-bot",
+    "skill_md": "https://raw.githubusercontent.com/olivenet-iot/olivenet-social-bot/main/.claude/skills/database-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:27.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/olivenet-iot%2Folivenet-social-bot/.claude%2Fskills%2Fdatabase-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_c23ef16ed6a0"
+  }
+}

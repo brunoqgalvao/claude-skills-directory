@@ -1,0 +1,36 @@
+{
+  "id": "barqnet-backend",
+  "name": "barqnet-backend",
+  "version": "1.0.0",
+  "summary": "Specialized agent for BarqNet backend development. Focuses on Go backend API development, PostgreSQL database management, authentication systems, JWT tokens, OpenVPN integration...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LenoreWoW",
+    "github": "LenoreWoW"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LenoreWoW/ChameleonVpn",
+    "skill_md": "https://raw.githubusercontent.com/LenoreWoW/ChameleonVpn/main/.claude/skills/barqnet-backend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:58:11.381Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LenoreWoW%2FChameleonVpn/.claude%2Fskills%2Fbarqnet-backend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_57cc037130ef"
+  }
+}

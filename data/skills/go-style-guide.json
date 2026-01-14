@@ -1,0 +1,37 @@
+{
+  "id": "go-style-guide",
+  "name": "go-style-guide",
+  "version": "1.0.0",
+  "summary": "Review Go code for adherence to Go Style Guide. Use when the user requests a code review of completed work, pull requests, or feature branches in Go projects. Focuses on critica...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robbyt",
+    "github": "robbyt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robbyt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/robbyt/claude-skills/main/plugins/go-style-guide/skills/go-style-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.775Z",
+  "created_at": "2025-12-22T19:58:03.485Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robbyt%2Fclaude-skills/plugins%2Fgo-style-guide%2Fskills%2Fgo-style-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.775Z",
+    "uniqueId": "sk_8c30195a2a71"
+  }
+}

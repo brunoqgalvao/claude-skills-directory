@@ -1,0 +1,35 @@
+{
+  "id": "documenting-rust-code",
+  "name": "documenting-rust-code",
+  "version": "1.0.0",
+  "summary": "Rust documentation practices for HASH codebase. Use when writing doc comments, documenting functions/types/traits/modules, creating error sections, using intra-doc links, or fol...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hashintel",
+    "github": "hashintel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hashintel/hash",
+    "skill_md": "https://raw.githubusercontent.com/hashintel/hash/main/.claude/skills/documenting-rust-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:00:33.503Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hashintel%2Fhash/.claude%2Fskills%2Fdocumenting-rust-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_fb859fb6ca64"
+  }
+}

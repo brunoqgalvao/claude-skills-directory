@@ -1,0 +1,35 @@
+{
+  "id": "save-play-library",
+  "name": "save-play-library",
+  "version": "1.0.0",
+  "summary": "Use to catalog churn/expansion plays tied to specific signals, cohorts, and owners.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gtmagents",
+    "github": "gtmagents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gtmagents/gtm-agents",
+    "skill_md": "https://raw.githubusercontent.com/gtmagents/gtm-agents/main/plugins/customer-analytics/skills/save-play-library/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.573Z",
+  "created_at": "2025-12-23T01:28:28.897Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gtmagents%2Fgtm-agents/plugins%2Fcustomer-analytics%2Fskills%2Fsave-play-library%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_bab27ca48683"
+  }
+}

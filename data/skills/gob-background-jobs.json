@@ -1,0 +1,37 @@
+{
+  "id": "gob-background-jobs",
+  "name": "gob-background-jobs",
+  "version": "1.0.0",
+  "summary": "Use when user requests \"parallel\" commands, running multiple builds/tests simultaneously, or long-running tasks. Use `gob add` instead of parallel Bash tool calls - gob provides...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "caiokf",
+    "github": "caiokf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/caiokf/homepage",
+    "skill_md": "https://raw.githubusercontent.com/caiokf/homepage/main/.claude/skills/gob-background-jobs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.520Z",
+  "created_at": "2025-12-23T01:29:09.594Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/caiokf%2Fhomepage/.claude%2Fskills%2Fgob-background-jobs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.520Z",
+    "uniqueId": "sk_01f24673621f"
+  }
+}

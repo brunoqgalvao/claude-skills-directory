@@ -1,0 +1,37 @@
+{
+  "id": "cloudflare-python-workers",
+  "name": "cloudflare-python-workers",
+  "version": "1.0.0",
+  "summary": "Build Python APIs on Cloudflare Workers using pywrangler CLI and WorkerEntrypoint class pattern.\nIncludes Python Workflows for multi-step DAG automation with @step.do decorators...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jezweb",
+    "github": "jezweb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jezweb/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-python-workers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:38.666Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jezweb%2Fclaude-skills/skills%2Fcloudflare-python-workers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_52a6365785be"
+  }
+}

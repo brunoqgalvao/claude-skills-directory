@@ -1,0 +1,35 @@
+{
+  "id": "podcast-generator",
+  "name": "podcast-generator",
+  "version": "1.0.0",
+  "summary": "Converts blog posts into podcast audio using Kokoro TTS engine. Use this when asked to generate podcasts, create audio, or run TTS for blog posts.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cmwen",
+    "github": "cmwen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cmwen/cmwen.github.io",
+    "skill_md": "https://raw.githubusercontent.com/cmwen/cmwen.github.io/main/.github/skills/podcast-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:56:46.389Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cmwen%2Fcmwen.github.io/.github%2Fskills%2Fpodcast-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_fec6f8e0638c"
+  }
+}

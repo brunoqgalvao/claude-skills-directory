@@ -1,0 +1,36 @@
+{
+  "id": "ui-ux-audit",
+  "name": "ui-ux-audit",
+  "version": "1.0.0",
+  "summary": "Mandatory audit workflow for UI/UX changes that reads current state FIRST, checks for redundancy, respects clean design philosophy, and identifies genuine gaps before implementa...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WomenDefiningAI",
+    "github": "WomenDefiningAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WomenDefiningAI/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/WomenDefiningAI/claude-code-skills/main/skills/ui-ux-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:48.341Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WomenDefiningAI%2Fclaude-code-skills/skills%2Fui-ux-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_afd5c0d2e309"
+  }
+}

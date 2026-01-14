@@ -1,0 +1,36 @@
+{
+  "id": "csharp-code-style",
+  "name": "csharp-code-style",
+  "version": "1.0.0",
+  "summary": "C# code style and naming conventions based on POCU standards. Covers naming rules (mPascalCase for private, bBoolean prefix, EEnum prefix), code organization, C# 9.0 patterns. U...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "creator-hian",
+    "github": "creator-hian"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/creator-hian/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/creator-hian/claude-code-plugins/main/csharp-plugin/skills/csharp-code-style/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T13:24:28.000Z",
+  "created_at": "2025-12-22T19:57:45.518Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/creator-hian%2Fclaude-code-plugins/csharp-plugin%2Fskills%2Fcsharp-code-style%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_62c62c01cfd6"
+  }
+}

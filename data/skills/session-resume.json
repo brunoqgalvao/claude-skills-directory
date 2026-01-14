@@ -1,0 +1,35 @@
+{
+  "id": "session-resume",
+  "name": "session-resume",
+  "version": "1.0.0",
+  "summary": "Use at start of new session to restore context from STATUS.json - loads previous state, displays session type, shows what to continue working on. Calculates session type (Contin...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jrc1883",
+    "github": "jrc1883"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jrc1883/popkit-claude",
+    "skill_md": "https://raw.githubusercontent.com/jrc1883/popkit-claude/main/skills/pop-session-resume/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T15:25:07.000Z",
+  "created_at": "2025-12-23T01:28:52.376Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jrc1883%2Fpopkit-claude/skills%2Fpop-session-resume%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.546Z",
+    "uniqueId": "sk_19bf9ea8f249"
+  }
+}

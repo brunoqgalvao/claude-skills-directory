@@ -1,0 +1,35 @@
+{
+  "id": "reviewing-dotnet-code",
+  "name": "reviewing-dotnet-code",
+  "version": "1.0.0",
+  "summary": "Reviews and generates .NET/C# code following Microsoft conventions and modern patterns.\nUse when reviewing C# files, writing .NET code, refactoring, or when user mentions\n\"C#\", ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BrendanShields",
+    "github": "BrendanShields"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BrendanShields/spec-flow",
+    "skill_md": "https://raw.githubusercontent.com/BrendanShields/spec-flow/main/plugins/spec/skills/reviewing-dotnet-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:51.228Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BrendanShields%2Fspec-flow/plugins%2Fspec%2Fskills%2Freviewing-dotnet-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_d72f1015b350"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "session-analyzer",
+  "name": "session-analyzer",
+  "version": "1.0.0",
+  "summary": "Discovers and lists Claude Code session transcripts from .claude/logs/ for analysis. Use when the user wants to find available sessions, view session timelines, identify which s...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nitromike502",
+    "github": "nitromike502"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nitromike502/claude-code-config-manager",
+    "skill_md": "https://raw.githubusercontent.com/nitromike502/claude-code-config-manager/main/.claude/skills/session-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-18T03:11:00.000Z",
+  "created_at": "2025-12-22T19:01:03.623Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nitromike502%2Fclaude-code-config-manager/.claude%2Fskills%2Fsession-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_4b345cdd4c03"
+  }
+}

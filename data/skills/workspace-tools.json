@@ -1,0 +1,35 @@
+{
+  "id": "workspace-tools",
+  "name": "workspace-tools",
+  "version": "1.0.0",
+  "summary": "Utilities for inspecting the local project workspace (list files, spot large folders, and determine where to focus).",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pheuter",
+    "github": "pheuter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pheuter/claude-agent-desktop",
+    "skill_md": "https://raw.githubusercontent.com/pheuter/claude-agent-desktop/main/.claude/skills/workspace-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T18:09:23.000Z",
+  "created_at": "2025-12-23T01:28:20.433Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pheuter%2Fclaude-agent-desktop/.claude%2Fskills%2Fworkspace-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_c39907f81a46"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "codeinspect",
+  "name": "codeinspect",
+  "version": "1.0.0",
+  "summary": "Analyzes code to identify refactoring opportunities, code duplication, problematic data flows, architectural issues, and code smells. Generates a comprehensive refactoring recom...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "treasonx",
+    "github": "treasonx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/treasonx/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/treasonx/dotfiles/main/claude/skills/codeinspect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:29.825Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/treasonx%2Fdotfiles/claude%2Fskills%2Fcodeinspect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_12a227e1d952"
+  }
+}

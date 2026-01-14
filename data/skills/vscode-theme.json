@@ -1,0 +1,36 @@
+{
+  "id": "vscode-theme",
+  "name": "vscode-theme",
+  "version": "1.0.0",
+  "summary": "Generate VSCode color themes, package them as .vsix files, and install to VSCode. Use when creating custom VSCode themes, designing color schemes, or when the user mentions VSCo...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jugyo",
+    "github": "jugyo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jugyo/vscode-theme-skill",
+    "skill_md": "https://raw.githubusercontent.com/jugyo/vscode-theme-skill/main/skills/vscode-theme/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:05.305Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jugyo%2Fvscode-theme-skill/skills%2Fvscode-theme%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_a5eaff2bf209"
+  }
+}

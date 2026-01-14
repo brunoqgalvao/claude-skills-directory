@@ -1,0 +1,35 @@
+{
+  "id": "animate",
+  "name": "animate",
+  "version": "1.0.0",
+  "summary": "User interface animations and transitions. When Claude needs to create performant, tasteful animations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "toddmoy",
+    "github": "toddmoy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/toddmoy/protobox",
+    "skill_md": "https://raw.githubusercontent.com/toddmoy/protobox/main/.claude/skills/animate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:58:17.180Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/toddmoy%2Fprotobox/.claude%2Fskills%2Fanimate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_8076a62e585e"
+  }
+}

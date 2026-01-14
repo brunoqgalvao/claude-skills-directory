@@ -1,0 +1,36 @@
+{
+  "id": "skill-evaluator",
+  "name": "skill-evaluator",
+  "version": "1.0.0",
+  "summary": "Evaluates agent skills against Anthropic's best practices. Use when asked to review, evaluate, assess, or audit a skill for quality. Analyzes SKILL.md structure, naming conventi...",
+  "verticals": [
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gotalab",
+    "github": "gotalab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gotalab/skillport",
+    "skill_md": "https://raw.githubusercontent.com/gotalab/skillport/main/.agent/skills/skill-evaluator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:18.930Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gotalab%2Fskillport/.agent%2Fskills%2Fskill-evaluator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_525005476b01"
+  }
+}

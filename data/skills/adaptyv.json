@@ -1,0 +1,37 @@
+{
+  "id": "adaptyv",
+  "name": "adaptyv",
+  "version": "1.0.0",
+  "summary": "Cloud laboratory platform for automated protein testing and validation. Use when designing proteins and needing experimental validation including binding assays, expression test...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ricable",
+    "github": "ricable"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ricable/ultimate-ai-agent",
+    "skill_md": "https://raw.githubusercontent.com/ricable/ultimate-ai-agent/main/sources/ricable/claude-scientific-skills/scientific-skills/adaptyv/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.443Z",
+  "created_at": "2025-12-23T01:28:45.483Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ricable%2Fultimate-ai-agent/sources%2Fricable%2Fclaude-scientific-skills%2Fscientific-skills%2Fadaptyv%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.443Z",
+    "uniqueId": "sk_e9673af0e357"
+  }
+}

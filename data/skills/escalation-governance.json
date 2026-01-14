@@ -1,0 +1,36 @@
+{
+  "id": "escalation-governance",
+  "name": "escalation-governance",
+  "version": "1.0.0",
+  "summary": "Guide to deciding whether to escalate from a lower model (haiku/sonnet) to a higher one (sonnet/opus). Use when evaluating escalation decisions. Ensures escalation is justified ...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/abstract/skills/escalation-governance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.914Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fabstract%2Fskills%2Fescalation-governance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_48df6d2d2b89"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-gtr",
+  "name": "git-gtr",
+  "version": "1.0.0",
+  "summary": "Manage git worktrees with gtr. Use when working on multiple branches in parallel, especially with async agents.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aster-void",
+    "github": "aster-void"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aster-void/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/aster-void/dotfiles/main/modules/home/profile-dev/programs/claude-code/skills/git-gtr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T12:55:56.000Z",
+  "created_at": "2025-12-23T01:28:36.013Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aster-void%2Fdotfiles/modules%2Fhome%2Fprofile-dev%2Fprograms%2Fclaude-code%2Fskills%2Fgit-gtr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_4e30a1a277e2"
+  }
+}

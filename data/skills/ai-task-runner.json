@@ -1,0 +1,35 @@
+{
+  "id": "ai-task-runner",
+  "name": "ai-task-runner",
+  "version": "1.0.0",
+  "summary": "このスキルは外部のAI エージェントを実行するためのスキルです。\n実装や調査の作業を別のAIエージェントに委譲してください。\nあなた（メインのClaude）はユーザーとの対話・設計判断・方針決定に専念し、\n実際の調査や実装はこのスキルに任せることでトークンとコンテキストを大幅に節約できます。\n\n重要：実装や調査タスクが発生したら、詳細を考える前にまずこ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "UTohru",
+    "github": "UTohru"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/UTohru/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/UTohru/dotfiles/main/.config/ai-agent/claude-code-marketplace/plugins/well-worn-tools/skills/ai-task-runner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:46.000Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/UTohru%2Fdotfiles/.config%2Fai-agent%2Fclaude-code-marketplace%2Fplugins%2Fwell-worn-tools%2Fskills%2Fai-task-runner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_08dc21c8a5af"
+  }
+}

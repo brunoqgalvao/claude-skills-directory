@@ -1,0 +1,35 @@
+{
+  "id": "verdad-canon",
+  "name": "verdad-canon",
+  "version": "1.0.0",
+  "summary": "Validador de coherencia canónica - garantiza que afirmaciones sobre SyV son verdaderas en el universo, ejecutando cambios automáticos moderados para asegurar consistencia narrativa",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kodexArg",
+    "github": "kodexArg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kodexArg/syv",
+    "skill_md": "https://raw.githubusercontent.com/kodexArg/syv/main/src/content/docs/.claude/skills/crear-verdad/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:43.732Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kodexArg%2Fsyv/src%2Fcontent%2Fdocs%2F.claude%2Fskills%2Fcrear-verdad%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_5b3d3e0480d6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "clean-gone-branches",
+  "name": "clean-gone-branches",
+  "version": "1.0.0",
+  "summary": "Clean up local git branches marked as [gone] (deleted on remote but still exist locally). Use when the user wants to clean up stale branches, remove gone branches, or delete bra...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mixomat",
+    "github": "mixomat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mixomat/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mixomat/claude-plugins/main/plugins/git-workflow/skills/clean-gone-branches/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T17:51:53.000Z",
+  "created_at": "2025-12-23T01:28:48.199Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mixomat%2Fclaude-plugins/plugins%2Fgit-workflow%2Fskills%2Fclean-gone-branches%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_31c02272eb90"
+  }
+}

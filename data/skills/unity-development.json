@@ -1,0 +1,35 @@
+{
+  "id": "unity-development",
+  "name": "unity-development",
+  "version": "1.0.0",
+  "summary": "Unity C#コードの探索・編集・テスト実行のためのスキル。unity-mcp-serverツールを使用したシンボルベースのコード操作、VContainer DI、UniTask非同期処理、Fail-Fast原則に従った実装を支援。Unityスクリプト修正、コンポーネント追加、シーン操作、PlayModeテスト実行時に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "akiojin",
+    "github": "akiojin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/akiojin/skills",
+    "skill_md": "https://raw.githubusercontent.com/akiojin/skills/main/unity-development/skills/unity-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.827Z",
+  "created_at": "2025-12-22T16:59:21.972Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/akiojin%2Fskills/unity-development%2Fskills%2Funity-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.827Z",
+    "uniqueId": "sk_c9833d05b6d9"
+  }
+}

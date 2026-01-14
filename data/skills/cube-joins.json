@@ -1,0 +1,35 @@
+{
+  "id": "cube-joins",
+  "name": "cube-joins",
+  "version": "1.0.0",
+  "summary": "Configure cube relationships and joins in drizzle-cube, including belongsTo, hasOne, hasMany, and belongsToMany relationships. Use when connecting cubes, setting up relationship...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cliftonc",
+    "github": "cliftonc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cliftonc/drizzle-cube-skills",
+    "skill_md": "https://raw.githubusercontent.com/cliftonc/drizzle-cube-skills/main/cube-joins/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T04:47:11.000Z",
+  "created_at": "2025-12-23T01:29:36.919Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cliftonc%2Fdrizzle-cube-skills/cube-joins%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_656381779e2a"
+  }
+}

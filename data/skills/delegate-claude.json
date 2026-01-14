@@ -1,0 +1,35 @@
+{
+  "id": "delegate-claude",
+  "name": "delegate-claude",
+  "version": "1.0.0",
+  "summary": "Use this skill to delegate tasks to another Claude Code instance in a separate worktree. Use when you want to offload work to run in parallel without blocking the current session.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fohte",
+    "github": "fohte"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fohte/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/fohte/dotfiles/main/config/claude/skills/delegate-claude/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:36.070Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fohte%2Fdotfiles/config%2Fclaude%2Fskills%2Fdelegate-claude%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_234fe63a7a1e"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "qutip",
+  "name": "qutip",
+  "version": "1.0.0",
+  "summary": "Quantum mechanics simulations and analysis using QuTiP (Quantum Toolbox in Python). Use when working with quantum systems including: (1) quantum states (kets, bras, density matr...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "K-Dense-AI",
+    "github": "K-Dense-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "skill_md": "https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/qutip/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T12:46:17.000Z",
+  "created_at": "2025-12-23T01:29:23.204Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/K-Dense-AI%2Fclaude-scientific-skills/scientific-skills%2Fqutip%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.443Z",
+    "uniqueId": "sk_609e2b468cc2"
+  }
+}

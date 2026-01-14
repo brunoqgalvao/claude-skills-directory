@@ -1,0 +1,37 @@
+{
+  "id": "la-bench-procedure-generator",
+  "name": "la-bench-procedure-generator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when generating detailed experimental procedures from LA-Bench format JSONL files. It orchestrates multiple subagents to parse input data, fetch refere...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dakesan",
+    "github": "dakesan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dakesan/la-bench2025",
+    "skill_md": "https://raw.githubusercontent.com/dakesan/la-bench2025/main/.claude/skills/la-bench-procedure-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:57:54.502Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dakesan%2Fla-bench2025/.claude%2Fskills%2Fla-bench-procedure-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_86fdc228320a"
+  }
+}

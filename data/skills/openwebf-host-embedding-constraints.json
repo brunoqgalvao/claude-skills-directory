@@ -1,0 +1,35 @@
+{
+  "id": "openwebf-host-embedding-constraints",
+  "name": "openwebf-host-embedding-constraints",
+  "version": "1.0.0",
+  "summary": "Fix Flutter layout/constraint issues when embedding WebF (scrollables, unbounded constraints, viewport sizing). Use when the user mentions ListView/ScrollView, “unbounded height...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "archview-ai",
+    "github": "archview-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/archview-ai/webf-plugin",
+    "skill_md": "https://raw.githubusercontent.com/archview-ai/webf-plugin/main/webf-plugin/skills/openwebf-host-embedding-constraints/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T23:17:34.000Z",
+  "created_at": "2025-12-22T14:50:41.446Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/archview-ai%2Fwebf-plugin/webf-plugin%2Fskills%2Fopenwebf-host-embedding-constraints%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_cc398cc96fad"
+  }
+}

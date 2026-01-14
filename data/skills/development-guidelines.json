@@ -1,0 +1,36 @@
+{
+  "id": "development-guidelines",
+  "name": "development-guidelines",
+  "version": "1.0.0",
+  "summary": "チーム全体で統一された開発プロセスとコーディング規約を確立するための包括的なガイドとテンプレート。開発ガイドライン作成時、コード実装時に使用する。",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "GenerativeAgents",
+    "github": "GenerativeAgents"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/GenerativeAgents/training-claude-code-example",
+    "skill_md": "https://raw.githubusercontent.com/GenerativeAgents/training-claude-code-example/main/.claude/skills/development-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T22:48:30.000Z",
+  "created_at": "2025-12-22T17:00:20.612Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/GenerativeAgents%2Ftraining-claude-code-example/.claude%2Fskills%2Fdevelopment-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_08b983f14e80"
+  }
+}

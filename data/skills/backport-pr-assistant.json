@@ -1,0 +1,35 @@
+{
+  "id": "backport-pr-assistant",
+  "name": "backport-pr-assistant",
+  "version": "1.0.0",
+  "summary": "Help backport PRs to release branches using the backport CLI tool. Use when backporting changes that have merge conflicts requiring manual resolution.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cockroachdb",
+    "github": "cockroachdb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cockroachdb/cockroach",
+    "skill_md": "https://raw.githubusercontent.com/cockroachdb/cockroach/main/.claude/skills/backport-pr-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T20:01:32.000Z",
+  "created_at": "2025-12-23T01:28:40.112Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cockroachdb%2Fcockroach/.claude%2Fskills%2Fbackport-pr-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_8c247af62443"
+  }
+}

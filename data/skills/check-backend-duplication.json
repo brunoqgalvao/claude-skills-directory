@@ -1,0 +1,37 @@
+{
+  "id": "check-backend-duplication",
+  "name": "check-backend-duplication",
+  "version": "1.0.0",
+  "summary": "Check for duplicate backend implementation in core-backend. Use when:\n(1) Epic analysis detects backend work (API, server, database keywords),\n(2) draft-task-creator creates bac...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/biz/discovery/skills/check-backend-duplication/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:37.650Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fbiz%2Fdiscovery%2Fskills%2Fcheck-backend-duplication%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_618afc56afe8"
+  }
+}

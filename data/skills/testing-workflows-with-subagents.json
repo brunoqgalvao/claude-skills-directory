@@ -1,0 +1,36 @@
+{
+  "id": "testing-workflows-with-subagents",
+  "name": "testing-workflows-with-subagents",
+  "version": "1.0.0",
+  "summary": "Use when creating or editing commands, orchestrator prompts, or workflow documentation before deployment - applies RED-GREEN-REFACTOR to test instruction clarity by finding real...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arittr",
+    "github": "arittr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arittr/spectacular",
+    "skill_md": "https://raw.githubusercontent.com/arittr/spectacular/main/skills/testing-workflows-with-subagents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:18:02.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arittr%2Fspectacular/skills%2Ftesting-workflows-with-subagents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_d35622a3907c"
+  }
+}

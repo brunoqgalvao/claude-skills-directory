@@ -1,0 +1,36 @@
+{
+  "id": "docx-template-filling",
+  "name": "docx-template-filling",
+  "version": "1.0.0",
+  "summary": "Fill DOCX template forms preserving 100% original structure - logos, footers, styles, metadata. Zero-artifact insertion. Output indistinguishable from manual entry.",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "belumume",
+    "github": "belumume"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/belumume/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/belumume/claude-skills/main/web-desktop-exports/docx-template-filling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T18:06:34.000Z",
+  "created_at": "2025-12-23T01:29:17.750Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/belumume%2Fclaude-skills/web-desktop-exports%2Fdocx-template-filling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.510Z",
+    "uniqueId": "sk_d74f5a11c21b"
+  }
+}

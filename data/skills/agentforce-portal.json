@@ -1,0 +1,37 @@
+{
+  "id": "agentforce-portal",
+  "name": "agentforce-portal",
+  "version": "1.0.0",
+  "summary": "Guide for setting up and deploying a customizable Next.js agentforce portal that integrates with Salesforce AgentForce. Helps Solution Engineers create personalized demo sites t...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "flemx",
+    "github": "flemx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/flemx/agentforce-playground-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/flemx/agentforce-playground-claude-plugins/main/agentforce/skills/agentforce-portal/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.598Z",
+  "created_at": "2025-12-23T00:17:59.053Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/flemx%2Fagentforce-playground-claude-plugins/agentforce%2Fskills%2Fagentforce-portal%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.598Z",
+    "uniqueId": "sk_28a145c844cd"
+  }
+}

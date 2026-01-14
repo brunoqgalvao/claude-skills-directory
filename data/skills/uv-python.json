@@ -1,0 +1,35 @@
+{
+  "id": "uv-python",
+  "name": "uv-python",
+  "version": "1.0.0",
+  "summary": "Astral's uv tool for Python package management, script execution with inline dependencies (PEP 723), project creation, and virtual environment management. Use when working with ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kxzk",
+    "github": "kxzk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kxzk/dippin-dots",
+    "skill_md": "https://raw.githubusercontent.com/kxzk/dippin-dots/main/claude/skills/uv-python/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:44.130Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kxzk%2Fdippin-dots/claude%2Fskills%2Fuv-python%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_f52a938352bf"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clojure-review",
+  "name": "clojure-review",
+  "version": "1.0.0",
+  "summary": "Review Clojure and ClojureScript code changes for compliance with Metabase coding standards, style violations, and code quality issues. Use when reviewing pull requests or diffs...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metabase",
+    "github": "metabase"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metabase/metabase",
+    "skill_md": "https://raw.githubusercontent.com/metabase/metabase/main/.claude/skills/clojure-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T16:54:05.000Z",
+  "created_at": "2025-12-22T18:00:37.148Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metabase%2Fmetabase/.claude%2Fskills%2Fclojure-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_86b3f67846f1"
+  }
+}

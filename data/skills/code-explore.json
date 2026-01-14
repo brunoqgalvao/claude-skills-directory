@@ -1,0 +1,35 @@
+{
+  "id": "code-explore",
+  "name": "code-explore",
+  "version": "1.0.0",
+  "summary": "Systematic codebase exploration using tree-sitter AST analysis and repomix semantic search. Use when: (1) User asks to explore/analyze/find/search codebase, (2) Looking for func...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm-wylbur",
+    "github": "vm-wylbur"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm-wylbur/pb-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/vm-wylbur/pb-dotfiles/main/ai/claude-code/skills/code-explore/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T22:53:44.000Z",
+  "created_at": "2025-12-23T01:29:40.757Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm-wylbur%2Fpb-dotfiles/ai%2Fclaude-code%2Fskills%2Fcode-explore%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.484Z",
+    "uniqueId": "sk_1ac6a58b6038"
+  }
+}

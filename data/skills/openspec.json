@@ -1,0 +1,35 @@
+{
+  "id": "openspec",
+  "name": "openspec",
+  "version": "1.0.0",
+  "summary": "OpenSpec 中文版规范助手 - 规范驱动的 AI 编程开发，帮助初始化、创建提案、编写规格、校验格式并归档变更。触发条件： 当用户提及 openspec、规范文档、需求管理、变更提案、spec-driven development 等关键词时主动调用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ruan-cat",
+    "github": "ruan-cat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ruan-cat/monorepo",
+    "skill_md": "https://raw.githubusercontent.com/ruan-cat/monorepo/main/claude-code-marketplace/common-tools/skills/openspec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:09.554Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ruan-cat%2Fmonorepo/claude-code-marketplace%2Fcommon-tools%2Fskills%2Fopenspec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_21d5c3040532"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "python-quality-checker",
+  "name": "python-quality-checker",
+  "version": "1.0.0",
+  "summary": "Validate Python code quality with formatting, type checking, linting, and security analysis. Use for Python codebases to ensure PEP 8 compliance, type safety, and code quality.",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matteocervelli",
+    "github": "matteocervelli"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matteocervelli/llms",
+    "skill_md": "https://raw.githubusercontent.com/matteocervelli/llms/main/.claude/skills/python-quality-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.689Z",
+  "created_at": "2025-12-22T22:07:09.160Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matteocervelli%2Fllms/.claude%2Fskills%2Fpython-quality-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.689Z",
+    "uniqueId": "sk_a7358528d8d5"
+  }
+}

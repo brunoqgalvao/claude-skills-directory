@@ -1,0 +1,35 @@
+{
+  "id": "skill-maker",
+  "name": "skill-maker",
+  "version": "1.0.0",
+  "summary": "Use when creating new skills or editing existing skills - combines official skill authoring best practices with TDD methodology (test with subagents before deployment, iterate u...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xbklairith",
+    "github": "xbklairith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xbklairith/kisune",
+    "skill_md": "https://raw.githubusercontent.com/xbklairith/kisune/main/dev-workflow/skills/skill-maker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.614Z",
+  "created_at": "2025-12-22T23:20:50.885Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xbklairith%2Fkisune/dev-workflow%2Fskills%2Fskill-maker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.614Z",
+    "uniqueId": "sk_b61fa3c5703f"
+  }
+}

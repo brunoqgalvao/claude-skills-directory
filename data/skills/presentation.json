@@ -1,0 +1,35 @@
+{
+  "id": "presentation",
+  "name": "presentation",
+  "version": "1.0.0",
+  "summary": "비즈니스 모델을 기반으로 서비스 기획서 발표자료 스크립트를 작성합니다. 발표 자료 작성 시 사용하세요. (project)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cna-bootcamp",
+    "github": "cna-bootcamp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cna-bootcamp/aiguide",
+    "skill_md": "https://raw.githubusercontent.com/cna-bootcamp/aiguide/main/.claude/skills/13-presentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T06:57:37.000Z",
+  "created_at": "2025-12-23T01:28:38.008Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cna-bootcamp%2Faiguide/.claude%2Fskills%2F13-presentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_c255aef6c0ef"
+  }
+}

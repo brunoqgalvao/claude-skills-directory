@@ -1,0 +1,35 @@
+{
+  "id": "adr-roadmap",
+  "name": "adr-roadmap",
+  "version": "1.0.0",
+  "summary": "Generate phased implementation roadmaps from Architecture Decision Records",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vladm3105",
+    "github": "vladm3105"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vladm3105/aidoc-flow-framework",
+    "skill_md": "https://raw.githubusercontent.com/vladm3105/aidoc-flow-framework/main/.claude/skills/adr-roadmap/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:50.680Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vladm3105%2Faidoc-flow-framework/.claude%2Fskills%2Fadr-roadmap%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_b1b94a49e95d"
+  }
+}

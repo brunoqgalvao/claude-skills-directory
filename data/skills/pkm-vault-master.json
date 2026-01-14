@@ -1,0 +1,36 @@
+{
+  "id": "pkm-vault-master",
+  "name": "pkm-vault-master",
+  "version": "1.0.0",
+  "summary": "This skill should be used when organizing and structuring Personal Knowledge Management (PKM) vaults, particularly Obsidian vaults using the Linking Your Thinking (LYT) methodol...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oalanicolas",
+    "github": "oalanicolas"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oalanicolas/ia",
+    "skill_md": "https://raw.githubusercontent.com/oalanicolas/ia/main/Claude Code/skills/pkm-vault-master/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:01.747Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oalanicolas%2Fia/Claude%20Code%2Fskills%2Fpkm-vault-master%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_38e49f7d6532"
+  }
+}

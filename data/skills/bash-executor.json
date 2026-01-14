@@ -1,0 +1,35 @@
+{
+  "id": "bash-executor",
+  "name": "bash-executor",
+  "version": "1.0.0",
+  "summary": "Execute bash commands and scripts safely with validation, error handling, and security checks. Use for system operations, file management, text processing, and command-line tools.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gekko68",
+    "github": "gekko68"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gekko68/my-first-plugin",
+    "skill_md": "https://raw.githubusercontent.com/gekko68/my-first-plugin/main/skills/bash-executor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:40.853Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gekko68%2Fmy-first-plugin/skills%2Fbash-executor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_4c0550ab4306"
+  }
+}

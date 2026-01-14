@@ -1,0 +1,35 @@
+{
+  "id": "doc-organizer",
+  "name": "doc-organizer",
+  "version": "1.0.0",
+  "summary": "Apply Progressive Disclosure principles to organize large documentation projects. Restructure docs into hierarchical structure, reduce token usage by 95%+, and create README fil...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Tempuss",
+    "github": "Tempuss"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Tempuss/agent-hub",
+    "skill_md": "https://raw.githubusercontent.com/Tempuss/agent-hub/main/skills/doc-organizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:14:23.162Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Tempuss%2Fagent-hub/skills%2Fdoc-organizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_c6c840f23d2c"
+  }
+}

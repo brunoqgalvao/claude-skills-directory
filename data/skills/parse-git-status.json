@@ -1,0 +1,35 @@
+{
+  "id": "parse-git-status",
+  "name": "parse-git-status",
+  "version": "1.0.0",
+  "summary": "Parse git status output into structured data showing staged, modified, and untracked files. Use for pre-flight validation, checking clean working directory, or listing changed f...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maslennikov-ig",
+    "github": "maslennikov-ig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maslennikov-ig/claude-code-orchestrator-kit",
+    "skill_md": "https://raw.githubusercontent.com/maslennikov-ig/claude-code-orchestrator-kit/main/.claude/skills/parse-git-status/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T11:17:18.000Z",
+  "created_at": "2025-12-22T16:28:20.910Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maslennikov-ig%2Fclaude-code-orchestrator-kit/.claude%2Fskills%2Fparse-git-status%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_11c398404ebe"
+  }
+}

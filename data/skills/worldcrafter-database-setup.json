@@ -1,0 +1,37 @@
+{
+  "id": "worldcrafter-database-setup",
+  "name": "worldcrafter-database-setup",
+  "version": "1.0.0",
+  "summary": "Create database tables with Prisma ORM, migrations, and RLS policies. Use when user needs \"create database table\", \"add [model] model\", \"set up RLS\", \"create migration\", \"store ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldcrafter-v2",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldcrafter-v2/main/.claude/skills/worldcrafter-database-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:42.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldcrafter-v2/.claude%2Fskills%2Fworldcrafter-database-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_566c042ce888"
+  }
+}

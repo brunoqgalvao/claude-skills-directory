@@ -1,0 +1,36 @@
+{
+  "id": "ruby-community-style",
+  "name": "ruby-community-style",
+  "version": "1.0.0",
+  "summary": "Use this skill when writing Ruby code following the RuboCop Community Ruby Style Guide. Provides comprehensive guidance on idiomatic Ruby patterns, method design, class structur...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nhlongnguyen",
+    "github": "nhlongnguyen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nhlongnguyen/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nhlongnguyen/dotfiles/main/config/claude/skills/ruby-community-style/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:09.475Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nhlongnguyen%2Fdotfiles/config%2Fclaude%2Fskills%2Fruby-community-style%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_72499e53a70f"
+  }
+}

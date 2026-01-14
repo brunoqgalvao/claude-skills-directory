@@ -1,0 +1,36 @@
+{
+  "id": "typescript-library",
+  "name": "typescript-library",
+  "version": "1.0.0",
+  "summary": "Use when developing TypeScript npm packages including tsconfig, package.json exports, dual CJS/ESM builds, and publishing",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/vague",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/vague/main/.claude/skills/typescript-library/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:06:48.175Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fvague/.claude%2Fskills%2Ftypescript-library%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_5459966f14ae"
+  }
+}

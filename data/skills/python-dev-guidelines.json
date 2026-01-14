@@ -1,0 +1,37 @@
+{
+  "id": "python-dev-guidelines",
+  "name": "python-dev-guidelines",
+  "version": "1.0.0",
+  "summary": "Python development guidelines for modern Python projects. Use when creating Python modules, classes, functions, scripts, or working with type hints, pytest, packaging (pip/poetr...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NmBoyd",
+    "github": "NmBoyd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NmBoyd/claude_setup",
+    "skill_md": "https://raw.githubusercontent.com/NmBoyd/claude_setup/main/.claude/skills/python-dev-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T22:18:17.000Z",
+  "created_at": "2025-12-23T01:29:31.519Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NmBoyd%2Fclaude_setup/.claude%2Fskills%2Fpython-dev-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_7bf42314cefb"
+  }
+}

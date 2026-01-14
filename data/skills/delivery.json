@@ -1,0 +1,36 @@
+{
+  "id": "delivery",
+  "name": "delivery",
+  "version": "1.0.0",
+  "summary": "Delivery - CI/CD, testing, releases. Use when improving pipelines.",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SylphxAI",
+    "github": "SylphxAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SylphxAI/flow",
+    "skill_md": "https://raw.githubusercontent.com/SylphxAI/flow/main/.claude/skills/delivery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T14:36:16.000Z",
+  "created_at": "2025-12-23T01:28:29.640Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SylphxAI%2Fflow/.claude%2Fskills%2Fdelivery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_364a385ed1fd"
+  }
+}

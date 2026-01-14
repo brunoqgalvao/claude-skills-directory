@@ -1,0 +1,35 @@
+{
+  "id": "skill-enhancer",
+  "name": "skill-enhancer",
+  "version": "1.0.0",
+  "summary": "AI-powered enhancement of skill SKILL.md files. Use to transform basic templates into comprehensive, high-quality skill documentation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/agentic/code/addons/skill-factory/skills/skill-enhancer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:39.827Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/agentic%2Fcode%2Faddons%2Fskill-factory%2Fskills%2Fskill-enhancer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_ea182c72fa54"
+  }
+}

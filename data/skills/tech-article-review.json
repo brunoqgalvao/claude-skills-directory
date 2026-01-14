@@ -1,0 +1,35 @@
+{
+  "id": "tech-article-review",
+  "name": "tech-article-review",
+  "version": "1.0.0",
+  "summary": "技術記事の推敲と品質向上を支援するskill。記事を読み、構造・読みやすさ・技術的正確性・表現の明確さ・コードサンプルの品質をチェックし、改善提案を行う。ユーザーが「記事を推敲して」「記事をレビューして」「記事の品質をチェックして」などと依頼した際に使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yahsan2",
+    "github": "yahsan2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yahsan2/zenn",
+    "skill_md": "https://raw.githubusercontent.com/yahsan2/zenn/main/.claude/skills/tech-article-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:56:55.092Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yahsan2%2Fzenn/.claude%2Fskills%2Ftech-article-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_837332d0e308"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "prompt-enhancer",
+  "name": "prompt-enhancer",
+  "version": "1.0.0",
+  "summary": "Enhance and refine prompts for AI coding agents using Chain-of-Thought reasoning. Use when user asks to improve, optimize, rewrite, or enhance a prompt. Transforms vague request...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xrf-9527",
+    "github": "xrf-9527"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xrf-9527/prompt-enhancer",
+    "skill_md": "https://raw.githubusercontent.com/xrf-9527/prompt-enhancer/main/integrations/codex/skills/prompt-enhancer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:03:24.783Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xrf-9527%2Fprompt-enhancer/integrations%2Fcodex%2Fskills%2Fprompt-enhancer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_72efd377bb5b"
+  }
+}

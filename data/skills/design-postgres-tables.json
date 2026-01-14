@@ -1,0 +1,36 @@
+{
+  "id": "design-postgres-tables",
+  "name": "design-postgres-tables",
+  "version": "1.0.0",
+  "summary": "Comprehensive PostgreSQL-specific table design reference covering data types, indexing, constraints, performance patterns, and advanced features",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timescale",
+    "github": "timescale"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timescale/pg-aiguide",
+    "skill_md": "https://raw.githubusercontent.com/timescale/pg-aiguide/main/skills/design-postgres-tables/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.123Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timescale%2Fpg-aiguide/skills%2Fdesign-postgres-tables%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_9747d319e840"
+  }
+}

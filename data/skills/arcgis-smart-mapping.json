@@ -1,0 +1,35 @@
+{
+  "id": "arcgis-smart-mapping",
+  "name": "arcgis-smart-mapping",
+  "version": "1.0.0",
+  "summary": "Auto-generate renderers, calculate statistics, and create data-driven visualizations. Use for class breaks, unique values, heatmaps, dot density, relationship maps, and getting ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SaschaBrunnerCH",
+    "github": "SaschaBrunnerCH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context",
+    "skill_md": "https://raw.githubusercontent.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context/main/contexts/4.34/claude/arcgis-smart-mapping/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:38.266Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SaschaBrunnerCH%2Farcgis-maps-sdk-js-ai-context/contexts%2F4.34%2Fclaude%2Farcgis-smart-mapping%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_870046e46851"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "screenshot-to-code",
+  "name": "screenshot-to-code",
+  "version": "1.0.0",
+  "summary": "Convert UI screenshots into working HTML/CSS/React/Vue code. Detects design patterns, components, and generates responsive layouts. Use this when users provide screenshots of we...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gked2121",
+    "github": "gked2121"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gked2121/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gked2121/claude-skills/main/screenshot-to-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.462Z",
+  "created_at": "2025-12-22T17:04:55.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gked2121%2Fclaude-skills/screenshot-to-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.462Z",
+    "uniqueId": "sk_d9a74c65ab66"
+  }
+}

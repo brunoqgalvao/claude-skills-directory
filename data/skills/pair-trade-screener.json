@@ -1,0 +1,36 @@
+{
+  "id": "pair-trade-screener",
+  "name": "pair-trade-screener",
+  "version": "1.0.0",
+  "summary": "Statistical arbitrage tool for identifying and analyzing pair trading opportunities. Detects cointegrated stock pairs within sectors, analyzes spread behavior, calculates z-scor...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tradermonty",
+    "github": "tradermonty"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tradermonty/claude-trading-skills",
+    "skill_md": "https://raw.githubusercontent.com/tradermonty/claude-trading-skills/main/pair-trade-screener/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.629Z",
+  "created_at": "2025-12-22T23:14:43.669Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tradermonty%2Fclaude-trading-skills/pair-trade-screener%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.629Z",
+    "uniqueId": "sk_102aa4041f3b"
+  }
+}

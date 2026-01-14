@@ -1,0 +1,35 @@
+{
+  "id": "diff-review",
+  "name": "diff-review",
+  "version": "1.0.0",
+  "summary": "Get Gemini's code review of git changes after Claude makes edits. Trigger when user wants a second opinion on code changes (\"have Gemini review my changes\", \"get code review fro...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robbyt",
+    "github": "robbyt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robbyt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/robbyt/claude-skills/main/plugins/gemini/skills/diff-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:51.590Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robbyt%2Fclaude-skills/plugins%2Fgemini%2Fskills%2Fdiff-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_3267ce99e85a"
+  }
+}

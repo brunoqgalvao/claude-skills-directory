@@ -1,0 +1,35 @@
+{
+  "id": "historical-backfill-execution",
+  "name": "historical-backfill-execution",
+  "version": "1.0.0",
+  "summary": "Execute chunked historical blockchain data backfills using canonical 1-year pattern. Use when loading multi-year historical data, filling gaps in ClickHouse, or preventing OOM f...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/gapless-network-data",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/gapless-network-data/main/.claude/skills/historical-backfill-execution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.504Z",
+  "created_at": "2025-12-23T01:29:22.544Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fgapless-network-data/.claude%2Fskills%2Fhistorical-backfill-execution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_467cdb2679a5"
+  }
+}

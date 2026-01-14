@@ -1,0 +1,37 @@
+{
+  "id": "nushell-plugin-builder",
+  "name": "nushell-plugin-builder",
+  "version": "1.0.0",
+  "summary": "Guide for creating Nushell plugins in Rust using nu_plugin and nu_protocol crates. Use when users want to build custom Nushell commands, extend Nushell with new functionality, c...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "YPares",
+    "github": "YPares"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/YPares/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/YPares/agent-skills/main/nushell-plugin-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T18:41:59.000Z",
+  "created_at": "2025-12-23T01:29:27.360Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/YPares%2Fagent-skills/nushell-plugin-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_244230bda88a"
+  }
+}

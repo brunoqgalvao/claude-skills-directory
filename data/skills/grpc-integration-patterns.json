@@ -1,0 +1,37 @@
+{
+  "id": "grpc-integration-patterns",
+  "name": "grpc-integration-patterns",
+  "version": "1.0.0",
+  "summary": "gRPC integration patterns for ABP microservices including service implementation, client generation, multi-tenancy, and error handling. Use when: (1) implementing inter-service ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/grpc-integration-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.620Z",
+  "created_at": "2025-12-22T23:20:13.421Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fgrpc-integration-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.620Z",
+    "uniqueId": "sk_329148c7ce75"
+  }
+}

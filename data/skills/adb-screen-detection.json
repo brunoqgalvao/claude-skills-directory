@@ -1,0 +1,36 @@
+{
+  "id": "adb-screen-detection",
+  "name": "adb-screen-detection",
+  "version": "1.0.0",
+  "summary": "Screen understanding with OCR and template matching for Android device automation",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rdmptv",
+    "github": "rdmptv"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rdmptv/AdbAutoPlayer",
+    "skill_md": "https://raw.githubusercontent.com/rdmptv/AdbAutoPlayer/main/.claude/skills/backup_20251202_151852/adb_backup/adb-screen-detection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:30.011Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rdmptv%2FAdbAutoPlayer/.claude%2Fskills%2Fbackup_20251202_151852%2Fadb_backup%2Fadb-screen-detection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_1ba1b2845376"
+  }
+}

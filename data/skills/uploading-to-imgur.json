@@ -1,0 +1,37 @@
+{
+  "id": "uploading-to-imgur",
+  "name": "uploading-to-imgur",
+  "version": "1.0.0",
+  "summary": "Upload images to Imgur via API and get shareable links. Supports anonymous upload (Client ID) and authenticated upload (Access Token). Returns detailed JSON with image URLs, del...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ihainan",
+    "github": "ihainan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ihainan/claude-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/ihainan/claude-agent-skills/main/uploading-to-imgur/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:25.356Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ihainan%2Fclaude-agent-skills/uploading-to-imgur%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_41bdc0727c1e"
+  }
+}

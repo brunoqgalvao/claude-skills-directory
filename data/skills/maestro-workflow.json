@@ -1,0 +1,36 @@
+{
+  "id": "maestro-workflow",
+  "name": "maestro-workflow",
+  "version": "1.0.0",
+  "summary": "Multi-LLM orchestration implementing the 5-stage coding workflow: Example Analysis → Hypothesis → Implementation → Debug Loop → Recursive Improvement.\nBased on \"Towards a Scienc...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sionic-ai",
+    "github": "sionic-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sionic-ai/sionic-maestro-skills",
+    "skill_md": "https://raw.githubusercontent.com/sionic-ai/sionic-maestro-skills/main/.claude/skills/maestro-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:11.065Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sionic-ai%2Fsionic-maestro-skills/.claude%2Fskills%2Fmaestro-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_fb264572bcb4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "claude-sdk",
+  "name": "claude-sdk",
+  "version": "1.0.0",
+  "summary": "Expert knowledge of Claude Code SDK, API, tools (Read, Write, Edit, Bash, Grep, Glob), agent tools (Task, Skill, SlashCommand), plugin hooks, MCP integration, and Claude Code ex...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave-plugin-dev/skills/claude-sdk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T06:43:12.000Z",
+  "created_at": "2025-12-23T01:28:49.656Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave-plugin-dev%2Fskills%2Fclaude-sdk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_6ec56432389e"
+  }
+}

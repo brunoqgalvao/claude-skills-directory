@@ -1,0 +1,36 @@
+{
+  "id": "docker-compose-to-nixos",
+  "name": "docker-compose-to-nixos",
+  "version": "1.0.0",
+  "summary": "Converts Docker Compose configurations to NixOS modules using the dendritic pattern with Arion. Creates modules with system users, sops secrets, Arion docker-compose config, and...",
+  "verticals": [
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "binarin",
+    "github": "binarin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/binarin/nixos-config",
+    "skill_md": "https://raw.githubusercontent.com/binarin/nixos-config/main/files/claude-skills/docker-compose-to-nixos/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.688Z",
+  "created_at": "2025-12-22T22:07:31.110Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/binarin%2Fnixos-config/files%2Fclaude-skills%2Fdocker-compose-to-nixos%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.688Z",
+    "uniqueId": "sk_4ca83453dfb5"
+  }
+}

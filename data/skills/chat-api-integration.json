@@ -1,0 +1,36 @@
+{
+  "id": "chat-api-integration",
+  "name": "chat-api-integration",
+  "version": "1.0.0",
+  "summary": "Connect OpenAI Agents with MCP tools in FastAPI. Builds the chat endpoint, conversation models, and agent execution flow. Use when implementing the chat API for Phase 3.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maneeshanif",
+    "github": "maneeshanif"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maneeshanif/todo-spec-driven",
+    "skill_md": "https://raw.githubusercontent.com/maneeshanif/todo-spec-driven/main/.claude/skills/chat-api-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T18:35:38.000Z",
+  "created_at": "2025-12-20T05:20:56.244Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maneeshanif%2Ftodo-spec-driven/.claude%2Fskills%2Fchat-api-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_1df58d76f39c"
+  }
+}

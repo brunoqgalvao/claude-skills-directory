@@ -1,0 +1,37 @@
+{
+  "id": "chronicle-assistant-guide",
+  "name": "chronicle-assistant-guide",
+  "version": "1.0.0",
+  "summary": "Project-agnostic guidance for AI assistants using Chronicle. Provides search-first directives, best practices, and workflow patterns across ALL Chronicle-tracked projects. Works...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChandlerHardy",
+    "github": "ChandlerHardy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChandlerHardy/chronicle",
+    "skill_md": "https://raw.githubusercontent.com/ChandlerHardy/chronicle/main/chronicle-skills/chronicle-assistant-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:31.472Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChandlerHardy%2Fchronicle/chronicle-skills%2Fchronicle-assistant-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_d018f76a8dc6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "capacities",
+  "name": "capacities",
+  "version": "1.0.0",
+  "summary": "Interact with Capacities PKM app. Use when user wants to search their knowledge base, create notes/objects, save weblinks, or append to daily notes. Triggers on keywords like \"c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nothflare",
+    "github": "Nothflare"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nothflare/claude-skill-capacities",
+    "skill_md": "https://raw.githubusercontent.com/Nothflare/claude-skill-capacities/main/.claude/skills/capacities/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:58:09.598Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nothflare%2Fclaude-skill-capacities/.claude%2Fskills%2Fcapacities%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_0a823be8668d"
+  }
+}

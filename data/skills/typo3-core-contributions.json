@@ -1,0 +1,37 @@
+{
+  "id": "typo3-core-contributions",
+  "name": "typo3-core-contributions",
+  "version": "1.0.0",
+  "summary": "Guide contributors through the complete TYPO3 Core contribution workflow from account setup to patch submission for both code and documentation contributions. Use when working w...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "netresearch",
+    "github": "netresearch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/netresearch/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/netresearch/claude-code-marketplace/main/skills/typo3-core-contributions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:07.313Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/netresearch%2Fclaude-code-marketplace/skills%2Ftypo3-core-contributions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_e5ca3eef245d"
+  }
+}

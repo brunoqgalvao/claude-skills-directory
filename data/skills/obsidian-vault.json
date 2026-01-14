@@ -1,0 +1,37 @@
+{
+  "id": "obsidian-vault",
+  "name": "obsidian-vault",
+  "version": "1.0.0",
+  "summary": "Integrate with Obsidian vaults through the Local REST API plugin.\n\nUse this skill when the user wants to:\n- Search notes in their Obsidian vault\n- Read specific notes\n- Create n...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hancengiz",
+    "github": "hancengiz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hancengiz/cc-obsidian-vault-api-skill",
+    "skill_md": "https://raw.githubusercontent.com/hancengiz/cc-obsidian-vault-api-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.468Z",
+  "created_at": "2025-12-23T01:30:52.877Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hancengiz%2Fcc-obsidian-vault-api-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.468Z",
+    "uniqueId": "sk_93599fa4d002"
+  }
+}

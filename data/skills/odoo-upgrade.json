@@ -1,0 +1,36 @@
+{
+  "id": "odoo-upgrade",
+  "name": "odoo-upgrade",
+  "version": "1.0.0",
+  "summary": "Comprehensive Odoo ERP upgrade assistant for migrating modules between Odoo versions (14-19). Handles XML views, Python API changes, JavaScript/OWL components, theme SCSS variab...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ahmed-lakosha",
+    "github": "ahmed-lakosha"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ahmed-lakosha/odoo-upgrade-skill",
+    "skill_md": "https://raw.githubusercontent.com/ahmed-lakosha/odoo-upgrade-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:10:34.478Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ahmed-lakosha%2Fodoo-upgrade-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_359b0000929d"
+  }
+}

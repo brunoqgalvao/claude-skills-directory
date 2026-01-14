@@ -1,0 +1,35 @@
+{
+  "id": "setup-architect",
+  "name": "setup-architect",
+  "version": "1.0.0",
+  "summary": "Sets up and installs the AI Software Architect framework in a NEW project for the FIRST time. Use when the user requests \"Setup .architecture\", \"Setup ai-software-architect\", \"I...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codenamev",
+    "github": "codenamev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codenamev/ai-software-architect",
+    "skill_md": "https://raw.githubusercontent.com/codenamev/ai-software-architect/main/.claude/skills/setup-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T15:14:37.000Z",
+  "created_at": "2025-12-22T19:04:16.255Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codenamev%2Fai-software-architect/.claude%2Fskills%2Fsetup-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_8091c96711ad"
+  }
+}

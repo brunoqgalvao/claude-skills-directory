@@ -1,0 +1,35 @@
+{
+  "id": "using-cache-lifecycle-apis",
+  "name": "using-cache-lifecycle-apis",
+  "version": "1.0.0",
+  "summary": "Teach cache lifecycle APIs in Next.js 16 - cacheLife(), cacheTag(), updateTag(), refresh(), revalidateTag(). Use when managing cache invalidation, setting cache policies, or imp...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/nextjs-16/skills/using-cache-lifecycle-apis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.756Z",
+  "created_at": "2025-12-22T20:15:58.482Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/nextjs-16%2Fskills%2Fusing-cache-lifecycle-apis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_49420cbeb74e"
+  }
+}

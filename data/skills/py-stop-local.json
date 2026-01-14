@@ -1,0 +1,36 @@
+{
+  "id": "py-stop-local",
+  "name": "py-stop-local",
+  "version": "1.0.0",
+  "summary": "Stop local Flask server running on port 8080. Kills process cleanly using lsof or PID file. Use when stopping local Python development server.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asnar00",
+    "github": "asnar00"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asnar00/miso",
+    "skill_md": "https://raw.githubusercontent.com/asnar00/miso/main/.claude/skills/py-stop-local/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T15:02:23.000Z",
+  "created_at": "2025-12-23T01:28:56.432Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asnar00%2Fmiso/.claude%2Fskills%2Fpy-stop-local%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.537Z",
+    "uniqueId": "sk_63fdd1628fe6"
+  }
+}

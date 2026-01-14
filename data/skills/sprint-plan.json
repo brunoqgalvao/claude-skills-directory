@@ -1,0 +1,35 @@
+{
+  "id": "sprint-plan",
+  "name": "sprint-plan",
+  "version": "1.0.0",
+  "summary": "Create comprehensive sprint plans by intelligently grouping estimated user stories based on velocity, dependencies, priorities, and risk. This skill should be used during sprint...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adolfoaranaes12",
+    "github": "adolfoaranaes12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adolfoaranaes12/BMAD-ENHANCED",
+    "skill_md": "https://raw.githubusercontent.com/adolfoaranaes12/BMAD-ENHANCED/main/.claude/skills/sprint-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:15:53.244Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adolfoaranaes12%2FBMAD-ENHANCED/.claude%2Fskills%2Fsprint-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_3ef19812dbd2"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "skill-factory",
+  "name": "skill-factory",
+  "version": "1.0.0",
+  "summary": "Autonomous skill creation agent that analyzes requests, automatically selects the best creation method (documentation scraping via Skill_Seekers, manual TDD construction, or hyb...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tenequm",
+    "github": "tenequm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tenequm/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/tenequm/claude-plugins/main/skill-factory/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.708Z",
+  "created_at": "2025-12-22T21:18:22.865Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tenequm%2Fclaude-plugins/skill-factory%2Fskill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.708Z",
+    "uniqueId": "sk_511992569421"
+  }
+}

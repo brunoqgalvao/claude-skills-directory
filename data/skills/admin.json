@@ -1,0 +1,35 @@
+{
+  "id": "admin",
+  "name": "admin",
+  "version": "1.0.0",
+  "summary": "Context-aware development companion that knows your machine and adapts instructions accordingly.\nCentral orchestrator for system administration - reads device profile, routes to...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evolv3-ai",
+    "github": "evolv3-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evolv3-ai/vibe-skills",
+    "skill_md": "https://raw.githubusercontent.com/evolv3-ai/vibe-skills/main/skills/admin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:05:19.009Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evolv3-ai%2Fvibe-skills/skills%2Fadmin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_675dbf3d0865"
+  }
+}

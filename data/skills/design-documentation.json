@@ -1,0 +1,36 @@
+{
+  "id": "design-documentation",
+  "name": "design-documentation",
+  "version": "1.0.0",
+  "summary": "Transform approved requirements into comprehensive technical designs. Define system architecture, component interactions, data models, and interfaces to create a blueprint for i...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jasonkneen",
+    "github": "jasonkneen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jasonkneen/kiro",
+    "skill_md": "https://raw.githubusercontent.com/jasonkneen/kiro/main/skills/design-documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:55.664Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jasonkneen%2Fkiro/skills%2Fdesign-documentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_cec524b1bbf2"
+  }
+}

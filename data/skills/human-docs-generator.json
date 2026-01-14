@@ -1,0 +1,37 @@
+{
+  "id": "human-docs-generator",
+  "name": "human-docs-generator",
+  "version": "1.0.0",
+  "summary": "Generates role-based human documentation (<1000 words per doc). Use when epics complete, breaking changes occur, or architecture decisions are made. Creates guides for developer...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Brownbull",
+    "github": "Brownbull"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Brownbull/ayni_core",
+    "skill_md": "https://raw.githubusercontent.com/Brownbull/ayni_core/main/.claude/skills/human-docs-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T01:43:16.000Z",
+  "created_at": "2025-12-23T01:28:59.375Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Brownbull%2Fayni_core/.claude%2Fskills%2Fhuman-docs-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_f85026b75c5c"
+  }
+}

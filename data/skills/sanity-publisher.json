@@ -1,0 +1,37 @@
+{
+  "id": "sanity-publisher",
+  "name": "sanity-publisher",
+  "version": "1.0.0",
+  "summary": "Publishes blog content to Sanity CMS with dual-mode support (markdown output or API publishing)",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zura1555",
+    "github": "Zura1555"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zura1555/agents",
+    "skill_md": "https://raw.githubusercontent.com/Zura1555/agents/main/.claude/skills/sanity-publisher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:33.475Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zura1555%2Fagents/.claude%2Fskills%2Fsanity-publisher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_b3420a893f0a"
+  }
+}

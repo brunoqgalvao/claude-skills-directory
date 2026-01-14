@@ -1,0 +1,35 @@
+{
+  "id": "csv-data-visualizer",
+  "name": "csv-data-visualizer",
+  "version": "1.0.0",
+  "summary": "This skill should be used when working with CSV files to create interactive data visualizations, generate statistical plots, analyze data distributions, create dashboards, or pe...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ailabs-393",
+    "github": "ailabs-393"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ailabs-393/ai-labs-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ailabs-393/ai-labs-claude-skills/main/packages/skills/csv-data-visualizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.446Z",
+  "created_at": "2025-12-23T01:29:29.276Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ailabs-393%2Fai-labs-claude-skills/packages%2Fskills%2Fcsv-data-visualizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.446Z",
+    "uniqueId": "sk_63ff8a3dce98"
+  }
+}

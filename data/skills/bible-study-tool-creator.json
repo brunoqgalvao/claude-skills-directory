@@ -1,0 +1,37 @@
+{
+  "id": "bible-study-tool-creator",
+  "name": "bible-study-tool-creator",
+  "version": "1.0.0",
+  "summary": "Interactive skill for creating new bible study tools that generate AI-readable commentary data. Guides users through defining practical tasks, setting up proper file structure, ...",
+  "verticals": [
+    "hr",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "authenticwalk",
+    "github": "authenticwalk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/authenticwalk/mybibletoolbox-code",
+    "skill_md": "https://raw.githubusercontent.com/authenticwalk/mybibletoolbox-code/main/.claude/skills/bible-study-tool-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.743Z",
+  "created_at": "2025-12-22T21:09:22.441Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/authenticwalk%2Fmybibletoolbox-code/.claude%2Fskills%2Fbible-study-tool-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.743Z",
+    "uniqueId": "sk_d1263c0795ce"
+  }
+}

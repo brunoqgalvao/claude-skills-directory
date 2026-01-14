@@ -1,0 +1,35 @@
+{
+  "id": "owasp-top-10",
+  "name": "owasp-top-10",
+  "version": "1.0.0",
+  "summary": "OWASP Top 10 security vulnerabilities with detection and remediation patterns. Use when conducting security audits, implementing secure coding practices, or reviewing code for c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NickCrew",
+    "github": "NickCrew"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NickCrew/claude-cortex",
+    "skill_md": "https://raw.githubusercontent.com/NickCrew/claude-cortex/main/skills/owasp-top-10/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.626Z",
+  "created_at": "2025-12-22T23:16:23.788Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NickCrew%2Fclaude-cortex/skills%2Fowasp-top-10%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.626Z",
+    "uniqueId": "sk_e3bff5def8f1"
+  }
+}

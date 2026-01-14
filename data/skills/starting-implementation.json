@@ -1,0 +1,35 @@
+{
+  "id": "starting-implementation",
+  "name": "starting-implementation",
+  "version": "1.0.0",
+  "summary": "Provides guidelines for verifying implementation requirements before creating, editing, or deleting files, and taking appropriate actions when requirements are not met.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "t0k0sh1",
+    "github": "t0k0sh1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/t0k0sh1/chronia",
+    "skill_md": "https://raw.githubusercontent.com/t0k0sh1/chronia/main/.claude/skills/starting-implementation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:18.593Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/t0k0sh1%2Fchronia/.claude%2Fskills%2Fstarting-implementation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_8607a4d2a3b1"
+  }
+}

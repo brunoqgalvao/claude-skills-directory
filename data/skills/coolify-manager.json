@@ -1,0 +1,37 @@
+{
+  "id": "coolify-manager",
+  "name": "coolify-manager",
+  "version": "1.0.0",
+  "summary": "Manage and troubleshoot Coolify deployments using the official CLI and API. Use this skill when the user needs help with Coolify server management, WordPress troubleshooting on ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ajmcclary",
+    "github": "ajmcclary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ajmcclary/Coolify-Manager",
+    "skill_md": "https://raw.githubusercontent.com/ajmcclary/Coolify-Manager/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:02.087Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ajmcclary%2FCoolify-Manager/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_7aabebc06674"
+  }
+}

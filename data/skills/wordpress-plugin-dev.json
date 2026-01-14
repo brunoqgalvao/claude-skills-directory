@@ -1,0 +1,36 @@
+{
+  "id": "wordpress-plugin-dev",
+  "name": "wordpress-plugin-dev",
+  "version": "1.0.0",
+  "summary": "Professional WordPress plugin development best practices following our project structure with composer, namespaced classes, wp-env testing, WPCS compliance, and proper plugin ar...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alanef",
+    "github": "alanef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alanef/plugin-fullworks-support-diagnostics-project",
+    "skill_md": "https://raw.githubusercontent.com/alanef/plugin-fullworks-support-diagnostics-project/main/.claude/skills/wordpress-plugin-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:01:28.066Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alanef%2Fplugin-fullworks-support-diagnostics-project/.claude%2Fskills%2Fwordpress-plugin-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_b7a6e4768ec5"
+  }
+}

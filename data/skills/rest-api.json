@@ -1,0 +1,37 @@
+{
+  "id": "rest-api",
+  "name": "rest-api",
+  "version": "1.0.0",
+  "summary": "Provides REST API design and implementation standards. Ensures proper URL structure, pagination, sorting, filtering, and error handling patterns. Specializes in RESTful principl...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KubrickCode",
+    "github": "KubrickCode"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KubrickCode/workflow-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/KubrickCode/workflow-toolkit/main/.claude/skills/rest-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T11:01:46.000Z",
+  "created_at": "2025-12-23T01:28:32.254Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KubrickCode%2Fworkflow-toolkit/.claude%2Fskills%2Frest-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.454Z",
+    "uniqueId": "sk_e67fa60e908a"
+  }
+}

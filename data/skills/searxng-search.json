@@ -1,0 +1,35 @@
+{
+  "id": "searxng-search",
+  "name": "searxng-search",
+  "version": "1.0.0",
+  "summary": "Enhanced web and package repository search using local SearXNG instance",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "YPares",
+    "github": "YPares"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/YPares/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/YPares/agent-skills/main/searxng-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:08:15.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/YPares%2Fagent-skills/searxng-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_ec39e0d4dc3d"
+  }
+}

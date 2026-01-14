@@ -1,0 +1,35 @@
+{
+  "id": "onboarding-pm",
+  "name": "onboarding-pm",
+  "version": "1.0.0",
+  "summary": "PM 온보딩 실습 (SAX-PM 패키지 전용). Use when (1) sax-core/skill:onboarding에서 호출,\n(2) PM 온보딩 실습 필요 시. Task 관리 및 PM 워크플로우 체험.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-pm",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-pm/main/skills/onboarding-pm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:51:18.682Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-pm/skills%2Fonboarding-pm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_c570fb8940c5"
+  }
+}

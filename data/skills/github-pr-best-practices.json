@@ -1,0 +1,35 @@
+{
+  "id": "github-pr-best-practices",
+  "name": "github-pr-best-practices",
+  "version": "1.0.0",
+  "summary": "Best practices for creating GitHub pull requests including conventional commits, PR formatting, and multi-language support (en/ja). Use when creating PRs, writing PR description...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "1natsu172",
+    "github": "1natsu172"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/1natsu172/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/1natsu172/dotfiles/main/.claude/skills/github-pr-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T16:03:25.000Z",
+  "created_at": "2025-12-23T01:29:20.645Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/1natsu172%2Fdotfiles/.claude%2Fskills%2Fgithub-pr-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_2a5aed88dbc8"
+  }
+}

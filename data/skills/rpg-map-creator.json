@@ -1,0 +1,37 @@
+{
+  "id": "rpg-map-creator",
+  "name": "rpg-map-creator",
+  "version": "1.0.0",
+  "summary": "Expert RPG map creation and generation for tabletop and online games. Specializes in creating visual descriptions and optimized prompts for z-image turbo model in ComfyUI. Cover...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aa-parky",
+    "github": "aa-parky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aa-parky/pipemind-comfyui",
+    "skill_md": "https://raw.githubusercontent.com/aa-parky/pipemind-comfyui/main/.claude/skills/rpg-map-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.708Z",
+  "created_at": "2025-12-22T21:18:27.046Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aa-parky%2Fpipemind-comfyui/.claude%2Fskills%2Frpg-map-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.708Z",
+    "uniqueId": "sk_5b305fe08149"
+  }
+}

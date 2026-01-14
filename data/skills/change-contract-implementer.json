@@ -1,0 +1,37 @@
+{
+  "id": "change-contract-implementer",
+  "name": "change-contract-implementer",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"implement a contract\", \"implement contract X\", \"fulfill this change contract\", \"execute contract at path\", \"implement the defini...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "richhaase",
+    "github": "richhaase"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/richhaase/some-plugins",
+    "skill_md": "https://raw.githubusercontent.com/richhaase/some-plugins/main/change-contract-implementer/skills/change-contract-implementer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:25.548Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/richhaase%2Fsome-plugins/change-contract-implementer%2Fskills%2Fchange-contract-implementer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_0625f76f4fde"
+  }
+}

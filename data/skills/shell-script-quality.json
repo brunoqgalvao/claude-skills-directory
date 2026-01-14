@@ -1,0 +1,35 @@
+{
+  "id": "shell-script-quality",
+  "name": "shell-script-quality",
+  "version": "1.0.0",
+  "summary": "Lint and test shell scripts using ShellCheck and BATS. Use when checking bash/sh scripts for errors, writing shell script tests, fixing ShellCheck warnings, setting up CI/CD for...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-oit",
+    "github": "d-oit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-oit/gemini-search-plugin",
+    "skill_md": "https://raw.githubusercontent.com/d-oit/gemini-search-plugin/main/.claude/skills/shell-script-quality/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T18:05:37.000Z",
+  "created_at": "2025-12-23T01:28:52.328Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-oit%2Fgemini-search-plugin/.claude%2Fskills%2Fshell-script-quality%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.453Z",
+    "uniqueId": "sk_b767904114cb"
+  }
+}

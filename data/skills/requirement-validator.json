@@ -1,0 +1,35 @@
+{
+  "id": "requirement-validator",
+  "name": "requirement-validator",
+  "version": "1.0.0",
+  "summary": "Analyze task descriptions and requirements for completeness, clarity, and implementability. Use when evaluating if a task has sufficient detail to begin implementation or if cla...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EdanStarfire",
+    "github": "EdanStarfire"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EdanStarfire/claudecode_webui",
+    "skill_md": "https://raw.githubusercontent.com/EdanStarfire/claudecode_webui/main/.claude/skills/requirement-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T02:52:07.000Z",
+  "created_at": "2025-12-23T01:29:03.894Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EdanStarfire%2Fclaudecode_webui/.claude%2Fskills%2Frequirement-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_ffd299345988"
+  }
+}

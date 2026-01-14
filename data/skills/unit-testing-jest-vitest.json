@@ -1,0 +1,36 @@
+{
+  "id": "unit-testing-jest-vitest",
+  "name": "unit-testing-jest-vitest",
+  "version": "1.0.0",
+  "summary": "Master Jest and Vitest for unit testing with mocking, assertions, and coverage reporting.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/claude-plugin-ecosystem-hub",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/claude-plugin-ecosystem-hub/main/custom-plugin-frontend/skills/unit-testing-jest-vitest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T18:07:01.000Z",
+  "created_at": "2025-12-22T14:19:55.778Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fclaude-plugin-ecosystem-hub/custom-plugin-frontend%2Fskills%2Funit-testing-jest-vitest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_39659cf02c88"
+  }
+}

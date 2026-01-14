@@ -1,0 +1,36 @@
+{
+  "id": "core-principles",
+  "name": "core-principles",
+  "version": "1.0.0",
+  "summary": "Core principles and project structure for React 19 SPA development. Covers stack overview, project organization, agent execution rules, and authoritative sources. Use when plann...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claude-code/main/plugins/frontend/skills/core-principles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T13:01:01.000Z",
+  "created_at": "2025-12-23T01:28:57.143Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaude-code/plugins%2Ffrontend%2Fskills%2Fcore-principles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.534Z",
+    "uniqueId": "sk_e4dcb18339cd"
+  }
+}

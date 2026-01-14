@@ -1,0 +1,35 @@
+{
+  "id": "hello-world",
+  "name": "hello-world",
+  "version": "1.0.0",
+  "summary": "A simple greeting skill that demonstrates the Agent Skills specification. Use this skill when the user asks for a greeting, wants to say hello, or needs an example of how skills...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielscholl",
+    "github": "danielscholl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielscholl/agent-base-v2",
+    "skill_md": "https://raw.githubusercontent.com/danielscholl/agent-base-v2/main/src/_bundled_skills/hello-world/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:56:53.495Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielscholl%2Fagent-base-v2/src%2F_bundled_skills%2Fhello-world%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_a4779c31ba20"
+  }
+}

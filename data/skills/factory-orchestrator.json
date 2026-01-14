@@ -1,0 +1,35 @@
+{
+  "id": "factory-orchestrator",
+  "name": "factory-orchestrator",
+  "version": "1.0.0",
+  "summary": "오케스트레이터 에이전트 생성 및 전문가 조합 전문 스킬",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "m16khb",
+    "github": "m16khb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/m16khb/claude-integration",
+    "skill_md": "https://raw.githubusercontent.com/m16khb/claude-integration/main/plugins/automation-tools/skills/factory-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T14:49:03.000Z",
+  "created_at": "2025-12-22T15:51:01.125Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/m16khb%2Fclaude-integration/plugins%2Fautomation-tools%2Fskills%2Ffactory-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_fb3c82ceeb19"
+  }
+}

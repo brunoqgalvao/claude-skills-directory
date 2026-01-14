@@ -1,0 +1,35 @@
+{
+  "id": "mission-control",
+  "name": "mission-control",
+  "version": "1.0.0",
+  "summary": "Strategic orchestrator for PlasmaDX-Clean volumetric rendering project. Use when coordinating multi-agent tasks, making architectural decisions, enforcing quality gates, or mana...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "IvanMazeppa",
+    "github": "IvanMazeppa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/IvanMazeppa/PlasmaDXR",
+    "skill_md": "https://raw.githubusercontent.com/IvanMazeppa/PlasmaDXR/main/.claude/skills/mission-control/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.679Z",
+  "created_at": "2025-12-22T22:11:50.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/IvanMazeppa%2FPlasmaDXR/.claude%2Fskills%2Fmission-control%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.679Z",
+    "uniqueId": "sk_59a628ab899e"
+  }
+}

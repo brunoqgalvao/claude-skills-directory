@@ -1,0 +1,35 @@
+{
+  "id": "obsidian-vault-intelligence",
+  "name": "obsidian-vault-intelligence",
+  "version": "1.0.0",
+  "summary": "Use when working with Obsidian vault via MCP - covers effective search patterns, note operations, intelligent queries, and cross-reference strategies for knowledge extraction",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dbmcco",
+    "github": "dbmcco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dbmcco/claude-agent-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/dbmcco/claude-agent-toolkit/main/skills/obsidian-vault-intelligence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:18:02.548Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dbmcco%2Fclaude-agent-toolkit/skills%2Fobsidian-vault-intelligence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_52157637a0bb"
+  }
+}

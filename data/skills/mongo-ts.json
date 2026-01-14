@@ -1,0 +1,35 @@
+{
+  "id": "mongo-ts",
+  "name": "mongo-ts",
+  "version": "1.0.0",
+  "summary": "MongoDB CLI 工具。直接執行 MongoDB 查詢語法，支援 CRUD、聚合、索引管理。輸出格式：table/json/csv/yaml。預設唯讀模式保護生產環境。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vivalalova",
+    "github": "vivalalova"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vivalalova/mongo-ts",
+    "skill_md": "https://raw.githubusercontent.com/vivalalova/mongo-ts/main/plugins/skills/mongo-ts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:30:41.626Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vivalalova%2Fmongo-ts/plugins%2Fskills%2Fmongo-ts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_97e0dc5a04c8"
+  }
+}

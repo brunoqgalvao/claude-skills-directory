@@ -1,0 +1,36 @@
+{
+  "id": "jsgui3-activation-debug",
+  "name": "jsgui3-activation-debug",
+  "version": "1.0.0",
+  "summary": "Debug jsgui3 client-side activation issues. Use when SSR renders but clicks don’t work, this.dom.el is null, or you see Missing context.map_Controls / activation failures.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metabench",
+    "github": "metabench"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metabench/copilot-dl-news",
+    "skill_md": "https://raw.githubusercontent.com/metabench/copilot-dl-news/main/docs/agi/skills/jsgui3-activation-debug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:30.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metabench%2Fcopilot-dl-news/docs%2Fagi%2Fskills%2Fjsgui3-activation-debug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_e3f8ff7a811f"
+  }
+}

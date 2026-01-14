@@ -1,0 +1,36 @@
+{
+  "id": "deep-wiki",
+  "name": "deep-wiki",
+  "version": "1.0.0",
+  "summary": "Access AI-generated documentation and insights for GitHub repositories via DeepWiki. This skill should be used when exploring unfamiliar codebases, understanding repository arch...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "huynguyen03dev",
+    "github": "huynguyen03dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/huynguyen03dev/opencode-setup",
+    "skill_md": "https://raw.githubusercontent.com/huynguyen03dev/opencode-setup/main/skills/deep-wiki/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T09:54:55.000Z",
+  "created_at": "2025-12-22T15:08:30.294Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/huynguyen03dev%2Fopencode-setup/skills%2Fdeep-wiki%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_18f28e5d2d2b"
+  }
+}

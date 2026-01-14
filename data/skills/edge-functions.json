@@ -1,0 +1,35 @@
+{
+  "id": "edge-functions",
+  "name": "edge-functions",
+  "version": "1.0.0",
+  "summary": "Use when working with Deno edge functions, LLM integration, or embedding generation. Load for Deno.serve patterns, Zod request validation, OpenRouter LLM calls, and error handli...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "discountedcookie",
+    "github": "discountedcookie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/discountedcookie/10x-mapmaster",
+    "skill_md": "https://raw.githubusercontent.com/discountedcookie/10x-mapmaster/main/.opencode/skills/edge-functions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:19.012Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/discountedcookie%2F10x-mapmaster/.opencode%2Fskills%2Fedge-functions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_32d6c17bebdc"
+  }
+}

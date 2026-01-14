@@ -1,0 +1,35 @@
+{
+  "id": "npc-voice",
+  "name": "npc-voice",
+  "version": "1.0.0",
+  "summary": "Use ElevenLabs AI voices to bring NPCs and narration to life with realistic speech synthesis for D&D sessions, storytelling, and character voices",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SaharCarmel",
+    "github": "SaharCarmel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SaharCarmel/Sahar-claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/SaharCarmel/Sahar-claude-code-marketplace/main/plugins/dnd-dm/skills/npc-voice/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:17.540Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SaharCarmel%2FSahar-claude-code-marketplace/plugins%2Fdnd-dm%2Fskills%2Fnpc-voice%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_37d9cc4ffc43"
+  }
+}

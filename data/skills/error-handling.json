@@ -1,0 +1,35 @@
+{
+  "id": "error-handling",
+  "name": "error-handling",
+  "version": "1.0.0",
+  "summary": "일관된 에러 처리와 로깅 패턴을 구현합니다. API 에러 응답, 예외 처리, 에러 바운더리, 사용자 친화적 메시지 작성 시 사용하세요. 서버와 클라이언트 양쪽의 에러 처리 전략을 포함합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jhlee0409",
+    "github": "jhlee0409"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jhlee0409/sidedish",
+    "skill_md": "https://raw.githubusercontent.com/jhlee0409/sidedish/main/.claude/skills/error-handling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:11.108Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jhlee0409%2Fsidedish/.claude%2Fskills%2Ferror-handling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_a996de74d294"
+  }
+}

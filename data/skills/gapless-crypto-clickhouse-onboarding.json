@@ -1,0 +1,36 @@
+{
+  "id": "gapless-crypto-clickhouse-onboarding",
+  "name": "gapless-crypto-clickhouse-onboarding",
+  "version": "1.0.0",
+  "summary": "Onboard company employees (Claude Code CLI users) to use gapless-crypto-clickhouse package with ClickHouse Cloud credentials. Use when company employee needs to set up ClickHous...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/gapless-crypto-clickhouse",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/gapless-crypto-clickhouse/main/skills/gapless-crypto-clickhouse-onboarding/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T03:57:44.000Z",
+  "created_at": "2025-12-23T01:29:19.027Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fgapless-crypto-clickhouse/skills%2Fgapless-crypto-clickhouse-onboarding%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.509Z",
+    "uniqueId": "sk_375e3c917076"
+  }
+}

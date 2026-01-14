@@ -1,0 +1,35 @@
+{
+  "id": "appsec",
+  "name": "appsec",
+  "version": "1.0.0",
+  "summary": "Application security - OWASP, validation, secrets. Use when securing the app.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SylphxAI",
+    "github": "SylphxAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SylphxAI/flow",
+    "skill_md": "https://raw.githubusercontent.com/SylphxAI/flow/main/packages/flow/assets/skills/appsec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T00:14:17.000Z",
+  "created_at": "2025-12-22T14:57:45.370Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SylphxAI%2Fflow/packages%2Fflow%2Fassets%2Fskills%2Fappsec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_9a05791f5559"
+  }
+}

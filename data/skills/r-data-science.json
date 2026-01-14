@@ -1,0 +1,37 @@
+{
+  "id": "r-data-science",
+  "name": "r-data-science",
+  "version": "1.0.0",
+  "summary": "R programming for data analysis, visualization, and statistical workflows. Use when working with R scripts (.R), Quarto documents (.qmd), RMarkdown (.Rmd), or R projects. Covers...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "crypticpy",
+    "github": "crypticpy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/crypticpy/Rdata",
+    "skill_md": "https://raw.githubusercontent.com/crypticpy/Rdata/main/.claude/skills/r-data-science/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:11:09.122Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/crypticpy%2FRdata/.claude%2Fskills%2Fr-data-science%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_11cd2c872ee3"
+  }
+}

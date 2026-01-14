@@ -1,0 +1,35 @@
+{
+  "id": "bear-put-spread",
+  "name": "bear-put-spread",
+  "version": "1.0.0",
+  "summary": "Analyzes bear-put-spread debit spreads for bearish directional plays with defined risk. Requires numpy>=1.24.0, pandas>=2.0.0, matplotlib>=3.7.0, scipy>=1.10.0. Use when expecti...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "keith-mvs",
+    "github": "keith-mvs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/keith-mvs/ordinis",
+    "skill_md": "https://raw.githubusercontent.com/keith-mvs/ordinis/main/docs/knowledge-base/domains/options/strategy-implementations/bear-put-spread/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.753Z",
+  "created_at": "2025-12-22T20:57:45.862Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/keith-mvs%2Fordinis/docs%2Fknowledge-base%2Fdomains%2Foptions%2Fstrategy-implementations%2Fbear-put-spread%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.753Z",
+    "uniqueId": "sk_554b02d75fa4"
+  }
+}

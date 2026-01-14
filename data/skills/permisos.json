@@ -1,0 +1,35 @@
+{
+  "id": "permisos",
+  "name": "permisos",
+  "version": "1.0.0",
+  "summary": "Especialista en Sistema PERMISOS SyV - validación, marcado y coherencia de alertas de información sensible",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kodexArg",
+    "github": "kodexArg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kodexArg/syv",
+    "skill_md": "https://raw.githubusercontent.com/kodexArg/syv/main/src/content/docs/.claude/skills/permisos/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T04:39:41.000Z",
+  "created_at": "2025-12-23T01:29:18.345Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kodexArg%2Fsyv/src%2Fcontent%2Fdocs%2F.claude%2Fskills%2Fpermisos%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.510Z",
+    "uniqueId": "sk_065be8500a65"
+  }
+}

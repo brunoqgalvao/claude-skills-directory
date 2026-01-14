@@ -1,0 +1,35 @@
+{
+  "id": "sync-openapi",
+  "name": "sync-openapi",
+  "version": "1.0.0",
+  "summary": "core-interface OpenAPI 스펙 조회 및 동기화. Use when:\n(1) API 구현 전 스펙 확인, (2) Controller 작성 시 DTO 확인,\n(3) Response 형식 확인, (4) v0.4.x CODE 단계.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-backend",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-backend/main/skills/sync-openapi/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:44.829Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-backend/skills%2Fsync-openapi%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_459719278794"
+  }
+}

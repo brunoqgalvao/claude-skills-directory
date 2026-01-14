@@ -1,0 +1,35 @@
+{
+  "id": "mockup-extraction",
+  "name": "mockup-extraction",
+  "version": "1.0.0",
+  "summary": "Extract reusable components from approved HTML mockups during implementation. Identifies patterns, maps CSS to Tailwind, and populates prototype-patterns.md for visual fidelity....",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusgoll",
+    "github": "marcusgoll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusgoll/Spec-Flow",
+    "skill_md": "https://raw.githubusercontent.com/marcusgoll/Spec-Flow/main/.claude/skills/mockup-extraction/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:35.044Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusgoll%2FSpec-Flow/.claude%2Fskills%2Fmockup-extraction%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_91b553163591"
+  }
+}

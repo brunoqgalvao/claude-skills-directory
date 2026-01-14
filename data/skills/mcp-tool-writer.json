@@ -1,0 +1,35 @@
+{
+  "id": "mcp-tool-writer",
+  "name": "mcp-tool-writer",
+  "version": "1.0.0",
+  "summary": "Create, modify, and manage MCP tools for the Naki mahjong AI assistant. Use when adding new MCP tools, modifying existing tools, or fixing tool-related issues. This skill unders...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sunalamye",
+    "github": "Sunalamye"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sunalamye/Naki",
+    "skill_md": "https://raw.githubusercontent.com/Sunalamye/Naki/main/skills-naki/skills/mcp-tool-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.525Z",
+  "created_at": "2025-12-23T01:29:05.526Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sunalamye%2FNaki/skills-naki%2Fskills%2Fmcp-tool-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.525Z",
+    "uniqueId": "sk_9e2bb0675798"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "when-debugging-ml-training-use-ml-training-debugger",
+  "name": "when-debugging-ml-training-use-ml-training-debugger",
+  "version": "1.0.0",
+  "summary": "Debug ML training issues and optimize performance including loss divergence, overfitting, and slow convergence",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/ai-chrome-extension",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/ai-chrome-extension/main/.claude/skills/machine-learning/when-debugging-ml-training-use-ml-training-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:02:10.899Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fai-chrome-extension/.claude%2Fskills%2Fmachine-learning%2Fwhen-debugging-ml-training-use-ml-training-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_cf25ffb9ac4b"
+  }
+}

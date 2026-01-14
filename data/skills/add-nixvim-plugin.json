@@ -1,0 +1,35 @@
+{
+  "id": "add-nixvim-plugin",
+  "name": "add-nixvim-plugin",
+  "version": "1.0.0",
+  "summary": "Add Neovim plugins not available in NixVim's official plugin set using extraPlugins and extraConfigLua. Use this skill when the user requests adding a plugin by GitHub URL or me...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anexpn",
+    "github": "anexpn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anexpn/nixvim",
+    "skill_md": "https://raw.githubusercontent.com/anexpn/nixvim/main/.claude/skills/add-nixvim-plugin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T16:49:43.000Z",
+  "created_at": "2025-12-23T01:29:00.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anexpn%2Fnixvim/.claude%2Fskills%2Fadd-nixvim-plugin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.531Z",
+    "uniqueId": "sk_a8fc2ecab52c"
+  }
+}

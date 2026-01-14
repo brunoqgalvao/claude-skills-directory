@@ -1,0 +1,36 @@
+{
+  "id": "koan-api-building",
+  "name": "koan-api-building",
+  "version": "1.0.0",
+  "summary": "EntityController<T>, custom routes, payload transformers, auth policies",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sylin-org",
+    "github": "sylin-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sylin-org/koan-framework",
+    "skill_md": "https://raw.githubusercontent.com/sylin-org/koan-framework/main/.claude/skills/api-building/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T14:34:25.000Z",
+  "created_at": "2025-12-23T01:28:40.782Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sylin-org%2Fkoan-framework/.claude%2Fskills%2Fapi-building%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_64f328ef2885"
+  }
+}

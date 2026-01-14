@@ -1,0 +1,36 @@
+{
+  "id": "debugging-and-diagnosis",
+  "name": "debugging-and-diagnosis",
+  "version": "1.0.0",
+  "summary": "Systematic debugging methodology using evidence-based investigation to identify root causes. Use when encountering bugs, errors, unexpected behavior, failing tests, or intermitt...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "outfitter-dev",
+    "github": "outfitter-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/outfitter-dev/agents",
+    "skill_md": "https://raw.githubusercontent.com/outfitter-dev/agents/main/baselayer/skills/debugging-and-diagnosis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:09:20.657Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/outfitter-dev%2Fagents/baselayer%2Fskills%2Fdebugging-and-diagnosis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_0585365af2fc"
+  }
+}

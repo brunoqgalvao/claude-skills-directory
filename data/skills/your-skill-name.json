@@ -1,42 +1,36 @@
 {
   "id": "your-skill-name",
-  "name": "Your Skill Name",
+  "name": "your-skill-name",
   "version": "1.0.0",
-  "summary": "Clear description of what this Skill does and when to use it (200 chars max)",
+  "summary": "Brief description of what this Skill does and when to use it. Include specific trigger phrases. Use when user asks \"trigger phrase 1\", \"trigger phrase 2\", or wants to [outcome]....",
   "verticals": [
-    "Support",
-    "Operations"
+    "legal",
+    "hr"
   ],
-  "tags": [
-    "your",
-    "skill",
-    "name",
-    "ai",
-    "claude",
-    "workflow"
-  ],
+  "tags": [],
   "author": {
-    "name": "tryinhard1080",
-    "github": "tryinhard1080",
-    "avatar": "https://avatars.githubusercontent.com/u/79526771?v=4"
+    "name": "khgs2411",
+    "github": "khgs2411"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/tryinhard1080/ClaudeClodeCommander/tree/main/skills/Skill.md.template",
-    "skill_md": "https://raw.githubusercontent.com/tryinhard1080/ClaudeClodeCommander/main/skills/Skill.md.template/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install your-skill-name"
+    "repo": "https://github.com/khgs2411/flow",
+    "skill_md": "https://raw.githubusercontent.com/khgs2411/flow/main/framework/skills/_TEMPLATE-MULTI/SKILL.md"
   },
   "stats": {
-    "stars": 1,
+    "stars": 0,
     "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-11-05",
-  "created_at": "2025-10-21"
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:23.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/khgs2411%2Fflow/framework%2Fskills%2F_TEMPLATE-MULTI%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_f2744bfc52cb"
+  }
 }

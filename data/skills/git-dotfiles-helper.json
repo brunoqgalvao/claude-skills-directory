@@ -1,0 +1,35 @@
+{
+  "id": "git-dotfiles-helper",
+  "name": "git-dotfiles-helper",
+  "version": "1.0.0",
+  "summary": "Help with Git operations for this dotfiles repository, including creating contextual commit messages, reviewing changes, and following best practices for dotfiles version contro...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ruchernchong",
+    "github": "ruchernchong"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ruchernchong/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ruchernchong/dotfiles/main/.claude/skills/git-dotfiles-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:13.839Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ruchernchong%2Fdotfiles/.claude%2Fskills%2Fgit-dotfiles-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_93a020037b8f"
+  }
+}

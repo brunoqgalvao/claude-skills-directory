@@ -1,0 +1,37 @@
+{
+  "id": "managing-workflow",
+  "name": "managing-workflow",
+  "version": "1.0.0",
+  "summary": "Manages the specification-driven development workflow. Use this skill when the user runs /orbit,\nrequests to \"define feature\", \"create plan\", \"implement\", or needs workflow guid...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BrendanShields",
+    "github": "BrendanShields"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BrendanShields/spec-flow",
+    "skill_md": "https://raw.githubusercontent.com/BrendanShields/spec-flow/main/plugins/spec/skills/managing-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:14:49.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BrendanShields%2Fspec-flow/plugins%2Fspec%2Fskills%2Fmanaging-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_dea513f98b3c"
+  }
+}

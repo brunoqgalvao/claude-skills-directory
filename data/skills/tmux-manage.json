@@ -1,0 +1,36 @@
+{
+  "id": "tmux-manage",
+  "name": "tmux-manage",
+  "version": "1.0.0",
+  "summary": "General-purpose tmux session management for containers. Use this for listing sessions, creating/attaching/killing sessions, managing windows and panes, viewing session info, and...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hsudatalks",
+    "github": "hsudatalks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hsudatalks/univers-container",
+    "skill_md": "https://raw.githubusercontent.com/hsudatalks/univers-container/main/.claude/skills/tmux-manage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-24T10:28:39.000Z",
+  "created_at": "2025-12-22T21:20:03.394Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hsudatalks%2Funivers-container/.claude%2Fskills%2Ftmux-manage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.704Z",
+    "uniqueId": "sk_188531f02a47"
+  }
+}

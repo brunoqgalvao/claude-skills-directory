@@ -1,0 +1,35 @@
+{
+  "id": "memory-augmented-dev",
+  "name": "memory-augmented-dev",
+  "version": "1.0.0",
+  "summary": "Development with persistent memory checks and automatic logging",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm-wylbur",
+    "github": "vm-wylbur"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm-wylbur/pb-dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/vm-wylbur/pb-dotfiles/main/ai/claude-code/skills/memory-augmented-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.517Z",
+  "created_at": "2025-12-23T01:29:12.331Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm-wylbur%2Fpb-dotfiles/ai%2Fclaude-code%2Fskills%2Fmemory-augmented-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.517Z",
+    "uniqueId": "sk_68dfdc9fc40d"
+  }
+}

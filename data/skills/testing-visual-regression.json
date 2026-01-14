@@ -1,0 +1,37 @@
+{
+  "id": "testing-visual-regression",
+  "name": "testing-visual-regression",
+  "version": "1.0.0",
+  "summary": "Detect visual changes in UI components using screenshot comparison.\nUse when detecting unintended UI changes or pixel differences.\nTrigger with phrases like \"test visual changes...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/testing/visual-regression-tester/skills/visual-regression-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:06:09.156Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Ftesting%2Fvisual-regression-tester%2Fskills%2Fvisual-regression-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_5868d87964eb"
+  }
+}

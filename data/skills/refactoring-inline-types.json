@@ -1,0 +1,35 @@
+{
+  "id": "refactoring-inline-types",
+  "name": "refactoring-inline-types",
+  "version": "1.0.0",
+  "summary": "Refactor inline types into reusable, well-organized type definitions using interfaces, type aliases, and generics",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/typescript/skills/refactoring-inline-types/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T21:59:38.000Z",
+  "created_at": "2025-12-22T19:15:41.390Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/typescript%2Fskills%2Frefactoring-inline-types%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_5d76efc3eec6"
+  }
+}

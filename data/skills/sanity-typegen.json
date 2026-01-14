@@ -1,0 +1,35 @@
+{
+  "id": "sanity-typegen",
+  "name": "sanity-typegen",
+  "version": "1.0.0",
+  "summary": "Troubleshoot and setup Sanity TypeGen configuration. Use when types are missing or incorrect.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sanity-io",
+    "github": "sanity-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sanity-io/agent-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/sanity-io/agent-toolkit/main/sanity-plugin/skills/sanity-typegen/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:21:49.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sanity-io%2Fagent-toolkit/sanity-plugin%2Fskills%2Fsanity-typegen%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_da7f800eed5d"
+  }
+}

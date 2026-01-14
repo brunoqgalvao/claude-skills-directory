@@ -1,0 +1,36 @@
+{
+  "id": "iterate-review-with-codex",
+  "name": "iterate-review-with-codex",
+  "version": "1.0.0",
+  "summary": "Activate when user mentions \"codex review\", \"code review\", \"fix pr code review\". This skill provides guidance on how to effectively collaborate with codex to do a interate code ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "qtnx",
+    "github": "qtnx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/qtnx/qtnx-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/qtnx/qtnx-claude-plugin/main/qtnx-plugin/skills/iterate-review-with-codex/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:37.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/qtnx%2Fqtnx-claude-plugin/qtnx-plugin%2Fskills%2Fiterate-review-with-codex%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_f78dd226a2be"
+  }
+}

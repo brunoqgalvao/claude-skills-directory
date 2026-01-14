@@ -1,0 +1,36 @@
+{
+  "id": "volition",
+  "name": "volition",
+  "version": "1.0.0",
+  "summary": "Agency and execution. Edit code semantically, invoke LLMs, search the web, query security services, and discover relevant skills.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Raudbjorn",
+    "github": "Raudbjorn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Raudbjorn/cognitive-construct",
+    "skill_md": "https://raw.githubusercontent.com/Raudbjorn/cognitive-construct/main/volition/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:08:56.685Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Raudbjorn%2Fcognitive-construct/volition%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_21c9b2831814"
+  }
+}

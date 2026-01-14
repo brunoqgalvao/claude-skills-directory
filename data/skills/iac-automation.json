@@ -1,0 +1,35 @@
+{
+  "id": "iac-automation",
+  "name": "iac-automation",
+  "version": "1.0.0",
+  "summary": "Terraform, Ansible, CloudFormation, and infrastructure automation",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-data-engineer",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-data-engineer/main/skills/iac-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:31:10.000Z",
+  "created_at": "2025-12-23T01:28:25.688Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-data-engineer/skills%2Fiac-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_6392b3921655"
+  }
+}

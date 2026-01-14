@@ -1,0 +1,35 @@
+{
+  "id": "sequelize-models",
+  "name": "sequelize-models",
+  "version": "1.0.0",
+  "summary": "Sequelize ORM model definition patterns and best practices for PostgreSQL. Use when defining models, setting up associations, configuring validations, or optimizing Sequelize us...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "francanete",
+    "github": "francanete"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/francanete/fran-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/francanete/fran-marketplace/main/database-expert/skills/sequelize-models/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.677Z",
+  "created_at": "2025-12-22T22:12:30.595Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/francanete%2Ffran-marketplace/database-expert%2Fskills%2Fsequelize-models%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.677Z",
+    "uniqueId": "sk_0880cceb29d5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "codex-advisor",
+  "name": "codex-advisor",
+  "version": "1.0.0",
+  "summary": "Get a second opinion from OpenAI Codex CLI for plan reviews, code reviews, architecture decisions, and hard problems. Use when you need external validation, want to compare appr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ckorhonen",
+    "github": "ckorhonen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ckorhonen/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ckorhonen/claude-skills/main/skills/codex-advisor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T12:25:25.000Z",
+  "created_at": "2025-12-22T19:07:18.599Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ckorhonen%2Fclaude-skills/skills%2Fcodex-advisor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_586272db203d"
+  }
+}

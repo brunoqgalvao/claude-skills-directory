@@ -1,0 +1,36 @@
+{
+  "id": "pr-review-loop",
+  "name": "pr-review-loop",
+  "version": "1.0.0",
+  "summary": "Manage PR review feedback loops with Gemini Code Assist. Use when pushing changes to a PR, iterating on review feedback, or monitoring CI/review status. Automatically falls back...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leegonzales",
+    "github": "leegonzales"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leegonzales/AISkills",
+    "skill_md": "https://raw.githubusercontent.com/leegonzales/AISkills/main/PRReviewLoop/pr-review-loop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T20:58:08.000Z",
+  "created_at": "2025-12-22T16:58:57.708Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leegonzales%2FAISkills/PRReviewLoop%2Fpr-review-loop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_33ccdf639598"
+  }
+}

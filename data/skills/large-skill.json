@@ -1,0 +1,35 @@
+{
+  "id": "large-skill",
+  "name": "large-skill",
+  "version": "1.0.0",
+  "summary": "Large skill with extensive content and supplementary files",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feiskyer",
+    "github": "feiskyer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feiskyer/koder",
+    "skill_md": "https://raw.githubusercontent.com/feiskyer/koder/main/tests/fixtures/skills/large-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:45.106Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feiskyer%2Fkoder/tests%2Ffixtures%2Fskills%2Flarge-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_1ca7eb2ad0be"
+  }
+}

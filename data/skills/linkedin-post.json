@@ -1,0 +1,37 @@
+{
+  "id": "linkedin-post",
+  "name": "linkedin-post",
+  "version": "1.0.0",
+  "summary": "Create engaging LinkedIn posts that drive engagement and build authority. Use when the user wants to write LinkedIn content, needs posts for their LinkedIn strategy, or wants to...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "az9713",
+    "github": "az9713"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/az9713/ai-co-writing-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/az9713/ai-co-writing-claude-skills/main/.claude/skills/linkedin-post/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:10.288Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/az9713%2Fai-co-writing-claude-skills/.claude%2Fskills%2Flinkedin-post%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_f69b20c3973f"
+  }
+}

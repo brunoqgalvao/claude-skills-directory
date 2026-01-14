@@ -1,0 +1,36 @@
+{
+  "id": "mcp-serena-fast-ops",
+  "name": "mcp-serena-fast-ops",
+  "version": "1.0.0",
+  "summary": "Fast code operations using Serena MCP (1-3s) for symbol search, memory read/write, and basic code editing in LoRAIro project",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NEXTAltair",
+    "github": "NEXTAltair"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NEXTAltair/LoRAIro",
+    "skill_md": "https://raw.githubusercontent.com/NEXTAltair/LoRAIro/main/.claude/skills/mcp-serena-fast-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:07.566Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NEXTAltair%2FLoRAIro/.claude%2Fskills%2Fmcp-serena-fast-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_779a05aae7ba"
+  }
+}

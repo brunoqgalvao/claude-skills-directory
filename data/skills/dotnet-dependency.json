@@ -1,0 +1,35 @@
+{
+  "id": "dotnet-dependency",
+  "name": "dotnet-dependency",
+  "version": "1.0.0",
+  "summary": "This skill should be used when investigating .NET project dependencies, understanding why packages are included, listing references, or auditing for outdated/vulnerable packages.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NikiforovAll",
+    "github": "NikiforovAll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NikiforovAll/claude-code-rules",
+    "skill_md": "https://raw.githubusercontent.com/NikiforovAll/claude-code-rules/main/plugins/handbook-dotnet/skills/dotnet-dependency/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.549Z",
+  "created_at": "2025-12-23T01:28:50.442Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NikiforovAll%2Fclaude-code-rules/plugins%2Fhandbook-dotnet%2Fskills%2Fdotnet-dependency%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_dc10741cbbc5"
+  }
+}

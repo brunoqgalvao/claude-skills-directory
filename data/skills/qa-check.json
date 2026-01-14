@@ -1,0 +1,35 @@
+{
+  "id": "qa-check",
+  "name": "qa-check",
+  "version": "1.0.0",
+  "summary": "PR作成前の品質保証チェックを実行します。Lint、テスト、ビルド、カバレッジ確認を自動で行い、合格/不合格を判定します。フロントエンドのみ、バックエンドのみ、または両方のチェックが可能です。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Crearize",
+    "github": "Crearize"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Crearize/ProjectTemplate",
+    "skill_md": "https://raw.githubusercontent.com/Crearize/ProjectTemplate/main/.claude/skills/qa-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:34.355Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Crearize%2FProjectTemplate/.claude%2Fskills%2Fqa-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_00a21c95f5dd"
+  }
+}

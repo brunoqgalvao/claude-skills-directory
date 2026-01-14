@@ -1,0 +1,37 @@
+{
+  "id": "ui-compliance",
+  "name": "ui-compliance",
+  "version": "1.0.0",
+  "summary": "Verifies UI code uses correct components, dark mode, and design system. Use when creating or modifying any frontend component, page, or UI element.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gotekna",
+    "github": "gotekna"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gotekna/Teeem",
+    "skill_md": "https://raw.githubusercontent.com/gotekna/Teeem/main/.claude/skills/ui-compliance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T07:53:46.000Z",
+  "created_at": "2025-12-22T15:10:38.878Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gotekna%2FTeeem/.claude%2Fskills%2Fui-compliance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_534b06d1bba5"
+  }
+}

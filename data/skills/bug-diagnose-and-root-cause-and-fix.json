@@ -1,0 +1,35 @@
+{
+  "id": "bug-diagnose-and-root-cause-and-fix",
+  "name": "bug-diagnose-and-root-cause-and-fix",
+  "version": "1.0.0",
+  "summary": "【Bug 诊断专用】当遇到程序错误、异常行为、性能问题、功能故障时必须使用本技能。触发关键词：报错、Bug、问题、异常、故障、不工作、诊断、排查、修复。本技能提供系统性根因分析，输出详细诊断报告和可执行修复方案，包含代码位置引用、步骤指导、注意事项。仅提供分析和方案，不直接修改代码。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "727474430",
+    "github": "727474430"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/727474430/cli-rule-swtich",
+    "skill_md": "https://raw.githubusercontent.com/727474430/cli-rule-swtich/main/templates/claude/jige/skills/bug-diagnose-and-root-cause-and-fix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.556Z",
+  "created_at": "2025-12-23T01:28:44.166Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/727474430%2Fcli-rule-swtich/templates%2Fclaude%2Fjige%2Fskills%2Fbug-diagnose-and-root-cause-and-fix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_94a5c4118832"
+  }
+}

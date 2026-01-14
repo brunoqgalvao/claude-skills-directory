@@ -1,0 +1,37 @@
+{
+  "id": "extracting-session-data",
+  "name": "extracting-session-data",
+  "version": "1.0.0",
+  "summary": "Locates, lists, filters, and extracts structured data from Claude Code native session logs. Supports both single and multiple session analysis.",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bitwarden",
+    "github": "bitwarden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bitwarden/ai-plugins",
+    "skill_md": "https://raw.githubusercontent.com/bitwarden/ai-plugins/main/plugins/claude-retrospective/skills/extracting-session-data/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:40.756Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bitwarden%2Fai-plugins/plugins%2Fclaude-retrospective%2Fskills%2Fextracting-session-data%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_bf4c516bf5e6"
+  }
+}

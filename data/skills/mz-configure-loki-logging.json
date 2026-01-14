@@ -1,0 +1,35 @@
+{
+  "id": "mz-configure-loki-logging",
+  "name": "mz-configure-loki-logging",
+  "version": "1.0.0",
+  "summary": "Configure Grafana Loki logging using mazza-base library for Python/Flask applications with CA certificate (Mazza-specific). Use when setting up Loki logging for Mazza projects o...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmazzahacks",
+    "github": "jmazzahacks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmazzahacks/byteforge-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jmazzahacks/byteforge-claude-skills/main/skills/mz-configure-loki-logging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T13:23:34.000Z",
+  "created_at": "2025-12-22T20:04:26.214Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmazzahacks%2Fbyteforge-claude-skills/skills%2Fmz-configure-loki-logging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_515e93780f3e"
+  }
+}

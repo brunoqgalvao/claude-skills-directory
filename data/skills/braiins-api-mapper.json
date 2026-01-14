@@ -1,0 +1,35 @@
+{
+  "id": "braiins-api-mapper",
+  "name": "braiins-api-mapper",
+  "version": "1.0.0",
+  "summary": "Maps Braiins Pool API endpoints to MCP tool implementations with proper\nauthentication, rate limiting, retry logic, and error handling patterns.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ryno-Crypto-Mining-Services",
+    "github": "Ryno-Crypto-Mining-Services"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/Ryno-Crypto-Mining-Services/braiins-pool-mcp-server/main/.claude/skills/braiins-api-mapper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.482Z",
+  "created_at": "2025-12-23T01:29:41.452Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ryno-Crypto-Mining-Services%2Fbraiins-pool-mcp-server/.claude%2Fskills%2Fbraiins-api-mapper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_5dee11c2a298"
+  }
+}

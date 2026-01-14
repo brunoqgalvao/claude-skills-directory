@@ -1,0 +1,35 @@
+{
+  "id": "complex-tensor-handler",
+  "name": "complex-tensor-handler",
+  "version": "1.0.0",
+  "summary": "Handle complex-valued tensors in PyTorch for astronomical imaging applications. This skill should be used when working with Fourier transforms, phase/amplitude representations, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "omriwen",
+    "github": "omriwen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/omriwen/PRISM",
+    "skill_md": "https://raw.githubusercontent.com/omriwen/PRISM/main/.claude/skills/complex-tensor-handler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:00.153Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/omriwen%2FPRISM/.claude%2Fskills%2Fcomplex-tensor-handler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_29bf4c7034f1"
+  }
+}

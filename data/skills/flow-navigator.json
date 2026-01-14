@@ -1,0 +1,35 @@
+{
+  "id": "flow-navigator",
+  "name": "flow-navigator",
+  "version": "1.0.0",
+  "summary": "Navigate Flow projects with dashboard-first pattern. Use when user asks about status, current work, what's next, or project progress. Read-only skill.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "khgs2411",
+    "github": "khgs2411"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/khgs2411/flow",
+    "skill_md": "https://raw.githubusercontent.com/khgs2411/flow/main/framework/skills/flow-navigator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:57:05.012Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/khgs2411%2Fflow/framework%2Fskills%2Fflow-navigator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_ff03c6b7b459"
+  }
+}

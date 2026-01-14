@@ -1,0 +1,35 @@
+{
+  "id": "convex-queries",
+  "name": "convex-queries",
+  "version": "1.0.0",
+  "summary": "This skill should be used when implementing Convex query functions. It provides comprehensive guidelines for defining, registering, calling, and optimizing queries, including pa...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sstobo",
+    "github": "Sstobo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sstobo/convex-skills",
+    "skill_md": "https://raw.githubusercontent.com/Sstobo/convex-skills/main/convex-queries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:35.747Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sstobo%2Fconvex-skills/convex-queries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_171a060ecb84"
+  }
+}

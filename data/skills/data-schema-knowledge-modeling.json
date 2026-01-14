@@ -1,0 +1,37 @@
+{
+  "id": "data-schema-knowledge-modeling",
+  "name": "data-schema-knowledge-modeling",
+  "version": "1.0.0",
+  "summary": "Use when designing database schemas, need to model domain entities and relationships clearly, building knowledge graphs or ontologies, creating API data models, defining system ...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lyndonkl",
+    "github": "lyndonkl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lyndonkl/claude",
+    "skill_md": "https://raw.githubusercontent.com/lyndonkl/claude/main/skills/data-schema-knowledge-modeling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:32.317Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lyndonkl%2Fclaude/skills%2Fdata-schema-knowledge-modeling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_aa0ea7067cb1"
+  }
+}

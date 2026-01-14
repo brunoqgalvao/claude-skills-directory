@@ -1,0 +1,36 @@
+{
+  "id": "clear-writing",
+  "name": "clear-writing",
+  "version": "1.0.0",
+  "summary": "Makes your writing clearer, stronger, and more professional. Use this skill when the user says \"write clearly\", \"clear writing\", \"improve writing\" or for ANY prose humans will r...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "l-lin",
+    "github": "l-lin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/l-lin/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/l-lin/dotfiles/main/home-manager/modules/share/ai/.config/ai/skills/clear-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T17:36:00.000Z",
+  "created_at": "2025-12-23T01:28:35.335Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/l-lin%2Fdotfiles/home-manager%2Fmodules%2Fshare%2Fai%2F.config%2Fai%2Fskills%2Fclear-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_7901a0354226"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "spring-boot-testing",
+  "name": "spring-boot-testing",
+  "version": "1.0.0",
+  "summary": "Spring Boot 4 testing strategies and patterns. Use when writing unit tests, slice tests (@WebMvcTest, @DataJpaTest), integration tests, Testcontainers with @ServiceConnection, s...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joaquimscosta",
+    "github": "joaquimscosta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joaquimscosta/arkhe-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/joaquimscosta/arkhe-claude-plugins/main/spring-boot/skills/spring-boot-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.551Z",
+  "created_at": "2025-12-23T01:28:48.974Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joaquimscosta%2Farkhe-claude-plugins/spring-boot%2Fskills%2Fspring-boot-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_220ee2ca88ef"
+  }
+}

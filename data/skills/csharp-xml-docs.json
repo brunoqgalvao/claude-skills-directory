@@ -1,0 +1,37 @@
+{
+  "id": "csharp-xml-docs",
+  "name": "csharp-xml-docs",
+  "version": "1.0.0",
+  "summary": "C# XML documentation with on-demand Haiku→Expert Review→Final workflow. Flexible Korean/English language support. Use when documenting C# APIs, properties, methods, classes, and...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "creator-hian",
+    "github": "creator-hian"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/creator-hian/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/creator-hian/claude-code-plugins/main/csharp-plugin/skills/csharp-xml-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:01:35.172Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/creator-hian%2Fclaude-code-plugins/csharp-plugin%2Fskills%2Fcsharp-xml-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_59e324b19c3a"
+  }
+}

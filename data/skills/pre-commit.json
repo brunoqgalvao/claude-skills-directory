@@ -1,0 +1,35 @@
+{
+  "id": "pre-commit",
+  "name": "pre-commit",
+  "version": "1.0.0",
+  "summary": "When setting up automated code quality checks on git commit. When project has .pre-commit-config.yaml. When implementing git hooks for formatting, linting, or validation. When c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jamie-BitFlight",
+    "github": "Jamie-BitFlight"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jamie-BitFlight/claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/Jamie-BitFlight/claude_skills/main/pre-commit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.620Z",
+  "created_at": "2025-12-22T23:20:10.127Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jamie-BitFlight%2Fclaude_skills/pre-commit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.620Z",
+    "uniqueId": "sk_b92cd27def67"
+  }
+}

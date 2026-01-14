@@ -1,0 +1,35 @@
+{
+  "id": "guide-maker",
+  "name": "guide-maker",
+  "version": "1.0.0",
+  "summary": "Place 프로젝트 사용자 가이드를 Notion에 생성하는 스킬. 테이블, 색상, 코드블록, 화살표, 이모지를 활용한 가시성 높은 문서 생성. \"가이드 만들어줘\", \"사용자 매뉴얼 작성해줘\", \"도움말 문서 생성해줘\", \"Notion에 문서 작성해줘\" 요청 시 사용. Notion MCP (MCP_DOCKER) 필요.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rungchan2",
+    "github": "rungchan2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rungchan2/frontend-skills",
+    "skill_md": "https://raw.githubusercontent.com/rungchan2/frontend-skills/main/skills/guide-maker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.552Z",
+  "created_at": "2025-12-23T01:28:47.568Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rungchan2%2Ffrontend-skills/skills%2Fguide-maker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_23be0df09752"
+  }
+}

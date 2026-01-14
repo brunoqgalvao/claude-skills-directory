@@ -1,0 +1,35 @@
+{
+  "id": "incident-analysis",
+  "name": "incident-analysis",
+  "version": "1.0.0",
+  "summary": "Analyze and resolve production incidents using systematic investigation, root cause analysis, and autonomous remediation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "My3VM",
+    "github": "My3VM"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/My3VM/ClaudeSkillDemo",
+    "skill_md": "https://raw.githubusercontent.com/My3VM/ClaudeSkillDemo/main/.claude/skills/incident-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T16:21:20.000Z",
+  "created_at": "2025-12-22T15:10:52.036Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/My3VM%2FClaudeSkillDemo/.claude%2Fskills%2Fincident-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_a611c21e9a25"
+  }
+}

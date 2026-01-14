@@ -1,0 +1,37 @@
+{
+  "id": "payment-security-clerk-billing-stripe",
+  "name": "payment-security-clerk-billing-stripe",
+  "version": "1.0.0",
+  "summary": "Implement secure payments using Clerk Billing and Stripe without ever touching card data. Use this skill when you need to set up subscription payments, handle webhooks, implemen...",
+  "verticals": [
+    "legal",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "harperaa",
+    "github": "harperaa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/harperaa/secure-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/harperaa/secure-claude-skills/main/payment-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:27.237Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/harperaa%2Fsecure-claude-skills/payment-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_5cc5cf93626c"
+  }
+}

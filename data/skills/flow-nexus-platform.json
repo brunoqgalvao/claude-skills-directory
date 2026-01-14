@@ -1,0 +1,36 @@
+{
+  "id": "flow-nexus-platform",
+  "name": "flow-nexus-platform",
+  "version": "1.0.0",
+  "summary": "Comprehensive Flow Nexus platform management - authentication, sandboxes, app deployment, payments, and challenges",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bjpl",
+    "github": "bjpl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bjpl/open_learn_co",
+    "skill_md": "https://raw.githubusercontent.com/bjpl/open_learn_co/main/.claude/skills/flow-nexus-platform/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:15:21.757Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bjpl%2Fopen_learn_co/.claude%2Fskills%2Fflow-nexus-platform%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_3b18a49e6300"
+  }
+}

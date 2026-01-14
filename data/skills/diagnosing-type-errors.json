@@ -1,0 +1,35 @@
+{
+  "id": "diagnosing-type-errors",
+  "name": "diagnosing-type-errors",
+  "version": "1.0.0",
+  "summary": "Analyze TypeScript errors and provide detailed diagnostics with root cause analysis and specific fix recommendations",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/typescript/skills/diagnosing-type-errors/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T21:59:38.000Z",
+  "created_at": "2025-12-23T01:28:52.463Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/typescript%2Fskills%2Fdiagnosing-type-errors%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_179f9569d810"
+  }
+}

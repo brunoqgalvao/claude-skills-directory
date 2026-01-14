@@ -1,0 +1,35 @@
+{
+  "id": "ha-emby-bug-triage",
+  "name": "ha-emby-bug-triage",
+  "version": "1.0.0",
+  "summary": "Use when investigating bugs that need reproduction - covers local HA/Emby testing, evidence gathering, root cause analysis, and updating issues with findings and fix recommendat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "troykelly",
+    "github": "troykelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/troykelly/homeassistant-emby",
+    "skill_md": "https://raw.githubusercontent.com/troykelly/homeassistant-emby/main/.claude/skills/ha-emby-bug-triage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.904Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/troykelly%2Fhomeassistant-emby/.claude%2Fskills%2Fha-emby-bug-triage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_3eafb454cc94"
+  }
+}

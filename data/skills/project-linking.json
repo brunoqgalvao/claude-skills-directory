@@ -1,0 +1,35 @@
+{
+  "id": "project-linking",
+  "name": "project-linking",
+  "version": "1.0.0",
+  "summary": "Use when session starts with CLAUDE.local.md containing Vault project field - automatically loads vault index, enables dual-location routing (vault + local docs), style adaptati...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fnichol",
+    "github": "fnichol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fnichol/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fnichol/claude-code-plugins/main/plugins/obsidian/skills/project-linking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:07:29.059Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fnichol%2Fclaude-code-plugins/plugins%2Fobsidian%2Fskills%2Fproject-linking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_6da6deb97ee8"
+  }
+}

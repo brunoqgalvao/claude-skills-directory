@@ -1,0 +1,35 @@
+{
+  "id": "hono",
+  "name": "hono",
+  "version": "1.0.0",
+  "summary": "Assist with Hono web framework development using the hono CLI for documentation search, browsing, and testing requests without starting a server.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kfly8",
+    "github": "kfly8"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kfly8/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/kfly8/claude-plugins/main/plugins/hono-skills/skills/hono/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.881Z",
+  "created_at": "2025-12-22T14:54:27.892Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kfly8%2Fclaude-plugins/plugins%2Fhono-skills%2Fskills%2Fhono%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.881Z",
+    "uniqueId": "sk_1d6ac1e9b233"
+  }
+}

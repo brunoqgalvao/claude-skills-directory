@@ -1,0 +1,35 @@
+{
+  "id": "skill-doc-generator",
+  "name": "skill-doc-generator",
+  "version": "1.0.0",
+  "summary": "Auto-generates standardized README documentation from SKILL.md files, validates consistency (frontmatter, descriptions, terminology), and creates usage examples. Use when docume...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "auldsyababua",
+    "github": "auldsyababua"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/auldsyababua/instructor-workflow",
+    "skill_md": "https://raw.githubusercontent.com/auldsyababua/instructor-workflow/main/skills/skill-doc-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.461Z",
+  "created_at": "2025-12-22T18:11:25.635Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/auldsyababua%2Finstructor-workflow/skills%2Fskill-doc-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_b7b1fa929491"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "gemini-delegation-patterns",
+  "name": "gemini-delegation-patterns",
+  "version": "1.0.0",
+  "summary": "Strategic patterns for Claude-to-Gemini delegation. Covers decision criteria, execution patterns, result parsing, and error handling. Use when determining if a task should be de...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/google-ecosystem/skills/gemini-delegation-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:14.474Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fgoogle-ecosystem%2Fskills%2Fgemini-delegation-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_ba0e6ca99b3b"
+  }
+}

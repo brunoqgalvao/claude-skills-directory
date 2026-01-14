@@ -1,0 +1,35 @@
+{
+  "id": "regime-detection",
+  "name": "regime-detection",
+  "version": "1.0.0",
+  "summary": "Hidden Markov Model (HMM) for market regime classification. Reduces drawdowns 25-40% by detecting Trending/Mean-Reverting/Volatile states. Prevents wrong-strategy-for-wrong-market.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LEDGERGHOST90",
+    "github": "LEDGERGHOST90"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LEDGERGHOST90/SOVEREIGN_SHADOW_3",
+    "skill_md": "https://raw.githubusercontent.com/LEDGERGHOST90/SOVEREIGN_SHADOW_3/main/.claude/skills/regime-detection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.772Z",
+  "created_at": "2025-12-22T20:00:41.824Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LEDGERGHOST90%2FSOVEREIGN_SHADOW_3/.claude%2Fskills%2Fregime-detection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_7646b2e05a72"
+  }
+}

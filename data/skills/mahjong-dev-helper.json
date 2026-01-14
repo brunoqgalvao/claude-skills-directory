@@ -1,0 +1,35 @@
+{
+  "id": "mahjong-dev-helper",
+  "name": "mahjong-dev-helper",
+  "version": "1.0.0",
+  "summary": "麻將遊戲開發助手。當用戶需要開發麻將遊戲功能、詢問專案架構（Game.js, Player.js, Tile.js）、實作遊戲邏輯（發牌、吃碰槓、聽牌判斷）、WebSocket通訊、PixiJS渲染、效能優化、或任何與這個麻將遊戲專案程式碼相關的問題時使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tedmax100",
+    "github": "tedmax100"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tedmax100/mahjong",
+    "skill_md": "https://raw.githubusercontent.com/tedmax100/mahjong/main/.claude/skills/mahjong-dev-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:10:49.984Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tedmax100%2Fmahjong/.claude%2Fskills%2Fmahjong-dev-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_b91b053f709a"
+  }
+}

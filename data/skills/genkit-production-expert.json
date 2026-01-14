@@ -1,0 +1,36 @@
+{
+  "id": "genkit-production-expert",
+  "name": "genkit-production-expert",
+  "version": "1.0.0",
+  "summary": "Build production Firebase Genkit applications including RAG systems, multi-step flows, and tool calling for Node.js/Python/Go. Deploy to Firebase Functions or Cloud Run with AI ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/ai-ml/jeremy-genkit-pro/skills/genkit-production-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.775Z",
+  "created_at": "2025-12-22T19:58:13.777Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Fai-ml%2Fjeremy-genkit-pro%2Fskills%2Fgenkit-production-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.775Z",
+    "uniqueId": "sk_d2082edfe7b5"
+  }
+}

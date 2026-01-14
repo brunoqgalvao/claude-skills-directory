@@ -1,0 +1,35 @@
+{
+  "id": "wizard",
+  "name": "wizard",
+  "version": "1.0.0",
+  "summary": "Documentation wizard that intelligently maintains, updates, and generates accurate documentation. Uses Oracle knowledge, searches conversation history, and spawns focused resear...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Overlord-Z",
+    "github": "Overlord-Z"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Overlord-Z/ClaudeShack",
+    "skill_md": "https://raw.githubusercontent.com/Overlord-Z/ClaudeShack/main/skills/wizard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:22.974Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Overlord-Z%2FClaudeShack/skills%2Fwizard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_9e25489fad32"
+  }
+}

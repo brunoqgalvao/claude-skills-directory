@@ -1,0 +1,37 @@
+{
+  "id": "catz-challenge-evaluator",
+  "name": "catz-challenge-evaluator",
+  "version": "1.0.0",
+  "summary": "Evaluates Catz Android coding challenge submissions against SWORD Health requirements. Use when reviewing or assessing this coding challenge. Produces a structured markdown repo...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pedromfmachado",
+    "github": "pedromfmachado"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pedromfmachado/SwordChallenge",
+    "skill_md": "https://raw.githubusercontent.com/pedromfmachado/SwordChallenge/main/.claude/skills/catz-challenge-evaluator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:16:48.140Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pedromfmachado%2FSwordChallenge/.claude%2Fskills%2Fcatz-challenge-evaluator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_0f4242e25392"
+  }
+}

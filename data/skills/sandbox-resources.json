@@ -1,0 +1,35 @@
+{
+  "id": "sandbox-resources",
+  "name": "sandbox-resources",
+  "version": "1.0.0",
+  "summary": "Discover all resources in your Amplify sandbox (DynamoDB tables, Lambda functions, data models, auth config) by reading amplify_outputs.json and querying AppSync.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChinchillaEnterprises",
+    "github": "ChinchillaEnterprises"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChinchillaEnterprises/ChillSkills",
+    "skill_md": "https://raw.githubusercontent.com/ChinchillaEnterprises/ChillSkills/main/sandbox-resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:04:56.499Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChinchillaEnterprises%2FChillSkills/sandbox-resources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_fe0b3e985d69"
+  }
+}

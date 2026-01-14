@@ -1,0 +1,35 @@
+{
+  "id": "pr-lifecycle",
+  "name": "pr-lifecycle",
+  "version": "1.0.0",
+  "summary": "Enforce project hygiene throughout the PR lifecycle. Use before creating PRs to validate worktrees, branch naming, and issue linking. Use when creating PRs to ensure proper \"Fixes",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codekiln",
+    "github": "codekiln"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codekiln/langstar",
+    "skill_md": "https://raw.githubusercontent.com/codekiln/langstar/main/.claude/skills/pr-lifecycle/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:49.926Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codekiln%2Flangstar/.claude%2Fskills%2Fpr-lifecycle%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_cef713421219"
+  }
+}

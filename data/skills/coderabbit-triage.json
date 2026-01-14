@@ -1,0 +1,35 @@
+{
+  "id": "coderabbit-triage",
+  "name": "coderabbit-triage",
+  "version": "1.0.0",
+  "summary": "Analyze code review findings and create execution plan. Decides parallel vs sequential fixing based on issue severity and independence. Returns structured task list with clear f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "caiokf",
+    "github": "caiokf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/caiokf/homepage",
+    "skill_md": "https://raw.githubusercontent.com/caiokf/homepage/main/.claude/skills/coderabbit-triage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:39.535Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/caiokf%2Fhomepage/.claude%2Fskills%2Fcoderabbit-triage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_f11052f91c59"
+  }
+}

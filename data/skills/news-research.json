@@ -1,0 +1,35 @@
+{
+  "id": "news-research",
+  "name": "news-research",
+  "version": "1.0.0",
+  "summary": "Conduct comprehensive news research and generate professional newsletters. Use when user submits topics for news analysis, sentiment tracking, or competitive media coverage rese...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "plan-net",
+    "github": "plan-net"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/plan-net/cc-newsagent-config",
+    "skill_md": "https://raw.githubusercontent.com/plan-net/cc-newsagent-config/main/.claude/skills/news-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:01:12.649Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/plan-net%2Fcc-newsagent-config/.claude%2Fskills%2Fnews-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_36a9a115e39a"
+  }
+}

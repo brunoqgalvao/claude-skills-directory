@@ -1,0 +1,35 @@
+{
+  "id": "leather-changelog",
+  "name": "leather-changelog",
+  "version": "1.0.0",
+  "summary": "Generate product changelog entries, X/Twitter posts, and Slack announcements for Leather wallet releases. Use when creating release communications including changelog entries fo...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leather-io",
+    "github": "leather-io"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leather-io/mono",
+    "skill_md": "https://raw.githubusercontent.com/leather-io/mono/main/.claude/skills/leather-changelog/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T15:10:45.000Z",
+  "created_at": "2025-12-23T01:28:49.652Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leather-io%2Fmono/.claude%2Fskills%2Fleather-changelog%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_4f7f7ab3a1d3"
+  }
+}

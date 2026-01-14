@@ -1,0 +1,35 @@
+{
+  "id": "snowflake-query-analyzer",
+  "name": "snowflake-query-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes Snowflake query performance, identifies optimization opportunities, and provides cost reduction recommendations. Use when user needs to optimize slow queries, reduce Sn...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jwest33",
+    "github": "jwest33"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jwest33/claude_code_plugin_dbt_snowflake_specialist",
+    "skill_md": "https://raw.githubusercontent.com/jwest33/claude_code_plugin_dbt_snowflake_specialist/main/skills/snowflake-query-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.697Z",
+  "created_at": "2025-12-22T22:02:38.471Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jwest33%2Fclaude_code_plugin_dbt_snowflake_specialist/skills%2Fsnowflake-query-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.697Z",
+    "uniqueId": "sk_404a715d763a"
+  }
+}

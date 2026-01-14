@@ -1,0 +1,37 @@
+{
+  "id": "az-cli",
+  "name": "az-cli",
+  "version": "1.0.0",
+  "summary": "This skill should be used when working with Azure DevOps from the command line. Trigger when user mentions az devops, az repos, az pipelines, az boards, or asks about managing P...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lttr",
+    "github": "lttr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lttr/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/lttr/claude-marketplace/main/plugins/azure-devops/skills/az-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T14:01:27.000Z",
+  "created_at": "2025-12-23T01:28:48.951Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lttr%2Fclaude-marketplace/plugins%2Fazure-devops%2Fskills%2Faz-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_defb97825e20"
+  }
+}

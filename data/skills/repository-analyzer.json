@@ -1,0 +1,36 @@
+{
+  "id": "repository-analyzer",
+  "name": "repository-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes codebases to generate comprehensive documentation including structure, languages, frameworks, dependencies, design patterns, and technical debt. Use when user says \"ana...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Toowiredd",
+    "github": "Toowiredd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Toowiredd/claude-skills-automation",
+    "skill_md": "https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/main/skills/repository-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:57:17.621Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Toowiredd%2Fclaude-skills-automation/skills%2Frepository-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_9f556b2f630d"
+  }
+}

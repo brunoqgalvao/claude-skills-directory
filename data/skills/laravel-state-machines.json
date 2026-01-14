@@ -1,0 +1,35 @@
+{
+  "id": "laravel-state-machines",
+  "name": "laravel-state-machines",
+  "version": "1.0.0",
+  "summary": "State machines using Spatie Model States for complex state transitions. Use when working with complex state management, state transitions, or when user mentions state machines, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-laravel",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-laravel/main/skills/laravel-state-machines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T14:33:42.000Z",
+  "created_at": "2025-12-22T14:57:28.115Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-laravel/skills%2Flaravel-state-machines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_3a8e0efa37e3"
+  }
+}

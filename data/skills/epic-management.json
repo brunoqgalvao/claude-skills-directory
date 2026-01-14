@@ -1,0 +1,35 @@
+{
+  "id": "epic-management",
+  "name": "epic-management",
+  "version": "1.0.0",
+  "summary": "Use for LARGE work requiring feature-level grouping. Creates epic tracking issues, manages related issues under a common label, tracks epic progress, and coordinates with milest...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "troykelly",
+    "github": "troykelly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/troykelly/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/troykelly/claude-skills/main/skills/epic-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T04:32:20.000Z",
+  "created_at": "2025-12-23T01:29:27.425Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/troykelly%2Fclaude-skills/skills%2Fepic-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_f487cfce67d3"
+  }
+}

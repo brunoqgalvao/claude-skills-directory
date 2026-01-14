@@ -1,0 +1,35 @@
+{
+  "id": "ark-architecture",
+  "name": "ark-architecture",
+  "version": "1.0.0",
+  "summary": "Design architecture for Ark features following existing patterns and principles. Use when planning new features, extending components, or evaluating technical approaches.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dwmkerr",
+    "github": "dwmkerr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dwmkerr/ark-claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/dwmkerr/ark-claude-code-marketplace/main/ark/skills/architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T15:55:13.000Z",
+  "created_at": "2025-12-22T15:00:55.945Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dwmkerr%2Fark-claude-code-marketplace/ark%2Fskills%2Farchitecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_29a1cf8d6c96"
+  }
+}

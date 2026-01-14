@@ -1,0 +1,35 @@
+{
+  "id": "frago-x-extract-tweet-with-comments",
+  "name": "frago-x-extract-tweet-with-comments",
+  "version": "1.0.0",
+  "summary": "Twitter/X 推文及评论提取与内容生产指南。当用户提到 \"Twitter 视频\"、\"推特观点\"、\"X 评论视频\"、\"网友观点视频\" 或明确指定此 skill 时使用。涵盖素材收集、观点整理、朗读稿生成的内容生产流程。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tsaijamey",
+    "github": "tsaijamey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tsaijamey/frago",
+    "skill_md": "https://raw.githubusercontent.com/tsaijamey/frago/main/src/frago/resources/skills/frago-x-extract-tweet-with-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:25.215Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tsaijamey%2Ffrago/src%2Ffrago%2Fresources%2Fskills%2Ffrago-x-extract-tweet-with-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_7aee5d67aa26"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-troubleshooting",
+  "name": "git-troubleshooting",
+  "version": "1.0.0",
+  "summary": "Git troubleshooting techniques including recovering lost commits, fixing merge conflicts, resolving detached HEAD, and diagnosing repository issues. Use when user encounters git...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "geoffjay",
+    "github": "geoffjay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/geoffjay/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/geoffjay/claude-plugins/main/plugins/utilities/git/skills/git-troubleshooting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.481Z",
+  "created_at": "2025-12-23T01:29:43.343Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/geoffjay%2Fclaude-plugins/plugins%2Futilities%2Fgit%2Fskills%2Fgit-troubleshooting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_d8d079333561"
+  }
+}

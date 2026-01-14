@@ -1,0 +1,35 @@
+{
+  "id": "smart-screenshot",
+  "name": "smart-screenshot",
+  "version": "1.0.0",
+  "summary": "Intelligent screenshot and screen capture with OCR, markdown conversion, and annotation. Triggered by PrtSc key, captures screen regions, extracts text with OCR, converts to mar...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoreyai",
+    "github": "astoreyai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoreyai/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/astoreyai/claude-skills/main/skills/utility/smart-screenshot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:56:57.064Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoreyai%2Fclaude-skills/skills%2Futility%2Fsmart-screenshot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_8455401f8999"
+  }
+}

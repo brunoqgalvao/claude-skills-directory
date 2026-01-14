@@ -1,0 +1,37 @@
+{
+  "id": "video-chunk",
+  "name": "video-chunk",
+  "version": "1.0.0",
+  "summary": "Process D&D session videos through the complete chunking pipeline. Use when the user requests to process, chunk, transcribe, or analyze a D&D session video file.",
+  "verticals": [
+    "sales",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Gambitnl",
+    "github": "Gambitnl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Gambitnl/Video_chunking",
+    "skill_md": "https://raw.githubusercontent.com/Gambitnl/Video_chunking/main/.claude/skills/video-chunk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T07:47:18.000Z",
+  "created_at": "2025-12-23T01:28:38.594Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Gambitnl%2FVideo_chunking/.claude%2Fskills%2Fvideo-chunk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_0fff3323cebb"
+  }
+}

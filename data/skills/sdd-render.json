@@ -1,0 +1,35 @@
+{
+  "id": "sdd-render",
+  "name": "sdd-render",
+  "version": "1.0.0",
+  "summary": "Render JSON specs to human-readable markdown with AI-enhanced insights, visualizations, and progressive disclosure",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-sdd-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-sdd-toolkit/main/skills/sdd-render/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.467Z",
+  "created_at": "2025-12-23T01:30:54.166Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-sdd-toolkit/skills%2Fsdd-render%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.467Z",
+    "uniqueId": "sk_17062a705094"
+  }
+}

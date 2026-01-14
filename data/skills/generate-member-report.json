@@ -1,0 +1,35 @@
+{
+  "id": "generate-member-report",
+  "name": "generate-member-report",
+  "version": "1.0.0",
+  "summary": "인원별 업무 현황 리포트 생성. Use when (1) 담당자별 현황 조회,\n(2) /SAX:report member 커맨드, (3) 업무량 분석.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-pm",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-pm/main/skills/generate-member-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:28.531Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-pm/skills%2Fgenerate-member-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_73ceebcbf741"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-workflows",
+  "name": "git-workflows",
+  "version": "1.0.0",
+  "summary": "Git version control workflows, branching strategies, and best practices. Use when discussing git commands, branching, merging, rebasing, or version control workflows. Triggers o...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eous",
+    "github": "eous"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eous/dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/eous/dotclaude/main/skills/git-workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:57:26.065Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eous%2Fdotclaude/skills%2Fgit-workflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_1793d50b0532"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "crud-skill",
+  "name": "crud-skill",
+  "version": "1.0.0",
+  "summary": "Implement Create, Read, Update, Delete operations for todo tasks. Use when building data management functionality.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maneeshanif",
+    "github": "maneeshanif"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maneeshanif/cli-todo-app-speckit",
+    "skill_md": "https://raw.githubusercontent.com/maneeshanif/cli-todo-app-speckit/main/.claude/skills/crud-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T13:46:42.000Z",
+  "created_at": "2025-12-23T01:29:01.939Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maneeshanif%2Fcli-todo-app-speckit/.claude%2Fskills%2Fcrud-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_62ba58ae7539"
+  }
+}

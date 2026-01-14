@@ -1,0 +1,35 @@
+{
+  "id": "youtube-plan-new-video",
+  "name": "youtube-plan-new-video",
+  "version": "1.0.0",
+  "summary": "Generate a complete video plan with optimized title, thumbnail, and hook concepts based on research. Orchestrates specialized skills (youtube-title, youtube-thumbnail, youtube-v...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kenneth-liao",
+    "github": "kenneth-liao"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kenneth-liao/ai-launchpad-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/kenneth-liao/ai-launchpad-marketplace/main/yt-content-strategist/skills/youtube-plan-new-video/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:03:33.816Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kenneth-liao%2Fai-launchpad-marketplace/yt-content-strategist%2Fskills%2Fyoutube-plan-new-video%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_96dcf2bc4387"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pqbl",
+  "name": "pqbl",
+  "version": "1.0.0",
+  "summary": "Create question-first learning materials with embedded feedback using pure question-based learning (pQBL). Use when designing educational content, quizzes, learning activities, ...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dbosk",
+    "github": "dbosk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dbosk/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/dbosk/claude-skills/main/pqbl/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:37.575Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dbosk%2Fclaude-skills/pqbl%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_d207f4858341"
+  }
+}

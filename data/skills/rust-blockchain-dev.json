@@ -1,0 +1,35 @@
+{
+  "id": "rust-blockchain-dev",
+  "name": "rust-blockchain-dev",
+  "version": "1.0.0",
+  "summary": "Rust and blockchain development conventions including formatting (inline string interpolation), imports organization, checked arithmetic, error handling, unsafe code patterns, a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "liuchengxu",
+    "github": "liuchengxu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/liuchengxu/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/liuchengxu/dotfiles/main/claude/skills/rust-blockchain-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-15T14:28:29.000Z",
+  "created_at": "2025-12-22T17:59:53.834Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/liuchengxu%2Fdotfiles/claude%2Fskills%2Frust-blockchain-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_c35a4a728d54"
+  }
+}

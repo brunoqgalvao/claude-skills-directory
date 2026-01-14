@@ -1,0 +1,37 @@
+{
+  "id": "ros2-custom-interfaces",
+  "name": "ros2-custom-interfaces",
+  "version": "1.0.0",
+  "summary": "Generate ROS 2 custom message (.msg) and service (.srv) interface definitions for educational content. This skill should be used when creating lessons that teach interface desig...",
+  "verticals": [
+    "marketing",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mjunaidca",
+    "github": "mjunaidca"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mjunaidca/robolearn",
+    "skill_md": "https://raw.githubusercontent.com/mjunaidca/robolearn/main/.claude/skills/authoring/ros2-custom-interfaces/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:59.269Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mjunaidca%2Frobolearn/.claude%2Fskills%2Fauthoring%2Fros2-custom-interfaces%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_cd942c6aed8b"
+  }
+}

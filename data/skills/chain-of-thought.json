@@ -1,0 +1,35 @@
+{
+  "id": "chain-of-thought",
+  "name": "chain-of-thought",
+  "version": "1.0.0",
+  "summary": "Inject structured reasoning blocks into prompts to encourage step-by-step thinking. Use when tasks require complex problem-solving, multi-step reasoning, planning, analysis, or ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Wesley1600",
+    "github": "Wesley1600"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Wesley1600/ClaudeCodeFrameWork",
+    "skill_md": "https://raw.githubusercontent.com/Wesley1600/ClaudeCodeFrameWork/main/.claude/skills/chain-of-thought/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:15:20.713Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Wesley1600%2FClaudeCodeFrameWork/.claude%2Fskills%2Fchain-of-thought%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_1a2bfd2a2217"
+  }
+}

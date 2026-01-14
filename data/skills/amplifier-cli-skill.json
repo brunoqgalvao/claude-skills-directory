@@ -1,0 +1,36 @@
+{
+  "id": "amplifier-cli-skill",
+  "name": "amplifier-cli-skill",
+  "version": "1.0.0",
+  "summary": "Skill for building CLI applications on the Amplifier platform. Teaches amplifier-foundation patterns as the source of truth for composable AI application development. Use when b...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "michaeljabbour",
+    "github": "michaeljabbour"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/michaeljabbour/amplifier-cli-skill",
+    "skill_md": "https://raw.githubusercontent.com/michaeljabbour/amplifier-cli-skill/main/skills/amplifier-cli-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.593Z",
+  "created_at": "2025-12-23T00:23:35.891Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/michaeljabbour%2Famplifier-cli-skill/skills%2Famplifier-cli-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.593Z",
+    "uniqueId": "sk_db0f2f926774"
+  }
+}

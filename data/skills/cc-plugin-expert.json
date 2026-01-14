@@ -1,0 +1,36 @@
+{
+  "id": "cc-plugin-expert",
+  "name": "cc-plugin-expert",
+  "version": "1.0.0",
+  "summary": "Comprehensive Claude Code plugin development expert providing guidance for creation, maintenance, installation, configuration, and troubleshooting of plugins and skills",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "menoncello",
+    "github": "menoncello"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/menoncello/menon-market",
+    "skill_md": "https://raw.githubusercontent.com/menoncello/menon-market/main/plugins/studio-cc/skills/claude-code-plugin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:23.489Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/menoncello%2Fmenon-market/plugins%2Fstudio-cc%2Fskills%2Fclaude-code-plugin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_e2aea70c65c6"
+  }
+}

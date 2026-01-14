@@ -1,0 +1,37 @@
+{
+  "id": "architecture-paradigm-layered",
+  "name": "architecture-paradigm-layered",
+  "version": "1.0.0",
+  "summary": "Use a Layered (or N-Tier) architecture to separate presentation, domain logic, and data access responsibilities within a system. Use when building traditional applications with ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/archetypes/skills/architecture-paradigm-layered/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T02:20:43.000Z",
+  "created_at": "2025-12-22T17:11:32.083Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Farchetypes%2Fskills%2Farchitecture-paradigm-layered%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_a50bee2c3c33"
+  }
+}

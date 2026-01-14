@@ -1,0 +1,35 @@
+{
+  "id": "using-skogactions",
+  "name": "using-skogactions",
+  "version": "1.0.0",
+  "summary": "Use when starting any conversation - establishes mandatory workflows for finding and using skills, including using Skill tool before announcing usage, following brainstorming be...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SkogAI",
+    "github": "SkogAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SkogAI/skillsandknowledge",
+    "skill_md": "https://raw.githubusercontent.com/SkogAI/skillsandknowledge/main/actions/using-skogactions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:01:58.585Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SkogAI%2Fskillsandknowledge/actions%2Fusing-skogactions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_d0797d6b0254"
+  }
+}

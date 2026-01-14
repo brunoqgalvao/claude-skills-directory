@@ -1,0 +1,35 @@
+{
+  "id": "cur-data",
+  "name": "cur-data",
+  "version": "1.0.0",
+  "summary": "Knowledge about AWS Cost and Usage Report data structure, column formats, and analysis patterns",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "T-Klug",
+    "github": "T-Klug"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/T-Klug/aws-cur-report-generator",
+    "skill_md": "https://raw.githubusercontent.com/T-Klug/aws-cur-report-generator/main/.claude/skills/cur-data/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:05:37.824Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/T-Klug%2Faws-cur-report-generator/.claude%2Fskills%2Fcur-data%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_35be0ee3e34e"
+  }
+}

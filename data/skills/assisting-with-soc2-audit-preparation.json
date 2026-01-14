@@ -1,0 +1,36 @@
+{
+  "id": "assisting-with-soc2-audit-preparation",
+  "name": "assisting-with-soc2-audit-preparation",
+  "version": "1.0.0",
+  "summary": "This skill assists with SOC2 audit preparation by automating tasks related to evidence gathering and documentation. It leverages the soc2-audit-helper plugin to generate reports...",
+  "verticals": [
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skill-structure-cleanup-20251108-073936/plugins/security/soc2-audit-helper/skills/soc2-audit-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:40.339Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskill-structure-cleanup-20251108-073936%2Fplugins%2Fsecurity%2Fsoc2-audit-helper%2Fskills%2Fsoc2-audit-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_821d318b52c7"
+  }
+}

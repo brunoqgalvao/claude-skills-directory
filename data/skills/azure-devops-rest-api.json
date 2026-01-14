@@ -1,0 +1,37 @@
+{
+  "id": "azure-devops-rest-api",
+  "name": "azure-devops-rest-api",
+  "version": "1.0.0",
+  "summary": "Guide for working with Azure DevOps REST APIs and OpenAPI specifications. Use this skill when implementing new Azure DevOps API integrations, exploring API capabilities, underst...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Tiberriver256",
+    "github": "Tiberriver256"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Tiberriver256/mcp-server-azure-devops",
+    "skill_md": "https://raw.githubusercontent.com/Tiberriver256/mcp-server-azure-devops/main/.github/skills/azure-devops-rest-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:22.229Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Tiberriver256%2Fmcp-server-azure-devops/.github%2Fskills%2Fazure-devops-rest-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_6094bc06866c"
+  }
+}

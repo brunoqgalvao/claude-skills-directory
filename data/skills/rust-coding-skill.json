@@ -1,0 +1,37 @@
+{
+  "id": "rust-coding-skill",
+  "name": "rust-coding-skill",
+  "version": "1.0.0",
+  "summary": "Guides Claude in writing idiomatic, efficient, well-structured Rust code using proper data modeling, traits, impl organization, macros, and build-speed best practices.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "UtakataKyosui",
+    "github": "UtakataKyosui"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/UtakataKyosui/UtakataClaudeCodePluginMarketPlace",
+    "skill_md": "https://raw.githubusercontent.com/UtakataKyosui/UtakataClaudeCodePluginMarketPlace/main/rust/skills/rust-coder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.832Z",
+  "created_at": "2025-12-22T16:54:06.549Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/UtakataKyosui%2FUtakataClaudeCodePluginMarketPlace/rust%2Fskills%2Frust-coder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.832Z",
+    "uniqueId": "sk_29476fd94eb6"
+  }
+}

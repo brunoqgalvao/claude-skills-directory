@@ -1,0 +1,35 @@
+{
+  "id": "double-check",
+  "name": "double-check",
+  "version": "1.0.0",
+  "summary": "An easy way to force agent to think again if it's statement that the \"Job is done and production ready\" is actually done - usually it's not. This skill ensures that that the AI ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sagerstack",
+    "github": "sagerstack"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sagerstack/pca-face-recognition",
+    "skill_md": "https://raw.githubusercontent.com/sagerstack/pca-face-recognition/main/.claude/skill/double-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T16:03:12.000Z",
+  "created_at": "2025-12-22T14:51:01.019Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sagerstack%2Fpca-face-recognition/.claude%2Fskill%2Fdouble-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_0d951c1f8eda"
+  }
+}

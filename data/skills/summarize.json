@@ -1,0 +1,35 @@
+{
+  "id": "summarize",
+  "name": "summarize",
+  "version": "1.0.0",
+  "summary": "Summarize URLs or files with the summarize CLI (web, PDFs, images, audio, YouTube).",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "steipete",
+    "github": "steipete"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/steipete/clawdis",
+    "skill_md": "https://raw.githubusercontent.com/steipete/clawdis/main/skills/summarize/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.575Z",
+  "created_at": "2025-12-23T01:28:26.416Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/steipete%2Fclawdis/skills%2Fsummarize%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_9a694d3bbf91"
+  }
+}

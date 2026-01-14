@@ -1,0 +1,36 @@
+{
+  "id": "wolf-context-management",
+  "name": "wolf-context-management",
+  "version": "1.0.0",
+  "summary": "Phase-aware context management for coder agents to prevent token bloat through checkpoint/restore pattern",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nice-Wolf-Studio",
+    "github": "Nice-Wolf-Studio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nice-Wolf-Studio/wolf-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Nice-Wolf-Studio/wolf-skills-marketplace/main/wolf-context-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:54.032Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nice-Wolf-Studio%2Fwolf-skills-marketplace/wolf-context-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_1db782d12a19"
+  }
+}

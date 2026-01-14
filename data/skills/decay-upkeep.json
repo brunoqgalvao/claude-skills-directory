@@ -1,0 +1,37 @@
+{
+  "id": "decay-upkeep",
+  "name": "decay-upkeep",
+  "version": "1.0.0",
+  "summary": "Building decay and upkeep systems for survival games. Use when implementing timer-based decay, Tool Cupboard patterns (Rust-style protection radius), resource upkeep costs, or s...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Bbeierle12",
+    "github": "Bbeierle12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Bbeierle12/Skill-MCP-Claude",
+    "skill_md": "https://raw.githubusercontent.com/Bbeierle12/Skill-MCP-Claude/main/skills/decay-upkeep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.860Z",
+  "created_at": "2025-12-22T15:08:32.598Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Bbeierle12%2FSkill-MCP-Claude/skills%2Fdecay-upkeep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_9c56901ed877"
+  }
+}

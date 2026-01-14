@@ -1,0 +1,36 @@
+{
+  "id": "claude-hook-writer",
+  "name": "claude-hook-writer",
+  "version": "1.0.0",
+  "summary": "Expert guidance for writing secure, reliable, and performant Claude Code hooks - validates design decisions, enforces best practices, and prevents common pitfalls",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pr-pm",
+    "github": "pr-pm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pr-pm/prpm",
+    "skill_md": "https://raw.githubusercontent.com/pr-pm/prpm/main/.claude/skills/claude-hook-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.621Z",
+  "created_at": "2025-12-22T23:19:48.387Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pr-pm%2Fprpm/.claude%2Fskills%2Fclaude-hook-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.621Z",
+    "uniqueId": "sk_fb9345f80ce3"
+  }
+}

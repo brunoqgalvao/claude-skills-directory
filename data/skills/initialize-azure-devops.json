@@ -1,0 +1,37 @@
+{
+  "id": "initialize-azure-devops",
+  "name": "initialize-azure-devops",
+  "version": "1.0.0",
+  "summary": "Set up connection to Azure DevOps organization and project. Required before using any Azure DevOps commands. Use when starting a new session.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusshepp",
+    "github": "marcusshepp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusshepp/useful",
+    "skill_md": "https://raw.githubusercontent.com/marcusshepp/useful/main/network/.github/skills/initialize-azure-devops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:05:52.615Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusshepp%2Fuseful/network%2F.github%2Fskills%2Finitialize-azure-devops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_47c8d43b6f1e"
+  }
+}

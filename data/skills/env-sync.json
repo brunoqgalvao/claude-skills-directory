@@ -1,0 +1,35 @@
+{
+  "id": "env-sync",
+  "name": "env-sync",
+  "version": "1.0.0",
+  "summary": "Ensures .env.example is updated whenever .env files are modified. Use when adding environment variables, API keys, configuration values, or any secrets to .env files. Prevents c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "siti34",
+    "github": "siti34"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/siti34/SPDS-URA",
+    "skill_md": "https://raw.githubusercontent.com/siti34/SPDS-URA/main/.claude/skills/env-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T15:29:36.000Z",
+  "created_at": "2025-12-23T01:28:51.136Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/siti34%2FSPDS-URA/.claude%2Fskills%2Fenv-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.547Z",
+    "uniqueId": "sk_d3cf78f4343d"
+  }
+}

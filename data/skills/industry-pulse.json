@@ -1,0 +1,35 @@
+{
+  "id": "industry-pulse",
+  "name": "industry-pulse",
+  "version": "1.0.0",
+  "summary": "Get a real-time pulse check on any industry or niche. Includes trending technologies, notable events from the last 2 weeks, and key shifts impacting operators and investors.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majesticlabs-dev",
+    "github": "majesticlabs-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majesticlabs-dev/majestic-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/majesticlabs-dev/majestic-marketplace/main/plugins/majestic-company/skills/ceo/industry-pulse/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T06:32:30.000Z",
+  "created_at": "2025-12-23T01:28:48.310Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majesticlabs-dev%2Fmajestic-marketplace/plugins%2Fmajestic-company%2Fskills%2Fceo%2Findustry-pulse%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_b3dba1e0cce8"
+  }
+}

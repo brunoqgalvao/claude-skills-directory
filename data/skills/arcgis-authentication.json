@@ -1,0 +1,37 @@
+{
+  "id": "arcgis-authentication",
+  "name": "arcgis-authentication",
+  "version": "1.0.0",
+  "summary": "Implement authentication with ArcGIS using OAuth 2.0, API keys, and identity management. Use for accessing secured services, portal items, and user-specific content.",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SaschaBrunnerCH",
+    "github": "SaschaBrunnerCH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context",
+    "skill_md": "https://raw.githubusercontent.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context/main/contexts/4.34/claude/arcgis-authentication/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:12.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SaschaBrunnerCH%2Farcgis-maps-sdk-js-ai-context/contexts%2F4.34%2Fclaude%2Farcgis-authentication%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_82d560640d68"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "solution-selection",
+  "name": "solution-selection",
+  "version": "1.0.0",
+  "summary": "생성된 아이디어를 평가하고 최적의 솔루션을 선택합니다. MVP 개발을 위한 기능 우선순위를 지정할 때 사용하세요.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cna-bootcamp",
+    "github": "cna-bootcamp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cna-bootcamp/aiguide",
+    "skill_md": "https://raw.githubusercontent.com/cna-bootcamp/aiguide/main/.claude/skills/11-solution-selection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:08.892Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cna-bootcamp%2Faiguide/.claude%2Fskills%2F11-solution-selection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_10a65c98a6d6"
+  }
+}

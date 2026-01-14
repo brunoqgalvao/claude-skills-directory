@@ -1,0 +1,36 @@
+{
+  "id": "covered-call",
+  "name": "covered-call",
+  "version": "1.0.0",
+  "summary": "Implement covered call options strategy for income generation on long stock positions. Use when seeking to enhance returns through option premium collection while maintaining st...",
+  "verticals": [
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "keith-mvs",
+    "github": "keith-mvs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/keith-mvs/ordinis",
+    "skill_md": "https://raw.githubusercontent.com/keith-mvs/ordinis/main/docs/knowledge-base/domains/options/strategy-implementations/covered-call/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:20.522Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/keith-mvs%2Fordinis/docs%2Fknowledge-base%2Fdomains%2Foptions%2Fstrategy-implementations%2Fcovered-call%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_a6f7e521e668"
+  }
+}

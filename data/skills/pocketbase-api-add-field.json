@@ -1,0 +1,36 @@
+{
+  "id": "pocketbase-api-add-field",
+  "name": "pocketbase-api-add-field",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"add fields to PocketBase collection\", \"modify PocketBase schema\", \"add new collection fields\", \"update PocketBase collection\", \"...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Whamp",
+    "github": "Whamp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Whamp/whamp-claude-tools",
+    "skill_md": "https://raw.githubusercontent.com/Whamp/whamp-claude-tools/main/pocketbase-plugin/skills/pocketbase-api-add-field/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:56:55.605Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Whamp%2Fwhamp-claude-tools/pocketbase-plugin%2Fskills%2Fpocketbase-api-add-field%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_bc3e13b366db"
+  }
+}

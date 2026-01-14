@@ -1,0 +1,37 @@
+{
+  "id": "dry-refactoring",
+  "name": "dry-refactoring",
+  "version": "1.0.0",
+  "summary": "Guides systematic code refactoring following the DRY (Don't Repeat Yourself) principle. Use when user asks to eliminate code duplication, refactor repetitive code, apply DRY pri...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "YYH211",
+    "github": "YYH211"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/YYH211/Claude-meta-skill",
+    "skill_md": "https://raw.githubusercontent.com/YYH211/Claude-meta-skill/main/dry-refactoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:15:18.715Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/YYH211%2FClaude-meta-skill/dry-refactoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_6d2150eaf6ff"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-analyzer",
+  "name": "git-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyzes a local Git repository to provide summaries of recent activity, top contributors, and uncommitted changes.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "meetrais",
+    "github": "meetrais"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/meetrais/claude-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/meetrais/claude-agent-skills/main/custom_skills/skills/git-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.851Z",
+  "created_at": "2025-12-22T15:56:34.501Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/meetrais%2Fclaude-agent-skills/custom_skills%2Fskills%2Fgit-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_e9a0a7cd373a"
+  }
+}

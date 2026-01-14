@@ -1,0 +1,35 @@
+{
+  "id": "img-optimize",
+  "name": "img-optimize",
+  "version": "1.0.0",
+  "summary": "This skill should be used when optimizing, converting, or resizing images. Trigger when user mentions image optimization, HEIC/HEIF conversion, JPEG/PNG/WebP/AVIF processing, re...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lttr",
+    "github": "lttr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lttr/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/lttr/dotfiles/main/claude/skills/img-optimize/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:06.334Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lttr%2Fdotfiles/claude%2Fskills%2Fimg-optimize%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_90f8369f4d9f"
+  }
+}

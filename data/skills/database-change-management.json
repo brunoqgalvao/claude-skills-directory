@@ -1,0 +1,35 @@
+{
+  "id": "database-change-management",
+  "name": "database-change-management",
+  "version": "1.0.0",
+  "summary": "Plan and implement safe database schema changes including migrations, indexes, and backfills. Use when creating\ntables, adding columns, optimizing queries, or managing Eloquent ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mgkyawzayya",
+    "github": "mgkyawzayya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mgkyawzayya/claude-code-usage-flow",
+    "skill_md": "https://raw.githubusercontent.com/mgkyawzayya/claude-code-usage-flow/main/.claude/skills/database-change-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:27.426Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mgkyawzayya%2Fclaude-code-usage-flow/.claude%2Fskills%2Fdatabase-change-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_c55e2b81bdda"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "clean-architecture-golang",
+  "name": "clean-architecture-golang",
+  "version": "1.0.0",
+  "summary": "Implement Clean Architecture principles in Go to create maintainable, testable, and framework-independent applications. Use when designing new Go applications or refactoring exi...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "craftaholic",
+    "github": "craftaholic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/craftaholic/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/craftaholic/dotfiles/main/claude/.claude/skills/architecture/specific-language/golang/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:09:17.070Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/craftaholic%2Fdotfiles/claude%2F.claude%2Fskills%2Farchitecture%2Fspecific-language%2Fgolang%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_812dfe925c80"
+  }
+}

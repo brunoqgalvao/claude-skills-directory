@@ -1,0 +1,35 @@
+{
+  "id": "microimpute",
+  "name": "microimpute",
+  "version": "1.0.0",
+  "summary": "ML-based variable imputation for survey data - used in policyengine-us-data to fill missing values",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PolicyEngine",
+    "github": "PolicyEngine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PolicyEngine/policyengine-claude",
+    "skill_md": "https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/data-science/microimpute-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:07:58.478Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PolicyEngine%2Fpolicyengine-claude/skills%2Fdata-science%2Fmicroimpute-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_e236fc4808f5"
+  }
+}

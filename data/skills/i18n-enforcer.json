@@ -1,0 +1,36 @@
+{
+  "id": "i18n-enforcer",
+  "name": "i18n-enforcer",
+  "version": "1.0.0",
+  "summary": "Enforces internationalization best practices for Breath of Now. Use this skill when creating or editing any component, page, or UI element. Ensures NO hardcoded text and proper ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "diogo-heleno",
+    "github": "diogo-heleno"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/diogo-heleno/breathofnow",
+    "skill_md": "https://raw.githubusercontent.com/diogo-heleno/breathofnow/main/.claude/skills/i18n-enforcer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:02:54.682Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/diogo-heleno%2Fbreathofnow/.claude%2Fskills%2Fi18n-enforcer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_b37d08e06d7f"
+  }
+}

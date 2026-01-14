@@ -1,0 +1,37 @@
+{
+  "id": "sf-deploy",
+  "name": "sf-deploy",
+  "version": "1.0.0",
+  "summary": "Comprehensive Salesforce DevOps automation using sf CLI v2. Use when deploying metadata, managing scratch orgs, setting up CI/CD pipelines, or troubleshooting deployment errors.",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Jaganpro",
+    "github": "Jaganpro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Jaganpro/sf-skills",
+    "skill_md": "https://raw.githubusercontent.com/Jaganpro/sf-skills/main/sf-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:10:59.301Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Jaganpro%2Fsf-skills/sf-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_76d710aa3c86"
+  }
+}

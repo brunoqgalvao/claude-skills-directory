@@ -1,0 +1,37 @@
+{
+  "id": "troubleshooting-config-items",
+  "name": "troubleshooting-config-items",
+  "version": "1.0.0",
+  "summary": "Troubleshoots infrastructure and application configuration items in Mission Control by diagnosing health issues, analyzing recent changes, and investigating resource relationshi...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "flanksource",
+    "github": "flanksource"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/flanksource/claude-code-plugin",
+    "skill_md": "https://raw.githubusercontent.com/flanksource/claude-code-plugin/main/skills/troubleshooting-config-item/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:49.542Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/flanksource%2Fclaude-code-plugin/skills%2Ftroubleshooting-config-item%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_88624da1d341"
+  }
+}

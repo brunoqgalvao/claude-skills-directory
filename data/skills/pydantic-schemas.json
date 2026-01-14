@@ -1,0 +1,37 @@
+{
+  "id": "pydantic-schemas",
+  "name": "pydantic-schemas",
+  "version": "1.0.0",
+  "summary": "Research-driven Pydantic v2 schema development. Injects research steps, validation requirements, and SDK verification. Use when working with data models, configuration, validati...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Obsidian-Owl",
+    "github": "Obsidian-Owl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Obsidian-Owl/floe-runtime",
+    "skill_md": "https://raw.githubusercontent.com/Obsidian-Owl/floe-runtime/main/.claude/skills/pydantic-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.525Z",
+  "created_at": "2025-12-23T01:29:05.485Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Obsidian-Owl%2Ffloe-runtime/.claude%2Fskills%2Fpydantic-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.525Z",
+    "uniqueId": "sk_0a326c18fff9"
+  }
+}

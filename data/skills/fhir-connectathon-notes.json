@@ -1,0 +1,36 @@
+{
+  "id": "fhir-connectathon-notes",
+  "name": "fhir-connectathon-notes",
+  "version": "1.0.0",
+  "summary": "Testing toolkit for the FHIR Writing Clinical Notes specification at connectathons. Use when the user needs to test FHIR DocumentReference write operations, validate conformance...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmandel",
+    "github": "jmandel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmandel/write-clinical-notes.skill",
+    "skill_md": "https://raw.githubusercontent.com/jmandel/write-clinical-notes.skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:58.360Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmandel%2Fwrite-clinical-notes.skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_e977c4d5721f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "writing-openrewrite-recipes-js",
+  "name": "writing-openrewrite-recipes-js",
+  "version": "1.0.0",
+  "summary": "This skill should be used when authoring OpenRewrite recipes in TypeScript for automated code transformations. Covers recipe structure, visitor patterns, pattern matching, templ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "openrewrite",
+    "github": "openrewrite"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/openrewrite/rewrite-docs",
+    "skill_md": "https://raw.githubusercontent.com/openrewrite/rewrite-docs/main/openrewrite-recipe-writer/skills/writing-openrewrite-recipes-js/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:56.970Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/openrewrite%2Frewrite-docs/openrewrite-recipe-writer%2Fskills%2Fwriting-openrewrite-recipes-js%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_0e911e30db0c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "system-prompt-writer",
+  "name": "system-prompt-writer",
+  "version": "1.0.0",
+  "summary": "This skill should be used when writing or improving system prompts for AI agents, providing expert guidance based on Anthropic's context engineering principles.",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aws-samples",
+    "github": "aws-samples"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aws-samples/aws-ai-ml-workshop-kr",
+    "skill_md": "https://raw.githubusercontent.com/aws-samples/aws-ai-ml-workshop-kr/main/genai/aws-gen-ai-kr/20_applications/08_bedrock_manus/use_cases/06_insight_extractor_strands_sdk_workshop_phase_1/skills/system-prompt-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.471Z",
+  "created_at": "2025-12-23T01:30:49.564Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aws-samples%2Faws-ai-ml-workshop-kr/genai%2Faws-gen-ai-kr%2F20_applications%2F08_bedrock_manus%2Fuse_cases%2F06_insight_extractor_strands_sdk_workshop_phase_1%2Fskills%2Fsystem-prompt-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.471Z",
+    "uniqueId": "sk_9d06a0c05a93"
+  }
+}

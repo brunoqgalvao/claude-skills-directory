@@ -1,0 +1,36 @@
+{
+  "id": "biogeobears",
+  "name": "biogeobears",
+  "version": "1.0.0",
+  "summary": "Set up and execute phylogenetic biogeographic analyses using BioGeoBEARS in R. Use when users request biogeographic reconstruction, ancestral range estimation, or want to analyz...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brunoasm",
+    "github": "brunoasm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brunoasm/my_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/brunoasm/my_claude_skills/main/biogeobears/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:57.102Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brunoasm%2Fmy_claude_skills/biogeobears%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_c6e23e0bebc7"
+  }
+}

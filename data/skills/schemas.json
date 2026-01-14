@@ -1,0 +1,35 @@
+{
+  "id": "schemas",
+  "name": "schemas",
+  "version": "1.0.0",
+  "summary": "YAML frontmatter schemas for Claude Code agents and commands. Use when creating or validating agent/command files.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claude-code/main/plugins/agentdev/skills/schemas/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.553Z",
+  "created_at": "2025-12-23T01:28:47.536Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaude-code/plugins%2Fagentdev%2Fskills%2Fschemas%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.553Z",
+    "uniqueId": "sk_56d27dd7c243"
+  }
+}

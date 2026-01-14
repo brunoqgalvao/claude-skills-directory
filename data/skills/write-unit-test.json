@@ -1,0 +1,36 @@
+{
+  "id": "write-unit-test",
+  "name": "write-unit-test",
+  "version": "1.0.0",
+  "summary": "Generate behavioral unit tests from functional specifications using PreDB/PostDB pattern. Use when user provides specs with PreDB/Workflow/PostDB structure or asks to write test...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "coeus-ventures",
+    "github": "coeus-ventures"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/coeus-ventures/web-template",
+    "skill_md": "https://raw.githubusercontent.com/coeus-ventures/web-template/main/.claude/skills/write-unit-test/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:11.878Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/coeus-ventures%2Fweb-template/.claude%2Fskills%2Fwrite-unit-test%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_7bf034ff0e2a"
+  }
+}

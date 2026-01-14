@@ -1,0 +1,36 @@
+{
+  "id": "canvas-filmstrip-testing",
+  "name": "canvas-filmstrip-testing",
+  "version": "1.0.0",
+  "summary": "Visual regression for canvas-rendered matrix progressions. Tests filmstrip strips that show how 2D data evolves visually over time. Auto-apply when editing *Progressions.ts stri...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "surfdeeper",
+    "github": "surfdeeper"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/surfdeeper/surfing-game",
+    "skill_md": "https://raw.githubusercontent.com/surfdeeper/surfing-game/main/.claude/skills/canvas-filmstrip-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:55:05.397Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/surfdeeper%2Fsurfing-game/.claude%2Fskills%2Fcanvas-filmstrip-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_504ef98c733c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tech-stack",
+  "name": "tech-stack",
+  "version": "1.0.0",
+  "summary": "Generate and validate tech stack documentation. Use when starting a new project, documenting technology choices, or when user asks to create/update tech stack documentation. Inc...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mabrax",
+    "github": "mabrax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mabrax/coihuin-board",
+    "skill_md": "https://raw.githubusercontent.com/mabrax/coihuin-board/main/.claude/skills/tech-stack/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:58:21.676Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mabrax%2Fcoihuin-board/.claude%2Fskills%2Ftech-stack%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_9b6dcee422ea"
+  }
+}

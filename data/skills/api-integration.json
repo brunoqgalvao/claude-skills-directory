@@ -1,0 +1,35 @@
+{
+  "id": "api-integration",
+  "name": "api-integration",
+  "version": "1.0.0",
+  "summary": "외부 입찰 플랫폼 API 연동 - TED, 나라장터(G2B), SAM.gov API 테스트 및 데이터 조회",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sihu-dev",
+    "github": "sihu-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sihu-dev/bidflow",
+    "skill_md": "https://raw.githubusercontent.com/sihu-dev/bidflow/main/.claude/skills/api-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:53:19.375Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sihu-dev%2Fbidflow/.claude%2Fskills%2Fapi-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_9a5854ea37a7"
+  }
+}

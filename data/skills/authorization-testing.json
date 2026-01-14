@@ -1,0 +1,35 @@
+{
+  "id": "authorization-testing",
+  "name": "authorization-testing",
+  "version": "1.0.0",
+  "summary": "Validate authorization failures including IDOR, privilege escalation, and missing access controls. Test by attempting unauthorized access with lower-privileged credentials. Use ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anshumanbh",
+    "github": "anshumanbh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anshumanbh/securevibes",
+    "skill_md": "https://raw.githubusercontent.com/anshumanbh/securevibes/main/packages/core/securevibes/skills/dast/authorization-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:41.867Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anshumanbh%2Fsecurevibes/packages%2Fcore%2Fsecurevibes%2Fskills%2Fdast%2Fauthorization-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_7ec37decde57"
+  }
+}

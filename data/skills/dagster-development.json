@@ -1,0 +1,37 @@
+{
+  "id": "dagster-development",
+  "name": "dagster-development",
+  "version": "1.0.0",
+  "summary": "Expert guidance for Dagster data orchestration including assets, resources, schedules, sensors, partitions, testing, and ETL patterns. Use when building or extending Dagster pro...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C00ldudeNoonan",
+    "github": "C00ldudeNoonan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C00ldudeNoonan/economic-data-project",
+    "skill_md": "https://raw.githubusercontent.com/C00ldudeNoonan/economic-data-project/main/.claude/skills/dagster-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:19:22.814Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C00ldudeNoonan%2Feconomic-data-project/.claude%2Fskills%2Fdagster-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_ea25903a6667"
+  }
+}

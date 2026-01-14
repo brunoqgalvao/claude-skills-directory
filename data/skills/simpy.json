@@ -1,0 +1,37 @@
+{
+  "id": "simpy",
+  "name": "simpy",
+  "version": "1.0.0",
+  "summary": "Process-based discrete-event simulation framework in Python. Use this skill when building simulations of systems with processes, queues, resources, and time-based events such as...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lifangda",
+    "github": "lifangda"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lifangda/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/lifangda/claude-plugins/main/cli-tool/skills-library/scientific-computing/data-visualization/simpy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T01:33:37.000Z",
+  "created_at": "2025-12-22T21:15:42.823Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lifangda%2Fclaude-plugins/cli-tool%2Fskills-library%2Fscientific-computing%2Fdata-visualization%2Fsimpy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.438Z",
+    "uniqueId": "sk_d97804ef651c"
+  }
+}

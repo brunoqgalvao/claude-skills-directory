@@ -1,0 +1,37 @@
+{
+  "id": "grant-compliance-checking",
+  "name": "grant-compliance-checking",
+  "version": "1.0.0",
+  "summary": "Expert knowledge of research grant compliance requirements, deliverables tracking, and funder expectations. Use when reviewing work against grant specifications, preparing progr...",
+  "verticals": [
+    "legal",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seabbs",
+    "github": "seabbs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seabbs/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/seabbs/claude-code-config/main/skills/grant-compliance-checking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T17:21:17.000Z",
+  "created_at": "2025-12-23T01:29:27.339Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seabbs%2Fclaude-code-config/skills%2Fgrant-compliance-checking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_d78f50c12d43"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "optimize-queries",
+  "name": "optimize-queries",
+  "version": "1.0.0",
+  "summary": "Automatically optimize Supabase PostgreSQL queries by analyzing execution plans, adding indexes, and improving RLS policies. Triggers when user mentions slow queries, performanc...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rdimascio",
+    "github": "rdimascio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rdimascio/supabase-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/rdimascio/supabase-marketplace/main/plugins/database-operations/.claude/skills/optimize-queries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:27.756Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rdimascio%2Fsupabase-marketplace/plugins%2Fdatabase-operations%2F.claude%2Fskills%2Foptimize-queries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_d200f88d434f"
+  }
+}

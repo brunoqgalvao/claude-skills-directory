@@ -1,0 +1,35 @@
+{
+  "id": "ce101-slides",
+  "name": "ce101-slides",
+  "version": "1.0.0",
+  "summary": "Context Engineering 101 curriculum slide generation. Use this skill when working on CE101 curriculum to: (1) Generate styled PowerPoint presentations from markdown, (2) Create P...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brendanbecker",
+    "github": "brendanbecker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brendanbecker/ce101",
+    "skill_md": "https://raw.githubusercontent.com/brendanbecker/ce101/main/.claude/skills/ce101-slides/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:37.432Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brendanbecker%2Fce101/.claude%2Fskills%2Fce101-slides%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_2a79125280d4"
+  }
+}

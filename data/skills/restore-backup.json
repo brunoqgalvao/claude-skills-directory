@@ -1,0 +1,35 @@
+{
+  "id": "restore-backup",
+  "name": "restore-backup",
+  "version": "1.0.0",
+  "summary": "Restores applications and data from Velero backups with proper configuration, validation, and verification.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpryc",
+    "github": "mpryc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpryc/ai-agents-and-skills",
+    "skill_md": "https://raw.githubusercontent.com/mpryc/ai-agents-and-skills/main/claude/oadp-operator/skills/backup-restore/restore-backup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.675Z",
+  "created_at": "2025-12-22T22:13:44.379Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpryc%2Fai-agents-and-skills/claude%2Foadp-operator%2Fskills%2Fbackup-restore%2Frestore-backup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.675Z",
+    "uniqueId": "sk_0445f08e9234"
+  }
+}

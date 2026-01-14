@@ -1,0 +1,36 @@
+{
+  "id": "performance-budget-checker",
+  "name": "performance-budget-checker",
+  "version": "1.0.0",
+  "summary": "Detects performance anti-patterns like N+1 queries, nested loops, large file operations, and inefficient algorithms. Suggests fast fixes before issues reach production.",
+  "verticals": [
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MacroMan5",
+    "github": "MacroMan5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MacroMan5/claude-code-workflow-plugins",
+    "skill_md": "https://raw.githubusercontent.com/MacroMan5/claude-code-workflow-plugins/main/.claude/skills/performance-budget-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T19:17:43.000Z",
+  "created_at": "2025-12-23T01:29:24.553Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MacroMan5%2Fclaude-code-workflow-plugins/.claude%2Fskills%2Fperformance-budget-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.501Z",
+    "uniqueId": "sk_4747595f264c"
+  }
+}

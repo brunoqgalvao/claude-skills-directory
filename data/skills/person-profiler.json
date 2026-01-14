@@ -1,0 +1,35 @@
+{
+  "id": "person-profiler",
+  "name": "person-profiler",
+  "version": "1.0.0",
+  "summary": "Perform preliminary internet research on a person and generate a structured report. Use when the user asks to research, profile, or get information about a specific person by name.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vmasrani",
+    "github": "vmasrani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vmasrani/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/vmasrani/dotfiles/main/maintained_global_claude/skills/person-profiler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.772Z",
+  "created_at": "2025-12-22T20:00:34.431Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vmasrani%2Fdotfiles/maintained_global_claude%2Fskills%2Fperson-profiler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_3c94eb205778"
+  }
+}

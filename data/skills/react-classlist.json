@@ -1,0 +1,35 @@
+{
+  "id": "react-classlist",
+  "name": "react-classlist",
+  "version": "1.0.0",
+  "summary": "Organize long or disorganized className attributes in React components into semantic groups using cn() or className",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ahkohd",
+    "github": "ahkohd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ahkohd/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ahkohd/dotfiles/main/claude/.claude/skills/react-classlist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:36.790Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ahkohd%2Fdotfiles/claude%2F.claude%2Fskills%2Freact-classlist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_71273ce22b66"
+  }
+}

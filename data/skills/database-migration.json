@@ -1,0 +1,35 @@
+{
+  "id": "database-migration",
+  "name": "database-migration",
+  "version": "1.0.0",
+  "summary": "Create database migration with schema changes and rollback. Auto-invoke when user says \"create migration\", \"add table\", \"modify schema\", or \"change database\".",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alekspetrov",
+    "github": "alekspetrov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alekspetrov/navigator",
+    "skill_md": "https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/database-migration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T15:29:35.000Z",
+  "created_at": "2025-12-22T14:52:10.662Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alekspetrov%2Fnavigator/skills%2Fdatabase-migration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_6f6166fd2202"
+  }
+}

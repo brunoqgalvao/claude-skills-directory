@@ -1,0 +1,36 @@
+{
+  "id": "nvidia-nemo",
+  "name": "nvidia-nemo",
+  "version": "1.0.0",
+  "summary": "NVIDIA NeMo framework for building and training conversational AI models. Use for NeMo Retriever models, RAG (Retrieval-Augmented Generation), embedding models, enterprise searc...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rish2jain",
+    "github": "rish2jain"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rish2jain/paperresearchagent",
+    "skill_md": "https://raw.githubusercontent.com/rish2jain/paperresearchagent/main/.claude/skills/nvidia-nemo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:57:51.314Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rish2jain%2Fpaperresearchagent/.claude%2Fskills%2Fnvidia-nemo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_0f2df027ccf7"
+  }
+}

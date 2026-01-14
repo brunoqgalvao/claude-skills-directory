@@ -1,0 +1,36 @@
+{
+  "id": "ast-grep",
+  "name": "ast-grep",
+  "version": "1.0.0",
+  "summary": "AST-based code searching with ast-grep. Use when searching code by syntax structure rather than text patterns, finding specific code patterns, or refactoring.",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "laulauland",
+    "github": "laulauland"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/laulauland/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/laulauland/dotfiles/main/shared/.claude/skills/ast-grep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:27.373Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/laulauland%2Fdotfiles/shared%2F.claude%2Fskills%2Fast-grep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_2728fb05c282"
+  }
+}

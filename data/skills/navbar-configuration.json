@@ -1,0 +1,35 @@
+{
+  "id": "navbar-configuration",
+  "name": "navbar-configuration",
+  "version": "1.0.0",
+  "summary": "Configure navbar menu items, logo, buttons, and styling. Sets up navigation from sitemap.md, ensures dropdown z-index is above content, configures buttons, and updates i18n. Dyn...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Manuelvillarvieites",
+    "github": "Manuelvillarvieites"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Manuelvillarvieites/energy-company",
+    "skill_md": "https://raw.githubusercontent.com/Manuelvillarvieites/energy-company/main/.claude/skills/navbar-configuration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.461Z",
+  "created_at": "2025-12-22T18:01:38.213Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Manuelvillarvieites%2Fenergy-company/.claude%2Fskills%2Fnavbar-configuration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_f04c84e84968"
+  }
+}

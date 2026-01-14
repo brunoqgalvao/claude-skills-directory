@@ -1,0 +1,37 @@
+{
+  "id": "sast-semgrep",
+  "name": "sast-semgrep",
+  "version": "1.0.0",
+  "summary": "Static application security testing (SAST) using Semgrep for vulnerability detection, security code review, and secure coding guidance with OWASP and CWE framework mapping. Use ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AgentSecOps",
+    "github": "AgentSecOps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AgentSecOps/SecOpsAgentKit",
+    "skill_md": "https://raw.githubusercontent.com/AgentSecOps/SecOpsAgentKit/main/skills/appsec/sast-semgrep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T10:05:50.000Z",
+  "created_at": "2025-12-23T01:29:25.328Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AgentSecOps%2FSecOpsAgentKit/skills%2Fappsec%2Fsast-semgrep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.500Z",
+    "uniqueId": "sk_90673f4f3646"
+  }
+}

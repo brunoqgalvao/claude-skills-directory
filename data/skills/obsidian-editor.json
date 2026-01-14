@@ -1,0 +1,35 @@
+{
+  "id": "obsidian-editor",
+  "name": "obsidian-editor",
+  "version": "1.0.0",
+  "summary": "Personal copy editor and content enhancer for Obsidian vault notes. Use when the user requests editing, enhancement, copyediting, critique, or improvement of markdown files. Typ...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JELambert",
+    "github": "JELambert"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JELambert/claude_setup",
+    "skill_md": "https://raw.githubusercontent.com/JELambert/claude_setup/main/skills/obsidian-editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T19:51:57.000Z",
+  "created_at": "2025-12-23T01:28:46.098Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JELambert%2Fclaude_setup/skills%2Fobsidian-editor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_592094c18cea"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "semantic-performance-builder",
+  "name": "semantic-performance-builder",
+  "version": "1.0.0",
+  "summary": "Build choreographed multi-step emotion sequences (semantic performances) for complex interactions. Use when designing welcome sequences, error recovery flows, or celebration ani...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshtol",
+    "github": "joshtol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshtol/emotive-engine",
+    "skill_md": "https://raw.githubusercontent.com/joshtol/emotive-engine/main/skills/semantic-performance-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:03:00.176Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshtol%2Femotive-engine/skills%2Fsemantic-performance-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_5b5375b5c8dc"
+  }
+}

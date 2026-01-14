@@ -1,0 +1,36 @@
+{
+  "id": "go-practices",
+  "name": "go-practices",
+  "version": "1.0.0",
+  "summary": "Go conventions for hexagonal architecture, project structure, error handling, testing, and observability. Use when writing Go services.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eser",
+    "github": "eser"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eser/rules",
+    "skill_md": "https://raw.githubusercontent.com/eser/rules/main/.claude/skills/go-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.578Z",
+  "created_at": "2025-12-23T01:28:22.406Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eser%2Frules/.claude%2Fskills%2Fgo-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_e9d8900c694f"
+  }
+}

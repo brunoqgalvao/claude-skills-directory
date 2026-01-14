@@ -1,0 +1,35 @@
+{
+  "id": "user-journey-tracking",
+  "name": "user-journey-tracking",
+  "version": "1.0.0",
+  "summary": "Track user journeys with intent context and friction signals. Use when instrumenting onboarding, checkout, or any multi-step flow where you need to understand WHY users fail.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "calube",
+    "github": "calube"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/calube/mobile-observability",
+    "skill_md": "https://raw.githubusercontent.com/calube/mobile-observability/main/skills/user-journey-tracking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T21:22:45.000Z",
+  "created_at": "2025-12-23T01:28:42.825Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/calube%2Fmobile-observability/skills%2Fuser-journey-tracking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_05823ecd7767"
+  }
+}

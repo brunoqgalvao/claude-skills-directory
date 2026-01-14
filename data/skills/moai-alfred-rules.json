@@ -1,0 +1,37 @@
+{
+  "id": "moai-alfred-rules",
+  "name": "moai-alfred-rules",
+  "version": "1.0.0",
+  "summary": "Mandatory rules for Skill invocation, AskUserQuestion usage, TRUST principles, TAG validation, and TDD workflow. Use when validating workflow compliance, checking quality gates,...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kivo360",
+    "github": "kivo360"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kivo360/quickhooks",
+    "skill_md": "https://raw.githubusercontent.com/kivo360/quickhooks/main/.claude/skills/moai-alfred-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:25.780Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kivo360%2Fquickhooks/.claude%2Fskills%2Fmoai-alfred-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_218418adefac"
+  }
+}

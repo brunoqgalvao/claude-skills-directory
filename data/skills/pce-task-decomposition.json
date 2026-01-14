@@ -1,0 +1,35 @@
+{
+  "id": "pce-task-decomposition",
+  "name": "pce-task-decomposition",
+  "version": "1.0.0",
+  "summary": "PCE (Process-Context Engine) のタスク分解スキル。親→子→孫の入れ子構造でタスクを分解し、各プロセスへのコンテキスト継承を設計する。\n\nトリガー条件:\n- 大きなタスクを受け取った時\n- 「このタスクを分解して」\n- 「実装計画を立てて」\n- 「作業を整理して」\n- 複雑な機能の実装開始時",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/pce-task-decomposition/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.548Z",
+  "created_at": "2025-12-23T01:28:51.095Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Fpce-task-decomposition%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.548Z",
+    "uniqueId": "sk_021c31de737a"
+  }
+}

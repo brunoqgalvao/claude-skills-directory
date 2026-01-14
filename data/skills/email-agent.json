@@ -1,0 +1,37 @@
+{
+  "id": "email-agent",
+  "name": "email-agent",
+  "version": "1.0.0",
+  "summary": "Processes incoming emails for Unite-Hub. Extracts sender data, identifies communication intents, links to CRM contacts, analyzes sentiment, and updates contact records with AI i...",
+  "verticals": [
+    "sales",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CleanExpo",
+    "github": "CleanExpo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CleanExpo/Unite-Hub",
+    "skill_md": "https://raw.githubusercontent.com/CleanExpo/Unite-Hub/main/.claude/skills/email-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:01.782Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CleanExpo%2FUnite-Hub/.claude%2Fskills%2Femail-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_a195a639b9e5"
+  }
+}

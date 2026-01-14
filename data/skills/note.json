@@ -1,0 +1,36 @@
+{
+  "id": "note",
+  "name": "note",
+  "version": "1.0.0",
+  "summary": "Quick capture for thoughts, observations, or ideas during research sessions. Use when the user types /note or wants to capture a quick thought without context-switching. Logs ti...",
+  "verticals": [
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "braselog",
+    "github": "braselog"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/braselog/researchAssistant",
+    "skill_md": "https://raw.githubusercontent.com/braselog/researchAssistant/main/.ra/skills/note/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:17.912Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/braselog%2FresearchAssistant/.ra%2Fskills%2Fnote%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_af897d7f5501"
+  }
+}

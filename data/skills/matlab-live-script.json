@@ -1,0 +1,35 @@
+{
+  "id": "matlab-live-script",
+  "name": "matlab-live-script",
+  "version": "1.0.0",
+  "summary": "Create MATLAB plain text Live Scripts (.m files) following specific formatting rules. Use when generating MATLAB scripts, educational MATLAB content, Live Scripts, or when the u...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matlab",
+    "github": "matlab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matlab/skills",
+    "skill_md": "https://raw.githubusercontent.com/matlab/skills/main/skills/matlab-live-script/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:05.775Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matlab%2Fskills/skills%2Fmatlab-live-script%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_ef3ae723ee9d"
+  }
+}

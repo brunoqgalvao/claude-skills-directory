@@ -1,0 +1,35 @@
+{
+  "id": "technical-writing",
+  "name": "technical-writing",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"write documentation\", \"improve clarity\", \"apply technical writing standards\", \"review my writing\", \"make this clearer\", or when ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EvanLavender13",
+    "github": "EvanLavender13"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EvanLavender13/audio-jones",
+    "skill_md": "https://raw.githubusercontent.com/EvanLavender13/audio-jones/main/.claude/skills/technical-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:54.813Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EvanLavender13%2Faudio-jones/.claude%2Fskills%2Ftechnical-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_de7eeecb7ff7"
+  }
+}

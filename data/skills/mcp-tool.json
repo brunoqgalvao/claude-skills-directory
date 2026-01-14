@@ -1,0 +1,35 @@
+{
+  "id": "mcp-tool",
+  "name": "mcp-tool",
+  "version": "1.0.0",
+  "summary": "Understanding the Model Context Protocol (MCP) and how to use it in Claude Code. Use when user asks about MCP, Model Context Protocol, connecting external tools, MCP servers, or...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reggiechan74",
+    "github": "reggiechan74"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reggiechan74/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/reggiechan74/claude-plugins/main/plugins/claude-code-metaskill/skills/mcp-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T17:24:27.000Z",
+  "created_at": "2025-12-22T15:51:09.183Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reggiechan74%2Fclaude-plugins/plugins%2Fclaude-code-metaskill%2Fskills%2Fmcp-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_d02cd6d0247e"
+  }
+}

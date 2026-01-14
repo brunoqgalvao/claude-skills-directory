@@ -1,0 +1,35 @@
+{
+  "id": "task-breakdown-phase",
+  "name": "task-breakdown-phase",
+  "version": "1.0.0",
+  "summary": "Standard Operating Procedure for /tasks phase. Covers task sizing, acceptance criteria definition, and TDD-first task sequencing. (project)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusgoll",
+    "github": "marcusgoll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusgoll/Spec-Flow",
+    "skill_md": "https://raw.githubusercontent.com/marcusgoll/Spec-Flow/main/.codex/skills/task-breakdown-phase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.613Z",
+  "created_at": "2025-12-22T23:57:08.322Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusgoll%2FSpec-Flow/.codex%2Fskills%2Ftask-breakdown-phase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.613Z",
+    "uniqueId": "sk_73c012e8d514"
+  }
+}

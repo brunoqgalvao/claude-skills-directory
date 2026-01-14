@@ -1,0 +1,37 @@
+{
+  "id": "solution-architect",
+  "name": "solution-architect",
+  "version": "1.0.0",
+  "summary": "Transform product requirements into executable technical architecture. Use when users request: (1) Technical/system architecture design, (2) Tech stack selection, (3) Architectu...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shining319",
+    "github": "shining319"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shining319/claude-code-single-person-workflow",
+    "skill_md": "https://raw.githubusercontent.com/shining319/claude-code-single-person-workflow/main/plugins/product-development-suite/skills/solution-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:18.095Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shining319%2Fclaude-code-single-person-workflow/plugins%2Fproduct-development-suite%2Fskills%2Fsolution-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_38bdd8277026"
+  }
+}

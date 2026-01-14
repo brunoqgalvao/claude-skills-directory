@@ -1,0 +1,37 @@
+{
+  "id": "git-leak-recovery",
+  "name": "git-leak-recovery",
+  "version": "1.0.0",
+  "summary": "This skill provides guidance for recovering secrets or sensitive data that have been removed from Git history through operations like reset or rebase, and then properly cleaning...",
+  "verticals": [
+    "hr",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "letta-ai",
+    "github": "letta-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/letta-ai/skills",
+    "skill_md": "https://raw.githubusercontent.com/letta-ai/skills/main/ai/benchmarks/letta/terminal-bench-2/trajectory-feedback/git-leak-recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:05.889Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/letta-ai%2Fskills/ai%2Fbenchmarks%2Fletta%2Fterminal-bench-2%2Ftrajectory-feedback%2Fgit-leak-recovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_24c783ac8591"
+  }
+}

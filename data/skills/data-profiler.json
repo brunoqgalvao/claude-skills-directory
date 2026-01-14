@@ -1,0 +1,35 @@
+{
+  "id": "data-profiler",
+  "name": "data-profiler",
+  "version": "1.0.0",
+  "summary": "Profile datasets to understand schema, quality, and characteristics. Use when analyzing data files (CSV, JSON, Parquet), discovering dataset properties, assessing data quality, ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fusionet24",
+    "github": "fusionet24"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fusionet24/AISkills",
+    "skill_md": "https://raw.githubusercontent.com/fusionet24/AISkills/main/skills/data-profiler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:57:35.249Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fusionet24%2FAISkills/skills%2Fdata-profiler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_afd3cb1260f6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "testcontainers-mysql",
+  "name": "testcontainers-mysql",
+  "version": "1.0.0",
+  "summary": "Padronizar testes de integração com Testcontainers MySQL, garantindo isolamento, reuso seguro e aderência às políticas sem H2.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Wibson82",
+    "github": "Wibson82"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Wibson82/conexao-de-sorte-backend-resultados",
+    "skill_md": "https://raw.githubusercontent.com/Wibson82/conexao-de-sorte-backend-resultados/main/.claude/skills/testcontainers-mysql/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.860Z",
+  "created_at": "2025-12-22T15:08:40.936Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Wibson82%2Fconexao-de-sorte-backend-resultados/.claude%2Fskills%2Ftestcontainers-mysql%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_7ad11ecc0655"
+  }
+}

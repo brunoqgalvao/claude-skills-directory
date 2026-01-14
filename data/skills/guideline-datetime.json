@@ -1,0 +1,35 @@
+{
+  "id": "guideline-datetime",
+  "name": "guideline-datetime",
+  "version": "1.0.0",
+  "summary": "日時処理、タイムゾーン、Date オブジェクト、UTC変換、moment.js、date-fns、dayjs の実装ガイド。日付計算、時刻表示、期間計算、スケジュール機能、予約システムが含まれるコードの際に自動参照。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "negi524",
+    "github": "negi524"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/negi524/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/negi524/dotfiles/main/.claude/skills/guideline-datetime/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:32.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/negi524%2Fdotfiles/.claude%2Fskills%2Fguideline-datetime%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_16c60d0e91b5"
+  }
+}

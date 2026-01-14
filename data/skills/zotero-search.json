@@ -1,0 +1,37 @@
+{
+  "id": "zotero-search",
+  "name": "zotero-search",
+  "version": "1.0.0",
+  "summary": "Search and retrieve documents from the user's local Zotero library using the Pyzotero CLI. **Claude code only** - requires connection to local Zotero instance. This skill should...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "urschrei",
+    "github": "urschrei"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/urschrei/zotero_search_skill",
+    "skill_md": "https://raw.githubusercontent.com/urschrei/zotero_search_skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.649Z",
+  "created_at": "2025-12-22T23:03:19.826Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/urschrei%2Fzotero_search_skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.649Z",
+    "uniqueId": "sk_870cdf5cd554"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "yoga-class-planner",
+  "name": "yoga-class-planner",
+  "version": "1.0.0",
+  "summary": "Creates structured 60-minute beginner-friendly yoga class sequences with detailed pose instructions and timing",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpazaryna",
+    "github": "mpazaryna"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpazaryna/claude-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/mpazaryna/claude-toolkit/main/generated-skills/yoga-class-planner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T15:55:20.000Z",
+  "created_at": "2025-12-22T19:09:13.559Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpazaryna%2Fclaude-toolkit/generated-skills%2Fyoga-class-planner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_625347124721"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "spec-compliance-auto",
+  "name": "spec-compliance-auto",
+  "version": "1.0.0",
+  "summary": "仕様準拠自動チェック機能の自律適用。spec-compliance-check Command活用・仕様書参照方法・仕様準拠率95%維持手順・仕様逸脱リスク特定方法。Phase C以降の新機能実装時に使用。",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-kishi",
+    "github": "d-kishi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-kishi/ubiquitous-lang-mng",
+    "skill_md": "https://raw.githubusercontent.com/d-kishi/ubiquitous-lang-mng/main/.claude/skills/spec-compliance-auto/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-01T10:08:42.000Z",
+  "created_at": "2025-12-22T20:06:54.709Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-kishi%2Fubiquitous-lang-mng/.claude%2Fskills%2Fspec-compliance-auto%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_1aae492e57d8"
+  }
+}

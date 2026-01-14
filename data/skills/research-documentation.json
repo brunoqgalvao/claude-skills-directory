@@ -1,0 +1,35 @@
+{
+  "id": "research-documentation",
+  "name": "research-documentation",
+  "version": "1.0.0",
+  "summary": "Research topics and document findings in Notion with organized structure and sources",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tommy-ca",
+    "github": "tommy-ca"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tommy-ca/notion-skills",
+    "skill_md": "https://raw.githubusercontent.com/tommy-ca/notion-skills/main/plugins/notion-skills/skills/research-documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:30:45.242Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tommy-ca%2Fnotion-skills/plugins%2Fnotion-skills%2Fskills%2Fresearch-documentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_6b2239792400"
+  }
+}

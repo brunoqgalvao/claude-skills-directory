@@ -1,0 +1,35 @@
+{
+  "id": "extract-from-pdfs",
+  "name": "extract-from-pdfs",
+  "version": "1.0.0",
+  "summary": "This skill should be used when extracting structured data from scientific PDFs for systematic reviews, meta-analyses, or database creation. Use when working with collections of ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brunoasm",
+    "github": "brunoasm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brunoasm/my_claude_skills",
+    "skill_md": "https://raw.githubusercontent.com/brunoasm/my_claude_skills/main/extract_from_pdfs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T23:08:41.000Z",
+  "created_at": "2025-12-23T01:29:25.366Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brunoasm%2Fmy_claude_skills/extract_from_pdfs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_89d7da6c26cc"
+  }
+}

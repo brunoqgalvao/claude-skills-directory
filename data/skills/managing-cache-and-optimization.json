@@ -1,0 +1,35 @@
+{
+  "id": "managing-cache-and-optimization",
+  "name": "managing-cache-and-optimization",
+  "version": "1.0.0",
+  "summary": "Use when managing Shannon CLI performance and costs - check cache statistics, clear stale entries, set budgets, understand automatic model selection and cost optimization",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/shannon-cli",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/shannon-cli/main/.claude/skills/managing-cache-and-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T13:11:21.000Z",
+  "created_at": "2025-12-23T01:28:34.586Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fshannon-cli/.claude%2Fskills%2Fmanaging-cache-and-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_85223633ed58"
+  }
+}

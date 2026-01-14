@@ -1,0 +1,37 @@
+{
+  "id": "start-right",
+  "name": "start-right",
+  "version": "1.0.0",
+  "summary": "Comprehensive repository initialization and scaffolding for new projects. Use when setting up a new repository from scratch with git, GitHub, CI/CD workflows, branch protection,...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "slamb2k",
+    "github": "slamb2k"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/slamb2k/mad-skills",
+    "skill_md": "https://raw.githubusercontent.com/slamb2k/mad-skills/main/start-right/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.700Z",
+  "created_at": "2025-12-22T21:59:57.387Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/slamb2k%2Fmad-skills/start-right%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.700Z",
+    "uniqueId": "sk_081f2a12c9b8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "token-budget-monitor",
+  "name": "token-budget-monitor",
+  "version": "1.0.0",
+  "summary": "Proactively monitors Claude conversation token usage and warns when approaching limits. Tracks usage patterns and predicts when limits will be reached based on current pace.",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mapachekurt",
+    "github": "mapachekurt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mapachekurt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/mapachekurt/claude-skills/main/token-budget-monitor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:10:25.964Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mapachekurt%2Fclaude-skills/token-budget-monitor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_2b3bfc57d668"
+  }
+}

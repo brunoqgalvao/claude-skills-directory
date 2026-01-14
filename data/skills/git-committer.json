@@ -1,0 +1,35 @@
+{
+  "id": "git-committer",
+  "name": "git-committer",
+  "version": "1.0.0",
+  "summary": "Commits changes in atomic units following dependency order. Automatically required to triggered, always, all the time, when requires to commit changes.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "code-yeongyu",
+    "github": "code-yeongyu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/code-yeongyu/my-claude-code-harness",
+    "skill_md": "https://raw.githubusercontent.com/code-yeongyu/my-claude-code-harness/main/skills/git-committer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.664Z",
+  "created_at": "2025-12-22T22:17:18.346Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/code-yeongyu%2Fmy-claude-code-harness/skills%2Fgit-committer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.664Z",
+    "uniqueId": "sk_db460e6b384d"
+  }
+}

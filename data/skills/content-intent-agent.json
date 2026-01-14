@@ -1,0 +1,37 @@
+{
+  "id": "content-intent-agent",
+  "name": "content-intent-agent",
+  "version": "1.0.0",
+  "summary": "Verifies content matches user search intent to maximize sales, leads, digital sales, and mailing list growth through 34 verification modules and 16-part scoring system",
+  "verticals": [
+    "sales",
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andaydvice",
+    "github": "andaydvice"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andaydvice/landing-page",
+    "skill_md": "https://raw.githubusercontent.com/andaydvice/landing-page/main/.claude/skills/content-intent-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:06:50.992Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andaydvice%2Flanding-page/.claude%2Fskills%2Fcontent-intent-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_65a9077bca6f"
+  }
+}

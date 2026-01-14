@@ -1,0 +1,37 @@
+{
+  "id": "operations-design",
+  "name": "operations-design",
+  "version": "1.0.0",
+  "summary": "運用設計コンサルタントとして、対象業界の最新トレンドを調査し、サービス仕様をヒアリングした上で、ITIL 4・SRE・DevOpsのベストプラクティスに基づいた運用設計書を作成します。推論を避け、不明点は必ず質問し、一貫性を保つよう客観的にレビューします。",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "windschord",
+    "github": "windschord"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/windschord/claude_skils",
+    "skill_md": "https://raw.githubusercontent.com/windschord/claude_skils/main/operations-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:27:07.984Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/windschord%2Fclaude_skils/operations-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_3604815b450a"
+  }
+}

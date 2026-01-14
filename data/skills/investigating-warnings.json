@@ -1,0 +1,35 @@
+{
+  "id": "investigating-warnings",
+  "name": "investigating-warnings",
+  "version": "1.0.0",
+  "summary": "Don't dismiss warnings without understanding them - investigate to determine if they indicate bugs, misconfigurations, or are cosmetic, then document findings either way",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cassamajor",
+    "github": "cassamajor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cassamajor/xcnf",
+    "skill_md": "https://raw.githubusercontent.com/cassamajor/xcnf/main/.claude/skills/investigating-warnings/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T06:22:50.000Z",
+  "created_at": "2025-12-23T01:29:20.588Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cassamajor%2Fxcnf/.claude%2Fskills%2Finvestigating-warnings%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_2e3fd60c9f59"
+  }
+}

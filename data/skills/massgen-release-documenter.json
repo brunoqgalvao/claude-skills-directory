@@ -1,0 +1,37 @@
+{
+  "id": "massgen-release-documenter",
+  "name": "massgen-release-documenter",
+  "version": "1.0.0",
+  "summary": "Guide for following MassGen's release documentation workflow. This skill should be used when preparing release documentation, updating changelogs, writing case studies, or maint...",
+  "verticals": [
+    "legal",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "massgen",
+    "github": "massgen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/massgen/MassGen",
+    "skill_md": "https://raw.githubusercontent.com/massgen/MassGen/main/massgen/skills/massgen-release-documenter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.520Z",
+  "created_at": "2025-12-23T01:29:09.630Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/massgen%2FMassGen/massgen%2Fskills%2Fmassgen-release-documenter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.520Z",
+    "uniqueId": "sk_3ed3f9ed9b28"
+  }
+}

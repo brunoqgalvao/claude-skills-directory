@@ -1,0 +1,35 @@
+{
+  "id": "devto-publish",
+  "name": "devto-publish",
+  "version": "1.0.0",
+  "summary": "Publish articles to Dev.to. Use this skill when the article is ready and user wants to publish.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-cookbooks/main/104-content-farm/claude-content-farm/skills/devto-publish/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T04:36:00.000Z",
+  "created_at": "2025-12-23T01:28:48.230Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-cookbooks/104-content-farm%2Fclaude-content-farm%2Fskills%2Fdevto-publish%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_d363a2d09d15"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "security-codeguard",
+  "name": "security-codeguard",
+  "version": "1.0.0",
+  "summary": "セキュアコーディング - すべてのコード実装完了時にCodeGuardでセキュリティチェック。入力検証、機密情報管理、OWASP対策を実施。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sumik5",
+    "github": "sumik5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sumik5/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sumik5/dotfiles/main/claude-code/skills/security-codeguard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:13:52.729Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sumik5%2Fdotfiles/claude-code%2Fskills%2Fsecurity-codeguard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_904751290fd8"
+  }
+}

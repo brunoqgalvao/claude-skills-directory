@@ -1,0 +1,35 @@
+{
+  "id": "dismech-compliance",
+  "name": "dismech-compliance",
+  "version": "1.0.0",
+  "summary": "Skill for analyzing and improving compliance in the dismech knowledge base. Use this skill when checking disorder file completeness, identifying missing fields (ontology terms, ...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "monarch-initiative",
+    "github": "monarch-initiative"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/monarch-initiative/dismech",
+    "skill_md": "https://raw.githubusercontent.com/monarch-initiative/dismech/main/.claude/skills/dismech-compliance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T21:54:34.000Z",
+  "created_at": "2025-12-23T01:29:17.751Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/monarch-initiative%2Fdismech/.claude%2Fskills%2Fdismech-compliance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.510Z",
+    "uniqueId": "sk_0dc2378ded41"
+  }
+}

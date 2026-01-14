@@ -1,0 +1,35 @@
+{
+  "id": "create-tasks",
+  "name": "create-tasks",
+  "version": "1.0.0",
+  "summary": "Creates well-formed tasks following a template that engineers can implement. Use when creating tasks, defining work items, creating tasks from PRD, breaking down features, or co...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NTCoding",
+    "github": "NTCoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NTCoding/claude-skillz",
+    "skill_md": "https://raw.githubusercontent.com/NTCoding/claude-skillz/main/create-tasks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T12:58:31.000Z",
+  "created_at": "2025-12-22T18:15:44.364Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NTCoding%2Fclaude-skillz/create-tasks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_bb27b10fbd5f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "east-development",
+  "name": "east-development",
+  "version": "1.0.0",
+  "summary": "Write East code - a portable, type-safe functional language. Use when writing East functions, working with East IR, or creating portable computations. Automatically validates co...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elaraai",
+    "github": "elaraai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elaraai/east-plugin",
+    "skill_md": "https://raw.githubusercontent.com/elaraai/east-plugin/main/skills/east-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:01:59.860Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elaraai%2Feast-plugin/skills%2Feast-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_bd03eac4c0d9"
+  }
+}

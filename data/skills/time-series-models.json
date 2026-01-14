@@ -1,0 +1,35 @@
+{
+  "id": "time-series-models",
+  "name": "time-series-models",
+  "version": "1.0.0",
+  "summary": "Bayesian time series models including AR, MA, ARMA, state-space models, and dynamic linear models in Stan and JAGS.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "choxos",
+    "github": "choxos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/choxos/BayesianAgent",
+    "skill_md": "https://raw.githubusercontent.com/choxos/BayesianAgent/main/plugins/bayesian-modeling/skills/time-series-models/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:51:04.767Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/choxos%2FBayesianAgent/plugins%2Fbayesian-modeling%2Fskills%2Ftime-series-models%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_91c5df8e4aff"
+  }
+}

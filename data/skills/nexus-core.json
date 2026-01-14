@@ -1,0 +1,35 @@
+{
+  "id": "nexus-core",
+  "name": "nexus-core",
+  "version": "1.0.0",
+  "summary": "e-tier. Current state, growth (~2k tokens). Core concepts, key entities, essential connections. Decimal: e.8.0. Load via: φ→π→e",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "agentgptsmith",
+    "github": "agentgptsmith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/agentgptsmith/MonadFramework",
+    "skill_md": "https://raw.githubusercontent.com/agentgptsmith/MonadFramework/main/.claude/skills/memory/nexus-core/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.543Z",
+  "created_at": "2025-12-23T01:28:53.822Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/agentgptsmith%2FMonadFramework/.claude%2Fskills%2Fmemory%2Fnexus-core%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_b1491338cfa1"
+  }
+}

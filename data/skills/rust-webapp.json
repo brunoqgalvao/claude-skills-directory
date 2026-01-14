@@ -1,0 +1,37 @@
+{
+  "id": "rust-webapp",
+  "name": "rust-webapp",
+  "version": "1.0.0",
+  "summary": "Build full-stack web applications using Rust (Axum + SQLx) with HTMX + Alpine.js frontend and Neon (serverless PostgreSQL). Use when asked to create web apps, CRUD apps, dashboa...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arsenyinfo",
+    "github": "arsenyinfo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arsenyinfo/rust-webapp-skill",
+    "skill_md": "https://raw.githubusercontent.com/arsenyinfo/rust-webapp-skill/main/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T10:43:34.000Z",
+  "created_at": "2025-12-23T01:28:48.278Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arsenyinfo%2Frust-webapp-skill/skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_a13a27f69606"
+  }
+}

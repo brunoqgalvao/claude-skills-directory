@@ -1,0 +1,35 @@
+{
+  "id": "jira-ticket",
+  "name": "jira-ticket",
+  "version": "1.0.0",
+  "summary": "Proactively use this skill when you need to read, create, update, or manage Jira tickets.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hdemers",
+    "github": "hdemers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hdemers/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/hdemers/dotfiles/main/.claude/skills.symlink/jira-ticket/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:27.945Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hdemers%2Fdotfiles/.claude%2Fskills.symlink%2Fjira-ticket%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_821adfcdce31"
+  }
+}

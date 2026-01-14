@@ -1,0 +1,35 @@
+{
+  "id": "sp",
+  "name": "sp",
+  "version": "1.0.0",
+  "summary": "Guide for sp.h, a single-header C standard library replacement. You must use this guide when using or discussing sp.h in any capacity.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tspader",
+    "github": "tspader"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tspader/spn",
+    "skill_md": "https://raw.githubusercontent.com/tspader/spn/main/doc/llm/sp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:53.160Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tspader%2Fspn/doc%2Fllm%2Fsp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_c8c3280589fa"
+  }
+}

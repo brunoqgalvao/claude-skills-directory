@@ -1,0 +1,35 @@
+{
+  "id": "discover-capabilities",
+  "name": "discover-capabilities",
+  "version": "1.0.0",
+  "summary": "Use this at session start to discover what CodeCompass can do. Read .ai/capabilities.json for module map (5 domains, 21+ modules) instead of manual Grep/Glob. Apply when: (1) pl...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PearlThoughts",
+    "github": "PearlThoughts"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PearlThoughts/CodeCompass",
+    "skill_md": "https://raw.githubusercontent.com/PearlThoughts/CodeCompass/main/.claude/skills/discover-capabilities/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T09:23:06.000Z",
+  "created_at": "2025-12-22T20:00:05.674Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PearlThoughts%2FCodeCompass/.claude%2Fskills%2Fdiscover-capabilities%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_3be932f41ef1"
+  }
+}

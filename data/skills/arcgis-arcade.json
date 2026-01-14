@@ -1,0 +1,35 @@
+{
+  "id": "arcgis-arcade",
+  "name": "arcgis-arcade",
+  "version": "1.0.0",
+  "summary": "Write Arcade expressions for dynamic calculations in popups, renderers, labels, and field calculations. Use for data-driven styling, custom labels, and computed fields.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SaschaBrunnerCH",
+    "github": "SaschaBrunnerCH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context",
+    "skill_md": "https://raw.githubusercontent.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context/main/contexts/4.34/claude/arcgis-arcade/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:30:28.652Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SaschaBrunnerCH%2Farcgis-maps-sdk-js-ai-context/contexts%2F4.34%2Fclaude%2Farcgis-arcade%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_c2c0c9ac206f"
+  }
+}

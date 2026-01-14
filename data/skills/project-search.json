@@ -1,0 +1,35 @@
+{
+  "id": "project-search",
+  "name": "project-search",
+  "version": "1.0.0",
+  "summary": "Search across all project artifacts including meetings, sprints, milestones, documentation, and decisions. Use when user mentions \"find\", \"search\", \"where is\", \"locate\", \"show m...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eternnoir",
+    "github": "eternnoir"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eternnoir/claude-tool",
+    "skill_md": "https://raw.githubusercontent.com/eternnoir/claude-tool/main/projectmaster/skills/project-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:00:56.703Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eternnoir%2Fclaude-tool/projectmaster%2Fskills%2Fproject-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_411000e26e88"
+  }
+}

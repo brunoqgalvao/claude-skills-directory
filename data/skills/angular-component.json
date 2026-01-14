@@ -1,0 +1,36 @@
+{
+  "id": "angular-component",
+  "name": "angular-component",
+  "version": "1.0.0",
+  "summary": "Use when creating new Angular components, directives, or pipes. Triggers on requests to \"create component\", \"add component\", \"new component\", \"build a component\", or modify exis...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielsogl",
+    "github": "danielsogl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielsogl/copilot-workflow-demo",
+    "skill_md": "https://raw.githubusercontent.com/danielsogl/copilot-workflow-demo/main/.claude/skills/angular-component/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:57.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielsogl%2Fcopilot-workflow-demo/.claude%2Fskills%2Fangular-component%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_7d1fdd41ec6b"
+  }
+}

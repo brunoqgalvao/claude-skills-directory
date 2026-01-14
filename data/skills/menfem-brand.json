@@ -1,0 +1,35 @@
+{
+  "id": "menfem-brand",
+  "name": "menfem-brand",
+  "version": "1.0.0",
+  "summary": "This skill should be used when applying brand colors, typography, visual formatting, or design standards to any document, presentation, artifact, or creative output. Use when br...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "menfem",
+    "github": "menfem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/menfem/menfem-vercel",
+    "skill_md": "https://raw.githubusercontent.com/menfem/menfem-vercel/main/.claude/skills/menfem-brand/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:31.698Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/menfem%2Fmenfem-vercel/.claude%2Fskills%2Fmenfem-brand%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_b257bcdc83b4"
+  }
+}

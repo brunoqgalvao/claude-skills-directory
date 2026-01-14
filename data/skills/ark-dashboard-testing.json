@@ -1,0 +1,37 @@
+{
+  "id": "ark-dashboard-testing",
+  "name": "ark-dashboard-testing",
+  "version": "1.0.0",
+  "summary": "Test Ark Dashboard with Playwright and create PRs with screenshots. Use when testing dashboard UI, taking screenshots for PRs, or reviewing dashboard changes.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dwmkerr",
+    "github": "dwmkerr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dwmkerr/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/dwmkerr/dotfiles/main/claude/skills/ark-dashboard-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.575Z",
+  "created_at": "2025-12-23T01:28:26.425Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dwmkerr%2Fdotfiles/claude%2Fskills%2Fark-dashboard-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_681b9bddf088"
+  }
+}

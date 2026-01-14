@@ -1,0 +1,35 @@
+{
+  "id": "discover-security",
+  "name": "discover-security",
+  "version": "1.0.0",
+  "summary": "Automatically discover security skills when working with authentication, authorization, input validation, security headers, vulnerability assessment, or secrets management. Acti...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rand",
+    "github": "rand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rand/cc-polymath",
+    "skill_md": "https://raw.githubusercontent.com/rand/cc-polymath/main/skills/discover-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:13:46.502Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rand%2Fcc-polymath/skills%2Fdiscover-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_89bbcef17616"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "agent-evaluation-mlflow",
+  "name": "agent-evaluation-mlflow",
+  "version": "1.0.0",
+  "summary": "Implement agent evaluation and safety gates using MLflow 3.x. Use for creating LLM-as-Judge scorers, evaluation datasets, quality gates, tracing, and continuous evaluation. Trig...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "raphaelmansuy",
+    "github": "raphaelmansuy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/raphaelmansuy/k8s-agent-stack",
+    "skill_md": "https://raw.githubusercontent.com/raphaelmansuy/k8s-agent-stack/main/archive/skills/agent-evaluation-mlflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:36.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/raphaelmansuy%2Fk8s-agent-stack/archive%2Fskills%2Fagent-evaluation-mlflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_1afba536c70a"
+  }
+}

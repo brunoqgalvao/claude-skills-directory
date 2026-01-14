@@ -1,0 +1,37 @@
+{
+  "id": "outlook-automation",
+  "name": "outlook-automation",
+  "version": "1.0.0",
+  "summary": "Automates reading, searching, drafting, and sending emails AND calendar events in Classic Outlook on Windows using local COM automation. Use this skill when the user asks to pro...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gmickel",
+    "github": "gmickel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gmickel/outlookctl",
+    "skill_md": "https://raw.githubusercontent.com/gmickel/outlookctl/main/skills/outlook-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.502Z",
+  "created_at": "2025-12-23T01:29:23.934Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gmickel%2Foutlookctl/skills%2Foutlook-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.502Z",
+    "uniqueId": "sk_972c033cbc70"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "unit-test-generation",
+  "name": "unit-test-generation",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive unit tests for source files with 100% coverage target. Use when writing tests for React components, utility functions, hooks, or API routes. Supports Jest...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shvee-pandora",
+    "github": "shvee-pandora"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shvee-pandora/pnd-agents",
+    "skill_md": "https://raw.githubusercontent.com/shvee-pandora/pnd-agents/main/.claude/skills/unit-test-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T10:37:20.000Z",
+  "created_at": "2025-12-22T15:53:04.876Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shvee-pandora%2Fpnd-agents/.claude%2Fskills%2Funit-test-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_5bb3c13fcd53"
+  }
+}

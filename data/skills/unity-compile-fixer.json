@@ -1,0 +1,35 @@
+{
+  "id": "unity-compile-fixer",
+  "name": "unity-compile-fixer",
+  "version": "1.0.0",
+  "summary": "Detect and resolve Unity C# compilation errors using VSCode diagnostics. Use this skill when Unity projects have compilation errors that need diagnosis and automated fixes. Anal...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Dev-GOM",
+    "github": "Dev-GOM"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Dev-GOM/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Dev-GOM/claude-code-marketplace/main/plugins/unity-dev-toolkit/skills/unity-compile-fixer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.522Z",
+  "created_at": "2025-12-23T01:29:08.870Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Dev-GOM%2Fclaude-code-marketplace/plugins%2Funity-dev-toolkit%2Fskills%2Funity-compile-fixer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.522Z",
+    "uniqueId": "sk_d1fb5bb4f25c"
+  }
+}

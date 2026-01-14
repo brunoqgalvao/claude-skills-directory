@@ -1,0 +1,36 @@
+{
+  "id": "presentation-reviewer",
+  "name": "presentation-reviewer",
+  "version": "1.0.0",
+  "summary": "Cette skill devrait être utilisée pour réviser des présentations PowerPoint selon les standards de conseil (McKinsey, BCG), avec analyse de la structure, clarté, design, storyte...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Alexmacapple",
+    "github": "Alexmacapple"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Alexmacapple/tester-a11y",
+    "skill_md": "https://raw.githubusercontent.com/Alexmacapple/tester-a11y/main/.claude/skills/presentation-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:35.437Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Alexmacapple%2Ftester-a11y/.claude%2Fskills%2Fpresentation-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_ca34af51c604"
+  }
+}

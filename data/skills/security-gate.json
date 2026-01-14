@@ -1,0 +1,35 @@
+{
+  "id": "security-gate",
+  "name": "security-gate",
+  "version": "1.0.0",
+  "summary": "Classifies inbound Telegram messages for telclaude as ALLOW/WARN/BLOCK with brief rationale.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "avivsinai",
+    "github": "avivsinai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/avivsinai/telclaude",
+    "skill_md": "https://raw.githubusercontent.com/avivsinai/telclaude/main/.claude/skills/security-gate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T08:21:39.000Z",
+  "created_at": "2025-12-23T01:28:30.298Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/avivsinai%2Ftelclaude/.claude%2Fskills%2Fsecurity-gate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_57d1ad0a0209"
+  }
+}

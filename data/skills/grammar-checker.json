@@ -1,0 +1,35 @@
+{
+  "id": "grammar-checker",
+  "name": "grammar-checker",
+  "version": "1.0.0",
+  "summary": "This skill should be used when performing systematic scans of research paper text to identify and fix typos, grammar errors, inappropriate words, and awkward expressions. Use fo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "minhuw",
+    "github": "minhuw"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/minhuw/claude-writer",
+    "skill_md": "https://raw.githubusercontent.com/minhuw/claude-writer/main/skills/grammar-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.772Z",
+  "created_at": "2025-12-22T20:00:30.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/minhuw%2Fclaude-writer/skills%2Fgrammar-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_872648a849ca"
+  }
+}

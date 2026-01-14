@@ -1,0 +1,35 @@
+{
+  "id": "reviewing-complexity",
+  "name": "reviewing-complexity",
+  "version": "1.0.0",
+  "summary": "Analyze code complexity and maintainability including cyclomatic complexity, function length, nesting depth, and cognitive load. Use when reviewing code maintainability, refacto...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/review/skills/reviewing-complexity/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.778Z",
+  "created_at": "2025-12-22T19:30:33.429Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/review%2Fskills%2Freviewing-complexity%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_ce9b342b30d4"
+  }
+}

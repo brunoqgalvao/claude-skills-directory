@@ -1,0 +1,35 @@
+{
+  "id": "gcp-login",
+  "name": "gcp-login",
+  "version": "1.0.0",
+  "summary": "Authenticate to Google Cloud Platform using Application Default Credentials. Use when user selects GCP from cloud provider selection, or says \"login to GCP\", \"gcloud auth\", \"aut...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brianclaridge",
+    "github": "brianclaridge"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brianclaridge/.claude",
+    "skill_md": "https://raw.githubusercontent.com/brianclaridge/.claude/main/skills/gcp-login/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T04:10:28.000Z",
+  "created_at": "2025-12-23T01:28:30.252Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brianclaridge%2F.claude/skills%2Fgcp-login%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_1c0b59dc5ccb"
+  }
+}

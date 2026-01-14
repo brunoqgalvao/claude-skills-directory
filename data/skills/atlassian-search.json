@@ -1,0 +1,35 @@
+{
+  "id": "atlassian-search",
+  "name": "atlassian-search",
+  "version": "1.0.0",
+  "summary": "Search and retrieve information from Jira and Confluence using the atlassian-cli tool. Use this skill to find issues, search documentation, manage projects, and track sprints in...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ainoya",
+    "github": "ainoya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ainoya/atlassian-cli",
+    "skill_md": "https://raw.githubusercontent.com/ainoya/atlassian-cli/main/.claude/skills/atlassian-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:33.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ainoya%2Fatlassian-cli/.claude%2Fskills%2Fatlassian-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_35ecde99d63c"
+  }
+}

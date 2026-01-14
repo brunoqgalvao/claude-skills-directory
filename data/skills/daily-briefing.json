@@ -1,0 +1,35 @@
+{
+  "id": "daily-briefing",
+  "name": "daily-briefing",
+  "version": "1.0.0",
+  "summary": "Generate a comprehensive daily briefing combining calendar events, email inbox status, and reminders. Use when the user asks to plan their day, get a morning briefing, or wants ...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ronnycoding",
+    "github": "ronnycoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ronnycoding/my-personal-assistant",
+    "skill_md": "https://raw.githubusercontent.com/ronnycoding/my-personal-assistant/main/.claude/skills/daily-briefing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.856Z",
+  "created_at": "2025-12-22T15:51:16.332Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ronnycoding%2Fmy-personal-assistant/.claude%2Fskills%2Fdaily-briefing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_d265d825b67d"
+  }
+}

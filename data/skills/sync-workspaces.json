@@ -1,0 +1,35 @@
+{
+  "id": "sync-workspaces",
+  "name": "sync-workspaces",
+  "version": "1.0.0",
+  "summary": "Sync local and remote workspaces with latest motoko framework changes. Use when asked to update workspaces, sync skills, or push motoko changes to workspaces.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshuacook",
+    "github": "joshuacook"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshuacook/motoko",
+    "skill_md": "https://raw.githubusercontent.com/joshuacook/motoko/main/.claude/skills/sync-workspaces/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.854Z",
+  "created_at": "2025-12-22T15:52:37.310Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshuacook%2Fmotoko/.claude%2Fskills%2Fsync-workspaces%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_b48e1af22fd3"
+  }
+}

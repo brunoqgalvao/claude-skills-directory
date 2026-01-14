@@ -1,0 +1,36 @@
+{
+  "id": "reports",
+  "name": "reports",
+  "version": "1.0.0",
+  "summary": "Report templating with Jinja2 and MJML for SignalRoom. Use when creating new reports, modifying templates, debugging report rendering, or adding new notification channels.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mmbianco78",
+    "github": "mmbianco78"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mmbianco78/signalroom",
+    "skill_md": "https://raw.githubusercontent.com/mmbianco78/signalroom/main/.claude/skills/reports/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:51.777Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mmbianco78%2Fsignalroom/.claude%2Fskills%2Freports%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_e1443c261f20"
+  }
+}

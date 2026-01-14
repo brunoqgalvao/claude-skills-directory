@@ -1,0 +1,35 @@
+{
+  "id": "mcp-tool-selection",
+  "name": "mcp-tool-selection",
+  "version": "1.0.0",
+  "summary": "Decision rules for when to use MCP Qdrant-Indexer semantic search vs grep/literal file tools. Use this skill when starting exploration, debugging, or answering \"where/why\" quest...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "m1rl0k",
+    "github": "m1rl0k"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/m1rl0k/Context-Engine",
+    "skill_md": "https://raw.githubusercontent.com/m1rl0k/Context-Engine/main/.skills/mcp-tool-selection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:09.787Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/m1rl0k%2FContext-Engine/.skills%2Fmcp-tool-selection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_c1e6d4d2ef0e"
+  }
+}

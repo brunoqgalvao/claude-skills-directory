@@ -1,0 +1,35 @@
+{
+  "id": "url-to-markdown",
+  "name": "url-to-markdown",
+  "version": "1.0.0",
+  "summary": "需要将网页 URL 内容转换为 Markdown 格式以便阅读，并通过 CloudFlare API 获取指定 URL 的 Markdown 内容的场景。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DCjanus",
+    "github": "DCjanus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DCjanus/prompts",
+    "skill_md": "https://raw.githubusercontent.com/DCjanus/prompts/main/skills/url-to-markdown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.578Z",
+  "created_at": "2025-12-23T01:28:22.413Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DCjanus%2Fprompts/skills%2Furl-to-markdown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_c0828736e5fc"
+  }
+}

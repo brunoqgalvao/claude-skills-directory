@@ -1,0 +1,36 @@
+{
+  "id": "playwright",
+  "name": "playwright",
+  "version": "1.0.0",
+  "summary": "Browser automation, web scraping, and visual testing with Playwright on Display :1. Use for navigating web pages, clicking elements, filling forms, taking screenshots, executing...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/sindri",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/sindri/main/docker/lib/extensions/vf-playwright-mcp/resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:42.048Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fsindri/docker%2Flib%2Fextensions%2Fvf-playwright-mcp%2Fresources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_6d259d6bb33c"
+  }
+}

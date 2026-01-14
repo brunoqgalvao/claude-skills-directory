@@ -1,0 +1,35 @@
+{
+  "id": "synthesis-matrix",
+  "name": "synthesis-matrix",
+  "version": "1.0.0",
+  "summary": "Create evidence synthesis matrices for systematic reviews. Use when: (1) Organizing extracted data, (2) Comparing study characteristics, (3) Identifying patterns across studies,...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoreyai",
+    "github": "astoreyai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoreyai/ai_scientist",
+    "skill_md": "https://raw.githubusercontent.com/astoreyai/ai_scientist/main/skills/synthesis-matrix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:14.718Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoreyai%2Fai_scientist/skills%2Fsynthesis-matrix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_49e4c122e7ea"
+  }
+}

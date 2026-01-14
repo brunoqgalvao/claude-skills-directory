@@ -1,0 +1,36 @@
+{
+  "id": "opengrid-openscad",
+  "name": "opengrid-openscad",
+  "version": "1.0.0",
+  "summary": "Interpretive guidance for generating OpenSCAD code for OpenGrid/MultiConnect wall-mounted organizers. Provides pattern selection frameworks, mounting system integration, and dim...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "racurry",
+    "github": "racurry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/racurry/neat-little-package",
+    "skill_md": "https://raw.githubusercontent.com/racurry/neat-little-package/main/plugins/spirograph/skills/opengrid-openscad/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.620Z",
+  "created_at": "2025-12-22T23:20:12.903Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/racurry%2Fneat-little-package/plugins%2Fspirograph%2Fskills%2Fopengrid-openscad%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.620Z",
+    "uniqueId": "sk_be0362beb9ad"
+  }
+}

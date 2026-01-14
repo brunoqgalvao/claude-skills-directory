@@ -1,0 +1,37 @@
+{
+  "id": "backstage-style-web",
+  "name": "backstage-style-web",
+  "version": "1.0.0",
+  "summary": "Generate enterprise-grade web applications using Backstage Design System. Create admin dashboards, developer tools, and internal applications with modern React components, dark/...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kuse-ai",
+    "github": "kuse-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kuse-ai/kuse-skills",
+    "skill_md": "https://raw.githubusercontent.com/kuse-ai/kuse-skills/main/backstage-style-web/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T06:53:14.000Z",
+  "created_at": "2025-12-23T01:29:36.911Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kuse-ai%2Fkuse-skills/backstage-style-web%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_7c66ab7aed70"
+  }
+}

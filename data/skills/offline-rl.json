@@ -1,0 +1,35 @@
+{
+  "id": "offline-rl",
+  "name": "offline-rl",
+  "version": "1.0.0",
+  "summary": "Master CQL, IQL, BCQ - offline RL from fixed datasets without environment interaction",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tachyon-beep",
+    "github": "tachyon-beep"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tachyon-beep/hamlet",
+    "skill_md": "https://raw.githubusercontent.com/tachyon-beep/hamlet/main/.claude/skills/yzmir-deep-rl/skills/offline-rl/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.780Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tachyon-beep%2Fhamlet/.claude%2Fskills%2Fyzmir-deep-rl%2Fskills%2Foffline-rl%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_5aee6fd32aac"
+  }
+}

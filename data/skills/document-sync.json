@@ -1,0 +1,36 @@
+{
+  "id": "document-sync",
+  "name": "document-sync",
+  "version": "1.0.0",
+  "summary": "Synchronize text changes across multiple files. Use when updating taglines, brand text, version numbers, or any content that appears in multiple places.",
+  "verticals": [
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "claimhawk",
+    "github": "claimhawk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/claimhawk/shebang",
+    "skill_md": "https://raw.githubusercontent.com/claimhawk/shebang/main/.claude/skills/document-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:57:42.115Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/claimhawk%2Fshebang/.claude%2Fskills%2Fdocument-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_2d467c7560d7"
+  }
+}

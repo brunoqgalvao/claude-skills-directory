@@ -1,0 +1,36 @@
+{
+  "id": "consultant",
+  "name": "consultant",
+  "version": "1.0.0",
+  "summary": "Multi-model AI consultation and research. Supports CONSULTATION MODE (ask single expert), RESEARCH MODE (parallel multi-agent), or DELIBERATION MODE (agents debate and refine). ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nicknisi",
+    "github": "nicknisi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nicknisi/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/nicknisi/claude-plugins/main/plugins/consultant/skills/consultant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:09:54.775Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nicknisi%2Fclaude-plugins/plugins%2Fconsultant%2Fskills%2Fconsultant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_b666d5ed8ab4"
+  }
+}

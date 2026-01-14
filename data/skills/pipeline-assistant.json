@@ -1,0 +1,35 @@
+{
+  "id": "pipeline-assistant",
+  "name": "pipeline-assistant",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to create or fix Redpanda Connect pipeline configurations. Trigger when users mention \"config\", \"pipeline\", \"YAML\", \"create a config\", ...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "redpanda-data",
+    "github": "redpanda-data"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/redpanda-data/connect",
+    "skill_md": "https://raw.githubusercontent.com/redpanda-data/connect/main/.claude-plugin/plugins/redpanda-connect/skills/pipeline-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:15:29.972Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/redpanda-data%2Fconnect/.claude-plugin%2Fplugins%2Fredpanda-connect%2Fskills%2Fpipeline-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_6c75bc1da820"
+  }
+}

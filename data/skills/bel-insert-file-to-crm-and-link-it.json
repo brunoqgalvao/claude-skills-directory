@@ -1,0 +1,37 @@
+{
+  "id": "bel-insert-file-to-crm-and-link-it",
+  "name": "bel-insert-file-to-crm-and-link-it",
+  "version": "1.0.0",
+  "summary": "This skill should be used when inserting files (images, PDFs, Excel files, documents) into the CRM database and linking them to companies, people, events, or sales opportunities...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bennoloeffler",
+    "github": "bennoloeffler"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bennoloeffler/bassi",
+    "skill_md": "https://raw.githubusercontent.com/bennoloeffler/bassi/main/.claude/skills/bel-insert-file-to-crm-and-link-it/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.524Z",
+  "created_at": "2025-12-23T01:29:06.202Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bennoloeffler%2Fbassi/.claude%2Fskills%2Fbel-insert-file-to-crm-and-link-it%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.524Z",
+    "uniqueId": "sk_590bb54e6ec8"
+  }
+}

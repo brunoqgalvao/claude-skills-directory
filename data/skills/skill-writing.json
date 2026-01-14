@@ -1,0 +1,36 @@
+{
+  "id": "skill-writing",
+  "name": "skill-writing",
+  "version": "1.0.0",
+  "summary": "Required when creating SKILL.md files for Claude Code agents. Specializes prompt-engineering TDD with agent-specific requirements: frontmatter format, persuasion principles, 500...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebnow",
+    "github": "sebnow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebnow/configs",
+    "skill_md": "https://raw.githubusercontent.com/sebnow/configs/main/home-manager/agentic/skills/skill-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-15T14:53:27.000Z",
+  "created_at": "2025-12-23T01:29:02.689Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebnow%2Fconfigs/home-manager%2Fagentic%2Fskills%2Fskill-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_c2e5acc49fa1"
+  }
+}

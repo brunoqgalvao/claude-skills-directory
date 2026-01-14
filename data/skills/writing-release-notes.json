@@ -1,0 +1,35 @@
+{
+  "id": "writing-release-notes",
+  "name": "writing-release-notes",
+  "version": "1.0.0",
+  "summary": "Generate release notes and changelog entries from git history and project changes. Use when the user asks to write release notes, create changelog, document version changes, or ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "meirm",
+    "github": "meirm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/meirm/askGPT",
+    "skill_md": "https://raw.githubusercontent.com/meirm/askGPT/main/src/askGPT/data/builtin_skills/writing-release-notes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.772Z",
+  "created_at": "2025-12-22T20:00:29.271Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/meirm%2FaskGPT/src%2FaskGPT%2Fdata%2Fbuiltin_skills%2Fwriting-release-notes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_e7e56703d7ea"
+  }
+}

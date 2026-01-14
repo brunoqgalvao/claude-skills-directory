@@ -1,0 +1,36 @@
+{
+  "id": "grey-haven-testing-strategy",
+  "name": "grey-haven-testing-strategy",
+  "version": "1.0.0",
+  "summary": "Grey Haven's comprehensive testing strategy - Vitest unit/integration/e2e for TypeScript, pytest markers for Python, >80% coverage requirement, fixture patterns, and Doppler for...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greyhaven-ai",
+    "github": "greyhaven-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greyhaven-ai/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/greyhaven-ai/claude-code-config/main/grey-haven-plugins/testing/skills/testing-strategy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:03.665Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greyhaven-ai%2Fclaude-code-config/grey-haven-plugins%2Ftesting%2Fskills%2Ftesting-strategy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_7a53716fb66a"
+  }
+}

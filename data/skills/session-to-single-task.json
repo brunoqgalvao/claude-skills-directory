@@ -1,0 +1,35 @@
+{
+  "id": "session-to-single-task",
+  "name": "session-to-single-task",
+  "version": "1.0.0",
+  "summary": "現在の会話から1つのタスク依頼プロンプトを自動生成し、GitHub Issue/Jira/Notionに即座に貼れる形式で出力する",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-hirota",
+    "github": "a-hirota"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-hirota/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/a-hirota/dotfiles/main/claude/skills/session-to-single-task/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T08:08:48.000Z",
+  "created_at": "2025-12-23T01:28:46.199Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-hirota%2Fdotfiles/claude%2Fskills%2Fsession-to-single-task%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_88fa6fa23117"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "python-setup",
+  "name": "python-setup",
+  "version": "1.0.0",
+  "summary": "Python environment setup on your computer for Badger 2350 development. Use when installing Python, setting up virtual environments, installing development tools like mpremote or...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlindquist",
+    "github": "johnlindquist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlindquist/badger-2350-plugin",
+    "skill_md": "https://raw.githubusercontent.com/johnlindquist/badger-2350-plugin/main/badger-2350-dev/skills/python-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:18:04.267Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlindquist%2Fbadger-2350-plugin/badger-2350-dev%2Fskills%2Fpython-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_1897cd7069b7"
+  }
+}

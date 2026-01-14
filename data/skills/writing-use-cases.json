@@ -1,0 +1,37 @@
+{
+  "id": "writing-use-cases",
+  "name": "writing-use-cases",
+  "version": "1.0.0",
+  "summary": "Create structured use case documentation with sequence diagrams for backend systems. Use when documenting API endpoints, service interactions, event flows, or system behaviors. ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mixomat",
+    "github": "mixomat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mixomat/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mixomat/claude-plugins/main/plugins/backend-development/skills/writing-use-cases/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:05:49.626Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mixomat%2Fclaude-plugins/plugins%2Fbackend-development%2Fskills%2Fwriting-use-cases%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_46f7af952e0f"
+  }
+}

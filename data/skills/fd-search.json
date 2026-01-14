@@ -1,0 +1,35 @@
+{
+  "id": "fd-search",
+  "name": "fd-search",
+  "version": "1.0.0",
+  "summary": "Fast and user-friendly file system search using fd as a replacement for find command",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wizact",
+    "github": "wizact"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wizact/dotclaude",
+    "skill_md": "https://raw.githubusercontent.com/wizact/dotclaude/main/.claude/skills/fd-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:17:17.234Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wizact%2Fdotclaude/.claude%2Fskills%2Ffd-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_0779a3da4ee0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "dnd-simple-combat",
+  "name": "dnd-simple-combat",
+  "version": "1.0.0",
+  "summary": "Manage D&D 5e combat encounters with turn-based mechanics, attack rolls, and HP tracking. This skill should be used when the user requests to start a combat encounter, fight a m...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JoeCotellese",
+    "github": "JoeCotellese"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JoeCotellese/dnd-dm-skill",
+    "skill_md": "https://raw.githubusercontent.com/JoeCotellese/dnd-dm-skill/main/tutorial-3-simple-combat/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.690Z",
+  "created_at": "2025-12-22T22:05:48.513Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JoeCotellese%2Fdnd-dm-skill/tutorial-3-simple-combat%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.690Z",
+    "uniqueId": "sk_2274990e3919"
+  }
+}

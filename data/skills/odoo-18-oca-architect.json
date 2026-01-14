@@ -1,0 +1,37 @@
+{
+  "id": "odoo-18-oca-architect",
+  "name": "odoo-18-oca-architect",
+  "version": "1.0.0",
+  "summary": "Enforce OCA patterns and Odoo 18 CE best practices. Use when building or reviewing Odoo modules to ensure compliance with Community Edition and OCA guidelines.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jgtolentino",
+    "github": "jgtolentino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jgtolentino/TaxPulse-PH-Pack",
+    "skill_md": "https://raw.githubusercontent.com/jgtolentino/TaxPulse-PH-Pack/main/skills/odoo-18-oca-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T10:44:13.000Z",
+  "created_at": "2025-12-22T20:06:25.082Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jgtolentino%2FTaxPulse-PH-Pack/skills%2Fodoo-18-oca-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_7ee6700429a0"
+  }
+}

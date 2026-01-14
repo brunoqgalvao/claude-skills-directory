@@ -1,0 +1,35 @@
+{
+  "id": "csharp-decompile",
+  "name": "csharp-decompile",
+  "version": "1.0.0",
+  "summary": "Decompile .NET assemblies to inspect types, understand implementations, debug third-party libraries, and view IL code. Use when debugging NuGet dependency behavior, understandin...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "j-r-beckett",
+    "github": "j-r-beckett"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/j-r-beckett/SpeedReader",
+    "skill_md": "https://raw.githubusercontent.com/j-r-beckett/SpeedReader/main/.claude/skills/csharp-decompile/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:55.198Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/j-r-beckett%2FSpeedReader/.claude%2Fskills%2Fcsharp-decompile%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_b488b8d2ef68"
+  }
+}

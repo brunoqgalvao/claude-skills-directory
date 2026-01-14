@@ -1,0 +1,35 @@
+{
+  "id": "claude-restart",
+  "name": "claude-restart",
+  "version": "1.0.0",
+  "summary": "Restart Claude Code session to reload new skills, manage context, or start fresh. Use this skill when skills have been added/modified, when needing to compact/clear context, or ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ManuelKugelmann",
+    "github": "ManuelKugelmann"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ManuelKugelmann/BitBot",
+    "skill_md": "https://raw.githubusercontent.com/ManuelKugelmann/BitBot/main/container/templates/bitbot-config/.claude/skills/claude-restart/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T13:54:59.000Z",
+  "created_at": "2025-12-23T01:28:12.845Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ManuelKugelmann%2FBitBot/container%2Ftemplates%2Fbitbot-config%2F.claude%2Fskills%2Fclaude-restart%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.583Z",
+    "uniqueId": "sk_d999359f49c4"
+  }
+}

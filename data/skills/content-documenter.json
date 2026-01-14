@@ -1,0 +1,35 @@
+{
+  "id": "content-documenter",
+  "name": "content-documenter",
+  "version": "1.0.0",
+  "summary": "Write comprehensive markdown documentation from analyzed media content with structured sections, quotes, timestamps, and citations. Use after media-reviewer analysis to create f...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "memorysaver",
+    "github": "memorysaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/memorysaver/looplia-core",
+    "skill_md": "https://raw.githubusercontent.com/memorysaver/looplia-core/main/docs/writing-agent-example/writing-agent/.claude/skills/content-documenter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:37.249Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/memorysaver%2Flooplia-core/docs%2Fwriting-agent-example%2Fwriting-agent%2F.claude%2Fskills%2Fcontent-documenter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_29052aa68d2f"
+  }
+}

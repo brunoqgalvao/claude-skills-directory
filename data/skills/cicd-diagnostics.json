@@ -1,0 +1,36 @@
+{
+  "id": "cicd-diagnostics",
+  "name": "cicd-diagnostics",
+  "version": "1.0.0",
+  "summary": "Diagnoses DotCMS GitHub Actions failures (PR builds, merge queue, nightly, trunk). Analyzes failed tests, root causes, compares runs. Use for \"fails in GitHub\", \"merge queue fai...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tony-adm",
+    "github": "tony-adm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tony-adm/dotCMSdocker",
+    "skill_md": "https://raw.githubusercontent.com/tony-adm/dotCMSdocker/main/.claude/skills/cicd-diagnostics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:49.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tony-adm%2FdotCMSdocker/.claude%2Fskills%2Fcicd-diagnostics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_3ba4cb8bf705"
+  }
+}

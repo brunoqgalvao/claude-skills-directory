@@ -1,0 +1,37 @@
+{
+  "id": "validation-standards",
+  "name": "validation-standards",
+  "version": "1.0.0",
+  "summary": "Tool usage requirements, failure patterns, consistency checks, and validation methodologies for Claude Code operations",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bejranonda",
+    "github": "bejranonda"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude",
+    "skill_md": "https://raw.githubusercontent.com/bejranonda/LLM-Autonomous-Agent-Plugin-for-Claude/main/skills/validation-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.686Z",
+  "created_at": "2025-12-22T22:09:43.104Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bejranonda%2FLLM-Autonomous-Agent-Plugin-for-Claude/skills%2Fvalidation-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.686Z",
+    "uniqueId": "sk_3ae1379ee9fd"
+  }
+}

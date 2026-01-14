@@ -1,0 +1,35 @@
+{
+  "id": "memory-coordination",
+  "name": "memory-coordination",
+  "version": "1.0.0",
+  "summary": "Coordinates Serena MCP knowledge graph operations for Shannon Framework. Enforces standardized\nentity naming (shannon/* namespace), relation creation patterns, search protocols,...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/shannon-framework",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/shannon-framework/main/skills/memory-coordination/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.470Z",
+  "created_at": "2025-12-23T01:30:50.908Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fshannon-framework/skills%2Fmemory-coordination%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.470Z",
+    "uniqueId": "sk_75a50a43d0de"
+  }
+}

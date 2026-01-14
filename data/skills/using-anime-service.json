@@ -1,0 +1,37 @@
+{
+  "id": "using-anime-service",
+  "name": "using-anime-service",
+  "version": "1.0.0",
+  "summary": "Guides using AnimeService for anime tracking operations. Use when implementing anime status checks, episode tracking, plan-to-watch, or hidden anime features.",
+  "verticals": [
+    "support",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sergiodk5",
+    "github": "sergiodk5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sergiodk5/anime-list",
+    "skill_md": "https://raw.githubusercontent.com/sergiodk5/anime-list/main/.claude/skills/using-anime-service/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:13:17.331Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sergiodk5%2Fanime-list/.claude%2Fskills%2Fusing-anime-service%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_a3ebff503f49"
+  }
+}

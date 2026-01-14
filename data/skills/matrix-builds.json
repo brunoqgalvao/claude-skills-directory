@@ -1,0 +1,36 @@
+{
+  "id": "matrix-builds",
+  "name": "matrix-builds",
+  "version": "1.0.0",
+  "summary": "GitHub Actionsのマトリックスビルド戦略（strategy.matrix）の設計と最適化。\n複数のOS、バージョン、環境での並列テスト実行、動的マトリックス生成、include/exclude条件、\nfail-fast制御、max-parallel設定による効率的なCI/CDパイプライン構築を支援。\n\n📚 リソース参照:\nこのスキルには以...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/matrix-builds/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T22:48:55.000Z",
+  "created_at": "2025-12-23T01:29:14.407Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fmatrix-builds%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_e91f739ecc86"
+  }
+}

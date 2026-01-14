@@ -1,0 +1,35 @@
+{
+  "id": "api-patterns",
+  "name": "api-patterns",
+  "version": "1.0.0",
+  "summary": "REST/GraphQL/tRPC API pattern library with validation, error handling, and documentation. Use when creating backend APIs.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/dev-lifecycle-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/dev-lifecycle-marketplace/main/.archive/old-numbered-plugins/02-develop/skills/api-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:24.040Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fdev-lifecycle-marketplace/.archive%2Fold-numbered-plugins%2F02-develop%2Fskills%2Fapi-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_a452d92fa1b9"
+  }
+}

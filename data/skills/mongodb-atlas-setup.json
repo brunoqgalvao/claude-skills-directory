@@ -1,0 +1,35 @@
+{
+  "id": "mongodb-atlas-setup",
+  "name": "mongodb-atlas-setup",
+  "version": "1.0.0",
+  "summary": "Master MongoDB Atlas cloud setup, cluster configuration, security, networking, backups, and monitoring. Get production-ready cloud database in minutes. Use when setting up cloud...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-mongodb",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-mongodb/main/skills/mongodb-atlas-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.785Z",
+  "created_at": "2025-12-22T19:06:58.475Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-mongodb/skills%2Fmongodb-atlas-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_f36ca6f4cf4f"
+  }
+}

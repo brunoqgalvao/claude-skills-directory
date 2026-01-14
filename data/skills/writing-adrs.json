@@ -1,0 +1,35 @@
+{
+  "id": "writing-adrs",
+  "name": "writing-adrs",
+  "version": "1.0.0",
+  "summary": "Document architectural decisions. Use when making significant technical decisions that should be recorded. Covers ADR format and decision documentation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dralgorhythm",
+    "github": "dralgorhythm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dralgorhythm/claude-agentic-framework",
+    "skill_md": "https://raw.githubusercontent.com/dralgorhythm/claude-agentic-framework/main/.claude/skills/architecture/writing-adrs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.563Z",
+  "created_at": "2025-12-23T01:28:38.695Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dralgorhythm%2Fclaude-agentic-framework/.claude%2Fskills%2Farchitecture%2Fwriting-adrs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_b8ffb0a224c6"
+  }
+}

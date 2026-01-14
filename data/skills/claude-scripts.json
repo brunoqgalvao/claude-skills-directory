@@ -1,0 +1,35 @@
+{
+  "id": "claude-scripts",
+  "name": "claude-scripts",
+  "version": "1.0.0",
+  "summary": "CLI to search Claude Code conversation history by tool, pattern, or time, and export results.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asimihsan",
+    "github": "asimihsan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asimihsan/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/asimihsan/dotfiles/main/chezmoi/dot_claude/skills/claude-scripts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T15:30:39.000Z",
+  "created_at": "2025-12-22T14:58:55.344Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asimihsan%2Fdotfiles/chezmoi%2Fdot_claude%2Fskills%2Fclaude-scripts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_12ed955b5f5d"
+  }
+}

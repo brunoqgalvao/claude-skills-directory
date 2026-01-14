@@ -1,0 +1,35 @@
+{
+  "id": "activitypub-integrations",
+  "name": "activitypub-integrations",
+  "version": "1.0.0",
+  "summary": "Third-party WordPress plugin integration patterns. Use when adding new integrations, debugging compatibility with other plugins, or working with existing integrations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Automattic",
+    "github": "Automattic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Automattic/wordpress-activitypub",
+    "skill_md": "https://raw.githubusercontent.com/Automattic/wordpress-activitypub/main/.claude/skills/activitypub-integrations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T19:05:03.000Z",
+  "created_at": "2025-12-23T01:28:48.939Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Automattic%2Fwordpress-activitypub/.claude%2Fskills%2Factivitypub-integrations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_62feb29d63f0"
+  }
+}

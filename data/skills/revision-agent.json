@@ -1,0 +1,35 @@
+{
+  "id": "revision-agent",
+  "name": "revision-agent",
+  "version": "1.0.0",
+  "summary": "Specialized agent for systematic prose revision using 3-column method and house-rulebook enforcement. Reviews structure, style, and mechanics top-down. Use when user asks to \"re...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathan-a-king",
+    "github": "nathan-a-king"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathan-a-king/writing-infrastructure",
+    "skill_md": "https://raw.githubusercontent.com/nathan-a-king/writing-infrastructure/main/revision-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:36.934Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathan-a-king%2Fwriting-infrastructure/revision-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_18d4a349199a"
+  }
+}

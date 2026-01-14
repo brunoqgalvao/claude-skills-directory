@@ -1,0 +1,35 @@
+{
+  "id": "dynaconf-config",
+  "name": "dynaconf-config",
+  "version": "1.0.0",
+  "summary": "Automatically applies when adding configuration settings. Ensures proper dynaconf pattern with @env, @int, @bool type casting in settings.toml and environment-specific overrides.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ricardoroche",
+    "github": "ricardoroche"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ricardoroche/ricardos-claude-code",
+    "skill_md": "https://raw.githubusercontent.com/ricardoroche/ricardos-claude-code/main/.claude/skills/dynaconf-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T22:50:19.000Z",
+  "created_at": "2025-12-23T01:28:46.899Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ricardoroche%2Fricardos-claude-code/.claude%2Fskills%2Fdynaconf-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_5a2e7acd940d"
+  }
+}

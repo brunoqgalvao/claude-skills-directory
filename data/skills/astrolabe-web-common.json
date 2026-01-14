@@ -1,0 +1,36 @@
+{
+  "id": "astrolabe-web-common",
+  "name": "astrolabe-web-common",
+  "version": "1.0.0",
+  "summary": "ASP.NET Core utilities for JWT authentication and SPA hosting with domain-based routing. Use when building web apps needing JWT tokens, multi-SPA hosting, or development-mode co...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astrolabe-apps",
+    "github": "astrolabe-apps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astrolabe-apps/astrolabe-common",
+    "skill_md": "https://raw.githubusercontent.com/astrolabe-apps/astrolabe-common/main/skills/astrolabe-web-common/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T05:10:18.000Z",
+  "created_at": "2025-12-22T18:56:56.089Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astrolabe-apps%2Fastrolabe-common/skills%2Fastrolabe-web-common%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_9d4a5fb0ec68"
+  }
+}

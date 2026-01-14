@@ -1,0 +1,35 @@
+{
+  "id": "handoff-receiver",
+  "name": "handoff-receiver",
+  "version": "1.0.0",
+  "summary": "Parse and execute incoming handoffs from Cursor following the normalized handoff schema with mixed-capability phases (analysis and write-capable)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "grandinh",
+    "github": "grandinh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/grandinh/claude-chaos-express",
+    "skill_md": "https://raw.githubusercontent.com/grandinh/claude-chaos-express/main/.claude/skills/handoff-receiver/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T00:03:37.000Z",
+  "created_at": "2025-12-23T01:28:50.254Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/grandinh%2Fclaude-chaos-express/.claude%2Fskills%2Fhandoff-receiver%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_b5ec37882be3"
+  }
+}

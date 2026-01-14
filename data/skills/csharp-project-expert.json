@@ -1,0 +1,36 @@
+{
+  "id": "csharp-project-expert",
+  "name": "csharp-project-expert",
+  "version": "1.0.0",
+  "summary": "Expert C# project and solution analysis, navigation, and refactoring tool. Find symbol\ndefinitions/references, safely rename across solutions, navigate type hierarchies, analyze...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pvasek",
+    "github": "pvasek"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pvasek/csharp-project-expert-skill",
+    "skill_md": "https://raw.githubusercontent.com/pvasek/csharp-project-expert-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:32.223Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pvasek%2Fcsharp-project-expert-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_c84e79e1932a"
+  }
+}

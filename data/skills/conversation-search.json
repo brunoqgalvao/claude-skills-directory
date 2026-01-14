@@ -1,0 +1,35 @@
+{
+  "id": "conversation-search",
+  "name": "conversation-search",
+  "version": "1.0.0",
+  "summary": "Find and resume Claude Code conversations by searching topics or filtering by date. Returns session IDs and project paths for easy resumption via 'claude --resume'. Use when use...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "akatz-ai",
+    "github": "akatz-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/akatz-ai/cc-conversation-search",
+    "skill_md": "https://raw.githubusercontent.com/akatz-ai/cc-conversation-search/main/skills/conversation-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:15:15.047Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/akatz-ai%2Fcc-conversation-search/skills%2Fconversation-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_e9591ad21440"
+  }
+}

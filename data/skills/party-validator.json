@@ -1,0 +1,35 @@
+{
+  "id": "party-validator",
+  "name": "party-validator",
+  "version": "1.0.0",
+  "summary": "Validate and manage D&D party configuration files including player names, character mappings, and DM information. Use when creating new party configs, troubleshooting speaker ma...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Gambitnl",
+    "github": "Gambitnl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Gambitnl/Video_chunking",
+    "skill_md": "https://raw.githubusercontent.com/Gambitnl/Video_chunking/main/.claude/skills/party-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.676Z",
+  "created_at": "2025-12-22T22:12:55.388Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Gambitnl%2FVideo_chunking/.claude%2Fskills%2Fparty-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.676Z",
+    "uniqueId": "sk_29e9dc06d1bf"
+  }
+}

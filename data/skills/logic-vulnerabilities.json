@@ -1,0 +1,35 @@
+{
+  "id": "logic-vulnerabilities",
+  "name": "logic-vulnerabilities",
+  "version": "1.0.0",
+  "summary": "File descriptor abuse, race conditions, and TOCTOU vulnerabilities",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amattas",
+    "github": "amattas"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amattas/agentic-coding",
+    "skill_md": "https://raw.githubusercontent.com/amattas/agentic-coding/main/security/.claude/skills/logic-vulnerabilities/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T05:02:05.000Z",
+  "created_at": "2025-12-23T01:28:41.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amattas%2Fagentic-coding/security%2F.claude%2Fskills%2Flogic-vulnerabilities%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_02a6da37775c"
+  }
+}

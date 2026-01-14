@@ -1,0 +1,36 @@
+{
+  "id": "code-of-conduct-generator",
+  "name": "code-of-conduct-generator",
+  "version": "1.0.0",
+  "summary": "Generate CODE_OF_CONDUCT.md files based on Contributor Covenant. Triggers on \"create code of conduct\", \"generate code_of_conduct.md\", \"community guidelines\", \"contributor covena...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/code-of-conduct-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:17:56.000Z",
+  "created_at": "2025-12-23T01:28:20.539Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/code-of-conduct-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_b94aa3f5ff8a"
+  }
+}

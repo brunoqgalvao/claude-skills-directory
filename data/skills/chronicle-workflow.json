@@ -1,0 +1,37 @@
+{
+  "id": "chronicle-workflow",
+  "name": "chronicle-workflow",
+  "version": "1.0.0",
+  "summary": "Complete workflow for tracking development work with Chronicle - session recording, git tracking, AI summarization, and Obsidian documentation. Works with CLI commands (portable...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChandlerHardy",
+    "github": "ChandlerHardy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChandlerHardy/chronicle",
+    "skill_md": "https://raw.githubusercontent.com/ChandlerHardy/chronicle/main/chronicle-skills/chronicle-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:10.459Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChandlerHardy%2Fchronicle/chronicle-skills%2Fchronicle-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_724416438689"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "aws-package-upgrading",
+  "name": "aws-package-upgrading",
+  "version": "1.0.0",
+  "summary": "Upgrade AWS icons package to the latest version following established procedures",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tmorin",
+    "github": "tmorin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tmorin/plantuml-libs",
+    "skill_md": "https://raw.githubusercontent.com/tmorin/plantuml-libs/main/.github/skills/aws-package-upgrading/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.581Z",
+  "created_at": "2025-12-23T01:28:17.353Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tmorin%2Fplantuml-libs/.github%2Fskills%2Faws-package-upgrading%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.581Z",
+    "uniqueId": "sk_02ef5050f561"
+  }
+}

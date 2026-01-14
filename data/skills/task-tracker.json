@@ -1,0 +1,35 @@
+{
+  "id": "task-tracker",
+  "name": "task-tracker",
+  "version": "1.0.0",
+  "summary": "Track and manage development tasks",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NikiforovAll",
+    "github": "NikiforovAll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NikiforovAll/lazyclaude",
+    "skill_md": "https://raw.githubusercontent.com/NikiforovAll/lazyclaude/main/tests/integration/fixtures/skills/task-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T11:44:19.000Z",
+  "created_at": "2025-12-22T16:18:41.633Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NikiforovAll%2Flazyclaude/tests%2Fintegration%2Ffixtures%2Fskills%2Ftask-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_f95708f5736f"
+  }
+}

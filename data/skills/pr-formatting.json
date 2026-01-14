@@ -1,0 +1,37 @@
+{
+  "id": "pr-formatting",
+  "name": "pr-formatting",
+  "version": "1.0.0",
+  "summary": "Create and update pull request descriptions with comprehensive, well-structured content. Use when the user asks to create a PR, mentions \"pull request\" or \"PR\", wants to merge a...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "olioapps",
+    "github": "olioapps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/olioapps/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/olioapps/claude-code-plugins/main/git-actions/skills/pr-formatting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T23:03:24.000Z",
+  "created_at": "2025-12-22T16:02:07.842Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/olioapps%2Fclaude-code-plugins/git-actions%2Fskills%2Fpr-formatting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_0283a6a34727"
+  }
+}

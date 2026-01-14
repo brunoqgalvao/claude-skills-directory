@@ -1,0 +1,35 @@
+{
+  "id": "word-cloud-generator",
+  "name": "word-cloud-generator",
+  "version": "1.0.0",
+  "summary": "Generate styled word clouds from text with custom shapes, colors, fonts, and stopword filtering. Supports PNG/SVG export and frequency dictionaries.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dkyazzentwatwa",
+    "github": "dkyazzentwatwa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dkyazzentwatwa/chatgpt-skills",
+    "skill_md": "https://raw.githubusercontent.com/dkyazzentwatwa/chatgpt-skills/main/word-cloud-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.512Z",
+  "created_at": "2025-12-23T01:29:15.743Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dkyazzentwatwa%2Fchatgpt-skills/word-cloud-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_962dae6b51cf"
+  }
+}

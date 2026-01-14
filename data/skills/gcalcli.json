@@ -1,0 +1,35 @@
+{
+  "id": "gcalcli",
+  "name": "gcalcli",
+  "version": "1.0.0",
+  "summary": "Interact with Google Calendar via gcalcli",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benthomasson",
+    "github": "benthomasson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benthomasson/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/benthomasson/claude-skills/main/skills/gcalcli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.689Z",
+  "created_at": "2025-12-22T22:07:09.825Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benthomasson%2Fclaude-skills/skills%2Fgcalcli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.689Z",
+    "uniqueId": "sk_4e9dd18851fe"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "brokle-migration-workflow",
+  "name": "brokle-migration-workflow",
+  "version": "1.0.0",
+  "summary": "Use this skill when creating, running, or managing database migrations for PostgreSQL or ClickHouse. This includes creating new migrations, running migrations, checking migratio...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brokle-ai",
+    "github": "brokle-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brokle-ai/brokle",
+    "skill_md": "https://raw.githubusercontent.com/brokle-ai/brokle/main/.claude/skills/brokle-migration-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T09:51:27.000Z",
+  "created_at": "2025-12-23T01:29:25.385Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brokle-ai%2Fbrokle/.claude%2Fskills%2Fbrokle-migration-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_9c9ab29d1b92"
+  }
+}

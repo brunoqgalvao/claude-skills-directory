@@ -1,0 +1,36 @@
+{
+  "id": "blueprint-skill",
+  "name": "blueprint-skill",
+  "version": "1.0.0",
+  "summary": "This skill can create the blueprints used by the Renku client to generate video compositions. These blueprints define the workflow to generate the media files. They have define ...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "keremk",
+    "github": "keremk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/keremk/renku",
+    "skill_md": "https://raw.githubusercontent.com/keremk/renku/main/renku-plugin/skills/blueprint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.859Z",
+  "created_at": "2025-12-22T15:10:18.779Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/keremk%2Frenku/renku-plugin%2Fskills%2Fblueprint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_06e66db37009"
+  }
+}

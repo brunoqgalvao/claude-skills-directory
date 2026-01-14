@@ -1,0 +1,36 @@
+{
+  "id": "kafka-streams-topology",
+  "name": "kafka-streams-topology",
+  "version": "1.0.0",
+  "summary": "Kafka Streams topology design expert. Covers KStream vs KTable vs GlobalKTable, topology patterns, stream operations (filter, map, flatMap, branch), joins, windowing strategies,...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave-kafka-streams/skills/kafka-streams-topology/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.670Z",
+  "created_at": "2025-12-22T22:16:33.006Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave-kafka-streams%2Fskills%2Fkafka-streams-topology%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.670Z",
+    "uniqueId": "sk_0b48b24283d6"
+  }
+}

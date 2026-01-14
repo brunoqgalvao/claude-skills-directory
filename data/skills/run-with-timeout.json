@@ -1,0 +1,36 @@
+{
+  "id": "run-with-timeout",
+  "name": "run-with-timeout",
+  "version": "1.0.0",
+  "summary": "Run commands with timeout protection to prevent hanging. Use for potentially long-running tests or operations.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ManuelKugelmann",
+    "github": "ManuelKugelmann"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ManuelKugelmann/BitBot",
+    "skill_md": "https://raw.githubusercontent.com/ManuelKugelmann/BitBot/main/.claude/skills/run-with-timeout/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T08:55:37.000Z",
+  "created_at": "2025-12-23T01:28:15.969Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ManuelKugelmann%2FBitBot/.claude%2Fskills%2Frun-with-timeout%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.582Z",
+    "uniqueId": "sk_b98dcf72dd87"
+  }
+}

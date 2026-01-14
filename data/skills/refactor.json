@@ -1,0 +1,35 @@
+{
+  "id": "refactor",
+  "name": "refactor",
+  "version": "1.0.0",
+  "summary": "Analyze code and suggest concrete refactorings. Triggers on: \"refactor this\", \"clean up\", \"simplify\", \"this is messy\", \"too long\", \"too complex\", or when reviewing code with obv...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nijaru",
+    "github": "nijaru"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nijaru/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/nijaru/dotfiles/main/private_dot_codex/skills/refactor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.557Z",
+  "created_at": "2025-12-23T01:28:44.062Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nijaru%2Fdotfiles/private_dot_codex%2Fskills%2Frefactor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.557Z",
+    "uniqueId": "sk_d7a9f3fd58ab"
+  }
+}

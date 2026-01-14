@@ -1,0 +1,35 @@
+{
+  "id": "patent-diagram-generator",
+  "name": "patent-diagram-generator",
+  "version": "1.0.0",
+  "summary": "Create patent-style technical diagrams including flowcharts, block diagrams, and system architectures using Graphviz with reference numbering",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RobThePCGuy",
+    "github": "RobThePCGuy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RobThePCGuy/Claude-Patent-Creator",
+    "skill_md": "https://raw.githubusercontent.com/RobThePCGuy/Claude-Patent-Creator/main/skills/patent-diagram-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:08.014Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RobThePCGuy%2FClaude-Patent-Creator/skills%2Fpatent-diagram-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_004976c4bd2b"
+  }
+}

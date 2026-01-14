@@ -1,0 +1,37 @@
+{
+  "id": "confluence-server",
+  "name": "confluence-server",
+  "version": "1.0.0",
+  "summary": "This skill enables interaction with Confluence Server/Data Center REST API for documentation retrieval and knowledge management. Use when the user wants to read pages, search co...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "skempken",
+    "github": "skempken"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/skempken/confluence-server",
+    "skill_md": "https://raw.githubusercontent.com/skempken/confluence-server/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T14:47:46.000Z",
+  "created_at": "2025-12-23T01:29:00.834Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/skempken%2Fconfluence-server/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_2595c3832129"
+  }
+}

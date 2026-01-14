@@ -1,0 +1,35 @@
+{
+  "id": "decision-tracker",
+  "name": "decision-tracker",
+  "version": "1.0.0",
+  "summary": "Git-powered state awareness - track file changes, session context, decisions, and work history. Query what happened in previous sessions and during current session. Auto-activat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Shakes-tzd",
+    "github": "Shakes-tzd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Shakes-tzd/contextune",
+    "skill_md": "https://raw.githubusercontent.com/Shakes-tzd/contextune/main/skills/decision-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.652Z",
+  "created_at": "2025-12-22T23:03:13.604Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Shakes-tzd%2Fcontextune/skills%2Fdecision-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.652Z",
+    "uniqueId": "sk_c8447aad6715"
+  }
+}

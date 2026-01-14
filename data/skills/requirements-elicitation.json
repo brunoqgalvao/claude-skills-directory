@@ -1,0 +1,36 @@
+{
+  "id": "requirements-elicitation",
+  "name": "requirements-elicitation",
+  "version": "1.0.0",
+  "summary": "Systematic framework for analyzing product documents (PRDs, feature specs, user stories, roadmaps, one-pagers) to identify gaps, generate clarifying questions for PMs and engine...",
+  "verticals": [
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danbrickey",
+    "github": "danbrickey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danbrickey/pay_no_attention",
+    "skill_md": "https://raw.githubusercontent.com/danbrickey/pay_no_attention/main/ai-resources/prompts/architecture/technical-requirements/requirements-elicitation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T22:10:38.545Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danbrickey%2Fpay_no_attention/ai-resources%2Fprompts%2Farchitecture%2Ftechnical-requirements%2Frequirements-elicitation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_4affce755e50"
+  }
+}

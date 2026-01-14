@@ -1,0 +1,35 @@
+{
+  "id": "council-consultation",
+  "name": "council-consultation",
+  "version": "1.0.0",
+  "summary": "Multi-perspective analysis methodology for complex decisions. Dynamically generates relevant expert viewpoints, consults each perspective systematically, and synthesizes insight...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "princespaghetti",
+    "github": "princespaghetti"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/princespaghetti/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/princespaghetti/claude-marketplace/main/learnfrompast/skills/council-consultation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:06:10.182Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/princespaghetti%2Fclaude-marketplace/learnfrompast%2Fskills%2Fcouncil-consultation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_98450bf26491"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "laravel-medialibrary",
+  "name": "laravel-medialibrary",
+  "version": "1.0.0",
+  "summary": "Manage media files (images, PDFs, videos) in Laravel using Spatie's Media Library. Handle file uploads, store files on any filesystem (S3, local), generate image conversions (th...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hieubkav",
+    "github": "Hieubkav"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hieubkav/wincellarCloneBackend",
+    "skill_md": "https://raw.githubusercontent.com/Hieubkav/wincellarCloneBackend/main/.factory/skills/laravel-medialibrary/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:37.422Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hieubkav%2FwincellarCloneBackend/.factory%2Fskills%2Flaravel-medialibrary%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_07af874107cd"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sqlite-inspector",
+  "name": "sqlite-inspector",
+  "version": "1.0.0",
+  "summary": "Проверка консистентности данных в SQLite базах данных MikoPBX после операций REST API. Использовать при валидации результатов API, отладке проблем с данными, проверке связей вне...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikopbx",
+    "github": "mikopbx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikopbx/Core",
+    "skill_md": "https://raw.githubusercontent.com/mikopbx/Core/main/.claude/skills/sqlite-inspector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:19.470Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikopbx%2FCore/.claude%2Fskills%2Fsqlite-inspector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_753f113678e2"
+  }
+}

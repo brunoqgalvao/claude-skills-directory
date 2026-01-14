@@ -1,0 +1,36 @@
+{
+  "id": "smc-chart-analysis",
+  "name": "smc-chart-analysis",
+  "version": "1.0.0",
+  "summary": "Smart Money Concepts (SMC) and ICT-style chart analysis skill. Analyzes any market with one command - fetches real data, runs multi-timeframe analysis, identifies trade setups w...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AaronAbuUsama",
+    "github": "AaronAbuUsama"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AaronAbuUsama/alpha-arena",
+    "skill_md": "https://raw.githubusercontent.com/AaronAbuUsama/alpha-arena/main/.claude/skills/smc-chart-analysis-DEPRECATED/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:00:44.956Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AaronAbuUsama%2Falpha-arena/.claude%2Fskills%2Fsmc-chart-analysis-DEPRECATED%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_0c7d6462627c"
+  }
+}

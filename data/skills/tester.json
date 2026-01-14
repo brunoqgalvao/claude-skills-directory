@@ -1,0 +1,36 @@
+{
+  "id": "tester",
+  "name": "tester",
+  "version": "1.0.0",
+  "summary": "Generate and run tests for code. Use when creating unit tests, integration tests, or running test suites.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wtthornton",
+    "github": "wtthornton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wtthornton/TappsCodingAgents",
+    "skill_md": "https://raw.githubusercontent.com/wtthornton/TappsCodingAgents/main/tapps_agents/agents/tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:31.246Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wtthornton%2FTappsCodingAgents/tapps_agents%2Fagents%2Ftester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_74de7f7b8ec8"
+  }
+}

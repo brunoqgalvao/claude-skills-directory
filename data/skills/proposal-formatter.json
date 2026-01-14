@@ -1,0 +1,35 @@
+{
+  "id": "proposal-formatter",
+  "name": "proposal-formatter",
+  "version": "1.0.0",
+  "summary": "Format trading proposals with timestamped headers and disciplined bullet structure. Use when a persona must deliver a single consolidated proposal with Schwab timestamps, bold p...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkoelker",
+    "github": "jkoelker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkoelker/zephyr",
+    "skill_md": "https://raw.githubusercontent.com/jkoelker/zephyr/main/skills/proposal-formatter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:54.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkoelker%2Fzephyr/skills%2Fproposal-formatter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_ad4401bd1919"
+  }
+}

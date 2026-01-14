@@ -1,0 +1,35 @@
+{
+  "id": "diagnose-backup-issues",
+  "name": "diagnose-backup-issues",
+  "version": "1.0.0",
+  "summary": "Comprehensive diagnostic tool for troubleshooting OADP/Velero backup and restore problems with automated checks and recommendations.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mpryc",
+    "github": "mpryc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mpryc/ai-agents-and-skills",
+    "skill_md": "https://raw.githubusercontent.com/mpryc/ai-agents-and-skills/main/claude/oadp-operator/skills/operations/diagnose-backup-issues/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.604Z",
+  "created_at": "2025-12-23T00:04:28.838Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mpryc%2Fai-agents-and-skills/claude%2Foadp-operator%2Fskills%2Foperations%2Fdiagnose-backup-issues%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.604Z",
+    "uniqueId": "sk_7510145144e0"
+  }
+}

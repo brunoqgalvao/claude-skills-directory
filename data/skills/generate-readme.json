@@ -1,0 +1,35 @@
+{
+  "id": "generate-readme",
+  "name": "generate-readme",
+  "version": "1.0.0",
+  "summary": "Generate/update project README by scanning all plugins and tools. Use when user asks to \"生成 README\", \"更新 README\", \"generate README\", \"update README\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cuiguojie",
+    "github": "cuiguojie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cuiguojie/my-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/cuiguojie/my-claude-marketplace/main/.claude/skills/generate-readme/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:35.414Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cuiguojie%2Fmy-claude-marketplace/.claude%2Fskills%2Fgenerate-readme%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_3aced2fcb29c"
+  }
+}

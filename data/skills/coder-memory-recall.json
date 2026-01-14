@@ -1,0 +1,36 @@
+{
+  "id": "coder-memory-recall",
+  "name": "coder-memory-recall",
+  "version": "1.0.0",
+  "summary": "Retrieve universal coding patterns from vector database using true two-stage retrieval. Auto-invokes before complex tasks or when user says \"--recall\". Searches relevant role co...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hungson175",
+    "github": "hungson175"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hungson175/deploy-memory-tools",
+    "skill_md": "https://raw.githubusercontent.com/hungson175/deploy-memory-tools/main/global/v3.2/coder-memory-recall/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:22.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hungson175%2Fdeploy-memory-tools/global%2Fv3.2%2Fcoder-memory-recall%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_5a4b43e2cb19"
+  }
+}

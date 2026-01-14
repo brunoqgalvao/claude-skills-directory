@@ -1,0 +1,37 @@
+{
+  "id": "long-task-harness",
+  "name": "long-task-harness",
+  "version": "1.0.0",
+  "summary": "Maintains continuity across long-running tasks that span multiple Claude Code sessions. This skill should be used when starting a complex project that will require multiple sess...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tmustier",
+    "github": "tmustier"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tmustier/long-task-harness",
+    "skill_md": "https://raw.githubusercontent.com/tmustier/long-task-harness/main/skills/long-task-harness/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.886Z",
+  "created_at": "2025-12-19T20:33:41.316Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tmustier%2Flong-task-harness/skills%2Flong-task-harness%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_4e514534b953"
+  }
+}

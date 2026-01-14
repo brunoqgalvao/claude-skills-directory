@@ -1,0 +1,37 @@
+{
+  "id": "rust-production-reliability",
+  "name": "rust-production-reliability",
+  "version": "1.0.0",
+  "summary": "Production reliability patterns including circuit breakers with exponential backoff, graceful shutdown management with signal handling, retry logic with jitter, rate limiting wi...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matthewharwood",
+    "github": "matthewharwood"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matthewharwood/engmanager.xyz",
+    "skill_md": "https://raw.githubusercontent.com/matthewharwood/engmanager.xyz/main/.claude/skills/rust-production-reliability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.672Z",
+  "created_at": "2025-12-22T22:15:45.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matthewharwood%2Fengmanager.xyz/.claude%2Fskills%2Frust-production-reliability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.672Z",
+    "uniqueId": "sk_97f8bb44b429"
+  }
+}

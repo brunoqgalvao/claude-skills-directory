@@ -2,41 +2,34 @@
   "id": "notion-tasks",
   "name": "notion-tasks",
   "version": "1.0.0",
-  "summary": "Query and manage Oak AI squad tasks and sprints in Notion. Use when checking current sprint, finding tasks by status, updating task information, or understanding team priorities an",
+  "summary": "Query and manage Oak AI squad tasks and sprints in Notion. Use when checking current sprint, finding tasks by status, updating task information, or understanding team priorities...",
   "verticals": [
-    "Data",
-    "Engineering"
+    "engineering"
   ],
-  "tags": [
-    "ai",
-    "education",
-    "mit-license",
-    "notion",
-    "tasks",
-    "git"
-  ],
+  "tags": [],
   "author": {
     "name": "oaknational",
-    "github": "oaknational",
-    "avatar": "https://avatars.githubusercontent.com/u/63889701?v=4"
+    "github": "oaknational"
   },
   "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/oaknational/oak-ai-lesson-assistant/tree/main/.claude/skills/notion-tasks/SKILL.md",
-    "skill_md": "https://raw.githubusercontent.com/oaknational/oak-ai-lesson-assistant/main/.claude/skills/notion-tasks/SKILL.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install notion-tasks"
+    "repo": "https://github.com/oaknational/oak-ai-lesson-assistant",
+    "skill_md": "https://raw.githubusercontent.com/oaknational/oak-ai-lesson-assistant/main/.claude/skills/notion-tasks/SKILL.md"
   },
   "stats": {
-    "stars": 29,
-    "forks": 3,
+    "stars": 0,
+    "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-12-18",
-  "created_at": "2024-08-21"
+  "last_updated": "2025-11-05T15:55:52.000Z",
+  "created_at": "2025-12-22T15:11:43.698Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oaknational%2Foak-ai-lesson-assistant/.claude%2Fskills%2Fnotion-tasks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_41a4e128fcfa"
+  }
 }

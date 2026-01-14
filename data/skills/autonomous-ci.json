@@ -1,0 +1,35 @@
+{
+  "id": "autonomous-ci",
+  "name": "autonomous-ci",
+  "version": "1.0.0",
+  "summary": "Ensures Claude verifies both local tests AND remote CI before claiming completion. Use BEFORE any completion claims, commits, or pull requests. Mandatory verification with evide...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ANcpLua",
+    "github": "ANcpLua"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ANcpLua/ancplua-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/ANcpLua/ancplua-claude-plugins/main/plugins/autonomous-ci/skills/autonomous-ci/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:29.440Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ANcpLua%2Fancplua-claude-plugins/plugins%2Fautonomous-ci%2Fskills%2Fautonomous-ci%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_334af3d92a56"
+  }
+}

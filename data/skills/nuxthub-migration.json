@@ -1,0 +1,36 @@
+{
+  "id": "nuxthub-migration",
+  "name": "nuxthub-migration",
+  "version": "1.0.0",
+  "summary": "Use when migrating NuxtHub projects or when user mentions NuxtHub Admin sunset, GitHub Actions deployment removal, self-hosting NuxtHub, or upgrading to v0.10/nightly. Covers v0...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onmax",
+    "github": "onmax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onmax/nuxthub-v1-skill",
+    "skill_md": "https://raw.githubusercontent.com/onmax/nuxthub-v1-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.488Z",
+  "created_at": "2025-12-23T01:29:35.511Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onmax%2Fnuxthub-v1-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_6b09641df8d2"
+  }
+}

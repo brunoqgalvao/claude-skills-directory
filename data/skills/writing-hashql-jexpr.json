@@ -1,0 +1,36 @@
+{
+  "id": "writing-hashql-jexpr",
+  "name": "writing-hashql-jexpr",
+  "version": "1.0.0",
+  "summary": "HashQL J-Expr syntax for writing queries. Use when writing J-Expr code, using #literal/#struct/#list constructs, understanding function call syntax, or working with HashQL query...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hashintel",
+    "github": "hashintel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hashintel/hash",
+    "skill_md": "https://raw.githubusercontent.com/hashintel/hash/main/.claude/skills/writing-hashql-jexpr/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:07:26.359Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hashintel%2Fhash/.claude%2Fskills%2Fwriting-hashql-jexpr%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_df045d40d20e"
+  }
+}

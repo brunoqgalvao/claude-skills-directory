@@ -1,0 +1,35 @@
+{
+  "id": "az-aks-agent",
+  "name": "az-aks-agent",
+  "version": "1.0.0",
+  "summary": "Azure AKS Agentic CLI - AI-powered troubleshooting and insights tool for Azure Kubernetes Service. Use when diagnosing AKS cluster issues, getting cluster health insights, troub...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "julianobarbosa",
+    "github": "julianobarbosa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/julianobarbosa/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/julianobarbosa/claude-code-skills/main/skills/az-aks-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T18:20:04.000Z",
+  "created_at": "2025-12-22T21:17:57.893Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/julianobarbosa%2Fclaude-code-skills/skills%2Faz-aks-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.708Z",
+    "uniqueId": "sk_fd525efef25a"
+  }
+}

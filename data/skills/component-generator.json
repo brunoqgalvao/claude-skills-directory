@@ -1,0 +1,36 @@
+{
+  "id": "component-generator",
+  "name": "component-generator",
+  "version": "1.0.0",
+  "summary": "Generates React 19 components using Shadcn/ui v4 and Radix UI primitives for the NABIP AMS. Use when creating forms, dialogs, data tables, dashboards, or custom UI components th...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "markus41",
+    "github": "markus41"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/markus41/nabip-association-ma",
+    "skill_md": "https://raw.githubusercontent.com/markus41/nabip-association-ma/main/.claude/skills/component-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:10:46.383Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/markus41%2Fnabip-association-ma/.claude%2Fskills%2Fcomponent-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_3a5c517379ac"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "e2b-sandbox",
+  "name": "e2b-sandbox",
+  "version": "1.0.0",
+  "summary": "Execute AI-generated code in secure isolated E2B cloud sandboxes with advanced monitoring, MCP gateway integration (200+ tools), and multi-language support. Use for running Pyth...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "padak",
+    "github": "padak"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/padak/ng_component",
+    "skill_md": "https://raw.githubusercontent.com/padak/ng_component/main/.claude/skills/e2b_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:24.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/padak%2Fng_component/.claude%2Fskills%2Fe2b_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_fac4c6262531"
+  }
+}

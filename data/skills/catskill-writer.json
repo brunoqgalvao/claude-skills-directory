@@ -1,0 +1,36 @@
+{
+  "id": "catskill-writer",
+  "name": "catskill-writer",
+  "version": "1.0.0",
+  "summary": "Write Catskill Crew newsletter content in Michael's voice. Use when writing HAPPENINGS, REPORT, BULLETIN sections or assembling a complete newsletter edition.",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aniketpanjwani",
+    "github": "aniketpanjwani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aniketpanjwani/automated_catskill_crew",
+    "skill_md": "https://raw.githubusercontent.com/aniketpanjwani/automated_catskill_crew/main/.claude/skills/catskill-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T21:46:02.000Z",
+  "created_at": "2025-12-23T01:28:41.315Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aniketpanjwani%2Fautomated_catskill_crew/.claude%2Fskills%2Fcatskill-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_e74f79dfdcb7"
+  }
+}

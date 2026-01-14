@@ -1,0 +1,36 @@
+{
+  "id": "smalltalk-developer",
+  "name": "smalltalk-developer",
+  "version": "1.0.0",
+  "summary": "Use this skill when user asks to - \"with smalltalk-developer\", \"create a Smalltalk class\", \"add a method to Pharo\", \"write Smalltalk code\", \"edit Tonel files\", \"import package t...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mumez",
+    "github": "mumez"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mumez/smalltalk-dev-plugin",
+    "skill_md": "https://raw.githubusercontent.com/mumez/smalltalk-dev-plugin/main/skills/smalltalk-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.794Z",
+  "created_at": "2025-12-22T18:57:19.182Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mumez%2Fsmalltalk-dev-plugin/skills%2Fsmalltalk-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.794Z",
+    "uniqueId": "sk_099fc6a2f305"
+  }
+}

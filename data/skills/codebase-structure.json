@@ -1,0 +1,36 @@
+{
+  "id": "codebase-structure",
+  "name": "codebase-structure",
+  "version": "1.0.0",
+  "summary": "Provides a high-level overview of the Next.js application's file structure and directory organization. Use when deciding where to place new files, components, server actions, da...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Reodor-Studios",
+    "github": "Reodor-Studios"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Reodor-Studios/create-reodor-app",
+    "skill_md": "https://raw.githubusercontent.com/Reodor-Studios/create-reodor-app/main/.claude/skills/codebase-structure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.741Z",
+  "created_at": "2025-12-22T21:11:25.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Reodor-Studios%2Fcreate-reodor-app/.claude%2Fskills%2Fcodebase-structure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_a60c2a843975"
+  }
+}

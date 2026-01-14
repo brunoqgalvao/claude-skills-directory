@@ -1,0 +1,36 @@
+{
+  "id": "presentation-builder",
+  "name": "presentation-builder",
+  "version": "1.0.0",
+  "summary": "Structure compelling presentations with clear narratives and visual suggestions",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tatat",
+    "github": "tatat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tatat/agents-playground",
+    "skill_md": "https://raw.githubusercontent.com/tatat/agents-playground/main/skills/presentation-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:57:56.080Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tatat%2Fagents-playground/skills%2Fpresentation-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_93794f880c5d"
+  }
+}

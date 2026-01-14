@@ -1,0 +1,36 @@
+{
+  "id": "spawn",
+  "name": "spawn",
+  "version": "1.0.0",
+  "summary": "spawn parallel amp agents in tmux with thread linkage",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bdsqqq",
+    "github": "bdsqqq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bdsqqq/dots",
+    "skill_md": "https://raw.githubusercontent.com/bdsqqq/dots/main/user/amp/skills/spawn/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:54.600Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bdsqqq%2Fdots/user%2Famp%2Fskills%2Fspawn%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_b23a037da444"
+  }
+}

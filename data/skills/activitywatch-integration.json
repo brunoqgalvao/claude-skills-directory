@@ -1,0 +1,37 @@
+{
+  "id": "activitywatch-integration",
+  "name": "activitywatch-integration",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for ActivityWatch setup, configuration, watchers, integrations, API usage, and automation. Covers aw-qt, aw-watcher modules, aw-client libraries, aw-sync, da...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aledlie",
+    "github": "aledlie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aledlie/aleph-watch",
+    "skill_md": "https://raw.githubusercontent.com/aledlie/aleph-watch/main/.claude/skills/activitywatch-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:09.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aledlie%2Faleph-watch/.claude%2Fskills%2Factivitywatch-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_7fbec6bd91a3"
+  }
+}

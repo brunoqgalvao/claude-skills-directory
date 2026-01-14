@@ -1,0 +1,37 @@
+{
+  "id": "azure-dashboard-creator",
+  "name": "azure-dashboard-creator",
+  "version": "1.0.0",
+  "summary": "Create Azure DevOps dashboards with widgets and metrics. Use when visualizing project metrics or creating team dashboards.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/azure-dashboard-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T06:11:39.000Z",
+  "created_at": "2025-12-22T14:56:26.943Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Fazure-dashboard-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_2734bc2f7ab5"
+  }
+}

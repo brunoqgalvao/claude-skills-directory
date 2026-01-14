@@ -1,0 +1,37 @@
+{
+  "id": "testing-claude-plugins-with-python-sdk",
+  "name": "testing-claude-plugins-with-python-sdk",
+  "version": "1.0.0",
+  "summary": "Use when testing Claude Code plugins programmatically, building SDK applications, encountering plugin loading failures (plugins array empty), getting AttributeError on message.t...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/shannon-framework",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/shannon-framework/main/.claude/skills/testing-claude-plugins-with-python-sdk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.596Z",
+  "created_at": "2025-12-23T00:19:39.946Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fshannon-framework/.claude%2Fskills%2Ftesting-claude-plugins-with-python-sdk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.596Z",
+    "uniqueId": "sk_ea073376411f"
+  }
+}

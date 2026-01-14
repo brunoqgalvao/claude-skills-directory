@@ -1,0 +1,36 @@
+{
+  "id": "designing-experiments",
+  "name": "designing-experiments",
+  "version": "1.0.0",
+  "summary": "Selects the appropriate quasi-experimental method (DiD, ITS, SC) based on data structure and research questions. Use when the user is unsure which method to apply.",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pymc-labs",
+    "github": "pymc-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pymc-labs/CausalPy",
+    "skill_md": "https://raw.githubusercontent.com/pymc-labs/CausalPy/main/.claude/skills/designing-experiments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T22:13:36.000Z",
+  "created_at": "2025-12-23T01:28:27.687Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pymc-labs%2FCausalPy/.claude%2Fskills%2Fdesigning-experiments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_e697a48f856a"
+  }
+}

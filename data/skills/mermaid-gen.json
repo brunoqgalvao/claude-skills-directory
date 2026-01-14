@@ -1,0 +1,35 @@
+{
+  "id": "mermaid-gen",
+  "name": "mermaid-gen",
+  "version": "1.0.0",
+  "summary": "Generate syntactically correct Mermaid diagrams for technical documentation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vladm3105",
+    "github": "vladm3105"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vladm3105/aidoc-flow-framework",
+    "skill_md": "https://raw.githubusercontent.com/vladm3105/aidoc-flow-framework/main/.claude/skills/mermaid-gen/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-23T00:00:21.488Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vladm3105%2Faidoc-flow-framework/.claude%2Fskills%2Fmermaid-gen%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_9fb7105704b9"
+  }
+}

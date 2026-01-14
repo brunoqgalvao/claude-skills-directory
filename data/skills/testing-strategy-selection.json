@@ -1,0 +1,35 @@
+{
+  "id": "testing-strategy-selection",
+  "name": "testing-strategy-selection",
+  "version": "1.0.0",
+  "summary": "This skill should be used when deciding what types of tests to write (unit, integration, E2E) and which testing tools/agents to use - covers test pyramid principles, cost-benefi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chriscarterux",
+    "github": "chriscarterux"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chriscarterux/chris-claude-stack",
+    "skill_md": "https://raw.githubusercontent.com/chriscarterux/chris-claude-stack/main/skills/testing-strategy-selection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:15.868Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chriscarterux%2Fchris-claude-stack/skills%2Ftesting-strategy-selection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_2866df07a777"
+  }
+}

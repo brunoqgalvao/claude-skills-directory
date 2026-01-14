@@ -1,0 +1,35 @@
+{
+  "id": "web-recap",
+  "name": "web-recap",
+  "version": "1.0.0",
+  "summary": "Extract browser history for finding URLs by topic or getting visit stats. Use when user asks about their browsing history, visited websites, or what they were doing online.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robzolkos",
+    "github": "robzolkos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robzolkos/web-recap",
+    "skill_md": "https://raw.githubusercontent.com/robzolkos/web-recap/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.572Z",
+  "created_at": "2025-12-23T01:28:29.606Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robzolkos%2Fweb-recap/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_0adfeee69315"
+  }
+}

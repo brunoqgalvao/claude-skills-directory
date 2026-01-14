@@ -1,0 +1,35 @@
+{
+  "id": "plugin-setup",
+  "name": "plugin-setup",
+  "version": "1.0.0",
+  "summary": "Interactive plugin setup wizard for first-time configuration. Use when user requests plugin setup, initial configuration, or asks for help setting up the nine-step workflow plugin.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "binee108",
+    "github": "binee108"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/binee108/nine-step-workflow-plugin",
+    "skill_md": "https://raw.githubusercontent.com/binee108/nine-step-workflow-plugin/main/skills/plugin-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:18.614Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/binee108%2Fnine-step-workflow-plugin/skills%2Fplugin-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_6e3f8b07ffdc"
+  }
+}

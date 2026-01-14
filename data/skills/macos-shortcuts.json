@@ -1,0 +1,35 @@
+{
+  "id": "macos-shortcuts",
+  "name": "macos-shortcuts",
+  "version": "1.0.0",
+  "summary": "Manage and interact with macOS Shortcuts. Use this skill when the user wants to list available shortcuts, view a shortcut in the Shortcuts app, or run a shortcut. Supports runni...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "artemnovichkov",
+    "github": "artemnovichkov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/artemnovichkov/shortcuts-skill",
+    "skill_md": "https://raw.githubusercontent.com/artemnovichkov/shortcuts-skill/main/.claude/skills/shortcuts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T15:48:09.000Z",
+  "created_at": "2025-12-22T16:28:40.968Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/artemnovichkov%2Fshortcuts-skill/.claude%2Fskills%2Fshortcuts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_b768508c252e"
+  }
+}

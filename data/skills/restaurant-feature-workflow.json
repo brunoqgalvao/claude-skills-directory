@@ -1,0 +1,37 @@
+{
+  "id": "restaurant-feature-workflow",
+  "name": "restaurant-feature-workflow",
+  "version": "1.0.0",
+  "summary": "This skill should be used when adding new restaurant features across the full stack (Backend → Shared → Web → Mobile).\nTrigger keywords: \"레스토랑 검색/필터/정렬 추가\", \"restaurant search/f...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "niney",
+    "github": "niney"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/niney/niney-life-pickr",
+    "skill_md": "https://raw.githubusercontent.com/niney/niney-life-pickr/main/.claude/skills/restaurant-feature-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:14:56.436Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/niney%2Fniney-life-pickr/.claude%2Fskills%2Frestaurant-feature-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_f1d663dfa44c"
+  }
+}

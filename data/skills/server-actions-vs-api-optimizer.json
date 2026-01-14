@@ -1,0 +1,37 @@
+{
+  "id": "server-actions-vs-api-optimizer",
+  "name": "server-actions-vs-api-optimizer",
+  "version": "1.0.0",
+  "summary": "Analyze routes and recommend whether to use Server Actions or API routes based on use case patterns including authentication, revalidation, external API calls, and client requir...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/plugins/server-actions-vs-api-optimizer/skills/server-actions-vs-api-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:10:12.573Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/plugins%2Fserver-actions-vs-api-optimizer%2Fskills%2Fserver-actions-vs-api-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_9736322ea700"
+  }
+}

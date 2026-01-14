@@ -1,0 +1,35 @@
+{
+  "id": "create-hook",
+  "name": "create-hook",
+  "version": "1.0.0",
+  "summary": "创建或添加event hooks到插件",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "blueif16",
+    "github": "blueif16"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/blueif16/amazing-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/blueif16/amazing-claude-code-plugins/main/skillforge/skills/create-hook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:03:21.958Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/blueif16%2Famazing-claude-code-plugins/skillforge%2Fskills%2Fcreate-hook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_37edcaf144d8"
+  }
+}

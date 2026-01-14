@@ -1,0 +1,35 @@
+{
+  "id": "policyengine-writing",
+  "name": "policyengine-writing",
+  "version": "1.0.0",
+  "summary": "PolicyEngine writing style for blog posts, documentation, PR descriptions, and research reports - emphasizing active voice, quantitative precision, and neutral tone",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PolicyEngine",
+    "github": "PolicyEngine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PolicyEngine/policyengine-claude",
+    "skill_md": "https://raw.githubusercontent.com/PolicyEngine/policyengine-claude/main/skills/documentation/policyengine-writing-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:07:20.020Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PolicyEngine%2Fpolicyengine-claude/skills%2Fdocumentation%2Fpolicyengine-writing-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_199414e91b56"
+  }
+}

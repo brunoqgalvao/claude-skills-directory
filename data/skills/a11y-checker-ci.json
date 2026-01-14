@@ -1,0 +1,37 @@
+{
+  "id": "a11y-checker-ci",
+  "name": "a11y-checker-ci",
+  "version": "1.0.0",
+  "summary": "Adds comprehensive accessibility testing to CI/CD pipelines using axe-core Playwright integration or pa11y-ci. Automatically generates markdown reports for pull requests showing...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/plugins/a11y-checker-ci/skills/a11y-checker-ci/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:38.271Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/plugins%2Fa11y-checker-ci%2Fskills%2Fa11y-checker-ci%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_9de74ce2c699"
+  }
+}

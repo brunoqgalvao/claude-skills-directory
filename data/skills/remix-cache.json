@@ -1,0 +1,36 @@
+{
+  "id": "remix-cache",
+  "name": "remix-cache",
+  "version": "1.0.0",
+  "summary": "A type-safe, Redis-backed caching library for Remix applications with SSE-based real-time invalidation, stale-while-revalidate, pattern matching, and automatic React revalidatio...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChaseWNorton",
+    "github": "ChaseWNorton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChaseWNorton/remix-cache",
+    "skill_md": "https://raw.githubusercontent.com/ChaseWNorton/remix-cache/main/remix-cache-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T05:23:13.000Z",
+  "created_at": "2025-12-23T01:29:22.468Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChaseWNorton%2Fremix-cache/remix-cache-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_678654c20638"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tzurot-deployment",
+  "name": "tzurot-deployment",
+  "version": "1.0.0",
+  "summary": "Railway deployment operations for Tzurot v3 - Service management, log analysis, environment variables, health checks, and troubleshooting. Use when deploying, debugging producti...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lbds137",
+    "github": "lbds137"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lbds137/tzurot",
+    "skill_md": "https://raw.githubusercontent.com/lbds137/tzurot/main/.claude/skills/tzurot-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:47.660Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lbds137%2Ftzurot/.claude%2Fskills%2Ftzurot-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_2e29bbd2cb65"
+  }
+}

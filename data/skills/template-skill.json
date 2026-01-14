@@ -1,38 +1,36 @@
 {
   "id": "template-skill",
-  "name": "\"Template Skill\"",
+  "name": "template-skill",
   "version": "1.0.0",
-  "summary": "\"Replace with description of the skill and when Claude should use it.\"",
+  "summary": "Replace with description of the skill and when Claude should use it.",
+  "description": "# Insert instructions below",
   "verticals": [
-    "Engineering"
+    "engineering"
   ],
-  "tags": [
-    "template",
-    "skill",
-    "claude"
-  ],
+  "tags": [],
   "author": {
-    "name": "bernierllc",
-    "github": "bernierllc",
-    "avatar": "https://avatars.githubusercontent.com/u/225073874?v=4"
+    "name": "ComposioHQ",
+    "github": "ComposioHQ"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/bernierllc/agents-environment-config/tree/main/.cursor/commands/skills/template-skill.md",
-    "skill_md": "https://raw.githubusercontent.com/bernierllc/agents-environment-config/main/.cursor/commands/skills/template-skill.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install template-skill"
+    "repo": "https://github.com/ComposioHQ/awesome-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ComposioHQ/awesome-claude-skills/master/template-skill/SKILL.md"
   },
   "stats": {
-    "stars": 0,
-    "forks": 1,
+    "stars": 15783,
+    "forks": 1632,
     "installs": 0
   },
-  "last_updated": "2025-12-23",
-  "created_at": "2025-10-31"
+  "last_updated": "2026-01-07T16:58:10Z",
+  "created_at": "2025-10-17T07:15:01Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/ComposioHQ/awesome-claude-skills/blob/main/template-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.890Z",
+    "uniqueId": "sk_152ffcba5f78"
+  }
 }

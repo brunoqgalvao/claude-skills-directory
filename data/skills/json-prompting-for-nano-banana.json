@@ -1,0 +1,37 @@
+{
+  "id": "json-prompting-for-nano-banana",
+  "name": "json-prompting-for-nano-banana",
+  "version": "1.0.0",
+  "summary": "Converts natural language descriptions into structured JSON schemas for Nano Banana Pro (Gemini 3 Pro Image). Use when creating marketing images, UI mockups, diagrams, data visu...",
+  "verticals": [
+    "marketing",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jawhnycooke",
+    "github": "jawhnycooke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jawhnycooke/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jawhnycooke/claude-plugins/main/plugins/nano-banana/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:15:27.865Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jawhnycooke%2Fclaude-plugins/plugins%2Fnano-banana%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_9d56bf2ffa50"
+  }
+}

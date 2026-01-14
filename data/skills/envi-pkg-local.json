@@ -1,0 +1,36 @@
+{
+  "id": "envi-pkg-local",
+  "name": "envi-pkg-local",
+  "version": "1.0.0",
+  "summary": "ENVI 本地文档+教程+源码 - 100%覆盖13个文件（Sphinx build + 手动转换 notebooks/py）",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ketomihine",
+    "github": "Ketomihine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ketomihine/my_skills",
+    "skill_md": "https://raw.githubusercontent.com/Ketomihine/my_skills/main/envi-pkg-local/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:58:21.915Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ketomihine%2Fmy_skills/envi-pkg-local%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_1bb66aaf3e88"
+  }
+}

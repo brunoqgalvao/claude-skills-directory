@@ -1,0 +1,37 @@
+{
+  "id": "github",
+  "name": "github",
+  "version": "1.0.0",
+  "summary": "Interact with GitHub repositories, issues, pull requests, and code via the GitHub MCP server. This skill should be used when managing repositories, creating/updating files, work...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "huynguyen03dev",
+    "github": "huynguyen03dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/huynguyen03dev/opencode-setup",
+    "skill_md": "https://raw.githubusercontent.com/huynguyen03dev/opencode-setup/main/skills/github/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:39.525Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/huynguyen03dev%2Fopencode-setup/skills%2Fgithub%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_1576b6678074"
+  }
+}

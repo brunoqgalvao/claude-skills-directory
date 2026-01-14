@@ -1,0 +1,36 @@
+{
+  "id": "google-docs-manager",
+  "name": "google-docs-manager",
+  "version": "1.0.0",
+  "summary": "Expert in Google Docs management. Use when creating, reading, updating, formatting, or managing Google Docs with markdown support, advanced formatting, tables with full manipula...",
+  "verticals": [
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smorand",
+    "github": "smorand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smorand/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/smorand/claude-config/main/skills/google-docs-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:11:46.710Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smorand%2Fclaude-config/skills%2Fgoogle-docs-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_36685e01d48c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "onboarding-backend",
+  "name": "onboarding-backend",
+  "version": "1.0.0",
+  "summary": "백엔드 개발자 온보딩 실습 (SEMO-Backend 패키지 전용). Use when (1) semo-core/skill:onboarding에서 호출,\n(2) 백엔드 개발자 온보딩 실습 필요 시. API 설계 및 백엔드 워크플로우 체험.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/eng/spring/skills/onboarding-backend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T04:53:40.000Z",
+  "created_at": "2025-12-23T01:28:37.344Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Feng%2Fspring%2Fskills%2Fonboarding-backend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_acd253c1f195"
+  }
+}

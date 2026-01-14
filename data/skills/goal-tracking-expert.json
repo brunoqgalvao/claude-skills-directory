@@ -1,0 +1,36 @@
+{
+  "id": "goal-tracking-expert",
+  "name": "goal-tracking-expert",
+  "version": "1.0.0",
+  "summary": "Self-improving CVM goal tracking expert with automatic learning.\nUse when: running /cvm-goals, checking pipeline health, stage analysis, goal calculations\nTriggers on: \"cvm-goal...",
+  "verticals": [
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WalkerVVV",
+    "github": "WalkerVVV"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WalkerVVV/firstmile-deals-pipeline",
+    "skill_md": "https://raw.githubusercontent.com/WalkerVVV/firstmile-deals-pipeline/main/.claude/skills/goal-tracking-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T23:50:56.000Z",
+  "created_at": "2025-12-23T01:28:48.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WalkerVVV%2Ffirstmile-deals-pipeline/.claude%2Fskills%2Fgoal-tracking-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_aae33c2183a0"
+  }
+}

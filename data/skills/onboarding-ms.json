@@ -1,0 +1,35 @@
+{
+  "id": "onboarding-ms",
+  "name": "onboarding-ms",
+  "version": "1.0.0",
+  "summary": "마이크로서비스 개발자 온보딩 실습 (SAX-MS 패키지 전용). Use when (1) sax-core/skill:onboarding에서 호출,\n(2) 마이크로서비스 개발자 온보딩 실습 필요 시. 마이크로서비스 설계 및 개발 워크플로우 체험.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-ms",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-ms/main/skills/onboarding-ms/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:52.462Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-ms/skills%2Fonboarding-ms%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_f141bb413d8d"
+  }
+}

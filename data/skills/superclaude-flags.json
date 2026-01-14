@@ -1,0 +1,35 @@
+{
+  "id": "superclaude-flags",
+  "name": "superclaude-flags",
+  "version": "1.0.0",
+  "summary": "Provides flag definitions and usage rules when double-dash flags (--flag-name) detected in user prompt - describes execution modes, tool selection, and behavioral modifications",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rafaelcalleja",
+    "github": "rafaelcalleja"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rafaelcalleja/claude-market-place",
+    "skill_md": "https://raw.githubusercontent.com/rafaelcalleja/claude-market-place/main/plugins/superclaude-framework/skills/superclaude-flags/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T16:31:24.000Z",
+  "created_at": "2025-12-23T01:28:06.896Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rafaelcalleja%2Fclaude-market-place/plugins%2Fsuperclaude-framework%2Fskills%2Fsuperclaude-flags%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_92a13fe7eafb"
+  }
+}

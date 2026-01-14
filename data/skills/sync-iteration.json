@@ -1,0 +1,35 @@
+{
+  "id": "sync-iteration",
+  "name": "sync-iteration",
+  "version": "1.0.0",
+  "summary": "미완료 이슈들의 Iteration을 현재(Current)로 일괄 동기화. Use when (1) iteration 업데이트/갱신 요청,\n(2) 이터레이션 동기화, (3) /SAX:sprint sync 커맨드.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-pm",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-pm/main/skills/sync-iteration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:35.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-pm/skills%2Fsync-iteration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_fbfe3968f72c"
+  }
+}

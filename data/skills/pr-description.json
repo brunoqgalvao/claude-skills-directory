@@ -1,0 +1,35 @@
+{
+  "id": "pr-description",
+  "name": "pr-description",
+  "version": "1.0.0",
+  "summary": "ユーザーが「PR説明を生成」「PR本文を作って」「プルリクエストの説明が欲しい」等と要求した時、または他のスキル（issue-fixなど）から呼び出された時に発動。 git diffから変更内容を分析し、詳細なPR本文を生成する。 チームの規約に準拠したフォーマットで出力する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kis9a",
+    "github": "kis9a"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kis9a/claude-skills-demo",
+    "skill_md": "https://raw.githubusercontent.com/kis9a/claude-skills-demo/main/.claude/skills/pr-description/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T05:15:36.000Z",
+  "created_at": "2025-12-22T15:11:46.355Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kis9a%2Fclaude-skills-demo/.claude%2Fskills%2Fpr-description%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_9b820ca43c6a"
+  }
+}

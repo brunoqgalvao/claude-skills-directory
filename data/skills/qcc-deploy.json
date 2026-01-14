@@ -1,0 +1,36 @@
+{
+  "id": "qcc-deploy",
+  "name": "qcc-deploy",
+  "version": "1.0.0",
+  "summary": "Use for deployment, test server connection, and Docker operations in qcc_plus project",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yxhpy",
+    "github": "yxhpy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yxhpy/qcc_plus",
+    "skill_md": "https://raw.githubusercontent.com/yxhpy/qcc_plus/main/.claude/skills/qcc-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T04:08:41.000Z",
+  "created_at": "2025-12-22T16:04:34.386Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yxhpy%2Fqcc_plus/.claude%2Fskills%2Fqcc-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_7d32d41a49a3"
+  }
+}

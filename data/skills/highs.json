@@ -1,0 +1,35 @@
+{
+  "id": "highs",
+  "name": "highs",
+  "version": "1.0.0",
+  "summary": "High Performance Optimization Software for solving linear programming (LP), mixed integer linear programming (MILP), and quadratic programming (QP) problems",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sverzijl",
+    "github": "sverzijl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sverzijl/planning_latest",
+    "skill_md": "https://raw.githubusercontent.com/sverzijl/planning_latest/main/.claude/skills/highs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.670Z",
+  "created_at": "2025-12-22T22:16:41.895Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sverzijl%2Fplanning_latest/.claude%2Fskills%2Fhighs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.670Z",
+    "uniqueId": "sk_153026d973ef"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "adb-workflow-orchestrator",
+  "name": "adb-workflow-orchestrator",
+  "version": "1.0.0",
+  "summary": "TOON workflow orchestration engine for coordinating ADB automation scripts across phases with error recovery",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rdmptv",
+    "github": "rdmptv"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rdmptv/AdbAutoPlayer",
+    "skill_md": "https://raw.githubusercontent.com/rdmptv/AdbAutoPlayer/main/.claude/skills/backup_20251202_151852/adb_backup/adb-workflow-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:07.346Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rdmptv%2FAdbAutoPlayer/.claude%2Fskills%2Fbackup_20251202_151852%2Fadb_backup%2Fadb-workflow-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_e7db382e1a02"
+  }
+}

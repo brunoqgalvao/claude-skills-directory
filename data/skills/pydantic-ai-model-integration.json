@@ -1,0 +1,35 @@
+{
+  "id": "pydantic-ai-model-integration",
+  "name": "pydantic-ai-model-integration",
+  "version": "1.0.0",
+  "summary": "Configure LLM providers, use fallback models, handle streaming, and manage model settings in PydanticAI. Use when selecting models, implementing resilience, or optimizing API ca...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anderskev",
+    "github": "anderskev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anderskev/amelia",
+    "skill_md": "https://raw.githubusercontent.com/anderskev/amelia/main/.claude/skills/pydantic-ai-model-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T18:53:21.000Z",
+  "created_at": "2025-12-19T17:59:55.436Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anderskev%2Famelia/.claude%2Fskills%2Fpydantic-ai-model-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.465Z",
+    "uniqueId": "sk_721c3b47743d"
+  }
+}

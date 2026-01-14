@@ -1,0 +1,37 @@
+{
+  "id": "run-voice-e2e",
+  "name": "run-voice-e2e",
+  "version": "1.0.0",
+  "summary": "Complete E2E workflow for voice calls - database setup, user creation, infrastructure verification, and call testing. Use when setting up voice testing from scratch or debugging...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cncorp",
+    "github": "cncorp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cncorp/arsenal",
+    "skill_md": "https://raw.githubusercontent.com/cncorp/arsenal/main/dot-claude/skills/run-voice-e2e/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.476Z",
+  "created_at": "2025-12-23T01:29:52.735Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cncorp%2Farsenal/dot-claude%2Fskills%2Frun-voice-e2e%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.476Z",
+    "uniqueId": "sk_c4e98f593038"
+  }
+}

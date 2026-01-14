@@ -1,0 +1,36 @@
+{
+  "id": "app-docker-deploy-with-traefik",
+  "name": "app-docker-deploy-with-traefik",
+  "version": "1.0.0",
+  "summary": "Generate Docker and Traefik deployment configurations for any application (Node.js, Python, Go, Rust, Java). Creates Dockerfile, docker-compose.yml, docker-compose.for-traefik.y...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yorch",
+    "github": "yorch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yorch/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/yorch/claude-skills/main/app-docker-deploy-with-traefik/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.772Z",
+  "created_at": "2025-12-22T20:00:18.804Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yorch%2Fclaude-skills/app-docker-deploy-with-traefik%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_cefa0252f63c"
+  }
+}

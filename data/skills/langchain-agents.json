@@ -1,0 +1,36 @@
+{
+  "id": "langchain-agents",
+  "name": "langchain-agents",
+  "version": "1.0.0",
+  "summary": "Expert guidance for building LangChain agents with proper tool binding, memory, and configuration. Use when creating agents, configuring models, or setting up tool integrations ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LangConfig",
+    "github": "LangConfig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LangConfig/langconfig",
+    "skill_md": "https://raw.githubusercontent.com/LangConfig/langconfig/main/backend/skills/builtin/langchain-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T17:27:47.000Z",
+  "created_at": "2025-12-22T18:57:05.208Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LangConfig%2Flangconfig/backend%2Fskills%2Fbuiltin%2Flangchain-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_534317b29a2e"
+  }
+}

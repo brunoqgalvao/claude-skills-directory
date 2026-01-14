@@ -1,0 +1,35 @@
+{
+  "id": "setup-dev-env",
+  "name": "setup-dev-env",
+  "version": "1.0.0",
+  "summary": "開発環境セットアップスキル（依存関係インストール、DB初期化、環境変数設定）",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Crearize",
+    "github": "Crearize"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Crearize/ProjectTemplate",
+    "skill_md": "https://raw.githubusercontent.com/Crearize/ProjectTemplate/main/.claude/skills/setup-dev-env/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T11:22:22.000Z",
+  "created_at": "2025-12-22T15:09:18.541Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Crearize%2FProjectTemplate/.claude%2Fskills%2Fsetup-dev-env%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_29dbc310e234"
+  }
+}

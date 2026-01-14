@@ -1,0 +1,36 @@
+{
+  "id": "yaml-pipeline-validator",
+  "name": "yaml-pipeline-validator",
+  "version": "1.0.0",
+  "summary": "Validate and lint Azure Pipelines YAML with best practices checks. Use when validating pipeline syntax or ensuring pipeline quality.",
+  "verticals": [
+    "finance",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ntaksh42",
+    "github": "ntaksh42"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ntaksh42/agents",
+    "skill_md": "https://raw.githubusercontent.com/ntaksh42/agents/main/.claude/skills/yaml-pipeline-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T06:11:39.000Z",
+  "created_at": "2025-12-23T01:28:34.563Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ntaksh42%2Fagents/.claude%2Fskills%2Fyaml-pipeline-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_057b2fb2c38a"
+  }
+}

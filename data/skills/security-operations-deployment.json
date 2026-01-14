@@ -1,0 +1,37 @@
+{
+  "id": "security-operations-deployment",
+  "name": "security-operations-deployment",
+  "version": "1.0.0",
+  "summary": "Operational security guidance for deployment, monitoring, and maintenance. Use this skill when you need to understand which middlewares to apply, configure environment variables...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "harperaa",
+    "github": "harperaa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/harperaa/secure-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/harperaa/secure-claude-skills/main/security-operations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:49.072Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/harperaa%2Fsecure-claude-skills/security-operations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_e56807877251"
+  }
+}

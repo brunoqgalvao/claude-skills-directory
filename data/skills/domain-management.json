@@ -1,0 +1,36 @@
+{
+  "id": "domain-management",
+  "name": "domain-management",
+  "version": "1.0.0",
+  "summary": "Configure domain routing and Cloudflare DNS for sgcarstrends.com and subdomains. Use when adding new services, updating domain patterns, or debugging DNS issues.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sgcarstrends",
+    "github": "sgcarstrends"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sgcarstrends/sgcarstrends",
+    "skill_md": "https://raw.githubusercontent.com/sgcarstrends/sgcarstrends/main/.claude/skills/domain-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:50.477Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sgcarstrends%2Fsgcarstrends/.claude%2Fskills%2Fdomain-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_7761473c4289"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "natural-text-corrector",
+  "name": "natural-text-corrector",
+  "version": "1.0.0",
+  "summary": "Corrects English text by removing AI-generated patterns (excessive em dashes, formal phrases), fixing speech-to-text errors (homophones, punctuation, capitalization), and improv...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "connectwithprakash",
+    "github": "connectwithprakash"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/connectwithprakash/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/connectwithprakash/dotfiles/main/.claude/skills/natural-text-corrector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:23.183Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/connectwithprakash%2Fdotfiles/.claude%2Fskills%2Fnatural-text-corrector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_350b42abfb2e"
+  }
+}

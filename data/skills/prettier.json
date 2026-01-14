@@ -1,0 +1,35 @@
+{
+  "id": "prettier",
+  "name": "prettier",
+  "version": "1.0.0",
+  "summary": "Detects Prettier configuration and formats code. This skill should be used for final cosmetic formatting before commits, after all logic and type fixes have been verified. Retur...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alex-popov-tech",
+    "github": "alex-popov-tech"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alex-popov-tech/.dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/alex-popov-tech/.dotfiles/main/claude/.claude/skills/prettier/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T18:22:47.000Z",
+  "created_at": "2025-12-23T01:28:53.748Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alex-popov-tech%2F.dotfiles/claude%2F.claude%2Fskills%2Fprettier%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_e85e0d51d59c"
+  }
+}

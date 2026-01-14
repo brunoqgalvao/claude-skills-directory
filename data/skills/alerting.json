@@ -1,0 +1,36 @@
+{
+  "id": "alerting",
+  "name": "alerting",
+  "version": "1.0.0",
+  "summary": "Real-time alerting and notification system for Univers infrastructure. Use this when you need to monitor system health, service status, and send proactive alerts when thresholds...",
+  "verticals": [
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hsudatalks",
+    "github": "hsudatalks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hsudatalks/univers-container",
+    "skill_md": "https://raw.githubusercontent.com/hsudatalks/univers-container/main/.claude/skills/alerting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T15:52:46.000Z",
+  "created_at": "2025-12-22T18:15:50.784Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hsudatalks%2Funivers-container/.claude%2Fskills%2Falerting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_c6bf116249b9"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "jira-auto-detector",
+  "name": "jira-auto-detector",
+  "version": "1.0.0",
+  "summary": "Automatically detects Jira issue mentions (EC-1234, IS-8046, URLs) and intelligently fetches context via jira-analyzer subagent when needed for the conversation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "schovi",
+    "github": "schovi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/schovi/claude-schovi",
+    "skill_md": "https://raw.githubusercontent.com/schovi/claude-schovi/main/schovi/skills/jira-auto-detector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T08:34:00.000Z",
+  "created_at": "2025-12-23T01:29:44.784Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/schovi%2Fclaude-schovi/schovi%2Fskills%2Fjira-auto-detector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_08485f1c3e07"
+  }
+}

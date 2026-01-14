@@ -1,0 +1,35 @@
+{
+  "id": "etl-tools",
+  "name": "etl-tools",
+  "version": "1.0.0",
+  "summary": "Apache Airflow, Spark, Kafka, Flink, dbt, and modern data transformation tools",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-data-engineer",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-data-engineer/main/skills/etl-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:31:10.000Z",
+  "created_at": "2025-12-22T14:52:01.911Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-data-engineer/skills%2Fetl-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_9efa577a75fc"
+  }
+}

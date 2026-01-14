@@ -1,0 +1,35 @@
+{
+  "id": "tdd-london-chicago",
+  "name": "tdd-london-chicago",
+  "version": "1.0.0",
+  "summary": "Apply London (mock-based) and Chicago (state-based) TDD schools. Use when practicing test-driven development or choosing testing style for your context.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "proffesor-for-testing",
+    "github": "proffesor-for-testing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/proffesor-for-testing/sentinel-api-testing",
+    "skill_md": "https://raw.githubusercontent.com/proffesor-for-testing/sentinel-api-testing/main/.claude/skills/tdd-london-chicago/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:10.351Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/proffesor-for-testing%2Fsentinel-api-testing/.claude%2Fskills%2Ftdd-london-chicago%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_7a1e7cc88b44"
+  }
+}

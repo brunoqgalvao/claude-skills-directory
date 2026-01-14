@@ -1,0 +1,36 @@
+{
+  "id": "ai-assisted-operations",
+  "name": "ai-assisted-operations",
+  "version": "1.0.0",
+  "summary": "AI-powered issue summarization, auto-labeling, and Q&A using gh-models with 88% effectiveness. Use when analyzing issue content, suggesting labels, or extracting insights.",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/claude-code-skills-github-issues",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/claude-code-skills-github-issues/main/skills/github-issues/ai-assisted-operations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:31.726Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fclaude-code-skills-github-issues/skills%2Fgithub-issues%2Fai-assisted-operations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_50924af0be06"
+  }
+}

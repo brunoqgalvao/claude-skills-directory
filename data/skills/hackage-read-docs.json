@@ -1,0 +1,35 @@
+{
+  "id": "hackage-read-docs",
+  "name": "hackage-read-docs",
+  "version": "1.0.0",
+  "summary": "Retrieve documentation from Hackage. Use this Skill when you need a reference for Haskell packages, classes, or want to query package versions. (project)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "saw235",
+    "github": "saw235"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/saw235/haskell-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/saw235/haskell-monorepo/main/.claude/skills/hackage-read-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:44.383Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/saw235%2Fhaskell-monorepo/.claude%2Fskills%2Fhackage-read-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_38919808d99c"
+  }
+}

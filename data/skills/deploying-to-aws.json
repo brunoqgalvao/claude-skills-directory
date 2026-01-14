@@ -1,0 +1,35 @@
+{
+  "id": "deploying-to-aws",
+  "name": "deploying-to-aws",
+  "version": "1.0.0",
+  "summary": "Specialized skill for deploying Next.js applications to AWS using SST (Serverless Stack) or Vercel, with DynamoDB integration, IAM configuration, and infrastructure as code. Use...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "swapkats",
+    "github": "swapkats"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/swapkats/robin",
+    "skill_md": "https://raw.githubusercontent.com/swapkats/robin/main/skills/deploying-to-aws/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.481Z",
+  "created_at": "2025-12-23T01:29:42.717Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/swapkats%2Frobin/skills%2Fdeploying-to-aws%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.481Z",
+    "uniqueId": "sk_6001d3ae61b3"
+  }
+}

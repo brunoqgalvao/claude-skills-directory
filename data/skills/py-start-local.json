@@ -1,0 +1,35 @@
+{
+  "id": "py-start-local",
+  "name": "py-start-local",
+  "version": "1.0.0",
+  "summary": "Start Flask server locally for development. Runs server in foreground or background with nohup. Use when starting local Python server for testing or development.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asnar00",
+    "github": "asnar00"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asnar00/miso",
+    "skill_md": "https://raw.githubusercontent.com/asnar00/miso/main/.claude/skills/py-start-local/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:57:53.629Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asnar00%2Fmiso/.claude%2Fskills%2Fpy-start-local%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_440f514a1d5d"
+  }
+}

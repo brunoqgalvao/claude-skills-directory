@@ -1,0 +1,37 @@
+{
+  "id": "task-capture",
+  "name": "task-capture",
+  "version": "1.0.0",
+  "summary": "Quick, structured task capture with automatic processing. Use when user wants to capture a task, add a todo, or remember something. Auto-triggers on phrases like \"I need to...\",...",
+  "verticals": [
+    "hr",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ninjasenap",
+    "github": "Ninjasenap"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ninjasenap/AIDA",
+    "skill_md": "https://raw.githubusercontent.com/Ninjasenap/AIDA/main/.claude/skills/task-capture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:44.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ninjasenap%2FAIDA/.claude%2Fskills%2Ftask-capture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_0fad7595d361"
+  }
+}

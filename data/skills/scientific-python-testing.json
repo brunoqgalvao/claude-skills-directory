@@ -1,0 +1,36 @@
+{
+  "id": "scientific-python-testing",
+  "name": "scientific-python-testing",
+  "version": "1.0.0",
+  "summary": "Write robust, maintainable tests for scientific Python packages using pytest best practices following Scientific Python community guidelines",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "uw-ssec",
+    "github": "uw-ssec"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/uw-ssec/rse-agents",
+    "skill_md": "https://raw.githubusercontent.com/uw-ssec/rse-agents/main/plugins/python-development/skills/python-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.843Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/uw-ssec%2Frse-agents/plugins%2Fpython-development%2Fskills%2Fpython-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_fb715da665a4"
+  }
+}

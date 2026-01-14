@@ -1,0 +1,36 @@
+{
+  "id": "initialize-governance",
+  "name": "initialize-governance",
+  "version": "1.0.0",
+  "summary": "Initialize complete governance framework in a project - creates constitution, roadmap, directory READMEs, and issue/spec templates with guided setup process",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samjhecht",
+    "github": "samjhecht"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samjhecht/wrangler",
+    "skill_md": "https://raw.githubusercontent.com/samjhecht/wrangler/main/skills/initialize-governance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.659Z",
+  "created_at": "2025-12-22T22:57:30.738Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samjhecht%2Fwrangler/skills%2Finitialize-governance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.659Z",
+    "uniqueId": "sk_0846b659fdab"
+  }
+}

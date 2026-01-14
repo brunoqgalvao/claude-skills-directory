@@ -1,0 +1,35 @@
+{
+  "id": "bun-usage",
+  "name": "bun-usage",
+  "version": "1.0.0",
+  "summary": "This skill should be used when working with Bun, a fast JavaScript runtime and toolkit. Use this skill for tasks involving Bun runtime execution, package management, bundling, t...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tomnagengast",
+    "github": "tomnagengast"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tomnagengast/revurb",
+    "skill_md": "https://raw.githubusercontent.com/tomnagengast/revurb/main/.claude/skills/bun/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T01:54:56.000Z",
+  "created_at": "2025-12-23T01:29:05.407Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tomnagengast%2Frevurb/.claude%2Fskills%2Fbun%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.453Z",
+    "uniqueId": "sk_8a3964c486b3"
+  }
+}

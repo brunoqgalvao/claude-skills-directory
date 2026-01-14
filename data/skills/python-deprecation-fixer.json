@@ -1,0 +1,36 @@
+{
+  "id": "python-deprecation-fixer",
+  "name": "python-deprecation-fixer",
+  "version": "1.0.0",
+  "summary": "Automatically detect and fix Python deprecation warnings in codebases, including datetime.utcnow(), and other common deprecated patterns. Supports extensible pattern matching fo...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zircote",
+    "github": "zircote"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zircote/.claude",
+    "skill_md": "https://raw.githubusercontent.com/zircote/.claude/main/skills/python-deprecation-fixer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:59:25.448Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zircote%2F.claude/skills%2Fpython-deprecation-fixer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_ac33d085cb25"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "atl-cli",
+  "name": "atl-cli",
+  "version": "1.0.0",
+  "summary": "Atlassian Server CLI (Jira/Confluence/Bitbucket). This skill should be used when working with Jira issues, Confluence page operations, Bitbucket pull requests, or any Atlassian ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lroolle",
+    "github": "lroolle"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lroolle/atlas-cli",
+    "skill_md": "https://raw.githubusercontent.com/lroolle/atlas-cli/main/skills/atl-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:03:06.000Z",
+  "created_at": "2025-12-23T01:28:49.691Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lroolle%2Fatlas-cli/skills%2Fatl-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_b6a7ff3e5283"
+  }
+}

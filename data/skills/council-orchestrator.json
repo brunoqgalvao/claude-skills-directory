@@ -1,0 +1,36 @@
+{
+  "id": "council-orchestrator",
+  "name": "council-orchestrator",
+  "version": "1.0.0",
+  "summary": "Orchestrates multi-model LLM consensus through a three-phase deliberation protocol. Use when you need collaborative AI review, multi-model problem-solving, code review from mult...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xrf9268-hue",
+    "github": "xrf9268-hue"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xrf9268-hue/llm-council-plugin",
+    "skill_md": "https://raw.githubusercontent.com/xrf9268-hue/llm-council-plugin/main/skills/council-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T15:18:43.000Z",
+  "created_at": "2025-12-22T20:57:29.480Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xrf9268-hue%2Fllm-council-plugin/skills%2Fcouncil-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_2b7e09e0d4c7"
+  }
+}

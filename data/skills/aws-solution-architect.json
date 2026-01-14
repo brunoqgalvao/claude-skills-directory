@@ -1,0 +1,36 @@
+{
+  "id": "aws-solution-architect",
+  "name": "aws-solution-architect",
+  "version": "1.0.0",
+  "summary": "Expert AWS solution architecture for startups focusing on serverless, scalable, and cost-effective cloud infrastructure with modern DevOps practices and infrastructure-as-code",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krzemienski",
+    "github": "krzemienski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krzemienski/claude-code-skills-factory",
+    "skill_md": "https://raw.githubusercontent.com/krzemienski/claude-code-skills-factory/main/generated-skills/aws-solution-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.445Z",
+  "created_at": "2025-12-22T22:15:53.158Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krzemienski%2Fclaude-code-skills-factory/generated-skills%2Faws-solution-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.445Z",
+    "uniqueId": "sk_68264d0c7894"
+  }
+}

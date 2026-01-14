@@ -1,0 +1,35 @@
+{
+  "id": "context-worktree",
+  "name": "context-worktree",
+  "version": "1.0.0",
+  "summary": "새 작업 요청 시 기존 작업과의 맥락 유사성을 판단하고, 비유사한 경우 자동으로 git worktree를 생성하여 새 브랜치에서 작업합니다. 작업 시작, 새 기능 구현, 다른 이슈 작업 시 자동 활성화됩니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/development/context-worktree/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T08:34:19.000Z",
+  "created_at": "2025-12-23T01:29:44.742Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/development%2Fcontext-worktree%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_614673487577"
+  }
+}

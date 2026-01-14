@@ -1,0 +1,37 @@
+{
+  "id": "bg3-steam-launcher",
+  "name": "bg3-steam-launcher",
+  "version": "1.0.0",
+  "summary": "Launch Baldur's Gate 3 through Steam on macOS and load saved games using macos-automator and peekaboo MCP servers.\nDesigned for testing bg3se-macos (Script Extender) development...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tdimino",
+    "github": "tdimino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tdimino/bg3se-macos",
+    "skill_md": "https://raw.githubusercontent.com/tdimino/bg3se-macos/main/tools/automation/skills/bg3-steam-launcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T14:07:22.000Z",
+  "created_at": "2025-12-22T17:08:34.155Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tdimino%2Fbg3se-macos/tools%2Fautomation%2Fskills%2Fbg3-steam-launcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_2ffda1dcc1e6"
+  }
+}

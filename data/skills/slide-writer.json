@@ -1,0 +1,35 @@
+{
+  "id": "slide-writer",
+  "name": "slide-writer",
+  "version": "1.0.0",
+  "summary": "技術研修スライド教材をMarp形式で執筆。1スライド1トピック、箇条書き中心の簡潔な構成。スライド教材、プレゼンテーション作成時に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "imagepit",
+    "github": "imagepit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/imagepit/text-lint-plugin",
+    "skill_md": "https://raw.githubusercontent.com/imagepit/text-lint-plugin/main/skills/slide-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:41.109Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/imagepit%2Ftext-lint-plugin/skills%2Fslide-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_c43120157cd5"
+  }
+}

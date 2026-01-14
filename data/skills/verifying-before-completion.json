@@ -1,0 +1,35 @@
+{
+  "id": "verifying-before-completion",
+  "name": "verifying-before-completion",
+  "version": "1.0.0",
+  "summary": "Use when about to claim work is complete, fixed, or passing, before committing or creating MRs. Requires running verification commands and confirming output before making any su...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "YoranBrondsema",
+    "github": "YoranBrondsema"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/YoranBrondsema/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/YoranBrondsema/dotfiles/main/.claude/skills/verifying-before-completion/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:30.279Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/YoranBrondsema%2Fdotfiles/.claude%2Fskills%2Fverifying-before-completion%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_a7837ff4fc46"
+  }
+}

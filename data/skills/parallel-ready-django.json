@@ -1,0 +1,35 @@
+{
+  "id": "parallel-ready-django",
+  "name": "parallel-ready-django",
+  "version": "1.0.0",
+  "summary": "Audit and prepare a Django codebase for parallel multi-agent development. Use when asked to check if a Django project is ready for parallelization, prepare a repo for multi-agen...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoutrin",
+    "github": "jpoutrin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoutrin/product-forge",
+    "skill_md": "https://raw.githubusercontent.com/jpoutrin/product-forge/main/plugins/python-experts/skills/parallel-ready-django/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:16.960Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoutrin%2Fproduct-forge/plugins%2Fpython-experts%2Fskills%2Fparallel-ready-django%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_23bd4804f8cc"
+  }
+}

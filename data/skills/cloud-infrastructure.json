@@ -1,0 +1,35 @@
+{
+  "id": "cloud-infrastructure",
+  "name": "cloud-infrastructure",
+  "version": "1.0.0",
+  "summary": "Cloud platforms (AWS, Cloudflare, GCP, Azure), containerization (Docker), Kubernetes, Infrastructure as Code (Terraform), CI/CD, and observability.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-cloudflare",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-cloudflare/main/skills/cloud-infrastructure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:32:30.000Z",
+  "created_at": "2025-12-22T15:59:56.188Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-cloudflare/skills%2Fcloud-infrastructure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_616382697226"
+  }
+}

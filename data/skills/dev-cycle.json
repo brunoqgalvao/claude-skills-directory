@@ -1,0 +1,37 @@
+{
+  "id": "dev-cycle",
+  "name": "dev-cycle",
+  "version": "1.0.0",
+  "summary": "Main orchestrator for the 6-gate development cycle system. Loads tasks/subtasks\nfrom PM team output and executes through implementation, devops, SRE, testing, review,\nand valida...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/dev-team/skills/dev-cycle/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T00:27:57.675Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/dev-team%2Fskills%2Fdev-cycle%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_fda6f71bb43c"
+  }
+}

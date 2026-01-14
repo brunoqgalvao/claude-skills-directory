@@ -1,0 +1,37 @@
+{
+  "id": "herb-enterprise-context",
+  "name": "herb-enterprise-context",
+  "version": "1.0.0",
+  "summary": "Search enterprise context data (Slack, docs, meetings, PRs) from the HERB benchmark to answer questions about products, employees, customers, and organizational activities. Use ...",
+  "verticals": [
+    "support",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nexi-lab",
+    "github": "nexi-lab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nexi-lab/nexus",
+    "skill_md": "https://raw.githubusercontent.com/nexi-lab/nexus/main/benchmarks/herb/enterprise-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:19.747Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nexi-lab%2Fnexus/benchmarks%2Fherb%2Fenterprise-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_9d8a1b6ff501"
+  }
+}

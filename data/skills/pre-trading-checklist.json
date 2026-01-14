@@ -1,0 +1,35 @@
+{
+  "id": "pre-trading-checklist",
+  "name": "pre-trading-checklist",
+  "version": "1.0.0",
+  "summary": "每次对话必读的行为规范 - 定义 AI 代理在收到不同类型消息时的行为, 以及交易前的检查流程",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phpmac",
+    "github": "phpmac"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phpmac/trader",
+    "skill_md": "https://raw.githubusercontent.com/phpmac/trader/main/.claude/skills/交易前必读/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:14.924Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phpmac%2Ftrader/.claude%2Fskills%2F%E4%BA%A4%E6%98%93%E5%89%8D%E5%BF%85%E8%AF%BB%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_3aecacc0da47"
+  }
+}

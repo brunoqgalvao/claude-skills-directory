@@ -1,0 +1,35 @@
+{
+  "id": "summary",
+  "name": "summary",
+  "version": "1.0.0",
+  "summary": "Quick summary of Conventional Commits specification and core concepts for semantic commit messages.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zenobi-us",
+    "github": "zenobi-us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zenobi-us/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/zenobi-us/dotfiles/main/devtools/files/opencode/skills/superpowers/writing-git-commits/summary/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:24.395Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zenobi-us%2Fdotfiles/devtools%2Ffiles%2Fopencode%2Fskills%2Fsuperpowers%2Fwriting-git-commits%2Fsummary%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_d01ef8fd3956"
+  }
+}

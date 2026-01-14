@@ -1,0 +1,35 @@
+{
+  "id": "admin-infra-oci",
+  "name": "admin-infra-oci",
+  "version": "1.0.0",
+  "summary": "Deploys infrastructure on Oracle Cloud Infrastructure (OCI) with ARM64 instances (Always Free tier eligible).\nHandles compartments, VCNs, subnets, security lists, and compute in...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "evolv3-ai",
+    "github": "evolv3-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/evolv3-ai/vibe-skills",
+    "skill_md": "https://raw.githubusercontent.com/evolv3-ai/vibe-skills/main/skills/admin-infra-oci/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.528Z",
+  "created_at": "2025-12-23T01:29:03.858Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/evolv3-ai%2Fvibe-skills/skills%2Fadmin-infra-oci%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_a02496a43840"
+  }
+}

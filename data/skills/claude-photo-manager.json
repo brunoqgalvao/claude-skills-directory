@@ -1,0 +1,37 @@
+{
+  "id": "claude-photo-manager",
+  "name": "claude-photo-manager",
+  "version": "1.0.0",
+  "summary": "Handle photo uploads, analysis, and processing in Claude Code. This skill should be used when users want to upload images, analyze screenshots, process photos, or work with visu...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hiizzzo",
+    "github": "Hiizzzo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hiizzzo/Steeb",
+    "skill_md": "https://raw.githubusercontent.com/Hiizzzo/Steeb/main/.claude/skills/claude-photo-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:24.443Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hiizzzo%2FSteeb/.claude%2Fskills%2Fclaude-photo-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_2f99b144f1a8"
+  }
+}

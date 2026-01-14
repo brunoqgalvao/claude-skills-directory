@@ -1,0 +1,35 @@
+{
+  "id": "crypto-analysis",
+  "name": "crypto-analysis",
+  "version": "1.0.0",
+  "summary": "Breaks cryptographic systems and decrypts ciphertext. Use when working with RSA, AES, XOR, classical ciphers, hash functions, or when challenge involves encryption, decryption, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kiwamizamurai",
+    "github": "kiwamizamurai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kiwamizamurai/cctf",
+    "skill_md": "https://raw.githubusercontent.com/kiwamizamurai/cctf/main/.claude/skills/crypto-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T20:10:24.000Z",
+  "created_at": "2025-12-23T01:28:38.725Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kiwamizamurai%2Fcctf/.claude%2Fskills%2Fcrypto-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_366ec621e276"
+  }
+}

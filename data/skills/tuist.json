@@ -1,0 +1,36 @@
+{
+  "id": "tuist",
+  "name": "tuist",
+  "version": "1.0.0",
+  "summary": "Best practices for Tuist projects. Use when working with Tuist manifests, generating projects, or building with xcodebuild in Tuist projects.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tuist",
+    "github": "tuist"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tuist/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/tuist/claude-marketplace/main/plugins/xcode/skills/tuist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.576Z",
+  "created_at": "2025-12-23T01:28:25.030Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tuist%2Fclaude-marketplace/plugins%2Fxcode%2Fskills%2Ftuist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.576Z",
+    "uniqueId": "sk_9925d1836ae2"
+  }
+}

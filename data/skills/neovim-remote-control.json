@@ -1,0 +1,35 @@
+{
+  "id": "neovim-remote-control",
+  "name": "neovim-remote-control",
+  "version": "1.0.0",
+  "summary": "Control remote Neovim instances via Unix socket (nvim --listen). Use when user wants to manipulate Neovim buffers, send commands, or get state from a separate Neovim instance du...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shabaraba",
+    "github": "shabaraba"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shabaraba/vibing.nvim",
+    "skill_md": "https://raw.githubusercontent.com/shabaraba/vibing.nvim/main/.claude/skills/neovim-remote-control/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:06:01.379Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shabaraba%2Fvibing.nvim/.claude%2Fskills%2Fneovim-remote-control%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_51789aadbbab"
+  }
+}

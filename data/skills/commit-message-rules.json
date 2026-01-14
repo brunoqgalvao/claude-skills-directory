@@ -1,0 +1,35 @@
+{
+  "id": "commit-message-rules",
+  "name": "commit-message-rules",
+  "version": "1.0.0",
+  "summary": "Gitコミットメッセージの作成ガイドライン。コミット作成時、`git commit`実行時、またはユーザーがコミットメッセージの書き方について質問した際に使用する。日本語でのコミットメッセージ作成ルールを提供。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kagiyama-baking",
+    "github": "kagiyama-baking"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kagiyama-baking/kawashiro-server",
+    "skill_md": "https://raw.githubusercontent.com/kagiyama-baking/kawashiro-server/main/.claude/skills/commit-message-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.571Z",
+  "created_at": "2025-12-23T01:28:30.965Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kagiyama-baking%2Fkawashiro-server/.claude%2Fskills%2Fcommit-message-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_6d707501d0f6"
+  }
+}

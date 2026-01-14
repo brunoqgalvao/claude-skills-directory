@@ -1,0 +1,35 @@
+{
+  "id": "permissions",
+  "name": "permissions",
+  "version": "1.0.0",
+  "summary": "Multi-tenant permission checking for Wasp applications. Use when implementing authorization, access control, or role-based permissions. Includes organization/department/role pat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ToonVos",
+    "github": "ToonVos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ToonVos/empty-opensaas",
+    "skill_md": "https://raw.githubusercontent.com/ToonVos/empty-opensaas/main/.claude/skills/permissions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.610Z",
+  "created_at": "2025-12-22T23:58:32.234Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ToonVos%2Fempty-opensaas/.claude%2Fskills%2Fpermissions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.610Z",
+    "uniqueId": "sk_b9ada5300a99"
+  }
+}

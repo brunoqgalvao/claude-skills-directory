@@ -1,0 +1,36 @@
+{
+  "id": "linear-task-selector",
+  "name": "linear-task-selector",
+  "version": "1.0.0",
+  "summary": "Fetch tasks from Linear backlog and handle user selection. Saves selected task context for use in feature/bug/plan workflows. Reduces context usage by consolidating Linear API i...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timogilvie",
+    "github": "timogilvie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timogilvie/claude-workflow",
+    "skill_md": "https://raw.githubusercontent.com/timogilvie/claude-workflow/main/skills/linear-task-selector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:26.628Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timogilvie%2Fclaude-workflow/skills%2Flinear-task-selector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_d8af55b7e86b"
+  }
+}

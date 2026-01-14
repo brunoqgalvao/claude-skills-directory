@@ -1,0 +1,37 @@
+{
+  "id": "backend-guideline",
+  "name": "backend-guideline",
+  "version": "1.0.0",
+  "summary": "Use when writing API routes, workers, or backend services. Layers on TOP of your base guideline. Covers validation, error handling, async patterns, and architecture enforcement.",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "omnibelt",
+    "github": "omnibelt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/omnibelt/skill-guard",
+    "skill_md": "https://raw.githubusercontent.com/omnibelt/skill-guard/main/skills/backend-guideline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:48.535Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/omnibelt%2Fskill-guard/skills%2Fbackend-guideline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_50e726fea369"
+  }
+}

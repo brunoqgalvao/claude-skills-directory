@@ -1,0 +1,36 @@
+{
+  "id": "container-orchestration",
+  "name": "container-orchestration",
+  "version": "1.0.0",
+  "summary": "Docker and Kubernetes patterns. Triggers on: Dockerfile, docker-compose, kubernetes, k8s, helm, pod, deployment, service, ingress, container, image.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "0xDarkMatter",
+    "github": "0xDarkMatter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/0xDarkMatter/claude-mods",
+    "skill_md": "https://raw.githubusercontent.com/0xDarkMatter/claude-mods/main/skills/container-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:50.095Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/0xDarkMatter%2Fclaude-mods/skills%2Fcontainer-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_1cc9c1ab7add"
+  }
+}

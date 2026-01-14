@@ -1,0 +1,35 @@
+{
+  "id": "video-thumbnail-check",
+  "name": "video-thumbnail-check",
+  "version": "1.0.0",
+  "summary": "基于MrBeast策略检查视频标题、缩略图和内容钩子，优化点击率和观看时长。当用户提到\"视频标题\"、\"封面图\"、\"缩略图\"、\"点击率\"、\"CTR\"、\"观看时长\"、\"视频开头\"时使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alchaincyf",
+    "github": "alchaincyf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alchaincyf/glm-claude",
+    "skill_md": "https://raw.githubusercontent.com/alchaincyf/glm-claude/main/skills/video-thumbnail-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:11:13.396Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alchaincyf%2Fglm-claude/skills%2Fvideo-thumbnail-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_bcfc6d020d43"
+  }
+}

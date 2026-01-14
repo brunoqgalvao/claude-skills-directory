@@ -1,0 +1,35 @@
+{
+  "id": "recollect-worktree",
+  "name": "recollect-worktree",
+  "version": "1.0.0",
+  "summary": "Manages Git worktrees for Recollect development. Creates worktrees in .worktrees/, copies .env.local, and runs pnpm install. Use when reviewing PRs in isolation or working on fe...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timelessco",
+    "github": "timelessco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timelessco/recollect",
+    "skill_md": "https://raw.githubusercontent.com/timelessco/recollect/main/.claude/skills/recollect-worktree/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:21.304Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timelessco%2Frecollect/.claude%2Fskills%2Frecollect-worktree%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_67d2c441d410"
+  }
+}

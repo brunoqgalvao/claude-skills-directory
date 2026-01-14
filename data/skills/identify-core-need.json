@@ -1,0 +1,35 @@
+{
+  "id": "identify-core-need",
+  "name": "identify-core-need",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"identify core need\", \"clarify requirements\", \"extract user intent\", \"validate distinctions\", or when starting any research or an...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rafaelcalleja",
+    "github": "rafaelcalleja"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rafaelcalleja/claude-market-place",
+    "skill_md": "https://raw.githubusercontent.com/rafaelcalleja/claude-market-place/main/plugins/gitlab-tbc/skills/identify-core-need/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T08:43:45.000Z",
+  "created_at": "2025-12-23T01:28:42.760Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rafaelcalleja%2Fclaude-market-place/plugins%2Fgitlab-tbc%2Fskills%2Fidentify-core-need%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_1234aac1b940"
+  }
+}

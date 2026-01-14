@@ -1,0 +1,36 @@
+{
+  "id": "code-connect-components",
+  "name": "code-connect-components",
+  "version": "1.0.0",
+  "summary": "Connects Figma design components to code components using Code Connect. Use when user says \"code connect\", \"connect this component to code\", \"connect Figma to code\", \"map this c...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "figma",
+    "github": "figma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/figma/mcp-server-guide",
+    "skill_md": "https://raw.githubusercontent.com/figma/mcp-server-guide/main/skills/code-connect-components/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.476Z",
+  "created_at": "2025-12-23T01:29:52.662Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/figma%2Fmcp-server-guide/skills%2Fcode-connect-components%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.476Z",
+    "uniqueId": "sk_d0b6902eb703"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "auto-executor",
+  "name": "auto-executor",
+  "version": "1.0.0",
+  "summary": "docs/tasks.mdに記載されたタスクを読み取り、サブエージェントを使用して実装を自動実行します。並列実装可能なタスクは並列で処理し、タスクごとにコミットを作成します。タスク完了後はtasks.mdを更新して完了をマークします。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "windschord",
+    "github": "windschord"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/windschord/claude_skils",
+    "skill_md": "https://raw.githubusercontent.com/windschord/claude_skils/main/task-executor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:15:32.381Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/windschord%2Fclaude_skils/task-executor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_1c851d3804e4"
+  }
+}

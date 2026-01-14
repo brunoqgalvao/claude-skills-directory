@@ -1,0 +1,37 @@
+{
+  "id": "arch-wiki",
+  "name": "arch-wiki",
+  "version": "1.0.0",
+  "summary": "Use when debugging crashes on Arch Linux (gdb, backtraces), resolving pacman errors (conflicting files, failed to commit, locked database), installing AUR packages, configuring ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SkogAI",
+    "github": "SkogAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SkogAI/skillsandknowledge",
+    "skill_md": "https://raw.githubusercontent.com/SkogAI/skillsandknowledge/main/actions/arch-wiki/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.485Z",
+  "created_at": "2025-12-23T01:29:38.940Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SkogAI%2Fskillsandknowledge/actions%2Farch-wiki%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.485Z",
+    "uniqueId": "sk_9359603694d5"
+  }
+}

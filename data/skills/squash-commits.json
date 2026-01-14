@@ -1,0 +1,35 @@
+{
+  "id": "squash-commits",
+  "name": "squash-commits",
+  "version": "1.0.0",
+  "summary": "Squash all commits in a feature branch into a single commit with an AI-generated summary message. Use when the user wants to clean up their git history before merging, combine m...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mixomat",
+    "github": "mixomat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mixomat/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mixomat/claude-plugins/main/plugins/git-workflow/skills/squash-commits/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:13:16.700Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mixomat%2Fclaude-plugins/plugins%2Fgit-workflow%2Fskills%2Fsquash-commits%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_e5a7090d8ca2"
+  }
+}

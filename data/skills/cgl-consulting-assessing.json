@@ -1,0 +1,35 @@
+{
+  "id": "cgl-consulting-assessing",
+  "name": "cgl-consulting-assessing",
+  "version": "1.0.0",
+  "summary": "Analyzes current state versus desired state to identify and categorize gaps. Auto-activates when user asks what's missing, wants gap analysis, or needs status assessment. Priori...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "creativegluelab",
+    "github": "creativegluelab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/creativegluelab/cgl-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/creativegluelab/cgl-claude-plugins/main/cgl-consulting/skills/cgl-consulting-assessing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.578Z",
+  "created_at": "2025-12-23T01:28:22.337Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/creativegluelab%2Fcgl-claude-plugins/cgl-consulting%2Fskills%2Fcgl-consulting-assessing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_23c792d472f3"
+  }
+}

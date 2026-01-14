@@ -1,0 +1,35 @@
+{
+  "id": "detect-project-from-epic",
+  "name": "detect-project-from-epic",
+  "version": "1.0.0",
+  "summary": "Detect project labels from source Epic during migration. Use when (1) migrating Epic from another repository (command-center → docs), (2) need to preserve project categorization...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/biz/discovery/skills/detect-project-from-epic/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:38.613Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fbiz%2Fdiscovery%2Fskills%2Fdetect-project-from-epic%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_f7a2d2ae214d"
+  }
+}

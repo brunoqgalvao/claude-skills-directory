@@ -1,0 +1,36 @@
+{
+  "id": "monorepo-tooling",
+  "name": "monorepo-tooling",
+  "version": "1.0.0",
+  "summary": "Use when setting up monorepo tooling, optimizing builds, or migrating between tools with Turborepo, Nx, Bazel, Lerna for efficient task running, caching, and code generation.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TheBushidoCollective",
+    "github": "TheBushidoCollective"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TheBushidoCollective/han",
+    "skill_md": "https://raw.githubusercontent.com/TheBushidoCollective/han/main/jutsu/jutsu-monorepo/skills/monorepo-tooling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:28.492Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TheBushidoCollective%2Fhan/jutsu%2Fjutsu-monorepo%2Fskills%2Fmonorepo-tooling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_4e194c123093"
+  }
+}

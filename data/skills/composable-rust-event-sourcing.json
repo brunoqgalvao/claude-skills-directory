@@ -1,0 +1,37 @@
+{
+  "id": "composable-rust-event-sourcing",
+  "name": "composable-rust-event-sourcing",
+  "version": "1.0.0",
+  "summary": "Expert knowledge for implementing event sourcing in Composable Rust. Use when implementing event-sourced aggregates, working with EventStore trait or PostgreSQL, designing event...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jonathanbelolo",
+    "github": "jonathanbelolo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jonathanbelolo/composable-rust",
+    "skill_md": "https://raw.githubusercontent.com/jonathanbelolo/composable-rust/main/.claude/skills/composable-rust-event-sourcing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.607Z",
+  "created_at": "2025-12-23T00:01:28.390Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jonathanbelolo%2Fcomposable-rust/.claude%2Fskills%2Fcomposable-rust-event-sourcing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.607Z",
+    "uniqueId": "sk_e5828722c9db"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "linear-usage",
+  "name": "linear-usage",
+  "version": "1.0.0",
+  "summary": "This skill should be used when user asks about \"Linear issues\", \"issue tracking best practices\", \"sprint planning\", \"Linear project management\", or \"creating Linear issues\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fcakyon",
+    "github": "fcakyon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fcakyon/claude-codex-settings",
+    "skill_md": "https://raw.githubusercontent.com/fcakyon/claude-codex-settings/main/plugins/linear-tools/skills/linear-usage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.832Z",
+  "created_at": "2025-12-22T16:54:28.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fcakyon%2Fclaude-codex-settings/plugins%2Flinear-tools%2Fskills%2Flinear-usage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.832Z",
+    "uniqueId": "sk_fe04bb08a9a0"
+  }
+}

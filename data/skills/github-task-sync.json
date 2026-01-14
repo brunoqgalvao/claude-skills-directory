@@ -1,0 +1,36 @@
+{
+  "id": "github-task-sync",
+  "name": "github-task-sync",
+  "version": "1.0.0",
+  "summary": "Synchronise task lists with GitHub Projects using the gh CLI. Use this skill when users want to add tasks, to-dos, or action items to a GitHub repository's project board. The sk...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chrisvoncsefalvay",
+    "github": "chrisvoncsefalvay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chrisvoncsefalvay/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/chrisvoncsefalvay/claude-skills/main/github-task-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:07.196Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chrisvoncsefalvay%2Fclaude-skills/github-task-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_a84a37df397f"
+  }
+}

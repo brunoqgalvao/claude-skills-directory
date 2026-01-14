@@ -1,0 +1,35 @@
+{
+  "id": "darkit-gin",
+  "name": "darkit-gin",
+  "version": "1.0.0",
+  "summary": "基于 gin-gonic/gin 的企业级 Web 框架增强版，提供开箱即用的 JWT 认证、SSE 实时通信、缓存管理、OpenAPI 文档生成等企业级功能。涵盖选项式路由配置、统一响应格式、中间件管理、安全加固、性能优化等完整开发能力。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DarkiT",
+    "github": "DarkiT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DarkiT/gin",
+    "skill_md": "https://raw.githubusercontent.com/DarkiT/gin/main/docs/darkit-gin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:23.030Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DarkiT%2Fgin/docs%2Fdarkit-gin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_d2eed984129c"
+  }
+}

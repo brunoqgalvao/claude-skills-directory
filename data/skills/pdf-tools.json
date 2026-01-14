@@ -1,0 +1,35 @@
+{
+  "id": "pdf-tools",
+  "name": "pdf-tools",
+  "version": "1.0.0",
+  "summary": "PDF 문서를 분석하고 내용을 추출합니다. PDF 읽기, 요약, 특정 정보 검색, UI/디자인 확인이 필요할 때 사용하세요. 자동으로 Markdown 변환과 페이지 이미지 export를 수행합니다.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ssiumha",
+    "github": "ssiumha"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ssiumha/dots",
+    "skill_md": "https://raw.githubusercontent.com/ssiumha/dots/main/prompts/skills/pdf-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-24T08:49:06.000Z",
+  "created_at": "2025-12-23T01:28:46.871Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ssiumha%2Fdots/prompts%2Fskills%2Fpdf-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_9f4be2df3a07"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "csv-data-summarizer",
+  "name": "csv-data-summarizer",
+  "version": "1.0.0",
+  "summary": "Analyzes CSV files and generates comprehensive summary statistics and visualizations using Python and pandas - automatically and immediately without asking what the user wants.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leegonzales",
+    "github": "leegonzales"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leegonzales/AISkills",
+    "skill_md": "https://raw.githubusercontent.com/leegonzales/AISkills/main/CSVDataSummarizer/csv-data-summarizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:33.598Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leegonzales%2FAISkills/CSVDataSummarizer%2Fcsv-data-summarizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_5138e4ec9852"
+  }
+}

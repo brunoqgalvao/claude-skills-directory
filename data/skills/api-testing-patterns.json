@@ -1,0 +1,37 @@
+{
+  "id": "api-testing-patterns",
+  "name": "api-testing-patterns",
+  "version": "1.0.0",
+  "summary": "Comprehensive API testing patterns including contract testing, REST/GraphQL testing, and integration testing. Use when testing APIs or designing API test strategies.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "proffesor-for-testing",
+    "github": "proffesor-for-testing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/proffesor-for-testing/agentic-qe",
+    "skill_md": "https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/.claude/skills/api-testing-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T10:07:46.000Z",
+  "created_at": "2025-12-22T20:00:39.524Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/proffesor-for-testing%2Fagentic-qe/.claude%2Fskills%2Fapi-testing-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.772Z",
+    "uniqueId": "sk_9720715c5a45"
+  }
+}

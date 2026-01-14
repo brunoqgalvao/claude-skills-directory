@@ -1,0 +1,35 @@
+{
+  "id": "bug-fix",
+  "name": "bug-fix",
+  "version": "1.0.0",
+  "summary": "Systematically diagnose and fix bugs by reproducing issues, identifying root causes, implementing fixes, and preventing regressions. Use when debugging errors, fixing issues, or...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vapvarun",
+    "github": "vapvarun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vapvarun/claude-backup",
+    "skill_md": "https://raw.githubusercontent.com/vapvarun/claude-backup/main/skills/bug-fix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:08.983Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vapvarun%2Fclaude-backup/skills%2Fbug-fix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_e4aa1bf81088"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "plausible-insights",
+  "name": "plausible-insights",
+  "version": "1.0.0",
+  "summary": "Use when analyzing website traffic, investigating SEO issues, diagnosing high bounce rates, evaluating content performance, or optimizing site conversions - proactive SEO consul...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexanderop",
+    "github": "alexanderop"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexanderop/claude-plausible-analytics",
+    "skill_md": "https://raw.githubusercontent.com/alexanderop/claude-plausible-analytics/main/.claude/skills/plausible-insights/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:54:48.794Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexanderop%2Fclaude-plausible-analytics/.claude%2Fskills%2Fplausible-insights%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_e26cf0b1e3b2"
+  }
+}

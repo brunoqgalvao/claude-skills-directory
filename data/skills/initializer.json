@@ -1,0 +1,35 @@
+{
+  "id": "initializer",
+  "name": "initializer",
+  "version": "1.0.0",
+  "summary": "Initialize long-running agent projects with environment setup, feature list generation, and progress tracking. Use when starting a new implementation project or setting up an ex...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "s-hiraoku",
+    "github": "s-hiraoku"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/s-hiraoku/spec2impl",
+    "skill_md": "https://raw.githubusercontent.com/s-hiraoku/spec2impl/main/templates/.claude/skills/spec2impl/initializer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T10:01:50.000Z",
+  "created_at": "2025-12-22T16:28:43.813Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/s-hiraoku%2Fspec2impl/templates%2F.claude%2Fskills%2Fspec2impl%2Finitializer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_9b242854c2bb"
+  }
+}

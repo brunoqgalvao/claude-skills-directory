@@ -1,0 +1,36 @@
+{
+  "id": "etrid-compile-build",
+  "name": "etrid-compile-build",
+  "version": "1.0.0",
+  "summary": "Compile, test, and diagnose the multi-workspace Ëtrid Rust codebase (Substrate-based) with deterministic steps, caching, and actionable remediation for common compiler errors (E...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EojEdred",
+    "github": "EojEdred"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EojEdred/Etrid",
+    "skill_md": "https://raw.githubusercontent.com/EojEdred/Etrid/main/14-aidevs/skills/etrid-compile-build/etrid-compile-build/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T03:05:41.000Z",
+  "created_at": "2025-12-23T01:28:13.518Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EojEdred%2FEtrid/14-aidevs%2Fskills%2Fetrid-compile-build%2Fetrid-compile-build%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.583Z",
+    "uniqueId": "sk_5c69ec5d6f7b"
+  }
+}

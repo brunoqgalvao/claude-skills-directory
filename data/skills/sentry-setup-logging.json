@@ -1,0 +1,36 @@
+{
+  "id": "sentry-setup-logging",
+  "name": "sentry-setup-logging",
+  "version": "1.0.0",
+  "summary": "Setup Sentry Logging in any project. Use this when asked to add Sentry logs, enable structured logging, setup console log capture, or integrate logging with Sentry. Supports Jav...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "getsentry",
+    "github": "getsentry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/getsentry/sentry-for-claude",
+    "skill_md": "https://raw.githubusercontent.com/getsentry/sentry-for-claude/main/skills/sentry-setup-logging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:24.648Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/getsentry%2Fsentry-for-claude/skills%2Fsentry-setup-logging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_ffc0d9ac73f4"
+  }
+}

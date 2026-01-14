@@ -1,0 +1,35 @@
+{
+  "id": "checkpoint-format",
+  "name": "checkpoint-format",
+  "version": "1.0.0",
+  "summary": "Interactive checkpoint format for orchestrator pause points",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "p4ndroid",
+    "github": "p4ndroid"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/p4ndroid/ai-dev-pipeline-architecture",
+    "skill_md": "https://raw.githubusercontent.com/p4ndroid/ai-dev-pipeline-architecture/main/skills/checkpoint-format/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:35.027Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/p4ndroid%2Fai-dev-pipeline-architecture/skills%2Fcheckpoint-format%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_05ebf871274f"
+  }
+}

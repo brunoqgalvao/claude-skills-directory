@@ -1,0 +1,35 @@
+{
+  "id": "router",
+  "name": "router",
+  "version": "1.0.0",
+  "summary": "Intelligent workflow selection that analyzes user requests and recommends the optimal ModelChorus workflow with parameters",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tylerburleigh",
+    "github": "tylerburleigh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tylerburleigh/claude-model-chorus",
+    "skill_md": "https://raw.githubusercontent.com/tylerburleigh/claude-model-chorus/main/skills/router/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.608Z",
+  "created_at": "2025-12-23T00:01:25.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tylerburleigh%2Fclaude-model-chorus/skills%2Frouter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.608Z",
+    "uniqueId": "sk_20c015e2ae98"
+  }
+}

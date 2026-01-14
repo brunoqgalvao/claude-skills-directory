@@ -1,0 +1,37 @@
+{
+  "id": "sql-research",
+  "name": "sql-research",
+  "version": "1.0.0",
+  "summary": "Guide for researching SQL syntax and behavior for database backends. Use when you need to research how a SQL function, command, or feature works in a specific database before im...",
+  "verticals": [
+    "finance",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tidyverse",
+    "github": "tidyverse"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tidyverse/dbplyr",
+    "skill_md": "https://raw.githubusercontent.com/tidyverse/dbplyr/main/.claude/skills/sql-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T08:29:20.000Z",
+  "created_at": "2025-12-22T17:58:17.051Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tidyverse%2Fdbplyr/.claude%2Fskills%2Fsql-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_134126103f15"
+  }
+}

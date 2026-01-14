@@ -1,0 +1,35 @@
+{
+  "id": "debugging-atmos",
+  "name": "debugging-atmos",
+  "version": "1.0.0",
+  "summary": "Use when troubleshooting Atmos configuration, deployment errors, or unexpected behavior. Covers debug logging, describing stacks/components, interpreting errors, and common issu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cloudposse",
+    "github": "cloudposse"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cloudposse/docs",
+    "skill_md": "https://raw.githubusercontent.com/cloudposse/docs/main/examples/snippets/.claude/skills/debugging-atmos/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T17:19:26.000Z",
+  "created_at": "2025-12-23T01:29:16.525Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cloudposse%2Fdocs/examples%2Fsnippets%2F.claude%2Fskills%2Fdebugging-atmos%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_0aa7a33dd0f7"
+  }
+}

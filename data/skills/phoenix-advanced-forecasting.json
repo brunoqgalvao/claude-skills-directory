@@ -1,0 +1,35 @@
+{
+  "id": "phoenix-advanced-forecasting",
+  "name": "phoenix-advanced-forecasting",
+  "version": "1.0.0",
+  "summary": "Architecture for the 'living model': graduation rates, multi-MOIC analysis, reserves ranking, scenarios, and Monte Carlo. Always sits on top of the deterministic core.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nikhillinit",
+    "github": "nikhillinit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nikhillinit/Updog_restore",
+    "skill_md": "https://raw.githubusercontent.com/nikhillinit/Updog_restore/main/.claude/skills/phoenix-advanced-forecasting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T10:16:13.000Z",
+  "created_at": "2025-12-23T01:28:57.003Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nikhillinit%2FUpdog_restore/.claude%2Fskills%2Fphoenix-advanced-forecasting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.536Z",
+    "uniqueId": "sk_eaca8e6173a9"
+  }
+}

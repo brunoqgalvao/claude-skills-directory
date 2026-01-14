@@ -1,0 +1,37 @@
+{
+  "id": "claude-code-memory",
+  "name": "claude-code-memory",
+  "version": "1.0.0",
+  "summary": "Manage Claude Code project memory with auto-loaded constraints, quirks, decisions, and conventions. Capture project-specific knowledge through natural conversation, use inbox fo...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jubalm",
+    "github": "jubalm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jubalm/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/jubalm/dotfiles/main/home/.claude/skills/claude-code-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T17:34:08.000Z",
+  "created_at": "2025-12-22T20:00:57.243Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jubalm%2Fdotfiles/home%2F.claude%2Fskills%2Fclaude-code-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_db1897449642"
+  }
+}

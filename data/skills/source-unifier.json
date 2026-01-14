@@ -1,0 +1,35 @@
+{
+  "id": "source-unifier",
+  "name": "source-unifier",
+  "version": "1.0.0",
+  "summary": "Merge multiple documentation sources (docs, GitHub, PDF) with conflict detection. Use when combining docs + code for complete skill coverage.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmagly",
+    "github": "jmagly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmagly/ai-writing-guide",
+    "skill_md": "https://raw.githubusercontent.com/jmagly/ai-writing-guide/main/agentic/code/addons/doc-intelligence/skills/source-unifier/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T02:18:02.000Z",
+  "created_at": "2025-12-23T01:29:19.953Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmagly%2Fai-writing-guide/agentic%2Fcode%2Faddons%2Fdoc-intelligence%2Fskills%2Fsource-unifier%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_1211030fc9fd"
+  }
+}

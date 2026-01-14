@@ -1,0 +1,35 @@
+{
+  "id": "claude-md-optimizer",
+  "name": "claude-md-optimizer",
+  "version": "1.0.0",
+  "summary": "Analyze and optimize CLAUDE.md files for maximum Claude Code effectiveness. Use when the user mentions CLAUDE.md, wants to optimize their project documentation for Claude, asks ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "duyet",
+    "github": "duyet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/duyet/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/duyet/claude-plugins/main/plugins/claude-md-optimizer/skills/claude-md-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T16:00:10.829Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/duyet%2Fclaude-plugins/plugins%2Fclaude-md-optimizer%2Fskills%2Fclaude-md-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_adb71501d799"
+  }
+}

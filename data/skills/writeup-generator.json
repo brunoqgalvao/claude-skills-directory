@@ -1,0 +1,35 @@
+{
+  "id": "writeup-generator",
+  "name": "writeup-generator",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive CTF writeups as blog articles. Use when solving a challenge, documenting solutions, or when /writeup command is invoked.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kiwamizamurai",
+    "github": "kiwamizamurai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kiwamizamurai/cctf",
+    "skill_md": "https://raw.githubusercontent.com/kiwamizamurai/cctf/main/.claude/skills/writeup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:25.591Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kiwamizamurai%2Fcctf/.claude%2Fskills%2Fwriteup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_5f2b014255b8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-operator",
+  "name": "git-operator",
+  "version": "1.0.0",
+  "summary": "Rules and procedures for Git operations (add, branch, commit, push). Use when performing git add, git commit, git push, or creating branches.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "scizorman",
+    "github": "scizorman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/scizorman/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/scizorman/dotfiles/main/dot_claude/skills/git-operator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T16:16:54.000Z",
+  "created_at": "2025-12-23T01:28:46.888Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/scizorman%2Fdotfiles/dot_claude%2Fskills%2Fgit-operator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_5c45738f4604"
+  }
+}

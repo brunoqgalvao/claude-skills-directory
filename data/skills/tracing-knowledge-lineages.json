@@ -1,0 +1,35 @@
+{
+  "id": "tracing-knowledge-lineages",
+  "name": "tracing-knowledge-lineages",
+  "version": "1.0.0",
+  "summary": "Use when replacing approaches or dismissing patterns. Traces decision history through git/jj logs, commit messages, and decision records to avoid repeating failures and rediscov...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebnow",
+    "github": "sebnow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebnow/configs",
+    "skill_md": "https://raw.githubusercontent.com/sebnow/configs/main/home-manager/agentic/skills/tracing-knowledge-lineages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:59.065Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebnow%2Fconfigs/home-manager%2Fagentic%2Fskills%2Ftracing-knowledge-lineages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_c3d95ce19db9"
+  }
+}

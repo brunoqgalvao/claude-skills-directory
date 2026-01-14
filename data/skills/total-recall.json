@@ -1,0 +1,35 @@
+{
+  "id": "total-recall",
+  "name": "total-recall",
+  "version": "1.0.0",
+  "summary": "Memory preservation for Claude Code sessions. Use when approaching token limits, needing to /reset or /compact, switching between complex tasks, or preserving critical session s...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "plinde",
+    "github": "plinde"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/plinde/total-recall",
+    "skill_md": "https://raw.githubusercontent.com/plinde/total-recall/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T11:47:10.000Z",
+  "created_at": "2025-12-23T01:28:25.073Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/plinde%2Ftotal-recall/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.576Z",
+    "uniqueId": "sk_d81609e81588"
+  }
+}

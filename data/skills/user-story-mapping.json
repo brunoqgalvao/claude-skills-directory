@@ -1,0 +1,35 @@
+{
+  "id": "user-story-mapping",
+  "name": "user-story-mapping",
+  "version": "1.0.0",
+  "summary": "ユーザーストーリーの作成、優先順位付け、エピック分割の体系的手法。\nユーザーの視点から要件を構造化し、価値提供の流れを可視化します。\n\n専門分野:\n- ストーリー作成: As a/I want/So that形式、INVEST基準\n- ストーリーマッピング: アクティビティ、タスク、リリース計画\n- 優先順位付け: MoSCoW、価値ベース、リスクベー...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/user-story-mapping/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T14:54:39.000Z",
+  "created_at": "2025-12-23T01:29:26.041Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fuser-story-mapping%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_c55d811a4ca5"
+  }
+}

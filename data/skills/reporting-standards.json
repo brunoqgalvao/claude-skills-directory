@@ -1,0 +1,35 @@
+{
+  "id": "reporting-standards",
+  "name": "reporting-standards",
+  "version": "1.0.0",
+  "summary": "Standards for security documentation and writeups",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amattas",
+    "github": "amattas"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amattas/agentic-coding",
+    "skill_md": "https://raw.githubusercontent.com/amattas/agentic-coding/main/security/.claude/skills/reporting-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T05:02:05.000Z",
+  "created_at": "2025-12-22T16:53:27.767Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amattas%2Fagentic-coding/security%2F.claude%2Fskills%2Freporting-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_61f044d1d841"
+  }
+}

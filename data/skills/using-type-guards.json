@@ -1,0 +1,37 @@
+{
+  "id": "using-type-guards",
+  "name": "using-type-guards",
+  "version": "1.0.0",
+  "summary": "Teaches how to write custom type guards with type predicates and use built-in type narrowing in TypeScript. Use when working with unknown types, union types, validating external...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/typescript/skills/using-type-guards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T22:02:27.000Z",
+  "created_at": "2025-12-22T20:09:15.671Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/typescript%2Fskills%2Fusing-type-guards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_3f19db6643dd"
+  }
+}

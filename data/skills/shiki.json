@@ -1,0 +1,37 @@
+{
+  "id": "shiki",
+  "name": "shiki",
+  "version": "1.0.0",
+  "summary": "Shiki 3+ syntax highlighting. Use when highlighting code blocks, MDX content, or building code editors.",
+  "verticals": [
+    "engineering",
+    "finance",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tirtza-weinfeld",
+    "github": "tirtza-weinfeld"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tirtza-weinfeld/hippocampx",
+    "skill_md": "https://raw.githubusercontent.com/tirtza-weinfeld/hippocampx/main/.claude/skills/shiki/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:36.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tirtza-weinfeld%2Fhippocampx/.claude%2Fskills%2Fshiki%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_8fd7b60a7758"
+  }
+}

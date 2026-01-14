@@ -1,0 +1,35 @@
+{
+  "id": "add-med-record",
+  "name": "add-med-record",
+  "version": "1.0.0",
+  "summary": "Добавляет медицинские записи в Notion. Используй когда пользователь просит добавить запись в карточку Богданы, Андрея или Вани по файлу анализов/обследований.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andr81",
+    "github": "andr81"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andr81/pers-assist",
+    "skill_md": "https://raw.githubusercontent.com/andr81/pers-assist/main/.claude/skills/add-med-record/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:18:56.405Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andr81%2Fpers-assist/.claude%2Fskills%2Fadd-med-record%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_817e8937c659"
+  }
+}

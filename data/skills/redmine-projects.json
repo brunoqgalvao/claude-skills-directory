@@ -1,0 +1,35 @@
+{
+  "id": "redmine-projects",
+  "name": "redmine-projects",
+  "version": "1.0.0",
+  "summary": "이 스킬은 사용자가 \"프로젝트 목록\", \"프로젝트 정보\", \"버전 확인\", \"마일스톤\", \"프로젝트 검색\", \"project list\", \"show projects\", \"version info\" 등을 언급할 때 사용됩니다. Redmine 프로젝트 관리 기능을 제공합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ncuritylabs",
+    "github": "ncuritylabs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ncuritylabs/ncurion-plugins-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/ncuritylabs/ncurion-plugins-marketplace/main/plugins/ncurion-plugin/skills/redmine-projects/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:30.454Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ncuritylabs%2Fncurion-plugins-marketplace/plugins%2Fncurion-plugin%2Fskills%2Fredmine-projects%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_7dc56e65c7de"
+  }
+}

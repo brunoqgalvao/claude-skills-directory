@@ -1,0 +1,36 @@
+{
+  "id": "ai-board",
+  "name": "ai-board",
+  "version": "1.0.0",
+  "summary": "Advanced multi-agent reasoning system for complex questions requiring maximum accuracy. Uses adaptive technique selection, adversarial validation, multi-agent debate, and deep a...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ericbuess",
+    "github": "ericbuess"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ericbuess/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ericbuess/claude-skills/main/ai-board-skill/ai-board/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T02:23:22.000Z",
+  "created_at": "2025-12-22T20:04:38.023Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ericbuess%2Fclaude-skills/ai-board-skill%2Fai-board%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_f557b17e297f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "article-extractor",
+  "name": "article-extractor",
+  "version": "1.0.0",
+  "summary": "Extracts and organizes MQL5 articles and documentation. Use when researching MQL5 features, MetaTrader API documentation, Python MT5 integration, or algorithmic trading resources.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/mql5com/skills/article-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.857Z",
+  "created_at": "2025-12-22T15:11:52.391Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fmql5com%2Fskills%2Farticle-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_67878c21dc84"
+  }
+}

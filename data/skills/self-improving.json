@@ -1,0 +1,35 @@
+{
+  "id": "self-improving",
+  "name": "self-improving",
+  "version": "1.0.0",
+  "summary": "Use when starting infrastructure, testing, deployment, or framework-specific tasks - automatically searches PRPM registry for relevant expertise packages and suggests installati...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pr-pm",
+    "github": "pr-pm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pr-pm/prpm",
+    "skill_md": "https://raw.githubusercontent.com/pr-pm/prpm/main/.claude/skills/self-improving/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.518Z",
+  "created_at": "2025-12-23T01:29:11.058Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pr-pm%2Fprpm/.claude%2Fskills%2Fself-improving%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_0fd56439b66a"
+  }
+}

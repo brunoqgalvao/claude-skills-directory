@@ -1,0 +1,36 @@
+{
+  "id": "dspy-framework",
+  "name": "dspy-framework",
+  "version": "1.0.0",
+  "summary": "DSPy declarative framework for automatic prompt optimization treating prompts as code with systematic evaluation and compilers. Use when optimizing prompts systematically, build...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-ai-frameworks-dspy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.471Z",
+  "created_at": "2025-12-23T01:30:48.478Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-ai-frameworks-dspy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.471Z",
+    "uniqueId": "sk_08583cf5618a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mozilla-probe-discovery",
+  "name": "mozilla-probe-discovery",
+  "version": "1.0.0",
+  "summary": "Find Mozilla telemetry probes and Glean metrics. Use when user asks about: Firefox metrics, Glean probes, telemetry data, accessibility probes, search metrics, or any Mozilla pr...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "akkomar",
+    "github": "akkomar"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/akkomar/mozdata-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/akkomar/mozdata-claude-plugin/main/skills/probe-discovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T11:06:00.000Z",
+  "created_at": "2025-12-22T15:12:39.785Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/akkomar%2Fmozdata-claude-plugin/skills%2Fprobe-discovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_5496049a251f"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rust-async-runtime",
+  "name": "rust-async-runtime",
+  "version": "1.0.0",
+  "summary": "Production patterns for Tokio 1.48.0 async runtime including task spawning, channels (mpsc, oneshot, broadcast, watch), synchronization primitives, graceful shutdown, and lifecy...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matthewharwood",
+    "github": "matthewharwood"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matthewharwood/engmanager.xyz",
+    "skill_md": "https://raw.githubusercontent.com/matthewharwood/engmanager.xyz/main/.claude/skills/rust-async-runtime/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:05:43.856Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matthewharwood%2Fengmanager.xyz/.claude%2Fskills%2Frust-async-runtime%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_31968712a71c"
+  }
+}

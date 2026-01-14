@@ -1,0 +1,36 @@
+{
+  "id": "code-review-helper",
+  "name": "code-review-helper",
+  "version": "1.0.0",
+  "summary": "Systematic code review workflows with bundled utilities for analyzing code quality, detecting patterns, and providing structured feedback. Use this skill when reviewing pull req...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gptme",
+    "github": "gptme"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gptme/gptme-contrib",
+    "skill_md": "https://raw.githubusercontent.com/gptme/gptme-contrib/main/skills/code-review-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:04.502Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gptme%2Fgptme-contrib/skills%2Fcode-review-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_ed285397b9eb"
+  }
+}

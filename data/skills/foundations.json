@@ -1,0 +1,35 @@
+{
+  "id": "foundations",
+  "name": "foundations",
+  "version": "1.0.0",
+  "summary": "Claude Code basics for new users. Covers essential concepts and commands.\nUse when: user is new to Claude Code or routed here by learning-path assessment.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/ccc/skills/foundations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T10:35:32.000Z",
+  "created_at": "2025-12-23T01:28:41.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/ccc%2Fskills%2Ffoundations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_215ae6ec5aa5"
+  }
+}

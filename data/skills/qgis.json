@@ -1,0 +1,36 @@
+{
+  "id": "qgis",
+  "name": "qgis",
+  "version": "1.0.0",
+  "summary": "Geospatial analysis and GIS operations via QGIS. Use for calculating distances, buffering zones, coordinate transforms (EPSG:4326 to EPSG:3857), layer operations, geoprocessing ...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/sindri",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/sindri/main/docker/lib/extensions/vf-qgis/resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:45.228Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fsindri/docker%2Flib%2Fextensions%2Fvf-qgis%2Fresources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_72e3315019ee"
+  }
+}

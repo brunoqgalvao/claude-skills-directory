@@ -1,0 +1,36 @@
+{
+  "id": "cpython-docs",
+  "name": "cpython-docs",
+  "version": "1.0.0",
+  "summary": "Use this skill when working with CPython documentation in the Doc/ tree, including reStructuredText (.rst) files, adding versionadded/versionchanged markers, creating Misc/NEWS....",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gpshead",
+    "github": "gpshead"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gpshead/cpython-skills",
+    "skill_md": "https://raw.githubusercontent.com/gpshead/cpython-skills/main/plugins/cpython-skills/skills/cpython-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.574Z",
+  "created_at": "2025-12-23T01:28:26.998Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gpshead%2Fcpython-skills/plugins%2Fcpython-skills%2Fskills%2Fcpython-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_3d9a4607cf03"
+  }
+}

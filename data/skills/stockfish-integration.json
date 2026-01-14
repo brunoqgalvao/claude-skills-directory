@@ -1,0 +1,35 @@
+{
+  "id": "stockfish-integration",
+  "name": "stockfish-integration",
+  "version": "1.0.0",
+  "summary": "Verify Stockfish WASM integration patterns. Use when working with engine code, UCI commands, or move analysis to ensure correct async patterns and error handling.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Grips001",
+    "github": "Grips001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Grips001/Chess-Sensei",
+    "skill_md": "https://raw.githubusercontent.com/Grips001/Chess-Sensei/main/.claude/skills/stockfish-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T22:42:45.000Z",
+  "created_at": "2025-12-23T01:28:42.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Grips001%2FChess-Sensei/.claude%2Fskills%2Fstockfish-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.559Z",
+    "uniqueId": "sk_12bae2767e8d"
+  }
+}

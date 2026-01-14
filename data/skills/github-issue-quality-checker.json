@@ -1,0 +1,35 @@
+{
+  "id": "github-issue-quality-checker",
+  "name": "github-issue-quality-checker",
+  "version": "1.0.0",
+  "summary": "Open状態のGitHub Issueから低品質・曖昧なIssueを検出して分析するスキル。 「Issueが多すぎてどれから対応すべきか分からない」「質問や報告の質を上げたい」場合に使用。 環境変数で指定されたリポジトリのIssueを品質評価し、最もスコアの低いIssueを特定する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nobu007",
+    "github": "nobu007"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nobu007/mcp-gemini-cli",
+    "skill_md": "https://raw.githubusercontent.com/nobu007/mcp-gemini-cli/main/.claude/skills/github-issue-quality-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T15:58:59.000Z",
+  "created_at": "2025-12-22T16:56:28.450Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nobu007%2Fmcp-gemini-cli/.claude%2Fskills%2Fgithub-issue-quality-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_be8c72c8f302"
+  }
+}

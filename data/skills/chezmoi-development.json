@@ -1,0 +1,36 @@
+{
+  "id": "chezmoi-development",
+  "name": "chezmoi-development",
+  "version": "1.0.0",
+  "summary": "This skill should be used when developing or modifying dotfiles using chezmoi. Covers using .chezmoidata for configuration data and modify_ scripts (or run_onchange_after_ scrip...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fx",
+    "github": "fx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fx/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/fx/dotfiles/main/.claude/skills/chezmoi-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.621Z",
+  "created_at": "2025-12-22T23:19:22.736Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fx%2Fdotfiles/.claude%2Fskills%2Fchezmoi-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.621Z",
+    "uniqueId": "sk_16984450695f"
+  }
+}

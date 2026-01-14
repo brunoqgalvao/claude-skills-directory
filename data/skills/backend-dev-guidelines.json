@@ -1,0 +1,37 @@
+{
+  "id": "backend-dev-guidelines",
+  "name": "backend-dev-guidelines",
+  "version": "1.0.0",
+  "summary": "Node.js/Express/TypeScript microservices development. Layered architecture (routes → controllers → services → repositories), BaseController, error handling, Sentry monitoring, P...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hieubkav",
+    "github": "Hieubkav"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hieubkav/wincellarCloneBackend",
+    "skill_md": "https://raw.githubusercontent.com/Hieubkav/wincellarCloneBackend/main/.claude/skills/fullstack/backend-dev-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:10:01.219Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hieubkav%2FwincellarCloneBackend/.claude%2Fskills%2Ffullstack%2Fbackend-dev-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_ee695dfbd2b0"
+  }
+}

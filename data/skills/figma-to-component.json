@@ -1,0 +1,35 @@
+{
+  "id": "figma-to-component",
+  "name": "figma-to-component",
+  "version": "1.0.0",
+  "summary": "Figma 디자인을 분석하여 프로젝트 규칙에 맞는 React 컴포넌트를 자동 생성합니다. Figma URL을 받아서 TDD 방식으로 컴포넌트, 스타일, 테스트, Storybook을 생성합니다.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gharam1234",
+    "github": "gharam1234"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gharam1234/trip",
+    "skill_md": "https://raw.githubusercontent.com/gharam1234/trip/main/.claude/skills/figma-to-component/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T14:07:57.000Z",
+  "created_at": "2025-12-22T20:04:24.286Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gharam1234%2Ftrip/.claude%2Fskills%2Ffigma-to-component%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_25a6b30fa02e"
+  }
+}

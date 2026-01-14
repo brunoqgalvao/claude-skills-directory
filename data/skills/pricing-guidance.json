@@ -1,0 +1,36 @@
+{
+  "id": "pricing-guidance",
+  "name": "pricing-guidance",
+  "version": "1.0.0",
+  "summary": "Claude API pricing, tier recommendations, token cost optimization, and ROI calculations for CDP features.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sigridjineth",
+    "github": "sigridjineth"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sigridjineth/interview-copilot-with-skills",
+    "skill_md": "https://raw.githubusercontent.com/sigridjineth/interview-copilot-with-skills/main/skills/pricing_guidance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.571Z",
+  "created_at": "2025-12-23T01:28:30.886Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sigridjineth%2Finterview-copilot-with-skills/skills%2Fpricing_guidance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_a9d9e41ac29f"
+  }
+}

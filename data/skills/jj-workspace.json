@@ -1,0 +1,35 @@
+{
+  "id": "jj-workspace",
+  "name": "jj-workspace",
+  "version": "1.0.0",
+  "summary": "Create a jj workspace before starting work to enable parallel Claude sessions. Use this skill when starting a new task that should be isolated from other concurrent work. Trigge...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "inspirepan",
+    "github": "inspirepan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/inspirepan/klaude-code",
+    "skill_md": "https://raw.githubusercontent.com/inspirepan/klaude-code/main/src/klaude_code/skill/assets/jj-workspace/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:50:44.230Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/inspirepan%2Fklaude-code/src%2Fklaude_code%2Fskill%2Fassets%2Fjj-workspace%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_978ab5d5e7a1"
+  }
+}

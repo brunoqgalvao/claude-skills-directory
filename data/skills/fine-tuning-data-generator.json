@@ -1,0 +1,36 @@
+{
+  "id": "fine-tuning-data-generator",
+  "name": "fine-tuning-data-generator",
+  "version": "1.0.0",
+  "summary": "Generates comprehensive synthetic fine-tuning datasets in ChatML format (JSONL) for use with Unsloth, Axolotl, and similar training frameworks. Gathers requirements, creates dat...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "markpitt",
+    "github": "markpitt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/markpitt/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/markpitt/claude-skills/main/skills/fine-tuning-data-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:47.406Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/markpitt%2Fclaude-skills/skills%2Ffine-tuning-data-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_09f999721bae"
+  }
+}

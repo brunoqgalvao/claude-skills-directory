@@ -1,0 +1,35 @@
+{
+  "id": "material-component-doc",
+  "name": "material-component-doc",
+  "version": "1.0.0",
+  "summary": "用于 FlowGram 物料库组件文档撰写的专用技能，提供组件文档生成、Story 创建、翻译等功能的指导和自动化支持",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bytedance",
+    "github": "bytedance"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bytedance/flowgram.ai",
+    "skill_md": "https://raw.githubusercontent.com/bytedance/flowgram.ai/main/.claude/skills/material-component-doc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T15:04:55.000Z",
+  "created_at": "2025-12-23T01:29:22.599Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bytedance%2Fflowgram.ai/.claude%2Fskills%2Fmaterial-component-doc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_07a6bffeee76"
+  }
+}

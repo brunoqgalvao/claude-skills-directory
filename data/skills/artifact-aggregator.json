@@ -1,0 +1,35 @@
+{
+  "id": "artifact-aggregator",
+  "name": "artifact-aggregator",
+  "version": "1.0.0",
+  "summary": "Create tiered reports (micro/standard/comprehensive) based on task complexity. Tier 1 (200-500 words) for Level 1 tasks, Tier 2 (500-1500 words) for Level 2, Tier 3 (1500-5000 w...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djimontyp",
+    "github": "djimontyp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djimontyp/task-tracker",
+    "skill_md": "https://raw.githubusercontent.com/djimontyp/task-tracker/main/.claude/skills-old/artifact-aggregator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.626Z",
+  "created_at": "2025-12-22T23:16:17.108Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djimontyp%2Ftask-tracker/.claude%2Fskills-old%2Fartifact-aggregator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.626Z",
+    "uniqueId": "sk_e9cfcd46f050"
+  }
+}

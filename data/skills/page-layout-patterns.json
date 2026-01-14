@@ -1,0 +1,35 @@
+{
+  "id": "page-layout-patterns",
+  "name": "page-layout-patterns",
+  "version": "1.0.0",
+  "summary": "Standardize page structure - always use MainLayout wrapper, space-y-32 for sections, px-8 py-16 for page padding, responsive grid patterns",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JewelsHovan",
+    "github": "JewelsHovan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JewelsHovan/pain-plus-site",
+    "skill_md": "https://raw.githubusercontent.com/JewelsHovan/pain-plus-site/main/frontend/.claude/skills/page-layout-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-29T23:15:56.000Z",
+  "created_at": "2025-12-23T00:21:32.205Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JewelsHovan%2Fpain-plus-site/frontend%2F.claude%2Fskills%2Fpage-layout-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_a757fe699968"
+  }
+}

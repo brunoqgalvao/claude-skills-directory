@@ -1,0 +1,35 @@
+{
+  "id": "validation-schemas",
+  "name": "validation-schemas",
+  "version": "1.0.0",
+  "summary": "Enforces Head Shakers Zod validation schema conventions when creating or modifying validation schemas. This skill ensures consistent patterns for drizzle-zod integration, custom...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JasonPaff",
+    "github": "JasonPaff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JasonPaff/head-shakers",
+    "skill_md": "https://raw.githubusercontent.com/JasonPaff/head-shakers/main/.claude/skills/validation-schemas/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.889Z",
+  "created_at": "2025-12-19T17:10:49.818Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JasonPaff%2Fhead-shakers/.claude%2Fskills%2Fvalidation-schemas%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_1f32dc54bf42"
+  }
+}

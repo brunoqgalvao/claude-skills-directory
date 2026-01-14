@@ -1,0 +1,35 @@
+{
+  "id": "task-orchestration",
+  "name": "task-orchestration",
+  "version": "1.0.0",
+  "summary": "Documentation-first task execution with quality checks and progress tracking. Use when working with task lists, implementing features, or executing multi-step work to ensure sys...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoutrin",
+    "github": "jpoutrin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoutrin/product-forge",
+    "skill_md": "https://raw.githubusercontent.com/jpoutrin/product-forge/main/plugins/product-design/skills/task-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T10:16:26.000Z",
+  "created_at": "2025-12-22T16:02:42.841Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoutrin%2Fproduct-forge/plugins%2Fproduct-design%2Fskills%2Ftask-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_44c27a22b153"
+  }
+}

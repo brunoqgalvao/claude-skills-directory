@@ -1,0 +1,37 @@
+{
+  "id": "marketing-writer",
+  "name": "marketing-writer",
+  "version": "1.0.0",
+  "summary": "Writes landing-page sections, tweet threads, and launch emails for your app. It auto-reads the codebase to understand what the product does, what just shipped, and why it matter...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rspeciale0519",
+    "github": "rspeciale0519"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rspeciale0519/MailingListManager",
+    "skill_md": "https://raw.githubusercontent.com/rspeciale0519/MailingListManager/main/.claude/skills/marketing-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:40.328Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rspeciale0519%2FMailingListManager/.claude%2Fskills%2Fmarketing-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_e7e55918b02f"
+  }
+}

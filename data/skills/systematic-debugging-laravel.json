@@ -1,0 +1,36 @@
+{
+  "id": "systematic-debugging-laravel",
+  "name": "systematic-debugging-laravel",
+  "version": "1.0.0",
+  "summary": "Systematic debugging process for Laravel applications - ensures root cause investigation before attempting fixes. Use for any Laravel issue (test failures, bugs, unexpected beha...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "iSerter",
+    "github": "iSerter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/iSerter/laravel-claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/iSerter/laravel-claude-agents/main/.claude/skills/systematic-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:00.676Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/iSerter%2Flaravel-claude-agents/.claude%2Fskills%2Fsystematic-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_dc1d63a8a4a4"
+  }
+}

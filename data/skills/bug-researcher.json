@@ -1,0 +1,35 @@
+{
+  "id": "bug-researcher",
+  "name": "bug-researcher",
+  "version": "1.0.0",
+  "summary": "Reproduce bugs and gather evidence for root cause analysis. Use when investigating a bug report to confirm reproduction and collect detailed information about the failure.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pcortes",
+    "github": "pcortes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pcortes/swarm-attack",
+    "skill_md": "https://raw.githubusercontent.com/pcortes/swarm-attack/main/swarm_attack/skills/bug-researcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.805Z",
+  "created_at": "2025-12-22T18:01:38.039Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pcortes%2Fswarm-attack/swarm_attack%2Fskills%2Fbug-researcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.805Z",
+    "uniqueId": "sk_dbac67374438"
+  }
+}

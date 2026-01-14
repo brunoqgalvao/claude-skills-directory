@@ -1,0 +1,35 @@
+{
+  "id": "sports-betting-analyzer",
+  "name": "sports-betting-analyzer",
+  "version": "1.0.0",
+  "summary": "Analyze spreads, over/unders, prop bets. Historical trends, situational stats, value bet identification. For entertainment/education only.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gked2121",
+    "github": "gked2121"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gked2121/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/gked2121/claude-skills/main/sports-betting-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.455Z",
+  "created_at": "2025-12-23T01:28:27.669Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gked2121%2Fclaude-skills/sports-betting-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.455Z",
+    "uniqueId": "sk_16ec9b7dd0a7"
+  }
+}

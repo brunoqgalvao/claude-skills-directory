@@ -1,0 +1,35 @@
+{
+  "id": "imsg",
+  "name": "imsg",
+  "version": "1.0.0",
+  "summary": "iMessage/SMS CLI for listing chats, history, watch, and sending.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "steipete",
+    "github": "steipete"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/steipete/clawdis",
+    "skill_md": "https://raw.githubusercontent.com/steipete/clawdis/main/skills/imsg/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:21:11.002Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/steipete%2Fclawdis/skills%2Fimsg%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_a20c1c56299a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "task-debugger",
+  "name": "task-debugger",
+  "version": "1.0.0",
+  "summary": "Debug and fix failures in Taskcluster tasks. Use this skill when the user asks to debug a task, fix a failing task, or investigate task errors/failures. This skill uses the Task...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ahal",
+    "github": "ahal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ahal/dot-files",
+    "skill_md": "https://raw.githubusercontent.com/ahal/dot-files/main/llm/claude-skills/task-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.504Z",
+  "created_at": "2025-12-23T01:29:22.551Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ahal%2Fdot-files/llm%2Fclaude-skills%2Ftask-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_ad6fd3b3969e"
+  }
+}

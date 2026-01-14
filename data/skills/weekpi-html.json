@@ -1,0 +1,35 @@
+{
+  "id": "weekpi-html",
+  "name": "weekpi-html",
+  "version": "1.0.0",
+  "summary": "华安保险车险周报HTML可视化生成器。将车险周报数据（Excel/CSV/JSON/DuckDB）转化为交互式网页仪表盘，支持标签页切换（经营概览、保费进度、变动成本、损失暴露、费用支出）和下钻分析（机构/客户类别双维度）。采用ECharts图表、响应式布局、麦肯锡配色方案。触发场景：用户上传车险周报数据文件，要求生成HTML可视化网页、交互式仪表盘或...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alongor666",
+    "github": "alongor666"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alongor666/chexianduoweifenxi",
+    "skill_md": "https://raw.githubusercontent.com/alongor666/chexianduoweifenxi/main/.claude/skills/weekpi-html/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.491Z",
+  "created_at": "2025-12-23T01:29:32.903Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alongor666%2Fchexianduoweifenxi/.claude%2Fskills%2Fweekpi-html%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.491Z",
+    "uniqueId": "sk_e96656650fc9"
+  }
+}

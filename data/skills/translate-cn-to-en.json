@@ -1,0 +1,36 @@
+{
+  "id": "translate-cn-to-en",
+  "name": "translate-cn-to-en",
+  "version": "1.0.0",
+  "summary": "Scan and replace Chinese content in project files with English, preserving code logic and original formatting.",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TrueNine",
+    "github": "TrueNine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TrueNine/claude-code-projects",
+    "skill_md": "https://raw.githubusercontent.com/TrueNine/claude-code-projects/main/.factory/skills/translate-cn-to-en/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:59:04.242Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TrueNine%2Fclaude-code-projects/.factory%2Fskills%2Ftranslate-cn-to-en%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_31cc39e730e1"
+  }
+}

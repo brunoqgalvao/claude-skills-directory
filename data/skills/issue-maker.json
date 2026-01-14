@@ -1,0 +1,35 @@
+{
+  "id": "issue-maker",
+  "name": "issue-maker",
+  "version": "1.0.0",
+  "summary": "Create GitHub issues following Pollinations team conventions. Use when asked to create issues, track work, or plan features.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pollinations",
+    "github": "pollinations"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pollinations/pollinations",
+    "skill_md": "https://raw.githubusercontent.com/pollinations/pollinations/main/.claude/skills/issue-maker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T23:34:19.000Z",
+  "created_at": "2025-12-23T01:28:44.908Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pollinations%2Fpollinations/.claude%2Fskills%2Fissue-maker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_a070fe0f6fe8"
+  }
+}

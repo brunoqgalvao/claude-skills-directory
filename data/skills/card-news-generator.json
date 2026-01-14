@@ -1,0 +1,35 @@
+{
+  "id": "card-news-generator",
+  "name": "card-news-generator",
+  "version": "1.0.0",
+  "summary": "Create 600x600 Instagram-style card news series automatically with optional background images. User provides topic, colors, and optional images - Claude generates content and cr...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dayoumin",
+    "github": "dayoumin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dayoumin/Skills",
+    "skill_md": "https://raw.githubusercontent.com/dayoumin/Skills/main/backup/card-news-generator-v2/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T05:58:57.000Z",
+  "created_at": "2025-12-22T20:01:14.634Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dayoumin%2FSkills/backup%2Fcard-news-generator-v2%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_80156b4900db"
+  }
+}

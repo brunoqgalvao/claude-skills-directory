@@ -1,0 +1,36 @@
+{
+  "id": "n8n-code-javascript",
+  "name": "n8n-code-javascript",
+  "version": "1.0.0",
+  "summary": "Write JavaScript code in n8n Code nodes. Use when writing JavaScript in n8n, using $input/$json/$node syntax, making HTTP requests with $helpers, working with dates using DateTi...",
+  "verticals": [
+    "engineering",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "czlonkowski",
+    "github": "czlonkowski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/czlonkowski/n8n-skills",
+    "skill_md": "https://raw.githubusercontent.com/czlonkowski/n8n-skills/main/skills/n8n-code-javascript/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-20T12:20:53.000Z",
+  "created_at": "2025-12-23T01:29:44.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/czlonkowski%2Fn8n-skills/skills%2Fn8n-code-javascript%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.441Z",
+    "uniqueId": "sk_c07d6b235366"
+  }
+}

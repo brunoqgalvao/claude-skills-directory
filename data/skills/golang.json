@@ -1,0 +1,36 @@
+{
+  "id": "golang",
+  "name": "golang",
+  "version": "1.0.0",
+  "summary": "Write idiomatic Go code using Go 1.22+, net/http, goroutines, channels, and standard library. Use for Go files (.go), microservices, HTTP APIs, CLIs, concurrent systems, or clou...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theMickster",
+    "github": "theMickster"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theMickster/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/theMickster/claude-agents/main/plugins/fullstack-software-engineer/skills/golang-pro/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T09:32:00.000Z",
+  "created_at": "2025-12-19T20:41:59.663Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theMickster%2Fclaude-agents/plugins%2Ffullstack-software-engineer%2Fskills%2Fgolang-pro%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_2a010f1c04eb"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "qa-observability",
+  "name": "qa-observability",
+  "version": "1.0.0",
+  "summary": "Production observability and performance engineering with OpenTelemetry, distributed tracing, metrics, logging, SLO/SLI design, capacity planning, performance profiling, APM int...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vasilyu1983",
+    "github": "vasilyu1983"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vasilyu1983/AI-Agents-public",
+    "skill_md": "https://raw.githubusercontent.com/vasilyu1983/AI-Agents-public/main/frameworks/claude-code-kit/framework/skills/qa-observability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.682Z",
+  "created_at": "2025-12-22T22:10:45.459Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vasilyu1983%2FAI-Agents-public/frameworks%2Fclaude-code-kit%2Fframework%2Fskills%2Fqa-observability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.682Z",
+    "uniqueId": "sk_efe8109ddc75"
+  }
+}

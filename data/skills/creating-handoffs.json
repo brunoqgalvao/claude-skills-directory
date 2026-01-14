@@ -1,0 +1,36 @@
+{
+  "id": "creating-handoffs",
+  "name": "creating-handoffs",
+  "version": "1.0.0",
+  "summary": "Creates comprehensive handoff documents for seamless AI agent session transfers. Triggered when: (1) user requests handoff/memory/context save, (2) context window approaches cap...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "galihcitta",
+    "github": "galihcitta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/galihcitta/dotclaudeskills",
+    "skill_md": "https://raw.githubusercontent.com/galihcitta/dotclaudeskills/main/skills/creating-handoffs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T10:15:27.000Z",
+  "created_at": "2025-12-22T18:13:18.110Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/galihcitta%2Fdotclaudeskills/skills%2Fcreating-handoffs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_014dc9c02a66"
+  }
+}

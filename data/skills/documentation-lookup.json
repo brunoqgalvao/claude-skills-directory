@@ -1,0 +1,35 @@
+{
+  "id": "documentation-lookup",
+  "name": "documentation-lookup",
+  "version": "1.0.0",
+  "summary": "Look up library and framework documentation. Use when the user asks about API docs, library usage, framework features, or mentions specific libraries/packages by name.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krmcbride",
+    "github": "krmcbride"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krmcbride/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/krmcbride/claude-plugins/main/essentials/skills/documentation-lookup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T06:14:19.000Z",
+  "created_at": "2025-12-23T01:28:25.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krmcbride%2Fclaude-plugins/essentials%2Fskills%2Fdocumentation-lookup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_d606111c87bb"
+  }
+}

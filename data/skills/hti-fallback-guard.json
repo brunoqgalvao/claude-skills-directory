@@ -1,0 +1,35 @@
+{
+  "id": "hti-fallback-guard",
+  "name": "hti-fallback-guard",
+  "version": "1.0.0",
+  "summary": "In this repo, avoid sloppy fallback logic. Prefer explicit failures, narrow error handling, and clearly marked TODOs over fake success paths.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "moviesR",
+    "github": "moviesR"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/moviesR/hti-zen-harness",
+    "skill_md": "https://raw.githubusercontent.com/moviesR/hti-zen-harness/main/.claude/skills/hti-fallback-guard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:27.493Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/moviesR%2Fhti-zen-harness/.claude%2Fskills%2Fhti-fallback-guard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_b7eccf95509f"
+  }
+}

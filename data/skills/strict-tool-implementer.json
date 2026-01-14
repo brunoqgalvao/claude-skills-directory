@@ -1,0 +1,37 @@
+{
+  "id": "strict-tool-implementer",
+  "name": "strict-tool-implementer",
+  "version": "1.0.0",
+  "summary": "Use PROACTIVELY when building multi-step agentic workflows with validated tool parameters. Implements Anthropic's strict tool use mode for guaranteed schema compliance. Covers t...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cskiro",
+    "github": "cskiro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cskiro/claudex",
+    "skill_md": "https://raw.githubusercontent.com/cskiro/claudex/main/skills/strict-tool-implementer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:04:56.996Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cskiro%2Fclaudex/skills%2Fstrict-tool-implementer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_97f515f99508"
+  }
+}

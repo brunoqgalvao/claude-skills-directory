@@ -1,0 +1,37 @@
+{
+  "id": "flox-containers",
+  "name": "flox-containers",
+  "version": "1.0.0",
+  "summary": "Containerizing Flox environments with Docker/Podman. Use for creating container images, OCI exports, multi-stage builds, and deployment workflows.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "flox",
+    "github": "flox"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/flox/flox-agentic",
+    "skill_md": "https://raw.githubusercontent.com/flox/flox-agentic/main/flox-plugin/skills/flox-containers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:02:09.217Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/flox%2Fflox-agentic/flox-plugin%2Fskills%2Fflox-containers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_6f8090e7712f"
+  }
+}

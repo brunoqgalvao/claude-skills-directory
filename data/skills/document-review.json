@@ -1,0 +1,35 @@
+{
+  "id": "document-review",
+  "name": "document-review",
+  "version": "1.0.0",
+  "summary": "Review legal documents as an experienced attorney. Analyzes contracts, ToS, privacy policies, NDAs, and corporate docs section-by-section. Identifies risks, gaps, and unfavorabl...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majesticlabs-dev",
+    "github": "majesticlabs-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majesticlabs-dev/majestic-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/majesticlabs-dev/majestic-marketplace/main/plugins/majestic-company/skills/legal/document-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T06:49:00.000Z",
+  "created_at": "2025-12-23T01:28:53.793Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majesticlabs-dev%2Fmajestic-marketplace/plugins%2Fmajestic-company%2Fskills%2Flegal%2Fdocument-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_4faf1e384495"
+  }
+}

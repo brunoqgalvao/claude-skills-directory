@@ -1,0 +1,35 @@
+{
+  "id": "mascot-integrator",
+  "name": "mascot-integrator",
+  "version": "1.0.0",
+  "summary": "Integrate the emotive-mascot into new use cases, applications, and frameworks. Use when adding mascot to a new page, creating custom interactions, or setting up framework-specif...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshtol",
+    "github": "joshtol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshtol/emotive-engine",
+    "skill_md": "https://raw.githubusercontent.com/joshtol/emotive-engine/main/skills/mascot-integrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-21T20:39:05.000Z",
+  "created_at": "2025-12-23T01:29:36.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshtol%2Femotive-engine/skills%2Fmascot-integrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_db1f8fa39593"
+  }
+}

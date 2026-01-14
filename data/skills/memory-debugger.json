@@ -1,0 +1,36 @@
+{
+  "id": "memory-debugger",
+  "name": "memory-debugger",
+  "version": "1.0.0",
+  "summary": "Debug TraitorSim agent memory systems including profile.md, diary entries, trust matrices (suspects.csv), and SKILL.md files. Use when troubleshooting agent behaviors, inspectin...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rickoslyder",
+    "github": "rickoslyder"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rickoslyder/TraitorSim",
+    "skill_md": "https://raw.githubusercontent.com/rickoslyder/TraitorSim/main/.claude/skills/memory-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.484Z",
+  "created_at": "2025-12-23T01:29:40.780Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rickoslyder%2FTraitorSim/.claude%2Fskills%2Fmemory-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.484Z",
+    "uniqueId": "sk_0d4bf0d63e84"
+  }
+}

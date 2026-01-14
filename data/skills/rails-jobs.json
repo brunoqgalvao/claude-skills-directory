@@ -1,0 +1,35 @@
+{
+  "id": "rails-jobs",
+  "name": "rails-jobs",
+  "version": "1.0.0",
+  "summary": "Rails background job patterns for Sidekiq/ActiveJob. Use when creating jobs, handling job errors, or debugging async issues. Covers thin jobs, error strategies, and naming conve...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stephendolan",
+    "github": "stephendolan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stephendolan/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/stephendolan/dotfiles/main/claude/skills/rails-jobs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T16:12:56.000Z",
+  "created_at": "2025-12-23T01:29:05.381Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stephendolan%2Fdotfiles/claude%2Fskills%2Frails-jobs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_846313fc8e1c"
+  }
+}

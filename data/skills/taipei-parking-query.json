@@ -1,0 +1,36 @@
+{
+  "id": "taipei-parking-query",
+  "name": "taipei-parking-query",
+  "version": "1.0.0",
+  "summary": "Query real-time parking availability in Taipei City. Shows available parking spaces, capacity, status (green/available, orange/moderate, red/full), address, phone, and payment i...",
+  "verticals": [
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tzangms",
+    "github": "tzangms"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tzangms/uparkinlot",
+    "skill_md": "https://raw.githubusercontent.com/tzangms/uparkinlot/main/.claude/skills/taipei-parking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T04:12:07.000Z",
+  "created_at": "2025-12-23T01:28:52.460Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tzangms%2Fuparkinlot/.claude%2Fskills%2Ftaipei-parking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_730faec0ecad"
+  }
+}

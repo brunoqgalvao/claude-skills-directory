@@ -1,0 +1,35 @@
+{
+  "id": "drupal-config-mgmt",
+  "name": "drupal-config-mgmt",
+  "version": "1.0.0",
+  "summary": "Safe patterns for inspecting and syncing Drupal configuration across environments without accidentally importing changes.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "grasmash",
+    "github": "grasmash"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/grasmash/drupal-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/grasmash/drupal-claude-skills/main/.claude/skills/drupal-config-mgmt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T19:28:23.000Z",
+  "created_at": "2025-12-23T01:28:51.092Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/grasmash%2Fdrupal-claude-skills/.claude%2Fskills%2Fdrupal-config-mgmt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.548Z",
+    "uniqueId": "sk_7cb8899da0e7"
+  }
+}

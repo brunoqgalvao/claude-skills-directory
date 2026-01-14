@@ -1,0 +1,37 @@
+{
+  "id": "n8n-v2",
+  "name": "n8n-v2",
+  "version": "1.0.0",
+  "summary": "Comprehensive n8n v2.0 reference for building workflow automation. Use this skill when working with n8n workflows, especially for (1) creating workflow JSON files for import, (2...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "splinesreticulating",
+    "github": "splinesreticulating"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/splinesreticulating/n8n-v2-workflow-skill",
+    "skill_md": "https://raw.githubusercontent.com/splinesreticulating/n8n-v2-workflow-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T17:54:37.000Z",
+  "created_at": "2025-12-22T19:10:43.532Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/splinesreticulating%2Fn8n-v2-workflow-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_1d8b2ca6b660"
+  }
+}

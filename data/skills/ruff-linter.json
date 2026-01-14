@@ -1,0 +1,35 @@
+{
+  "id": "ruff-linter",
+  "name": "ruff-linter",
+  "version": "1.0.0",
+  "summary": "Pythonコードのリンタ、フォーマッタ、コードレビュー。Pythonファイル(.py)を編集・作成・修正した後に必ず実行する。ruffによる品質チェックとフォーマット、さらにコードレビューを行い問題があれば修正する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kagiyama-baking",
+    "github": "kagiyama-baking"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kagiyama-baking/kawashiro-server",
+    "skill_md": "https://raw.githubusercontent.com/kagiyama-baking/kawashiro-server/main/.claude/skills/ruff-linter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:38.974Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kagiyama-baking%2Fkawashiro-server/.claude%2Fskills%2Fruff-linter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_c97af54af9e6"
+  }
+}

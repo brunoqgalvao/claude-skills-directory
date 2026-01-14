@@ -1,0 +1,36 @@
+{
+  "id": "web-developer-work-skill",
+  "name": "web-developer-work-skill",
+  "version": "1.0.0",
+  "summary": "Persistent context management system for web developers that never loses work between Claude Desktop sessions. Features automatic context backup, work session continuity, projec...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "scaroll",
+    "github": "scaroll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/scaroll/pgclosets-store",
+    "skill_md": "https://raw.githubusercontent.com/scaroll/pgclosets-store/main/web-developer-work-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T01:27:26.000Z",
+  "created_at": "2025-12-23T01:29:25.998Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/scaroll%2Fpgclosets-store/web-developer-work-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_732ac3a88313"
+  }
+}

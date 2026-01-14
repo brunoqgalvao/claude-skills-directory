@@ -1,0 +1,36 @@
+{
+  "id": "assistant-juridique-fr",
+  "name": "assistant-juridique-fr",
+  "version": "1.0.0",
+  "summary": "Compétence optimisant Claude pour des tâches juridiques en droit français (Version 5.0). Utiliser lorsque l'utilisateur demande une assistance juridique, une analyse de droit fr...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ekatche",
+    "github": "Ekatche"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ekatche/FileNamer",
+    "skill_md": "https://raw.githubusercontent.com/Ekatche/FileNamer/main/backend/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.604Z",
+  "created_at": "2025-12-23T00:04:12.538Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ekatche%2FFileNamer/backend%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.604Z",
+    "uniqueId": "sk_c8428d7bdee9"
+  }
+}

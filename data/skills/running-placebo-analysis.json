@@ -1,0 +1,35 @@
+{
+  "id": "running-placebo-analysis",
+  "name": "running-placebo-analysis",
+  "version": "1.0.0",
+  "summary": "Performs placebo-in-time sensitivity analysis to validate causal claims. Use when checking model robustness, verifying lack of pre-intervention effects, or ensuring observed eff...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pymc-labs",
+    "github": "pymc-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pymc-labs/CausalPy",
+    "skill_md": "https://raw.githubusercontent.com/pymc-labs/CausalPy/main/.claude/skills/running-placebo-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.576Z",
+  "created_at": "2025-12-23T01:28:24.997Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pymc-labs%2FCausalPy/.claude%2Fskills%2Frunning-placebo-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.576Z",
+    "uniqueId": "sk_439f8046a976"
+  }
+}

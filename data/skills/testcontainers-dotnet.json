@@ -1,0 +1,35 @@
+{
+  "id": "testcontainers-dotnet",
+  "name": "testcontainers-dotnet",
+  "version": "1.0.0",
+  "summary": ".NET integration testing with Testcontainers, xUnit v3, and Moq.\nUse when writing unit or integration tests for .NET applications that need:\n- Docker container fixtures (Postgre...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ANcpLua",
+    "github": "ANcpLua"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ANcpLua/ancplua-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/ANcpLua/ancplua-claude-plugins/main/plugins/testcontainers-dotnet/skills/testcontainers-dotnet/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.804Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ANcpLua%2Fancplua-claude-plugins/plugins%2Ftestcontainers-dotnet%2Fskills%2Ftestcontainers-dotnet%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_cc3bd6104094"
+  }
+}

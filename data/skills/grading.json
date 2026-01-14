@@ -1,0 +1,35 @@
+{
+  "id": "grading",
+  "name": "grading",
+  "version": "1.0.0",
+  "summary": "Evaluates document relevance to queries using binary scoring (yes/no) with reasoning. Use when filtering retrieved documents, determining relevance for answer generation, or whe...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "edangx100",
+    "github": "edangx100"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/edangx100/adaptive_rag_vercel",
+    "skill_md": "https://raw.githubusercontent.com/edangx100/adaptive_rag_vercel/main/.claude/skills/grading/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:39.937Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/edangx100%2Fadaptive_rag_vercel/.claude%2Fskills%2Fgrading%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_dca99acc9204"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "security-devops",
+  "name": "security-devops",
+  "version": "1.0.0",
+  "summary": "Container security, secret management, compliance, and secure infrastructure.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-machine-learning",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-machine-learning/main/skills/cloud-devops/security-devops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:12.194Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-machine-learning/skills%2Fcloud-devops%2Fsecurity-devops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_c1bad7cea94c"
+  }
+}

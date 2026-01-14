@@ -1,0 +1,35 @@
+{
+  "id": "deepseek-reasoning",
+  "name": "deepseek-reasoning",
+  "version": "1.0.0",
+  "summary": "DeepSeek special model reasoning bridge - Advanced multi-step reasoning via MCP, bridging devuser to deepseek-user for complex problem-solving with structured Chain-of-Thought o...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/sindri",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/sindri/main/docker/lib/extensions/vf-deepseek-reasoning/resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:59:57.689Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fsindri/docker%2Flib%2Fextensions%2Fvf-deepseek-reasoning%2Fresources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_eef04255945d"
+  }
+}

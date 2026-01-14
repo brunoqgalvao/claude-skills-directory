@@ -1,0 +1,36 @@
+{
+  "id": "effective-java",
+  "name": "effective-java",
+  "version": "1.0.0",
+  "summary": "Java best practices guide based on Effective Java. Use when reviewing Java code, discussing design patterns, object creation, equals/hashCode, Optional, Stream API, exception ha...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xinqilin",
+    "github": "xinqilin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xinqilin/claude-dev-toolkit-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/xinqilin/claude-dev-toolkit-marketplace/main/plugins/bill-java-skills/skills/effective-java/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:15:54.576Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xinqilin%2Fclaude-dev-toolkit-marketplace/plugins%2Fbill-java-skills%2Fskills%2Feffective-java%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_2e4206387457"
+  }
+}

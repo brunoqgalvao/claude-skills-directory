@@ -1,0 +1,35 @@
+{
+  "id": "weavr-simulator",
+  "name": "weavr-simulator",
+  "version": "1.0.0",
+  "summary": "Use when testing Weavr integrations in sandbox - simulate deposits, card transactions, KYC/KYB verification, wire transfers, and 2FA challenges",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/weavr-data-generator",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/weavr-data-generator/main/.claude/skills/weavr-simulator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:33.376Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fweavr-data-generator/.claude%2Fskills%2Fweavr-simulator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_2e7f8957514d"
+  }
+}

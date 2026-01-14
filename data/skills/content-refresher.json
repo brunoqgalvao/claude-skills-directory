@@ -1,0 +1,35 @@
+{
+  "id": "content-refresher",
+  "name": "content-refresher",
+  "version": "1.0.0",
+  "summary": "Identifies and updates outdated content to restore and improve search rankings. Analyzes content freshness, adds new information, updates statistics, and optimizes for current S...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aaron-he-zhu",
+    "github": "aaron-he-zhu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aaron-he-zhu/seo-geo-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/aaron-he-zhu/seo-geo-claude-skills/main/optimize/content-refresher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:04:06.512Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aaron-he-zhu%2Fseo-geo-claude-skills/optimize%2Fcontent-refresher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_22667231ed99"
+  }
+}

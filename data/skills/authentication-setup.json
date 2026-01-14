@@ -1,0 +1,35 @@
+{
+  "id": "authentication-setup",
+  "name": "authentication-setup",
+  "version": "1.0.0",
+  "summary": "Implement JWT authentication with bcrypt password hashing, refresh tokens, account lockout, and password reset flow. Use when setting up authentication or login system.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PrasadTelasula",
+    "github": "PrasadTelasula"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PrasadTelasula/EvokeQOne",
+    "skill_md": "https://raw.githubusercontent.com/PrasadTelasula/EvokeQOne/main/.claude/skills/authentication-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:56:47.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PrasadTelasula%2FEvokeQOne/.claude%2Fskills%2Fauthentication-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_0a98b47084fc"
+  }
+}

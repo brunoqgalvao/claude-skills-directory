@@ -1,0 +1,35 @@
+{
+  "id": "document-orchestrator",
+  "name": "document-orchestrator",
+  "version": "1.0.0",
+  "summary": "Generate structured markdown documents (PRDs, tasks, investigation plans) from templates based on workflow type. Creates directory structure and manages document lifecycle for f...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timogilvie",
+    "github": "timogilvie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timogilvie/claude-workflow",
+    "skill_md": "https://raw.githubusercontent.com/timogilvie/claude-workflow/main/skills/document-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:58:18.380Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timogilvie%2Fclaude-workflow/skills%2Fdocument-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_d66e456e0521"
+  }
+}

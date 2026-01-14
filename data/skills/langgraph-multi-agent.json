@@ -1,0 +1,37 @@
+{
+  "id": "langgraph-multi-agent",
+  "name": "langgraph-multi-agent",
+  "version": "1.0.0",
+  "summary": "Multi-agent architectures with LangGraph. Use when building systems with multiple collaborating agents, implementing supervisor or swarm patterns, creating hierarchical agent wo...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rozwer",
+    "github": "rozwer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rozwer/cross2B-Pro",
+    "skill_md": "https://raw.githubusercontent.com/rozwer/cross2B-Pro/main/.claude/skills/langgraph-multi-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:30:15.900Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rozwer%2Fcross2B-Pro/.claude%2Fskills%2Flanggraph-multi-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_b686b1829bed"
+  }
+}

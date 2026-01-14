@@ -1,0 +1,35 @@
+{
+  "id": "knowledge-worker-salaries",
+  "name": "knowledge-worker-salaries",
+  "version": "1.0.0",
+  "summary": "Comprehensive global knowledge worker salary data with total market value calculations, sector breakdowns, geographic comparisons, and authoritative sources. USE WHEN discussing...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielmiessler",
+    "github": "danielmiessler"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielmiessler/Substrate",
+    "skill_md": "https://raw.githubusercontent.com/danielmiessler/Substrate/main/Data/Knowledge-Worker-Global-Salaries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-20T03:02:58.000Z",
+  "created_at": "2025-12-23T01:29:35.557Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielmiessler%2FSubstrate/Data%2FKnowledge-Worker-Global-Salaries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_c0b202541dd6"
+  }
+}

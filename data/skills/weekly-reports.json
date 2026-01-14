@@ -1,0 +1,36 @@
+{
+  "id": "weekly-reports",
+  "name": "weekly-reports",
+  "version": "1.0.0",
+  "summary": "Génération et mise à jour de rapports hebdomadaires avec CFD (Cumulative Flow Diagram). Activer ce skill quand l'utilisateur parle de récapitulatif, bilan hebdomadaire, rapport ...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bastien-gallay",
+    "github": "bastien-gallay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bastien-gallay/cv-bastien-gallay",
+    "skill_md": "https://raw.githubusercontent.com/bastien-gallay/cv-bastien-gallay/main/.claude/skills/weekly-reports/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:30.530Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bastien-gallay%2Fcv-bastien-gallay/.claude%2Fskills%2Fweekly-reports%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_f5a1d2d45ce9"
+  }
+}

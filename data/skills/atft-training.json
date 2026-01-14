@@ -1,0 +1,35 @@
+{
+  "id": "atft-training",
+  "name": "atft-training",
+  "version": "1.0.0",
+  "summary": "Run and monitor ATFT-GAT-FAN training loops, hyper-parameter sweeps, and safety modes on A100 GPUs.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wer-inc",
+    "github": "wer-inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wer-inc/gogooku3",
+    "skill_md": "https://raw.githubusercontent.com/wer-inc/gogooku3/main/claude/skills/atft-training/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:00:19.101Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wer-inc%2Fgogooku3/claude%2Fskills%2Fatft-training%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_85367be48814"
+  }
+}

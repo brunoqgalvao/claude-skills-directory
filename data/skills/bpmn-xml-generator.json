@@ -1,0 +1,37 @@
+{
+  "id": "bpmn-xml-generator",
+  "name": "bpmn-xml-generator",
+  "version": "1.0.0",
+  "summary": "Generate BPMN 2.0 compliant XML files from natural language process descriptions. Use this skill when a user wants to create a BPMN workflow, convert a business process to BPMN ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "davistroy",
+    "github": "davistroy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/davistroy/bpmn",
+    "skill_md": "https://raw.githubusercontent.com/davistroy/bpmn/main/.claude/skills/bpmn-xml-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.626Z",
+  "created_at": "2025-12-22T23:16:16.214Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/davistroy%2Fbpmn/.claude%2Fskills%2Fbpmn-xml-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.626Z",
+    "uniqueId": "sk_838c817f8bb9"
+  }
+}

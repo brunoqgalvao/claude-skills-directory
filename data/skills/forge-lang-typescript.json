@@ -1,0 +1,35 @@
+{
+  "id": "forge-lang-typescript",
+  "name": "forge-lang-typescript",
+  "version": "1.0.0",
+  "summary": "TypeScript development standards including type checking, jest/vitest, eslint, and prettier. Use when working with TypeScript files, tsconfig.json, or .ts/.tsx files.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "martimramos",
+    "github": "martimramos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/martimramos/claude-forge",
+    "skill_md": "https://raw.githubusercontent.com/martimramos/claude-forge/main/skills/languages/typescript/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:29.738Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/martimramos%2Fclaude-forge/skills%2Flanguages%2Ftypescript%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_7df43ee56f53"
+  }
+}

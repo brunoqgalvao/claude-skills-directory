@@ -1,0 +1,36 @@
+{
+  "id": "test-limacharlie-adapter",
+  "name": "test-limacharlie-adapter",
+  "version": "1.0.0",
+  "summary": "Deploy a temporary LimaCharlie Adapter on the local Linux or Mac OS host for testing log ingestion. Downloads the adapter, auto-detects log sources, and streams them to your Lim...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "refractionPOINT",
+    "github": "refractionPOINT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/refractionPOINT/lc-ai",
+    "skill_md": "https://raw.githubusercontent.com/refractionPOINT/lc-ai/main/marketplace/plugins/lc-essentials/skills/test-limacharlie-adapter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.478Z",
+  "created_at": "2025-12-23T01:29:46.224Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/refractionPOINT%2Flc-ai/marketplace%2Fplugins%2Flc-essentials%2Fskills%2Ftest-limacharlie-adapter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_f77d7ec8908c"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "citrix-storefront-deployment",
+  "name": "citrix-storefront-deployment",
+  "version": "1.0.0",
+  "summary": "StoreFront deployment planning, configuration, and security hardening. Use when planning StoreFront infrastructure, configuring stores and authentication, setting up server grou...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dray86",
+    "github": "dray86"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dray86/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/dray86/claude-agents/main/.claude/skills/citrix-storefront-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T22:14:59.000Z",
+  "created_at": "2025-12-22T18:15:53.801Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dray86%2Fclaude-agents/.claude%2Fskills%2Fcitrix-storefront-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_293d0a3a88c5"
+  }
+}

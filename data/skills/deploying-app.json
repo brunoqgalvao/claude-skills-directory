@@ -1,0 +1,35 @@
+{
+  "id": "deploying-app",
+  "name": "deploying-app",
+  "version": "1.0.0",
+  "summary": "deploy the Wasp app to Railway or Fly.io using Wasp CLI.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wasp-lang",
+    "github": "wasp-lang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wasp-lang/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/wasp-lang/claude-plugins/main/plugins/wasp/skills/deploying-app/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T20:55:43.000Z",
+  "created_at": "2025-12-23T01:28:23.012Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wasp-lang%2Fclaude-plugins/plugins%2Fwasp%2Fskills%2Fdeploying-app%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_0e83c915b5ed"
+  }
+}

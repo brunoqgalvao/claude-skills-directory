@@ -1,0 +1,35 @@
+{
+  "id": "ansible-fix",
+  "name": "ansible-fix",
+  "version": "1.0.0",
+  "summary": "ALWAYS use this skill immediately after running 'ansible-galaxy init' to create a new Ansible role. Also use when the user asks to fix ansible-lint errors or when ansible-lint o...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jphetphoumy",
+    "github": "jphetphoumy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jphetphoumy/skillstack",
+    "skill_md": "https://raw.githubusercontent.com/jphetphoumy/skillstack/main/skills/ansible-fix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T21:09:05.000Z",
+  "created_at": "2025-12-22T17:11:46.711Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jphetphoumy%2Fskillstack/skills%2Fansible-fix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_f668cbf6f0a2"
+  }
+}

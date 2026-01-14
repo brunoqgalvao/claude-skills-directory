@@ -1,0 +1,37 @@
+{
+  "id": "backend-vitest",
+  "name": "backend-vitest",
+  "version": "1.0.0",
+  "summary": "Fast unit testing framework for TypeScript/JavaScript. Use for testing tRPC procedures, Zod schemas, utility functions, and any TypeScript code. Built on Vite with native ESM, T...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "petbrains",
+    "github": "petbrains"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/petbrains/mvp-builder",
+    "skill_md": "https://raw.githubusercontent.com/petbrains/mvp-builder/main/.claude/skills/backend-vitest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.451Z",
+  "created_at": "2025-12-23T01:29:34.798Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/petbrains%2Fmvp-builder/.claude%2Fskills%2Fbackend-vitest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.451Z",
+    "uniqueId": "sk_37d80e7e0a94"
+  }
+}

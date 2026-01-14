@@ -1,0 +1,36 @@
+{
+  "id": "tracking-crypto-prices",
+  "name": "tracking-crypto-prices",
+  "version": "1.0.0",
+  "summary": "Track real-time cryptocurrency prices across exchanges with historical data and alerts.\nUse when monitoring real-time cryptocurrency prices.\nTrigger with phrases like \"check pri...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/crypto/market-price-tracker/skills/market-price-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T17:59:49.897Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fcrypto%2Fmarket-price-tracker%2Fskills%2Fmarket-price-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.888Z",
+    "uniqueId": "sk_06e36d8af32e"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "patent-claims-analyzer",
+  "name": "patent-claims-analyzer",
+  "version": "1.0.0",
+  "summary": "Automated analysis of patent claims for USPTO compliance with 35 USC 112(b) requirements - antecedent basis, definiteness, claim structure",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RobThePCGuy",
+    "github": "RobThePCGuy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RobThePCGuy/Claude-Patent-Creator",
+    "skill_md": "https://raw.githubusercontent.com/RobThePCGuy/Claude-Patent-Creator/main/skills/patent-claims-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:08:33.168Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RobThePCGuy%2FClaude-Patent-Creator/skills%2Fpatent-claims-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_be35eabbe3a3"
+  }
+}

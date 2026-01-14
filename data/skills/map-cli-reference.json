@@ -1,0 +1,37 @@
+{
+  "id": "map-cli-reference",
+  "name": "map-cli-reference",
+  "version": "1.0.0",
+  "summary": "Use when encountering mapify CLI command errors (no such option, no such command, parameter not found) or need quick reference for correct command syntax. Provides mapify playbo...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "azalio",
+    "github": "azalio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/azalio/map-framework",
+    "skill_md": "https://raw.githubusercontent.com/azalio/map-framework/main/src/mapify_cli/templates/skills/map-cli-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T08:43:43.000Z",
+  "created_at": "2025-12-23T01:29:19.932Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/azalio%2Fmap-framework/src%2Fmapify_cli%2Ftemplates%2Fskills%2Fmap-cli-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_af15cd6267a9"
+  }
+}

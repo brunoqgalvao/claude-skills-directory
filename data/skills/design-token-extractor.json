@@ -1,0 +1,35 @@
+{
+  "id": "design-token-extractor",
+  "name": "design-token-extractor",
+  "version": "1.0.0",
+  "summary": "Extracts design tokens from images and generates CSS custom properties, atomic utility classes (Tailwind-style), and platform-specific formats following W3C standards and modern...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shawn-sandy",
+    "github": "shawn-sandy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shawn-sandy/skills",
+    "skill_md": "https://raw.githubusercontent.com/shawn-sandy/skills/main/design-token-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:23.946Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shawn-sandy%2Fskills/design-token-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_48bc5ce4e73d"
+  }
+}

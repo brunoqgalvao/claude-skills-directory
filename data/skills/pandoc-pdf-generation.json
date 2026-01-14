@@ -1,0 +1,36 @@
+{
+  "id": "pandoc-pdf-generation",
+  "name": "pandoc-pdf-generation",
+  "version": "1.0.0",
+  "summary": "Use when writing markdown intended for PDF output, creating PDFs from markdown, or printing PDFs. Invoke EARLY when authoring markdown for PDF to prevent mistakes (manual headin...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/doc-build-tools/skills/pandoc-pdf-generation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T00:09:17.000Z",
+  "created_at": "2025-12-23T01:29:16.459Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fdoc-build-tools%2Fskills%2Fpandoc-pdf-generation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_9076681851a6"
+  }
+}

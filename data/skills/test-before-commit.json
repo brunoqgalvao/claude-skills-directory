@@ -1,0 +1,35 @@
+{
+  "id": "test-before-commit",
+  "name": "test-before-commit",
+  "version": "1.0.0",
+  "summary": "Enforces running unit tests and linting before committing code changes in the unsealed-networks repository",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "unsealed-networks",
+    "github": "unsealed-networks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/unsealed-networks/unsealed-networks",
+    "skill_md": "https://raw.githubusercontent.com/unsealed-networks/unsealed-networks/main/.claude/skills/test_before_commit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T17:02:30.000Z",
+  "created_at": "2025-12-22T15:08:33.344Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/unsealed-networks%2Funsealed-networks/.claude%2Fskills%2Ftest_before_commit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_34bc6a587b1a"
+  }
+}

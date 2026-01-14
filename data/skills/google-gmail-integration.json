@@ -1,0 +1,37 @@
+{
+  "id": "google-gmail-integration",
+  "name": "google-gmail-integration",
+  "version": "1.0.0",
+  "summary": "Manages Gmail through the Gmail API. Search and read emails, send messages, manage labels and filters, handle attachments, and automate email workflows. Use when working with Gm...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astoreyai",
+    "github": "astoreyai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astoreyai/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/astoreyai/claude-skills/main/skills/google/google-gmail-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T20:35:12.000Z",
+  "created_at": "2025-12-23T01:29:44.941Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astoreyai%2Fclaude-skills/skills%2Fgoogle%2Fgoogle-gmail-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_8810a2ce24d7"
+  }
+}

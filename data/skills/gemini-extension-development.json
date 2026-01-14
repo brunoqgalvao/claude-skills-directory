@@ -1,0 +1,36 @@
+{
+  "id": "gemini-extension-development",
+  "name": "gemini-extension-development",
+  "version": "1.0.0",
+  "summary": "Expert guide for building and managing Gemini CLI Extensions. Covers extension anatomy, GEMINI.md context, commands, MCP integration, and publishing. Use when creating Gemini ex...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/google-ecosystem/skills/gemini-extension-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:01:52.331Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fgoogle-ecosystem%2Fskills%2Fgemini-extension-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_01ed2f908149"
+  }
+}

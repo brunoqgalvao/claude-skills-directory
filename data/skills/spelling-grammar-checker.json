@@ -1,0 +1,36 @@
+{
+  "id": "spelling-grammar-checker",
+  "name": "spelling-grammar-checker",
+  "version": "1.0.0",
+  "summary": "Spelling & grammar checker skill: analyze documentation, UI strings, comments, and other user-facing text for spelling, grammar, clarity, and style. Produce a structured validat...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "warpcode",
+    "github": "warpcode"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/warpcode/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/warpcode/dotfiles/main/generic/.config/opencode/skills/spelling-grammar-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:26.015Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/warpcode%2Fdotfiles/generic%2F.config%2Fopencode%2Fskills%2Fspelling-grammar-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_32aff01c3b9d"
+  }
+}

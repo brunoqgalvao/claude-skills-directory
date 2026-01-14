@@ -1,0 +1,35 @@
+{
+  "id": "pr-create-skill-skill",
+  "name": "pr-create-skill-skill",
+  "version": "1.0.0",
+  "summary": "明示的に呼び出されたときにのみ読み込みます。エージェントが自律的に呼び出す必要はありません。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rimanem18",
+    "github": "rimanem18"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rimanem18/hoxt-backlog",
+    "skill_md": "https://raw.githubusercontent.com/rimanem18/hoxt-backlog/main/.claude/skills/pr-create-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T13:30:57.000Z",
+  "created_at": "2025-12-23T01:28:22.319Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rimanem18%2Fhoxt-backlog/.claude%2Fskills%2Fpr-create-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_94a9b4ace4d9"
+  }
+}

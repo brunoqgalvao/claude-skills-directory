@@ -1,0 +1,35 @@
+{
+  "id": "git-doc-updater",
+  "name": "git-doc-updater",
+  "version": "1.0.0",
+  "summary": "Auto-check and update key documentation before Git commits to keep docs in sync with code.\nLOAD THIS SKILL WHEN: Before git commit/push | User says \"準備提交\", \"sync docs\", \"發布\", \"r...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "u9401066",
+    "github": "u9401066"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/u9401066/copilot-capability-manager",
+    "skill_md": "https://raw.githubusercontent.com/u9401066/copilot-capability-manager/main/.claude/skills/git-doc-updater/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:54:48.108Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/u9401066%2Fcopilot-capability-manager/.claude%2Fskills%2Fgit-doc-updater%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_afea3f212d83"
+  }
+}

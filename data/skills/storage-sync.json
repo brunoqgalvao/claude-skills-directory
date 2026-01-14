@@ -1,0 +1,35 @@
+{
+  "id": "storage-sync",
+  "name": "storage-sync",
+  "version": "1.0.0",
+  "summary": "Synchronize memories between Turso (durable) and redb (cache) storage layers. Use when cache appears stale, after failures, or during periodic maintenance.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-o-hub",
+    "github": "d-o-hub"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-o-hub/rust-self-learning-memory",
+    "skill_md": "https://raw.githubusercontent.com/d-o-hub/rust-self-learning-memory/main/.claude/skills/storage-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:10:51.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-o-hub%2Frust-self-learning-memory/.claude%2Fskills%2Fstorage-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_8d25571e6f21"
+  }
+}

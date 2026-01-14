@@ -1,0 +1,35 @@
+{
+  "id": "wavecap-search",
+  "name": "wavecap-search",
+  "version": "1.0.0",
+  "summary": "Search WaveCap transcriptions with text queries and filters. Use when the user wants to find specific transcriptions, search for keywords, or query transcription history.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TobiasWooldridge",
+    "github": "TobiasWooldridge"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TobiasWooldridge/WaveCap",
+    "skill_md": "https://raw.githubusercontent.com/TobiasWooldridge/WaveCap/main/.claude/skills/wavecap-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T06:13:10.000Z",
+  "created_at": "2025-12-22T16:29:03.641Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TobiasWooldridge%2FWaveCap/.claude%2Fskills%2Fwavecap-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_ddb9b0d046cc"
+  }
+}

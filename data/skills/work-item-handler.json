@@ -1,0 +1,35 @@
+{
+  "id": "work-item-handler",
+  "name": "work-item-handler",
+  "version": "1.0.0",
+  "summary": "Fetch and manage work items from issue trackers. Use this skill when:\n- User references an issue number (#42, PROJ-123)\n- User asks about requirements or acceptance criteria\n- U...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "flexion",
+    "github": "flexion"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/flexion/claude-domestique",
+    "skill_md": "https://raw.githubusercontent.com/flexion/claude-domestique/main/onus/skills/work-item-handler/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:35.786Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/flexion%2Fclaude-domestique/onus%2Fskills%2Fwork-item-handler%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_03a7932c15a7"
+  }
+}

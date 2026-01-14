@@ -1,0 +1,37 @@
+{
+  "id": "home-assistant-manager",
+  "name": "home-assistant-manager",
+  "version": "1.0.0",
+  "summary": "Expert-level Home Assistant configuration management with efficient deployment workflows (git and rapid scp iteration), remote CLI access via SSH and hass-cli, automation verifi...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shelken",
+    "github": "shelken"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shelken/home-ops",
+    "skill_md": "https://raw.githubusercontent.com/shelken/home-ops/main/.claude/skills/homeassistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T23:04:26.342Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shelken%2Fhome-ops/.claude%2Fskills%2Fhomeassistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_21e4dec7905a"
+  }
+}

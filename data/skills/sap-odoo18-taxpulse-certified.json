@@ -1,0 +1,35 @@
+{
+  "id": "sap-odoo18-taxpulse-certified",
+  "name": "sap-odoo18-taxpulse-certified",
+  "version": "1.0.0",
+  "summary": "End-to-end ERP + tax intelligence engineer skill: SAP Business One functional parity, Odoo 18 CE/OCA-compliant implementation, and deep Finance Tax Pulse (PH tax) integration.",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jgtolentino",
+    "github": "jgtolentino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jgtolentino/TaxPulse-PH-Pack",
+    "skill_md": "https://raw.githubusercontent.com/jgtolentino/TaxPulse-PH-Pack/main/skills/sap-odoo18-taxpulse-certified/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:35.965Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jgtolentino%2FTaxPulse-PH-Pack/skills%2Fsap-odoo18-taxpulse-certified%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_c08559c0c226"
+  }
+}

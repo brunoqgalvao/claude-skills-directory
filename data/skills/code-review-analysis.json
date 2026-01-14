@@ -1,0 +1,35 @@
+{
+  "id": "code-review-analysis",
+  "name": "code-review-analysis",
+  "version": "1.0.0",
+  "summary": "Perform comprehensive code reviews with best practices, security checks, and constructive feedback. Use when reviewing pull requests, analyzing code quality, checking for securi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/code-review-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T15:28:14.000Z",
+  "created_at": "2025-12-23T01:29:19.917Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Fcode-review-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_6152dd2361ca"
+  }
+}

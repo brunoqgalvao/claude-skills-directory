@@ -1,0 +1,35 @@
+{
+  "id": "openapi-generator",
+  "name": "openapi-generator",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive OpenAPI/Swagger specifications from existing code and APIs.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CuriousLearner",
+    "github": "CuriousLearner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CuriousLearner/devkit",
+    "skill_md": "https://raw.githubusercontent.com/CuriousLearner/devkit/main/skills/openapi-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.604Z",
+  "created_at": "2025-12-23T00:04:14.699Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CuriousLearner%2Fdevkit/skills%2Fopenapi-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.604Z",
+    "uniqueId": "sk_23b572f333f0"
+  }
+}

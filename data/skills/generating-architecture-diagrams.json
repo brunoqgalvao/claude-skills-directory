@@ -1,0 +1,35 @@
+{
+  "id": "generating-architecture-diagrams",
+  "name": "generating-architecture-diagrams",
+  "version": "1.0.0",
+  "summary": "Generate C4 architecture diagrams from subsystem catalogs - codifies abstraction strategies, notation conventions, and selection criteria",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tachyon-beep",
+    "github": "tachyon-beep"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tachyon-beep/hamlet",
+    "skill_md": "https://raw.githubusercontent.com/tachyon-beep/hamlet/main/.claude/skills/axiom-system-archaeologist/skills/generating-architecture-diagrams/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:08:56.522Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tachyon-beep%2Fhamlet/.claude%2Fskills%2Faxiom-system-archaeologist%2Fskills%2Fgenerating-architecture-diagrams%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_582be5127744"
+  }
+}

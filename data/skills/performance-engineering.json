@@ -1,0 +1,35 @@
+{
+  "id": "performance-engineering",
+  "name": "performance-engineering",
+  "version": "1.0.0",
+  "summary": "Performance profiling, optimization techniques, and benchmarking methodology. Use when profiling code, optimizing bottlenecks, benchmarking implementations, analyzing memory usa...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "outfitter-dev",
+    "github": "outfitter-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/outfitter-dev/agents",
+    "skill_md": "https://raw.githubusercontent.com/outfitter-dev/agents/main/baselayer/skills/performance-engineering/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:53.364Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/outfitter-dev%2Fagents/baselayer%2Fskills%2Fperformance-engineering%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_db181936b2a7"
+  }
+}

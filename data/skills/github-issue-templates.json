@@ -1,0 +1,35 @@
+{
+  "id": "github-issue-templates",
+  "name": "github-issue-templates",
+  "version": "1.0.0",
+  "summary": "Create well-structured GitHub issues using standardized templates for feature requests, bug reports, research tasks, and documentation needs. Use when users request help creatin...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thebusted",
+    "github": "thebusted"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thebusted/cctv-cam",
+    "skill_md": "https://raw.githubusercontent.com/thebusted/cctv-cam/main/.claude/skills/github-issue-templates/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T03:33:27.000Z",
+  "created_at": "2025-12-22T15:07:47.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thebusted%2Fcctv-cam/.claude%2Fskills%2Fgithub-issue-templates%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_e988c0499f37"
+  }
+}

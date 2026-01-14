@@ -1,0 +1,35 @@
+{
+  "id": "product",
+  "name": "product",
+  "version": "1.0.0",
+  "summary": "Use this skill when helping with product management tasks including feature planning, user stories, requirements documentation, PRDs, roadmaps, prioritization, and product decis...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kudosx",
+    "github": "kudosx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kudosx/kudosx",
+    "skill_md": "https://raw.githubusercontent.com/kudosx/kudosx/main/kudosx/templates/v1/.claude/skills/product-aio/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:41.505Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kudosx%2Fkudosx/kudosx%2Ftemplates%2Fv1%2F.claude%2Fskills%2Fproduct-aio%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_d8ad0503968c"
+  }
+}

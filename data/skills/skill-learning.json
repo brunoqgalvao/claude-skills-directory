@@ -1,0 +1,35 @@
+{
+  "id": "skill-learning",
+  "name": "skill-learning",
+  "version": "1.0.0",
+  "summary": "Extract actionable knowledge from external sources and enhance existing skills using 4-tier novelty framework. Matches insights to skill domains, generates diff previews, applie...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "garyblankenship",
+    "github": "garyblankenship"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/garyblankenship/SKILL.md",
+    "skill_md": "https://raw.githubusercontent.com/garyblankenship/SKILL.md/main/examples/learn/skills/skill-learning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:17:11.990Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/garyblankenship%2FSKILL.md/examples%2Flearn%2Fskills%2Fskill-learning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_45e748648eb9"
+  }
+}

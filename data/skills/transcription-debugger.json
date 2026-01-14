@@ -1,0 +1,35 @@
+{
+  "id": "transcription-debugger",
+  "name": "transcription-debugger",
+  "version": "1.0.0",
+  "summary": "Diagnoses and fixes VoiceLite transcription issues including silent failures, event handling problems, and whisper errors. Activates when transcription isn't working, text doesn...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikha08-rgb",
+    "github": "mikha08-rgb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikha08-rgb/VoiceLite",
+    "skill_md": "https://raw.githubusercontent.com/mikha08-rgb/VoiceLite/main/.claude/skills/transcription-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T17:55:10.000Z",
+  "created_at": "2025-12-23T01:29:02.055Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikha08-rgb%2FVoiceLite/.claude%2Fskills%2Ftranscription-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.529Z",
+    "uniqueId": "sk_22f9d937ee3a"
+  }
+}

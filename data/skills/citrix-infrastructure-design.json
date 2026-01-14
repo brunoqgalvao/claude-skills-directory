@@ -1,0 +1,36 @@
+{
+  "id": "citrix-infrastructure-design",
+  "name": "citrix-infrastructure-design",
+  "version": "1.0.0",
+  "summary": "Citrix infrastructure architecture and capacity planning. Use when designing Citrix environments, planning capacity, sizing components, configuring high availability, designing ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dray86",
+    "github": "dray86"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dray86/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/dray86/claude-agents/main/.claude/skills/citrix-infrastructure-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:05:00.227Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dray86%2Fclaude-agents/.claude%2Fskills%2Fcitrix-infrastructure-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_5a5295706a35"
+  }
+}

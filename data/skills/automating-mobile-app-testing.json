@@ -1,0 +1,37 @@
+{
+  "id": "automating-mobile-app-testing",
+  "name": "automating-mobile-app-testing",
+  "version": "1.0.0",
+  "summary": "This skill enables automated testing of mobile applications on iOS and Android platforms using frameworks like Appium, Detox, XCUITest, and Espresso. It generates end-to-end tes...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/backups/skill-structure-cleanup-20251108-073936/plugins/testing/mobile-app-tester/skills/mobile-app-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T07:44:44.000Z",
+  "created_at": "2025-12-19T19:56:48.799Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/backups%2Fskill-structure-cleanup-20251108-073936%2Fplugins%2Ftesting%2Fmobile-app-tester%2Fskills%2Fmobile-app-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_cd5d9a1b0281"
+  }
+}

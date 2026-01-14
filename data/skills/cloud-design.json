@@ -1,0 +1,35 @@
+{
+  "id": "cloud-design",
+  "name": "cloud-design",
+  "version": "1.0.0",
+  "summary": "Design resilient, scalable multi-cloud architectures with best practices for AWS, Azure, and GCP. Use when creating cloud architecture diagrams, planning cloud infrastructure, o...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "craftaholic",
+    "github": "craftaholic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/craftaholic/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/craftaholic/dotfiles/main/claude/.claude/skills/cloud/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:49.812Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/craftaholic%2Fdotfiles/claude%2F.claude%2Fskills%2Fcloud%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_956150e836ba"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-pulse",
+  "name": "git-pulse",
+  "version": "1.0.0",
+  "summary": "Version control discipline for Quest Keeper AI development. Enforces the \"commit early, commit often\" pattern.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Mnehmos",
+    "github": "Mnehmos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Mnehmos/QuestKeeperAI",
+    "skill_md": "https://raw.githubusercontent.com/Mnehmos/QuestKeeperAI/main/.claude/skills/git-pulse/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T10:30:36.000Z",
+  "created_at": "2025-12-23T01:28:17.908Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Mnehmos%2FQuestKeeperAI/.claude%2Fskills%2Fgit-pulse%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.581Z",
+    "uniqueId": "sk_8f4986edca1d"
+  }
+}

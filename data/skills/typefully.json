@@ -1,0 +1,37 @@
+{
+  "id": "typefully",
+  "name": "typefully",
+  "version": "1.0.0",
+  "summary": "This skill should be used when managing social media content through Typefully, including creating drafts, scheduling posts, cross-posting to multiple accounts, and multi-platfo...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synapz-org",
+    "github": "synapz-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synapz-org/typefully-claude-skill",
+    "skill_md": "https://raw.githubusercontent.com/synapz-org/typefully-claude-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:22.696Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synapz-org%2Ftypefully-claude-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_20ae5be67627"
+  }
+}

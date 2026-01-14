@@ -1,0 +1,35 @@
+{
+  "id": "forecast-skill",
+  "name": "forecast-skill",
+  "version": "1.0.0",
+  "summary": "Provides real-time weather forecasts using OpenWeather API. Use when users ask about current or future weather conditions, temperature, precipitation, or weather-dependent plann...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kevinl95",
+    "github": "kevinl95"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kevinl95/ForecastSkill",
+    "skill_md": "https://raw.githubusercontent.com/kevinl95/ForecastSkill/main/forecast_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:44.772Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kevinl95%2FForecastSkill/forecast_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_fc646a5bdfb2"
+  }
+}

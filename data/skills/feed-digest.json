@@ -1,0 +1,35 @@
+{
+  "id": "feed-digest",
+  "name": "feed-digest",
+  "version": "1.0.0",
+  "summary": "RSS/Atom 信息源聚合摘要。使用此 skill 当用户要求：(1) 获取 RSS/Feed 摘要，(2) 查看订阅源更新，(3) 总结今日信息流，(4) 分析多个信息源内容。支持智能分类、10分制评分筛选、关键词过滤。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ourines",
+    "github": "ourines"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ourines/sidekick",
+    "skill_md": "https://raw.githubusercontent.com/ourines/sidekick/main/plugins/feed-digest/skills/feed-digest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T17:01:52.000Z",
+  "created_at": "2025-12-22T15:53:04.516Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ourines%2Fsidekick/plugins%2Ffeed-digest%2Fskills%2Ffeed-digest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_aeb55ffb37fa"
+  }
+}

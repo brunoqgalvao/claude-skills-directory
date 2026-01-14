@@ -1,0 +1,35 @@
+{
+  "id": "architecture-status",
+  "name": "architecture-status",
+  "version": "1.0.0",
+  "summary": "Reports on the health and state of architecture documentation (counts of ADRs, reviews, activity levels, documentation gaps). Use when the user asks \"What's our architecture sta...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codenamev",
+    "github": "codenamev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codenamev/ai-software-architect",
+    "skill_md": "https://raw.githubusercontent.com/codenamev/ai-software-architect/main/.claude/skills/architecture-status/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:09:54.567Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codenamev%2Fai-software-architect/.claude%2Fskills%2Farchitecture-status%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_5a41a7af7c45"
+  }
+}

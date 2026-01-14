@@ -1,0 +1,35 @@
+{
+  "id": "log-capturer",
+  "name": "log-capturer",
+  "version": "1.0.0",
+  "summary": "Captures Claude Code conversation sessions in structured markdown format tied to work items with redaction",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fractary",
+    "github": "fractary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fractary/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fractary/claude-plugins/main/plugins/logs/skills/log-capturer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.493Z",
+  "created_at": "2025-12-23T01:29:30.840Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fractary%2Fclaude-plugins/plugins%2Flogs%2Fskills%2Flog-capturer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_a750c8b63fb4"
+  }
+}

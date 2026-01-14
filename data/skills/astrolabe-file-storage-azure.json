@@ -1,0 +1,35 @@
+{
+  "id": "astrolabe-file-storage-azure",
+  "name": "astrolabe-file-storage-azure",
+  "version": "1.0.0",
+  "summary": "Azure Blob Storage implementation of IFileStorage interface with organized blob paths and metadata handling. Use when storing files in Azure Blob Storage with Entity Framework i...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "astrolabe-apps",
+    "github": "astrolabe-apps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/astrolabe-apps/astrolabe-common",
+    "skill_md": "https://raw.githubusercontent.com/astrolabe-apps/astrolabe-common/main/skills/astrolabe-file-storage-azure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T05:10:18.000Z",
+  "created_at": "2025-12-22T20:06:00.117Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/astrolabe-apps%2Fastrolabe-common/skills%2Fastrolabe-file-storage-azure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_1775cf01d406"
+  }
+}

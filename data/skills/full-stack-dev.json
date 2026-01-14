@@ -1,0 +1,37 @@
+{
+  "id": "full-stack-dev",
+  "name": "full-stack-dev",
+  "version": "1.0.0",
+  "summary": "Guide for building fullstack applications with Vue 3, FastAPI, Docker, and MySQL. Use this skill when developing or debugging applications using this specific technology stack i...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sprigga",
+    "github": "sprigga"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sprigga/WebPDTool",
+    "skill_md": "https://raw.githubusercontent.com/sprigga/WebPDTool/main/.claude/skills/skill-stack/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:18:53.800Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sprigga%2FWebPDTool/.claude%2Fskills%2Fskill-stack%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_faa6241f022f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cc-hooks-ts",
+  "name": "cc-hooks-ts",
+  "version": "1.0.0",
+  "summary": "TypeScriptで型安全なClaude Code Hooksを作成するためのガイド。cc-hooks-tsライブラリを使用してフックを実装する際に使用する。(1) Claude Code用の新しいhookを作成する時、(2) 既存のhookをTypeScriptで書き直す時、(3) PreToolUse/PostToolUse/SessionSta...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masseater",
+    "github": "masseater"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masseater/claude-code-plugin",
+    "skill_md": "https://raw.githubusercontent.com/masseater/claude-code-plugin/main/plugins/mutils/skills/cc-hooks-ts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T03:04:20.000Z",
+  "created_at": "2025-12-23T01:29:15.716Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masseater%2Fclaude-code-plugin/plugins%2Fmutils%2Fskills%2Fcc-hooks-ts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_cdf1e19cb161"
+  }
+}

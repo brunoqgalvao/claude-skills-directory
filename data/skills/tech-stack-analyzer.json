@@ -1,0 +1,35 @@
+{
+  "id": "tech-stack-analyzer",
+  "name": "tech-stack-analyzer",
+  "version": "1.0.0",
+  "summary": "Delegates tech stack detection to a lightweight agent. Use when you need to know the project's language, frameworks, or dependencies without loading manifest files into context.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leonj1",
+    "github": "leonj1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leonj1/cat-emails",
+    "skill_md": "https://raw.githubusercontent.com/leonj1/cat-emails/main/.claude/skills/tech-stack-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T23:57:51.000Z",
+  "created_at": "2025-12-22T16:29:04.497Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leonj1%2Fcat-emails/.claude%2Fskills%2Ftech-stack-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_853374a488a0"
+  }
+}

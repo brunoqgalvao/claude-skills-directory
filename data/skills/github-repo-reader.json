@@ -1,0 +1,35 @@
+{
+  "id": "github-repo-reader",
+  "name": "github-repo-reader",
+  "version": "1.0.0",
+  "summary": "GitHub リポジトリの情報を取得・要約するスキル。URL が github.com/{owner}/{repo} 形式の場合に使用。gh コマンドと DeepWiki MCP を活用してリポジトリの詳細情報を取得する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yamadashy",
+    "github": "yamadashy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yamadashy/ccreader",
+    "skill_md": "https://raw.githubusercontent.com/yamadashy/ccreader/main/.claude/skills/github-repo-reader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T08:15:33.000Z",
+  "created_at": "2025-12-23T01:28:23.642Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yamadashy%2Fccreader/.claude%2Fskills%2Fgithub-repo-reader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_e6fe3e9fcf5d"
+  }
+}

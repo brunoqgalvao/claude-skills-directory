@@ -1,0 +1,35 @@
+{
+  "id": "elixir-discipline",
+  "name": "elixir-discipline",
+  "version": "1.0.0",
+  "summary": "MANDATORY pre-check before ANY response - ensures you use applicable skills and follow best practices. Use this skill FIRST before responding to any Elixir/Phoenix request.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mkreyman",
+    "github": "mkreyman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mkreyman/bmad-elixir",
+    "skill_md": "https://raw.githubusercontent.com/mkreyman/bmad-elixir/main/priv/skills/elixir-discipline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:01:58.765Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mkreyman%2Fbmad-elixir/priv%2Fskills%2Felixir-discipline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_dfc4b46198bb"
+  }
+}

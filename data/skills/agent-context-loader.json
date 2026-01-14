@@ -1,0 +1,35 @@
+{
+  "id": "agent-context-loader",
+  "name": "agent-context-loader",
+  "version": "1.0.0",
+  "summary": "PROACTIVE AUTO-LOADING: Automatically detects and loads AGENTS.md files from the current working directory when starting a session or changing directories. This skill ensures ag...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skill-structure-cleanup-20251108-073936/plugins/productivity/agent-context-manager/skills/agent-context-loader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:58.884Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskill-structure-cleanup-20251108-073936%2Fplugins%2Fproductivity%2Fagent-context-manager%2Fskills%2Fagent-context-loader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_d2ca945129e9"
+  }
+}

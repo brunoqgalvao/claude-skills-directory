@@ -1,0 +1,36 @@
+{
+  "id": "python-uv-scripts",
+  "name": "python-uv-scripts",
+  "version": "1.0.0",
+  "summary": "Python single-file script development using uv and PEP 723 inline metadata. Prevents invalid patterns like [tool.uv.metadata]. Use when creating standalone Python utilities, con...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "basher83",
+    "github": "basher83"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/basher83/lunar-claude",
+    "skill_md": "https://raw.githubusercontent.com/basher83/lunar-claude/main/plugins/devops/python-tools/skills/python-uv-scripts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:42.048Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/basher83%2Flunar-claude/plugins%2Fdevops%2Fpython-tools%2Fskills%2Fpython-uv-scripts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_f33027db8cf6"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "enforcing-python-dunders",
+  "name": "enforcing-python-dunders",
+  "version": "1.0.0",
+  "summary": "Ensure Python classes include appropriate, developer-friendly dunder methods—especially __repr__ and __str__. Use when: (1) Writing or modifying Python class definitions in .py ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hernamesbarbara",
+    "github": "hernamesbarbara"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hernamesbarbara/promptkit",
+    "skill_md": "https://raw.githubusercontent.com/hernamesbarbara/promptkit/main/.claude/skills/enforcing-python-dunders/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.692Z",
+  "created_at": "2025-12-22T22:04:26.980Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hernamesbarbara%2Fpromptkit/.claude%2Fskills%2Fenforcing-python-dunders%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.692Z",
+    "uniqueId": "sk_dc7d6c48a6bc"
+  }
+}

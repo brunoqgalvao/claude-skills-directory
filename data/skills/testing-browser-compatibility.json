@@ -1,0 +1,36 @@
+{
+  "id": "testing-browser-compatibility",
+  "name": "testing-browser-compatibility",
+  "version": "1.0.0",
+  "summary": "Test across multiple browsers and devices for cross-browser compatibility.\nUse when ensuring cross-browser or device compatibility.\nTrigger with phrases like \"test browser compa...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/testing/browser-compatibility-tester/skills/browser-compatibility-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.842Z",
+  "created_at": "2025-12-22T16:06:26.782Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Ftesting%2Fbrowser-compatibility-tester%2Fskills%2Fbrowser-compatibility-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.842Z",
+    "uniqueId": "sk_efff88c77e83"
+  }
+}

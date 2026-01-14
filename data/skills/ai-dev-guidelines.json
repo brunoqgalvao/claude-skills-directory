@@ -1,0 +1,36 @@
+{
+  "id": "ai-dev-guidelines",
+  "name": "ai-dev-guidelines",
+  "version": "1.0.0",
+  "summary": "Comprehensive AI/ML development guide for LangChain, LangGraph, and ML model integration in FastAPI. Use when building LLM applications, agents, RAG systems, sentiment analysis,...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "siti34",
+    "github": "siti34"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/siti34/SPDS-URA",
+    "skill_md": "https://raw.githubusercontent.com/siti34/SPDS-URA/main/.claude/skills/ai-dev-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T15:26:22.000Z",
+  "created_at": "2025-12-23T01:29:44.780Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/siti34%2FSPDS-URA/.claude%2Fskills%2Fai-dev-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_e4bb01b4bce1"
+  }
+}

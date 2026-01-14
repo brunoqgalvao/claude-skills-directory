@@ -1,0 +1,36 @@
+{
+  "id": "citrix-environment-diagnostics",
+  "name": "citrix-environment-diagnostics",
+  "version": "1.0.0",
+  "summary": "Comprehensive Citrix environment health assessment and diagnostics. Use when analyzing Citrix site health, checking VDA registration status, verifying Delivery Controller servic...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dray86",
+    "github": "dray86"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dray86/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/dray86/claude-agents/main/.claude/skills/citrix-environment-diagnostics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:37.758Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dray86%2Fclaude-agents/.claude%2Fskills%2Fcitrix-environment-diagnostics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_7974e7a114fa"
+  }
+}

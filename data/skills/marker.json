@@ -1,0 +1,36 @@
+{
+  "id": "marker",
+  "name": "marker",
+  "version": "1.0.0",
+  "summary": "Convert documents (PDF, EPUB, PPTX, DOCX, XLSX, HTML) to Markdown using marker-pdf with Claude Haiku LLM enhancement for accurate image and table extraction. Use when user needs...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xdanger",
+    "github": "xdanger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xdanger/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/xdanger/claude-plugins/main/plugins/marker/skills/marker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:06:47.936Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xdanger%2Fclaude-plugins/plugins%2Fmarker%2Fskills%2Fmarker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_b9fa57aec3f7"
+  }
+}

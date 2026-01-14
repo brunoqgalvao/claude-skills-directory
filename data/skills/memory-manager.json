@@ -1,0 +1,35 @@
+{
+  "id": "memory-manager",
+  "name": "memory-manager",
+  "version": "1.0.0",
+  "summary": "Persist validated niches and learnings across sessions with deterministic retention rules.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thebird-create",
+    "github": "thebird-create"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thebird-create/MOM",
+    "skill_md": "https://raw.githubusercontent.com/thebird-create/MOM/main/.claude/skills/memory-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:59:24.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thebird-create%2FMOM/.claude%2Fskills%2Fmemory-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_4c3601b02625"
+  }
+}

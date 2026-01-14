@@ -1,0 +1,35 @@
+{
+  "id": "phase-3-validator",
+  "name": "phase-3-validator",
+  "version": "1.0.0",
+  "summary": "Validates Implementation Phase completion before advancing to Testing Phase. Checks code compilation, test coverage, implementation completeness, and code quality standards.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DarkMonkDev",
+    "github": "DarkMonkDev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DarkMonkDev/WitchCityRope",
+    "skill_md": "https://raw.githubusercontent.com/DarkMonkDev/WitchCityRope/main/.claude/skills/phase-3-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T07:54:01.000Z",
+  "created_at": "2025-12-23T01:29:02.678Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DarkMonkDev%2FWitchCityRope/.claude%2Fskills%2Fphase-3-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_e6170ec86dcf"
+  }
+}

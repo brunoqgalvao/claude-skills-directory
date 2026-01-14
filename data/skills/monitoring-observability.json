@@ -1,0 +1,37 @@
+{
+  "id": "monitoring-observability",
+  "name": "monitoring-observability",
+  "version": "1.0.0",
+  "summary": "Implement comprehensive monitoring, logging, metrics, tracing, and alerting for production applications to ensure reliability and quick incident response. Use when setting up ap...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "korallis",
+    "github": "korallis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/korallis/Droidz",
+    "skill_md": "https://raw.githubusercontent.com/korallis/Droidz/main/droidz_installer/payloads/claude/default/skills/monitoring-observability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T14:52:17.000Z",
+  "created_at": "2025-12-22T15:04:56.275Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/korallis%2FDroidz/droidz_installer%2Fpayloads%2Fclaude%2Fdefault%2Fskills%2Fmonitoring-observability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.866Z",
+    "uniqueId": "sk_9c208661a38e"
+  }
+}

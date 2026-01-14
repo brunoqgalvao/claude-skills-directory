@@ -1,0 +1,35 @@
+{
+  "id": "git-worktree",
+  "name": "git-worktree",
+  "version": "1.0.0",
+  "summary": "Manages git worktrees including listing, creating, removing, and switching between worktrees. Use when the user mentions creating worktrees, create a work tree, create worktree,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "donnfelker",
+    "github": "donnfelker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/donnfelker/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/donnfelker/claude-skills/main/git-worktree/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:50.720Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/donnfelker%2Fclaude-skills/git-worktree%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_2a3d5f11d2b0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "artifact-tracking",
+  "name": "artifact-tracking",
+  "version": "1.0.0",
+  "summary": "Use this skill when creating, updating, or querying AI-optimized tracking artifacts. Invoke for: creating phase progress tracking, updating task status, querying pending/blocked...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "miethe",
+    "github": "miethe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/miethe/family-shopping-dashboard",
+    "skill_md": "https://raw.githubusercontent.com/miethe/family-shopping-dashboard/main/.claude/skills/artifact-tracking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.749Z",
+  "created_at": "2025-12-22T21:01:29.154Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/miethe%2Ffamily-shopping-dashboard/.claude%2Fskills%2Fartifact-tracking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.749Z",
+    "uniqueId": "sk_32fe6355f129"
+  }
+}

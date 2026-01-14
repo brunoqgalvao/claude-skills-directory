@@ -1,0 +1,35 @@
+{
+  "id": "tai-calculator",
+  "name": "tai-calculator",
+  "version": "1.0.0",
+  "summary": "台灣麻將台數計算器。當用戶提供手牌要計算台數、詢問特定台型的台數（如清一色、碰碰胡、自摸）、需要分析胡牌牌型、計算得分、或驗證台數計算是否正確時使用此技能。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tedmax100",
+    "github": "tedmax100"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tedmax100/mahjong",
+    "skill_md": "https://raw.githubusercontent.com/tedmax100/mahjong/main/.claude/skills/tai-calculator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:01:01.273Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tedmax100%2Fmahjong/.claude%2Fskills%2Ftai-calculator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_c2bd38ec1307"
+  }
+}

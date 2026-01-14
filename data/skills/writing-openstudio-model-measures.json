@@ -1,0 +1,36 @@
+{
+  "id": "writing-openstudio-model-measures",
+  "name": "writing-openstudio-model-measures",
+  "version": "1.0.0",
+  "summary": "Write OpenStudio ModelMeasures (Ruby scripts that modify .osm files) for building energy models. Use when creating measures, writing measure.rb files, or modifying OpenStudio mo...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mbcoalson",
+    "github": "mbcoalson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mbcoalson/skills",
+    "skill_md": "https://raw.githubusercontent.com/mbcoalson/skills/main/.claude/skills/writing-openstudio-model-measures/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.483Z",
+  "created_at": "2025-12-23T01:29:40.805Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mbcoalson%2Fskills/.claude%2Fskills%2Fwriting-openstudio-model-measures%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.483Z",
+    "uniqueId": "sk_1ef00221b86c"
+  }
+}

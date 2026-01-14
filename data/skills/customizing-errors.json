@@ -1,0 +1,35 @@
+{
+  "id": "customizing-errors",
+  "name": "customizing-errors",
+  "version": "1.0.0",
+  "summary": "Handle Zod validation errors with unified error API, custom messages, error formatting, and user-friendly display",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/zod-4/skills/customizing-errors/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T00:43:49.000Z",
+  "created_at": "2025-12-22T20:16:05.272Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/zod-4%2Fskills%2Fcustomizing-errors%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_bbcb00c48eb2"
+  }
+}

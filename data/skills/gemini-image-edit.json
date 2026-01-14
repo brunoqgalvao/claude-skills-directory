@@ -1,0 +1,35 @@
+{
+  "id": "gemini-image-edit",
+  "name": "gemini-image-edit",
+  "version": "1.0.0",
+  "summary": "Edit existing images with text prompts using fal.ai Gemini 3 Pro. Use when the user wants to modify, edit, transform, or change an existing image based on a text description. Su...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bluewaves-creations",
+    "github": "bluewaves-creations"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bluewaves-creations/bluewaves-skills",
+    "skill_md": "https://raw.githubusercontent.com/bluewaves-creations/bluewaves-skills/main/plugins/fal-media/skills/gemini-image-edit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:28:19.945Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bluewaves-creations%2Fbluewaves-skills/plugins%2Ffal-media%2Fskills%2Fgemini-image-edit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_ab334c91cdae"
+  }
+}

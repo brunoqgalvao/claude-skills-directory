@@ -1,0 +1,37 @@
+{
+  "id": "github-pr-collector",
+  "name": "github-pr-collector",
+  "version": "1.0.0",
+  "summary": "Collecte et analyse les Pull Requests GitHub avec leurs commentaires d'agents de review IA (CodeRabbit, GitHub Copilot, Codex, etc.). Utilise GitHub CLI pour récupérer les donné...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebc-dev",
+    "github": "sebc-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebc-dev/scd-cc",
+    "skill_md": "https://raw.githubusercontent.com/sebc-dev/scd-cc/main/.claude/skills/github-pr-collector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T12:09:18.000Z",
+  "created_at": "2025-12-22T17:08:53.733Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebc-dev%2Fscd-cc/.claude%2Fskills%2Fgithub-pr-collector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_1209ed94e969"
+  }
+}

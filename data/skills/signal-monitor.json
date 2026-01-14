@@ -1,0 +1,36 @@
+{
+  "id": "signal-monitor",
+  "name": "signal-monitor",
+  "version": "1.0.0",
+  "summary": "Get real-time signal quality metrics (RSSI, SNR, S-meter) from WaveCap-SDR channels. Use when checking signal strength, monitoring reception quality, or debugging weak signals.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TobiasWooldridge",
+    "github": "TobiasWooldridge"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TobiasWooldridge/WaveCap-SDR",
+    "skill_md": "https://raw.githubusercontent.com/TobiasWooldridge/WaveCap-SDR/main/.claude/skills/signal-monitor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T07:14:48.000Z",
+  "created_at": "2025-12-22T16:58:37.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TobiasWooldridge%2FWaveCap-SDR/.claude%2Fskills%2Fsignal-monitor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_acded3888a9c"
+  }
+}

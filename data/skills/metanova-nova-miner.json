@@ -1,0 +1,35 @@
+{
+  "id": "metanova-nova-miner",
+  "name": "metanova-nova-miner",
+  "version": "1.0.0",
+  "summary": "This skill should be used when setting up, optimizing, or managing MetaNova NOVA miners on Bittensor Subnet 68 (SN68). Use it for miner configuration, molecular search strategy ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "synapz-org",
+    "github": "synapz-org"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/synapz-org/metanova-nova-miner-skill",
+    "skill_md": "https://raw.githubusercontent.com/synapz-org/metanova-nova-miner-skill/main/skill-source/metanova-nova-miner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:40.314Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/synapz-org%2Fmetanova-nova-miner-skill/skill-source%2Fmetanova-nova-miner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_b63dd9a051e4"
+  }
+}

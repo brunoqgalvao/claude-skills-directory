@@ -1,0 +1,36 @@
+{
+  "id": "validate-protection",
+  "name": "validate-protection",
+  "version": "1.0.0",
+  "summary": "Validate protection enforcement via pre-commit hooks. Use when building or testing code protection system (PROTECT-002).",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AEtherlight-ai",
+    "github": "AEtherlight-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AEtherlight-ai/lumina",
+    "skill_md": "https://raw.githubusercontent.com/AEtherlight-ai/lumina/main/vscode-lumina/.claude/skills/validate-protection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.644Z",
+  "created_at": "2025-12-22T23:05:41.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AEtherlight-ai%2Flumina/vscode-lumina%2F.claude%2Fskills%2Fvalidate-protection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.644Z",
+    "uniqueId": "sk_5d0e4adebc6f"
+  }
+}

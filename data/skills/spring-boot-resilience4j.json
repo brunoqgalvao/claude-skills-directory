@@ -1,0 +1,36 @@
+{
+  "id": "spring-boot-resilience4j",
+  "name": "spring-boot-resilience4j",
+  "version": "1.0.0",
+  "summary": "This skill should be used when implementing fault tolerance and resilience patterns in Spring Boot applications using the Resilience4j library. Apply this skill to add circuit b...",
+  "verticals": [
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "giuseppe-trisciuoglio",
+    "github": "giuseppe-trisciuoglio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/giuseppe-trisciuoglio/developer-kit",
+    "skill_md": "https://raw.githubusercontent.com/giuseppe-trisciuoglio/developer-kit/main/skills/spring-boot/spring-boot-resilience4j/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:15:21.072Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/giuseppe-trisciuoglio%2Fdeveloper-kit/skills%2Fspring-boot%2Fspring-boot-resilience4j%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_7ea0bbd912c2"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rbac-permissions-architect",
+  "name": "rbac-permissions-architect",
+  "version": "1.0.0",
+  "summary": "Use this skill when architecting new features within the RBAC modular permissions system. Guides architects through workspace design, feature definition, permission mapping, and...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fercracix33",
+    "github": "fercracix33"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fercracix33/poli2-clean-architecture",
+    "skill_md": "https://raw.githubusercontent.com/fercracix33/poli2-clean-architecture/main/.claude/skills/rbac-permissions-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.594Z",
+  "created_at": "2025-12-23T00:21:53.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fercracix33%2Fpoli2-clean-architecture/.claude%2Fskills%2Frbac-permissions-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.594Z",
+    "uniqueId": "sk_4aa37c7187ed"
+  }
+}

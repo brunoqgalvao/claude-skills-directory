@@ -1,0 +1,36 @@
+{
+  "id": "clean-architecture-review",
+  "name": "clean-architecture-review",
+  "version": "1.0.0",
+  "summary": "Validate Clean Architecture implementation in iOS. Checks layer separation (Presentation/Domain/Data), MVVM patterns, dependency injection with Swinject, and UseCase/Repository ...",
+  "verticals": [
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daispacy",
+    "github": "daispacy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daispacy/py-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/daispacy/py-claude-marketplace/main/py-plugin/skills/clean-architecture-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T07:07:24.000Z",
+  "created_at": "2025-12-22T17:07:03.844Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daispacy%2Fpy-claude-marketplace/py-plugin%2Fskills%2Fclean-architecture-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_e80c4ebac0a6"
+  }
+}

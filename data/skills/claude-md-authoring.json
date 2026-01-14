@@ -1,0 +1,37 @@
+{
+  "id": "claude-md-authoring",
+  "name": "claude-md-authoring",
+  "version": "1.0.0",
+  "summary": "Creates and reviews CLAUDE.md configuration files for Claude Code. Applies HumanLayer guidelines including instruction budgets (~50 user-level, ~100 project-level), WHAT/WHY/HOW...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dhruvbaldawa",
+    "github": "dhruvbaldawa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dhruvbaldawa/ccconfigs",
+    "skill_md": "https://raw.githubusercontent.com/dhruvbaldawa/ccconfigs/main/essentials/skills/claude-md-authoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.791Z",
+  "created_at": "2025-12-22T18:58:55.120Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dhruvbaldawa%2Fccconfigs/essentials%2Fskills%2Fclaude-md-authoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_4dadb9281486"
+  }
+}

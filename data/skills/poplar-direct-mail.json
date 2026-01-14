@@ -1,0 +1,36 @@
+{
+  "id": "poplar-direct-mail",
+  "name": "poplar-direct-mail",
+  "version": "1.0.0",
+  "summary": "Design and send programmatic direct mail using Poplar's HTML templates and API. Use for creating dynamic mail pieces (postcards, bifolds, trifolds, letters) with personalization...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ckorhonen",
+    "github": "ckorhonen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ckorhonen/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ckorhonen/claude-skills/main/skills/poplar-direct-mail/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:11:35.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ckorhonen%2Fclaude-skills/skills%2Fpoplar-direct-mail%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_822955527713"
+  }
+}

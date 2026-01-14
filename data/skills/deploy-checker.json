@@ -1,0 +1,35 @@
+{
+  "id": "deploy-checker",
+  "name": "deploy-checker",
+  "version": "1.0.0",
+  "summary": "デプロイ準備・検証専門スキル。git push 前の最終確認、環境変数チェック、ビルドチェック、セキュリティチェックを実行する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "M2AI-jp",
+    "github": "M2AI-jp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/M2AI-jp/thanks4claudecode-fresh",
+    "skill_md": "https://raw.githubusercontent.com/M2AI-jp/thanks4claudecode-fresh/main/.claude/skills/deploy-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T16:50:20.000Z",
+  "created_at": "2025-12-22T16:58:38.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/M2AI-jp%2Fthanks4claudecode-fresh/.claude%2Fskills%2Fdeploy-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_7ddd284bdd25"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "session-start-hook",
+  "name": "session-start-hook",
+  "version": "1.0.0",
+  "summary": "Configure SessionStart hooks for Claude Code on the web. Use when setting up a repository to run on cloud infrastructure, installing dependencies, or initializing environments f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cameronsjo",
+    "github": "cameronsjo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cameronsjo/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/cameronsjo/claude-marketplace/main/plugins/cc-web/skills/session-start-hook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:16.790Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cameronsjo%2Fclaude-marketplace/plugins%2Fcc-web%2Fskills%2Fsession-start-hook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_e1e66b3845b3"
+  }
+}

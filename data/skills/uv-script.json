@@ -1,0 +1,36 @@
+{
+  "id": "uv-script",
+  "name": "uv-script",
+  "version": "1.0.0",
+  "summary": "Create standalone Python scripts using uv shebang with PEP 723 inline metadata. Use when creating single-file Python tools or scripts that need dependency management without a f...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ebal5",
+    "github": "ebal5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ebal5/dotfiles-chezmoi",
+    "skill_md": "https://raw.githubusercontent.com/ebal5/dotfiles-chezmoi/main/dot_claude/skills/uv-script/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:22.292Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ebal5%2Fdotfiles-chezmoi/dot_claude%2Fskills%2Fuv-script%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_72072bb73fc3"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bdd-gherkin-specification",
+  "name": "bdd-gherkin-specification",
+  "version": "1.0.0",
+  "summary": "Create Behavior-Driven Development (BDD) feature files using Gherkin syntax. Write clear, executable specifications that describe system behavior from the user's perspective. Us...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jzallen",
+    "github": "jzallen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jzallen/fred_simulations",
+    "skill_md": "https://raw.githubusercontent.com/jzallen/fred_simulations/main/.claude/skills/bdd/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:53:57.998Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jzallen%2Ffred_simulations/.claude%2Fskills%2Fbdd%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_7429863b74cb"
+  }
+}

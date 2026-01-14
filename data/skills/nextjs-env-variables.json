@@ -1,0 +1,35 @@
+{
+  "id": "nextjs-env-variables",
+  "name": "nextjs-env-variables",
+  "version": "1.0.0",
+  "summary": "Next.js environment variable management with file precedence, variable types, and deployment configurations. Use when configuring Next.js applications, managing environment-spec...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/toolchains-javascript-frameworks-nextjs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T01:47:15.000Z",
+  "created_at": "2025-12-22T19:57:44.657Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Ftoolchains-javascript-frameworks-nextjs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_67b7e0dbf8ba"
+  }
+}

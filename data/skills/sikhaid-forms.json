@@ -1,0 +1,35 @@
+{
+  "id": "sikhaid-forms",
+  "name": "sikhaid-forms",
+  "version": "1.0.0",
+  "summary": "Use when creating or modifying forms in SikhAid project. Covers form patterns, validation logic, submission workflows, Firestore integration, error handling, and success feedback.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "the-non-expert",
+    "github": "the-non-expert"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/the-non-expert/SikhAidSPA",
+    "skill_md": "https://raw.githubusercontent.com/the-non-expert/SikhAidSPA/main/.claude/skills/sikhaid-forms/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:18:56.559Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/the-non-expert%2FSikhAidSPA/.claude%2Fskills%2Fsikhaid-forms%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_21ec6c17cbaa"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "julia-hydrotools",
+  "name": "julia-hydrotools",
+  "version": "1.0.0",
+  "summary": "计算短波辐射、长波辐射、潜在蒸散发、日出日落时间、湿度的基本变量处理。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kongdd",
+    "github": "kongdd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kongdd/Skills_for_Your_AI_Student",
+    "skill_md": "https://raw.githubusercontent.com/kongdd/Skills_for_Your_AI_Student/main/skills/julia-hydrotools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-24T04:32:03.000Z",
+  "created_at": "2025-12-23T01:28:24.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kongdd%2FSkills_for_Your_AI_Student/skills%2Fjulia-hydrotools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.577Z",
+    "uniqueId": "sk_832aac4b5e41"
+  }
+}

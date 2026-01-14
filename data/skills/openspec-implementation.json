@@ -1,0 +1,37 @@
+{
+  "id": "openspec-implementation",
+  "name": "openspec-implementation",
+  "version": "1.0.0",
+  "summary": "Implements approved specification proposals by working through tasks sequentially with testing and validation. Use when implementing changes, applying proposals, executing spec ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "forztf",
+    "github": "forztf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/forztf/open-skilled-sdd",
+    "skill_md": "https://raw.githubusercontent.com/forztf/open-skilled-sdd/main/skills/openspec-implementation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T06:51:14.000Z",
+  "created_at": "2025-12-22T19:30:45.731Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/forztf%2Fopen-skilled-sdd/skills%2Fopenspec-implementation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_97fbd61fe58f"
+  }
+}

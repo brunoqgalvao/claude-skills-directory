@@ -1,0 +1,35 @@
+{
+  "id": "feature-run",
+  "name": "feature-run",
+  "version": "1.0.0",
+  "summary": "Executes unattended batch processing of all pending features with autonomous decision-making. Use when running all features automatically, batch processing without supervision, ...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mylukin",
+    "github": "mylukin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mylukin/agent-foreman",
+    "skill_md": "https://raw.githubusercontent.com/mylukin/agent-foreman/main/plugins/agent-foreman/skills/feature-run/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T13:50:43.000Z",
+  "created_at": "2025-12-23T01:29:00.919Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mylukin%2Fagent-foreman/plugins%2Fagent-foreman%2Fskills%2Ffeature-run%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_030a2d5b48f6"
+  }
+}

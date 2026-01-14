@@ -1,0 +1,37 @@
+{
+  "id": "recruitment-fake-data-generator",
+  "name": "recruitment-fake-data-generator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to generate realistic fake/test data for recruitment systems including clients, candidates, jobs, and placements. Generates UK-focused ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SteveW555",
+    "github": "SteveW555"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SteveW555/Recruitment",
+    "skill_md": "https://raw.githubusercontent.com/SteveW555/Recruitment/main/.claude/skills/recruitment-fake-data-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:23.913Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SteveW555%2FRecruitment/.claude%2Fskills%2Frecruitment-fake-data-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_44315a079def"
+  }
+}

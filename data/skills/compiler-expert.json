@@ -1,0 +1,35 @@
+{
+  "id": "compiler-expert",
+  "name": "compiler-expert",
+  "version": "1.0.0",
+  "summary": "提供完整的编译器开发专家支持，整合ANTLR4编译器开发专业技术知识和完整的开发生态系统。包括语法分析、语义分析、IR生成、代码优化、虚拟机实现，以及项目构建、测试、调试、部署、MCP服务器配置和跨平台开发工具。优先使用Serena智能代码分析工具。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "whtoo",
+    "github": "whtoo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/whtoo/How_to_implment_PL_in_Antlr4",
+    "skill_md": "https://raw.githubusercontent.com/whtoo/How_to_implment_PL_in_Antlr4/main/.claude/skills/compiler-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:34.780Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/whtoo%2FHow_to_implment_PL_in_Antlr4/.claude%2Fskills%2Fcompiler-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_4323e4110738"
+  }
+}

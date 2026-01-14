@@ -1,0 +1,36 @@
+{
+  "id": "form-security",
+  "name": "form-security",
+  "version": "1.0.0",
+  "summary": "Security patterns for web forms including autocomplete attributes for password managers, CSRF protection, XSS prevention, and input sanitization. Use when implementing authentic...",
+  "verticals": [
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Bbeierle12",
+    "github": "Bbeierle12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Bbeierle12/Skill-MCP-Claude",
+    "skill_md": "https://raw.githubusercontent.com/Bbeierle12/Skill-MCP-Claude/main/skills/form-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:41.168Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Bbeierle12%2FSkill-MCP-Claude/skills%2Fform-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_00e16a0ae092"
+  }
+}

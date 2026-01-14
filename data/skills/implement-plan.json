@@ -1,0 +1,35 @@
+{
+  "id": "implement-plan",
+  "name": "implement-plan",
+  "version": "1.0.0",
+  "summary": "Execute approved technical implementation plans with verification checkpoints. This skill should be used when implementing pre-approved development plans, feature implementation...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mhylle",
+    "github": "mhylle"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mhylle/claude-skills-collection",
+    "skill_md": "https://raw.githubusercontent.com/mhylle/claude-skills-collection/main/skills/implement-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.739Z",
+  "created_at": "2025-12-22T21:14:37.523Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mhylle%2Fclaude-skills-collection/skills%2Fimplement-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.739Z",
+    "uniqueId": "sk_c0ee2eb4f238"
+  }
+}

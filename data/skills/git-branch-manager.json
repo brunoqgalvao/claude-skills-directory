@@ -1,0 +1,35 @@
+{
+  "id": "git-branch-manager",
+  "name": "git-branch-manager",
+  "version": "1.0.0",
+  "summary": "Create, switch, and manage git branches with proper handling of uncommitted changes. Use when creating feature branches, switching contexts, or cleaning up after merges.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EdanStarfire",
+    "github": "EdanStarfire"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EdanStarfire/claudecode_webui",
+    "skill_md": "https://raw.githubusercontent.com/EdanStarfire/claudecode_webui/main/.claude/skills/git-branch-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:10:56.626Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EdanStarfire%2Fclaudecode_webui/.claude%2Fskills%2Fgit-branch-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_bd36b388fca1"
+  }
+}

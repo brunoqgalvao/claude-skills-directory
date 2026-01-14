@@ -1,0 +1,35 @@
+{
+  "id": "test-skill",
+  "name": "test-skill",
+  "version": "1.0.0",
+  "summary": "A test skill to verify all plugin tools work correctly - use_skill, read_skill_file, run_skill_script, find_skills",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshuadavidthomas",
+    "github": "joshuadavidthomas"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshuadavidthomas/opencode-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/joshuadavidthomas/opencode-agent-skills/main/.opencode/skills/test-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T17:44:36.000Z",
+  "created_at": "2025-12-22T14:59:36.399Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshuadavidthomas%2Fopencode-agent-skills/.opencode%2Fskills%2Ftest-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_6522186dfd69"
+  }
+}

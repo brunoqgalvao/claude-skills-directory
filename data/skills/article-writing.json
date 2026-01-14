@@ -1,0 +1,35 @@
+{
+  "id": "article-writing",
+  "name": "article-writing",
+  "version": "1.0.0",
+  "summary": "箇条書きコンテンツを技術記事に仕上げる際に使用する。自然な文体とスタイルで執筆するためのガイドライン。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-kimuson",
+    "github": "d-kimuson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-kimuson/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/d-kimuson/dotfiles/main/claude-code/skills/article-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T09:32:54.000Z",
+  "created_at": "2025-12-22T17:07:48.571Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-kimuson%2Fdotfiles/claude-code%2Fskills%2Farticle-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_293225c3a826"
+  }
+}

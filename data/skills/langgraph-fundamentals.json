@@ -1,0 +1,37 @@
+{
+  "id": "langgraph-fundamentals",
+  "name": "langgraph-fundamentals",
+  "version": "1.0.0",
+  "summary": "Core concepts for building LangGraph applications. Use when creating StateGraph workflows, defining nodes and edges, managing state with TypedDict/Pydantic, or understanding bas...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amite",
+    "github": "amite"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amite/personal-triage-agent",
+    "skill_md": "https://raw.githubusercontent.com/amite/personal-triage-agent/main/.claude/skills/langgraph-fundamentals/langgraph-fundamentals/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.462Z",
+  "created_at": "2025-12-22T17:01:49.578Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amite%2Fpersonal-triage-agent/.claude%2Fskills%2Flanggraph-fundamentals%2Flanggraph-fundamentals%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.462Z",
+    "uniqueId": "sk_ba90baed0706"
+  }
+}

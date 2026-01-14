@@ -1,0 +1,35 @@
+{
+  "id": "clojure-paren-repair",
+  "name": "clojure-paren-repair",
+  "version": "1.0.0",
+  "summary": "Repair unbalanced parentheses, brackets, and braces in Clojure, ClojureScript, and EDN files. Use when you encounter delimiter mismatch syntax errors after editing .clj, .cljs, ...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ramblurr",
+    "github": "Ramblurr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ramblurr/nix-devenv",
+    "skill_md": "https://raw.githubusercontent.com/Ramblurr/nix-devenv/main/prompts/skills/clojure-paren-repair/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.882Z",
+  "created_at": "2025-12-22T14:54:18.849Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ramblurr%2Fnix-devenv/prompts%2Fskills%2Fclojure-paren-repair%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_d4677181cfcf"
+  }
+}

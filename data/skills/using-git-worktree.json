@@ -1,0 +1,35 @@
+{
+  "id": "using-git-worktree",
+  "name": "using-git-worktree",
+  "version": "1.0.0",
+  "summary": "Create isolated git worktrees at bare repo root level",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hmps",
+    "github": "hmps"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hmps/skills",
+    "skill_md": "https://raw.githubusercontent.com/hmps/skills/main/using-git-worktree/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:58.836Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hmps%2Fskills/using-git-worktree%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_7759f91dd901"
+  }
+}

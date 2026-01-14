@@ -1,0 +1,36 @@
+{
+  "id": "vercel-deploy-debug",
+  "name": "vercel-deploy-debug",
+  "version": "1.0.0",
+  "summary": "Debug Vercel deployment issues for the CoinSite Astro project. Use this skill when deployments fail, when checking deployment status after pushing to GitHub, or when investigati...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wjshamblin",
+    "github": "wjshamblin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wjshamblin/CoinSite",
+    "skill_md": "https://raw.githubusercontent.com/wjshamblin/CoinSite/main/.claude/skills/vercel-deploy-debug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T18:59:44.089Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wjshamblin%2FCoinSite/.claude%2Fskills%2Fvercel-deploy-debug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_fdecdceee486"
+  }
+}

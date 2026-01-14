@@ -1,0 +1,35 @@
+{
+  "id": "landing-the-plane",
+  "name": "landing-the-plane",
+  "version": "1.0.0",
+  "summary": "Checklist for finishing work, pushing a branch, and opening a ready-for-review PR with tests and tracker updates. Use when asked to \"land the plane\"",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Ramblurr",
+    "github": "Ramblurr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Ramblurr/nix-devenv",
+    "skill_md": "https://raw.githubusercontent.com/Ramblurr/nix-devenv/main/prompts/skills/landing-the-plane/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:39.275Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Ramblurr%2Fnix-devenv/prompts%2Fskills%2Flanding-the-plane%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_9a57aac19e5f"
+  }
+}

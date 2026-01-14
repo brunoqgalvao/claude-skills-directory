@@ -1,0 +1,36 @@
+{
+  "id": "coding-guidelines-java",
+  "name": "coding-guidelines-java",
+  "version": "1.0.0",
+  "summary": "Comprehensive coding standards for Java and Spring Boot projects. Use when writing new code, refactoring, or setting up project structure. Focuses on robustness, immutability, d...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PedroSantiagoDev",
+    "github": "PedroSantiagoDev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PedroSantiagoDev/buildup",
+    "skill_md": "https://raw.githubusercontent.com/PedroSantiagoDev/buildup/main/.claude/skills/coding-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T12:39:56.000Z",
+  "created_at": "2025-12-22T17:04:51.687Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PedroSantiagoDev%2Fbuildup/.claude%2Fskills%2Fcoding-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_cfa9a5268671"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "git-commit-guide",
+  "name": "git-commit-guide",
+  "version": "1.0.0",
+  "summary": "Git 提交规范（Conventional Commits）",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Leavesfly",
+    "github": "Leavesfly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Leavesfly/Jimi",
+    "skill_md": "https://raw.githubusercontent.com/Leavesfly/Jimi/main/src/main/resources/skills/git-commit-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:27.103Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Leavesfly%2FJimi/src%2Fmain%2Fresources%2Fskills%2Fgit-commit-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_f41f2d1752e7"
+  }
+}

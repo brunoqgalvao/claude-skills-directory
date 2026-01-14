@@ -1,0 +1,35 @@
+{
+  "id": "hic-matrix-qc",
+  "name": "hic-matrix-qc",
+  "version": "1.0.0",
+  "summary": "This skill performs standardized quality control (QC) on Hi-C contact matrices stored in .mcool or .cool format. It computes coverage and cis/trans ratios, distance-dependent co...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BIsnake2001",
+    "github": "BIsnake2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BIsnake2001/ChromSkills",
+    "skill_md": "https://raw.githubusercontent.com/BIsnake2001/ChromSkills/main/30_toolBased.hic-matrix-qc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:03:59.400Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BIsnake2001%2FChromSkills/30_toolBased.hic-matrix-qc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_89f910d7aeeb"
+  }
+}

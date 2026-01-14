@@ -1,0 +1,35 @@
+{
+  "id": "consulting-peer-llms",
+  "name": "consulting-peer-llms",
+  "version": "1.0.0",
+  "summary": "Use when user explicitly requests feedback from other LLM tools (Gemini, Codex) on current work - executes peer reviews in parallel and synthesizes responses into actionable ins...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ether-moon",
+    "github": "ether-moon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ether-moon/skill-set",
+    "skill_md": "https://raw.githubusercontent.com/ether-moon/skill-set/main/plugins/skill-set/skills/consulting-peer-llms/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.702Z",
+  "created_at": "2025-12-22T21:57:01.853Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ether-moon%2Fskill-set/plugins%2Fskill-set%2Fskills%2Fconsulting-peer-llms%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.702Z",
+    "uniqueId": "sk_bbfd1a6b0a51"
+  }
+}

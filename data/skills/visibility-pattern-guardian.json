@@ -1,0 +1,37 @@
+{
+  "id": "visibility-pattern-guardian",
+  "name": "visibility-pattern-guardian",
+  "version": "1.0.0",
+  "summary": "Enforces visibility pattern for testability by detecting private methods that prevent unit testing (causes 20-40% coverage loss). References authoritative style guides rather th...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matthew-bram",
+    "github": "matthew-bram"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matthew-bram/enterprise-confluent-test-probe",
+    "skill_md": "https://raw.githubusercontent.com/matthew-bram/enterprise-confluent-test-probe/main/.claude/skills/visibility-pattern-guardian/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.671Z",
+  "created_at": "2025-12-22T22:16:00.804Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matthew-bram%2Fenterprise-confluent-test-probe/.claude%2Fskills%2Fvisibility-pattern-guardian%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.671Z",
+    "uniqueId": "sk_4839e212e1a5"
+  }
+}

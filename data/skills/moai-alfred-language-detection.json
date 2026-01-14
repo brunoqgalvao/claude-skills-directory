@@ -1,0 +1,35 @@
+{
+  "id": "moai-alfred-language-detection",
+  "name": "moai-alfred-language-detection",
+  "version": "1.0.0",
+  "summary": "Auto-detects project language and framework from package.json, pyproject.toml, Cargo.toml, go.mod, and other configuration files with comprehensive pattern matching based on 17,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AJBcoding",
+    "github": "AJBcoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AJBcoding/claude-skill-eval",
+    "skill_md": "https://raw.githubusercontent.com/AJBcoding/claude-skill-eval/main/moai-adk-main/src/moai_adk/templates/.claude/skills/moai-alfred-language-detection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T22:10:57.714Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AJBcoding%2Fclaude-skill-eval/moai-adk-main%2Fsrc%2Fmoai_adk%2Ftemplates%2F.claude%2Fskills%2Fmoai-alfred-language-detection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_fa9503054979"
+  }
+}

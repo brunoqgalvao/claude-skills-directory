@@ -1,0 +1,35 @@
+{
+  "id": "checking-files-with-lsp",
+  "name": "checking-files-with-lsp",
+  "version": "1.0.0",
+  "summary": "Use when you need to check, verify, validate or understand code or structure of a file (often code related files or markdown) - automatically detects file type, finds appropriat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zenobi-us",
+    "github": "zenobi-us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zenobi-us/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/zenobi-us/dotfiles/main/devtools/files/opencode/skills/superpowers/checking-files-with-lsp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T06:59:34.000Z",
+  "created_at": "2025-12-23T01:29:11.623Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zenobi-us%2Fdotfiles/devtools%2Ffiles%2Fopencode%2Fskills%2Fsuperpowers%2Fchecking-files-with-lsp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_080fe2169cc9"
+  }
+}

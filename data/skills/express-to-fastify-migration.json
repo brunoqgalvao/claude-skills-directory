@@ -1,0 +1,35 @@
+{
+  "id": "express-to-fastify-migration",
+  "name": "express-to-fastify-migration",
+  "version": "1.0.0",
+  "summary": "Migrate Express.js REST APIs to Fastify with automated testing, performance benchmarking, and schema generation. Use when migrating Express applications to Fastify, modernizing ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timrogers",
+    "github": "timrogers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timrogers/iata-code-decoder-api",
+    "skill_md": "https://raw.githubusercontent.com/timrogers/iata-code-decoder-api/main/.github/skills/express-to-fastify-migration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:13.663Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timrogers%2Fiata-code-decoder-api/.github%2Fskills%2Fexpress-to-fastify-migration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_976825f2ed55"
+  }
+}

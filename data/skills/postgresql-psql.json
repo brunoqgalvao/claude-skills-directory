@@ -1,0 +1,37 @@
+{
+  "id": "postgresql-psql",
+  "name": "postgresql-psql",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for PostgreSQL psql - the interactive terminal client for PostgreSQL. Use when connecting to PostgreSQL databases, executing queries, managing databases/tabl...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timelessco",
+    "github": "timelessco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timelessco/recollect",
+    "skill_md": "https://raw.githubusercontent.com/timelessco/recollect/main/.claude/skills/postgresql-psql/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.471Z",
+  "created_at": "2025-12-23T01:29:59.004Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timelessco%2Frecollect/.claude%2Fskills%2Fpostgresql-psql%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.471Z",
+    "uniqueId": "sk_1d2ea7eaa6d2"
+  }
+}

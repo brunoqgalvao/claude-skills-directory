@@ -1,0 +1,36 @@
+{
+  "id": "data-insights",
+  "name": "data-insights",
+  "version": "1.0.0",
+  "summary": "Generate actionable insights from transaction data. Use when implementing insight generators, anomaly detection, or data analysis features for financial/tax tracking applications.",
+  "verticals": [
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattleonard16",
+    "github": "mattleonard16"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattleonard16/taxhelper",
+    "skill_md": "https://raw.githubusercontent.com/mattleonard16/taxhelper/main/.factory/skills/data-insights/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.531Z",
+  "created_at": "2025-12-23T01:29:00.736Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattleonard16%2Ftaxhelper/.factory%2Fskills%2Fdata-insights%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.531Z",
+    "uniqueId": "sk_e48a3b97fda9"
+  }
+}

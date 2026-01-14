@@ -1,0 +1,37 @@
+{
+  "id": "learning-graph-generator",
+  "name": "learning-graph-generator",
+  "version": "1.0.0",
+  "summary": "Generates a comprehensive learning graph from a course description, including 200 concepts with dependencies, taxonomy categorization, and quality validation reports. Use this w...",
+  "verticals": [
+    "finance",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dmccreary",
+    "github": "dmccreary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dmccreary/signal-processing",
+    "skill_md": "https://raw.githubusercontent.com/dmccreary/signal-processing/main/skills/learning-graph-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:10:10.704Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dmccreary%2Fsignal-processing/skills%2Flearning-graph-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_01c472735cf8"
+  }
+}

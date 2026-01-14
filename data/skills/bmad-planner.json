@@ -1,0 +1,37 @@
+{
+  "id": "bmad-planner",
+  "name": "bmad-planner",
+  "version": "1.0.0",
+  "summary": "Interactive callable tool that creates BMAD planning documents (requirements,\narchitecture, epics) in main repository on contrib branch. Three-persona Q&A\nsystem generates compr...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stharrold",
+    "github": "stharrold"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stharrold/stharrold-templates",
+    "skill_md": "https://raw.githubusercontent.com/stharrold/stharrold-templates/main/.agents/bmad-planner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T18:55:51.000Z",
+  "created_at": "2025-12-23T01:29:41.527Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stharrold%2Fstharrold-templates/.agents%2Fbmad-planner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_a8f858db6fdd"
+  }
+}

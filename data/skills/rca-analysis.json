@@ -1,0 +1,36 @@
+{
+  "id": "rca-analysis",
+  "name": "rca-analysis",
+  "version": "1.0.0",
+  "summary": "Perform Root Cause Analysis using a multi-agent swarm approach. Use when investigating bugs, failures, performance issues, or any problem requiring systematic diagnosis. Trigger...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mabrax",
+    "github": "mabrax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mabrax/coihuin-spec",
+    "skill_md": "https://raw.githubusercontent.com/mabrax/coihuin-spec/main/.claude/skills/rca-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:06:11.162Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mabrax%2Fcoihuin-spec/.claude%2Fskills%2Frca-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_75a1a191d51a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "android-dev-core",
+  "name": "android-dev-core",
+  "version": "1.0.0",
+  "summary": "Android 功能开发核心规则。包含项目架构、MVI模式、Base类、Adapter、网络请求等基础规范。开发任何 Android 功能时都应加载此 skill。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "est7",
+    "github": "est7"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/est7/agent-tool",
+    "skill_md": "https://raw.githubusercontent.com/est7/agent-tool/main/cfg/templates/skills/android-dev-core_1/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:23.969Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/est7%2Fagent-tool/cfg%2Ftemplates%2Fskills%2Fandroid-dev-core_1%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_3ce19dfa35fe"
+  }
+}

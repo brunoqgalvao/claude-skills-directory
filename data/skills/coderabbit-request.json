@@ -1,0 +1,36 @@
+{
+  "id": "coderabbit-request",
+  "name": "coderabbit-request",
+  "version": "1.0.0",
+  "summary": "Use after completing file changes - strongest for source code (AST-aware linting, security, tests), lighter support for markdown/config. Dispatches CodeRabbit reviewer subagent....",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "caiokf",
+    "github": "caiokf"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/caiokf/homepage",
+    "skill_md": "https://raw.githubusercontent.com/caiokf/homepage/main/.claude/skills/coderabbit-request/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:34.415Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/caiokf%2Fhomepage/.claude%2Fskills%2Fcoderabbit-request%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_a2d001c594a5"
+  }
+}

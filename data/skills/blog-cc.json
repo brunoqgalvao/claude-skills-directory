@@ -1,0 +1,36 @@
+{
+  "id": "blog-cc",
+  "name": "blog-cc",
+  "version": "1.0.0",
+  "summary": "Use when managing blog-cc static sites - content creation, deployment, themes, courses. Conversational content management with AI generation, validation, and GitHub Pages deploy...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "imehr",
+    "github": "imehr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/imehr/blog-cc-framework",
+    "skill_md": "https://raw.githubusercontent.com/imehr/blog-cc-framework/main/skills/content-management/blog-cc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-03T02:54:33.000Z",
+  "created_at": "2025-12-23T01:29:18.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/imehr%2Fblog-cc-framework/skills%2Fcontent-management%2Fblog-cc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.510Z",
+    "uniqueId": "sk_5c1fbb639c75"
+  }
+}

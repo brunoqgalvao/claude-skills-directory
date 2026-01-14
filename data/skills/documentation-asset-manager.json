@@ -1,0 +1,36 @@
+{
+  "id": "documentation-asset-manager",
+  "name": "documentation-asset-manager",
+  "version": "1.0.0",
+  "summary": "Manages Tallyfy documentation assets on Cloudflare R2. Uploads images, generates AI captions using Claude Code native vision, maintains CSV inventory with build-time integration...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tallyfy",
+    "github": "tallyfy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tallyfy/documentation",
+    "skill_md": "https://raw.githubusercontent.com/tallyfy/documentation/main/.claude/skills/documentation-asset-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.169Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tallyfy%2Fdocumentation/.claude%2Fskills%2Fdocumentation-asset-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_5df3d68e92e4"
+  }
+}

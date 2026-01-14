@@ -1,0 +1,36 @@
+{
+  "id": "railstart-preset-builder",
+  "name": "railstart-preset-builder",
+  "version": "1.0.0",
+  "summary": "Guide for creating railstart preset configuration files. Use when building new presets, customizing Rails 8 app generation, creating team-specific configurations, or defining op...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dpaluy",
+    "github": "dpaluy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dpaluy/railstart",
+    "skill_md": "https://raw.githubusercontent.com/dpaluy/railstart/main/docs/railstart-preset-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.476Z",
+  "created_at": "2025-12-23T01:29:52.706Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dpaluy%2Frailstart/docs%2Frailstart-preset-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.476Z",
+    "uniqueId": "sk_e940095c7c04"
+  }
+}

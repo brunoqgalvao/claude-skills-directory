@@ -1,0 +1,35 @@
+{
+  "id": "financial-modeling",
+  "name": "financial-modeling",
+  "version": "1.0.0",
+  "summary": "Financial modeling workflow for DCF, LBO, merger, and operating models.\nDelivers validated, documented models with sensitivity and scenario analysis.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LerianStudio",
+    "github": "LerianStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LerianStudio/ring",
+    "skill_md": "https://raw.githubusercontent.com/LerianStudio/ring/main/finance-team/skills/financial-modeling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:50:31.000Z",
+  "created_at": "2025-12-22T19:14:23.030Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LerianStudio%2Fring/finance-team%2Fskills%2Ffinancial-modeling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_76f8c2d43866"
+  }
+}

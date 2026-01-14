@@ -1,0 +1,35 @@
+{
+  "id": "managing-commits",
+  "name": "managing-commits",
+  "version": "1.0.0",
+  "summary": "Git commit quality and conventional commits expertise with automatic issue tracking integration. Auto-invokes when the user explicitly asks about commit message format, commit q...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "C0ntr0lledCha0s",
+    "github": "C0ntr0lledCha0s"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/C0ntr0lledCha0s/claude-code-plugin-automations",
+    "skill_md": "https://raw.githubusercontent.com/C0ntr0lledCha0s/claude-code-plugin-automations/main/github-workflows/skills/managing-commits/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.603Z",
+  "created_at": "2025-12-23T00:07:38.105Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/C0ntr0lledCha0s%2Fclaude-code-plugin-automations/github-workflows%2Fskills%2Fmanaging-commits%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.603Z",
+    "uniqueId": "sk_78aa1212c756"
+  }
+}

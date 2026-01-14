@@ -1,0 +1,35 @@
+{
+  "id": "skill-b",
+  "name": "skill-b",
+  "version": "1.0.0",
+  "summary": "Skill B from experimental directory",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maxvaega",
+    "github": "maxvaega"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maxvaega/skillkit",
+    "skill_md": "https://raw.githubusercontent.com/maxvaega/skillkit/main/tests/fixtures/plugins/multi-dir-plugin/experimental/skill-b/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-16T22:02:04.000Z",
+  "created_at": "2025-12-23T01:28:09.369Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maxvaega%2Fskillkit/tests%2Ffixtures%2Fplugins%2Fmulti-dir-plugin%2Fexperimental%2Fskill-b%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_057365cf1701"
+  }
+}

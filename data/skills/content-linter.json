@@ -1,0 +1,36 @@
+{
+  "id": "content-linter",
+  "name": "content-linter",
+  "version": "1.0.0",
+  "summary": "Lint content for spelling errors, en-GB compliance, and writing quality. Use when checking markdown files before publication.",
+  "verticals": [
+    "legal",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "spences10",
+    "github": "spences10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/spences10/scottspence.com",
+    "skill_md": "https://raw.githubusercontent.com/spences10/scottspence.com/main/.claude/skills/content-linter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T16:22:45.000Z",
+  "created_at": "2025-12-22T14:53:46.581Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/spences10%2Fscottspence.com/.claude%2Fskills%2Fcontent-linter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_e167f25dad19"
+  }
+}

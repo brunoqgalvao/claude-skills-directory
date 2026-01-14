@@ -1,0 +1,36 @@
+{
+  "id": "preview",
+  "name": "preview",
+  "version": "1.0.0",
+  "summary": "See what breaks BEFORE you edit. Type errors, affected callers, required tests.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Technikhighknee",
+    "github": "Technikhighknee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Technikhighknee/agent-workbench",
+    "skill_md": "https://raw.githubusercontent.com/Technikhighknee/agent-workbench/main/.claude/skills/preview/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:16.680Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Technikhighknee%2Fagent-workbench/.claude%2Fskills%2Fpreview%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_5109f0867750"
+  }
+}

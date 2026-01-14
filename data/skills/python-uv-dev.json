@@ -1,0 +1,35 @@
+{
+  "id": "python-uv-dev",
+  "name": "python-uv-dev",
+  "version": "1.0.0",
+  "summary": "Python development using the `uv` package manager. Use this skill when working with Python projects that use `uv` for dependency management, when initializing new Python project...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ships",
+    "github": "ships"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ships/eden",
+    "skill_md": "https://raw.githubusercontent.com/ships/eden/main/assets/claude/skills/python-uv-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:34.211Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ships%2Feden/assets%2Fclaude%2Fskills%2Fpython-uv-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_9ac04326467e"
+  }
+}

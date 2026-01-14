@@ -1,0 +1,35 @@
+{
+  "id": "with-reference",
+  "name": "with-reference",
+  "version": "1.0.0",
+  "summary": "Demonstrates loading an external note during execution.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hide212131",
+    "github": "hide212131"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hide212131/langchain4j-claude-skills-agent",
+    "skill_md": "https://raw.githubusercontent.com/hide212131/langchain4j-claude-skills-agent/main/app/src/test/resources/test-skills/with-reference/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T07:53:30.000Z",
+  "created_at": "2025-12-23T01:28:11.379Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hide212131%2Flangchain4j-claude-skills-agent/app%2Fsrc%2Ftest%2Fresources%2Ftest-skills%2Fwith-reference%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.585Z",
+    "uniqueId": "sk_99c7a86eed39"
+  }
+}

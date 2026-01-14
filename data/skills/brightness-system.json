@@ -1,0 +1,35 @@
+{
+  "id": "brightness-system",
+  "name": "brightness-system",
+  "version": "1.0.0",
+  "summary": "8-mode brightness system implementation with CSS custom properties. Use when implementing theme switching, color tokens, or fixing brightness-related issues.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "omerakben",
+    "github": "omerakben"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/omerakben/omer-akben",
+    "skill_md": "https://raw.githubusercontent.com/omerakben/omer-akben/main/.claude/skills/brightness-system-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-09T15:06:02.000Z",
+  "created_at": "2025-12-23T01:29:19.907Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/omerakben%2Fomer-akben/.claude%2Fskills%2Fbrightness-system-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_79ed308e78f6"
+  }
+}

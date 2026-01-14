@@ -1,0 +1,37 @@
+{
+  "id": "nix-justfile-development",
+  "name": "nix-justfile-development",
+  "version": "1.0.0",
+  "summary": "Work with Feels Protocol Nix flake system and justfile task runner for reproducible builds, multi-shell environments, and automated workflows",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FeelsDEX",
+    "github": "FeelsDEX"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FeelsDEX/feels",
+    "skill_md": "https://raw.githubusercontent.com/FeelsDEX/feels/main/.claude/skills/nix-justfile/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.885Z",
+  "created_at": "2025-12-20T05:25:35.899Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FeelsDEX%2Ffeels/.claude%2Fskills%2Fnix-justfile%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_8298ac283630"
+  }
+}

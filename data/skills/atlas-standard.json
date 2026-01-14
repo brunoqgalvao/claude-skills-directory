@@ -1,0 +1,36 @@
+{
+  "id": "atlas-standard",
+  "name": "atlas-standard",
+  "version": "1.0.0",
+  "summary": "Standard 5-phase workflow for most development tasks - bugs, small features, refactors (30-60 min)",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ajstack22",
+    "github": "ajstack22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ajstack22/StackMap",
+    "skill_md": "https://raw.githubusercontent.com/ajstack22/StackMap/main/atlas-skills/atlas-standard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:23.339Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ajstack22%2FStackMap/atlas-skills%2Fatlas-standard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_d199119aad21"
+  }
+}

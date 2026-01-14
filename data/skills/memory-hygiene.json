@@ -1,0 +1,35 @@
+{
+  "id": "memory-hygiene",
+  "name": "memory-hygiene",
+  "version": "1.0.0",
+  "summary": "Maintains memory cleanliness with deduplication, validation, and expiration",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "benreceveur",
+    "github": "benreceveur"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/benreceveur/claude-workflow-engine",
+    "skill_md": "https://raw.githubusercontent.com/benreceveur/claude-workflow-engine/main/skills/memory-hygiene/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:08.465Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/benreceveur%2Fclaude-workflow-engine/skills%2Fmemory-hygiene%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_cd0f1dff20e3"
+  }
+}

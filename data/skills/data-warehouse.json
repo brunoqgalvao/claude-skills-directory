@@ -1,0 +1,36 @@
+{
+  "id": "data-warehouse",
+  "name": "data-warehouse",
+  "version": "1.0.0",
+  "summary": "Data warehouse design mastery with star schema, dimensional modeling, fact/dimension tables, slowly changing dimensions, and enterprise best practices. Complete schema examples ...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-sql",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-sql/main/skills/data-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:16.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-sql/skills%2Fdata-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_ab481bf8c858"
+  }
+}

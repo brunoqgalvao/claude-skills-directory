@@ -1,0 +1,36 @@
+{
+  "id": "logseq-db-plugin-api",
+  "name": "logseq-db-plugin-api",
+  "version": "1.0.0",
+  "summary": "Essential knowledge for developing Logseq plugins for DB (database) graphs. Covers core APIs, event-driven updates with DB.onChanged, multi-layered tag detection, property value...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kerim",
+    "github": "kerim"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kerim/logseq-db-plugin-api-skill",
+    "skill_md": "https://raw.githubusercontent.com/kerim/logseq-db-plugin-api-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.685Z",
+  "created_at": "2025-12-22T22:09:58.124Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kerim%2Flogseq-db-plugin-api-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.685Z",
+    "uniqueId": "sk_a993883a509c"
+  }
+}

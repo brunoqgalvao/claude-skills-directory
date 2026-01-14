@@ -1,0 +1,35 @@
+{
+  "id": "pr-message-generator",
+  "name": "pr-message-generator",
+  "version": "1.0.0",
+  "summary": "develop 브랜치에서 분기한 시점부터 현재까지의 모든 변경사항을 분석하여 구조화된 한글 PR 메시지를 자동으로 생성합니다. 카테고리별로 변경사항을 정리하고 완료 체크리스트를 포함합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Mockly-Company",
+    "github": "Mockly-Company"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Mockly-Company/mockly-mobile",
+    "skill_md": "https://raw.githubusercontent.com/Mockly-Company/mockly-mobile/main/.claude/skills/pr-message-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T04:34:38.000Z",
+  "created_at": "2025-12-23T01:29:26.052Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Mockly-Company%2Fmockly-mobile/.claude%2Fskills%2Fpr-message-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.498Z",
+    "uniqueId": "sk_48b9da8a370c"
+  }
+}

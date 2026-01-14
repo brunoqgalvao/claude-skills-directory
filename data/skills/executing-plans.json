@@ -2,38 +2,35 @@
   "id": "executing-plans",
   "name": "executing-plans",
   "version": "1.0.0",
-  "summary": "you have a written implementation plan to execute in a separate session with review checkpoints",
+  "summary": "Use when you have a written implementation plan to execute in a separate session with review checkpoints",
+  "description": "# Executing Plans\n\n## Overview\n\nLoad plan, review critically, execute tasks in batches, report for review between batches.\n\n**Core principle:** Batch execution with checkpoints for architect review.\n\n**Announce at start:** \"I'm using the executing-plans skill to implement this plan.\"\n\n## The Process\n\n### Step 1: Load and Review Plan\n1. Read plan file\n2. Review critically - identify any questions or concerns about the plan\n3. If concerns: Raise them with your human partner before starting\n4. If no concerns: Create TodoWrite and proceed\n\n### Step 2: Execute Batch\n**Default: First 3 tasks**\n\nFor each task:\n1. Mark as in_progress\n2. Follow each step exactly (plan has bite-sized steps)\n3. Run verifications as specified\n4. Mark as completed\n\n### Step 3: Report\nWhen batch complete:\n- Show what was implemented\n- Show verification output\n- Say: \"Ready for feedback.\"\n\n### Step 4: Continue\nBased on feedback:\n- Apply changes if needed\n- Execute next batch\n- Repeat until complete\n\n### Step 5: Complete Development\n\nAfter all tasks complete and verified:\n- Announce: \"I'm using the finishing-a-development-branch skill to complete this work.\"\n- **REQUIRED SUB-SKILL:** Use superpowers:finishing-a-development-branch\n- Follow that skill to verify tests, present options, execute choice\n\n## When to Stop and Ask for Help\n\n**STOP executing immediately when:**\n- Hit a blocker mid-batch (missing dependency, test fails, instruction unclear)\n- Plan has critical gaps preventing starting\n- You don't understand an instruction\n- Verification fails repeatedly\n\n**Ask for clarification rather than guessing.**\n\n## When to Revisit Earlier Steps\n\n**Return to Review (Step 1) when:**\n- Partner updates the plan based on your feedback\n- Fundamental approach needs rethinking\n\n**Don't force through blockers** - stop and ask.\n\n## Remember\n- Review plan critically first\n- Follow plan steps exactly\n- Don't skip verifications\n- Reference skills when plan says to\n- Between batches: just report and wait\n- Stop when blocked, don't guess",
   "verticals": [
-    "Operations",
-    "Design"
+    "engineering"
   ],
-  "tags": [
-    "executing",
-    "plans",
-    "ai"
-  ],
+  "tags": [],
   "author": {
     "name": "obra",
-    "github": "obra",
-    "avatar": "https://avatars.githubusercontent.com/u/45416?v=4"
+    "github": "obra"
   },
   "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/obra/superpowers/tree/main/skills/executing-plans",
+    "repo": "https://github.com/obra/superpowers",
     "skill_md": "https://raw.githubusercontent.com/obra/superpowers/main/skills/executing-plans/SKILL.md"
   },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install executing-plans"
-  },
   "stats": {
-    "stars": 13645,
-    "forks": 1125,
+    "stars": 14350,
+    "forks": 1171,
     "installs": 0
   },
-  "last_updated": "2025-12-27",
-  "created_at": "2025-10-09"
+  "last_updated": "2026-01-07T16:58:03Z",
+  "created_at": "2025-10-09T19:45:18Z",
+  "meta": {
+    "source": "github",
+    "sourceUrl": "https://github.com/obra/superpowers/blob/main/skills/executing-plans/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_c767a9121edc"
+  }
 }

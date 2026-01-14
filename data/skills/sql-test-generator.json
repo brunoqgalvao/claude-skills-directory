@@ -1,0 +1,36 @@
+{
+  "id": "sql-test-generator",
+  "name": "sql-test-generator",
+  "version": "1.0.0",
+  "summary": "ALWAYS use this skill when users ask to create, generate, or write UNIT TESTS for BigQuery SQL queries. Invoke proactively whenever the request includes \"test\" or \"tests\" with a...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mozilla",
+    "github": "mozilla"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mozilla/bigquery-etl-skills",
+    "skill_md": "https://raw.githubusercontent.com/mozilla/bigquery-etl-skills/main/sql-test-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:01:48.961Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mozilla%2Fbigquery-etl-skills/sql-test-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_079536b66397"
+  }
+}

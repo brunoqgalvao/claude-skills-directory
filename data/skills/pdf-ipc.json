@@ -1,0 +1,36 @@
+{
+  "id": "pdf-ipc",
+  "name": "pdf-ipc",
+  "version": "1.0.0",
+  "summary": "This skill should be used when implementing IPC (Inter-Process Communication) channels for PDF operations in Electron. Triggers on requests to create PDF merge, edit, or convert...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KwonCheulJin",
+    "github": "KwonCheulJin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KwonCheulJin/pdf-studio-desktop",
+    "skill_md": "https://raw.githubusercontent.com/KwonCheulJin/pdf-studio-desktop/main/.claude/skills/pdf-ipc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T04:04:57.000Z",
+  "created_at": "2025-12-23T01:29:19.778Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KwonCheulJin%2Fpdf-studio-desktop/.claude%2Fskills%2Fpdf-ipc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.508Z",
+    "uniqueId": "sk_f2ae301ddbbe"
+  }
+}

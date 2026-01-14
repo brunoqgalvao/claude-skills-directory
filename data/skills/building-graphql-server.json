@@ -1,0 +1,37 @@
+{
+  "id": "building-graphql-server",
+  "name": "building-graphql-server",
+  "version": "1.0.0",
+  "summary": "Build production-ready GraphQL servers with schema design, resolvers, and subscriptions.\nUse when building GraphQL APIs with schemas and resolvers.\nTrigger with phrases like \"bu...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/api-development/graphql-server-builder/skills/graphql-server-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:52:13.538Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Fapi-development%2Fgraphql-server-builder%2Fskills%2Fgraphql-server-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_373810bab0a8"
+  }
+}

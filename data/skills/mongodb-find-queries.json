@@ -1,0 +1,35 @@
+{
+  "id": "mongodb-find-queries",
+  "name": "mongodb-find-queries",
+  "version": "1.0.0",
+  "summary": "Master MongoDB find queries with filters, projections, sorting, and pagination. Learn query operators, comparison, logical operators, and real-world query patterns. Use when ret...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-mongodb",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-mongodb/main/skills/mongodb-find-queries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:24.585Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-mongodb/skills%2Fmongodb-find-queries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_eb9925111d75"
+  }
+}

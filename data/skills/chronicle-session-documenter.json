@@ -1,0 +1,37 @@
+{
+  "id": "chronicle-session-documenter",
+  "name": "chronicle-session-documenter",
+  "version": "1.0.0",
+  "summary": "Document AI-assisted development sessions to Obsidian vault using Chronicle data. Works with MCP (fastest) or CLI commands (portable). Use when completing a coding session, crea...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ChandlerHardy",
+    "github": "ChandlerHardy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ChandlerHardy/chronicle",
+    "skill_md": "https://raw.githubusercontent.com/ChandlerHardy/chronicle/main/chronicle-skills/chronicle-session-documenter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.760Z",
+  "created_at": "2025-12-22T20:11:23.541Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ChandlerHardy%2Fchronicle/chronicle-skills%2Fchronicle-session-documenter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.760Z",
+    "uniqueId": "sk_e0b31bd333b0"
+  }
+}

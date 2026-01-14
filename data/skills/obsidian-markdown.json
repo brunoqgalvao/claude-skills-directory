@@ -1,0 +1,37 @@
+{
+  "id": "obsidian-markdown",
+  "name": "obsidian-markdown",
+  "version": "1.0.0",
+  "summary": "Comprehensive Obsidian PKM skill covering markdown syntax, MCP integration, plugin ecosystem (Templater, QuickAdd, Tasks, Periodic Notes), workflows (daily review, weekly planni...",
+  "verticals": [
+    "finance",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cameronsjo",
+    "github": "cameronsjo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cameronsjo/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/cameronsjo/claude-marketplace/main/plugins/obsidian/skills/obsidian-markdown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:15:54.054Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cameronsjo%2Fclaude-marketplace/plugins%2Fobsidian%2Fskills%2Fobsidian-markdown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_f0422731fddb"
+  }
+}

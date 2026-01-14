@@ -1,0 +1,35 @@
+{
+  "id": "frontend-techniques",
+  "name": "frontend-techniques",
+  "version": "1.0.0",
+  "summary": "フロントエンド技術のナレッジベースを参照します。CSS、JavaScript、パフォーマンス、アクセシビリティなどの質問に回答する際に使用してください。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sekka",
+    "github": "sekka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sekka/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/sekka/dotfiles/main/home/.claude/skills/frontend-techniques/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T12:04:26.000Z",
+  "created_at": "2025-12-23T01:28:42.735Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sekka%2Fdotfiles/home%2F.claude%2Fskills%2Ffrontend-techniques%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.559Z",
+    "uniqueId": "sk_d976d7e341c7"
+  }
+}

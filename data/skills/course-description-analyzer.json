@@ -1,0 +1,36 @@
+{
+  "id": "course-description-analyzer",
+  "name": "course-description-analyzer",
+  "version": "1.0.0",
+  "summary": "This skill analyzes or creates course descriptions for intelligent textbooks by checking for completeness of required elements (title, audience, prerequisites, topics, Bloom's T...",
+  "verticals": [
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dmccreary",
+    "github": "dmccreary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dmccreary/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/dmccreary/claude-skills/main/skills/course-description-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-15T12:59:31.000Z",
+  "created_at": "2025-12-22T20:00:53.974Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dmccreary%2Fclaude-skills/skills%2Fcourse-description-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_fc21c4db375b"
+  }
+}

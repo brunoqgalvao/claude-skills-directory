@@ -1,0 +1,37 @@
+{
+  "id": "grey-haven-database-conventions",
+  "name": "grey-haven-database-conventions",
+  "version": "1.0.0",
+  "summary": "Apply Grey Haven database conventions - snake_case fields, multi-tenant with tenant_id and RLS, proper indexing, migrations for Drizzle (TypeScript) and SQLModel (Python). Use w...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "greyhaven-ai",
+    "github": "greyhaven-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/greyhaven-ai/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/greyhaven-ai/claude-code-config/main/grey-haven-plugins/data-quality/skills/database-conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:01:30.267Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/greyhaven-ai%2Fclaude-code-config/grey-haven-plugins%2Fdata-quality%2Fskills%2Fdatabase-conventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_33fca1d2b862"
+  }
+}

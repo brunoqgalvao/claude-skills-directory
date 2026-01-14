@@ -1,0 +1,35 @@
+{
+  "id": "materials-properties",
+  "name": "materials-properties",
+  "version": "1.0.0",
+  "summary": "Expert assistant for calculating materials properties from first-principles using ASE - structure relaxation, surface energies, adsorption, reaction barriers, phonons, elastic c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkitchin",
+    "github": "jkitchin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkitchin/skillz",
+    "skill_md": "https://raw.githubusercontent.com/jkitchin/skillz/main/skills/programming/materials-properties/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.175Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkitchin%2Fskillz/skills%2Fprogramming%2Fmaterials-properties%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_2d3247631d04"
+  }
+}

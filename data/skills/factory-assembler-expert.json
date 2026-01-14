@@ -1,0 +1,35 @@
+{
+  "id": "factory-assembler-expert",
+  "name": "factory-assembler-expert",
+  "version": "1.0.0",
+  "summary": "Factory & Assembler 변환 전문가. CommandFactory Command→Domain 변환, QueryFactory Query→Criteria 변환,\nAssembler Domain→Response 변환. PersistBundle 영속화 묶음, QueryBundle 조회 결과 묶음.\n단방향 변환 원칙...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryu-qqq",
+    "github": "ryu-qqq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryu-qqq/setof-commerce",
+    "skill_md": "https://raw.githubusercontent.com/ryu-qqq/setof-commerce/main/.claude/skills/factory-assembler-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:01:53.433Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryu-qqq%2Fsetof-commerce/.claude%2Fskills%2Ffactory-assembler-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_1bd53abd7d21"
+  }
+}

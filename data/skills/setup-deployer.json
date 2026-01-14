@@ -1,0 +1,36 @@
+{
+  "id": "setup-deployer",
+  "name": "setup-deployer",
+  "version": "1.0.0",
+  "summary": "Interactive guide for installing and configuring AWS Deployer infrastructure - builds Lambda functions, deploys CloudFormation stacks, and sets up multi-account targets and GitH...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "savaki",
+    "github": "savaki"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/savaki/savaki-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/savaki/savaki-marketplace/main/plugins/aws-deployer/skills/setup-deployer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.689Z",
+  "created_at": "2025-12-22T22:07:15.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/savaki%2Fsavaki-marketplace/plugins%2Faws-deployer%2Fskills%2Fsetup-deployer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.689Z",
+    "uniqueId": "sk_51037995ebe9"
+  }
+}

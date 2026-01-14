@@ -1,0 +1,36 @@
+{
+  "id": "build-settings-validator",
+  "name": "build-settings-validator",
+  "version": "1.0.0",
+  "summary": "Xcodeプロジェクトのビルド設定を検証・修正するスキル。推奨設定との比較、問題の検出、修正提案を行う。使用シーン：(1)「ビルド設定を確認して」「プロジェクト設定をチェックして」などの設定検証リクエスト (2)「Swift 6対応の設定になっているか見て」などの特定設定の確認 (3) 新規プロジェクト作成後の設定レビュー (4)「フレームワークの設定...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hiragram",
+    "github": "hiragram"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hiragram/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/hiragram/claude-code-plugins/main/ios-team/skills/build-settings-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.556Z",
+  "created_at": "2025-12-23T01:28:44.174Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hiragram%2Fclaude-code-plugins/ios-team%2Fskills%2Fbuild-settings-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_cb23b7550095"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "create-design-system-rules",
+  "name": "create-design-system-rules",
+  "version": "1.0.0",
+  "summary": "Generates custom design system rules for the user's codebase. Use when user says \"create design system rules\", \"generate rules for my project\", \"set up design rules\", \"customize...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "figma",
+    "github": "figma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/figma/mcp-server-guide",
+    "skill_md": "https://raw.githubusercontent.com/figma/mcp-server-guide/main/skills/create-design-system-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.643Z",
+  "created_at": "2025-12-22T23:07:16.107Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/figma%2Fmcp-server-guide/skills%2Fcreate-design-system-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.643Z",
+    "uniqueId": "sk_7898cd84169b"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "feels-deployment-quickstart",
+  "name": "feels-deployment-quickstart",
+  "version": "1.0.0",
+  "summary": "Quick reference for Feels Protocol deployment commands, environment setup, and common deployment workflows",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FeelsDEX",
+    "github": "FeelsDEX"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FeelsDEX/feels",
+    "skill_md": "https://raw.githubusercontent.com/FeelsDEX/feels/main/.claude/skills/deployment-commands/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T11:44:42.000Z",
+  "created_at": "2025-12-22T01:34:02.639Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FeelsDEX%2Ffeels/.claude%2Fskills%2Fdeployment-commands%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_36428d544673"
+  }
+}

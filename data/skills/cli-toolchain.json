@@ -1,0 +1,36 @@
+{
+  "id": "cli-toolchain",
+  "name": "cli-toolchain",
+  "version": "1.0.0",
+  "summary": "Apply modern CLI development toolchain patterns: Commander.js (default), oclif, Ink for Node.js command-line tools. Use when building CLI applications, choosing CLI frameworks, ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phrazzld",
+    "github": "phrazzld"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phrazzld/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/phrazzld/claude-config/main/skills/cli-toolchain/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:03.907Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phrazzld%2Fclaude-config/skills%2Fcli-toolchain%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_0dcd2786efa1"
+  }
+}

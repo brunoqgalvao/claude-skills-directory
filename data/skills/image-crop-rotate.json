@@ -1,0 +1,35 @@
+{
+  "id": "image-crop-rotate",
+  "name": "image-crop-rotate",
+  "version": "1.0.0",
+  "summary": "Image processing skill for cropping images to 50% from center and rotating them 90 degrees clockwise. This skill should be used when users request image cropping to center, imag...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "instavm",
+    "github": "instavm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/instavm/coderunner",
+    "skill_md": "https://raw.githubusercontent.com/instavm/coderunner/main/skills/public/image-crop-rotate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-18T11:42:17.000Z",
+  "created_at": "2025-12-22T15:51:04.327Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/instavm%2Fcoderunner/skills%2Fpublic%2Fimage-crop-rotate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.463Z",
+    "uniqueId": "sk_9ad0779e2f41"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "accounts-payable-workflow",
+  "name": "accounts-payable-workflow",
+  "version": "1.0.0",
+  "summary": "Эксперт AP workflow. Используй для процессов кредиторской задолженности, invoice processing, three-way matching и payment automation.",
+  "verticals": [
+    "finance",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dengineproblem",
+    "github": "dengineproblem"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dengineproblem/agents-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/dengineproblem/agents-monorepo/main/.claude/skills/accounts-payable-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.809Z",
+  "created_at": "2025-12-22T17:55:30.640Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dengineproblem%2Fagents-monorepo/.claude%2Fskills%2Faccounts-payable-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.809Z",
+    "uniqueId": "sk_51729d4cba59"
+  }
+}

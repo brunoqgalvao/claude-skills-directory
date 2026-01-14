@@ -1,0 +1,35 @@
+{
+  "id": "linear-project-management",
+  "name": "linear-project-management",
+  "version": "1.0.0",
+  "summary": "Skill for Linear project management tasks including creating projects, creating issues, and reviewing project structures. Use when working with Linear project setup, issue creat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RasmusGodske",
+    "github": "RasmusGodske"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RasmusGodske/dev-agent-workflow",
+    "skill_md": "https://raw.githubusercontent.com/RasmusGodske/dev-agent-workflow/main/project-roles/skills/linear-project-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T12:34:15.000Z",
+  "created_at": "2025-12-22T15:08:31.914Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RasmusGodske%2Fdev-agent-workflow/project-roles%2Fskills%2Flinear-project-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_234a47ed7037"
+  }
+}

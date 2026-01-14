@@ -1,0 +1,35 @@
+{
+  "id": "openai-latam-audiobook",
+  "name": "openai-latam-audiobook",
+  "version": "1.0.0",
+  "summary": "Create complete audiobook with OpenAI GPT-4o-mini translation to Argentine Spanish. Full pipeline - translate, TTS, video with background image. Auto-scales parallelism based on...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smoreg",
+    "github": "smoreg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smoreg/biLangGen",
+    "skill_md": "https://raw.githubusercontent.com/smoreg/biLangGen/main/.claude/skills/openai-latam-audiobook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.161Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smoreg%2FbiLangGen/.claude%2Fskills%2Fopenai-latam-audiobook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_fb6e77f455b0"
+  }
+}

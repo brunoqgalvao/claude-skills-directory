@@ -1,0 +1,36 @@
+{
+  "id": "design-system-foundation",
+  "name": "design-system-foundation",
+  "version": "1.0.0",
+  "summary": "Use when starting a new React Native or Next.js project to establish design system foundation - creates design tokens, folder structure, component architecture, and documentatio...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "apexscaleai",
+    "github": "apexscaleai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/apexscaleai/claude-ui-design-system",
+    "skill_md": "https://raw.githubusercontent.com/apexscaleai/claude-ui-design-system/main/foundation/design-system-foundation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:58:17.653Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/apexscaleai%2Fclaude-ui-design-system/foundation%2Fdesign-system-foundation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_068c12be9952"
+  }
+}

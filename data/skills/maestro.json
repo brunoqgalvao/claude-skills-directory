@@ -1,0 +1,37 @@
+{
+  "id": "maestro",
+  "name": "maestro",
+  "version": "1.0.0",
+  "summary": "Creates and updates Claude Code skills following best practices. Guides through requirements gathering, design, content generation, and validation. Handles both new skill creati...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rp1-run",
+    "github": "rp1-run"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rp1-run/rp1",
+    "skill_md": "https://raw.githubusercontent.com/rp1-run/rp1/main/plugins/base/skills/maestro/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:52.126Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rp1-run%2Frp1/plugins%2Fbase%2Fskills%2Fmaestro%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_4b4fa430ddff"
+  }
+}

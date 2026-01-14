@@ -1,0 +1,35 @@
+{
+  "id": "tea-cli",
+  "name": "tea-cli",
+  "version": "1.0.0",
+  "summary": "Use when interacting with Gitea via command line - managing issues, PRs, releases, repos, or any git forge operations with tea CLI",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gaarutyunov",
+    "github": "gaarutyunov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gaarutyunov/dev-skills",
+    "skill_md": "https://raw.githubusercontent.com/gaarutyunov/dev-skills/main/gitea/skills/tea-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.854Z",
+  "created_at": "2025-12-22T15:53:15.551Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gaarutyunov%2Fdev-skills/gitea%2Fskills%2Ftea-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_a7bd80cc6115"
+  }
+}

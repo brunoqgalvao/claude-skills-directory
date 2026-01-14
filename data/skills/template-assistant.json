@@ -1,0 +1,36 @@
+{
+  "id": "template-assistant",
+  "name": "template-assistant",
+  "version": "1.0.0",
+  "summary": "Generate intelligent content for PARA Obsidian vault templates. Use when asked to create new notes (project, area, resource, task, capture, daily, weekly-review, booking, checkl...",
+  "verticals": [
+    "marketing",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nathanvale",
+    "github": "nathanvale"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nathanvale/side-quest-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/nathanvale/side-quest-marketplace/main/plugins/para-obsidian/skills/template-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T03:46:09.000Z",
+  "created_at": "2025-12-23T01:29:17.681Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nathanvale%2Fside-quest-marketplace/plugins%2Fpara-obsidian%2Fskills%2Ftemplate-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_09e0ffebb821"
+  }
+}

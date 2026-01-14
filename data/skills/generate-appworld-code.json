@@ -1,0 +1,36 @@
+{
+  "id": "generate-appworld-code",
+  "name": "generate-appworld-code",
+  "version": "1.0.0",
+  "summary": "Generate Python code to solve AppWorld agent tasks using playbook bullet guidance. Use when the AppWorld executor needs executable Python code for tasks involving Spotify, Venmo...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jmanhype",
+    "github": "jmanhype"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jmanhype/claude-code-plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/jmanhype/claude-code-plugin-marketplace/main/plugins/ace-context-engineering/skills/generate-appworld-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:58:50.371Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jmanhype%2Fclaude-code-plugin-marketplace/plugins%2Face-context-engineering%2Fskills%2Fgenerate-appworld-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_93180a43d0ff"
+  }
+}

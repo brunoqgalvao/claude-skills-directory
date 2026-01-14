@@ -1,0 +1,35 @@
+{
+  "id": "ddd-entity-generator",
+  "name": "ddd-entity-generator",
+  "version": "1.0.0",
+  "summary": "Generate domain layer components (entities, value objects, repository interfaces, events, errors). Use when adding entities to existing context, creating value objects for valid...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "moasadi",
+    "github": "moasadi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/moasadi/ddd-bun-api-boilerplate",
+    "skill_md": "https://raw.githubusercontent.com/moasadi/ddd-bun-api-boilerplate/main/.claude/skills/ddd-entity-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:44.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/moasadi%2Fddd-bun-api-boilerplate/.claude%2Fskills%2Fddd-entity-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_4d89f67490ce"
+  }
+}

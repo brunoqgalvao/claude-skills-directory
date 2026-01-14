@@ -1,0 +1,35 @@
+{
+  "id": "translate-politely",
+  "name": "translate-politely",
+  "version": "1.0.0",
+  "summary": "사용자가 번역을 요청한 단어를 정중한 표현의 영어로 번역한다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "devstefancho",
+    "github": "devstefancho"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/devstefancho/claude-code-book-sample",
+    "skill_md": "https://raw.githubusercontent.com/devstefancho/claude-code-book-sample/main/.claude/skills/translate-politely/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.582Z",
+  "created_at": "2025-12-23T01:28:14.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/devstefancho%2Fclaude-code-book-sample/.claude%2Fskills%2Ftranslate-politely%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.582Z",
+    "uniqueId": "sk_15cdae34ab6c"
+  }
+}

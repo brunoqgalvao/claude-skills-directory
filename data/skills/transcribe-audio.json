@@ -1,0 +1,35 @@
+{
+  "id": "transcribe-audio",
+  "name": "transcribe-audio",
+  "version": "1.0.0",
+  "summary": "Transcribes video audio using WhisperX, preserving original timestamps. Creates JSON transcript with word-level timing. Use when you need to generate audio transcripts for videos.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "barefootford",
+    "github": "barefootford"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/barefootford/buttercut",
+    "skill_md": "https://raw.githubusercontent.com/barefootford/buttercut/main/.claude/skills/transcribe-audio/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T23:05:16.000Z",
+  "created_at": "2025-12-22T15:52:45.308Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/barefootford%2Fbuttercut/.claude%2Fskills%2Ftranscribe-audio%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_6476fb78f531"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "claude-docs-consultant",
+  "name": "claude-docs-consultant",
+  "version": "1.0.0",
+  "summary": "Consult official Claude Code documentation from docs.claude.com using selective fetching. Use this skill when working on Claude Code hooks, skills, subagents, MCP servers, or an...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "centminmod",
+    "github": "centminmod"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/centminmod/my-claude-code-setup",
+    "skill_md": "https://raw.githubusercontent.com/centminmod/my-claude-code-setup/main/.claude/skills/claude-docs-consultant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-07T17:06:05.000Z",
+  "created_at": "2025-12-22T17:57:23.779Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/centminmod%2Fmy-claude-code-setup/.claude%2Fskills%2Fclaude-docs-consultant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_661d1f389fa9"
+  }
+}

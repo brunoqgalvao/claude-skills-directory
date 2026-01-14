@@ -1,0 +1,37 @@
+{
+  "id": "documentation-guide",
+  "name": "documentation-guide",
+  "version": "1.0.0",
+  "summary": "Documentation standards and automation. Use when updating docs, writing guides, or synchronizing code with documentation.",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "akaszubski",
+    "github": "akaszubski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/akaszubski/anyclaude-local",
+    "skill_md": "https://raw.githubusercontent.com/akaszubski/anyclaude-local/main/plugins/autonomous-dev/skills/documentation-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:39.452Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/akaszubski%2Fanyclaude-local/plugins%2Fautonomous-dev%2Fskills%2Fdocumentation-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_aff0ec9ee94e"
+  }
+}

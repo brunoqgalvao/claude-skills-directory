@@ -1,0 +1,36 @@
+{
+  "id": "forms-implementation",
+  "name": "forms-implementation",
+  "version": "1.0.0",
+  "summary": "Build reactive and template-driven forms, implement custom validators, create async validators, add cross-field validation, and generate dynamic forms for Angular applications.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-angular",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-angular/main/skills/forms/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T10:11:46.000Z",
+  "created_at": "2025-12-23T01:29:27.259Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-angular/skills%2Fforms%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_36cb74bf8668"
+  }
+}

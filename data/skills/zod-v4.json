@@ -1,0 +1,36 @@
+{
+  "id": "zod-v4",
+  "name": "zod-v4",
+  "version": "1.0.0",
+  "summary": "Expert guidance on Zod v4 validation library including breaking changes from v3, migration patterns, core API usage, and common validation patterns. Use when working with Zod sc...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "boneskull",
+    "github": "boneskull"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/boneskull/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/boneskull/claude-plugins/main/plugins/zod/skills/zod-v4/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:05.022Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/boneskull%2Fclaude-plugins/plugins%2Fzod%2Fskills%2Fzod-v4%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_0c3207757cec"
+  }
+}

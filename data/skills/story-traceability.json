@@ -1,0 +1,36 @@
+{
+  "id": "story-traceability",
+  "name": "story-traceability",
+  "version": "1.0.0",
+  "summary": "Ensure Acceptance Criteria map to Tasks and Tests for PR-per-story workflow",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MacroMan5",
+    "github": "MacroMan5"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MacroMan5/claude-code-workflow-plugins",
+    "skill_md": "https://raw.githubusercontent.com/MacroMan5/claude-code-workflow-plugins/main/.claude/skills/story-traceability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T15:41:34.000Z",
+  "created_at": "2025-12-22T14:20:04.252Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MacroMan5%2Fclaude-code-workflow-plugins/.claude%2Fskills%2Fstory-traceability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_ab2d255421a1"
+  }
+}

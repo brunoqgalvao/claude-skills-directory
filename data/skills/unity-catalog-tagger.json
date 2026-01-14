@@ -1,0 +1,37 @@
+{
+  "id": "unity-catalog-tagger",
+  "name": "unity-catalog-tagger",
+  "version": "1.0.0",
+  "summary": "Manage Unity Catalog metadata tags for data governance and classification. Use when applying tags to tables and columns, classifying data sensitivity (PII, PHI), marking data qu...",
+  "verticals": [
+    "legal",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fusionet24",
+    "github": "fusionet24"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fusionet24/AISkills",
+    "skill_md": "https://raw.githubusercontent.com/fusionet24/AISkills/main/skills/unity-catalog-tagger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:26.426Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fusionet24%2FAISkills/skills%2Funity-catalog-tagger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_214130a083d7"
+  }
+}

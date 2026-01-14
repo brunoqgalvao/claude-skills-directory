@@ -1,0 +1,37 @@
+{
+  "id": "osdu",
+  "name": "osdu",
+  "version": "1.0.0",
+  "summary": "GitLab CI/CD test job reliability analysis for OSDU projects. Tracks test job (unit/integration/acceptance) pass/fail status across pipeline runs. Use for test job status, flaky...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "danielscholl",
+    "github": "danielscholl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/danielscholl/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/danielscholl/agent-skills/main/plugins/osdu/skills/osdu/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:09:22.449Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/danielscholl%2Fagent-skills/plugins%2Fosdu%2Fskills%2Fosdu%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_10ca0f942d73"
+  }
+}

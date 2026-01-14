@@ -1,0 +1,35 @@
+{
+  "id": "managing-local-vs-global-state",
+  "name": "managing-local-vs-global-state",
+  "version": "1.0.0",
+  "summary": "Teaches when to use local state vs global state (Context) in React 19. Use when deciding state management strategy, avoiding prop drilling, or architecting component state.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/react-19/skills/managing-local-vs-global-state/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T23:15:51.000Z",
+  "created_at": "2025-12-23T01:28:42.725Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/react-19%2Fskills%2Fmanaging-local-vs-global-state%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.559Z",
+    "uniqueId": "sk_2b03b30f79e2"
+  }
+}

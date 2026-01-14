@@ -1,0 +1,35 @@
+{
+  "id": "session-template",
+  "name": "session-template",
+  "version": "1.0.0",
+  "summary": "Apply task-specific templates to AI session plans using ai-update-plan. Use when starting a new task to load appropriate plan structure (feature, bugfix, refactor, documentation...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Atyantik",
+    "github": "Atyantik"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Atyantik/python-modern-template",
+    "skill_md": "https://raw.githubusercontent.com/Atyantik/python-modern-template/main/.claude/skills/session-template/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T08:43:27.000Z",
+  "created_at": "2025-12-23T01:29:49.971Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Atyantik%2Fpython-modern-template/.claude%2Fskills%2Fsession-template%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.477Z",
+    "uniqueId": "sk_11d5127df709"
+  }
+}

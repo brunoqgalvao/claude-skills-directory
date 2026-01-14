@@ -1,0 +1,36 @@
+{
+  "id": "unv-sn-backparse",
+  "name": "unv-sn-backparse",
+  "version": "1.0.0",
+  "summary": "Parses Chinese Union Version (UNV) biblical text with Strong's Numbers into structured semantic groups according to SPECIFICATION_v1.8.md. Includes automatic generic compound de...",
+  "verticals": [
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshuachen3333",
+    "github": "joshuachen3333"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshuachen3333/strong_number_embedding",
+    "skill_md": "https://raw.githubusercontent.com/joshuachen3333/strong_number_embedding/main/sn_within_unv_selfgroup_segmentation/.claude/skills/unv-sn-backparse/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.649Z",
+  "created_at": "2025-12-22T23:03:25.505Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshuachen3333%2Fstrong_number_embedding/sn_within_unv_selfgroup_segmentation%2F.claude%2Fskills%2Funv-sn-backparse%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.649Z",
+    "uniqueId": "sk_349c9c5a2b85"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "codex-test-skill",
+  "name": "codex-test-skill",
+  "version": "1.0.0",
+  "summary": "A test local skill for Codex. Use when testing Codex-specific local skills.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cortesi",
+    "github": "cortesi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cortesi/skills",
+    "skill_md": "https://raw.githubusercontent.com/cortesi/skills/main/.codex/skills/codex-test-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.586Z",
+  "created_at": "2025-12-23T01:28:10.171Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cortesi%2Fskills/.codex%2Fskills%2Fcodex-test-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.586Z",
+    "uniqueId": "sk_79a61aff7983"
+  }
+}

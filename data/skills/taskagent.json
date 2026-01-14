@@ -1,0 +1,35 @@
+{
+  "id": "taskagent",
+  "name": "taskagent",
+  "version": "1.0.0",
+  "summary": "IMMEDIATELY load this skill if you read ANY file containing \"taskagent\" (PLAN.md, org/projects, docs, etc). Also load for multi-session work or when user mentions agent tasks. F...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ferdinandyb",
+    "github": "ferdinandyb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ferdinandyb/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ferdinandyb/dotfiles/main/.config/agents/skills/taskagent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.493Z",
+  "created_at": "2025-12-23T01:29:31.432Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ferdinandyb%2Fdotfiles/.config%2Fagents%2Fskills%2Ftaskagent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_b98f038b2b41"
+  }
+}

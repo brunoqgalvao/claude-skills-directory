@@ -1,0 +1,36 @@
+{
+  "id": "web-design",
+  "name": "web-design",
+  "version": "1.0.0",
+  "summary": "Principles and code snippets for designing responsive, accessible websites. Use this skill when building or refining web interfaces.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DegrassiAaron",
+    "github": "DegrassiAaron"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DegrassiAaron/influencerai-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/DegrassiAaron/influencerai-monorepo/main/.claude/skills/web-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.855Z",
+  "created_at": "2025-12-22T15:52:35.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DegrassiAaron%2Finfluencerai-monorepo/.claude%2Fskills%2Fweb-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_5dbe2c7caa6e"
+  }
+}

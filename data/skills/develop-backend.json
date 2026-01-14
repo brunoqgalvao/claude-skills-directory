@@ -1,0 +1,36 @@
+{
+  "id": "develop-backend",
+  "name": "develop-backend",
+  "version": "1.0.0",
+  "summary": "Spring Boot/MyBatisによるバックエンド実装スキル - RESTful API設計、データベース設計（Flywayマイグレーション）、Controller/Service/Mapper層の実装、単体テスト作成を行います。DRY原則を徹底し、product.utilパッケージの既存実装やAOPによる自動ログ出力を活用します。未使用コード削...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Crearize",
+    "github": "Crearize"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Crearize/ProjectTemplate",
+    "skill_md": "https://raw.githubusercontent.com/Crearize/ProjectTemplate/main/.claude/skills/develop-backend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.691Z",
+  "created_at": "2025-12-22T22:05:42.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Crearize%2FProjectTemplate/.claude%2Fskills%2Fdevelop-backend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.691Z",
+    "uniqueId": "sk_50b045f8884c"
+  }
+}

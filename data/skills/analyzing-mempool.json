@@ -1,0 +1,35 @@
+{
+  "id": "analyzing-mempool",
+  "name": "analyzing-mempool",
+  "version": "1.0.0",
+  "summary": "Monitor blockchain mempools for pending transactions, front-running, and MEV opportunities.\nUse when monitoring pending blockchain transactions.\nTrigger with phrases like \"check...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/crypto/mempool-analyzer/skills/mempool-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T16:05:49.874Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fcrypto%2Fmempool-analyzer%2Fskills%2Fmempool-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_7e9793ed613a"
+  }
+}

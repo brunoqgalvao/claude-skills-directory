@@ -1,0 +1,35 @@
+{
+  "id": "weekly-release-summarizer",
+  "name": "weekly-release-summarizer",
+  "version": "1.0.0",
+  "summary": "Generates weekly or monthly release summaries for external developers using Tambo",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tambo-ai",
+    "github": "tambo-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tambo-ai/tambo",
+    "skill_md": "https://raw.githubusercontent.com/tambo-ai/tambo/main/.claude/skills/weekly-release-summarizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T20:39:54.000Z",
+  "created_at": "2025-12-19T20:38:22.115Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tambo-ai%2Ftambo/.claude%2Fskills%2Fweekly-release-summarizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_edeb8dae674f"
+  }
+}

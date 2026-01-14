@@ -1,0 +1,35 @@
+{
+  "id": "wpf-mvvm-collectionview",
+  "name": "wpf-mvvm-collectionview",
+  "version": "1.0.0",
+  "summary": "WPF에서 CollectionView를 Service Layer로 캡슐화하여 MVVM 원칙을 준수하는 패턴",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "christian289",
+    "github": "christian289"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/christian289/wpf-tutorials",
+    "skill_md": "https://raw.githubusercontent.com/christian289/wpf-tutorials/main/.claude/skills/wpf-mvvm-collectionview/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:58:29.373Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/christian289%2Fwpf-tutorials/.claude%2Fskills%2Fwpf-mvvm-collectionview%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_4e903efe5637"
+  }
+}

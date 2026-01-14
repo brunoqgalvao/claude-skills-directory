@@ -1,0 +1,35 @@
+{
+  "id": "study-note",
+  "name": "study-note",
+  "version": "1.0.0",
+  "summary": "학습 중 떠오른 아이디어와 메모를 아카이브 파일에 시간순으로 기록합니다. `scripts\\study-note-helper.bat`를 사용하여 현재 KATA 프로젝트의 docs/study/아카이브.md에 노트를 추가합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TakSung",
+    "github": "TakSung"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TakSung/python-katas",
+    "skill_md": "https://raw.githubusercontent.com/TakSung/python-katas/main/platforms/windows/.claude/skills/study-note/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:10:10.900Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TakSung%2Fpython-katas/platforms%2Fwindows%2F.claude%2Fskills%2Fstudy-note%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_9a949ebfa1b3"
+  }
+}

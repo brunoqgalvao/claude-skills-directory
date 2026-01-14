@@ -1,0 +1,37 @@
+{
+  "id": "architecture-paradigm-functional-core",
+  "name": "architecture-paradigm-functional-core",
+  "version": "1.0.0",
+  "summary": "Employ the \"Functional Core, Imperative Shell\" pattern to isolate deterministic business logic from side-effecting code for superior testability. Use when designing systems wher...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/archetypes/skills/architecture-paradigm-functional-core/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T02:20:43.000Z",
+  "created_at": "2025-12-23T01:28:56.352Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Farchetypes%2Fskills%2Farchitecture-paradigm-functional-core%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.537Z",
+    "uniqueId": "sk_48a640f6da3a"
+  }
+}

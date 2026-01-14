@@ -1,0 +1,35 @@
+{
+  "id": "jj-commit",
+  "name": "jj-commit",
+  "version": "1.0.0",
+  "summary": "Generate conventional commit messages for jj by analyzing diffs, running tests first, and handling immutable commits",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ahkohd",
+    "github": "ahkohd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ahkohd/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ahkohd/dotfiles/main/claude/.claude/skills/jj-commit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.858Z",
+  "created_at": "2025-12-22T15:11:45.101Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ahkohd%2Fdotfiles/claude%2F.claude%2Fskills%2Fjj-commit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_050cbed6ff05"
+  }
+}

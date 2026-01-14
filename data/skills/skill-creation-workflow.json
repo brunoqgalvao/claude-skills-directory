@@ -1,0 +1,35 @@
+{
+  "id": "skill-creation-workflow",
+  "name": "skill-creation-workflow",
+  "version": "1.0.0",
+  "summary": "スキル作成・改善の詳細ワークフロー（Phase 1-5）を定義。\n新規スキル作成、既存エージェント軽量化、既存スキル改善の\n3つのワークフローパターンと、各Phaseの具体的なステップ、\n判断基準、使用スキル、完了条件を提供します。\n\n使用タイミング:\n- 新規スキルを作成する時（ワークフローA）\n- 既存エージェントを軽量化する時（ワークフローB）\n...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishiman",
+    "github": "daishiman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishiman/AIWorkflowOrchestrator",
+    "skill_md": "https://raw.githubusercontent.com/daishiman/AIWorkflowOrchestrator/main/.claude/skills/skill-creation-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:15:33.094Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishiman%2FAIWorkflowOrchestrator/.claude%2Fskills%2Fskill-creation-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_b3d8fc8a5d05"
+  }
+}

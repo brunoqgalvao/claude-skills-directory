@@ -1,0 +1,37 @@
+{
+  "id": "temp-cleaner",
+  "name": "temp-cleaner",
+  "version": "1.0.0",
+  "summary": "Clean temporary files, caches, and build artifacts.\nLOAD THIS SKILL WHEN: User says \"清理\", \"clean\", \"刪除暫存\", \"清除快取\" | disk space issues | before archiving | end of workflow.\nCAPAB...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "u9401066",
+    "github": "u9401066"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/u9401066/copilot-capability-manager",
+    "skill_md": "https://raw.githubusercontent.com/u9401066/copilot-capability-manager/main/.claude/skills/temp-cleaner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T18:33:23.000Z",
+  "created_at": "2025-12-22T15:10:47.003Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/u9401066%2Fcopilot-capability-manager/.claude%2Fskills%2Ftemp-cleaner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_b232df560dc0"
+  }
+}

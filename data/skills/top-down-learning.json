@@ -1,0 +1,37 @@
+{
+  "id": "top-down-learning",
+  "name": "top-down-learning",
+  "version": "1.0.0",
+  "summary": "Comprehensive codebase understanding through structured documentation and guided learning. Use when Claude needs to help a user understand how a project works by exploring and d...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ctdio",
+    "github": "ctdio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ctdio/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ctdio/dotfiles/main/claude/skills/top-down-learning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T15:06:22.000Z",
+  "created_at": "2025-12-22T20:17:08.769Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ctdio%2Fdotfiles/claude%2Fskills%2Ftop-down-learning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_57528d4ecaa6"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "diagram-creator",
+  "name": "diagram-creator",
+  "version": "1.0.0",
+  "summary": "Create technical diagrams using diagramming languages like Mermaid, PlantUML, GraphViz, and others. Use when users request diagrams, flowcharts, sequence diagrams, architecture ...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wwsun",
+    "github": "wwsun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wwsun/claude",
+    "skill_md": "https://raw.githubusercontent.com/wwsun/claude/main/skills/diagram-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:29.675Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wwsun%2Fclaude/skills%2Fdiagram-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_d04a964e0c72"
+  }
+}

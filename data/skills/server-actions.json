@@ -1,0 +1,35 @@
+{
+  "id": "server-actions",
+  "name": "server-actions",
+  "version": "1.0.0",
+  "summary": "Enforces Head Shakers server actions coding conventions when creating or modifying server actions using next-safe-action, and ensures consistent client-side consumption patterns...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JasonPaff",
+    "github": "JasonPaff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JasonPaff/head-shakers",
+    "skill_md": "https://raw.githubusercontent.com/JasonPaff/head-shakers/main/.claude/skills/server-actions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.889Z",
+  "created_at": "2025-12-19T17:10:48.657Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JasonPaff%2Fhead-shakers/.claude%2Fskills%2Fserver-actions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_d591d96ee177"
+  }
+}

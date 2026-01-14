@@ -1,0 +1,35 @@
+{
+  "id": "using-pytorch-engineering",
+  "name": "using-pytorch-engineering",
+  "version": "1.0.0",
+  "summary": "Routes to appropriate PyTorch specialist skill based on symptoms and problem type",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tachyon-beep",
+    "github": "tachyon-beep"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tachyon-beep/skillpacks",
+    "skill_md": "https://raw.githubusercontent.com/tachyon-beep/skillpacks/main/plugins/yzmir-pytorch-engineering/skills/using-pytorch-engineering/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:13.638Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tachyon-beep%2Fskillpacks/plugins%2Fyzmir-pytorch-engineering%2Fskills%2Fusing-pytorch-engineering%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_0523515c2707"
+  }
+}

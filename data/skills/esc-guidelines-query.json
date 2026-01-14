@@ -1,0 +1,35 @@
+{
+  "id": "esc-guidelines-query",
+  "name": "esc-guidelines-query",
+  "version": "1.0.0",
+  "summary": "Query ESC (European Society of Cardiology) Guidelines by automatically locating the relevant PDF from the TOC and extracting cited answers. Use when answering clinical questions...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bdeornelas",
+    "github": "bdeornelas"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bdeornelas/bdeornelas.github.io",
+    "skill_md": "https://raw.githubusercontent.com/bdeornelas/bdeornelas.github.io/main/plugins/medical-guidelines/skills/esc-guidelines-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:04.341Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bdeornelas%2Fbdeornelas.github.io/plugins%2Fmedical-guidelines%2Fskills%2Fesc-guidelines-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_c96064d719db"
+  }
+}

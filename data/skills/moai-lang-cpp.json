@@ -1,0 +1,35 @@
+{
+  "id": "moai-lang-cpp",
+  "name": "moai-lang-cpp",
+  "version": "1.0.0",
+  "summary": "Modern C++ (C++23/C++20) development specialist covering RAII, smart pointers, concepts, ranges, modules, and CMake. Use when developing high-performance applications, games, sy...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "modu-ai",
+    "github": "modu-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/modu-ai/moai-adk",
+    "skill_md": "https://raw.githubusercontent.com/modu-ai/moai-adk/main/.claude/skills/moai-lang-cpp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T04:39:34.000Z",
+  "created_at": "2025-12-23T01:29:44.132Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/modu-ai%2Fmoai-adk/.claude%2Fskills%2Fmoai-lang-cpp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_bdce8a82bdd3"
+  }
+}

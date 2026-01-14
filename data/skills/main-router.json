@@ -1,0 +1,35 @@
+{
+  "id": "main-router",
+  "name": "main-router",
+  "version": "1.0.0",
+  "summary": "Intelligent skill router that analyzes user requests and automatically dispatches to the most appropriate skill(s) or zen-mcp tools. Routes to zen-chat for Q&A, zen-thinkdeep fo...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "VCnoC",
+    "github": "VCnoC"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work",
+    "skill_md": "https://raw.githubusercontent.com/VCnoC/Claude-Code-Zen-mcp-Skill-Work/main/skills/main-router/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:26:49.445Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/VCnoC%2FClaude-Code-Zen-mcp-Skill-Work/skills%2Fmain-router%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_60cc25a825c5"
+  }
+}

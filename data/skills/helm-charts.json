@@ -1,0 +1,36 @@
+{
+  "id": "helm-charts",
+  "name": "helm-charts",
+  "version": "1.0.0",
+  "summary": "Strict guidelines for creating and maintaining production-ready Helm charts. Covers best practices for chart structure, values, security, resources, and dependencies. Applied wh...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KJone1",
+    "github": "KJone1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KJone1/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/KJone1/dotfiles/main/dot-claude/skills/helm-charts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.550Z",
+  "created_at": "2025-12-23T01:28:50.257Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KJone1%2Fdotfiles/dot-claude%2Fskills%2Fhelm-charts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_7c98da23dec6"
+  }
+}

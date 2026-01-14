@@ -1,0 +1,35 @@
+{
+  "id": "brand-naming-strategies",
+  "name": "brand-naming-strategies",
+  "version": "1.0.0",
+  "summary": "Provides brand naming frameworks, evaluation criteria, and templates for startup naming work. Auto-activates during brand name development, name evaluation, domain checking, and...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mike-coulbourn",
+    "github": "mike-coulbourn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mike-coulbourn/claude-vibes",
+    "skill_md": "https://raw.githubusercontent.com/mike-coulbourn/claude-vibes/main/plugins/vibes/skills/brand-naming-strategies/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T16:11:21.000Z",
+  "created_at": "2025-12-23T01:29:23.895Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mike-coulbourn%2Fclaude-vibes/plugins%2Fvibes%2Fskills%2Fbrand-naming-strategies%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_b8e166d789bb"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "concert-discovery",
+  "name": "concert-discovery",
+  "version": "1.0.0",
+  "summary": "Help users discover bucket list concerts and live music performances they would love to attend. Use when users ask about concerts, live music, shows, performances they should se...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "esthor",
+    "github": "esthor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/esthor/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/esthor/claude-skills/main/skills/life/concert-discovery/concert-discovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.517Z",
+  "created_at": "2025-12-23T01:29:11.745Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/esthor%2Fclaude-skills/skills%2Flife%2Fconcert-discovery%2Fconcert-discovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.517Z",
+    "uniqueId": "sk_0d3d84539d8d"
+  }
+}

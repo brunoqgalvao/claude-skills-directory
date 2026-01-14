@@ -1,0 +1,36 @@
+{
+  "id": "tabz-mcp",
+  "name": "tabz-mcp",
+  "version": "1.0.0",
+  "summary": "Control Chrome browser: take screenshots, click buttons, fill forms, download images, inspect pages, capture network requests. Use when user says: 'screenshot this', 'click the ...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "GGPrompts",
+    "github": "GGPrompts"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/GGPrompts/TabzChrome",
+    "skill_md": "https://raw.githubusercontent.com/GGPrompts/TabzChrome/main/.claude/skills/tabz-mcp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T00:33:36.000Z",
+  "created_at": "2025-12-19T20:27:32.532Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/GGPrompts%2FTabzChrome/.claude%2Fskills%2Ftabz-mcp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_eb3caccdbdaf"
+  }
+}

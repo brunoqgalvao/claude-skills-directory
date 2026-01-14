@@ -1,0 +1,35 @@
+{
+  "id": "claude-md-sync",
+  "name": "claude-md-sync",
+  "version": "1.0.0",
+  "summary": "CLAUDE.md にプロジェクトの現在の状態を反映する。\n簡潔さを保ち、詳細ドキュメントへの参照で重複を避ける。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tqer39",
+    "github": "tqer39"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tqer39/xtrade",
+    "skill_md": "https://raw.githubusercontent.com/tqer39/xtrade/main/.claude/skills/claude-md-sync/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T10:48:35.000Z",
+  "created_at": "2025-12-23T01:28:36.700Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tqer39%2Fxtrade/.claude%2Fskills%2Fclaude-md-sync%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_da76f4637f4b"
+  }
+}

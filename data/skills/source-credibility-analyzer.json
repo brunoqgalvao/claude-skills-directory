@@ -1,0 +1,35 @@
+{
+  "id": "source-credibility-analyzer",
+  "name": "source-credibility-analyzer",
+  "version": "1.0.0",
+  "summary": "Standalone tool for automated source evaluation using program-of-thought scoring rubrics. Outputs credibility (1-5), bias (1-5), and priority (1-5) scores with transparent expla...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/context-cascade",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/context-cascade/main/skills/research/source-credibility-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.613Z",
+  "created_at": "2025-12-22T23:20:54.099Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fcontext-cascade/skills%2Fresearch%2Fsource-credibility-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.613Z",
+    "uniqueId": "sk_61e1c8694416"
+  }
+}

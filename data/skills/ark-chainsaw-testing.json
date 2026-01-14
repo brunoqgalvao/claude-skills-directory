@@ -1,0 +1,35 @@
+{
+  "id": "ark-chainsaw-testing",
+  "name": "ark-chainsaw-testing",
+  "version": "1.0.0",
+  "summary": "Run and write Ark Chainsaw tests with mock-llm. Use for running tests, debugging failures, or creating new e2e tests.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dwmkerr",
+    "github": "dwmkerr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dwmkerr/ark-claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/dwmkerr/ark-claude-code-marketplace/main/ark/skills/chainsaw/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:07.174Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dwmkerr%2Fark-claude-code-marketplace/ark%2Fskills%2Fchainsaw%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_28a025e79318"
+  }
+}

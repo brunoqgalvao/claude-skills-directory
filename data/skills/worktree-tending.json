@@ -1,0 +1,35 @@
+{
+  "id": "worktree-tending",
+  "name": "worktree-tending",
+  "version": "1.0.0",
+  "summary": "Manage git worktrees for parallel branch development using custom git scripts (git-newtree, git-killtree, git-maingulp). Use when creating new worktrees, listing active worktree...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lajarre",
+    "github": "lajarre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lajarre/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/lajarre/dotfiles/main/.claude/skills/worktree-tending/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T16:57:26.000Z",
+  "created_at": "2025-12-22T17:08:44.612Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lajarre%2Fdotfiles/.claude%2Fskills%2Fworktree-tending%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_1643ff04df75"
+  }
+}

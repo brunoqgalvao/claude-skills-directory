@@ -1,0 +1,35 @@
+{
+  "id": "skill-openai-tts-tool",
+  "name": "skill-openai-tts-tool",
+  "version": "1.0.0",
+  "summary": "CLI tool for OpenAI text-to-speech synthesis",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dnvriend",
+    "github": "dnvriend"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dnvriend/openai-tts-tool",
+    "skill_md": "https://raw.githubusercontent.com/dnvriend/openai-tts-tool/main/plugins/openai-tts-tool/skills/openai-tts-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:11:04.219Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dnvriend%2Fopenai-tts-tool/plugins%2Fopenai-tts-tool%2Fskills%2Fopenai-tts-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_88814659bb80"
+  }
+}

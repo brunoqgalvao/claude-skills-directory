@@ -1,0 +1,35 @@
+{
+  "id": "ultimate-research",
+  "name": "ultimate-research",
+  "version": "1.0.0",
+  "summary": "Elite multi-agent research orchestration utilizing ref MCP, exa MCP, brave-search MCP, and context7 with parallel execution of deep-research-agent, search-specialist, trend-rese...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robinade",
+    "github": "robinade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robinade/persona-theater",
+    "skill_md": "https://raw.githubusercontent.com/robinade/persona-theater/main/.claude/skills/ultimate-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.646Z",
+  "created_at": "2025-12-22T23:04:15.108Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robinade%2Fpersona-theater/.claude%2Fskills%2Fultimate-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.646Z",
+    "uniqueId": "sk_3b7cdbed8c81"
+  }
+}

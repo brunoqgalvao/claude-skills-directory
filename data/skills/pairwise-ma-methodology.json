@@ -1,0 +1,35 @@
+{
+  "id": "pairwise-ma-methodology",
+  "name": "pairwise-ma-methodology",
+  "version": "1.0.0",
+  "summary": "Deep methodology knowledge for pairwise meta-analysis including fixed vs random effects, heterogeneity assessment, publication bias, and sensitivity analysis. Use when conductin...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "choxos",
+    "github": "choxos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/choxos/ITC-agents",
+    "skill_md": "https://raw.githubusercontent.com/choxos/ITC-agents/main/plugins/itc-modelling/skills/pairwise-ma-methodology/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:15:38.283Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/choxos%2FITC-agents/plugins%2Fitc-modelling%2Fskills%2Fpairwise-ma-methodology%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_ca4ee7262be7"
+  }
+}

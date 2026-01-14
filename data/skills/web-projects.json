@@ -1,0 +1,36 @@
+{
+  "id": "web-projects",
+  "name": "web-projects",
+  "version": "1.0.0",
+  "summary": "Guidelines for web development projects using JavaScript/TypeScript frameworks. Activate when working with web projects, package.json, npm/yarn/pnpm, React, Next.js, Vue, Angula...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ilude",
+    "github": "ilude"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ilude/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/ilude/claude-code-config/main/skills/web-projects/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:52.108Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ilude%2Fclaude-code-config/skills%2Fweb-projects%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_ad831a25ae4d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "understanding-mapping",
+  "name": "understanding-mapping",
+  "version": "1.0.0",
+  "summary": "Use when transforming events at any point in the flow (source→collector or collector→destination), configuring data/map/loop/condition, or understanding value extraction. Covers...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elbwalker",
+    "github": "elbwalker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elbwalker/walkerOS",
+    "skill_md": "https://raw.githubusercontent.com/elbwalker/walkerOS/main/.claude/skills/understanding-mapping/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T12:36:48.000Z",
+  "created_at": "2025-12-23T01:28:21.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elbwalker%2FwalkerOS/.claude%2Fskills%2Funderstanding-mapping%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_2ad6056cc73c"
+  }
+}

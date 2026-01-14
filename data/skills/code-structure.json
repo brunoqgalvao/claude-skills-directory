@@ -1,0 +1,35 @@
+{
+  "id": "code-structure",
+  "name": "code-structure",
+  "version": "1.0.0",
+  "summary": "Extract file structure (functions, classes, exports) efficiently without reading entire files, using ast-grep, go doc, ctags, or other language-specific tools to get outlines an...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xdg",
+    "github": "xdg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xdg/xdg-claude",
+    "skill_md": "https://raw.githubusercontent.com/xdg/xdg-claude/main/context-efficient-tools/skills/code-structure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.850Z",
+  "created_at": "2025-12-22T15:57:28.614Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xdg%2Fxdg-claude/context-efficient-tools%2Fskills%2Fcode-structure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.850Z",
+    "uniqueId": "sk_3a0218e50c1b"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "code-analyze",
+  "name": "code-analyze",
+  "version": "1.0.0",
+  "summary": "Run static analysis, security scans, and dependency checks on .NET code. Use when task involves code quality, security audits, or vulnerability detection.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "GiantCroissant-Lunar",
+    "github": "GiantCroissant-Lunar"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/GiantCroissant-Lunar/lunar-snake-hub",
+    "skill_md": "https://raw.githubusercontent.com/GiantCroissant-Lunar/lunar-snake-hub/main/.agent/skills/code-analyze/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:04:07.826Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/GiantCroissant-Lunar%2Flunar-snake-hub/.agent%2Fskills%2Fcode-analyze%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_6ef3f6c024f5"
+  }
+}

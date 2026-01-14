@@ -1,0 +1,35 @@
+{
+  "id": "write-blueprint",
+  "name": "write-blueprint",
+  "version": "1.0.0",
+  "summary": "Write feature blueprints for planning and architecture. Use when creating blueprints, feature plans, or when user asks to \"write a blueprint\" or \"plan a feature\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yurifrl",
+    "github": "yurifrl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yurifrl/cly",
+    "skill_md": "https://raw.githubusercontent.com/yurifrl/cly/main/.claude/skills/write-blueprint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T03:02:38.000Z",
+  "created_at": "2025-12-22T16:29:03.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yurifrl%2Fcly/.claude%2Fskills%2Fwrite-blueprint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_fd3b047ca47c"
+  }
+}

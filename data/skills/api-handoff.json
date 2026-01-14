@@ -1,0 +1,35 @@
+{
+  "id": "api-handoff",
+  "name": "api-handoff",
+  "version": "1.0.0",
+  "summary": "Create API handoff documentation for frontend developers. Use when backend work is complete and needs to be documented for frontend integration, or user says \"create handoff\", \"...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MuhammedAlkhudiry",
+    "github": "MuhammedAlkhudiry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MuhammedAlkhudiry/ai-concise-guidelines",
+    "skill_md": "https://raw.githubusercontent.com/MuhammedAlkhudiry/ai-concise-guidelines/main/skills/api-handoff/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.532Z",
+  "created_at": "2025-12-23T01:29:00.119Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MuhammedAlkhudiry%2Fai-concise-guidelines/skills%2Fapi-handoff%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_febf6d119b6a"
+  }
+}

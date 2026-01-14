@@ -1,0 +1,35 @@
+{
+  "id": "automl-optimizer",
+  "name": "automl-optimizer",
+  "version": "1.0.0",
+  "summary": "Automated machine learning with hyperparameter optimization using Optuna, Hyperopt, or AutoML libraries. Activates for \"automl\", \"hyperparameter tuning\", \"optimize hyperparamete...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/sw-soccer-manager",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/sw-soccer-manager/main/plugins/specweave-ml/skills/automl-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:30.988Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fsw-soccer-manager/plugins%2Fspecweave-ml%2Fskills%2Fautoml-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_4a58c0e34201"
+  }
+}

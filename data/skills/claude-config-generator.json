@@ -1,0 +1,35 @@
+{
+  "id": "claude-config-generator",
+  "name": "claude-config-generator",
+  "version": "1.0.0",
+  "summary": "Generate Claude Code configuration files (commands, agents, skills, settings.json) with proper YAML frontmatter and structure. Use when creating .claude/ configuration or .md fi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gizix",
+    "github": "gizix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gizix/cc_projects",
+    "skill_md": "https://raw.githubusercontent.com/gizix/cc_projects/main/.claude/skills/claude-config-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.695Z",
+  "created_at": "2025-12-22T22:03:37.784Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gizix%2Fcc_projects/.claude%2Fskills%2Fclaude-config-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.695Z",
+    "uniqueId": "sk_1f1f9e313b0b"
+  }
+}

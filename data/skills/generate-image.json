@@ -1,0 +1,35 @@
+{
+  "id": "generate-image",
+  "name": "generate-image",
+  "version": "1.0.0",
+  "summary": "Generate game asset images from text descriptions using Replicate's nano-banana-pro model. Use this skill when the user asks to create or generate 2D images, sprites, textures, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TomekGancarczyk",
+    "github": "TomekGancarczyk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TomekGancarczyk/kata-workshop-cc",
+    "skill_md": "https://raw.githubusercontent.com/TomekGancarczyk/kata-workshop-cc/main/.claude/skills/generate-image/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T13:43:58.000Z",
+  "created_at": "2025-12-23T01:28:56.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TomekGancarczyk%2Fkata-workshop-cc/.claude%2Fskills%2Fgenerate-image%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.537Z",
+    "uniqueId": "sk_fd6e65be58e0"
+  }
+}

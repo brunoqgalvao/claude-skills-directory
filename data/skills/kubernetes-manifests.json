@@ -1,0 +1,37 @@
+{
+  "id": "kubernetes-manifests",
+  "name": "kubernetes-manifests",
+  "version": "1.0.0",
+  "summary": "Generate production-ready Kubernetes manifests for AgentStack. Use for creating Deployments, Services, ConfigMaps, Secrets, RBAC, and other K8s resources. Triggers on \"create de...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "raphaelmansuy",
+    "github": "raphaelmansuy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/raphaelmansuy/k8s-agent-stack",
+    "skill_md": "https://raw.githubusercontent.com/raphaelmansuy/k8s-agent-stack/main/archive/skills/kubernetes-manifests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:10.058Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/raphaelmansuy%2Fk8s-agent-stack/archive%2Fskills%2Fkubernetes-manifests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_d497c3feb1ac"
+  }
+}

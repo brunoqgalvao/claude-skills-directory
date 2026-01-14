@@ -1,0 +1,37 @@
+{
+  "id": "pester",
+  "name": "pester",
+  "version": "1.0.0",
+  "summary": "PowerShell TDD testing framework guidance for Pester v5+. Use when writing, structuring, or debugging PowerShell unit tests; mocking cmdlets, native commands (bash, git, curl), ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OleksandrKucherenko",
+    "github": "OleksandrKucherenko"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OleksandrKucherenko/e-bash",
+    "skill_md": "https://raw.githubusercontent.com/OleksandrKucherenko/e-bash/main/.claude/skills/pester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:59:59.033Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OleksandrKucherenko%2Fe-bash/.claude%2Fskills%2Fpester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_2b71edfa0b6c"
+  }
+}

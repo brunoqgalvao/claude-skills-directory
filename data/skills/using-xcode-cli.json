@@ -1,0 +1,36 @@
+{
+  "id": "using-xcode-cli",
+  "name": "using-xcode-cli",
+  "version": "1.0.0",
+  "summary": "Builds and manages iOS/macOS apps using xcodebuild and xcrun simctl CLI tools. Use when working with Xcode projects, running apps in simulators, managing simulator instances, ta...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bradwindy",
+    "github": "bradwindy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bradwindy/using-xcode-cli-skill",
+    "skill_md": "https://raw.githubusercontent.com/bradwindy/using-xcode-cli-skill/main/skills/using-xcode-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.546Z",
+  "created_at": "2025-12-23T01:28:52.363Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bradwindy%2Fusing-xcode-cli-skill/skills%2Fusing-xcode-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.546Z",
+    "uniqueId": "sk_38d4264c0e38"
+  }
+}

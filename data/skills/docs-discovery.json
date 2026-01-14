@@ -1,0 +1,36 @@
+{
+  "id": "docs-discovery",
+  "name": "docs-discovery",
+  "version": "1.0.0",
+  "summary": "Technical documentation discovery via context7 and web search. Capabilities: library/framework docs lookup, topic-specific search. Keywords: llms.txt, context7, documentation, l...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samhvw8",
+    "github": "samhvw8"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samhvw8/dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/samhvw8/dot-claude/main/skills/docs-discovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T02:52:54.000Z",
+  "created_at": "2025-12-23T01:28:31.571Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samhvw8%2Fdot-claude/skills%2Fdocs-discovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_a63aa8b8bf16"
+  }
+}

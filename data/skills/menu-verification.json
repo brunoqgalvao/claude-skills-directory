@@ -1,0 +1,35 @@
+{
+  "id": "menu-verification",
+  "name": "menu-verification",
+  "version": "1.0.0",
+  "summary": "Use this skill to verify whether restaurants actually have Planted products on their current menu. Crawls restaurant websites, parses PDF menus, and updates venue verification s...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cgjen-box",
+    "github": "cgjen-box"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cgjen-box/planted-website",
+    "skill_md": "https://raw.githubusercontent.com/cgjen-box/planted-website/main/.claude/skills/menu-verification/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:03:50.519Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cgjen-box%2Fplanted-website/.claude%2Fskills%2Fmenu-verification%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_1df3dfa35c75"
+  }
+}

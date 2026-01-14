@@ -1,0 +1,35 @@
+{
+  "id": "ai-issue",
+  "name": "ai-issue",
+  "version": "1.0.0",
+  "summary": "Automatically process GitHub issues using AI analysis. Validates issues, determines priority, assigns labels, routes to assignees, and decides auto-fix eligibility. Use when pro...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "opendataloader-project",
+    "github": "opendataloader-project"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/opendataloader-project/opendataloader-pdf",
+    "skill_md": "https://raw.githubusercontent.com/opendataloader-project/opendataloader-pdf/main/.claude/skills/ai-issue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T08:31:27.000Z",
+  "created_at": "2025-12-23T01:28:39.376Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/opendataloader-project%2Fopendataloader-pdf/.claude%2Fskills%2Fai-issue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_db557256bbec"
+  }
+}

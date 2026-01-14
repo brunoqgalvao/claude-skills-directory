@@ -1,0 +1,36 @@
+{
+  "id": "dev-log-monitoring",
+  "name": "dev-log-monitoring",
+  "version": "1.0.0",
+  "summary": "This skill should be used when testing ScreenGraph end-to-end flows (drift detection, agent runs) while monitoring backend and frontend logs in real-time. Use when the user want...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nirukk52",
+    "github": "nirukk52"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nirukk52/ScreenGraph",
+    "skill_md": "https://raw.githubusercontent.com/nirukk52/ScreenGraph/main/.claude-skills/dev-log-monitoring_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-14T01:26:47.000Z",
+  "created_at": "2025-12-22T21:11:24.173Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nirukk52%2FScreenGraph/.claude-skills%2Fdev-log-monitoring_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.741Z",
+    "uniqueId": "sk_30393b7c3061"
+  }
+}

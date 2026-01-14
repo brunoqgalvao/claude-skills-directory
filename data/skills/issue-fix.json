@@ -1,0 +1,35 @@
+{
+  "id": "issue-fix",
+  "name": "issue-fix",
+  "version": "1.0.0",
+  "summary": "ユーザーが「Issue #N を解決」「Issueを解決して」「Issue を fix」等と要求した時に使用。 GitHub Issueの完全な解決ワークフローを自動実行。 Issue分析、テストファースト開発、最小限の修正実装、PR作成まで一貫して処理。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kis9a",
+    "github": "kis9a"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kis9a/claude-skills-demo",
+    "skill_md": "https://raw.githubusercontent.com/kis9a/claude-skills-demo/main/.claude/skills/issue-fix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T05:15:36.000Z",
+  "created_at": "2025-12-23T01:28:22.360Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kis9a%2Fclaude-skills-demo/.claude%2Fskills%2Fissue-fix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_44dd1c0a9aa6"
+  }
+}

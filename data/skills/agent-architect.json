@@ -1,0 +1,37 @@
+{
+  "id": "agent-architect",
+  "name": "agent-architect",
+  "version": "1.0.0",
+  "summary": "Design, optimize, and refactor AI agent systems based on Anthropic best practices and latest research. Guides you through architectural decisions with interactive questionnaire,...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ai-bible",
+    "github": "ai-bible"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ai-bible/book-alexa-right",
+    "skill_md": "https://raw.githubusercontent.com/ai-bible/book-alexa-right/main/.claude/skills/agent-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:05:22.499Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ai-bible%2Fbook-alexa-right/.claude%2Fskills%2Fagent-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_48f9fc25e73c"
+  }
+}

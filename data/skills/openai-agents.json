@@ -1,0 +1,36 @@
+{
+  "id": "openai-agents",
+  "name": "openai-agents",
+  "version": "1.0.0",
+  "summary": "Use when integrating OpenAI GPT models for conversational AI. Covers chat completions, streaming responses, function calling, system prompts, token management, cost optimization...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "muhammad-anas35",
+    "github": "muhammad-anas35"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/muhammad-anas35/RAGai",
+    "skill_md": "https://raw.githubusercontent.com/muhammad-anas35/RAGai/main/.claude/skills/openai-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T23:25:55.000Z",
+  "created_at": "2025-12-22T16:02:41.729Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/muhammad-anas35%2FRAGai/.claude%2Fskills%2Fopenai-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_9df457811393"
+  }
+}

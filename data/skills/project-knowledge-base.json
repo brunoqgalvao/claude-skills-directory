@@ -1,0 +1,35 @@
+{
+  "id": "project-knowledge-base",
+  "name": "project-knowledge-base",
+  "version": "1.0.0",
+  "summary": "项目知识库管理器 - 将保险业务项目文档(数据分析、PPT报告、技术方案)转化为结构化、可迁移的知识资产。支持:(1)自动生成2类标准化模板(项目启动/技术方案);(2)从Markdown/代码仓库智能提取技术决策和可复用模式;(3)统一文档格式标准;(4)生成可跨项目复用的知识库。触发场景:用户要整理项目文档、创建知识库、生成项目模板、提取技术经验、...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alongor666",
+    "github": "alongor666"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alongor666/autoweKPI",
+    "skill_md": "https://raw.githubusercontent.com/alongor666/autoweKPI/main/.claude/skills/project-knowledge-base/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.802Z",
+  "created_at": "2025-12-22T18:09:47.608Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alongor666%2FautoweKPI/.claude%2Fskills%2Fproject-knowledge-base%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_c7ca2f42c455"
+  }
+}

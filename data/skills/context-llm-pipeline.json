@@ -1,0 +1,35 @@
+{
+  "id": "context-llm-pipeline",
+  "name": "context-llm-pipeline",
+  "version": "1.0.0",
+  "summary": "RAG pipeline, embeddings, LLM interactions, and flow orchestration.",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stars-end",
+    "github": "stars-end"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stars-end/affordabot",
+    "skill_md": "https://raw.githubusercontent.com/stars-end/affordabot/main/.claude/skills/context-llm-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T00:33:10.000Z",
+  "created_at": "2025-12-22T14:50:39.552Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stars-end%2Faffordabot/.claude%2Fskills%2Fcontext-llm-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_6b2fc7625fcf"
+  }
+}

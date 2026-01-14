@@ -1,0 +1,36 @@
+{
+  "id": "epub",
+  "name": "epub",
+  "version": "1.0.0",
+  "summary": "Read and extract content from EPUB ebook files. Use this skill when the user wants to read an EPUB file, extract text from an ebook, view EPUB metadata (title, author), list cha...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aliceisjustplaying",
+    "github": "aliceisjustplaying"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aliceisjustplaying/claude-skill-epub-reader",
+    "skill_md": "https://raw.githubusercontent.com/aliceisjustplaying/claude-skill-epub-reader/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T14:12:47.000Z",
+  "created_at": "2025-12-23T01:28:51.038Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aliceisjustplaying%2Fclaude-skill-epub-reader/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.548Z",
+    "uniqueId": "sk_603be9986ff2"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "supabase-expert-skill",
+  "name": "supabase-expert-skill",
+  "version": "1.0.0",
+  "summary": "Complete workflow for implementing data services and database architecture after the Implementer Agent has completed use cases. Provides rigorous step-by-step processes for maki...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fercracix33",
+    "github": "fercracix33"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fercracix33/poli2-clean-architecture",
+    "skill_md": "https://raw.githubusercontent.com/fercracix33/poli2-clean-architecture/main/.claude/skills/supabase-expert-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:21.485Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fercracix33%2Fpoli2-clean-architecture/.claude%2Fskills%2Fsupabase-expert-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_c52964fdcd4c"
+  }
+}

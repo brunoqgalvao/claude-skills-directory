@@ -1,0 +1,35 @@
+{
+  "id": "td-random-forest",
+  "name": "td-random-forest",
+  "version": "1.0.0",
+  "summary": "Random forest ensemble classifier for high-accuracy classification",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "teradata-labs",
+    "github": "teradata-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/teradata-labs/claude-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/teradata-labs/claude-cookbooks/main/skills/analytics/td-random-forest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T19:00:39.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/teradata-labs%2Fclaude-cookbooks/skills%2Fanalytics%2Ftd-random-forest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_f08a28accd55"
+  }
+}

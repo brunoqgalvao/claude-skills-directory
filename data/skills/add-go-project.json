@@ -1,0 +1,35 @@
+{
+  "id": "add-go-project",
+  "name": "add-go-project",
+  "version": "1.0.0",
+  "summary": "Creates a new Go project in the monorepo with all necessary files (main.go, README, AGENTS.md, etc.). Use when asked to create, add, or scaffold a new Go project, CLI tool, or l...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "neongreen",
+    "github": "neongreen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/neongreen/mono",
+    "skill_md": "https://raw.githubusercontent.com/neongreen/mono/main/.claude/skills/add-go-project/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T08:50:12.000Z",
+  "created_at": "2025-12-23T01:29:25.334Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/neongreen%2Fmono/.claude%2Fskills%2Fadd-go-project%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.500Z",
+    "uniqueId": "sk_a6c71386908a"
+  }
+}

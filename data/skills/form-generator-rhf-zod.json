@@ -1,0 +1,37 @@
+{
+  "id": "form-generator-rhf-zod",
+  "name": "form-generator-rhf-zod",
+  "version": "1.0.0",
+  "summary": "This skill should be used when generating React forms with React Hook Form, Zod validation, and shadcn/ui components. Applies when creating entity forms, character editors, loca...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/plugins/form-generator-rhf-zod/skills/form-generator-rhf-zod/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.630Z",
+  "created_at": "2025-12-22T23:14:14.435Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/plugins%2Fform-generator-rhf-zod%2Fskills%2Fform-generator-rhf-zod%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.630Z",
+    "uniqueId": "sk_2684900fe12f"
+  }
+}

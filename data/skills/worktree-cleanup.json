@@ -1,0 +1,35 @@
+{
+  "id": "worktree-cleanup",
+  "name": "worktree-cleanup",
+  "version": "1.0.0",
+  "summary": "Remove merged or stale git worktrees. Use after PRs are merged, work is done, or when worktrees are no longer needed.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvillmow",
+    "github": "mvillmow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvillmow/ProjectOdyssey",
+    "skill_md": "https://raw.githubusercontent.com/mvillmow/ProjectOdyssey/main/.claude/skills/worktree-cleanup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T08:42:30.000Z",
+  "created_at": "2025-12-22T15:01:25.817Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvillmow%2FProjectOdyssey/.claude%2Fskills%2Fworktree-cleanup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_da89b252560f"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "grasshopper-workflow",
+  "name": "grasshopper-workflow",
+  "version": "1.0.0",
+  "summary": "Grasshopper 參數化建模工作流程工具。當需要通過 MCP 協議與 Grasshopper 交互、創建和管理組件、建立連接、設置參數、執行完整建模工作流程時使用。適用於：(1) 從 MMD 文件創建 Grasshopper 定義, (2) 執行 placement_info.json 工作流程, (3) 批量管理組件和連接, (4) 參數化建模...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AmemiyaLai",
+    "github": "AmemiyaLai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AmemiyaLai/grasshopper-mcp-workflow",
+    "skill_md": "https://raw.githubusercontent.com/AmemiyaLai/grasshopper-mcp-workflow/main/.claude/skills/grasshopper-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:24.428Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AmemiyaLai%2Fgrasshopper-mcp-workflow/.claude%2Fskills%2Fgrasshopper-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_7883b0942b32"
+  }
+}

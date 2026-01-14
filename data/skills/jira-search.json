@@ -1,0 +1,37 @@
+{
+  "id": "jira-search",
+  "name": "jira-search",
+  "version": "1.0.0",
+  "summary": "Search Jira issues using JQL queries. Use when filtering issues by project, status, assignee, date, or building reports.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "01000001-01001110",
+    "github": "01000001-01001110"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/01000001-01001110/agent-jira-skills",
+    "skill_md": "https://raw.githubusercontent.com/01000001-01001110/agent-jira-skills/main/jira-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.784Z",
+  "created_at": "2025-12-22T19:08:09.925Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/01000001-01001110%2Fagent-jira-skills/jira-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_ae1c8c7c132b"
+  }
+}

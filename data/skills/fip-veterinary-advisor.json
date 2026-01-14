@@ -1,0 +1,37 @@
+{
+  "id": "fip-veterinary-advisor",
+  "name": "fip-veterinary-advisor",
+  "version": "1.0.0",
+  "summary": "Evidence-based diagnostic and treatment guidance for Feline Infectious Peritonitis (FIP). Use this skill when working with veterinary cases involving FIP or potential FIP, inclu...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ggwazi",
+    "github": "ggwazi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ggwazi/fip-skill",
+    "skill_md": "https://raw.githubusercontent.com/ggwazi/fip-skill/main/src/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:48.120Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ggwazi%2Ffip-skill/src%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_97f76027d9b1"
+  }
+}

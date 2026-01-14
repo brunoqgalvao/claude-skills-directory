@@ -1,0 +1,35 @@
+{
+  "id": "codifier",
+  "name": "codifier",
+  "version": "1.0.0",
+  "summary": "Use when user needs to convert project documentation (websites, GitHub repos, PDFs) into Claude skills. Triggers on \"create a skill from docs\", \"codify documentation\", \"convert ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Kingly-Agency",
+    "github": "Kingly-Agency"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Kingly-Agency/kingly-claude-adapter",
+    "skill_md": "https://raw.githubusercontent.com/Kingly-Agency/kingly-claude-adapter/main/skills/codifier/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:41.659Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Kingly-Agency%2Fkingly-claude-adapter/skills%2Fcodifier%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_b4ae2196dd60"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "run-qa-regression",
+  "name": "run-qa-regression",
+  "version": "1.0.0",
+  "summary": "Run QA regression using `qa-use` toolkit",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "desplega-ai",
+    "github": "desplega-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/desplega-ai/qa-use",
+    "skill_md": "https://raw.githubusercontent.com/desplega-ai/qa-use/main/plugins/qa-use/skills/run-qa-regression/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T14:36:50.000Z",
+  "created_at": "2025-12-23T01:28:21.133Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/desplega-ai%2Fqa-use/plugins%2Fqa-use%2Fskills%2Frun-qa-regression%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_3cdc47a4cc22"
+  }
+}

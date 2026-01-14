@@ -1,0 +1,35 @@
+{
+  "id": "design-assistant",
+  "name": "design-assistant",
+  "version": "1.0.0",
+  "summary": "Expert graphic, UI/UX designer for creating mockups, wireframes, and visual designs. Use when user needs help with designing interfaces, creating mockups, prototyping layouts, v...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "campbellmcgregor",
+    "github": "campbellmcgregor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/campbellmcgregor/claude-skills-repo",
+    "skill_md": "https://raw.githubusercontent.com/campbellmcgregor/claude-skills-repo/main/design-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T21:07:35.000Z",
+  "created_at": "2025-12-23T01:28:37.366Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/campbellmcgregor%2Fclaude-skills-repo/design-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_e62f68124e77"
+  }
+}

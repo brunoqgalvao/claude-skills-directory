@@ -1,0 +1,37 @@
+{
+  "id": "blog-fact-checking",
+  "name": "blog-fact-checking",
+  "version": "1.0.0",
+  "summary": "Verify claims against referenced sources. Checks if blog content accurately represents external resources, APIs, or documentation.\nTrigger phrases: \"fact check\", \"verify\", \"chec...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fgrehm",
+    "github": "fgrehm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fgrehm/fabiorehm.com",
+    "skill_md": "https://raw.githubusercontent.com/fgrehm/fabiorehm.com/main/.claude/skills/blog-fact-checking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:23.516Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fgrehm%2Ffabiorehm.com/.claude%2Fskills%2Fblog-fact-checking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_4dab1bf2d162"
+  }
+}

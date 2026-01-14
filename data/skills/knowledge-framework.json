@@ -1,0 +1,35 @@
+{
+  "id": "knowledge-framework",
+  "name": "knowledge-framework",
+  "version": "1.0.0",
+  "summary": "Auto-applies MECE/BFO framework (thesis, Mermaid TD/LR, numbered sections, Ground Truth) to ANY .md file creation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tekliner",
+    "github": "tekliner"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tekliner/improvado-agentic-frameworks-and-skills",
+    "skill_md": "https://raw.githubusercontent.com/tekliner/improvado-agentic-frameworks-and-skills/main/skills/knowledge-framework/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:14:51.941Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tekliner%2Fimprovado-agentic-frameworks-and-skills/skills%2Fknowledge-framework%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_26560bd53bd5"
+  }
+}

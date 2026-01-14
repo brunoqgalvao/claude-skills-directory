@@ -1,0 +1,35 @@
+{
+  "id": "create-odoo-pwa",
+  "name": "create-odoo-pwa",
+  "version": "1.0.0",
+  "summary": "Generate an offline-first Progressive Web App with Odoo Studio backend integration. Use when user wants to create new Odoo-backed application, mentions \"PWA with Odoo\", \"offline...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jamshu",
+    "github": "jamshu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jamshu/jamshi-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/jamshu/jamshi-marketplace/main/plugins/odoo-pwa-generator/skills/create-odoo-pwa/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:11:40.579Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jamshu%2Fjamshi-marketplace/plugins%2Fodoo-pwa-generator%2Fskills%2Fcreate-odoo-pwa%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_d26d63eab632"
+  }
+}

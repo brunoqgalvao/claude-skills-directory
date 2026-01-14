@@ -1,0 +1,35 @@
+{
+  "id": "pocketbase-migrations",
+  "name": "pocketbase-migrations",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for PocketBase migrations (0.20+) using Go-based migration system. Use when creating or modifying PocketBase collections, managing fields, setting up relatio...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "knowsuchagency",
+    "github": "knowsuchagency"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/knowsuchagency/pocketbase-template",
+    "skill_md": "https://raw.githubusercontent.com/knowsuchagency/pocketbase-template/main/.claude/skills/pocketbase-migrations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:36.710Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/knowsuchagency%2Fpocketbase-template/.claude%2Fskills%2Fpocketbase-migrations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_8f4dd84e9518"
+  }
+}

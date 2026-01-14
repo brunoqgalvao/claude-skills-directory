@@ -1,0 +1,37 @@
+{
+  "id": "tool-selection-framework",
+  "name": "tool-selection-framework",
+  "version": "1.0.0",
+  "summary": "Design systematic decision frameworks for selecting appropriate AI tools (Claude Code vs Gemini CLI)\nbased on context requirements, codebase size, reasoning depth needs, and tas...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "panaversity",
+    "github": "panaversity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/panaversity/ai-native-software-development",
+    "skill_md": "https://raw.githubusercontent.com/panaversity/ai-native-software-development/main/.claude/skills/tool-selection-framework/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:15:19.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/panaversity%2Fai-native-software-development/.claude%2Fskills%2Ftool-selection-framework%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_c0c7a37278bb"
+  }
+}

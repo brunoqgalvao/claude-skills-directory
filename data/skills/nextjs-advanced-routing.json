@@ -1,0 +1,36 @@
+{
+  "id": "nextjs-advanced-routing",
+  "name": "nextjs-advanced-routing",
+  "version": "1.0.0",
+  "summary": "Guide for advanced Next.js App Router patterns including Route Handlers, Parallel Routes, Intercepting Routes, Server Actions, error boundaries, draft mode, and streaming with S...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/knights-and-crosses",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/knights-and-crosses/main/.claude/skills/nextjs-advanced-routing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:25:24.464Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fknights-and-crosses/.claude%2Fskills%2Fnextjs-advanced-routing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_0452b5c559fa"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "draft-writing",
+  "name": "draft-writing",
+  "version": "1.0.0",
+  "summary": "論文草稿的撰寫、讀取、引用管理。\nLOAD THIS SKILL WHEN: 寫草稿、draft、撰寫、Introduction、Methods、Results、Discussion、引用、citation、字數\nCAPABILITIES: write_draft, draft_section, read_draft, list_drafts, ins...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "u9401066",
+    "github": "u9401066"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/u9401066/med-paper-assistant",
+    "skill_md": "https://raw.githubusercontent.com/u9401066/med-paper-assistant/main/vscode-extension/skills/draft-writing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.529Z",
+  "created_at": "2025-12-23T01:29:02.026Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/u9401066%2Fmed-paper-assistant/vscode-extension%2Fskills%2Fdraft-writing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.529Z",
+    "uniqueId": "sk_ff4f9cfd1bd3"
+  }
+}

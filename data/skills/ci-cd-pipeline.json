@@ -1,0 +1,37 @@
+{
+  "id": "ci-cd-pipeline",
+  "name": "ci-cd-pipeline",
+  "version": "1.0.0",
+  "summary": "Set up and maintain continuous integration and continuous deployment pipelines with GitHub Actions, GitLab CI, Jenkins, or similar tools to automate testing, building, and deplo...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "korallis",
+    "github": "korallis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/korallis/Droidz",
+    "skill_md": "https://raw.githubusercontent.com/korallis/Droidz/main/droidz_installer/payloads/droid_cli/default/skills/ci-cd-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:11:13.226Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/korallis%2FDroidz/droidz_installer%2Fpayloads%2Fdroid_cli%2Fdefault%2Fskills%2Fci-cd-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_7aea5716874f"
+  }
+}

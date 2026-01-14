@@ -1,0 +1,35 @@
+{
+  "id": "review-plan",
+  "name": "review-plan",
+  "version": "1.0.0",
+  "summary": "Critically review implementation plans before execution. Use when validating plans, checking standards compliance, or before running implement-plan.",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dopsonbr",
+    "github": "dopsonbr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dopsonbr/agent-kit",
+    "skill_md": "https://raw.githubusercontent.com/dopsonbr/agent-kit/main/content/skills/review-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T19:00:23.734Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dopsonbr%2Fagent-kit/content%2Fskills%2Freview-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_0ee9c13b3046"
+  }
+}

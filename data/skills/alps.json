@@ -1,0 +1,35 @@
+{
+  "id": "alps",
+  "name": "alps",
+  "version": "1.0.0",
+  "summary": "Create, validate, and improve ALPS profiles. Generate from natural language (nl2alps), validate existing profiles, and get improvement suggestions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alps-asd",
+    "github": "alps-asd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alps-asd/alps-editor",
+    "skill_md": "https://raw.githubusercontent.com/alps-asd/alps-editor/main/.claude/skills/alps/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:32.243Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alps-asd%2Falps-editor/.claude%2Fskills%2Falps%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_2e5d6ea33efa"
+  }
+}

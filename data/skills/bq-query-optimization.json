@@ -1,0 +1,36 @@
+{
+  "id": "bq-query-optimization",
+  "name": "bq-query-optimization",
+  "version": "1.0.0",
+  "summary": "Use when writing BigQuery queries, optimizing query performance, analyzing execution plans, or avoiding common SQL gotchas. Covers parameterized queries, UDFs, scripting, window...",
+  "verticals": [
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FunnelEnvy",
+    "github": "FunnelEnvy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FunnelEnvy/agents_webinar_demos",
+    "skill_md": "https://raw.githubusercontent.com/FunnelEnvy/agents_webinar_demos/main/.claude/skills/bq-query-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:24:51.275Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FunnelEnvy%2Fagents_webinar_demos/.claude%2Fskills%2Fbq-query-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_ba6fbc16108d"
+  }
+}

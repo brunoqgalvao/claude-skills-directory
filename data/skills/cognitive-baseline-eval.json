@@ -1,0 +1,36 @@
+{
+  "id": "cognitive-baseline-eval",
+  "name": "cognitive-baseline-eval",
+  "version": "1.0.0",
+  "summary": "Execute the Joseph Cognitive Baseline v2.1 (JC B-v2.1) 5-Scenario Test Suite to quantify AI alignment, friction maintenance, and protocol adherence.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "starwreckntx",
+    "github": "starwreckntx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/starwreckntx/IRP__METHODOLOGIES-",
+    "skill_md": "https://raw.githubusercontent.com/starwreckntx/IRP__METHODOLOGIES-/main/skills/cognitive-baseline-eval/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T08:15:55.000Z",
+  "created_at": "2025-12-23T01:28:26.326Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/starwreckntx%2FIRP__METHODOLOGIES-/skills%2Fcognitive-baseline-eval%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_9def12c0310c"
+  }
+}

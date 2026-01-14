@@ -1,0 +1,36 @@
+{
+  "id": "latex-setup",
+  "name": "latex-setup",
+  "version": "1.0.0",
+  "summary": "Installs and configures complete LaTeX development environment on macOS with MacTeX, Skim viewer, and SyncTeX support. Use when setting up new machine, installing LaTeX, or conf...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/doc-build-tools/skills/latex-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T05:28:19.000Z",
+  "created_at": "2025-12-23T01:28:42.701Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fdoc-build-tools%2Fskills%2Flatex-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.559Z",
+    "uniqueId": "sk_28df4a4cf1ee"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "detect-empty-catch",
+  "name": "detect-empty-catch",
+  "version": "1.0.0",
+  "summary": "Detect empty catch blocks and exception swallowing anti-patterns. Finds catch blocks that silently ignore errors without logging or rethrowing. Works across all languages. Use w...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anortham",
+    "github": "anortham"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anortham/miller",
+    "skill_md": "https://raw.githubusercontent.com/anortham/miller/main/.claude/skills/detect-empty-catch/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T20:29:08.000Z",
+  "created_at": "2025-12-23T01:29:00.769Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anortham%2Fmiller/.claude%2Fskills%2Fdetect-empty-catch%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_04a6e6fa5848"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "policy-engine-builder",
+  "name": "policy-engine-builder",
+  "version": "1.0.0",
+  "summary": "Guide for creating Gemini CLI policy engine TOML rules. Covers rule syntax, priority tiers, conditions, and MCP wildcards. Use when restricting Gemini tools, creating security p...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/google-ecosystem/skills/policy-engine-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:34.540Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fgoogle-ecosystem%2Fskills%2Fpolicy-engine-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_88a7db5d949f"
+  }
+}

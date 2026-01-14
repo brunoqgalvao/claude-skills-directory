@@ -1,0 +1,35 @@
+{
+  "id": "converting-to-strong-types",
+  "name": "converting-to-strong-types",
+  "version": "1.0.0",
+  "summary": "Converts loosely typed Bicep parameters using object or array to strongly typed alternatives like string[], user-defined types, or resource-derived types. Use when user mentions...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnlokerse",
+    "github": "johnlokerse"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnlokerse/azure-bicep-custom-chat-modes",
+    "skill_md": "https://raw.githubusercontent.com/johnlokerse/azure-bicep-custom-chat-modes/main/skills/converting-to-strong-types/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T20:36:16.000Z",
+  "created_at": "2025-12-22T16:29:01.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnlokerse%2Fazure-bicep-custom-chat-modes/skills%2Fconverting-to-strong-types%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_868e7aae9135"
+  }
+}

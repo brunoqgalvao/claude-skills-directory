@@ -1,0 +1,36 @@
+{
+  "id": "integration-e2e-testing",
+  "name": "integration-e2e-testing",
+  "version": "1.0.0",
+  "summary": "Integration and E2E test design principles, behavior verification rules, mock boundaries, and review criteria.\nUse when: designing integration tests, E2E tests, writing test ske...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shinpr",
+    "github": "shinpr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shinpr/agentic-code",
+    "skill_md": "https://raw.githubusercontent.com/shinpr/agentic-code/main/.agents/skills/integration-e2e-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:25.872Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shinpr%2Fagentic-code/.agents%2Fskills%2Fintegration-e2e-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_443ae4cbca86"
+  }
+}

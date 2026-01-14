@@ -1,0 +1,35 @@
+{
+  "id": "gh-issue-lifecycle",
+  "name": "gh-issue-lifecycle",
+  "version": "1.0.0",
+  "summary": "GitHub issue state machine and code integration patterns. Covers state transitions (needs-triage → accepted → in-progress → completed), branch naming (feat/123-desc), PR linking...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "poindexter12",
+    "github": "poindexter12"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/poindexter12/waypoint",
+    "skill_md": "https://raw.githubusercontent.com/poindexter12/waypoint/main/workflows/skills/gh-issue-lifecycle/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T22:50:00.000Z",
+  "created_at": "2025-12-22T19:08:59.274Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/poindexter12%2Fwaypoint/workflows%2Fskills%2Fgh-issue-lifecycle%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.784Z",
+    "uniqueId": "sk_87157a5da925"
+  }
+}

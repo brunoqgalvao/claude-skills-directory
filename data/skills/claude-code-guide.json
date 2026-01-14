@@ -1,0 +1,36 @@
+{
+  "id": "claude-code-guide",
+  "name": "claude-code-guide",
+  "version": "1.0.0",
+  "summary": "Claude Code 高级开发指南 - 全面的中文教程，涵盖工具使用、REPL 环境、开发工作流、MCP 集成、高级模式和最佳实践。适合学习 Claude Code 的高级功能和开发技巧。",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "2025Emma",
+    "github": "2025Emma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/2025Emma/vibe-coding-cn",
+    "skill_md": "https://raw.githubusercontent.com/2025Emma/vibe-coding-cn/main/i18n/zh/skills/claude-code-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.768Z",
+  "created_at": "2025-12-22T20:04:18.335Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/2025Emma%2Fvibe-coding-cn/i18n%2Fzh%2Fskills%2Fclaude-code-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.768Z",
+    "uniqueId": "sk_bd6508ff129e"
+  }
+}

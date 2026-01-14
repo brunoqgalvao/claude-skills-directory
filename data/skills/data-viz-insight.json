@@ -1,0 +1,37 @@
+{
+  "id": "data-viz-insight",
+  "name": "data-viz-insight",
+  "version": "1.0.0",
+  "summary": "Interactive data exploration and visualization skill. Use when users ask to visualize data, analyze datasets, create charts, or explore data files (CSV, Excel, Parquet, JSON). T...",
+  "verticals": [
+    "hr",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DanSnow",
+    "github": "DanSnow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DanSnow/data-visualize",
+    "skill_md": "https://raw.githubusercontent.com/DanSnow/data-visualize/main/.claude/skills/data-viz-insight/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.779Z",
+  "created_at": "2025-12-22T19:15:51.692Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DanSnow%2Fdata-visualize/.claude%2Fskills%2Fdata-viz-insight%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_4e05709639ce"
+  }
+}

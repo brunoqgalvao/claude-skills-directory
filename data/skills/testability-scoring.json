@@ -1,0 +1,36 @@
+{
+  "id": "testability-scoring",
+  "name": "testability-scoring",
+  "version": "1.0.0",
+  "summary": "AI-powered testability assessment using 10 principles of intrinsic testability with Playwright and optional Vibium integration. Evaluates web applications against Observability,...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "proffesor-for-testing",
+    "github": "proffesor-for-testing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/proffesor-for-testing/agentic-qe",
+    "skill_md": "https://raw.githubusercontent.com/proffesor-for-testing/agentic-qe/main/.claude/skills/testability-scoring/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:10:24.411Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/proffesor-for-testing%2Fagentic-qe/.claude%2Fskills%2Ftestability-scoring%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_b0057460fcd9"
+  }
+}

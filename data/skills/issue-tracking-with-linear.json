@@ -1,0 +1,36 @@
+{
+  "id": "issue-tracking-with-linear",
+  "name": "issue-tracking-with-linear",
+  "version": "1.0.0",
+  "summary": "Use when working with Linear tickets/issues - establishes workflows for creating and updating tickets (issues)",
+  "verticals": [
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "czottmann",
+    "github": "czottmann"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/czottmann/claude-code-stuff",
+    "skill_md": "https://raw.githubusercontent.com/czottmann/claude-code-stuff/main/skills/issue-tracking-with-linear/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:06.377Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/czottmann%2Fclaude-code-stuff/skills%2Fissue-tracking-with-linear%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_cb93cca185d9"
+  }
+}

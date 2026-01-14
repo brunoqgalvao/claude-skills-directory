@@ -1,0 +1,35 @@
+{
+  "id": "git-commit-validator",
+  "name": "git-commit-validator",
+  "version": "1.0.0",
+  "summary": "This skill should be used whenever creating git commits. It ensures commit messages follow conventional commit format, character limits, and prohibits AI attribution or branding.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TechDufus",
+    "github": "TechDufus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TechDufus/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/TechDufus/dotfiles/main/roles/claude/files/skills/git-commit-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.823Z",
+  "created_at": "2025-12-22T17:05:37.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TechDufus%2Fdotfiles/roles%2Fclaude%2Ffiles%2Fskills%2Fgit-commit-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_0f4cc7ba1217"
+  }
+}

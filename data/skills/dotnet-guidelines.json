@@ -1,0 +1,36 @@
+{
+  "id": "dotnet-guidelines",
+  "name": "dotnet-guidelines",
+  "version": "1.0.0",
+  "summary": "dotnet coding guidelines and best practices. MUST follow these rules. Use when reviewing or writing .NET code or tasks.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "roeibajayo",
+    "github": "roeibajayo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/roeibajayo/polygent-tools",
+    "skill_md": "https://raw.githubusercontent.com/roeibajayo/polygent-tools/main/.claude/skills/dotnet-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-12T22:44:55.000Z",
+  "created_at": "2025-12-23T01:28:46.166Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/roeibajayo%2Fpolygent-tools/.claude%2Fskills%2Fdotnet-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_315eaa0e3058"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "github-issues-manager",
+  "name": "github-issues-manager",
+  "version": "1.0.0",
+  "summary": "Connect Claude Code with GitHub Issues for rapid problem resolution. This skill should be used when users need to manage, analyze, prioritize, and resolve GitHub issues automati...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hiizzzo",
+    "github": "Hiizzzo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hiizzzo/Steeb",
+    "skill_md": "https://raw.githubusercontent.com/Hiizzzo/Steeb/main/.claude/skills/github-issues-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.756Z",
+  "created_at": "2025-12-22T20:16:09.343Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hiizzzo%2FSteeb/.claude%2Fskills%2Fgithub-issues-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_b8d3a9576402"
+  }
+}

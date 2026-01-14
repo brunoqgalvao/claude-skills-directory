@@ -1,0 +1,36 @@
+{
+  "id": "ni",
+  "name": "ni",
+  "version": "1.0.0",
+  "summary": "Use ni (@antfu/ni) for package manager operations. Use this skill when installing dependencies, running scripts, or executing packages in JavaScript/TypeScript projects.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fohte",
+    "github": "fohte"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fohte/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/fohte/dotfiles/main/config/claude/skills/ni/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:19.045Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fohte%2Fdotfiles/config%2Fclaude%2Fskills%2Fni%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_f4624c84d195"
+  }
+}

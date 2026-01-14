@@ -1,0 +1,36 @@
+{
+  "id": "k8s-simple-deploy",
+  "name": "k8s-simple-deploy",
+  "version": "1.0.0",
+  "summary": "Assists with deploying simple apps to Kubernetes consisting of a deployment and a service.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "eitansuez",
+    "github": "eitansuez"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/eitansuez/kagent-skill",
+    "skill_md": "https://raw.githubusercontent.com/eitansuez/kagent-skill/main/k8s-deploy-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.880Z",
+  "created_at": "2025-12-22T14:55:06.354Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/eitansuez%2Fkagent-skill/k8s-deploy-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.880Z",
+    "uniqueId": "sk_9d26b5b392ed"
+  }
+}

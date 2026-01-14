@@ -1,0 +1,35 @@
+{
+  "id": "startup-portrait",
+  "name": "startup-portrait",
+  "version": "1.0.0",
+  "summary": "Transform team photos into professional startup portraits using fal.ai Nano Banana Pro image-to-image API.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vm0-ai",
+    "github": "vm0-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vm0-ai/vm0-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/vm0-ai/vm0-cookbooks/main/110-startup-portrait/startup-portrait-volume/skills/startup-portrait/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T09:50:39.000Z",
+  "created_at": "2025-12-23T01:28:33.015Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vm0-ai%2Fvm0-cookbooks/110-startup-portrait%2Fstartup-portrait-volume%2Fskills%2Fstartup-portrait%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.569Z",
+    "uniqueId": "sk_7607b7409d37"
+  }
+}

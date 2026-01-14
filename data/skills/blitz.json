@@ -1,0 +1,36 @@
+{
+  "id": "blitz",
+  "name": "blitz",
+  "version": "1.0.0",
+  "summary": "This skill should be used when parallelizing multi-issue sprints using git worktrees and parallel Claude agents. Use when tackling multiple GitHub issues simultaneously, when th...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Cygnusfear",
+    "github": "Cygnusfear"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Cygnusfear/claude-stuff",
+    "skill_md": "https://raw.githubusercontent.com/Cygnusfear/claude-stuff/main/skills/blitz/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:57:57.033Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Cygnusfear%2Fclaude-stuff/skills%2Fblitz%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_fe0f49022237"
+  }
+}

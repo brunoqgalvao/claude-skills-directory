@@ -1,0 +1,35 @@
+{
+  "id": "markdown-to-docx",
+  "name": "markdown-to-docx",
+  "version": "1.0.0",
+  "summary": "Convert markdown documents to Microsoft Word (.docx) format with Korean font support, bold/italic formatting, nested list indentation, and professional styling",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jykim",
+    "github": "jykim"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jykim/AI4BM",
+    "skill_md": "https://raw.githubusercontent.com/jykim/AI4BM/main/_Settings_/Skills/markdown-to-docx/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-19T21:13:24.000Z",
+  "created_at": "2025-12-22T17:59:56.332Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jykim%2FAI4BM/_Settings_%2FSkills%2Fmarkdown-to-docx%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_906dbe0bc2bb"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nix-module-options",
+  "name": "nix-module-options",
+  "version": "1.0.0",
+  "summary": "Query NixOS and Home Manager module options programmatically using flake evaluation. Use this skill when the user asks to check if a module exists, explore available options, ge...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Omegaice",
+    "github": "Omegaice"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Omegaice/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/Omegaice/dotfiles/main/.claude/skills/nix-module-options/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.775Z",
+  "created_at": "2025-12-22T19:58:06.243Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Omegaice%2Fdotfiles/.claude%2Fskills%2Fnix-module-options%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.775Z",
+    "uniqueId": "sk_8933c2c2bad9"
+  }
+}

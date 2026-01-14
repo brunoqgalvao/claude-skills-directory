@@ -1,0 +1,35 @@
+{
+  "id": "upgrade-unchained",
+  "name": "upgrade-unchained",
+  "version": "1.0.0",
+  "summary": "Guides upgrading Unchained Engine to a new major version. Use when the user wants to upgrade their Unchained project, mentions updating @unchainedshop packages, or asks about mi...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "unchainedshop",
+    "github": "unchainedshop"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/unchainedshop/unchained",
+    "skill_md": "https://raw.githubusercontent.com/unchainedshop/unchained/main/docs/static/skills/upgrade-unchained/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:17.589Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/unchainedshop%2Funchained/docs%2Fstatic%2Fskills%2Fupgrade-unchained%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_4359d1c4aa03"
+  }
+}

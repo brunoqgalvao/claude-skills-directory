@@ -1,0 +1,35 @@
+{
+  "id": "finalize-commit",
+  "name": "finalize-commit",
+  "version": "1.0.0",
+  "summary": "Once we are confident our recent changes have captured the essence of the change we want to commit, finalize the commit.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fhwang",
+    "github": "fhwang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fhwang/autonomy-audit",
+    "skill_md": "https://raw.githubusercontent.com/fhwang/autonomy-audit/main/.claude/skills/finalize-commit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.558Z",
+  "created_at": "2025-12-23T01:28:43.457Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fhwang%2Fautonomy-audit/.claude%2Fskills%2Ffinalize-commit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_fce3c539e52e"
+  }
+}

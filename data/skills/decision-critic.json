@@ -1,0 +1,35 @@
+{
+  "id": "decision-critic",
+  "name": "decision-critic",
+  "version": "1.0.0",
+  "summary": "(user)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "solatis",
+    "github": "solatis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/solatis/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/solatis/claude-config/main/skills/decision-critic/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T06:53:24.000Z",
+  "created_at": "2025-12-23T01:28:37.977Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/solatis%2Fclaude-config/skills%2Fdecision-critic%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_1aa8296231f3"
+  }
+}

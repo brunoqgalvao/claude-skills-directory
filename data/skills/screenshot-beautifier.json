@@ -1,0 +1,35 @@
+{
+  "id": "screenshot-beautifier",
+  "name": "screenshot-beautifier",
+  "version": "1.0.0",
+  "summary": "Beautify screenshots using ImageMagick - add rounded corners, drop shadows, gradient backgrounds, padding. Use when preparing screenshots for blog posts, documentation, or prese...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djliden",
+    "github": "djliden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djliden/devrel-claude-code-plugin",
+    "skill_md": "https://raw.githubusercontent.com/djliden/devrel-claude-code-plugin/main/devrel-autonomy/skills/screenshot-beautifier/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:58:58.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djliden%2Fdevrel-claude-code-plugin/devrel-autonomy%2Fskills%2Fscreenshot-beautifier%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_a63b722629b4"
+  }
+}

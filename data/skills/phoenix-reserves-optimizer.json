@@ -1,0 +1,35 @@
+{
+  "id": "phoenix-reserves-optimizer",
+  "name": "phoenix-reserves-optimizer",
+  "version": "1.0.0",
+  "summary": "Reserve allocation and follow-on optimization for the Phoenix fund model. Use when working on deterministic reserve engine logic and optimal reserves ranking.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nikhillinit",
+    "github": "nikhillinit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nikhillinit/Updog_restore",
+    "skill_md": "https://raw.githubusercontent.com/nikhillinit/Updog_restore/main/.claude/skills/phoenix-reserves-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T10:16:13.000Z",
+  "created_at": "2025-12-23T01:28:37.334Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nikhillinit%2FUpdog_restore/.claude%2Fskills%2Fphoenix-reserves-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_a46d55abf3cf"
+  }
+}

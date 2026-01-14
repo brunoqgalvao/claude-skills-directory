@@ -1,0 +1,35 @@
+{
+  "id": "meal-prep-assistant",
+  "name": "meal-prep-assistant",
+  "version": "1.0.0",
+  "summary": "Weekly meal prep and shopping assistant that selects 3 recipes with varied proteins, generates categorized shopping lists, and creates meal prep plans distinguishing Sunday prep...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "manshuv",
+    "github": "manshuv"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/manshuv/grandmaster-crab",
+    "skill_md": "https://raw.githubusercontent.com/manshuv/grandmaster-crab/main/.claude/skills/meal-prep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:21.128Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/manshuv%2Fgrandmaster-crab/.claude%2Fskills%2Fmeal-prep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_fcf249975b4c"
+  }
+}

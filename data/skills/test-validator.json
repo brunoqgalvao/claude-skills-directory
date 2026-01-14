@@ -1,0 +1,36 @@
+{
+  "id": "test-validator",
+  "name": "test-validator",
+  "version": "1.0.0",
+  "summary": "테스트 데이터 검증 및 자동 수정. validate-test-data.mjs 실행, 빌드 확인, 에러 자동 수정. 테스트 생성/수정 후 필수 사용.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dayoumin",
+    "github": "dayoumin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dayoumin/mbti",
+    "skill_md": "https://raw.githubusercontent.com/dayoumin/mbti/main/.claude/skills/test-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:30:49.030Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dayoumin%2Fmbti/.claude%2Fskills%2Ftest-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_419c58a10c20"
+  }
+}

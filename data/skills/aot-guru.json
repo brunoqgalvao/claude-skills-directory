@@ -1,0 +1,35 @@
+{
+  "id": "aot-guru",
+  "name": "aot-guru",
+  "version": "1.0.0",
+  "summary": "Specialized Native AOT, trimming, and optimization expert for morphir-dotnet. Expert in single-file trimmed executables, AOT compilation, size optimization, and guiding toward A...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "finos",
+    "github": "finos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/finos/morphir-dotnet",
+    "skill_md": "https://raw.githubusercontent.com/finos/morphir-dotnet/main/.claude/skills/aot-guru/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.471Z",
+  "created_at": "2025-12-23T01:30:48.376Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/finos%2Fmorphir-dotnet/.claude%2Fskills%2Faot-guru%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.471Z",
+    "uniqueId": "sk_16ff86f39094"
+  }
+}

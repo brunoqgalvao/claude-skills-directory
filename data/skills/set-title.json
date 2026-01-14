@@ -1,0 +1,37 @@
+{
+  "id": "set-title",
+  "name": "set-title",
+  "version": "1.0.0",
+  "summary": "Set terminal window title to identify what the current session is working on. Use from workflows like build-task to display the active task.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majesticlabs-dev",
+    "github": "majesticlabs-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majesticlabs-dev/majestic-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/majesticlabs-dev/majestic-marketplace/main/plugins/majestic-tools/skills/set-title/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T03:48:58.000Z",
+  "created_at": "2025-12-23T01:28:19.773Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majesticlabs-dev%2Fmajestic-marketplace/plugins%2Fmajestic-tools%2Fskills%2Fset-title%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_61413aa0cfe2"
+  }
+}

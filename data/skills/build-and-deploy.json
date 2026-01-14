@@ -1,0 +1,36 @@
+{
+  "id": "build-and-deploy",
+  "name": "build-and-deploy",
+  "version": "1.0.0",
+  "summary": "Build and deploy this Next.js portfolio application. Use when building, deploying, or preparing the project for production.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Eng0AI",
+    "github": "Eng0AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Eng0AI/portfolio-template",
+    "skill_md": "https://raw.githubusercontent.com/Eng0AI/portfolio-template/main/.claude/skills/build-and-deploy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:50:45.234Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Eng0AI%2Fportfolio-template/.claude%2Fskills%2Fbuild-and-deploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_0bef846f2723"
+  }
+}

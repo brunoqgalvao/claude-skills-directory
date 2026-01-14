@@ -2,39 +2,35 @@
   "id": "create-config",
   "name": "create-config",
   "version": "1.0.0",
-  "summary": "Create and manage configuration files for sports poetry generation with complete parameter collection",
+  "summary": "Creates timestamped configuration files for sports poetry multi-agent workflows. Invoked when users request to 'create config', 'set up configuration', 'configure sports poetry'...",
   "verticals": [
-    "Engineering",
-    "Design"
+    "engineering",
+    "operations"
   ],
-  "tags": [
-    "create",
-    "config",
-    "api",
-    "workflow"
-  ],
+  "tags": [],
   "author": {
     "name": "msalganik",
-    "github": "msalganik",
-    "avatar": "https://avatars.githubusercontent.com/u/142116?v=4"
+    "github": "msalganik"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/msalganik/sports-poetry-demo/tree/main/.claude/skills/create_config/SKILL.md.old",
-    "skill_md": "https://raw.githubusercontent.com/msalganik/sports-poetry-demo/main/.claude/skills/create_config/SKILL.md.old/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install create-config"
+    "repo": "https://github.com/msalganik/sports-poetry-demo",
+    "skill_md": "https://raw.githubusercontent.com/msalganik/sports-poetry-demo/main/.claude/skills/create_config/SKILL.md"
   },
   "stats": {
-    "stars": 2,
+    "stars": 0,
     "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-11-16",
-  "created_at": "2025-11-01"
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:08.070Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/msalganik%2Fsports-poetry-demo/.claude%2Fskills%2Fcreate_config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_7a5f0121183a"
+  }
 }

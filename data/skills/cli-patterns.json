@@ -1,0 +1,36 @@
+{
+  "id": "cli-patterns",
+  "name": "cli-patterns",
+  "version": "1.0.0",
+  "summary": "Lightweight Go CLI patterns using urfave/cli. Use when building CLI tools, creating commands with flags, implementing subcommands, adding before/after hooks, organizing command ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/cli-builder",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/cli-builder/main/plugins/cli-builder/skills/cli-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.778Z",
+  "created_at": "2025-12-22T19:30:47.673Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fcli-builder/plugins%2Fcli-builder%2Fskills%2Fcli-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_371860b5a95f"
+  }
+}

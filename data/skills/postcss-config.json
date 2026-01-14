@@ -1,0 +1,37 @@
+{
+  "id": "postcss-config",
+  "name": "postcss-config",
+  "version": "1.0.0",
+  "summary": "PostCSS configuration template and validation logic for Tailwind CSS processing with Autoprefixer. Includes 4 required standards (required base plugins, critical plugin order wi...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/config/build-tools/postcss-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T23:30:39.000Z",
+  "created_at": "2025-12-23T01:28:57.039Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fconfig%2Fbuild-tools%2Fpostcss-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.534Z",
+    "uniqueId": "sk_d3ba88e7247a"
+  }
+}

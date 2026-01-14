@@ -1,0 +1,35 @@
+{
+  "id": "commit-rules",
+  "name": "commit-rules",
+  "version": "1.0.0",
+  "summary": "When making a Git commit, provide the subject of the commit and the rules to follow before committing.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "t0k0sh1",
+    "github": "t0k0sh1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/t0k0sh1/chronia",
+    "skill_md": "https://raw.githubusercontent.com/t0k0sh1/chronia/main/.claude/skills/commit-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-13T08:10:39.000Z",
+  "created_at": "2025-12-23T01:28:19.811Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/t0k0sh1%2Fchronia/.claude%2Fskills%2Fcommit-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_1cc81346bf25"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "auditing-security",
+  "name": "auditing-security",
+  "version": "1.0.0",
+  "summary": "Perform security audits on Agent Skills from a given path. Use when the user asks to audit, review, check security, or verify a skill for security issues.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "meirm",
+    "github": "meirm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/meirm/askGPT",
+    "skill_md": "https://raw.githubusercontent.com/meirm/askGPT/main/src/askGPT/data/builtin_skills/auditing-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:50.954Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/meirm%2FaskGPT/src%2FaskGPT%2Fdata%2Fbuiltin_skills%2Fauditing-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_1396cea4f424"
+  }
+}

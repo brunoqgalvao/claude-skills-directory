@@ -1,0 +1,35 @@
+{
+  "id": "skill-security-analyzer",
+  "name": "skill-security-analyzer",
+  "version": "1.0.0",
+  "summary": "Comprehensive security risk analysis for Claude skills. Use when asked to analyze security risks, review security stance, audit skills for vulnerabilities, check security before...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lgdlong",
+    "github": "lgdlong"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lgdlong/ttt",
+    "skill_md": "https://raw.githubusercontent.com/lgdlong/ttt/main/.github/skills/skill-security-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.449Z",
+  "created_at": "2025-12-22T20:03:14.863Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lgdlong%2Fttt/.github%2Fskills%2Fskill-security-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_963e9d154d44"
+  }
+}

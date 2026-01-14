@@ -1,0 +1,36 @@
+{
+  "id": "github-repo-management",
+  "name": "github-repo-management",
+  "version": "1.0.0",
+  "summary": "Manage GitHub repositories for Claude Code plugins including issues, pull requests, releases, CI/CD workflows, and GitHub Actions. Use when working with GitHub repository manage...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "d-oit",
+    "github": "d-oit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/d-oit/gemini-search-plugin",
+    "skill_md": "https://raw.githubusercontent.com/d-oit/gemini-search-plugin/main/.claude/skills/github-repo-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.932Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/d-oit%2Fgemini-search-plugin/.claude%2Fskills%2Fgithub-repo-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_28697a6242d7"
+  }
+}

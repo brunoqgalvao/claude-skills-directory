@@ -1,0 +1,36 @@
+{
+  "id": "implementing-query-caching",
+  "name": "implementing-query-caching",
+  "version": "1.0.0",
+  "summary": "Implement query result caching with Redis and proper invalidation strategies for Prisma 6. Use when optimizing frequently accessed data, improving read-heavy application perform...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/prisma-6/skills/implementing-query-caching/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:48.879Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/prisma-6%2Fskills%2Fimplementing-query-caching%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_a74efa5ae64a"
+  }
+}

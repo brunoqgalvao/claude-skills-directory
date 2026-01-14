@@ -1,0 +1,37 @@
+{
+  "id": "manifest-v3",
+  "name": "manifest-v3",
+  "version": "1.0.0",
+  "summary": "Comprehensive Manifest V3 reference covering manifest.json structure, all fields, service workers, content scripts, permissions, CSP, icons, and side panel configuration. Use wh...",
+  "verticals": [
+    "marketing",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "francanete",
+    "github": "francanete"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/francanete/fran-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/francanete/fran-marketplace/main/chrome-extension-expert/skills/manifest-v3/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T14:53:18.000Z",
+  "created_at": "2025-12-22T19:57:06.942Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/francanete%2Ffran-marketplace/chrome-extension-expert%2Fskills%2Fmanifest-v3%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_0660fb3601fe"
+  }
+}

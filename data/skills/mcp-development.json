@@ -1,0 +1,35 @@
+{
+  "id": "mcp-development",
+  "name": "mcp-development",
+  "version": "1.0.0",
+  "summary": "Complete MCP development toolkit for creating, debugging, testing, and reviewing MCP servers. Use when setting up new MCP projects, creating tools, debugging connection issues, ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fabriciofs",
+    "github": "fabriciofs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fabriciofs/mcp-sql-server",
+    "skill_md": "https://raw.githubusercontent.com/fabriciofs/mcp-sql-server/main/.claude/skills/mcp-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T05:53:50.000Z",
+  "created_at": "2025-12-22T15:12:21.596Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fabriciofs%2Fmcp-sql-server/.claude%2Fskills%2Fmcp-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_d122490488bb"
+  }
+}

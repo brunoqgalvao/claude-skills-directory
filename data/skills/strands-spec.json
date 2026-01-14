@@ -1,0 +1,37 @@
+{
+  "id": "strands-spec",
+  "name": "strands-spec",
+  "version": "1.0.0",
+  "summary": "Expert guidance for creating strands-cli workflow specifications (YAML/JSON). Use when creating, modifying, or troubleshooting strands-cli specs for: (1) Multi-step agent workfl...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ThomasRohde",
+    "github": "ThomasRohde"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ThomasRohde/strands-cli",
+    "skill_md": "https://raw.githubusercontent.com/ThomasRohde/strands-cli/main/examples/skills/strands-spec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.518Z",
+  "created_at": "2025-12-23T01:29:11.655Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ThomasRohde%2Fstrands-cli/examples%2Fskills%2Fstrands-spec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_e344d3f6bb75"
+  }
+}

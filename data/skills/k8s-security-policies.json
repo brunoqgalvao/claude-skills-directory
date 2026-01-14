@@ -1,0 +1,35 @@
+{
+  "id": "k8s-security-policies",
+  "name": "k8s-security-policies",
+  "version": "1.0.0",
+  "summary": "本番グレードのセキュリティのためのNetworkPolicy、PodSecurityPolicy、RBACを含むKubernetesセキュリティポリシーの実装。Kubernetesクラスタのセキュリティ確保、ネットワーク分離の実装、Podセキュリティ標準の強制に使用します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amurata",
+    "github": "amurata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amurata/cc-tools",
+    "skill_md": "https://raw.githubusercontent.com/amurata/cc-tools/main/i18n/ja/plugins/kubernetes-operations/skills/k8s-security-policies/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:14:27.790Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amurata%2Fcc-tools/i18n%2Fja%2Fplugins%2Fkubernetes-operations%2Fskills%2Fk8s-security-policies%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_b2b08d961375"
+  }
+}

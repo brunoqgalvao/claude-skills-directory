@@ -1,0 +1,35 @@
+{
+  "id": "tech-blogger-writer",
+  "name": "tech-blogger-writer",
+  "version": "1.0.0",
+  "summary": "Writes technical blog posts with professional yet friendly tone",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Zura1555",
+    "github": "Zura1555"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Zura1555/agents",
+    "skill_md": "https://raw.githubusercontent.com/Zura1555/agents/main/.claude/skills/tech-blogger-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T07:25:52.000Z",
+  "created_at": "2025-12-22T20:07:59.732Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Zura1555%2Fagents/.claude%2Fskills%2Ftech-blogger-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_9bbd314ce49f"
+  }
+}

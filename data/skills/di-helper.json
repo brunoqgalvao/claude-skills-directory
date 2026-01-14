@@ -1,0 +1,35 @@
+{
+  "id": "di-helper",
+  "name": "di-helper",
+  "version": "1.0.0",
+  "summary": "Manage tsyringe DI container registration, scan injectable classes, detect missing registrations, validate injection patterns, and generate registration code. Use when registeri...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "moasadi",
+    "github": "moasadi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/moasadi/ddd-bun-api-boilerplate",
+    "skill_md": "https://raw.githubusercontent.com/moasadi/ddd-bun-api-boilerplate/main/.claude/skills/di-helper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.493Z",
+  "created_at": "2025-12-23T01:29:30.811Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/moasadi%2Fddd-bun-api-boilerplate/.claude%2Fskills%2Fdi-helper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_5736189c481c"
+  }
+}

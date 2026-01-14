@@ -1,0 +1,37 @@
+{
+  "id": "attio-skill-generator",
+  "name": "attio-skill-generator",
+  "version": "1.0.0",
+  "summary": "Generate use-case-specific Attio workflow skills from templates. Use when creating new skills for lead qualification, deal management, customer onboarding, or custom Attio workf...",
+  "verticals": [
+    "legal",
+    "sales",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kesslerio",
+    "github": "kesslerio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kesslerio/attio-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/kesslerio/attio-mcp-server/main/skills/attio-skill-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:10:24.603Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kesslerio%2Fattio-mcp-server/skills%2Fattio-skill-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_d8d5fbd6fad0"
+  }
+}

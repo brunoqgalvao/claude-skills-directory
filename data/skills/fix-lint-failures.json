@@ -1,0 +1,35 @@
+{
+  "id": "fix-lint-failures",
+  "name": "fix-lint-failures",
+  "version": "1.0.0",
+  "summary": "Fix linting and code formatting issues from ESLint, Black, Prettier, Ruff, pre-commit hooks. Use when linting checks fail.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "VectorInstitute",
+    "github": "VectorInstitute"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/VectorInstitute/aieng-bot-maintain",
+    "skill_md": "https://raw.githubusercontent.com/VectorInstitute/aieng-bot-maintain/main/.claude/skills/fix-lint-failures/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.547Z",
+  "created_at": "2025-12-23T01:28:51.134Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/VectorInstitute%2Faieng-bot-maintain/.claude%2Fskills%2Ffix-lint-failures%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.547Z",
+    "uniqueId": "sk_6ee52042f511"
+  }
+}

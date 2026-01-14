@@ -1,0 +1,35 @@
+{
+  "id": "conflict-detection",
+  "name": "conflict-detection",
+  "version": "1.0.0",
+  "summary": "Use before creating new stories or when user asks \"check for conflicts\", \"find duplicates\", \"review story overlaps\", or \"detect story conflicts\" - scans story-tree database to i...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Mharbulous",
+    "github": "Mharbulous"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Mharbulous/SyncoPaid",
+    "skill_md": "https://raw.githubusercontent.com/Mharbulous/SyncoPaid/main/.claude/archived-skills/conflict-detection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:51.092Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Mharbulous%2FSyncoPaid/.claude%2Farchived-skills%2Fconflict-detection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_3656b811421a"
+  }
+}

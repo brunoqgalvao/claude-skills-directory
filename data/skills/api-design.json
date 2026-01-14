@@ -1,0 +1,36 @@
+{
+  "id": "api-design",
+  "name": "api-design",
+  "version": "1.0.0",
+  "summary": "RESTful API design best practices and conventions guide",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Leavesfly",
+    "github": "Leavesfly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Leavesfly/Jimi",
+    "skill_md": "https://raw.githubusercontent.com/Leavesfly/Jimi/main/src/main/resources/skills/api-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T13:07:24.000Z",
+  "created_at": "2025-12-22T14:57:13.799Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Leavesfly%2FJimi/src%2Fmain%2Fresources%2Fskills%2Fapi-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_b16f6354f1d2"
+  }
+}

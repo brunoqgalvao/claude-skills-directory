@@ -1,0 +1,37 @@
+{
+  "id": "glab",
+  "name": "glab",
+  "version": "1.0.0",
+  "summary": "Expert guidance for using the GitLab CLI (glab) to manage GitLab issues, merge requests, CI/CD pipelines, repositories, and other GitLab operations from the command line. Use th...",
+  "verticals": [
+    "sales",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henricook",
+    "github": "henricook"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henricook/claude-glab-skill",
+    "skill_md": "https://raw.githubusercontent.com/henricook/claude-glab-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.461Z",
+  "created_at": "2025-12-22T18:01:52.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henricook%2Fclaude-glab-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.461Z",
+    "uniqueId": "sk_9e9de5d702c0"
+  }
+}

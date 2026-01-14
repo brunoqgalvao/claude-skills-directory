@@ -1,0 +1,35 @@
+{
+  "id": "context-constellation",
+  "name": "context-constellation",
+  "version": "1.0.0",
+  "summary": "Map non-linear connections across files, thoughts, and projects. Reveal hidden patterns in seemingly unrelated work. Use when feeling scattered, when working across multiple dom...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Kingly-Agency",
+    "github": "Kingly-Agency"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Kingly-Agency/kingly-claude-adapter",
+    "skill_md": "https://raw.githubusercontent.com/Kingly-Agency/kingly-claude-adapter/main/skills/context-constellation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.552Z",
+  "created_at": "2025-12-23T01:28:48.267Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Kingly-Agency%2Fkingly-claude-adapter/skills%2Fcontext-constellation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.552Z",
+    "uniqueId": "sk_cf6b8e85418b"
+  }
+}

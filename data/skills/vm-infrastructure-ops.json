@@ -1,0 +1,37 @@
+{
+  "id": "vm-infrastructure-ops",
+  "name": "vm-infrastructure-ops",
+  "version": "1.0.0",
+  "summary": "Troubleshoot and manage GCP e2-micro VM running eth-realtime-collector. Use when VM service is down, systemd failures occur, real-time data stream stops, or VM network issues ar...",
+  "verticals": [
+    "support",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/gapless-network-data",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/gapless-network-data/main/.claude/skills/vm-infrastructure-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T12:19:47.000Z",
+  "created_at": "2025-12-23T01:29:03.974Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fgapless-network-data/.claude%2Fskills%2Fvm-infrastructure-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_0e821cf91d9a"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "epic-cli",
+  "name": "epic-cli",
+  "version": "1.0.0",
+  "summary": "Use the Epic CLI for project management, issue tracking, PR workflows, git worktrees, and debugging. Triggers on requests like \"create a project\", \"start an issue\", \"work on PR\"...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "coeus-ventures",
+    "github": "coeus-ventures"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/coeus-ventures/web-template",
+    "skill_md": "https://raw.githubusercontent.com/coeus-ventures/web-template/main/.claude/skills/epic-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T14:56:25.000Z",
+  "created_at": "2025-12-22T16:28:32.299Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/coeus-ventures%2Fweb-template/.claude%2Fskills%2Fepic-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_57150705c8af"
+  }
+}

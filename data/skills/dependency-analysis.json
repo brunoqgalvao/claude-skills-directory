@@ -1,0 +1,37 @@
+{
+  "id": "dependency-analysis",
+  "name": "dependency-analysis",
+  "version": "1.0.0",
+  "summary": "Enhanced dependency analyzer with comprehensive markdown reporting and actionable recommendations. Use when you need to optimize frontend project dependencies, detect security v...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hubvue",
+    "github": "hubvue"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hubvue/fe-analysis-skills",
+    "skill_md": "https://raw.githubusercontent.com/hubvue/fe-analysis-skills/main/skills/dependency-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.503Z",
+  "created_at": "2025-12-23T01:29:22.562Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hubvue%2Ffe-analysis-skills/skills%2Fdependency-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_ef558c68dde1"
+  }
+}

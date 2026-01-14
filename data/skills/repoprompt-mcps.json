@@ -1,0 +1,36 @@
+{
+  "id": "repoprompt-mcps",
+  "name": "repoprompt-mcps",
+  "version": "1.0.0",
+  "summary": "RepoPrompt MCP tool reference. Supplemental parameter docs for context_builder, chat_send, and chats tools.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "GantisStorm",
+    "github": "GantisStorm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/GantisStorm/claude-code-pair-planning-framework",
+    "skill_md": "https://raw.githubusercontent.com/GantisStorm/claude-code-pair-planning-framework/main/repoprompt-swarm/skills/repoprompt-mcps/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T07:27:18.000Z",
+  "created_at": "2025-12-19T19:57:06.509Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/GantisStorm%2Fclaude-code-pair-planning-framework/repoprompt-swarm%2Fskills%2Frepoprompt-mcps%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_35d569ff0250"
+  }
+}

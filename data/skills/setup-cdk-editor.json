@@ -1,0 +1,35 @@
+{
+  "id": "setup-cdk-editor",
+  "name": "setup-cdk-editor",
+  "version": "1.0.0",
+  "summary": "Use when setting up VS Code or Cursor for Claude Code - configures settings, installs recommended extensions, sets up keybindings, and creates workspace templates optimized for ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "auge2u",
+    "github": "auge2u"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/auge2u/claude-dev-kit",
+    "skill_md": "https://raw.githubusercontent.com/auge2u/claude-dev-kit/main/skills/editor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:13.867Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/auge2u%2Fclaude-dev-kit/skills%2Feditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_13c92e074e3d"
+  }
+}

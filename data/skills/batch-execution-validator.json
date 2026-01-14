@@ -1,0 +1,35 @@
+{
+  "id": "batch-execution-validator",
+  "name": "batch-execution-validator",
+  "version": "1.0.0",
+  "summary": "Validate production batch execution - trigger daily runs and analyze traces for architecture completeness and result quality",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mberto10",
+    "github": "mberto10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mberto10/web_research_agent",
+    "skill_md": "https://raw.githubusercontent.com/mberto10/web_research_agent/main/.claude/skills/batch-execution-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.782Z",
+  "created_at": "2025-12-22T19:12:34.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mberto10%2Fweb_research_agent/.claude%2Fskills%2Fbatch-execution-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_155559f779c0"
+  }
+}

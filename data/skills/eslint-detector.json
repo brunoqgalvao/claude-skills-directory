@@ -1,0 +1,35 @@
+{
+  "id": "eslint-detector",
+  "name": "eslint-detector",
+  "version": "1.0.0",
+  "summary": "Detects ESLint configuration and available commands in a repository. Returns structured JSON output designed for consumption by the quality-gates-linter agent. Checks for ESLint...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alex-popov-tech",
+    "github": "alex-popov-tech"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alex-popov-tech/.dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/alex-popov-tech/.dotfiles/main/claude/.claude/skills/eslint-detector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:11:12.633Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alex-popov-tech%2F.dotfiles/claude%2F.claude%2Fskills%2Feslint-detector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_a37a9f25d4d0"
+  }
+}

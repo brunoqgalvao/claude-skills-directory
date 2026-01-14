@@ -1,0 +1,35 @@
+{
+  "id": "billing-guard",
+  "name": "billing-guard",
+  "version": "1.0.0",
+  "summary": "计费审计专家,在规划/开发/运行阶段持续审计与优化成本。评估任务卡预算、模拟调用成本、监控高成本路径,在超出预算或异常时阻断执行并提出替代方案。遵循数据驱动、三板斧优化(缓存/批量/降级)、预警阻断的工程基线。适用于规划预审、PR成本审查、运行时监控时使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lpding888",
+    "github": "lpding888"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lpding888/aiygw4.0",
+    "skill_md": "https://raw.githubusercontent.com/lpding888/aiygw4.0/main/skills/billing_guard_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.479Z",
+  "created_at": "2025-12-23T01:29:44.909Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lpding888%2Faiygw4.0/skills%2Fbilling_guard_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_d2bdd13c34d1"
+  }
+}

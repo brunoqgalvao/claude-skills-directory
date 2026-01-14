@@ -1,0 +1,35 @@
+{
+  "id": "testing-framework-specification",
+  "name": "testing-framework-specification",
+  "version": "1.0.0",
+  "summary": "定义EP项目标准化测试框架规范，基于JUnit 5 + AssertJ + Mockito + JaCoCo，涵盖测试配置、命名、结构、覆盖率等要求。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "whtoo",
+    "github": "whtoo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/whtoo/How_to_implment_PL_in_Antlr4",
+    "skill_md": "https://raw.githubusercontent.com/whtoo/How_to_implment_PL_in_Antlr4/main/.claude/skills/testing-framework-specification/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.679Z",
+  "created_at": "2025-12-22T22:12:04.735Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/whtoo%2FHow_to_implment_PL_in_Antlr4/.claude%2Fskills%2Ftesting-framework-specification%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.679Z",
+    "uniqueId": "sk_16197eda653b"
+  }
+}

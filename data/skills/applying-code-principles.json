@@ -1,0 +1,37 @@
+{
+  "id": "applying-code-principles",
+  "name": "applying-code-principles",
+  "version": "1.0.0",
+  "summary": "Fundamental software principles - SOLID, DRY, Occam's Razor, Miller's Law, YAGNI. Triggers: 原則, シンプル, 複雑, アーキテクチャ, リファクタリング, 保守性, コード品質, design pattern, best practice, clean code",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thkt",
+    "github": "thkt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thkt/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/thkt/claude-config/main/skills/applying-code-principles/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.573Z",
+  "created_at": "2025-12-23T01:28:28.864Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thkt%2Fclaude-config/skills%2Fapplying-code-principles%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_adbefc2e6294"
+  }
+}

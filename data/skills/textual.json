@@ -1,0 +1,36 @@
+{
+  "id": "textual",
+  "name": "textual",
+  "version": "1.0.0",
+  "summary": "Expert guidance for building TUI (Text User Interface) applications with the Textual framework. Invoke when user asks about Textual development, TUI apps, widgets, screens, CSS ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "KyleKing",
+    "github": "KyleKing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/KyleKing/vcr-tui",
+    "skill_md": "https://raw.githubusercontent.com/KyleKing/vcr-tui/main/.claude/skills/textual/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:04:01.692Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/KyleKing%2Fvcr-tui/.claude%2Fskills%2Ftextual%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_8c5a9262b5ee"
+  }
+}

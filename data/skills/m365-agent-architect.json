@@ -1,0 +1,35 @@
+{
+  "id": "m365-agent-architect",
+  "name": "m365-agent-architect",
+  "version": "1.0.0",
+  "summary": "Expert in designing Microsoft 365 Copilot agent architectures",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebastienlevert",
+    "github": "sebastienlevert"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebastienlevert/m365-developer-cli",
+    "skill_md": "https://raw.githubusercontent.com/sebastienlevert/m365-developer-cli/main/.github/skills/m365-agent-architect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.578Z",
+  "created_at": "2025-12-23T01:28:22.396Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebastienlevert%2Fm365-developer-cli/.github%2Fskills%2Fm365-agent-architect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_3f400801d875"
+  }
+}

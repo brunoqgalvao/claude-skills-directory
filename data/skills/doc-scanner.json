@@ -1,0 +1,36 @@
+{
+  "id": "doc-scanner",
+  "name": "doc-scanner",
+  "version": "1.0.0",
+  "summary": "Scans for project documentation files (AGENTS.md, CLAUDE.md, GEMINI.md, COPILOT.md, CURSOR.md, WARP.md, and 15+ other formats) and synthesizes guidance. Auto-activates when user...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "0xDarkMatter",
+    "github": "0xDarkMatter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/0xDarkMatter/claude-mods",
+    "skill_md": "https://raw.githubusercontent.com/0xDarkMatter/claude-mods/main/skills/doc-scanner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.859Z",
+  "created_at": "2025-12-22T15:09:30.853Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/0xDarkMatter%2Fclaude-mods/skills%2Fdoc-scanner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_cd7ed719926a"
+  }
+}

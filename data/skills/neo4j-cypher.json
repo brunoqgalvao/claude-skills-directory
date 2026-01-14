@@ -1,0 +1,36 @@
+{
+  "id": "neo4j-cypher",
+  "name": "neo4j-cypher",
+  "version": "1.0.0",
+  "summary": "Expert guidance for Neo4j Cypher queries and MCP server tools. Use when working with mcp__neo4j__ tools for query execution, schema introspection, and graph operations.",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rayk",
+    "github": "rayk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rayk/lucid-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/rayk/lucid-toolkit/main/plugins/impl-neo4j/skills/neo4j-cypher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:26.762Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rayk%2Flucid-toolkit/plugins%2Fimpl-neo4j%2Fskills%2Fneo4j-cypher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_2d8b48bef4c9"
+  }
+}

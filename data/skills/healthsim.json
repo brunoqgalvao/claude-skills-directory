@@ -1,0 +1,37 @@
+{
+  "id": "healthsim",
+  "name": "healthsim",
+  "version": "1.0.0",
+  "summary": "HealthSim generates realistic synthetic healthcare data for testing EMR systems, claims processing, pharmacy benefits, and analytics. Use for ANY request involving: (1) syntheti...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mark64oswald",
+    "github": "mark64oswald"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mark64oswald/healthsim-workspace",
+    "skill_md": "https://raw.githubusercontent.com/mark64oswald/healthsim-workspace/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:57.007Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mark64oswald%2Fhealthsim-workspace/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_0f8b94dcf45d"
+  }
+}

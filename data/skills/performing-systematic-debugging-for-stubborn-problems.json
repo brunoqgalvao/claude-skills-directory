@@ -1,0 +1,36 @@
+{
+  "id": "performing-systematic-debugging-for-stubborn-problems",
+  "name": "performing-systematic-debugging-for-stubborn-problems",
+  "version": "1.0.0",
+  "summary": "Applies a modified Fagan Inspection methodology to systematically resolve persistent bugs and complex issues. Use when multiple previous fix attempts have failed repeatedly, whe...",
+  "verticals": [
+    "engineering",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AJBcoding",
+    "github": "AJBcoding"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AJBcoding/claude-skill-eval",
+    "skill_md": "https://raw.githubusercontent.com/AJBcoding/claude-skill-eval/main/agentic-coding-main/Claude/skills/systematic-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T19:33:26.000Z",
+  "created_at": "2025-12-22T18:03:18.824Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AJBcoding%2Fclaude-skill-eval/agentic-coding-main%2FClaude%2Fskills%2Fsystematic-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_103625a3d205"
+  }
+}

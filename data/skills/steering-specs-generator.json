@@ -1,0 +1,37 @@
+{
+  "id": "steering-specs-generator",
+  "name": "steering-specs-generator",
+  "version": "1.0.0",
+  "summary": "Extract tacit engineering knowledge through guided interviews and generate structured steerings. Use when user mentions \"steerings\", \"tacit knowledge\", \"conventions\", \"engineeri...",
+  "verticals": [
+    "support",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timurkhakhalev",
+    "github": "timurkhakhalev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timurkhakhalev/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/timurkhakhalev/cc-plugins/main/plugins/steerings-specs-generator/skills/steering-specs-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.707Z",
+  "created_at": "2025-12-22T21:18:29.240Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timurkhakhalev%2Fcc-plugins/plugins%2Fsteerings-specs-generator%2Fskills%2Fsteering-specs-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.707Z",
+    "uniqueId": "sk_7724b853e339"
+  }
+}

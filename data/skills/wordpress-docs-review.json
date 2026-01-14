@@ -1,0 +1,37 @@
+{
+  "id": "wordpress-docs-review",
+  "name": "wordpress-docs-review",
+  "version": "1.0.0",
+  "summary": "Review and validate WordPress documentation against official style guide standards. Use when reviewing documentation for WordPress core, themes, plugins, or related projects. Ch...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fellyph",
+    "github": "fellyph"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fellyph/cursor-rules",
+    "skill_md": "https://raw.githubusercontent.com/fellyph/cursor-rules/main/claude/skills/wp-docs-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-28T11:28:58.000Z",
+  "created_at": "2025-12-23T01:29:18.302Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fellyph%2Fcursor-rules/claude%2Fskills%2Fwp-docs-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.510Z",
+    "uniqueId": "sk_6a3890f4bdef"
+  }
+}

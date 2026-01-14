@@ -1,0 +1,37 @@
+{
+  "id": "mydetailarea-database",
+  "name": "mydetailarea-database",
+  "version": "1.0.0",
+  "summary": "Database optimization, security audit, and performance analysis for MyDetailArea Supabase/PostgreSQL. Provides safe query optimization, RLS policy review, index recommendations,...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rruiz22",
+    "github": "rruiz22"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rruiz22/my-detail-area",
+    "skill_md": "https://raw.githubusercontent.com/rruiz22/my-detail-area/main/.claude/skills/mydetailarea-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.626Z",
+  "created_at": "2025-12-22T23:16:16.732Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rruiz22%2Fmy-detail-area/.claude%2Fskills%2Fmydetailarea-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.626Z",
+    "uniqueId": "sk_c64c0f4ff676"
+  }
+}

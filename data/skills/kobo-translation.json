@@ -1,0 +1,37 @@
+{
+  "id": "kobo-translation",
+  "name": "kobo-translation",
+  "version": "1.0.0",
+  "summary": "Translation and localization guidelines for KoboToolbox content in French, Spanish, and Arabic. Use when translating KoboToolbox materials including: (1) Academy courses and edu...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshuaberetta",
+    "github": "joshuaberetta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshuaberetta/kobo-translation-test",
+    "skill_md": "https://raw.githubusercontent.com/joshuaberetta/kobo-translation-test/main/skills/kobo-translation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:40.768Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshuaberetta%2Fkobo-translation-test/skills%2Fkobo-translation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_ecd87b5d6fd3"
+  }
+}

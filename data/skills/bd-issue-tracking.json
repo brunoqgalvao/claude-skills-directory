@@ -1,0 +1,35 @@
+{
+  "id": "bd-issue-tracking",
+  "name": "bd-issue-tracking",
+  "version": "1.0.0",
+  "summary": "Track complex, multi-session work with dependency graphs using bd (beads) issue tracker. Use when work spans multiple sessions, has complex dependencies, or requires persistent ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnnymo87",
+    "github": "johnnymo87"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnnymo87/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/johnnymo87/dotfiles/main/.claude/skills/using-beads-for-issue-tracking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.482Z",
+  "created_at": "2025-12-23T01:29:41.401Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnnymo87%2Fdotfiles/.claude%2Fskills%2Fusing-beads-for-issue-tracking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_917b7ed8c8a8"
+  }
+}

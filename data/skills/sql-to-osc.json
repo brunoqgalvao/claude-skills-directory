@@ -1,0 +1,35 @@
+{
+  "id": "sql-to-osc",
+  "name": "sql-to-osc",
+  "version": "1.0.0",
+  "summary": "SQL to OSC (Online Schema Change) conversion expert for Flyway migration scripts.\nUse when: (1) Converting SQL migration files to OSC format, (2) User mentions \"OSC\", \"轉換 OSC\", ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DennisLiuCk",
+    "github": "DennisLiuCk"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DennisLiuCk/claude-plugin-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/DennisLiuCk/claude-plugin-marketplace/main/plugins/sql-to-osc/skills/sql-to-osc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T06:28:50.000Z",
+  "created_at": "2025-12-22T15:08:41.279Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DennisLiuCk%2Fclaude-plugin-marketplace/plugins%2Fsql-to-osc%2Fskills%2Fsql-to-osc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_1b9f06d4215f"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "smithery-mcp-deployment",
+  "name": "smithery-mcp-deployment",
+  "version": "1.0.0",
+  "summary": "Best practices for creating, optimizing, and deploying MCP servers to Smithery. Use this skill when:\n(1) Creating new MCP servers for Smithery deployment\n(2) Optimizing quality ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CaullenOmdahl",
+    "github": "CaullenOmdahl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CaullenOmdahl/youtube-music-mcp-server",
+    "skill_md": "https://raw.githubusercontent.com/CaullenOmdahl/youtube-music-mcp-server/main/.claude/skills/smithery-mcp-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.789Z",
+  "created_at": "2025-12-22T18:59:44.297Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CaullenOmdahl%2Fyoutube-music-mcp-server/.claude%2Fskills%2Fsmithery-mcp-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_29cc0990170b"
+  }
+}

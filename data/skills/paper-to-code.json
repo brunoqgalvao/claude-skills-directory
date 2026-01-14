@@ -1,0 +1,36 @@
+{
+  "id": "paper-to-code",
+  "name": "paper-to-code",
+  "version": "1.0.0",
+  "summary": "Implement AI/ML research papers from scratch when no official code exists. Use when the user wants to reproduce a paper, implement an algorithm from a PDF, build a model archite...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aryateja2106",
+    "github": "aryateja2106"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aryateja2106/nested-learning",
+    "skill_md": "https://raw.githubusercontent.com/aryateja2106/nested-learning/main/.claude/skills/paper-to-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:11.220Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aryateja2106%2Fnested-learning/.claude%2Fskills%2Fpaper-to-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_29ef1d313792"
+  }
+}

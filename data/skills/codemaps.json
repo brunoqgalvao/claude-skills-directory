@@ -1,0 +1,35 @@
+{
+  "id": "codemaps",
+  "name": "codemaps",
+  "version": "1.0.0",
+  "summary": "Create token-aware architecture documentation for AI agent context. Use when starting work on unfamiliar codebase or before planning features that touch multiple areas.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ReinaMacCredy",
+    "github": "ReinaMacCredy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ReinaMacCredy/maestro",
+    "skill_md": "https://raw.githubusercontent.com/ReinaMacCredy/maestro/main/skills/codemaps/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:51:01.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ReinaMacCredy%2Fmaestro/skills%2Fcodemaps%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_40851abf0b5e"
+  }
+}

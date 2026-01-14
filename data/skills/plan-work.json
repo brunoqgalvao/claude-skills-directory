@@ -1,0 +1,35 @@
+{
+  "id": "plan-work",
+  "name": "plan-work",
+  "version": "1.0.0",
+  "summary": "Plan work before coding: do repo research, analyze options/risks, and ask clarifying questions before proposing an implementation plan. Use when the user asks for a plan, design...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jMerta",
+    "github": "jMerta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jMerta/codex-skills",
+    "skill_md": "https://raw.githubusercontent.com/jMerta/codex-skills/main/plan-work/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T21:40:57.000Z",
+  "created_at": "2025-12-23T01:28:36.021Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jMerta%2Fcodex-skills/plan-work%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.454Z",
+    "uniqueId": "sk_1d07b9acb10d"
+  }
+}

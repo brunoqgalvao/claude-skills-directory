@@ -1,0 +1,35 @@
+{
+  "id": "text-to-sql",
+  "name": "text-to-sql",
+  "version": "1.0.0",
+  "summary": "Convert natural language queries to SQL. Use for database queries, data analysis, and reporting.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oimiragieo",
+    "github": "oimiragieo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oimiragieo/agent-studio",
+    "skill_md": "https://raw.githubusercontent.com/oimiragieo/agent-studio/main/.claude/skills/text-to-sql/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:53:58.877Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oimiragieo%2Fagent-studio/.claude%2Fskills%2Ftext-to-sql%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_d06a486bdd2e"
+  }
+}

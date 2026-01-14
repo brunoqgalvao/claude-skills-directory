@@ -1,0 +1,35 @@
+{
+  "id": "mistral-pdf-to-markdown",
+  "name": "mistral-pdf-to-markdown",
+  "version": "1.0.0",
+  "summary": "Convert PDFs to Markdown using Mistral OCR API with image extraction. Use when you need to extract structured text and images from PDFs, especially for scanned documents or docu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FuZhiyu",
+    "github": "FuZhiyu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FuZhiyu/ResearchProjectTemplate",
+    "skill_md": "https://raw.githubusercontent.com/FuZhiyu/ResearchProjectTemplate/main/ProjectExample/.claude/skills/mistral-pdf-to-markdown/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:51:05.445Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FuZhiyu%2FResearchProjectTemplate/ProjectExample%2F.claude%2Fskills%2Fmistral-pdf-to-markdown%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_e8d1dfb70924"
+  }
+}

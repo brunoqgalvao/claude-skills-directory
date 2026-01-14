@@ -1,0 +1,35 @@
+{
+  "id": "demeter-skills",
+  "name": "demeter-skills",
+  "version": "1.0.0",
+  "summary": "Central skill registry for demeter project. Use to discover available skills, understand skill conventions, and find the right skill for a task.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "emilyantosch",
+    "github": "emilyantosch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/emilyantosch/demeter",
+    "skill_md": "https://raw.githubusercontent.com/emilyantosch/demeter/main/.claude/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:10.518Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/emilyantosch%2Fdemeter/.claude%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_fcc94270b247"
+  }
+}

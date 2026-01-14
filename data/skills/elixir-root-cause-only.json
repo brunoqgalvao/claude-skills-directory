@@ -1,0 +1,35 @@
+{
+  "id": "elixir-root-cause-only",
+  "name": "elixir-root-cause-only",
+  "version": "1.0.0",
+  "summary": "MANDATORY systematic debugging - trace to root cause before proposing fixes. NO random changes, NO symptom fixes, NO \"try this\". Use when debugging ANY error or issue.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mkreyman",
+    "github": "mkreyman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mkreyman/bmad-elixir",
+    "skill_md": "https://raw.githubusercontent.com/mkreyman/bmad-elixir/main/priv/skills/elixir-root-cause-only/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:37.566Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mkreyman%2Fbmad-elixir/priv%2Fskills%2Felixir-root-cause-only%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_4b0aec64193f"
+  }
+}

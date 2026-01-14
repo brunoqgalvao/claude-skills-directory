@@ -1,0 +1,35 @@
+{
+  "id": "ranking",
+  "name": "ranking",
+  "version": "1.0.0",
+  "summary": "Ranks and scores retrieved documents based on similarity metrics from vector search. Use when sorting documents by relevance, prioritizing results, or when the user mentions ran...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "edangx100",
+    "github": "edangx100"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/edangx100/adaptive_rag",
+    "skill_md": "https://raw.githubusercontent.com/edangx100/adaptive_rag/main/.claude/skills/ranking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T04:19:33.000Z",
+  "created_at": "2025-12-19T20:32:58.852Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/edangx100%2Fadaptive_rag/.claude%2Fskills%2Franking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_1fa0017170da"
+  }
+}

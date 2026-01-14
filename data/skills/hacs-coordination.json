@@ -1,0 +1,35 @@
+{
+  "id": "hacs-coordination",
+  "name": "hacs-coordination",
+  "version": "1.0.0",
+  "summary": "Connect to HACS (Human-Adjacent Coordination System) for distributed multi-agent AI coordination. Use when coordinating with other Claude instances, managing shared projects and...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LupoGrigi0",
+    "github": "LupoGrigi0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LupoGrigi0/Human-Adjacent-Coordination",
+    "skill_md": "https://raw.githubusercontent.com/LupoGrigi0/Human-Adjacent-Coordination/main/src/HACS/hacs-coordination/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.699Z",
+  "created_at": "2025-12-22T22:00:12.927Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LupoGrigi0%2FHuman-Adjacent-Coordination/src%2FHACS%2Fhacs-coordination%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.699Z",
+    "uniqueId": "sk_a874d7fd1261"
+  }
+}

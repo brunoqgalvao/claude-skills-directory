@@ -1,0 +1,36 @@
+{
+  "id": "axe",
+  "name": "axe",
+  "version": "1.0.0",
+  "summary": "Control iOS Simulators via accessibility APIs. Use this skill when the user wants to automate iOS simulator interactions, tap buttons by accessibility label, type text, swipe, t...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aliceisjustplaying",
+    "github": "aliceisjustplaying"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aliceisjustplaying/claude-resources-monorepo",
+    "skill_md": "https://raw.githubusercontent.com/aliceisjustplaying/claude-resources-monorepo/main/skills/axe/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.551Z",
+  "created_at": "2025-12-23T01:28:48.313Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aliceisjustplaying%2Fclaude-resources-monorepo/skills%2Faxe%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_269eab461b07"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "deployment-agent",
+  "name": "deployment-agent",
+  "version": "1.0.0",
+  "summary": "DeploymentAgent スキル - CI/CDデプロイ自動化・Firebase自動デプロイ・ヘルスチェック・自動Rollback。\nビルド・テスト・デプロイを完全自動化し、Staging/Production環境へのFirebaseデプロイを実行。\n\nUse when:\n- アプリケーションをデプロイする時\n- Firebase Hosting...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ShunsukeHayashi",
+    "github": "ShunsukeHayashi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ShunsukeHayashi/omakase-ai",
+    "skill_md": "https://raw.githubusercontent.com/ShunsukeHayashi/omakase-ai/main/.claude/skills/deployment-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.824Z",
+  "created_at": "2025-12-22T17:03:56.829Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ShunsukeHayashi%2Fomakase-ai/.claude%2Fskills%2Fdeployment-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.824Z",
+    "uniqueId": "sk_9ea46bd59fa0"
+  }
+}

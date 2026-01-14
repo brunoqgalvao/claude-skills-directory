@@ -1,0 +1,35 @@
+{
+  "id": "codebase-conventions",
+  "name": "codebase-conventions",
+  "version": "1.0.0",
+  "summary": "Load when starting work in 10x-Mapmaster or when unsure about project standards. Covers file organization, naming conventions, type constraints, SQL style, and project-specific ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "discountedcookie",
+    "github": "discountedcookie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/discountedcookie/10x-mapmaster",
+    "skill_md": "https://raw.githubusercontent.com/discountedcookie/10x-mapmaster/main/.opencode/skills/codebase-conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.528Z",
+  "created_at": "2025-12-23T01:29:02.652Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/discountedcookie%2F10x-mapmaster/.opencode%2Fskills%2Fcodebase-conventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_2b24ed06b84a"
+  }
+}

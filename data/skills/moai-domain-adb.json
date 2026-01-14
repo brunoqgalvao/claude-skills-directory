@@ -1,0 +1,37 @@
+{
+  "id": "moai-domain-adb",
+  "name": "moai-domain-adb",
+  "version": "1.0.0",
+  "summary": "Comprehensive ADB (Android Debug Bridge) automation skill for game bot development,\ndevice management, computer vision integration, and Tauri-Python orchestration.\nProvides modu...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rdmptv",
+    "github": "rdmptv"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rdmptv/AdbAutoPlayer",
+    "skill_md": "https://raw.githubusercontent.com/rdmptv/AdbAutoPlayer/main/.claude/skills/moai-domain-adb/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.613Z",
+  "created_at": "2025-12-22T23:20:52.276Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rdmptv%2FAdbAutoPlayer/.claude%2Fskills%2Fmoai-domain-adb%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.613Z",
+    "uniqueId": "sk_70f6eeb98caf"
+  }
+}

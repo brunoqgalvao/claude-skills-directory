@@ -1,0 +1,36 @@
+{
+  "id": "pricing-tracker",
+  "name": "pricing-tracker",
+  "version": "1.0.0",
+  "summary": "Tracks current pricing and availability across multiple retailers with price comparison. Use when user asks about 'price', 'how much', 'where to buy', 'pricing comparison', 'bes...",
+  "verticals": [
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lola69160",
+    "github": "lola69160"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lola69160/claude-product-comparison",
+    "skill_md": "https://raw.githubusercontent.com/lola69160/claude-product-comparison/main/skills/pricing-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.833Z",
+  "created_at": "2025-12-22T16:53:38.305Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lola69160%2Fclaude-product-comparison/skills%2Fpricing-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_8202f37f1e81"
+  }
+}

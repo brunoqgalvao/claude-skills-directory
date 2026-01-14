@@ -1,0 +1,37 @@
+{
+  "id": "optimizing-code",
+  "name": "optimizing-code",
+  "version": "1.0.0",
+  "summary": "Improve code performance without changing behavior. Use when code fails latency/throughput requirements. Covers profiling, caching, and algorithmic optimization.",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dralgorhythm",
+    "github": "dralgorhythm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dralgorhythm/claude-agentic-framework",
+    "skill_md": "https://raw.githubusercontent.com/dralgorhythm/claude-agentic-framework/main/.claude/skills/core-engineering/optimizing-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T02:25:52.000Z",
+  "created_at": "2025-12-23T01:28:40.103Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dralgorhythm%2Fclaude-agentic-framework/.claude%2Fskills%2Fcore-engineering%2Foptimizing-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_25ac570d27c9"
+  }
+}

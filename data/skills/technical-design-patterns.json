@@ -1,0 +1,37 @@
+{
+  "id": "technical-design-patterns",
+  "name": "technical-design-patterns",
+  "version": "1.0.0",
+  "summary": "Create technical design documents for ABP Framework features including API contracts, database schemas, and architecture decisions. Use when: (1) designing REST APIs, (2) planni...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/technical-design-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T21:06:30.000Z",
+  "created_at": "2025-12-23T01:29:20.638Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Ftechnical-design-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_faf36ff66b5b"
+  }
+}

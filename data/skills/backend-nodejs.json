@@ -1,0 +1,35 @@
+{
+  "id": "backend-nodejs",
+  "name": "backend-nodejs",
+  "version": "1.0.0",
+  "summary": "Node.js/TypeScript backend expert. Handles Express/Fastify API routes, TypeScript strict mode, Prisma ORM, Zod validation, error handling, configuration management. Use when pro...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nera0875",
+    "github": "nera0875"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nera0875/blv_htmx",
+    "skill_md": "https://raw.githubusercontent.com/nera0875/blv_htmx/main/.claude/skills/backend-nodejs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:01.169Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nera0875%2Fblv_htmx/.claude%2Fskills%2Fbackend-nodejs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_e9796d8b67a1"
+  }
+}

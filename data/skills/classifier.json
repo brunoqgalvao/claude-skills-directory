@@ -1,0 +1,37 @@
+{
+  "id": "classifier",
+  "name": "classifier",
+  "version": "1.0.0",
+  "summary": "Classify code, documents, and data into categories. Use for code categorization, content classification, and data organization.",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oimiragieo",
+    "github": "oimiragieo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oimiragieo/agent-studio",
+    "skill_md": "https://raw.githubusercontent.com/oimiragieo/agent-studio/main/.claude/skills/classifier/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:15.560Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oimiragieo%2Fagent-studio/.claude%2Fskills%2Fclassifier%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_9f2ec44ea8fc"
+  }
+}

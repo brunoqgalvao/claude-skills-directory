@@ -1,0 +1,36 @@
+{
+  "id": "odoo-connector-module-creator",
+  "name": "odoo-connector-module-creator",
+  "version": "1.0.0",
+  "summary": "Creates and enhances Odoo 16.0 connector modules that integrate with external systems (e-commerce, logistics, accounting, CRM) using the `generic_connector` framework",
+  "verticals": [
+    "finance",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jamshu",
+    "github": "jamshu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jamshu/jamshi-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/jamshu/jamshi-marketplace/main/plugins/odoo-dev/skills/odoo-connector-module-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.589Z",
+  "created_at": "2025-12-23T00:25:42.750Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jamshu%2Fjamshi-marketplace/plugins%2Fodoo-dev%2Fskills%2Fodoo-connector-module-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.589Z",
+    "uniqueId": "sk_de208d80c501"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "eslint",
+  "name": "eslint",
+  "version": "1.0.0",
+  "summary": "Comprehensive ESLint agent for JavaScript/TypeScript code quality. Use when setting up ESLint, configuring linting rules, analyzing code for issues, fixing violations, or integr...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "el-feo",
+    "github": "el-feo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/el-feo/ai-context",
+    "skill_md": "https://raw.githubusercontent.com/el-feo/ai-context/main/skills/eslint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:13.313Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/el-feo%2Fai-context/skills%2Feslint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_a992b2699284"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "scc-add-page",
+  "name": "scc-add-page",
+  "version": "1.0.0",
+  "summary": "Add new pages to SCC Admin project (Next.js 14 App Router). Use when implementing new admin pages for accessibility management, quest management, challenge management, or other ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Stair-Crusher-Club",
+    "github": "Stair-Crusher-Club"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Stair-Crusher-Club/scc-admin",
+    "skill_md": "https://raw.githubusercontent.com/Stair-Crusher-Club/scc-admin/main/.claude/skills/scc-add-page/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:25.929Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Stair-Crusher-Club%2Fscc-admin/.claude%2Fskills%2Fscc-add-page%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_50ec8f01a10c"
+  }
+}

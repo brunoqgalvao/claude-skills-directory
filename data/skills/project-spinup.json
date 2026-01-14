@@ -1,0 +1,36 @@
+{
+  "id": "project-spinup",
+  "name": "project-spinup",
+  "version": "1.0.0",
+  "summary": "Generate complete project foundations with personalized claude.md, Docker setup, and project structure. Supports Guided Setup or Quick Start.",
+  "verticals": [
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JHaugaard",
+    "github": "JHaugaard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JHaugaard/refine-workflow-skills",
+    "skill_md": "https://raw.githubusercontent.com/JHaugaard/refine-workflow-skills/main/skills-working-copies/project-spinup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:43.646Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JHaugaard%2Frefine-workflow-skills/skills-working-copies%2Fproject-spinup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_21596258bd30"
+  }
+}

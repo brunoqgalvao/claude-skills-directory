@@ -1,0 +1,35 @@
+{
+  "id": "guideline-library-usage",
+  "name": "guideline-library-usage",
+  "version": "1.0.0",
+  "summary": "ライブラリ選定、既存ライブラリの活用、自前実装を避けるべき場面のガイド。機能実装、ユーティリティ作成、新機能追加の際に自動参照し、適切なライブラリ使用を促す。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "negi524",
+    "github": "negi524"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/negi524/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/negi524/dotfiles/main/.claude/skills/guideline-library-usage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:50.945Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/negi524%2Fdotfiles/.claude%2Fskills%2Fguideline-library-usage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_ed879325ed99"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "python-repl",
+  "name": "python-repl",
+  "version": "1.0.0",
+  "summary": "Interactive Python REPL automation with common helpers and best practices",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gptme",
+    "github": "gptme"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gptme/gptme",
+    "skill_md": "https://raw.githubusercontent.com/gptme/gptme/main/gptme/lessons/skills/python-repl/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T09:53:33.000Z",
+  "created_at": "2025-12-23T01:28:29.654Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gptme%2Fgptme/gptme%2Flessons%2Fskills%2Fpython-repl%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_851b11160225"
+  }
+}

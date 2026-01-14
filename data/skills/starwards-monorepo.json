@@ -1,0 +1,37 @@
+{
+  "id": "starwards-monorepo",
+  "name": "starwards-monorepo",
+  "version": "1.0.0",
+  "summary": "npm workspace monorepo workflow for Starwards - build order, module dependencies, watch mode, testing across modules, and avoiding common monorepo pitfalls; core builds first al...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "starwards",
+    "github": "starwards"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/starwards/starwards",
+    "skill_md": "https://raw.githubusercontent.com/starwards/starwards/main/.claude/skills/starwards-monorepo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.747Z",
+  "created_at": "2025-12-22T21:04:06.842Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/starwards%2Fstarwards/.claude%2Fskills%2Fstarwards-monorepo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.747Z",
+    "uniqueId": "sk_7c0ff63fed60"
+  }
+}

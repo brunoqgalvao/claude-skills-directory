@@ -1,0 +1,35 @@
+{
+  "id": "code-migrator",
+  "name": "code-migrator",
+  "version": "1.0.0",
+  "summary": "破壊的変更に対応したコード修正を行う。import文の変更、API呼び出しの修正、設定ファイルの更新を実行",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "snhrm",
+    "github": "snhrm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/snhrm/claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/snhrm/claude-plugin/main/plugin/skills/code-migrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T08:51:44.000Z",
+  "created_at": "2025-12-23T01:29:00.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/snhrm%2Fclaude-plugin/plugin%2Fskills%2Fcode-migrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.531Z",
+    "uniqueId": "sk_5b1a32acdcfb"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "exercise-builder",
+  "name": "exercise-builder",
+  "version": "1.0.0",
+  "summary": "Creates hands-on student exercises and practice activities for learning prompt engineering. Use when the user asks to create student activities, practice exercises, or hands-on ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SquizAI",
+    "github": "SquizAI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SquizAI/AI_bootcamp",
+    "skill_md": "https://raw.githubusercontent.com/SquizAI/AI_bootcamp/main/.claude/skills/exercise-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:26.690Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SquizAI%2FAI_bootcamp/.claude%2Fskills%2Fexercise-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_ea7c854c09ce"
+  }
+}

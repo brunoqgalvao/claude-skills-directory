@@ -1,0 +1,35 @@
+{
+  "id": "figma",
+  "name": "figma",
+  "version": "1.0.0",
+  "summary": "Figma 디자인 파일에서 정보를 가져옵니다. 파일 구조, 노드 정보, 스타일 정보를 조회할 때 사용합니다.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aydenden",
+    "github": "aydenden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aydenden/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/aydenden/dotfiles/main/.claude/skills/figma/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.851Z",
+  "created_at": "2025-12-22T15:56:26.693Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aydenden%2Fdotfiles/.claude%2Fskills%2Ffigma%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_f904724b3641"
+  }
+}

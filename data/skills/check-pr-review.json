@@ -1,0 +1,35 @@
+{
+  "id": "check-pr-review",
+  "name": "check-pr-review",
+  "version": "1.0.0",
+  "summary": "Use gh-check-pr-review to fetch and address PR review comments. Use this skill when checking PR review feedback, viewing unresolved threads, or addressing reviewer comments.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fohte",
+    "github": "fohte"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fohte/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/fohte/dotfiles/main/config/claude/skills/check-pr-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:45.630Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fohte%2Fdotfiles/config%2Fclaude%2Fskills%2Fcheck-pr-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_70c1e3fab0df"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "axum-0-8-expert",
+  "name": "axum-0-8-expert",
+  "version": "1.0.0",
+  "summary": "Expert guidance for Axum 0.8.x web framework development in Rust. Use when working with Axum 0.8+, migrating from 0.7 to 0.8, or when users mention path parameter syntax issues,...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "akamaotto",
+    "github": "akamaotto"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/akamaotto/poblysh-connectors",
+    "skill_md": "https://raw.githubusercontent.com/akamaotto/poblysh-connectors/main/.claude/skills/axum-0-8/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.345Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/akamaotto%2Fpoblysh-connectors/.claude%2Fskills%2Faxum-0-8%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_5856ca761bda"
+  }
+}

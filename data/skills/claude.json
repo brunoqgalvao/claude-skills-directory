@@ -1,38 +1,35 @@
 {
   "id": "claude",
-  "name": "Claude",
+  "name": "claude",
   "version": "1.0.0",
-  "summary": "# OMNISIGHT Development Skill",
+  "summary": "Delegate prompts to Claude Code CLI",
   "verticals": [
-    "Engineering",
-    "Design"
+    "engineering"
   ],
-  "tags": [
-    "claude",
-    "workflow"
-  ],
+  "tags": [],
   "author": {
-    "name": "oneshot2001",
-    "github": "oneshot2001",
-    "avatar": "https://avatars.githubusercontent.com/u/24663843?v=4"
+    "name": "sbluemin",
+    "github": "sbluemin"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/oneshot2001/OmniSight-dev/tree/main/.claude/omnisight-skill.md",
-    "skill_md": "https://raw.githubusercontent.com/oneshot2001/OmniSight-dev/main/.claude/omnisight-skill.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install claude"
+    "repo": "https://github.com/sbluemin/llm-interaction-patterns",
+    "skill_md": "https://raw.githubusercontent.com/sbluemin/llm-interaction-patterns/main/.claude/skills/claude/SKILL.md"
   },
   "stats": {
-    "stars": 1,
+    "stars": 0,
     "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-11-05",
-  "created_at": "2025-10-20"
+  "last_updated": "2025-12-15T13:38:52.000Z",
+  "created_at": "2025-12-22T14:19:07.181Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sbluemin%2Fllm-interaction-patterns/.claude%2Fskills%2Fclaude%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_1b94308751cd"
+  }
 }

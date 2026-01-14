@@ -1,0 +1,37 @@
+{
+  "id": "automating-api-testing",
+  "name": "automating-api-testing",
+  "version": "1.0.0",
+  "summary": "This skill automates API endpoint testing, including request generation, validation, and comprehensive test coverage for REST and GraphQL APIs. It is used when the user requests...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skill-structure-cleanup-20251108-073936/plugins/testing/api-test-automation/skills/api-test-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:02:05.918Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskill-structure-cleanup-20251108-073936%2Fplugins%2Ftesting%2Fapi-test-automation%2Fskills%2Fapi-test-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_a34d13b167a5"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "github-elements-tracking",
+  "name": "github-elements-tracking",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"track work across sessions\", \"create an epic\", \"manage issue waves\", \"post a checkpoint\", \"claim an issue\", \"recover from compac...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Emasoft",
+    "github": "Emasoft"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Emasoft/ghe-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Emasoft/ghe-marketplace/main/plugins/ghe/skills/github-elements-tracking/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:58.408Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Emasoft%2Fghe-marketplace/plugins%2Fghe%2Fskills%2Fgithub-elements-tracking%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_69277fdbb4e2"
+  }
+}

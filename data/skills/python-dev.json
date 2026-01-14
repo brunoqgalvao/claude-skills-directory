@@ -1,0 +1,36 @@
+{
+  "id": "python-dev",
+  "name": "python-dev",
+  "version": "1.0.0",
+  "summary": "Python development. Use when writing Python code, CLI tools, scripts, or services. Emphasizes stdlib, type hints, pytest toolchain, and minimal dependencies.",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AMecea",
+    "github": "AMecea"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AMecea/ai-workshop",
+    "skill_md": "https://raw.githubusercontent.com/AMecea/ai-workshop/main/.claude/skills/python-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T10:47:38.000Z",
+  "created_at": "2025-12-22T14:20:44.914Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AMecea%2Fai-workshop/.claude%2Fskills%2Fpython-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_8ee8d32009e9"
+  }
+}

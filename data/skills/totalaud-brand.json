@@ -1,0 +1,36 @@
+{
+  "id": "totalaud-brand",
+  "name": "totalaud-brand",
+  "version": "1.0.0",
+  "summary": "Use when building UI for totalaud.io - enforces brand colours, typography, and calm aesthetic",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "totalaudiopromo",
+    "github": "totalaudiopromo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/totalaudiopromo/totalaud.io",
+    "skill_md": "https://raw.githubusercontent.com/totalaudiopromo/totalaud.io/main/.claude/skills/totalaud-brand/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.846Z",
+  "created_at": "2025-12-22T16:02:11.992Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/totalaudiopromo%2Ftotalaud.io/.claude%2Fskills%2Ftotalaud-brand%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.846Z",
+    "uniqueId": "sk_e8de6cf89fca"
+  }
+}

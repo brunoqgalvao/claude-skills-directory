@@ -1,0 +1,36 @@
+{
+  "id": "cli-interactive-testing",
+  "name": "cli-interactive-testing",
+  "version": "1.0.0",
+  "summary": "Test and validate DyGram machines using CLI interactive mode. Step through execution, provide intelligent responses, debug behavior, and create test recordings.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "christopherdebeer",
+    "github": "christopherdebeer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/christopherdebeer/machine",
+    "skill_md": "https://raw.githubusercontent.com/christopherdebeer/machine/main/.claude/skills/cli-interactive-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.646Z",
+  "created_at": "2025-12-22T23:04:14.515Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/christopherdebeer%2Fmachine/.claude%2Fskills%2Fcli-interactive-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.646Z",
+    "uniqueId": "sk_dd44dbe14d14"
+  }
+}

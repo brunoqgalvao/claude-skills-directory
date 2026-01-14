@@ -1,0 +1,36 @@
+{
+  "id": "dev-server",
+  "name": "dev-server",
+  "version": "1.0.0",
+  "summary": "Manage the development server lifecycle. Use when starting, stopping, restarting the dev server, checking server status, viewing server logs, or before testing changes that requ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sydevs",
+    "github": "sydevs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sydevs/SahajCloud",
+    "skill_md": "https://raw.githubusercontent.com/sydevs/SahajCloud/main/.claude/skills/dev-server/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T21:21:15.000Z",
+  "created_at": "2025-12-22T15:51:33.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sydevs%2FSahajCloud/.claude%2Fskills%2Fdev-server%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_7d5da68fed6e"
+  }
+}

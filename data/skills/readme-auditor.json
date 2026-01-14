@@ -1,0 +1,35 @@
+{
+  "id": "readme-auditor",
+  "name": "readme-auditor",
+  "version": "1.0.0",
+  "summary": "WordPress theme and plugin README auditor that verifies accuracy, removes exaggerated claims, and ensures maintainability. Use when reviewing or updating README files for WordPr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattcowan",
+    "github": "mattcowan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattcowan/claude-wordpress-utilities",
+    "skill_md": "https://raw.githubusercontent.com/mattcowan/claude-wordpress-utilities/main/skills/readme-auditor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:11:47.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattcowan%2Fclaude-wordpress-utilities/skills%2Freadme-auditor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_2f012180d746"
+  }
+}

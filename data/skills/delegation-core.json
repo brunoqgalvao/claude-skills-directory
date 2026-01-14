@@ -1,0 +1,35 @@
+{
+  "id": "delegation-core",
+  "name": "delegation-core",
+  "version": "1.0.0",
+  "summary": "Framework for delegating tasks to external LLM services. Uses leyline infrastructure for quota, logging, and error handling.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/conjure/skills/delegation-core/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T17:38:26.000Z",
+  "created_at": "2025-12-22T17:09:00.849Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fconjure%2Fskills%2Fdelegation-core%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_34b3982dd98a"
+  }
+}

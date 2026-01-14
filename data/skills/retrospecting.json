@@ -1,0 +1,36 @@
+{
+  "id": "retrospecting",
+  "name": "retrospecting",
+  "version": "1.0.0",
+  "summary": "Performs comprehensive analysis of Claude Code sessions, examining git history, conversation logs, code changes, and gathering user feedback to generate actionable retrospective...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bitwarden",
+    "github": "bitwarden"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bitwarden/ai-plugins",
+    "skill_md": "https://raw.githubusercontent.com/bitwarden/ai-plugins/main/plugins/claude-retrospective/skills/retrospecting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:26.497Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bitwarden%2Fai-plugins/plugins%2Fclaude-retrospective%2Fskills%2Fretrospecting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_ec36b194965b"
+  }
+}

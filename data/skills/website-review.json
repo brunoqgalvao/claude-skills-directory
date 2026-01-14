@@ -1,0 +1,37 @@
+{
+  "id": "website-review",
+  "name": "website-review",
+  "version": "1.0.0",
+  "summary": "Use this skill when performing QA reviews of the Planted website (Astro frontend at localhost:4321), Admin Dashboard V2 (localhost:5175), or production sites (planted.com, admin...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cgjen-box",
+    "github": "cgjen-box"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cgjen-box/planted-website",
+    "skill_md": "https://raw.githubusercontent.com/cgjen-box/planted-website/main/.claude/skills/website-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T11:08:51.000Z",
+  "created_at": "2025-12-23T01:29:19.890Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cgjen-box%2Fplanted-website/.claude%2Fskills%2Fwebsite-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_1a79c7c0cad3"
+  }
+}

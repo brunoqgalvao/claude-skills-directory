@@ -1,0 +1,35 @@
+{
+  "id": "llm-pipeline",
+  "name": "llm-pipeline",
+  "version": "1.0.0",
+  "summary": "Pydantic-AI agents, RAG, embeddings for Pulse Radar knowledge extraction.",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djimontyp",
+    "github": "djimontyp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djimontyp/task-tracker",
+    "skill_md": "https://raw.githubusercontent.com/djimontyp/task-tracker/main/.claude/skills/llm-pipeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.571Z",
+  "created_at": "2025-12-23T01:28:30.910Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djimontyp%2Ftask-tracker/.claude%2Fskills%2Fllm-pipeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.571Z",
+    "uniqueId": "sk_a421c843a458"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "stripe-terminal-issuing",
+  "name": "stripe-terminal-issuing",
+  "version": "1.0.0",
+  "summary": "Use when implementing in-person payments with Terminal or issuing cards with Stripe Issuing. Invoke for POS terminal setup, card reader integration, in-person payment processing...",
+  "verticals": [
+    "finance",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zacharyr0th",
+    "github": "zacharyr0th"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zacharyr0th/next-starter",
+    "skill_md": "https://raw.githubusercontent.com/zacharyr0th/next-starter/main/.claude/skills/stripe/stripe-terminal-issuing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.631Z",
+  "created_at": "2025-12-22T23:13:06.664Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zacharyr0th%2Fnext-starter/.claude%2Fskills%2Fstripe%2Fstripe-terminal-issuing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.631Z",
+    "uniqueId": "sk_fce93603a5c6"
+  }
+}

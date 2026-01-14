@@ -1,0 +1,35 @@
+{
+  "id": "qa-discussion",
+  "name": "qa-discussion",
+  "version": "1.0.0",
+  "summary": "Conducts structured Q&A discussions with users, handling multiple choice, single choice, and open-ended questions one at a time - tracks progress, validates answers, and provide...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zenobi-us",
+    "github": "zenobi-us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zenobi-us/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/zenobi-us/dotfiles/main/devtools/files/opencode/skills/superpowers/qa-discussion/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:51:08.486Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zenobi-us%2Fdotfiles/devtools%2Ffiles%2Fopencode%2Fskills%2Fsuperpowers%2Fqa-discussion%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_66d311aa8d7d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "review-security",
+  "name": "review-security",
+  "version": "1.0.0",
+  "summary": "보안 관점에서 코드를 검토합니다. OWASP Top 10, credential 노출, injection 공격 등을 체크합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ssiumha",
+    "github": "ssiumha"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ssiumha/dots",
+    "skill_md": "https://raw.githubusercontent.com/ssiumha/dots/main/prompts/skills/review-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:16:47.075Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ssiumha%2Fdots/prompts%2Fskills%2Freview-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_49a3c8c8d355"
+  }
+}

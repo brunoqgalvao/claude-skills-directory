@@ -1,0 +1,36 @@
+{
+  "id": "qodana-inspect",
+  "name": "qodana-inspect",
+  "version": "1.0.0",
+  "summary": "Run Qodana code inspection and get parsed results. Use when you need to analyze code quality, find unused code, detect potential bugs, or check for JetBrains IDE inspections. Su...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Max-Moro",
+    "github": "Max-Moro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Max-Moro/lg-cli",
+    "skill_md": "https://raw.githubusercontent.com/Max-Moro/lg-cli/main/.claude/skills/qodana-inspect/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:23.652Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Max-Moro%2Flg-cli/.claude%2Fskills%2Fqodana-inspect%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_be0b8d1c6d9c"
+  }
+}

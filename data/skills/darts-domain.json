@@ -1,0 +1,35 @@
+{
+  "id": "darts-domain",
+  "name": "darts-domain",
+  "version": "1.0.0",
+  "summary": "Provides comprehensive darts scoring rules and board structure knowledge. Use when implementing or testing darts scoring logic, validation, simulation, or any feature related to...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shiroinock",
+    "github": "shiroinock"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shiroinock/Darts-Score-Trainer",
+    "skill_md": "https://raw.githubusercontent.com/shiroinock/Darts-Score-Trainer/main/.claude/skills/darts-domain/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:56:53.271Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shiroinock%2FDarts-Score-Trainer/.claude%2Fskills%2Fdarts-domain%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_16640b59a201"
+  }
+}

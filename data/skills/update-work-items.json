@@ -1,0 +1,35 @@
+{
+  "id": "update-work-items",
+  "name": "update-work-items",
+  "version": "1.0.0",
+  "summary": "Modify work item fields, add comments, and create new items. Use when user wants to update, comment on, or create work items.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusshepp",
+    "github": "marcusshepp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusshepp/useful",
+    "skill_md": "https://raw.githubusercontent.com/marcusshepp/useful/main/network/.github/skills/update-work-items/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.563Z",
+  "created_at": "2025-12-23T01:28:39.244Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusshepp%2Fuseful/network%2F.github%2Fskills%2Fupdate-work-items%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_9eb7c7b50b42"
+  }
+}

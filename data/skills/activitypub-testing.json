@@ -1,0 +1,35 @@
+{
+  "id": "activitypub-testing",
+  "name": "activitypub-testing",
+  "version": "1.0.0",
+  "summary": "Testing patterns for PHPUnit and Playwright E2E tests. Use when writing tests, debugging test failures, setting up test coverage, or implementing test patterns for ActivityPub f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Automattic",
+    "github": "Automattic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Automattic/wordpress-activitypub",
+    "skill_md": "https://raw.githubusercontent.com/Automattic/wordpress-activitypub/main/.claude/skills/activitypub-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T19:05:03.000Z",
+  "created_at": "2025-12-23T01:28:40.705Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Automattic%2Fwordpress-activitypub/.claude%2Fskills%2Factivitypub-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.454Z",
+    "uniqueId": "sk_db7332f17264"
+  }
+}

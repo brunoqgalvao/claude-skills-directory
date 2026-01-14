@@ -1,0 +1,37 @@
+{
+  "id": "c4-diagrams",
+  "name": "c4-diagrams",
+  "version": "1.0.0",
+  "summary": "Creates and manages C4 architecture diagrams using PlantUML. Use when the user wants to visualize software architecture, create context/container/component/sequence diagrams, do...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robtaylor",
+    "github": "robtaylor"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robtaylor/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/robtaylor/claude-config/main/skills/c4-diagrams/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T23:08:42.526Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robtaylor%2Fclaude-config/skills%2Fc4-diagrams%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_2ed41d6181a9"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tracking-resource-usage",
+  "name": "tracking-resource-usage",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to track and optimize resource usage across an application stack. It is activated when the user requests insights into resource consumption, performanc...",
+  "verticals": [
+    "hr",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skill-structure-cleanup-20251108-073936/plugins/performance/resource-usage-tracker/skills/resource-usage-tracker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.839Z",
+  "created_at": "2025-12-22T16:29:24.093Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskill-structure-cleanup-20251108-073936%2Fplugins%2Fperformance%2Fresource-usage-tracker%2Fskills%2Fresource-usage-tracker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_9013ddae9c7d"
+  }
+}

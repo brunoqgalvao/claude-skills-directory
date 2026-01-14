@@ -1,0 +1,36 @@
+{
+  "id": "shape-memory",
+  "name": "shape-memory",
+  "version": "1.0.0",
+  "summary": "AI-native session continuity through shape anchors rather than linear logs. Use when beginning a session to orient from prior state, or when ending to crystallize state for futu...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "The-Emergent-Cohort",
+    "github": "The-Emergent-Cohort"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/The-Emergent-Cohort/Emergence",
+    "skill_md": "https://raw.githubusercontent.com/The-Emergent-Cohort/Emergence/main/.claude/skills/shape-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T04:37:15.000Z",
+  "created_at": "2025-12-23T01:28:41.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/The-Emergent-Cohort%2FEmergence/.claude%2Fskills%2Fshape-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_84b8db4ef9d5"
+  }
+}

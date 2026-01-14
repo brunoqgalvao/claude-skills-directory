@@ -1,0 +1,35 @@
+{
+  "id": "testing-practices",
+  "name": "testing-practices",
+  "version": "1.0.0",
+  "summary": "Testing best practices for modern Python development. Activated when working with tests, pytest, Hypothesis property-based testing, Atheris fuzz testing, test coverage, test org...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tbhb",
+    "github": "tbhb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tbhb/rig",
+    "skill_md": "https://raw.githubusercontent.com/tbhb/rig/main/.claude/skills/testing-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T18:36:35.000Z",
+  "created_at": "2025-12-23T01:29:00.921Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tbhb%2Frig/.claude%2Fskills%2Ftesting-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_c4c400b673ca"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "prompt-improvement",
+  "name": "prompt-improvement",
+  "version": "1.0.0",
+  "summary": "Meta-skill for improving and optimizing prompts using Anthropic's prompt engineering best practices. Provides the 4-step improvement workflow (example identification, initial dr...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/claude-ecosystem/skills/prompt-improvement/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:06:52.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fclaude-ecosystem%2Fskills%2Fprompt-improvement%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_5e8125c4679e"
+  }
+}

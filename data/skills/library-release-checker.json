@@ -1,0 +1,35 @@
+{
+  "id": "library-release-checker",
+  "name": "library-release-checker",
+  "version": "1.0.0",
+  "summary": "GitHubや公式ドキュメントからライブラリのリリース情報を取得し、破壊的変更・非推奨化・ビルトイン化を特定する",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "snhrm",
+    "github": "snhrm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/snhrm/claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/snhrm/claude-plugin/main/plugin/skills/library-release-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T07:45:00.000Z",
+  "created_at": "2025-12-22T15:51:22.710Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/snhrm%2Fclaude-plugin/plugin%2Fskills%2Flibrary-release-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_cc5f01e0f506"
+  }
+}

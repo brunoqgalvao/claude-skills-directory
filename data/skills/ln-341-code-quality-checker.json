@@ -1,0 +1,37 @@
+{
+  "id": "ln-341-code-quality-checker",
+  "name": "ln-341-code-quality-checker",
+  "version": "1.0.0",
+  "summary": "Worker that checks DRY/KISS/YAGNI/architecture/guide compliance for Done implementation tasks. Reports issues; does not change statuses or create tasks.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-341-code-quality-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T20:42:12.000Z",
+  "created_at": "2025-12-23T01:28:36.649Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-341-code-quality-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_3fa4758b43d1"
+  }
+}

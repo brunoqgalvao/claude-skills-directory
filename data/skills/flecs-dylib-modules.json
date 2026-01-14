@@ -1,0 +1,35 @@
+{
+  "id": "flecs-dylib-modules",
+  "name": "flecs-dylib-modules",
+  "version": "1.0.0",
+  "summary": "Hot-reloadable Flecs modules as Rust dylibs. Covers module architecture, component vs system modules, and inter-module dependencies.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andrewgazelka",
+    "github": "andrewgazelka"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andrewgazelka/rgb",
+    "skill_md": "https://raw.githubusercontent.com/andrewgazelka/rgb/main/.claude/skills/flecs-dylib-modules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:52.253Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andrewgazelka%2Frgb/.claude%2Fskills%2Fflecs-dylib-modules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_789ba613c0f6"
+  }
+}

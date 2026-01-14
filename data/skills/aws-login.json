@@ -1,0 +1,35 @@
+{
+  "id": "aws-login",
+  "name": "aws-login",
+  "version": "1.0.0",
+  "summary": "Authenticate to AWS using SSO. Use when user selects AWS from cloud provider selection, or says \"login to AWS\", \"AWS SSO\", \"authenticate to AWS\".",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "brianclaridge",
+    "github": "brianclaridge"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/brianclaridge/.claude",
+    "skill_md": "https://raw.githubusercontent.com/brianclaridge/.claude/main/skills/aws-login/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:11:40.406Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/brianclaridge%2F.claude/skills%2Faws-login%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_3e092d2c9d0f"
+  }
+}

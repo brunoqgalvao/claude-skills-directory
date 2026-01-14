@@ -1,0 +1,35 @@
+{
+  "id": "budget-timeline",
+  "name": "budget-timeline",
+  "version": "1.0.0",
+  "summary": "Generate detailed research budgets and project timelines for grants, proposals,\nevaluations, and consulting. Provides NIH/NSF-compliant budgets, multi-tier scenarios,\nand Gantt-...",
+  "verticals": [
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sysylvia",
+    "github": "sysylvia"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sysylvia/ssylvia-website",
+    "skill_md": "https://raw.githubusercontent.com/sysylvia/ssylvia-website/main/.claude/skills/budget-timeline/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.623Z",
+  "created_at": "2025-12-22T23:18:47.557Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sysylvia%2Fssylvia-website/.claude%2Fskills%2Fbudget-timeline%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.623Z",
+    "uniqueId": "sk_333d560c6e7f"
+  }
+}

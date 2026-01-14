@@ -1,0 +1,35 @@
+{
+  "id": "odoo-migration-assistant",
+  "name": "odoo-migration-assistant",
+  "version": "1.0.0",
+  "summary": "Helps migrate Odoo modules and customizations between versions, specifically focusing on upgrades to/from Odoo 16.0. This skill should be used when the user requests migration h...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jamshu",
+    "github": "jamshu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jamshu/jamshi-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/jamshu/jamshi-marketplace/main/plugins/odoo-dev/skills/odoo-migration-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:58:21.593Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jamshu%2Fjamshi-marketplace/plugins%2Fodoo-dev%2Fskills%2Fodoo-migration-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_e7f5c20c2e73"
+  }
+}

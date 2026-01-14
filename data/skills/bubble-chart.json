@@ -1,0 +1,36 @@
+{
+  "id": "bubble-chart",
+  "name": "bubble-chart",
+  "version": "1.0.0",
+  "summary": "Configure bubble charts in drizzle-cube dashboards for three-variable analysis with size and color dimensions. Use when creating bubble charts, multi-variable visualizations, or...",
+  "verticals": [
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cliftonc",
+    "github": "cliftonc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cliftonc/drizzle-cube-skills",
+    "skill_md": "https://raw.githubusercontent.com/cliftonc/drizzle-cube-skills/main/charts/bubble-chart/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:44.285Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cliftonc%2Fdrizzle-cube-skills/charts%2Fbubble-chart%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_7b1fae68a91e"
+  }
+}

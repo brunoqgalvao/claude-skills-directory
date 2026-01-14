@@ -1,0 +1,35 @@
+{
+  "id": "using-context-api",
+  "name": "using-context-api",
+  "version": "1.0.0",
+  "summary": "Teaches Context API patterns in React 19 including use() hook for conditional context access. Use when implementing Context, avoiding prop drilling, or managing global state.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/react-19/skills/using-context-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-23T23:15:51.000Z",
+  "created_at": "2025-12-23T01:28:33.967Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/react-19%2Fskills%2Fusing-context-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_fe7d15122705"
+  }
+}

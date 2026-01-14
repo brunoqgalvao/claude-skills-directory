@@ -1,0 +1,35 @@
+{
+  "id": "production-quality",
+  "name": "production-quality",
+  "version": "1.0.0",
+  "summary": "Unit testing, performance optimization, security implementation, Play Store deployment. Use for production-ready app development.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-android",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-android/main/skills/production/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.572Z",
+  "created_at": "2025-12-23T01:28:30.257Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-android/skills%2Fproduction%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_661c52fca390"
+  }
+}

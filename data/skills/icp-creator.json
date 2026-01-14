@@ -1,0 +1,37 @@
+{
+  "id": "icp-creator",
+  "name": "icp-creator",
+  "version": "1.0.0",
+  "summary": "Create detailed Ideal Client Profile through guided interview. Use when the user needs to define their target audience, understand their customers' problems and language, or bui...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "az9713",
+    "github": "az9713"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/az9713/ai-co-writing-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/az9713/ai-co-writing-claude-skills/main/.claude/skills/icp-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T07:39:06.000Z",
+  "created_at": "2025-12-22T17:09:32.782Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/az9713%2Fai-co-writing-claude-skills/.claude%2Fskills%2Ficp-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_3b1937db22db"
+  }
+}

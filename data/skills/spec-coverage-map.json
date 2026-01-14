@@ -1,0 +1,35 @@
+{
+  "id": "spec-coverage-map",
+  "name": "spec-coverage-map",
+  "version": "1.0.0",
+  "summary": "Generate a visual spec-to-code coverage map showing which code files are covered by which specifications. Creates ASCII diagrams, reverse indexes, and coverage statistics. Use a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jschulte",
+    "github": "jschulte"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jschulte/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jschulte/claude-plugins/main/stackshift/skills/spec-coverage-map/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.632Z",
+  "created_at": "2025-12-22T23:13:00.670Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jschulte%2Fclaude-plugins/stackshift%2Fskills%2Fspec-coverage-map%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.632Z",
+    "uniqueId": "sk_31aba2465766"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bos-breakout-trading",
+  "name": "bos-breakout-trading",
+  "version": "1.0.0",
+  "summary": "BOS突破交易法 - 基于 LuxAlgo Strong/Weak HL 的 BOS 突破交易策略, 当出现 BOS 信号且有明确的 HH/LL 止损点时入场",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phpmac",
+    "github": "phpmac"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phpmac/trader",
+    "skill_md": "https://raw.githubusercontent.com/phpmac/trader/main/.claude/skills/交易方法整理/BOS突破交易法/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:50.906Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phpmac%2Ftrader/.claude%2Fskills%2F%E4%BA%A4%E6%98%93%E6%96%B9%E6%B3%95%E6%95%B4%E7%90%86%2FBOS%E7%AA%81%E7%A0%B4%E4%BA%A4%E6%98%93%E6%B3%95%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_f658c4a86364"
+  }
+}

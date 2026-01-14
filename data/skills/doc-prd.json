@@ -1,0 +1,35 @@
+{
+  "id": "doc-prd",
+  "name": "doc-prd",
+  "version": "1.0.0",
+  "summary": "Create Product Requirements Documents (PRD) following SDD methodology - Layer 2 artifact defining product features and user needs",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vladm3105",
+    "github": "vladm3105"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vladm3105/aidoc-flow-framework",
+    "skill_md": "https://raw.githubusercontent.com/vladm3105/aidoc-flow-framework/main/.claude/skills/doc-prd/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.472Z",
+  "created_at": "2025-12-23T01:29:58.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vladm3105%2Faidoc-flow-framework/.claude%2Fskills%2Fdoc-prd%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.472Z",
+    "uniqueId": "sk_58c56133b4f2"
+  }
+}

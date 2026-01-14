@@ -1,0 +1,36 @@
+{
+  "id": "phpunit-runner",
+  "name": "phpunit-runner",
+  "version": "1.0.0",
+  "summary": "Run PHPUnit tests and fix failures using intelligent agent delegation. Use when user requests to:\n- Run tests (full suite, specific path, or single file)\n- Fix failing tests\n- A...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LongTermSupport",
+    "github": "LongTermSupport"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LongTermSupport/php-qa-ci",
+    "skill_md": "https://raw.githubusercontent.com/LongTermSupport/php-qa-ci/main/.claude/skills/phpunit-runner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.851Z",
+  "created_at": "2025-12-22T15:55:57.574Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LongTermSupport%2Fphp-qa-ci/.claude%2Fskills%2Fphpunit-runner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.851Z",
+    "uniqueId": "sk_4e456a975067"
+  }
+}

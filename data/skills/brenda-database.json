@@ -1,0 +1,36 @@
+{
+  "id": "brenda-database",
+  "name": "brenda-database",
+  "version": "1.0.0",
+  "summary": "Access BRENDA enzyme database via SOAP API. Retrieve kinetic parameters (Km, kcat), reaction equations, organism data, and substrate-specific enzyme information for biochemical ...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "K-Dense-AI",
+    "github": "K-Dense-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/K-Dense-AI/claude-scientific-skills",
+    "skill_md": "https://raw.githubusercontent.com/K-Dense-AI/claude-scientific-skills/main/scientific-skills/brenda-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.450Z",
+  "created_at": "2025-12-23T01:29:58.441Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/K-Dense-AI%2Fclaude-scientific-skills/scientific-skills%2Fbrenda-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_e168a3cab828"
+  }
+}

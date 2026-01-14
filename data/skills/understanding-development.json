@@ -1,0 +1,37 @@
+{
+  "id": "understanding-development",
+  "name": "understanding-development",
+  "version": "1.0.0",
+  "summary": "Use when contributing to walkerOS, before writing code, or when unsure about project conventions. Covers build/test/lint workflow, XP principles, folder structure, and package u...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "elbwalker",
+    "github": "elbwalker"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/elbwalker/walkerOS",
+    "skill_md": "https://raw.githubusercontent.com/elbwalker/walkerOS/main/skills/understanding-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:50.930Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/elbwalker%2FwalkerOS/skills%2Funderstanding-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_79b5dfcc4789"
+  }
+}

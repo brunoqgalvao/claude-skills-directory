@@ -1,0 +1,35 @@
+{
+  "id": "domain-modeling",
+  "name": "domain-modeling",
+  "version": "1.0.0",
+  "summary": "Model business domains with entities, relationships, business rules, and permissions. Use when: (1) creating entity definitions, (2) defining business rules (BR-XXX), (3) design...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/domain-modeling/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T21:06:30.000Z",
+  "created_at": "2025-12-23T01:29:25.967Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fdomain-modeling%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_52aabf9cbeb0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "asterisk-tester",
+  "name": "asterisk-tester",
+  "version": "1.0.0",
+  "summary": "Тестирование сценариев Asterisk dialplan и потоков звонков используя безопасные Local каналы. Использовать при тестировании логики маршрутизации звонков, отладке проблем dialpla...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikopbx",
+    "github": "mikopbx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikopbx/Core",
+    "skill_md": "https://raw.githubusercontent.com/mikopbx/Core/main/.claude/skills/asterisk-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-24T02:27:09.000Z",
+  "created_at": "2025-12-22T19:12:58.887Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikopbx%2FCore/.claude%2Fskills%2Fasterisk-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_8d23c45ac446"
+  }
+}

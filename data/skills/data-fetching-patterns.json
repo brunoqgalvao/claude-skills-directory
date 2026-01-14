@@ -1,0 +1,37 @@
+{
+  "id": "data-fetching-patterns",
+  "name": "data-fetching-patterns",
+  "version": "1.0.0",
+  "summary": "SWR-based data fetching and caching patterns used throughout the monorepo. Use this skill when implementing API interactions, creating custom data hooks, handling loading/error ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lsst-sqre",
+    "github": "lsst-sqre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lsst-sqre/squareone",
+    "skill_md": "https://raw.githubusercontent.com/lsst-sqre/squareone/main/.claude/skills/data-fetching-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.495Z",
+  "created_at": "2025-12-23T01:29:29.311Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lsst-sqre%2Fsquareone/.claude%2Fskills%2Fdata-fetching-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_b4ff98e8f086"
+  }
+}

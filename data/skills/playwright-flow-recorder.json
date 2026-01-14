@@ -1,0 +1,35 @@
+{
+  "id": "playwright-flow-recorder",
+  "name": "playwright-flow-recorder",
+  "version": "1.0.0",
+  "summary": "Creates Playwright test scripts from natural language user flow descriptions. This skill should be used when generating E2E tests from scenarios, converting user stories to test...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/plugins/playwright-flow-recorder/skills/playwright-flow-recorder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:09:58.047Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/plugins%2Fplaywright-flow-recorder%2Fskills%2Fplaywright-flow-recorder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_5d7cdd0fbae2"
+  }
+}

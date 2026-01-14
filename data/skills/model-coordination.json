@@ -1,0 +1,35 @@
+{
+  "id": "model-coordination",
+  "name": "model-coordination",
+  "version": "1.0.0",
+  "summary": "Use this skill when coordinating multiple AI models (Claude, GPT, Gemini, DeepSeek) for competitive trading analysis, running parallel model execution, aggregating decisions, or...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AkhilGurrapu",
+    "github": "AkhilGurrapu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AkhilGurrapu/kubera",
+    "skill_md": "https://raw.githubusercontent.com/AkhilGurrapu/kubera/main/.claude/skills/model-coordination/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:10:25.708Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AkhilGurrapu%2Fkubera/.claude%2Fskills%2Fmodel-coordination%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_dc11a23dc187"
+  }
+}

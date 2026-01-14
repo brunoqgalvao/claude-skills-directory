@@ -1,0 +1,35 @@
+{
+  "id": "project-agent-creator",
+  "name": "project-agent-creator",
+  "version": "1.0.0",
+  "summary": "Use when setting up project-specific agents via /cc:setup-project or when user requests custom agents for their codebase - analyzes project to create specialized, project-aware ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seanGSISG",
+    "github": "seanGSISG"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seanGSISG/crispy-claude",
+    "skill_md": "https://raw.githubusercontent.com/seanGSISG/crispy-claude/main/.claude/skills/project-agent-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:06.395Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seanGSISG%2Fcrispy-claude/.claude%2Fskills%2Fproject-agent-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_2cb659ebc539"
+  }
+}

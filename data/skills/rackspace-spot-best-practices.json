@@ -1,0 +1,35 @@
+{
+  "id": "rackspace-spot-best-practices",
+  "name": "rackspace-spot-best-practices",
+  "version": "1.0.0",
+  "summary": "Best practices for running GitHub Actions ARC runners on Rackspace Spot Kubernetes. Covers spot instance management, preemption handling, cost optimization, and resilience strat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Matchpoint-AI",
+    "github": "Matchpoint-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Matchpoint-AI/matchpoint-github-runners-helm",
+    "skill_md": "https://raw.githubusercontent.com/Matchpoint-AI/matchpoint-github-runners-helm/main/.claude/skills/rackspace-spot-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:11:46.466Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Matchpoint-AI%2Fmatchpoint-github-runners-helm/.claude%2Fskills%2Frackspace-spot-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_c7c61402a3fc"
+  }
+}

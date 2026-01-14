@@ -1,0 +1,36 @@
+{
+  "id": "hooks-development",
+  "name": "hooks-development",
+  "version": "1.0.0",
+  "summary": "Claude Code hooks development guide covering all 10 hook events lifecycle, PostToolUse visibility patterns, PreToolUse guards, Stop hook schema, and debugging. Use when creating...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "terrylica",
+    "github": "terrylica"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/terrylica/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/terrylica/cc-skills/main/plugins/itp-hooks/skills/hooks-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.827Z",
+  "created_at": "2025-12-22T16:59:42.742Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/terrylica%2Fcc-skills/plugins%2Fitp-hooks%2Fskills%2Fhooks-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.827Z",
+    "uniqueId": "sk_254781cab9d4"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "generating-docker-compose-files",
+  "name": "generating-docker-compose-files",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to generate Docker Compose configurations for multi-container applications. It leverages best practices for production-ready deployments, including def...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/backups/skills-batch-20251204-000554/plugins/devops/docker-compose-generator/skills/docker-compose-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T06:09:39.000Z",
+  "created_at": "2025-12-19T17:55:02.007Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/backups%2Fskills-batch-20251204-000554%2Fplugins%2Fdevops%2Fdocker-compose-generator%2Fskills%2Fdocker-compose-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_08c584902c10"
+  }
+}

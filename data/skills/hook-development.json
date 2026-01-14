@@ -1,0 +1,37 @@
+{
+  "id": "hook-development",
+  "name": "hook-development",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"create a hook\", \"add a PreToolUse/PostToolUse/Stop hook\", \"validate tool use\", \"implement prompt-based hooks\", \"use ${CLAUDE_PLU...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "basher83",
+    "github": "basher83"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/basher83/lunar-claude",
+    "skill_md": "https://raw.githubusercontent.com/basher83/lunar-claude/main/plugins/meta/plugin-dev/skills/hook-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.653Z",
+  "created_at": "2025-12-22T23:02:17.889Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/basher83%2Flunar-claude/plugins%2Fmeta%2Fplugin-dev%2Fskills%2Fhook-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.653Z",
+    "uniqueId": "sk_8dcf5d9eccb1"
+  }
+}

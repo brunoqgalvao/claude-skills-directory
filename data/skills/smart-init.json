@@ -1,0 +1,35 @@
+{
+  "id": "smart-init",
+  "name": "smart-init",
+  "version": "1.0.0",
+  "summary": "Interactive ClaudeShack ecosystem initialization that analyzes your codebase, mines history, discusses findings with you to establish baseline understanding, and seeds Oracle wi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Overlord-Z",
+    "github": "Overlord-Z"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Overlord-Z/ClaudeShack",
+    "skill_md": "https://raw.githubusercontent.com/Overlord-Z/ClaudeShack/main/skills/smart-init/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:09:56.803Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Overlord-Z%2FClaudeShack/skills%2Fsmart-init%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_be4337ba41b8"
+  }
+}

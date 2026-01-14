@@ -1,0 +1,35 @@
+{
+  "id": "issue-management-guidelines",
+  "name": "issue-management-guidelines",
+  "version": "1.0.0",
+  "summary": "Issue作成・分類・管理のガイドライン、テンプレート、ラベル運用、ライフサイクル管理を定義する。Issue作成時、バグ報告時、タスク管理時、またはユーザーがIssue、バグレポート、タスク管理、ラベル運用、Issueテンプレートに言及した際に使用する。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RevTechStudio",
+    "github": "RevTechStudio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RevTechStudio/rts-plugins",
+    "skill_md": "https://raw.githubusercontent.com/RevTechStudio/rts-plugins/main/rts-foundation/skills/issue-management-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.492Z",
+  "created_at": "2025-12-23T01:29:31.527Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RevTechStudio%2Frts-plugins/rts-foundation%2Fskills%2Fissue-management-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_c9818327d153"
+  }
+}

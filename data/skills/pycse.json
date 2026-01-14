@@ -1,0 +1,35 @@
+{
+  "id": "pycse",
+  "name": "pycse",
+  "version": "1.0.0",
+  "summary": "Use when performing regression analysis with confidence intervals, solving ODEs, fitting models to experimental data, or caching expensive scientific computations - provides con...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkitchin",
+    "github": "jkitchin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkitchin/skillz",
+    "skill_md": "https://raw.githubusercontent.com/jkitchin/skillz/main/skills/python/pycse/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T15:48:33.000Z",
+  "created_at": "2025-12-23T01:29:21.215Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkitchin%2Fskillz/skills%2Fpython%2Fpycse%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_ac4952f71295"
+  }
+}

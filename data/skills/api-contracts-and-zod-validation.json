@@ -1,0 +1,36 @@
+{
+  "id": "api-contracts-and-zod-validation",
+  "name": "api-contracts-and-zod-validation",
+  "version": "1.0.0",
+  "summary": "Generate Zod schemas and TypeScript types for forms, API routes, and Server Actions with runtime validation. Use this skill when creating API contracts, validating request/respo...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hopeoverture",
+    "github": "hopeoverture"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hopeoverture/worldbuilding-app-skills",
+    "skill_md": "https://raw.githubusercontent.com/hopeoverture/worldbuilding-app-skills/main/skills/development/api-contracts-and-zod-validation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T16:07:47.000Z",
+  "created_at": "2025-12-23T01:28:53.121Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hopeoverture%2Fworldbuilding-app-skills/skills%2Fdevelopment%2Fapi-contracts-and-zod-validation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.544Z",
+    "uniqueId": "sk_59ca2d717b6f"
+  }
+}

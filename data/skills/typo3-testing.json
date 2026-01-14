@@ -1,0 +1,37 @@
+{
+  "id": "typo3-testing",
+  "name": "typo3-testing",
+  "version": "1.0.0",
+  "summary": "Create, configure, and manage TYPO3 extension tests (unit, functional, E2E, fuzz, mutation) following official TYPO3 testing framework patterns. Use when setting up test infrast...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "netresearch",
+    "github": "netresearch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/netresearch/typo3-testing-skill",
+    "skill_md": "https://raw.githubusercontent.com/netresearch/typo3-testing-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T07:26:16.000Z",
+  "created_at": "2025-12-23T01:29:25.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/netresearch%2Ftypo3-testing-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.500Z",
+    "uniqueId": "sk_87f3a9ff99ec"
+  }
+}

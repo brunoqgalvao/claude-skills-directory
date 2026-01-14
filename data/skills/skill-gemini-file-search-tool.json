@@ -1,0 +1,36 @@
+{
+  "id": "skill-gemini-file-search-tool",
+  "name": "skill-gemini-file-search-tool",
+  "version": "1.0.0",
+  "summary": "Manage Gemini RAG stores with Code-RAG support",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dnvriend",
+    "github": "dnvriend"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dnvriend/gemini-file-search-tool",
+    "skill_md": "https://raw.githubusercontent.com/dnvriend/gemini-file-search-tool/main/plugins/gemini-file-search-tool/skills/gemini-file-search-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.609Z",
+  "created_at": "2025-12-23T00:00:09.560Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dnvriend%2Fgemini-file-search-tool/plugins%2Fgemini-file-search-tool%2Fskills%2Fgemini-file-search-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.609Z",
+    "uniqueId": "sk_8d66bcd902fb"
+  }
+}

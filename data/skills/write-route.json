@@ -1,0 +1,35 @@
+{
+  "id": "write-route",
+  "name": "write-route",
+  "version": "1.0.0",
+  "summary": "Write routes following the Epic architecture patterns. Use when creating HTTP endpoints for behaviors, webhooks, or streaming. Triggers on \"create a route\", \"add a webhook\", or ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "coeus-ventures",
+    "github": "coeus-ventures"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/coeus-ventures/web-template",
+    "skill_md": "https://raw.githubusercontent.com/coeus-ventures/web-template/main/.claude/skills/write-route/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:26.366Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/coeus-ventures%2Fweb-template/.claude%2Fskills%2Fwrite-route%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_b0b22075a934"
+  }
+}

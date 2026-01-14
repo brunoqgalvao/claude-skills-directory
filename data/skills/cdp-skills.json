@@ -1,0 +1,35 @@
+{
+  "id": "cdp-skills",
+  "name": "cdp-skills",
+  "version": "1.0.0",
+  "summary": "Claude Developer Platform Skills feature. Custom knowledge packages for agents, curated playbooks, and versioned expertise domains.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sigridjineth",
+    "github": "sigridjineth"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sigridjineth/interview-copilot-with-skills",
+    "skill_md": "https://raw.githubusercontent.com/sigridjineth/interview-copilot-with-skills/main/skills/cdp_skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:03:10.673Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sigridjineth%2Finterview-copilot-with-skills/skills%2Fcdp_skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_b6aa107a2b40"
+  }
+}

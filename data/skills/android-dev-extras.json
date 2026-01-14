@@ -1,0 +1,35 @@
+{
+  "id": "android-dev-extras",
+  "name": "android-dev-extras",
+  "version": "1.0.0",
+  "summary": "Android 功能开发扩展模板。包含上拉刷新(SmartRefreshLayout)和 TabLayout+ViewPager2 的完整实现模板。仅在需要刷新或 Tab 切换功能时加载。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "est7",
+    "github": "est7"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/est7/agent-tool",
+    "skill_md": "https://raw.githubusercontent.com/est7/agent-tool/main/cfg/templates/skills/android-dev-extras_1/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.611Z",
+  "created_at": "2025-12-22T23:57:26.947Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/est7%2Fagent-tool/cfg%2Ftemplates%2Fskills%2Fandroid-dev-extras_1%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.611Z",
+    "uniqueId": "sk_c6337d4ea958"
+  }
+}

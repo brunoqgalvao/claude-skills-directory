@@ -1,0 +1,35 @@
+{
+  "id": "issue-creator",
+  "name": "issue-creator",
+  "version": "1.0.0",
+  "summary": "Generate GitHub issues from an approved engineering specification. Use to break down a spec into implementable, atomic tasks with dependencies, sizing, and labels.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pcortes",
+    "github": "pcortes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pcortes/swarm-attack",
+    "skill_md": "https://raw.githubusercontent.com/pcortes/swarm-attack/main/swarm_attack/skills/issue-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:03:47.317Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pcortes%2Fswarm-attack/swarm_attack%2Fskills%2Fissue-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_f6fd6c511aa9"
+  }
+}

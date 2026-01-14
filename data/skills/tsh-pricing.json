@@ -1,0 +1,36 @@
+{
+  "id": "tsh-pricing",
+  "name": "tsh-pricing",
+  "version": "1.0.0",
+  "summary": "TSH pricing logic with Zoho Inventory pricebooks. Use when:\n(1) Displaying product prices on any page\n(2) Working with different price lists (Consumer, Wholesale, Technical, Ret...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Qmop1967",
+    "github": "Qmop1967"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Qmop1967/Clients-Console",
+    "skill_md": "https://raw.githubusercontent.com/Qmop1967/Clients-Console/main/.claude/skills/tsh-pricing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.808Z",
+  "created_at": "2025-12-22T17:57:36.687Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Qmop1967%2FClients-Console/.claude%2Fskills%2Ftsh-pricing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.808Z",
+    "uniqueId": "sk_1b20e6bdf6e3"
+  }
+}

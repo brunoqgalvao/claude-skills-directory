@@ -1,0 +1,35 @@
+{
+  "id": "youtube-transcribe-skill",
+  "name": "youtube-transcribe-skill",
+  "version": "1.0.0",
+  "summary": "Extract subtitles/transcripts from a YouTube video URL and save as a local file. Use when you need to extract subtitles from a YouTube video.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feiskyer",
+    "github": "feiskyer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feiskyer/codex-settings",
+    "skill_md": "https://raw.githubusercontent.com/feiskyer/codex-settings/main/skills/youtube-transcribe-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T09:55:28.000Z",
+  "created_at": "2025-12-23T01:28:55.033Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feiskyer%2Fcodex-settings/skills%2Fyoutube-transcribe-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_dbf7159c0f14"
+  }
+}

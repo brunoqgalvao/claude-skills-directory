@@ -1,0 +1,35 @@
+{
+  "id": "mcp-client",
+  "name": "mcp-client",
+  "version": "1.0.0",
+  "summary": "Universal MCP client for connecting to any MCP server. Bundle scripts/mcp-client.py with your skill to enable dynamic tool discovery and execution without context bloat. Use whe...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mjunaidca",
+    "github": "mjunaidca"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mjunaidca/code-execution-mcp-agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/mjunaidca/code-execution-mcp-agent-skills/main/.claude/skills/mcp-client/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:58:36.709Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mjunaidca%2Fcode-execution-mcp-agent-skills/.claude%2Fskills%2Fmcp-client%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_7ba715253b99"
+  }
+}

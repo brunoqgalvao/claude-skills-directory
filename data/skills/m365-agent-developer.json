@@ -1,0 +1,36 @@
+{
+  "id": "m365-agent-developer",
+  "name": "m365-agent-developer",
+  "version": "1.0.0",
+  "summary": "Designs, implements, and deploys Microsoft 365 Copilot agents using TypeSpec and ATK CLI. Provides architectural guidance, capability configuration, security patterns, and lifec...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebastienlevert",
+    "github": "sebastienlevert"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebastienlevert/m365-copilot-skills",
+    "skill_md": "https://raw.githubusercontent.com/sebastienlevert/m365-copilot-skills/main/plugins/m365-copilot-skills/skills/m365-agent-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:59:15.433Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebastienlevert%2Fm365-copilot-skills/plugins%2Fm365-copilot-skills%2Fskills%2Fm365-agent-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_c8753a244fb4"
+  }
+}

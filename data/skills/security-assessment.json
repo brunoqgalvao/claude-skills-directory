@@ -1,0 +1,37 @@
+{
+  "id": "security-assessment",
+  "name": "security-assessment",
+  "version": "1.0.0",
+  "summary": "Vulnerability review, OWASP patterns, secure coding practices, and threat modeling approaches. Use when reviewing code security, designing secure systems, performing threat anal...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rsmdt",
+    "github": "rsmdt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rsmdt/the-startup",
+    "skill_md": "https://raw.githubusercontent.com/rsmdt/the-startup/main/plugins/team/skills/quality/security-assessment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T21:00:07.143Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rsmdt%2Fthe-startup/plugins%2Fteam%2Fskills%2Fquality%2Fsecurity-assessment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_a16ebae4c943"
+  }
+}

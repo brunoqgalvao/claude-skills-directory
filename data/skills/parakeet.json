@@ -1,0 +1,37 @@
+{
+  "id": "parakeet",
+  "name": "parakeet",
+  "version": "1.0.0",
+  "summary": "Convert audio files to text using parakeet-mlx, NVIDIA's Parakeet automatic speech recognition model optimized for Apple's MLX framework. Run via uvx for on-device speech-to-tex...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SecKatie",
+    "github": "SecKatie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SecKatie/kmtools",
+    "skill_md": "https://raw.githubusercontent.com/SecKatie/kmtools/main/parakeet/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T18:58:46.000Z",
+  "created_at": "2025-12-22T18:58:06.441Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SecKatie%2Fkmtools/parakeet%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.791Z",
+    "uniqueId": "sk_7bcd9d72f6c3"
+  }
+}

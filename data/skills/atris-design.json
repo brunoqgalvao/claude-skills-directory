@@ -1,0 +1,37 @@
+{
+  "id": "atris-design",
+  "name": "atris-design",
+  "version": "1.0.0",
+  "summary": "Frontend aesthetics policy. Use when building UI, components, landing pages, dashboards, or any frontend work. Prevents generic ai-generated look.",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "atrislabs",
+    "github": "atrislabs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/atrislabs/atris",
+    "skill_md": "https://raw.githubusercontent.com/atrislabs/atris/main/.claude/skills/atris-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:56.856Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/atrislabs%2Fatris/.claude%2Fskills%2Fatris-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_87494692d533"
+  }
+}

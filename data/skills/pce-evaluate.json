@@ -1,0 +1,36 @@
+{
+  "id": "pce-evaluate",
+  "name": "pce-evaluate",
+  "version": "1.0.0",
+  "summary": "PCE (Process-Context Engine) の出力評価スキル。生成物の品質とLaw（法則）との整合性を検証する。\nLDE（Law-Driven Engineering）との統合により、Law遵守チェックも実行。\n\nトリガー条件:\n- コード生成後（「このコードをレビューして」）\n- 設計完了後（「設計をチェックして」）\n- PRマージ前（...",
+  "verticals": [
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/caphtech-plugin/skills/pce-evaluate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.548Z",
+  "created_at": "2025-12-23T01:28:51.058Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/caphtech-plugin%2Fskills%2Fpce-evaluate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.548Z",
+    "uniqueId": "sk_2f4fd36cd097"
+  }
+}

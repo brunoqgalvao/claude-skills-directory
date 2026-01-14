@@ -1,0 +1,35 @@
+{
+  "id": "git-absorb",
+  "name": "git-absorb",
+  "version": "1.0.0",
+  "summary": "Automatically fold uncommitted changes into appropriate commits on a feature branch. Use when applying review feedback, fixing bugs in feature branches, or maintaining atomic co...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dashed",
+    "github": "dashed"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dashed/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/dashed/claude-marketplace/main/plugins/git-absorb/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:13.113Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dashed%2Fclaude-marketplace/plugins%2Fgit-absorb%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_0f5d95147ce6"
+  }
+}

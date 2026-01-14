@@ -1,0 +1,37 @@
+{
+  "id": "design-doc-mermaid",
+  "name": "design-doc-mermaid",
+  "version": "1.0.0",
+  "summary": "Create Mermaid diagrams for any purpose - activity diagrams, deployment diagrams, architecture diagrams, or complete design documents. This skill uses a hierarchical structure w...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SpillwaveSolutions",
+    "github": "SpillwaveSolutions"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SpillwaveSolutions/design-doc-mermaid",
+    "skill_md": "https://raw.githubusercontent.com/SpillwaveSolutions/design-doc-mermaid/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.608Z",
+  "created_at": "2025-12-23T00:01:03.645Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SpillwaveSolutions%2Fdesign-doc-mermaid/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.608Z",
+    "uniqueId": "sk_b179d0161f0d"
+  }
+}

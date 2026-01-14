@@ -1,0 +1,35 @@
+{
+  "id": "inspector-customization",
+  "name": "inspector-customization",
+  "version": "1.0.0",
+  "summary": "Create and customize inspector panels for node editors. Use when implementing custom inspector tabs, settings panels, node-specific inspectors, or using inspector UI components.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trkbt10",
+    "github": "trkbt10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trkbt10/react-wireflow",
+    "skill_md": "https://raw.githubusercontent.com/trkbt10/react-wireflow/main/skills/inspector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.518Z",
+  "created_at": "2025-12-23T01:29:11.067Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trkbt10%2Freact-wireflow/skills%2Finspector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_37c4a1a1f83d"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "doc-query",
+  "name": "doc-query",
+  "version": "1.0.0",
+  "summary": "Query up-to-date tool documentation using Context7. Use when you need current documentation for Python 3.14+, Claude Code CLI, or other configured tools.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asterkin",
+    "github": "asterkin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asterkin/claude-taew-py",
+    "skill_md": "https://raw.githubusercontent.com/asterkin/claude-taew-py/main/.claude/skills/doc-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T17:49:41.000Z",
+  "created_at": "2025-12-22T17:05:45.407Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asterkin%2Fclaude-taew-py/.claude%2Fskills%2Fdoc-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.823Z",
+    "uniqueId": "sk_38be34b8d408"
+  }
+}

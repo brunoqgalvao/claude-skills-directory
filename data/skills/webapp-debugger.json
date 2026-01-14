@@ -1,0 +1,37 @@
+{
+  "id": "webapp-debugger",
+  "name": "webapp-debugger",
+  "version": "1.0.0",
+  "summary": "Chrome DevTools MCPを使用したWebアプリのデバッグ支援スキル。ブラウザ操作、コンソールログ監視、ネットワークリクエスト分析、パフォーマンス計測を行う。\n使用タイミング: (1) Webアプリの動作確認・デバッグ (2) UIの自動操作テスト (3) ネットワークエラーの調査 (4) コンソールエラーの確認 (5) パフォーマンス問題...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CAPHTECH",
+    "github": "CAPHTECH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CAPHTECH/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/CAPHTECH/claude-marketplace/main/webapp-dev-plugin/skills/webapp-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:26.499Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CAPHTECH%2Fclaude-marketplace/webapp-dev-plugin%2Fskills%2Fwebapp-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_a6b4eb60672e"
+  }
+}

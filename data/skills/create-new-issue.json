@@ -1,0 +1,36 @@
+{
+  "id": "create-new-issue",
+  "name": "create-new-issue",
+  "version": "1.0.0",
+  "summary": "For use when a new issue/task has been identified and needs to be formally captured using the Wrangler MCP issue management system. Use this skill to create new issues via the i...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samjhecht",
+    "github": "samjhecht"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samjhecht/wrangler",
+    "skill_md": "https://raw.githubusercontent.com/samjhecht/wrangler/main/skills/create-new-issue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.516Z",
+  "created_at": "2025-12-23T01:29:13.118Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samjhecht%2Fwrangler/skills%2Fcreate-new-issue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.516Z",
+    "uniqueId": "sk_6cd8cb5d0123"
+  }
+}

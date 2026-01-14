@@ -1,0 +1,35 @@
+{
+  "id": "e2e-playwright-testing",
+  "name": "e2e-playwright-testing",
+  "version": "1.0.0",
+  "summary": "Comprehensive end-to-end test creation, and management. You MUST activate this skill when the user mentions \"e2e\", \"end-to-end\", \"playwright\", or any work involving the `e2e/` f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "okrbest",
+    "github": "okrbest"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/okrbest/okrbest-plugin-agents",
+    "skill_md": "https://raw.githubusercontent.com/okrbest/okrbest-plugin-agents/main/.claude/skills/e2e-testing-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.460Z",
+  "created_at": "2025-12-22T19:00:30.809Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/okrbest%2Fokrbest-plugin-agents/.claude%2Fskills%2Fe2e-testing-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_09835d0e3142"
+  }
+}

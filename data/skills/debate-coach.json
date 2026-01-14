@@ -1,0 +1,35 @@
+{
+  "id": "debate-coach",
+  "name": "debate-coach",
+  "version": "1.0.0",
+  "summary": "Develop argumentation skills with structured debate preparation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tatat",
+    "github": "tatat"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tatat/agents-playground",
+    "skill_md": "https://raw.githubusercontent.com/tatat/agents-playground/main/skills/debate-coach/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T18:28:40.000Z",
+  "created_at": "2025-12-23T01:28:32.304Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tatat%2Fagents-playground/skills%2Fdebate-coach%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_e45dcb6afae8"
+  }
+}

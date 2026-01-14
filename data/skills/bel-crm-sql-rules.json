@@ -1,0 +1,36 @@
+{
+  "id": "bel-crm-sql-rules",
+  "name": "bel-crm-sql-rules",
+  "version": "1.0.0",
+  "summary": "CRITICAL: PostgreSQL MCP Server SQL limitations and correct patterns.\nThis skill MUST be consulted before writing any SQL for the CRM database.\nDocuments what works and what DOE...",
+  "verticals": [
+    "sales",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bennoloeffler",
+    "github": "bennoloeffler"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bennoloeffler/bassi",
+    "skill_md": "https://raw.githubusercontent.com/bennoloeffler/bassi/main/.claude/skills/bel-crm-sql-rules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:58:50.705Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bennoloeffler%2Fbassi/.claude%2Fskills%2Fbel-crm-sql-rules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_db71ed01bc28"
+  }
+}

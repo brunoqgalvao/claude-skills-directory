@@ -1,0 +1,35 @@
+{
+  "id": "nav-onboard",
+  "name": "nav-onboard",
+  "version": "1.0.0",
+  "summary": "Interactive onboarding for Navigator - learn by doing. Auto-invoke when user says \"onboard me\", \"teach me Navigator\", \"how do I use Navigator\", \"Navigator tutorial\", \"learn Navi...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alekspetrov",
+    "github": "alekspetrov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alekspetrov/navigator",
+    "skill_md": "https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-onboard/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.697Z",
+  "created_at": "2025-12-22T22:02:21.328Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alekspetrov%2Fnavigator/skills%2Fnav-onboard%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.697Z",
+    "uniqueId": "sk_edcddf934805"
+  }
+}

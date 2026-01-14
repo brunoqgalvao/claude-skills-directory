@@ -1,0 +1,35 @@
+{
+  "id": "auditing-project",
+  "name": "auditing-project",
+  "version": "1.0.0",
+  "summary": "Audits the project for consistency issues that may arise from manual editing. Checks package scripts, tsconfig paths, README tables, and other conventions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jasonkuhrt",
+    "github": "jasonkuhrt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jasonkuhrt/kit",
+    "skill_md": "https://raw.githubusercontent.com/jasonkuhrt/kit/main/.claude/skills/auditing-project/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.573Z",
+  "created_at": "2025-12-23T01:28:28.323Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jasonkuhrt%2Fkit/.claude%2Fskills%2Fauditing-project%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.573Z",
+    "uniqueId": "sk_c846fb890d3a"
+  }
+}

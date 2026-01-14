@@ -1,0 +1,35 @@
+{
+  "id": "codebuddy-deploy",
+  "name": "codebuddy-deploy",
+  "version": "1.0.0",
+  "summary": "部署与运维专家,负责把通过 Reviewer 与 QA 门禁的构建安全、可回滚、可观测地部署到服务器(PM2 三进程 + Nginx 反代 + 宝塔)。遵循零停机部署、健康检查、回滚≤3分钟、发布后冒烟的工程基线。处理部署编排、配置管理、流量管理、监控告警。适用于收到 Deploy 部门任务卡或需要发布上线时使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lpding888",
+    "github": "lpding888"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lpding888/aiygw4.0",
+    "skill_md": "https://raw.githubusercontent.com/lpding888/aiygw4.0/main/skills/codebuddy_deploy_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-02T04:25:42.000Z",
+  "created_at": "2025-12-23T01:29:46.195Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lpding888%2Faiygw4.0/skills%2Fcodebuddy_deploy_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.478Z",
+    "uniqueId": "sk_8382e278c8ff"
+  }
+}

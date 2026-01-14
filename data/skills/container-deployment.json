@@ -1,0 +1,36 @@
+{
+  "id": "container-deployment",
+  "name": "container-deployment",
+  "version": "1.0.0",
+  "summary": "Container strategies for .NET libraries and test environments. Use when working with Docker test environments, container-based integration testing, or NuGet package container bu...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RicherTunes",
+    "github": "RicherTunes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RicherTunes/Lidarr.Plugin.Common",
+    "skill_md": "https://raw.githubusercontent.com/RicherTunes/Lidarr.Plugin.Common/main/.claude/skills/container-deployment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T21:43:37.000Z",
+  "created_at": "2025-12-23T01:28:48.953Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RicherTunes%2FLidarr.Plugin.Common/.claude%2Fskills%2Fcontainer-deployment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_6f4fe34b3312"
+  }
+}

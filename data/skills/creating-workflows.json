@@ -1,0 +1,36 @@
+{
+  "id": "creating-workflows",
+  "name": "creating-workflows",
+  "version": "1.0.0",
+  "summary": "Use this skill when creating automated multi-phase workflows for development tasks using claude-flow orchestration. Implements patterns for implementation kickoff, verification,...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "delorenj",
+    "github": "delorenj"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/delorenj/skills",
+    "skill_md": "https://raw.githubusercontent.com/delorenj/skills/main/creating-workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:03:37.480Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/delorenj%2Fskills/creating-workflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_80cfedc979de"
+  }
+}

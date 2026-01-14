@@ -1,0 +1,36 @@
+{
+  "id": "codetographer",
+  "name": "codetographer",
+  "version": "1.0.0",
+  "summary": "Generates interactive code flow diagrams (.cgraph files).\nInvoke when users ask: \"how does X work\", \"show me the flow of Y\",\n\"visualize the architecture\", \"diagram the data flow...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Kelvination",
+    "github": "Kelvination"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Kelvination/codetographer",
+    "skill_md": "https://raw.githubusercontent.com/Kelvination/codetographer/main/skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.698Z",
+  "created_at": "2025-12-22T22:00:57.115Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Kelvination%2Fcodetographer/skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.698Z",
+    "uniqueId": "sk_fb80d0ed8a99"
+  }
+}

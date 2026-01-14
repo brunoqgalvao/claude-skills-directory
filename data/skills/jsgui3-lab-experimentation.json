@@ -1,0 +1,35 @@
+{
+  "id": "jsgui3-lab-experimentation",
+  "name": "jsgui3-lab-experimentation",
+  "version": "1.0.0",
+  "summary": "Use repo lab experiments (src/ui/lab) to answer jsgui3 “how should we do this?” questions, then distill the validated result into durable docs + Skills.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metabench",
+    "github": "metabench"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metabench/copilot-dl-news",
+    "skill_md": "https://raw.githubusercontent.com/metabench/copilot-dl-news/main/docs/agi/skills/jsgui3-lab-experimentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T01:02:27.000Z",
+  "created_at": "2025-12-23T01:28:56.996Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metabench%2Fcopilot-dl-news/docs%2Fagi%2Fskills%2Fjsgui3-lab-experimentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.536Z",
+    "uniqueId": "sk_ebdfe71e5ce4"
+  }
+}

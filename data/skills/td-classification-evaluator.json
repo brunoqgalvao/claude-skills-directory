@@ -1,0 +1,35 @@
+{
+  "id": "td-classification-evaluator",
+  "name": "td-classification-evaluator",
+  "version": "1.0.0",
+  "summary": "Classification model evaluation and metrics calculation",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "teradata-labs",
+    "github": "teradata-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/teradata-labs/claude-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/teradata-labs/claude-cookbooks/main/skills/analytics/td-classification-evaluator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.520Z",
+  "created_at": "2025-12-23T01:29:09.588Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/teradata-labs%2Fclaude-cookbooks/skills%2Fanalytics%2Ftd-classification-evaluator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.520Z",
+    "uniqueId": "sk_55067ad1e18e"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ios-testing-skill",
+  "name": "ios-testing-skill",
+  "version": "1.0.0",
+  "summary": "Skill describing modern iOS testing patterns: Swift Testing vs XCTest, XCUITest best practices, and OS 3.0 expectations for coverage and flakiness.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "adilkalam",
+    "github": "adilkalam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/adilkalam/orca-os",
+    "skill_md": "https://raw.githubusercontent.com/adilkalam/orca-os/main/skills/ios-testing-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.886Z",
+  "created_at": "2025-12-19T20:28:00.938Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/adilkalam%2Forca-os/skills%2Fios-testing-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_7c169cbe22f4"
+  }
+}

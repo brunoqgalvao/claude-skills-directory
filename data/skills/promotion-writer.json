@@ -1,0 +1,35 @@
+{
+  "id": "promotion-writer",
+  "name": "promotion-writer",
+  "version": "1.0.0",
+  "summary": "技術研修プロモーション内容を執筆。キャッチコピー、研修概要、特徴、学習効果、カリキュラムを記述。Webサイト向けプロモーション作成時に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "imagepit",
+    "github": "imagepit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/imagepit/text-lint-plugin",
+    "skill_md": "https://raw.githubusercontent.com/imagepit/text-lint-plugin/main/skills/promotion-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.513Z",
+  "created_at": "2025-12-23T01:29:15.679Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/imagepit%2Ftext-lint-plugin/skills%2Fpromotion-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_057b3ba953e2"
+  }
+}

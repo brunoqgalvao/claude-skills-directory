@@ -1,0 +1,36 @@
+{
+  "id": "oaps-development",
+  "name": "oaps-development",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"modify OAPS internals\", \"add a new subsystem\", \"understand OAPS architecture\", \"add a CLI command\", \"write OAPS tests\", \"create ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tbhb",
+    "github": "tbhb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tbhb/oaps.oaps",
+    "skill_md": "https://raw.githubusercontent.com/tbhb/oaps.oaps/main/claude/skills/oaps-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:05:59.172Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tbhb%2Foaps.oaps/claude%2Fskills%2Foaps-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_fa5fd8627e7e"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "format-commit-message",
+  "name": "format-commit-message",
+  "version": "1.0.0",
+  "summary": "Generate standardized conventional commit messages with Claude Code attribution. Use when creating automated commits, release commits, or any git commit requiring consistent for...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maslennikov-ig",
+    "github": "maslennikov-ig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maslennikov-ig/claude-code-orchestrator-kit",
+    "skill_md": "https://raw.githubusercontent.com/maslennikov-ig/claude-code-orchestrator-kit/main/.claude/skills/format-commit-message/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:49.397Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maslennikov-ig%2Fclaude-code-orchestrator-kit/.claude%2Fskills%2Fformat-commit-message%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_6f254c4ed625"
+  }
+}

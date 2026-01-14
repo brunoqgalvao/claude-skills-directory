@@ -1,0 +1,35 @@
+{
+  "id": "fetch-pr-review-comments",
+  "name": "fetch-pr-review-comments",
+  "version": "1.0.0",
+  "summary": "MUST use this skill when user asks to check/review PR comments, address reviewer feedback, fix review issues, or respond to code review. Fetches unresolved review comments from ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shogogg",
+    "github": "shogogg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shogogg/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/shogogg/dotfiles/main/ai-agent/skills/fetch-pr-review-comments/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.574Z",
+  "created_at": "2025-12-23T01:28:27.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shogogg%2Fdotfiles/ai-agent%2Fskills%2Ffetch-pr-review-comments%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_5c1d8d58de7d"
+  }
+}

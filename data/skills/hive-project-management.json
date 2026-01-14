@@ -1,0 +1,35 @@
+{
+  "id": "hive-project-management",
+  "name": "hive-project-management",
+  "version": "1.0.0",
+  "summary": "Manage Agent Hive projects using AGENCY.md files. Use this skill when creating, updating, or working with AGENCY.md project files, managing project metadata (status, owner, bloc...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "intertwine",
+    "github": "intertwine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/intertwine/hive-orchestrator",
+    "skill_md": "https://raw.githubusercontent.com/intertwine/hive-orchestrator/main/.claude/skills/hive-project-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:08.269Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/intertwine%2Fhive-orchestrator/.claude%2Fskills%2Fhive-project-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_27507a0ad65b"
+  }
+}

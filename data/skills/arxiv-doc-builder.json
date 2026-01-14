@@ -1,0 +1,36 @@
+{
+  "id": "arxiv-doc-builder",
+  "name": "arxiv-doc-builder",
+  "version": "1.0.0",
+  "summary": "Automatically convert arXiv papers to well-structured Markdown documentation. Invoke with an arXiv ID to fetch materials (LaTeX source or PDF), convert to Markdown, and generate...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ultimatile",
+    "github": "ultimatile"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ultimatile/arxiv-skills",
+    "skill_md": "https://raw.githubusercontent.com/ultimatile/arxiv-skills/main/skills/arxiv-doc-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.545Z",
+  "created_at": "2025-12-23T01:28:52.432Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ultimatile%2Farxiv-skills/skills%2Farxiv-doc-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_2c32e746ca23"
+  }
+}

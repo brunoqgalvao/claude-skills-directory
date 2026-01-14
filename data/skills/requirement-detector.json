@@ -1,0 +1,35 @@
+{
+  "id": "requirement-detector",
+  "name": "requirement-detector",
+  "version": "1.0.0",
+  "summary": "探测用户的写作规范需求并加载对应文档。当用户提到AI味重、去AI味、自然、爽文、快节奏、爽点、无毒点、不降智、严肃文学、有深度、强情绪、打动人、甜文、撒糖、虐文、虐心、BE等关键词时自动激活。适用于讨论写作要求、AI去味方法、节奏控制、情感表达时使用。",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wordflowlab",
+    "github": "wordflowlab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wordflowlab/novel-writer-skills",
+    "skill_md": "https://raw.githubusercontent.com/wordflowlab/novel-writer-skills/main/templates/skills/quality-assurance/requirement-detector/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.819Z",
+  "created_at": "2025-12-22T17:09:30.346Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wordflowlab%2Fnovel-writer-skills/templates%2Fskills%2Fquality-assurance%2Frequirement-detector%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.819Z",
+    "uniqueId": "sk_e0458a1793c0"
+  }
+}

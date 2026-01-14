@@ -1,0 +1,35 @@
+{
+  "id": "job-search-strategist",
+  "name": "job-search-strategist",
+  "version": "1.0.0",
+  "summary": "Comprehensive job search strategy skill for analyzing job postings, discovering non-obvious insights, conducting conversational skills-matching interviews, identifying skill dev...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "az9713",
+    "github": "az9713"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/az9713/claude_skill_hn_mcp_server",
+    "skill_md": "https://raw.githubusercontent.com/az9713/claude_skill_hn_mcp_server/main/.claude/skills/Job Search Strategist/job-search-strategist/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.449Z",
+  "created_at": "2025-12-23T01:30:48.269Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/az9713%2Fclaude_skill_hn_mcp_server/.claude%2Fskills%2FJob%20Search%20Strategist%2Fjob-search-strategist%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_005104cef77f"
+  }
+}

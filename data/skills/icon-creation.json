@@ -1,0 +1,35 @@
+{
+  "id": "icon-creation",
+  "name": "icon-creation",
+  "version": "1.0.0",
+  "summary": "Generate browser extension icons at multiple sizes (16x16, 32x32, 48x48, 128x128) from SVG files. Use when creating new extension icons, converting SVG to PNG icons, or when use...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oaustegard",
+    "github": "oaustegard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oaustegard/browser-extensions",
+    "skill_md": "https://raw.githubusercontent.com/oaustegard/browser-extensions/main/.claude/skills/icon-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T16:19:27.000Z",
+  "created_at": "2025-12-22T16:05:11.643Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oaustegard%2Fbrowser-extensions/.claude%2Fskills%2Ficon-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_74ab404c09c2"
+  }
+}

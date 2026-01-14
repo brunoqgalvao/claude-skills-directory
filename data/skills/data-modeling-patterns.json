@@ -1,0 +1,36 @@
+{
+  "id": "data-modeling-patterns",
+  "name": "data-modeling-patterns",
+  "version": "1.0.0",
+  "summary": "Database schema design and data modeling patterns including normalization principles (1NF-5NF), denormalization trade-offs, entity relationship design, indexing strategies, sche...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "applied-artificial-intelligence",
+    "github": "applied-artificial-intelligence"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/applied-artificial-intelligence/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/applied-artificial-intelligence/claude-code-toolkit/main/plugins/development/skills/data-modeling-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:11:43.600Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/applied-artificial-intelligence%2Fclaude-code-toolkit/plugins%2Fdevelopment%2Fskills%2Fdata-modeling-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_cf6e9b447c2d"
+  }
+}

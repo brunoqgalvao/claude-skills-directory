@@ -1,0 +1,35 @@
+{
+  "id": "validating-code",
+  "name": "validating-code",
+  "version": "1.0.0",
+  "summary": "コードの品質をバリデーションし、エラーを検出・修正する。lint、format、デッドコード、スペル、型チェックを実行する。コード作成・編集・削除後・ユーザーにコードチェックを依頼された場合に品質基準を維持するために使用する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "harusame0616",
+    "github": "harusame0616"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/harusame0616/formawork.ai",
+    "skill_md": "https://raw.githubusercontent.com/harusame0616/formawork.ai/main/.claude/skills/validating-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.542Z",
+  "created_at": "2025-12-23T01:28:55.053Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/harusame0616%2Fformawork.ai/.claude%2Fskills%2Fvalidating-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.542Z",
+    "uniqueId": "sk_5a361d878bc2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "debug-phase",
+  "name": "debug-phase",
+  "version": "1.0.0",
+  "summary": "Systematic debugging techniques including error classification, root cause analysis (5 Whys), reproduction strategies, and error documentation. Use when debugging errors, invest...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusgoll",
+    "github": "marcusgoll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusgoll/Spec-Flow",
+    "skill_md": "https://raw.githubusercontent.com/marcusgoll/Spec-Flow/main/.claude/skills/debug-phase/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.645Z",
+  "created_at": "2025-12-22T23:04:20.137Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusgoll%2FSpec-Flow/.claude%2Fskills%2Fdebug-phase%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.645Z",
+    "uniqueId": "sk_ecf8e4e22c43"
+  }
+}

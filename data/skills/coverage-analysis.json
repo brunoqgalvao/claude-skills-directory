@@ -1,0 +1,36 @@
+{
+  "id": "coverage-analysis",
+  "name": "coverage-analysis",
+  "version": "1.0.0",
+  "summary": "Analyze test coverage, generate reports, and identify untested code. Use when improving test coverage, ensuring code quality, or preparing for production.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sgcarstrends",
+    "github": "sgcarstrends"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sgcarstrends/sgcarstrends",
+    "skill_md": "https://raw.githubusercontent.com/sgcarstrends/sgcarstrends/main/.claude/skills/coverage-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:57:46.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sgcarstrends%2Fsgcarstrends/.claude%2Fskills%2Fcoverage-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_72b7f6e485cf"
+  }
+}

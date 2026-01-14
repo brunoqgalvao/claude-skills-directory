@@ -1,0 +1,37 @@
+{
+  "id": "flutter-skill",
+  "name": "flutter-skill",
+  "version": "1.0.0",
+  "summary": "본 스킬은 Flutter 프레임워크로 앱을 개발하는 데 반드시 따라야 하는 UI/UX 디자인, 상태관리, 네트워킹, API 연동에 관한 가이드라인 제공합니다. 본 스킬은 선택적인 정보를 제공하는 것이 아니라 Flutter 앱 개발에 필수적인 지침을 제공하며 반드시 준수해야 할 사항들을 제공합니다. 개발자가 디자인, ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thruthesky",
+    "github": "thruthesky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thruthesky/flutter-skill",
+    "skill_md": "https://raw.githubusercontent.com/thruthesky/flutter-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.525Z",
+  "created_at": "2025-12-23T01:29:05.491Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thruthesky%2Fflutter-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.525Z",
+    "uniqueId": "sk_c77871b48a83"
+  }
+}

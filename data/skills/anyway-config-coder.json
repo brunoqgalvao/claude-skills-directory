@@ -1,0 +1,35 @@
+{
+  "id": "anyway-config-coder",
+  "name": "anyway-config-coder",
+  "version": "1.0.0",
+  "summary": "Implement type-safe configuration with anyway_config gem. Use when creating configuration classes, replacing ENV access, or managing application settings. Triggers on configurat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "majesticlabs-dev",
+    "github": "majesticlabs-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/majesticlabs-dev/majestic-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/majesticlabs-dev/majestic-marketplace/main/plugins/majestic-rails/skills/anyway-config-coder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T04:28:33.000Z",
+  "created_at": "2025-12-23T01:29:22.569Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/majesticlabs-dev%2Fmajestic-marketplace/plugins%2Fmajestic-rails%2Fskills%2Fanyway-config-coder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_94fadf545fcb"
+  }
+}

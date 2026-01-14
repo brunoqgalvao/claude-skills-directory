@@ -1,0 +1,35 @@
+{
+  "id": "obsidian-vault-ops",
+  "name": "obsidian-vault-ops",
+  "version": "1.0.0",
+  "summary": "Read and write Obsidian vault files, manage wiki-links, process markdown with YAML frontmatter. Use when working with vault file operations, creating notes, or managing links.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ballred",
+    "github": "ballred"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ballred/obsidian-claude-pkm",
+    "skill_md": "https://raw.githubusercontent.com/ballred/obsidian-claude-pkm/main/vault-template/.claude/skills/obsidian-vault-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T02:57:48.000Z",
+  "created_at": "2025-12-22T15:54:40.125Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ballred%2Fobsidian-claude-pkm/vault-template%2F.claude%2Fskills%2Fobsidian-vault-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_e50c6ff7f760"
+  }
+}

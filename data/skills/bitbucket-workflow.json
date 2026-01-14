@@ -1,0 +1,37 @@
+{
+  "id": "bitbucket-workflow",
+  "name": "bitbucket-workflow",
+  "version": "1.0.0",
+  "summary": "Create PRs and debug pipeline failures in Bitbucket with Carefeed conventions. Auto-extracts Jira keys from branches, generates PR descriptions, and diagnoses CI failures. Use w...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thehammer",
+    "github": "thehammer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thehammer/claude_code",
+    "skill_md": "https://raw.githubusercontent.com/thehammer/claude_code/main/skills/bitbucket-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.512Z",
+  "created_at": "2025-12-23T01:29:15.729Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thehammer%2Fclaude_code/skills%2Fbitbucket-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_43d109781618"
+  }
+}

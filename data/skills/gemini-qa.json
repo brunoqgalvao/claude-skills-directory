@@ -1,0 +1,35 @@
+{
+  "id": "gemini-qa",
+  "name": "gemini-qa",
+  "version": "1.0.0",
+  "summary": "Use Google Gemini CLI to answer questions about code, analyze files, or perform codebase exploration. Invoke this skill when the user asks to use Gemini, wants a second opinion ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FunnelEnvy",
+    "github": "FunnelEnvy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FunnelEnvy/agents_webinar_demos",
+    "skill_md": "https://raw.githubusercontent.com/FunnelEnvy/agents_webinar_demos/main/.claude/skills/gemini-qa/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.563Z",
+  "created_at": "2025-12-23T01:28:38.033Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FunnelEnvy%2Fagents_webinar_demos/.claude%2Fskills%2Fgemini-qa%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_819a89c2d6d0"
+  }
+}

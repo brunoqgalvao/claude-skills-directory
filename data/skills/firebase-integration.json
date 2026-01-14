@@ -1,0 +1,36 @@
+{
+  "id": "firebase-integration",
+  "name": "firebase-integration",
+  "version": "1.0.0",
+  "summary": "Firebase Firestore, Auth, and Cloud Functions integration for LiveMetro. Use when working with backend services, authentication, or real-time data sync.",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "k002bill2",
+    "github": "k002bill2"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/k002bill2/LiveMetro",
+    "skill_md": "https://raw.githubusercontent.com/k002bill2/LiveMetro/main/.claude/skills/firebase-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:15:54.332Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/k002bill2%2FLiveMetro/.claude%2Fskills%2Ffirebase-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_e20819b392f2"
+  }
+}

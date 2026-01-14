@@ -1,0 +1,35 @@
+{
+  "id": "verification-protocol",
+  "name": "verification-protocol",
+  "version": "1.0.0",
+  "summary": "Independent verification of task completion - eliminates self-attestation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CleanExpo",
+    "github": "CleanExpo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CleanExpo/Unite-Hub",
+    "skill_md": "https://raw.githubusercontent.com/CleanExpo/Unite-Hub/main/.claude/skills/verification-protocol/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.762Z",
+  "created_at": "2025-12-22T20:09:41.043Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CleanExpo%2FUnite-Hub/.claude%2Fskills%2Fverification-protocol%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.762Z",
+    "uniqueId": "sk_a9d3690ac08a"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "generate-ad-copy",
+  "name": "generate-ad-copy",
+  "version": "1.0.0",
+  "summary": "Generate two distinct, creative, and copyright-compliant ad copy variations based on campaign parameters and research insights. Use when creating advertising text content includ...",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feed-mob",
+    "github": "feed-mob"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feed-mob/feedmob-adpilot-mcp",
+    "skill_md": "https://raw.githubusercontent.com/feed-mob/feedmob-adpilot-mcp/main/src/plugins/generate-ad-copy/skills/generate-ad-copy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T08:25:59.000Z",
+  "created_at": "2025-12-23T01:28:49.570Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feed-mob%2Ffeedmob-adpilot-mcp/src%2Fplugins%2Fgenerate-ad-copy%2Fskills%2Fgenerate-ad-copy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_5ef613c3101e"
+  }
+}

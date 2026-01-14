@@ -1,0 +1,36 @@
+{
+  "id": "btdp-groups-api",
+  "name": "btdp-groups-api",
+  "version": "1.0.0",
+  "summary": "Expert in managing GCP Groups (Google Cloud Identity and Azure AD) via the Groups API. **Use this skill whenever the user mentions 'groups', 'group members', 'add to group', or ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smorand",
+    "github": "smorand"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smorand/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/smorand/claude-config/main/archives/skills.old/btdp-groups-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:15:56.859Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smorand%2Fclaude-config/archives%2Fskills.old%2Fbtdp-groups-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_62d6fb6bc4e0"
+  }
+}

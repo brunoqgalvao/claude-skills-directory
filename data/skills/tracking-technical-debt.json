@@ -1,0 +1,35 @@
+{
+  "id": "tracking-technical-debt",
+  "name": "tracking-technical-debt",
+  "version": "1.0.0",
+  "summary": "Use when you notice code problems while working on something else - links code markers to beads so issues don't get lost. Triggers on \"I see a problem but can't fix it now.\"",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "snits",
+    "github": "snits"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/snits/claude-files",
+    "skill_md": "https://raw.githubusercontent.com/snits/claude-files/main/skills/tracking-technical-debt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T07:05:45.000Z",
+  "created_at": "2025-12-23T01:28:56.441Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/snits%2Fclaude-files/skills%2Ftracking-technical-debt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.536Z",
+    "uniqueId": "sk_2277d1a48596"
+  }
+}

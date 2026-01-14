@@ -1,0 +1,36 @@
+{
+  "id": "docker-optimization",
+  "name": "docker-optimization",
+  "version": "1.0.0",
+  "summary": "Docker image optimization patterns including multi-stage builds, layer caching, security hardening, and size reduction techniques. Use when building Docker images, optimizing co...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "applied-artificial-intelligence",
+    "github": "applied-artificial-intelligence"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/applied-artificial-intelligence/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/applied-artificial-intelligence/claude-code-toolkit/main/skills/general-dev/docker-optimization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:21.532Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/applied-artificial-intelligence%2Fclaude-code-toolkit/skills%2Fgeneral-dev%2Fdocker-optimization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_724c59b54bd9"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "documentation-criteria",
+  "name": "documentation-criteria",
+  "version": "1.0.0",
+  "summary": "Documentation creation criteria including PRD, ADR, Design Doc, and Work Plan requirements with templates.\nUse when: creating technical documents, determining which documents ar...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shinpr",
+    "github": "shinpr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shinpr/agentic-code",
+    "skill_md": "https://raw.githubusercontent.com/shinpr/agentic-code/main/.agents/skills/documentation-criteria/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.131Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shinpr%2Fagentic-code/.agents%2Fskills%2Fdocumentation-criteria%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_455a97b9fdaf"
+  }
+}

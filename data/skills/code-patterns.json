@@ -1,0 +1,35 @@
+{
+  "id": "code-patterns",
+  "name": "code-patterns",
+  "version": "1.0.0",
+  "summary": "Universal code patterns and best practices for dx-toolkit (Bun APIs, testing, error handling, type guards)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "youdotcom-oss",
+    "github": "youdotcom-oss"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/youdotcom-oss/dx-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/youdotcom-oss/dx-toolkit/main/.claude/skills/code-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:50.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/youdotcom-oss%2Fdx-toolkit/.claude%2Fskills%2Fcode-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_927bc178adc9"
+  }
+}

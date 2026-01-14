@@ -1,0 +1,35 @@
+{
+  "id": "lesson-structure",
+  "name": "lesson-structure",
+  "version": "1.0.0",
+  "summary": "Provide lesson markdown templates for the AI-Native Robotics Textbook. Use when writing lessons, structuring educational content, or validating lesson format.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zeeshan080",
+    "github": "zeeshan080"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zeeshan080/ai-native-robotics",
+    "skill_md": "https://raw.githubusercontent.com/zeeshan080/ai-native-robotics/main/.claude/skills/lesson-structure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:52:16.844Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zeeshan080%2Fai-native-robotics/.claude%2Fskills%2Flesson-structure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_62784e1e9e23"
+  }
+}

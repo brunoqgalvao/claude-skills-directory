@@ -1,0 +1,36 @@
+{
+  "id": "proof-driven-development",
+  "name": "proof-driven-development",
+  "version": "1.0.0",
+  "summary": "Run proof-driven development using Lean 4 for formal verification - comprehensive skill handling both design (planning) and execution (verification)",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OutlineDriven",
+    "github": "OutlineDriven"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OutlineDriven/odin-claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/OutlineDriven/odin-claude-plugin/main/skills/proof-driven/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.622Z",
+  "created_at": "2025-12-22T23:18:54.595Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OutlineDriven%2Fodin-claude-plugin/skills%2Fproof-driven%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.622Z",
+    "uniqueId": "sk_b2c7c68a6e9e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "internet-light-orchestrator",
+  "name": "internet-light-orchestrator",
+  "version": "1.0.0",
+  "summary": "Orchestrate lightweight parallel internet research (2-4 dimensions). Spawns light-research-researcher workers for each subtopic dimension, coordinates findings, synthesizes fina...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ahmedibrahim085",
+    "github": "ahmedibrahim085"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ahmedibrahim085/Multi-Agent-Research-System",
+    "skill_md": "https://raw.githubusercontent.com/ahmedibrahim085/Multi-Agent-Research-System/main/.claude/skills/internet-light-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:11.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ahmedibrahim085%2FMulti-Agent-Research-System/.claude%2Fskills%2Finternet-light-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_414fd794ad4e"
+  }
+}

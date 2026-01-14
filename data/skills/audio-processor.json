@@ -1,0 +1,35 @@
+{
+  "id": "audio-processor",
+  "name": "audio-processor",
+  "version": "1.0.0",
+  "summary": "ffmpeg 기반 오디오 변환 및 처리. \"오디오 변환\", \"wav 변환\", \"샘플레이트 변경\", \"모노 변환\", \"세그먼트 분할\", \"ffmpeg\" 요청 시 활성화됩니다.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/ml/audio-processor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T03:42:44.000Z",
+  "created_at": "2025-12-22T18:10:10.098Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/ml%2Faudio-processor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.802Z",
+    "uniqueId": "sk_af0e29fbaeef"
+  }
+}

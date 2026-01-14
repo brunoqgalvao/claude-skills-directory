@@ -1,0 +1,37 @@
+{
+  "id": "cloudflare-workflows",
+  "name": "cloudflare-workflows",
+  "version": "1.0.0",
+  "summary": "Build durable workflows with Cloudflare Workflows (GA April 2025). Features step.do, step.sleep, waitForEvent,\nVitest testing, and runs for hours to days with automatic retries ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jezweb",
+    "github": "jezweb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jezweb/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jezweb/claude-skills/main/skills/cloudflare-workflows/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.629Z",
+  "created_at": "2025-12-22T23:14:41.610Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jezweb%2Fclaude-skills/skills%2Fcloudflare-workflows%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.629Z",
+    "uniqueId": "sk_869d03336908"
+  }
+}

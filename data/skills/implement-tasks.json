@@ -1,0 +1,35 @@
+{
+  "id": "implement-tasks",
+  "name": "implement-tasks",
+  "version": "1.0.0",
+  "summary": "Implement tasks from tasks.md using multi-agent orchestration. Use when ready to implement a spec's tasks, supports both single-agent and multi-agent modes via Task tool.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "korallis",
+    "github": "korallis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/korallis/Amp-OS",
+    "skill_md": "https://raw.githubusercontent.com/korallis/Amp-OS/main/profiles/default/skills/implement-tasks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:17.724Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/korallis%2FAmp-OS/profiles%2Fdefault%2Fskills%2Fimplement-tasks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_8136868d286b"
+  }
+}

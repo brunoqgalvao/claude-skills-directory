@@ -1,0 +1,36 @@
+{
+  "id": "preferences",
+  "name": "preferences",
+  "version": "1.0.0",
+  "summary": "Use when aligning with Georgios’s default Git/GitHub conventions—cloning with gh, Conventional Commits, atomic staging, and guarded GitHub Actions for Rust/Python/TypeScript—so ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gakonst",
+    "github": "gakonst"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gakonst/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/gakonst/dotfiles/main/.codex/skills/preferences/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T02:48:32.000Z",
+  "created_at": "2025-12-22T17:03:39.885Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gakonst%2Fdotfiles/.codex%2Fskills%2Fpreferences%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_285cf92db68e"
+  }
+}

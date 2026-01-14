@@ -1,0 +1,37 @@
+{
+  "id": "chatkit-server-implementation",
+  "name": "chatkit-server-implementation",
+  "version": "1.0.0",
+  "summary": "This skill should be used when building ChatKit-based AI assistant servers with the OpenAI Agents SDK. It provides guidance for implementing SSE streaming, thread persistence, c...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Rehan-Ul-Haq",
+    "github": "Rehan-Ul-Haq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Rehan-Ul-Haq/physical-ai-robotics",
+    "skill_md": "https://raw.githubusercontent.com/Rehan-Ul-Haq/physical-ai-robotics/main/.claude/skills/chatkit-server-implementation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.671Z",
+  "created_at": "2025-12-22T22:16:02.571Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Rehan-Ul-Haq%2Fphysical-ai-robotics/.claude%2Fskills%2Fchatkit-server-implementation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.671Z",
+    "uniqueId": "sk_1f1cc02930ea"
+  }
+}

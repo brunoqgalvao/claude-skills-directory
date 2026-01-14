@@ -1,0 +1,37 @@
+{
+  "id": "privacy-compliance",
+  "name": "privacy-compliance",
+  "version": "1.0.0",
+  "summary": "GDPR, CCPA, and privacy compliance guidance for data protection. Use when handling personal data, implementing consent management, or ensuring regulatory compliance across juris...",
+  "verticals": [
+    "legal",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jpoutrin",
+    "github": "jpoutrin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jpoutrin/product-forge",
+    "skill_md": "https://raw.githubusercontent.com/jpoutrin/product-forge/main/plugins/security-compliance/skills/privacy-compliance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:15.516Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jpoutrin%2Fproduct-forge/plugins%2Fsecurity-compliance%2Fskills%2Fprivacy-compliance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_30f5fb7cb4e1"
+  }
+}

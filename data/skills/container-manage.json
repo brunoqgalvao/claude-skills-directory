@@ -1,0 +1,37 @@
+{
+  "id": "container-manage",
+  "name": "container-manage",
+  "version": "1.0.0",
+  "summary": "Container management skill for development and operations containers. Use this when managing system resources, processes, services, environment configuration, Docker containers,...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hsudatalks",
+    "github": "hsudatalks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hsudatalks/univers-container",
+    "skill_md": "https://raw.githubusercontent.com/hsudatalks/univers-container/main/.claude/skills/container-manage/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:02:22.677Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hsudatalks%2Funivers-container/.claude%2Fskills%2Fcontainer-manage%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_dbb5fea4a03e"
+  }
+}

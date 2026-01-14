@@ -1,0 +1,35 @@
+{
+  "id": "websearch-deep",
+  "name": "websearch-deep",
+  "version": "1.0.0",
+  "summary": "ChatGPT-style deep research strategy with problem decomposition, multi-query generation (3-5 variations per sub-question), evidence synthesis with source ranking, numbered citat...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thomasholknielsen",
+    "github": "thomasholknielsen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thomasholknielsen/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/thomasholknielsen/claude-code-config/main/skills/websearch-deep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.590Z",
+  "created_at": "2025-12-23T00:25:16.098Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thomasholknielsen%2Fclaude-code-config/skills%2Fwebsearch-deep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.590Z",
+    "uniqueId": "sk_ea9bf4ad406b"
+  }
+}

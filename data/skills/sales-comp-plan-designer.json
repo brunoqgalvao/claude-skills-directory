@@ -1,0 +1,36 @@
+{
+  "id": "sales-comp-plan-designer",
+  "name": "sales-comp-plan-designer",
+  "version": "1.0.0",
+  "summary": "Base/variable split recommendations, accelerators, decelerators, quota retirement methods, SPIFs, cost of sales tracking.",
+  "verticals": [
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OneWave-AI",
+    "github": "OneWave-AI"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OneWave-AI/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/OneWave-AI/claude-skills/main/sales-comp-plan-designer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-22T15:47:55.000Z",
+  "created_at": "2025-12-22T14:57:07.644Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OneWave-AI%2Fclaude-skills/sales-comp-plan-designer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_4f5b5e4cd473"
+  }
+}

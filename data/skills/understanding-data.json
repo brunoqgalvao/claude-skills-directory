@@ -1,0 +1,35 @@
+{
+  "id": "understanding-data",
+  "name": "understanding-data",
+  "version": "1.0.0",
+  "summary": "Component skill for systematic data profiling and exploration in DataPeeker analysis sessions",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "seanedwards",
+    "github": "seanedwards"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/seanedwards/datapeeker",
+    "skill_md": "https://raw.githubusercontent.com/seanedwards/datapeeker/main/.claude/skills/understanding-data/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.491Z",
+  "created_at": "2025-12-23T01:29:33.243Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/seanedwards%2Fdatapeeker/.claude%2Fskills%2Funderstanding-data%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.491Z",
+    "uniqueId": "sk_3adb6a7bdbb0"
+  }
+}

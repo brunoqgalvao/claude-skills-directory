@@ -1,0 +1,35 @@
+{
+  "id": "ripgrep",
+  "name": "ripgrep",
+  "version": "1.0.0",
+  "summary": "Efficient text search using ripgrep (rg) with one-shot patterns that minimize iterations by getting files, line numbers, and context in a single call",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xdg",
+    "github": "xdg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xdg/xdg-claude",
+    "skill_md": "https://raw.githubusercontent.com/xdg/xdg-claude/main/context-efficient-tools/skills/ripgrep/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:42.479Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xdg%2Fxdg-claude/context-efficient-tools%2Fskills%2Fripgrep%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_279644e24105"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "edge-function-cors-hardener",
+  "name": "edge-function-cors-hardener",
+  "version": "1.0.0",
+  "summary": "Implementa CORS restrictivo en Edge Functions de Supabase. Usa cuando veas Access-Control-Allow-Origin con *, seguridad de CORS, o tarea 2.2 del PLAN_MEJORAS.md.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sanchezx1",
+    "github": "sanchezx1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sanchezx1/v0-fullcolor-cotizador",
+    "skill_md": "https://raw.githubusercontent.com/sanchezx1/v0-fullcolor-cotizador/main/.claude/skills/edge-function-cors-hardener/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.857Z",
+  "created_at": "2025-12-22T15:12:43.193Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sanchezx1%2Fv0-fullcolor-cotizador/.claude%2Fskills%2Fedge-function-cors-hardener%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_5cb8a2432a78"
+  }
+}

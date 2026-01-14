@@ -1,0 +1,35 @@
+{
+  "id": "review-spec",
+  "name": "review-spec",
+  "version": "1.0.0",
+  "summary": "Review specifications for soundness, completeness, and implementability - validates structure, identifies ambiguities, checks for gaps before implementation",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rhuss",
+    "github": "rhuss"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rhuss/cc-superpowers-sdd",
+    "skill_md": "https://raw.githubusercontent.com/rhuss/cc-superpowers-sdd/main/skills/review-spec/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.742Z",
+  "created_at": "2025-12-22T21:10:33.624Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rhuss%2Fcc-superpowers-sdd/skills%2Freview-spec%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.742Z",
+    "uniqueId": "sk_7971a9b06ae1"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "multi-ai-code-review",
+  "name": "multi-ai-code-review",
+  "version": "1.0.0",
+  "summary": "멀티 AI 코드 리뷰 오케스트레이터. Claude, Codex, Gemini, Droid를 조율하여 종합적 코드 리뷰 수행. \"멀티 AI 리뷰\", \"코드 리뷰\", \"종합 리뷰\" 요청 시 활성화됩니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/development/multi-ai-code-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:04:13.143Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/development%2Fmulti-ai-code-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_16b7ba60cc05"
+  }
+}

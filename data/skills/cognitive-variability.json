@@ -1,0 +1,37 @@
+{
+  "id": "cognitive-variability",
+  "name": "cognitive-variability",
+  "version": "1.0.0",
+  "summary": "Guide conversations through dynamic shifts between zoom levels (scale) and connecting/exploring (intent) to unlock creative breakthroughs and prevent rigid thinking. Use when th...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "agentgptsmith",
+    "github": "agentgptsmith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/agentgptsmith/MonadFramework",
+    "skill_md": "https://raw.githubusercontent.com/agentgptsmith/MonadFramework/main/.claude/skills/cognitive-variability/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.455Z",
+  "created_at": "2025-12-23T00:19:29.367Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/agentgptsmith%2FMonadFramework/.claude%2Fskills%2Fcognitive-variability%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.455Z",
+    "uniqueId": "sk_9034775f69ae"
+  }
+}

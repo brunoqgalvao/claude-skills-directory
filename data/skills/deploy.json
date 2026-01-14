@@ -1,37 +1,36 @@
 {
   "id": "deploy",
-  "name": "Deploy",
+  "name": "deploy",
   "version": "1.0.0",
-  "summary": "# Deployment Checklist Skill",
+  "summary": "Safe deployment workflow for Fly.io and infrastructure changes. Use before ANY deployment, config modification, or infrastructure change. Prevents panic-driven debugging and pro...",
   "verticals": [
-    "Engineering",
-    "Data"
+    "engineering",
+    "operations"
   ],
-  "tags": [
-    "deploy"
-  ],
+  "tags": [],
   "author": {
-    "name": "WellFitCommunity",
-    "github": "WellFitCommunity",
-    "avatar": "https://avatars.githubusercontent.com/u/207092865?v=4"
+    "name": "mmbianco78",
+    "github": "mmbianco78"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/WellFitCommunity/WellFit-Community-Daily-Complete/tree/main/.claude/skills/deploy/skill.md",
-    "skill_md": "https://raw.githubusercontent.com/WellFitCommunity/WellFit-Community-Daily-Complete/main/.claude/skills/deploy/skill.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install deploy"
+    "repo": "https://github.com/mmbianco78/signalroom",
+    "skill_md": "https://raw.githubusercontent.com/mmbianco78/signalroom/main/.claude/skills/deploy/SKILL.md"
   },
   "stats": {
-    "stars": 1,
+    "stars": 0,
     "forks": 0,
     "installs": 0
   },
-  "last_updated": "2026-01-04",
-  "created_at": "2025-04-17"
+  "last_updated": "2026-01-07T16:59:54.866Z",
+  "created_at": "2025-12-22T15:04:59.163Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mmbianco78%2Fsignalroom/.claude%2Fskills%2Fdeploy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.866Z",
+    "uniqueId": "sk_1e3f13f10860"
+  }
 }

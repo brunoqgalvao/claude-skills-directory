@@ -1,0 +1,35 @@
+{
+  "id": "xtconnect-pi",
+  "name": "xtconnect-pi",
+  "version": "1.0.0",
+  "summary": "Debug and manage XTConnect Raspberry Pi nodes with connection tracking, serial port debugging,\nand master image verification.\nUse when asked about: xtconnect, raspberry pi, pi n...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maxxentropy",
+    "github": "maxxentropy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maxxentropy/claude-tools",
+    "skill_md": "https://raw.githubusercontent.com/maxxentropy/claude-tools/main/skills/xtconnect-pi/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.674Z",
+  "created_at": "2025-12-22T22:15:07.247Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maxxentropy%2Fclaude-tools/skills%2Fxtconnect-pi%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.674Z",
+    "uniqueId": "sk_bd9210de94dc"
+  }
+}

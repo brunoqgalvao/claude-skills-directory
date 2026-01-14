@@ -1,0 +1,35 @@
+{
+  "id": "rulebook-task-management",
+  "name": "rulebook-task-management",
+  "version": "1.0.0",
+  "summary": "Spec-driven task management for features and breaking changes using OpenSpec format. Use when creating new features, planning breaking changes, organizing development work, or m...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hivellm",
+    "github": "hivellm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hivellm/rulebook",
+    "skill_md": "https://raw.githubusercontent.com/hivellm/rulebook/main/skills/rulebook-task-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T19:48:02.000Z",
+  "created_at": "2025-12-22T15:07:14.418Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hivellm%2Frulebook/skills%2Frulebook-task-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_47110893edcb"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "databento",
+  "name": "databento",
+  "version": "1.0.0",
+  "summary": "Use when working with ES/NQ futures market data, before calling any Databento API - follow mandatory four-step workflow (cost check, availability check, fetch, validate); preven...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nice-Wolf-Studio",
+    "github": "Nice-Wolf-Studio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nice-Wolf-Studio/wolf-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/Nice-Wolf-Studio/wolf-skills-marketplace/main/databento/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.697Z",
+  "created_at": "2025-12-22T22:01:30.387Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nice-Wolf-Studio%2Fwolf-skills-marketplace/databento%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.697Z",
+    "uniqueId": "sk_95c859230b61"
+  }
+}

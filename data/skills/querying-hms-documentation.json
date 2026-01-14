@@ -1,0 +1,37 @@
+{
+  "id": "querying-hms-documentation",
+  "name": "querying-hms-documentation",
+  "version": "1.0.0",
+  "summary": "Queries official HEC-HMS documentation to answer technical questions. Provides access to\nUser's Manual, Technical Reference Manual, Release Notes, and community resources.\nUse w...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gpt-cmdr",
+    "github": "gpt-cmdr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gpt-cmdr/hms-commander",
+    "skill_md": "https://raw.githubusercontent.com/gpt-cmdr/hms-commander/main/.claude/skills/querying-hms-documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.759Z",
+  "created_at": "2025-12-22T20:12:15.651Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gpt-cmdr%2Fhms-commander/.claude%2Fskills%2Fquerying-hms-documentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.759Z",
+    "uniqueId": "sk_69f313ad8f30"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rust-core-patterns",
+  "name": "rust-core-patterns",
+  "version": "1.0.0",
+  "summary": "Production-ready Rust patterns for type-safe domain modeling including newtypes, type states, builders, smart constructors, and const generics. Use when creating domain primitiv...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "matthewharwood",
+    "github": "matthewharwood"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/matthewharwood/engmanager.xyz",
+    "skill_md": "https://raw.githubusercontent.com/matthewharwood/engmanager.xyz/main/.claude/skills/rust-core-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:56:54.241Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/matthewharwood%2Fengmanager.xyz/.claude%2Fskills%2Frust-core-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_72ca3a12f1f1"
+  }
+}

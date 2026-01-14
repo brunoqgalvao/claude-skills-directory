@@ -1,0 +1,36 @@
+{
+  "id": "github-issue-processing",
+  "name": "github-issue-processing",
+  "version": "1.0.0",
+  "summary": "Extract actionable information from GitHub issues including requirements, acceptance criteria, and technical constraints. Use when analyzing GitHub issues or preparing them for ...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "L-Sypniewski",
+    "github": "L-Sypniewski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/L-Sypniewski/claude-code-toolkit",
+    "skill_md": "https://raw.githubusercontent.com/L-Sypniewski/claude-code-toolkit/main/plugins/context-engineering/skills/github-issue-processing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T16:55:46.000Z",
+  "created_at": "2025-12-22T15:10:51.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/L-Sypniewski%2Fclaude-code-toolkit/plugins%2Fcontext-engineering%2Fskills%2Fgithub-issue-processing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.858Z",
+    "uniqueId": "sk_b1ac70d0a31b"
+  }
+}

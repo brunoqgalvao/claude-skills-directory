@@ -1,0 +1,35 @@
+{
+  "id": "board-manager",
+  "name": "board-manager",
+  "version": "1.0.0",
+  "summary": "Manage GitHub Project board items - add issues, update status, move between columns. Use when user asks to add issues to board, change status, or organize the project.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rollercoaster-dev",
+    "github": "rollercoaster-dev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rollercoaster-dev/monorepo",
+    "skill_md": "https://raw.githubusercontent.com/rollercoaster-dev/monorepo/main/.claude/skills/board-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T19:44:13.000Z",
+  "created_at": "2025-12-22T16:52:45.219Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rollercoaster-dev%2Fmonorepo/.claude%2Fskills%2Fboard-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_14c683ffc87d"
+  }
+}

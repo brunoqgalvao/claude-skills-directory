@@ -1,0 +1,35 @@
+{
+  "id": "ssh-vault",
+  "name": "ssh-vault",
+  "version": "1.0.0",
+  "summary": "SSH key lifecycle management. Create, deploy, rotate, and revoke SSH keys with full tracking.\nUse when asked about: ssh keys, manage ssh, create ssh key, deploy key, ssh config,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maxxentropy",
+    "github": "maxxentropy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maxxentropy/claude-tools",
+    "skill_md": "https://raw.githubusercontent.com/maxxentropy/claude-tools/main/skills/ssh-vault/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.771Z",
+  "created_at": "2025-12-22T20:01:13.897Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maxxentropy%2Fclaude-tools/skills%2Fssh-vault%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.771Z",
+    "uniqueId": "sk_3d7a9d88e013"
+  }
+}

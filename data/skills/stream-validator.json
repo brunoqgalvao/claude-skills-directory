@@ -1,0 +1,36 @@
+{
+  "id": "stream-validator",
+  "name": "stream-validator",
+  "version": "1.0.0",
+  "summary": "Validate WebSocket and HTTP stream health for WaveCap-SDR channels. Use when debugging streaming issues, measuring latency or throughput, detecting packet loss, or verifying aud...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TobiasWooldridge",
+    "github": "TobiasWooldridge"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TobiasWooldridge/WaveCap-SDR",
+    "skill_md": "https://raw.githubusercontent.com/TobiasWooldridge/WaveCap-SDR/main/.claude/skills/stream-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.788Z",
+  "created_at": "2025-12-22T19:02:47.286Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TobiasWooldridge%2FWaveCap-SDR/.claude%2Fskills%2Fstream-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.788Z",
+    "uniqueId": "sk_4951979b9f14"
+  }
+}

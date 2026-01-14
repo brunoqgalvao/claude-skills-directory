@@ -1,0 +1,36 @@
+{
+  "id": "ieee-pes-paper-reviewer",
+  "name": "ieee-pes-paper-reviewer",
+  "version": "1.0.0",
+  "summary": "Comprehensive IEEE PES paper review for Physics-Guided SSL GNN power grid research. Use when reviewing paper sections, checking claims against evidence, validating physics consi...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mhdhazmi",
+    "github": "mhdhazmi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mhdhazmi/GNNPowerSystem",
+    "skill_md": "https://raw.githubusercontent.com/mhdhazmi/GNNPowerSystem/main/skills/paper-review-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.545Z",
+  "created_at": "2025-12-23T01:28:53.091Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mhdhazmi%2FGNNPowerSystem/skills%2Fpaper-review-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.545Z",
+    "uniqueId": "sk_ad6865c1c70e"
+  }
+}

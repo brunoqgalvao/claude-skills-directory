@@ -1,0 +1,35 @@
+{
+  "id": "neovim-expert",
+  "name": "neovim-expert",
+  "version": "1.0.0",
+  "summary": "Expert Neovim/Lua configuration assistant for NOE.ED (LazyVim-based setup). Covers plugin configuration, LSP setup, keymaps, Mason, TreeSitter, and troubleshooting. Trigger with...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "edheltzel",
+    "github": "edheltzel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/edheltzel/neoed",
+    "skill_md": "https://raw.githubusercontent.com/edheltzel/neoed/main/.claude/skills/neovim-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:30.145Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/edheltzel%2Fneoed/.claude%2Fskills%2Fneovim-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_4c7ffb491b4d"
+  }
+}

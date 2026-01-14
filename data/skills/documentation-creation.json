@@ -1,0 +1,36 @@
+{
+  "id": "documentation-creation",
+  "name": "documentation-creation",
+  "version": "1.0.0",
+  "summary": "Create architectural decision records (ADRs), system documentation, API documentation, and operational runbooks. Use when capturing design decisions, documenting system architec...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rsmdt",
+    "github": "rsmdt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rsmdt/the-startup",
+    "skill_md": "https://raw.githubusercontent.com/rsmdt/the-startup/main/plugins/team/skills/development/documentation-creation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.796Z",
+  "created_at": "2025-12-22T18:16:39.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rsmdt%2Fthe-startup/plugins%2Fteam%2Fskills%2Fdevelopment%2Fdocumentation-creation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.796Z",
+    "uniqueId": "sk_fcdfca15176f"
+  }
+}

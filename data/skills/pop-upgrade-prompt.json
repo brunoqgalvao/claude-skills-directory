@@ -1,0 +1,35 @@
+{
+  "id": "pop-upgrade-prompt",
+  "name": "pop-upgrade-prompt",
+  "version": "1.0.0",
+  "summary": "Shows a graceful upgrade prompt when a user attempts to use a premium feature without the required tier. Uses AskUserQuestion for interactive selection. Do NOT use directly - th...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jrc1883",
+    "github": "jrc1883"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jrc1883/popkit-claude",
+    "skill_md": "https://raw.githubusercontent.com/jrc1883/popkit-claude/main/skills/pop-upgrade-prompt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T15:25:07.000Z",
+  "created_at": "2025-12-23T01:28:45.512Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jrc1883%2Fpopkit-claude/skills%2Fpop-upgrade-prompt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_fa01eccaf3b0"
+  }
+}

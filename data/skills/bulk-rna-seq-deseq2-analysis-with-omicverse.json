@@ -1,0 +1,36 @@
+{
+  "id": "bulk-rna-seq-deseq2-analysis-with-omicverse",
+  "name": "bulk-rna-seq-deseq2-analysis-with-omicverse",
+  "version": "1.0.0",
+  "summary": "Walk Claude through PyDESeq2-based differential expression, including ID mapping, DE testing, fold-change thresholding, and enrichment visualisation.",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Starlitnightly",
+    "github": "Starlitnightly"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Starlitnightly/omicverse",
+    "skill_md": "https://raw.githubusercontent.com/Starlitnightly/omicverse/main/.claude/skills/bulk-deseq2-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:52:04.155Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Starlitnightly%2Fomicverse/.claude%2Fskills%2Fbulk-deseq2-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_cd4ea821a78e"
+  }
+}

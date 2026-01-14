@@ -1,0 +1,37 @@
+{
+  "id": "docker-mcp",
+  "name": "docker-mcp",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for Docker MCP Toolkit Dynamic Tools - discover and use ~170 MCP servers on-demand. Use when working with MCP servers, dynamic tools, database access, APIs, ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "GGPrompts",
+    "github": "GGPrompts"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/GGPrompts/my-gg-plugins",
+    "skill_md": "https://raw.githubusercontent.com/GGPrompts/my-gg-plugins/main/plugins/docker-mcp/skills/docker-mcp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.752Z",
+  "created_at": "2025-12-22T20:58:32.738Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/GGPrompts%2Fmy-gg-plugins/plugins%2Fdocker-mcp%2Fskills%2Fdocker-mcp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.752Z",
+    "uniqueId": "sk_75d29962c6a8"
+  }
+}

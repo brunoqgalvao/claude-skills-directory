@@ -1,0 +1,35 @@
+{
+  "id": "scatter-chart",
+  "name": "scatter-chart",
+  "version": "1.0.0",
+  "summary": "Configure scatter plots in drizzle-cube dashboards for correlation and distribution analysis. Use when creating scatter plots, correlation charts, or distribution visualizations.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cliftonc",
+    "github": "cliftonc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cliftonc/drizzle-cube-skills",
+    "skill_md": "https://raw.githubusercontent.com/cliftonc/drizzle-cube-skills/main/charts/scatter-chart/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T04:28:30.000Z",
+  "created_at": "2025-12-22T15:52:26.578Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cliftonc%2Fdrizzle-cube-skills/charts%2Fscatter-chart%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_b86990867a6e"
+  }
+}

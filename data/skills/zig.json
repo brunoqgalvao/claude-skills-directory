@@ -1,0 +1,36 @@
+{
+  "id": "zig",
+  "name": "zig",
+  "version": "1.0.0",
+  "summary": "Zig development runbook; use when working with zig/ziglang, .zig files, build.zig/build.zig.zon, zig build/zig test, comptime, allocators, @typeInfo/@compileError, or Zig builds...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tkersey",
+    "github": "tkersey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tkersey/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/tkersey/dotfiles/main/codex/skills/zig/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:43.770Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tkersey%2Fdotfiles/codex%2Fskills%2Fzig%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_3d54544692ef"
+  }
+}

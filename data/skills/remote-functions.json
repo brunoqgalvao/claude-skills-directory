@@ -1,0 +1,36 @@
+{
+  "id": "remote-functions",
+  "name": "remote-functions",
+  "version": "1.0.0",
+  "summary": "Use when building, auditing, or reviewing SvelteKit remote functions for validation, batching, and optimistic UI patterns",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "spences10",
+    "github": "spences10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/spences10/scottspence.com",
+    "skill_md": "https://raw.githubusercontent.com/spences10/scottspence.com/main/.claude/skills/remote-functions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T09:10:25.000Z",
+  "created_at": "2025-12-22T15:53:01.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/spences10%2Fscottspence.com/.claude%2Fskills%2Fremote-functions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_e0a7a9bffbfb"
+  }
+}

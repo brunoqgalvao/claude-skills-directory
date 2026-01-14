@@ -1,0 +1,35 @@
+{
+  "id": "openai-agent-sdk",
+  "name": "openai-agent-sdk",
+  "version": "1.0.0",
+  "summary": "A subagent specialized in creating and managing OpenAI Agents SDK applications, including multi-agent workflows, tools, handoffs, and real-time voice capabilities",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "abdul-ahad-26",
+    "github": "abdul-ahad-26"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/abdul-ahad-26/physical-ai-and-humanoid-robotics",
+    "skill_md": "https://raw.githubusercontent.com/abdul-ahad-26/physical-ai-and-humanoid-robotics/main/.claude/skills/openai-agent-sdk/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T18:16:19.000Z",
+  "created_at": "2025-12-22T16:29:04.127Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/abdul-ahad-26%2Fphysical-ai-and-humanoid-robotics/.claude%2Fskills%2Fopenai-agent-sdk%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.839Z",
+    "uniqueId": "sk_d660da04cf10"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "zig-expert",
+  "name": "zig-expert",
+  "version": "1.0.0",
+  "summary": "Comprehensive Zig 0.15.2 development expert. Use when writing Zig code, debugging memory issues, designing build systems, implementing comptime metaprogramming, handling errors,...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lammesen",
+    "github": "lammesen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lammesen/skills",
+    "skill_md": "https://raw.githubusercontent.com/lammesen/skills/main/.claude/skills/zig-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.678Z",
+  "created_at": "2025-12-22T22:12:09.618Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lammesen%2Fskills/.claude%2Fskills%2Fzig-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.678Z",
+    "uniqueId": "sk_a2a7781bfc2a"
+  }
+}

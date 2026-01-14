@@ -1,0 +1,36 @@
+{
+  "id": "supabase-db",
+  "name": "supabase-db",
+  "version": "1.0.0",
+  "summary": "PostgreSQL conventions overview for Supabase projects. Use when: (1) Need overview of database design principles, (2) Understanding tight-fit design philosophy, (3) Quick refere...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ninyawee",
+    "github": "ninyawee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ninyawee/armed-claude",
+    "skill_md": "https://raw.githubusercontent.com/ninyawee/armed-claude/main/skills/supabase-db/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:11.729Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ninyawee%2Farmed-claude/skills%2Fsupabase-db%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_072bf9149591"
+  }
+}

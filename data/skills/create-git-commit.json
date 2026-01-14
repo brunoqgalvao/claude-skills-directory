@@ -1,0 +1,36 @@
+{
+  "id": "create-git-commit",
+  "name": "create-git-commit",
+  "version": "1.0.0",
+  "summary": "Use when creating git commits - mandates commits format with required scopes for all new commits, provides scope discovery from codebase structure, and prevents rationalization ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WesleyMFrederick",
+    "github": "WesleyMFrederick"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WesleyMFrederick/cc-workflows",
+    "skill_md": "https://raw.githubusercontent.com/WesleyMFrederick/cc-workflows/main/.claude/skills/create-git-commit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:01.729Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WesleyMFrederick%2Fcc-workflows/.claude%2Fskills%2Fcreate-git-commit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_2833d37b3715"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "newsletter-events-write",
+  "name": "newsletter-events-write",
+  "version": "1.0.0",
+  "summary": "Generate markdown newsletters from stored events. Use when the user wants to create, write, or generate a newsletter from scraped events.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aniketpanjwani",
+    "github": "aniketpanjwani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aniketpanjwani/local_media_tools",
+    "skill_md": "https://raw.githubusercontent.com/aniketpanjwani/local_media_tools/main/skills/newsletter-events-write/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T02:00:00.000Z",
+  "created_at": "2025-12-23T01:28:59.381Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aniketpanjwani%2Flocal_media_tools/skills%2Fnewsletter-events-write%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_fb689412bb57"
+  }
+}

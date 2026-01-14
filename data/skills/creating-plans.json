@@ -1,0 +1,36 @@
+{
+  "id": "creating-plans",
+  "name": "creating-plans",
+  "version": "1.0.0",
+  "summary": "Use when design is complete and you need detailed implementation tasks for engineers with zero codebase context - creates comprehensive implementation plans with exact file path...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "richardgill",
+    "github": "richardgill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/richardgill/nix",
+    "skill_md": "https://raw.githubusercontent.com/richardgill/nix/main/modules/home-manager/dot-files/ai-agents/claude/skills/creating-plans/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T13:40:45.000Z",
+  "created_at": "2025-12-22T15:54:43.171Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/richardgill%2Fnix/modules%2Fhome-manager%2Fdot-files%2Fai-agents%2Fclaude%2Fskills%2Fcreating-plans%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_e65083658851"
+  }
+}

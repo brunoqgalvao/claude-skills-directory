@@ -1,0 +1,35 @@
+{
+  "id": "docker-ops",
+  "name": "docker-ops",
+  "version": "1.0.0",
+  "summary": "Obsidian LiveSync の Docker Compose 環境を操作・トラブルシューティングします。compose.yaml の構成理解、環境変数（.env）の設定、CouchDB と livesync-proxy のヘルスチェック、バックアップサービスの実行、ログ確認とデバッグを行います。Docker 環境の起動・停止、コンテナの状態確認...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ystk-kai",
+    "github": "ystk-kai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ystk-kai/obsidian-sync",
+    "skill_md": "https://raw.githubusercontent.com/ystk-kai/obsidian-sync/main/.claude/skills/docker-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:53:58.702Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ystk-kai%2Fobsidian-sync/.claude%2Fskills%2Fdocker-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_18c2b50ae4ee"
+  }
+}

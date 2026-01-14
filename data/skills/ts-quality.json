@@ -1,0 +1,35 @@
+{
+  "id": "ts-quality",
+  "name": "ts-quality",
+  "version": "1.0.0",
+  "summary": "Enforce TypeScript quality standards immediately after writing or modifying .ts/.tsx files. Run type checking and linting on each changed file for instant feedback. Use after cr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cliftonc",
+    "github": "cliftonc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cliftonc/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/cliftonc/claude-plugins/main/plugins/ts-quality/skills/ts-quality/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:17:13.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cliftonc%2Fclaude-plugins/plugins%2Fts-quality%2Fskills%2Fts-quality%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_53486283ee43"
+  }
+}

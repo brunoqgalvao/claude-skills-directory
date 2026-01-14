@@ -1,0 +1,36 @@
+{
+  "id": "adding-nango-provider-support",
+  "name": "adding-nango-provider-support",
+  "version": "1.0.0",
+  "summary": "Use when adding support for a new Nango provider - configures provider in providers.yaml, creates documentation (main page, setup guide, connect guide), and updates docs.json fo...",
+  "verticals": [
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NangoHQ",
+    "github": "NangoHQ"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NangoHQ/ai-ide-prompts",
+    "skill_md": "https://raw.githubusercontent.com/NangoHQ/ai-ide-prompts/main/.claude/skills/adding-nango-provider-support/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.594Z",
+  "created_at": "2025-12-23T00:21:52.386Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NangoHQ%2Fai-ide-prompts/.claude%2Fskills%2Fadding-nango-provider-support%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.594Z",
+    "uniqueId": "sk_2a4388d57463"
+  }
+}

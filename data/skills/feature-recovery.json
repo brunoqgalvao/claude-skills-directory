@@ -1,0 +1,35 @@
+{
+  "id": "feature-recovery",
+  "name": "feature-recovery",
+  "version": "1.0.0",
+  "summary": "Analyze implementation failures and generate recovery plans. Use when an issue fails and needs diagnosis for retry or escalation.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pcortes",
+    "github": "pcortes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pcortes/swarm-attack",
+    "skill_md": "https://raw.githubusercontent.com/pcortes/swarm-attack/main/.claude/skills/recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T20:10:51.000Z",
+  "created_at": "2025-12-23T01:29:02.629Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pcortes%2Fswarm-attack/.claude%2Fskills%2Frecovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_045033a7583b"
+  }
+}

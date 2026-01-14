@@ -1,0 +1,35 @@
+{
+  "id": "nuxt-composables",
+  "name": "nuxt-composables",
+  "version": "1.0.0",
+  "summary": "Vue composables for reusable stateful logic. Use when understanding core composables (useWait, useFlash, useReactiveFilters, usePermissions), creating custom composables, or man...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-nuxt",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-nuxt/main/skills/nuxt-composables/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.873Z",
+  "created_at": "2025-12-22T15:04:13.063Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-nuxt/skills%2Fnuxt-composables%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.873Z",
+    "uniqueId": "sk_d64d03d9897e"
+  }
+}

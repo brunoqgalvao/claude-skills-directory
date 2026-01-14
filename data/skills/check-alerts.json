@@ -1,0 +1,35 @@
+{
+  "id": "check-alerts",
+  "name": "check-alerts",
+  "version": "1.0.0",
+  "summary": "Check currently firing Grafana alerts, analyze alert status, and investigate alert issues in the Kagenti platform",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "redhat-et",
+    "github": "redhat-et"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/redhat-et/kagenti-demo-deployment",
+    "skill_md": "https://raw.githubusercontent.com/redhat-et/kagenti-demo-deployment/main/.claude/skills/check-alerts/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.817Z",
+  "created_at": "2025-12-22T17:11:32.568Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/redhat-et%2Fkagenti-demo-deployment/.claude%2Fskills%2Fcheck-alerts%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.817Z",
+    "uniqueId": "sk_3b73b192214a"
+  }
+}

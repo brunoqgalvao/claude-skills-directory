@@ -1,0 +1,36 @@
+{
+  "id": "tooling-setup",
+  "name": "tooling-setup",
+  "version": "1.0.0",
+  "summary": "Configure Vite, TypeScript, Biome, and Vitest for React 19 projects. Covers build configuration, strict TypeScript setup, linting/formatting, and testing infrastructure. Use whe...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claude-code/main/plugins/frontend/skills/tooling-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:08:19.747Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaude-code/plugins%2Ffrontend%2Fskills%2Ftooling-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_b6033be7acd9"
+  }
+}

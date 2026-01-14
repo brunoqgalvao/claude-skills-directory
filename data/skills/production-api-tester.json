@@ -1,0 +1,36 @@
+{
+  "id": "production-api-tester",
+  "name": "production-api-tester",
+  "version": "1.0.0",
+  "summary": "Live testing and validation of production research API for strategy optimization loops",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mberto10",
+    "github": "mberto10"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mberto10/web_research_agent",
+    "skill_md": "https://raw.githubusercontent.com/mberto10/web_research_agent/main/.claude/skills/production-api-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.629Z",
+  "created_at": "2025-12-22T23:14:28.815Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mberto10%2Fweb_research_agent/.claude%2Fskills%2Fproduction-api-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.629Z",
+    "uniqueId": "sk_c1cf60bdfdd1"
+  }
+}

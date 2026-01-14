@@ -1,0 +1,35 @@
+{
+  "id": "pr-context-retriever",
+  "name": "pr-context-retriever",
+  "version": "1.0.0",
+  "summary": "Specialized GitHub PR intelligence agent for automatically gathering comprehensive context from Pull Requests. Activate when users need CI failure analysis, review comment inves...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "code-yeongyu",
+    "github": "code-yeongyu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/code-yeongyu/my-claude-code-harness",
+    "skill_md": "https://raw.githubusercontent.com/code-yeongyu/my-claude-code-harness/main/skills/pr-context-retrieval/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.748Z",
+  "created_at": "2025-12-22T21:03:42.959Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/code-yeongyu%2Fmy-claude-code-harness/skills%2Fpr-context-retrieval%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.748Z",
+    "uniqueId": "sk_54989cce6c23"
+  }
+}

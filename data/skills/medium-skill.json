@@ -1,0 +1,35 @@
+{
+  "id": "medium-skill",
+  "name": "medium-skill",
+  "version": "1.0.0",
+  "summary": "Medium-sized skill for comprehensive token testing",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feiskyer",
+    "github": "feiskyer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feiskyer/koder",
+    "skill_md": "https://raw.githubusercontent.com/feiskyer/koder/main/tests/fixtures/skills/medium-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:42.587Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feiskyer%2Fkoder/tests%2Ffixtures%2Fskills%2Fmedium-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_0eb264b57cae"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "event-scraper",
+  "name": "event-scraper",
+  "version": "1.0.0",
+  "summary": "Create new event scraping scripts for websites. Use when adding a new event source to the Asheville Event Feed. ALWAYS start by detecting the CMS/platform and trying known API e...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MattB543",
+    "github": "MattB543"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MattB543/asheville-event-feed",
+    "skill_md": "https://raw.githubusercontent.com/MattB543/asheville-event-feed/main/claude/event-scraper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.473Z",
+  "created_at": "2025-12-23T01:29:57.128Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MattB543%2Fasheville-event-feed/claude%2Fevent-scraper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.473Z",
+    "uniqueId": "sk_f43de4fbfb77"
+  }
+}

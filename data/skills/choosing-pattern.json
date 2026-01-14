@@ -1,0 +1,36 @@
+{
+  "id": "choosing-pattern",
+  "name": "choosing-pattern",
+  "version": "1.0.0",
+  "summary": "Use when deciding which pgdbm pattern to use (standalone, dual-mode library, or shared pool) - provides decision tree based on deployment context without requiring doc exploration",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "juanre",
+    "github": "juanre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/juanre/pgdbm",
+    "skill_md": "https://raw.githubusercontent.com/juanre/pgdbm/main/skills/choosing-pattern/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-26T17:27:36.000Z",
+  "created_at": "2025-12-23T01:29:23.873Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/juanre%2Fpgdbm/skills%2Fchoosing-pattern%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_89278f004be6"
+  }
+}

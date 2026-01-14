@@ -1,0 +1,37 @@
+{
+  "id": "a2a-patterns",
+  "name": "a2a-patterns",
+  "version": "1.0.0",
+  "summary": "Agent-to-Agent (A2A) protocol implementation patterns for Google ADK - exposing agents via A2A, consuming external agents, multi-agent communication, and protocol configuration....",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vanman2024",
+    "github": "vanman2024"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vanman2024/ai-dev-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/vanman2024/ai-dev-marketplace/main/plugins/google-adk/skills/a2a-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.645Z",
+  "created_at": "2025-12-22T23:05:34.598Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vanman2024%2Fai-dev-marketplace/plugins%2Fgoogle-adk%2Fskills%2Fa2a-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.645Z",
+    "uniqueId": "sk_9d6f0747fb11"
+  }
+}

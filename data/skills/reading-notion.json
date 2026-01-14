@@ -1,0 +1,35 @@
+{
+  "id": "reading-notion",
+  "name": "reading-notion",
+  "version": "1.0.0",
+  "summary": "Notion URLが会話に登場した時、またはNotionのコンテンツを検索・取得する必要がある時に使用してください。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "syou6162",
+    "github": "syou6162"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/syou6162/claude-code-commands",
+    "skill_md": "https://raw.githubusercontent.com/syou6162/claude-code-commands/main/skills/reading-notion/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:02:56.670Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/syou6162%2Fclaude-code-commands/skills%2Freading-notion%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_60a064262b6b"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "docs-cli-workflow",
+  "name": "docs-cli-workflow",
+  "version": "1.0.0",
+  "summary": "Guides when to use docs create/edit CLI tools versus direct file editing for InfluxData documentation.",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "influxdata",
+    "github": "influxdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/influxdata/docs-v2",
+    "skill_md": "https://raw.githubusercontent.com/influxdata/docs-v2/main/.claude/skills/docs-cli-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:17.869Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/influxdata%2Fdocs-v2/.claude%2Fskills%2Fdocs-cli-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_0909cb3418cf"
+  }
+}

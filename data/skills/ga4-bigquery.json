@@ -1,0 +1,37 @@
+{
+  "id": "ga4-bigquery",
+  "name": "ga4-bigquery",
+  "version": "1.0.0",
+  "summary": "Complete guide to GA4 BigQuery export including setup, schema documentation, SQL query patterns, and data analysis. Use when exporting GA4 data to BigQuery, writing SQL queries ...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "henkisdabro",
+    "github": "henkisdabro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/henkisdabro/wookstar-claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/henkisdabro/wookstar-claude-code-plugins/main/ga-suite/skills/ga4-bigquery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:56:51.659Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/henkisdabro%2Fwookstar-claude-code-plugins/ga-suite%2Fskills%2Fga4-bigquery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_150d4b879e95"
+  }
+}

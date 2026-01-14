@@ -1,0 +1,37 @@
+{
+  "id": "backend-rag-implementation",
+  "name": "backend-rag-implementation",
+  "version": "1.0.0",
+  "summary": "Build Retrieval-Augmented Generation (RAG) systems for LLM applications with vector databases and semantic search in FastAPI backends. Use when implementing knowledge-grounded A...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shredbx",
+    "github": "shredbx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shredbx/demo-3d-model",
+    "skill_md": "https://raw.githubusercontent.com/shredbx/demo-3d-model/main/.claude/skills/backend-rag-implementation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:41.999Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shredbx%2Fdemo-3d-model/.claude%2Fskills%2Fbackend-rag-implementation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_66876c1b4d57"
+  }
+}

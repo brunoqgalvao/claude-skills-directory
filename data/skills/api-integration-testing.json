@@ -1,0 +1,36 @@
+{
+  "id": "api-integration-testing",
+  "name": "api-integration-testing",
+  "version": "1.0.0",
+  "summary": "Integration testing patterns for ABP Framework APIs using xUnit and WebApplicationFactory. Use when: (1) testing API endpoints end-to-end, (2) verifying HTTP status codes and re...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thapaliyabikendra",
+    "github": "thapaliyabikendra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thapaliyabikendra/ai-artifacts",
+    "skill_md": "https://raw.githubusercontent.com/thapaliyabikendra/ai-artifacts/main/.claude/skills/api-integration-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.662Z",
+  "created_at": "2025-12-22T22:17:36.920Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thapaliyabikendra%2Fai-artifacts/.claude%2Fskills%2Fapi-integration-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.662Z",
+    "uniqueId": "sk_a8386bed856c"
+  }
+}

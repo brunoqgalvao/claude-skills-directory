@@ -1,0 +1,35 @@
+{
+  "id": "workspace-manager",
+  "name": "workspace-manager",
+  "version": "1.0.0",
+  "summary": "Analyze and refactor the Ëtrid multi-workspace Cargo structure (E³20). Align git dependencies, remove stale version pins, unify feature flags, and generate consistent Cargo.toml...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "EojEdred",
+    "github": "EojEdred"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/EojEdred/Etrid",
+    "skill_md": "https://raw.githubusercontent.com/EojEdred/Etrid/main/14-aidevs/skills/workspace-manager/workspace-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.586Z",
+  "created_at": "2025-12-23T01:28:10.165Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/EojEdred%2FEtrid/14-aidevs%2Fskills%2Fworkspace-manager%2Fworkspace-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.586Z",
+    "uniqueId": "sk_29dc3f921e06"
+  }
+}

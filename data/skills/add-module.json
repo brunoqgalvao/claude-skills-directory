@@ -1,0 +1,35 @@
+{
+  "id": "add-module",
+  "name": "add-module",
+  "version": "1.0.0",
+  "summary": "Create new demo or utility modules following CLY project patterns. Use when adding TUI demonstration modules to modules/demo/ or utility modules to modules/, following Bubbletea...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yurifrl",
+    "github": "yurifrl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yurifrl/cly",
+    "skill_md": "https://raw.githubusercontent.com/yurifrl/cly/main/.claude/skills/add-module/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:24.733Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yurifrl%2Fcly/.claude%2Fskills%2Fadd-module%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_f1ec81df2032"
+  }
+}

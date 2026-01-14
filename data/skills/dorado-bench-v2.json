@@ -1,0 +1,37 @@
+{
+  "id": "dorado-bench-v2",
+  "name": "dorado-bench-v2",
+  "version": "1.0.0",
+  "summary": "Oxford Nanopore basecalling with Dorado on University of Michigan HPC clusters (ARMIS2 and Great Lakes). Use when running dorado basecalling, generating SLURM jobs for basecalli...",
+  "verticals": [
+    "support",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Single-Molecule-Sequencing",
+    "github": "Single-Molecule-Sequencing"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Single-Molecule-Sequencing/ont-ecosystem",
+    "skill_md": "https://raw.githubusercontent.com/Single-Molecule-Sequencing/ont-ecosystem/main/skills/dorado-bench-v2/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:36.684Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Single-Molecule-Sequencing%2Font-ecosystem/skills%2Fdorado-bench-v2%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_48dab3101c48"
+  }
+}

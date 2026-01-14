@@ -1,0 +1,36 @@
+{
+  "id": "validate-requirements",
+  "name": "validate-requirements",
+  "version": "1.0.0",
+  "summary": "Validate that input meets prerequisites based on the user's saved standards for the project type. Use at the start of any quality pipeline to ensure the user has provided suffic...",
+  "verticals": [
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AbeJitsu",
+    "github": "AbeJitsu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AbeJitsu/Game-Settings-Panel",
+    "skill_md": "https://raw.githubusercontent.com/AbeJitsu/Game-Settings-Panel/main/.claude/skills/validate-requirements/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:03:41.654Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AbeJitsu%2FGame-Settings-Panel/.claude%2Fskills%2Fvalidate-requirements%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_5bd59b93811a"
+  }
+}

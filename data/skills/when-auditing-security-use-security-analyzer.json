@@ -1,0 +1,36 @@
+{
+  "id": "when-auditing-security-use-security-analyzer",
+  "name": "when-auditing-security-use-security-analyzer",
+  "version": "1.0.0",
+  "summary": "Comprehensive security auditing across static analysis, dynamic testing, dependency vulnerabilities, secrets detection, and OWASP compliance",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DNYoussef",
+    "github": "DNYoussef"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DNYoussef/ai-chrome-extension",
+    "skill_md": "https://raw.githubusercontent.com/DNYoussef/ai-chrome-extension/main/.claude/skills/security/when-auditing-security-use-security-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.600Z",
+  "created_at": "2025-12-23T00:11:47.445Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DNYoussef%2Fai-chrome-extension/.claude%2Fskills%2Fsecurity%2Fwhen-auditing-security-use-security-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.600Z",
+    "uniqueId": "sk_91f242d641c4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "oss-analysis",
+  "name": "oss-analysis",
+  "version": "1.0.0",
+  "summary": "Analyze OSS solutions for code quality, documentation, and best practices using Context7, DeepWiki, and Perplexity. Use when users request repository analysis, code review, libr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sonhanguyen",
+    "github": "sonhanguyen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sonhanguyen/mcphub",
+    "skill_md": "https://raw.githubusercontent.com/sonhanguyen/mcphub/main/skills/oss-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:44.634Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sonhanguyen%2Fmcphub/skills%2Foss-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_3d5ca7f9db6f"
+  }
+}

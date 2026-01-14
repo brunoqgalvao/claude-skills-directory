@@ -1,0 +1,35 @@
+{
+  "id": "opensaas-migration",
+  "name": "opensaas-migration",
+  "version": "1.0.0",
+  "summary": "Expert knowledge for migrating projects to OpenSaaS Stack. Use when discussing migration strategies, access control patterns, or OpenSaaS Stack configuration best practices.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "OpenSaasAU",
+    "github": "OpenSaasAU"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/OpenSaasAU/stack",
+    "skill_md": "https://raw.githubusercontent.com/OpenSaasAU/stack/main/claude-plugins/opensaas-migration/skills/opensaas-migration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.680Z",
+  "created_at": "2025-12-22T22:11:04.763Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/OpenSaasAU%2Fstack/claude-plugins%2Fopensaas-migration%2Fskills%2Fopensaas-migration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.680Z",
+    "uniqueId": "sk_53dfd5677efc"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mechinterp-decoder",
+  "name": "mechinterp-decoder",
+  "version": "1.0.0",
+  "summary": "Analyze SAE decoder weights - output influence, feature importance, and decoder similarity",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cesaregarza",
+    "github": "cesaregarza"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cesaregarza/SplatNLP",
+    "skill_md": "https://raw.githubusercontent.com/cesaregarza/SplatNLP/main/.claude/skills/mechinterp-decoder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:13:14.236Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cesaregarza%2FSplatNLP/.claude%2Fskills%2Fmechinterp-decoder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_ccadd18ecf9d"
+  }
+}

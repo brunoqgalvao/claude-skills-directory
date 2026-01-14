@@ -1,0 +1,37 @@
+{
+  "id": "hugging-face-dataset-creator",
+  "name": "hugging-face-dataset-creator",
+  "version": "1.0.0",
+  "summary": "Create and manage datasets on Hugging Face Hub. Supports initializing repos, defining configs/system prompts, and streaming row updates. Designed to work alongside HF MCP server...",
+  "verticals": [
+    "support",
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "huggingface",
+    "github": "huggingface"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/huggingface/skills",
+    "skill_md": "https://raw.githubusercontent.com/huggingface/skills/main/hf_dataset_creator/skills/hugging-face-dataset-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T04:27:54.000Z",
+  "created_at": "2025-12-22T19:09:36.419Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/huggingface%2Fskills/hf_dataset_creator%2Fskills%2Fhugging-face-dataset-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_511d89652fef"
+  }
+}

@@ -1,38 +1,35 @@
 {
   "id": "brainstorm",
-  "name": "Brainstorm",
+  "name": "brainstorm",
   "version": "1.0.0",
-  "summary": "# Brainstorm Skill\r\n\r\n## Purpose\r\nRefines rough ideas and requirements into fully-formed designs through collaborative questioning, alternative exploration, and incremental validat",
+  "summary": "Use when the user is exploring possibilities, asking for ideas, or expressing uncertainty. Trigger cues include \"ideas\", \"alternatives\", \"what could we do\", \"brainstorm\", \"diffe...",
   "verticals": [
-    "Design",
-    "Operations"
+    "engineering"
   ],
-  "tags": [
-    "brainstorm",
-    "ai"
-  ],
+  "tags": [],
   "author": {
-    "name": "Brownbull",
-    "github": "Brownbull",
-    "avatar": "https://avatars.githubusercontent.com/u/16549632?v=4"
+    "name": "alexisbeaulieu97",
+    "github": "alexisbeaulieu97"
   },
-  "status": "beta",
+  "status": "ready",
   "verified": false,
   "visibility": "public",
   "license": "MIT",
   "links": {
-    "repo": "https://github.com/Brownbull/taskflow/tree/main/.claude/skills/core/brainstorm/skill.md",
-    "skill_md": "https://raw.githubusercontent.com/Brownbull/taskflow/main/.claude/skills/core/brainstorm/skill.md/SKILL.md"
-  },
-  "installation": {
-    "type": "cli",
-    "command": "npx skills-cli install brainstorm"
+    "repo": "https://github.com/alexisbeaulieu97/home",
+    "skill_md": "https://raw.githubusercontent.com/alexisbeaulieu97/home/main/agents/claude/skills/brainstorm/SKILL.md"
   },
   "stats": {
     "stars": 0,
     "forks": 0,
     "installs": 0
   },
-  "last_updated": "2025-11-10",
-  "created_at": "2025-11-07"
+  "last_updated": "2026-01-07T16:59:54.875Z",
+  "created_at": "2025-12-22T15:01:32.803Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexisbeaulieu97%2Fhome/agents%2Fclaude%2Fskills%2Fbrainstorm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.875Z",
+    "uniqueId": "sk_22f1e8d6ff78"
+  }
 }

@@ -1,0 +1,35 @@
+{
+  "id": "progress-files",
+  "name": "progress-files",
+  "version": "1.0.0",
+  "summary": "過去のセッションの進捗ファイルを参照して作業コンテキストを継続するためのガイド。(1) 新しいセッションを開始して以前の作業を継続したい時、(2) 過去に何をやったか思い出したい時、(3) 中断した作業の続きを始める時、(4) プロジェクトの進捗履歴を確認したい時",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "masseater",
+    "github": "masseater"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/masseater/claude-code-plugin",
+    "skill_md": "https://raw.githubusercontent.com/masseater/claude-code-plugin/main/plugins/mutils/skills/progress-files/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:21.510Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/masseater%2Fclaude-code-plugin/plugins%2Fmutils%2Fskills%2Fprogress-files%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_e4549b206bed"
+  }
+}

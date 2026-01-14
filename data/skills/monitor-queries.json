@@ -1,0 +1,35 @@
+{
+  "id": "monitor-queries",
+  "name": "monitor-queries",
+  "version": "1.0.0",
+  "summary": "Track query execution using real-time resources, analyze query bands, access query logs, and identify performance patterns across the Teradata system",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "teradata-labs",
+    "github": "teradata-labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/teradata-labs/claude-cookbooks",
+    "skill_md": "https://raw.githubusercontent.com/teradata-labs/claude-cookbooks/main/skills/operations/workloadmanagement/monitoring/monitor-queries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.655Z",
+  "created_at": "2025-12-22T23:00:57.393Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/teradata-labs%2Fclaude-cookbooks/skills%2Foperations%2Fworkloadmanagement%2Fmonitoring%2Fmonitor-queries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.655Z",
+    "uniqueId": "sk_d2910cd3c8f9"
+  }
+}

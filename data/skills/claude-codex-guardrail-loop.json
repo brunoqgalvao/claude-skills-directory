@@ -1,0 +1,35 @@
+{
+  "id": "claude-codex-guardrail-loop",
+  "name": "claude-codex-guardrail-loop",
+  "version": "1.0.0",
+  "summary": "Use after planning or implementing non-trivial tasks - runs Codex MCP background verification/review for quality gates (plan validation + implementation review)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "munlucky",
+    "github": "munlucky"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/munlucky/claude-code-handbook",
+    "skill_md": "https://raw.githubusercontent.com/munlucky/claude-code-handbook/main/skills/claude-codex-guardrail-loop/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.512Z",
+  "created_at": "2025-12-23T01:29:15.746Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/munlucky%2Fclaude-code-handbook/skills%2Fclaude-codex-guardrail-loop%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_aea9d55a5b7b"
+  }
+}

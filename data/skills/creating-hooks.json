@@ -1,0 +1,35 @@
+{
+  "id": "creating-hooks",
+  "name": "creating-hooks",
+  "version": "1.0.0",
+  "summary": "Custom hook creation for preventing unwanted behaviors in Claude Code. Triggers: hook, hookify, rule, block, warn, prevent, pattern, detect, unwanted behavior, dangerous command...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thkt",
+    "github": "thkt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thkt/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/thkt/claude-config/main/skills/creating-hooks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.860Z",
+  "created_at": "2025-12-22T15:08:25.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thkt%2Fclaude-config/skills%2Fcreating-hooks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_e1073d672a0f"
+  }
+}

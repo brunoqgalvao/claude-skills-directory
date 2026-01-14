@@ -1,0 +1,35 @@
+{
+  "id": "zotero-paper-reader",
+  "name": "zotero-paper-reader",
+  "version": "1.0.0",
+  "summary": "Read and analyze academic papers from Zotero library. Use when the user requests to read, access, or analyze a paper by title, author, or topic from their Zotero library. Automa...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "FuZhiyu",
+    "github": "FuZhiyu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/FuZhiyu/ResearchProjectTemplate",
+    "skill_md": "https://raw.githubusercontent.com/FuZhiyu/ResearchProjectTemplate/main/ProjectExample/.claude/skills/zotero-paper-reader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T18:05:18.000Z",
+  "created_at": "2025-12-23T01:28:55.042Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/FuZhiyu%2FResearchProjectTemplate/ProjectExample%2F.claude%2Fskills%2Fzotero-paper-reader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.542Z",
+    "uniqueId": "sk_85db9fb9b7b7"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "compile",
+  "name": "compile",
+  "version": "1.0.0",
+  "summary": "compile prompts file to english",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TrueNine",
+    "github": "TrueNine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TrueNine/claude-code-projects",
+    "skill_md": "https://raw.githubusercontent.com/TrueNine/claude-code-projects/main/.claude/skills/compile/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T06:54:40.000Z",
+  "created_at": "2025-12-23T01:28:02.470Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TrueNine%2Fclaude-code-projects/.claude%2Fskills%2Fcompile%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_001276815093"
+  }
+}

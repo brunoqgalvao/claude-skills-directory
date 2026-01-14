@@ -1,0 +1,37 @@
+{
+  "id": "ml-pipeline-orchestrator",
+  "name": "ml-pipeline-orchestrator",
+  "version": "1.0.0",
+  "summary": "Orchestrates complete machine learning pipelines within SpecWeave increments. Activates when users request \"ML pipeline\", \"train model\", \"build ML system\", \"end-to-end ML\", \"ML ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave-ml/skills/ml-pipeline-orchestrator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:29.074Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave-ml%2Fskills%2Fml-pipeline-orchestrator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_95a8b3012b3b"
+  }
+}

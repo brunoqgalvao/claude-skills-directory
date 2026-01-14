@@ -1,0 +1,35 @@
+{
+  "id": "spec-metadata",
+  "name": "spec-metadata",
+  "version": "1.0.0",
+  "summary": "Generates metadata for research documents and specifications including date/time, git commit, branch, and repository info. Use when creating research documents, handoffs, or any...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeffh",
+    "github": "jeffh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeffh/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/jeffh/claude-plugins/main/humanlayer/skills/spec-metadata/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T04:05:47.000Z",
+  "created_at": "2025-12-23T01:28:37.386Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeffh%2Fclaude-plugins/humanlayer%2Fskills%2Fspec-metadata%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_d790b64f9326"
+  }
+}

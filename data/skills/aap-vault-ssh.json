@@ -1,0 +1,36 @@
+{
+  "id": "aap-vault-ssh",
+  "name": "aap-vault-ssh",
+  "version": "1.0.0",
+  "summary": "Integrate Red Hat Ansible Automation Platform (AAP) with HashiCorp Vault Enterprise for dynamic SSH credential management. Use when: (1) Configuring Vault SSH secrets engine wit...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hashi-demo-lab",
+    "github": "hashi-demo-lab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hashi-demo-lab/terraform-provider-bcm",
+    "skill_md": "https://raw.githubusercontent.com/hashi-demo-lab/terraform-provider-bcm/main/.claude/skills/aap-vault-ssh/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:51.951Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hashi-demo-lab%2Fterraform-provider-bcm/.claude%2Fskills%2Faap-vault-ssh%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_85c65b52f967"
+  }
+}

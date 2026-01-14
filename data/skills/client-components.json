@@ -1,0 +1,35 @@
+{
+  "id": "client-components",
+  "name": "client-components",
+  "version": "1.0.0",
+  "summary": "Enforces Head Shakers client component conventions for interactive React components with hooks, event handlers, Radix UI integration, and server action consumption. Extends reac...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JasonPaff",
+    "github": "JasonPaff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JasonPaff/head-shakers",
+    "skill_md": "https://raw.githubusercontent.com/JasonPaff/head-shakers/main/.claude/skills/client-components/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.889Z",
+  "created_at": "2025-12-19T17:09:34.592Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JasonPaff%2Fhead-shakers/.claude%2Fskills%2Fclient-components%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_ddec771d408e"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "recover-from-error",
+  "name": "recover-from-error",
+  "version": "1.0.0",
+  "summary": "Diagnose task protocol errors and provide targeted recovery procedures",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cowwoc",
+    "github": "cowwoc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cowwoc/styler",
+    "skill_md": "https://raw.githubusercontent.com/cowwoc/styler/main/.claude/skills/recover-from-error/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:02.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cowwoc%2Fstyler/.claude%2Fskills%2Frecover-from-error%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_2977f4578f87"
+  }
+}

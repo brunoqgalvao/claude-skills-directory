@@ -1,0 +1,36 @@
+{
+  "id": "arcgis-editing-advanced",
+  "name": "arcgis-editing-advanced",
+  "version": "1.0.0",
+  "summary": "Advanced editing features including subtypes, feature forms, versioning, and configurable editors. Use for complex data entry workflows.",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SaschaBrunnerCH",
+    "github": "SaschaBrunnerCH"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context",
+    "skill_md": "https://raw.githubusercontent.com/SaschaBrunnerCH/arcgis-maps-sdk-js-ai-context/main/contexts/4.34/claude/arcgis-editing-advanced/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.482Z",
+  "created_at": "2025-12-23T01:29:41.457Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SaschaBrunnerCH%2Farcgis-maps-sdk-js-ai-context/contexts%2F4.34%2Fclaude%2Farcgis-editing-advanced%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_29d1ab205e08"
+  }
+}

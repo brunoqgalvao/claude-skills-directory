@@ -1,0 +1,36 @@
+{
+  "id": "rspec-testing-guidelines",
+  "name": "rspec-testing-guidelines",
+  "version": "1.0.0",
+  "summary": "RSpec testing patterns, factories, mocks, and test best practices",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ThibautBaissac",
+    "github": "ThibautBaissac"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ThibautBaissac/claude-code-architecture",
+    "skill_md": "https://raw.githubusercontent.com/ThibautBaissac/claude-code-architecture/main/.claude/skills/rspec-testing-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.750Z",
+  "created_at": "2025-12-22T21:01:15.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ThibautBaissac%2Fclaude-code-architecture/.claude%2Fskills%2Frspec-testing-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.750Z",
+    "uniqueId": "sk_b3dd20ca06e8"
+  }
+}

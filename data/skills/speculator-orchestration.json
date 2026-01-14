@@ -1,0 +1,35 @@
+{
+  "id": "speculator-orchestration",
+  "name": "speculator-orchestration",
+  "version": "1.0.0",
+  "summary": "Multi-agent task orchestration using the spec CLI. Guides agents on claiming tasks, parallel execution, blocking, and coordination. Use when working with multiple agents, claimi...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wbeard",
+    "github": "wbeard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wbeard/speculator",
+    "skill_md": "https://raw.githubusercontent.com/wbeard/speculator/main/templates/skills/speculator-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T08:31:58.000Z",
+  "created_at": "2025-12-23T01:28:37.956Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wbeard%2Fspeculator/templates%2Fskills%2Fspeculator-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_e152876b3c44"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "api-route-conventions",
+  "name": "api-route-conventions",
+  "version": "1.0.0",
+  "summary": "Expert knowledge on Next.js API route patterns, authentication with getAuthOrTest, error handling, response formats, rate limiting, and webhook verification. Use this skill when...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sanchay-T",
+    "github": "Sanchay-T"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sanchay-T/influencer-platform-app",
+    "skill_md": "https://raw.githubusercontent.com/Sanchay-T/influencer-platform-app/main/.claude/skills/api-route-conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:43.466Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sanchay-T%2Finfluencer-platform-app/.claude%2Fskills%2Fapi-route-conventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_63d780bf326c"
+  }
+}

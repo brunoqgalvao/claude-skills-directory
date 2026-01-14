@@ -1,0 +1,36 @@
+{
+  "id": "claudemem-search",
+  "name": "claudemem-search",
+  "version": "1.0.0",
+  "summary": "⚡ PRIMARY TOOL for semantic code understanding with LLM enrichment. ANTI-PATTERNS: Reading 5+ files sequentially, Glob then read all, Grep for 'how does X work'. CORRECT: claude...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claude-code/main/plugins/code-analysis/skills/claudemem-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.602Z",
+  "created_at": "2025-12-23T00:08:10.937Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaude-code/plugins%2Fcode-analysis%2Fskills%2Fclaudemem-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.602Z",
+    "uniqueId": "sk_ceaaf1ff80f0"
+  }
+}

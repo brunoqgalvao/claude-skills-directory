@@ -1,0 +1,35 @@
+{
+  "id": "router-query-integration",
+  "name": "router-query-integration",
+  "version": "1.0.0",
+  "summary": "Integrate TanStack Router with TanStack Query for optimal data fetching. Covers route loaders with query prefetching, ensuring instant navigation, and eliminating request waterf...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MadAppGang",
+    "github": "MadAppGang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MadAppGang/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/MadAppGang/claude-code/main/plugins/frontend/skills/router-query-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-06T13:01:01.000Z",
+  "created_at": "2025-12-23T01:29:32.789Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MadAppGang%2Fclaude-code/plugins%2Ffrontend%2Fskills%2Frouter-query-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.492Z",
+    "uniqueId": "sk_fdd6e20d2621"
+  }
+}

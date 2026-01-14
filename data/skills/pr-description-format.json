@@ -1,0 +1,36 @@
+{
+  "id": "pr-description-format",
+  "name": "pr-description-format",
+  "version": "1.0.0",
+  "summary": "Provides PR description format and workflow requirements for GitHub pull requests. Use this skill when creating PRs or using 'gh pr create'.",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kokuyouwind",
+    "github": "kokuyouwind"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kokuyouwind/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/kokuyouwind/claude-plugins/main/plugins/dev-guidelines/skills/pr-description-format/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-07T07:59:12.000Z",
+  "created_at": "2025-12-22T14:54:39.080Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kokuyouwind%2Fclaude-plugins/plugins%2Fdev-guidelines%2Fskills%2Fpr-description-format%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.881Z",
+    "uniqueId": "sk_e06bca8583d5"
+  }
+}

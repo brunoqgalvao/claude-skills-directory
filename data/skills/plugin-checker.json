@@ -1,0 +1,35 @@
+{
+  "id": "plugin-checker",
+  "name": "plugin-checker",
+  "version": "1.0.0",
+  "summary": "Use this skill when asked to \"validate plugin\", \"check plugin structure\", \"verify plugin\", \"audit plugin\", \"is my plugin correct\", \"plugin issues\", or when troubleshooting plugi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-ariff",
+    "github": "a-ariff"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-ariff/ariff-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/a-ariff/ariff-claude-plugins/main/plugins/plugin-checker/skills/plugin-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.504Z",
+  "created_at": "2025-12-23T01:29:22.543Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-ariff%2Fariff-claude-plugins/plugins%2Fplugin-checker%2Fskills%2Fplugin-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_7dc0b8669e3e"
+  }
+}

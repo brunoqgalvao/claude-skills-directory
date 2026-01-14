@@ -1,0 +1,37 @@
+{
+  "id": "using-orchestration",
+  "name": "using-orchestration",
+  "version": "1.0.0",
+  "summary": "Use when user has complex multi-agent workflows, needs to coordinate sequential or parallel agent execution, wants workflow visualization and control, or mentions automating rep...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Sixallfaces",
+    "github": "Sixallfaces"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Sixallfaces/orkestr",
+    "skill_md": "https://raw.githubusercontent.com/Sixallfaces/orkestr/main/skills/using-orchestration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T23:08:17.000Z",
+  "created_at": "2025-12-22T15:53:50.978Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Sixallfaces%2Forkestr/skills%2Fusing-orchestration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.463Z",
+    "uniqueId": "sk_a9325815c8f2"
+  }
+}

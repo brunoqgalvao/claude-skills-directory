@@ -1,0 +1,35 @@
+{
+  "id": "plan-parallel-dev",
+  "name": "plan-parallel-dev",
+  "version": "1.0.0",
+  "summary": "複数開発者での並列開発計画書を作成するスキル。git worktree を活用したブランチ戦略、タスクの依存関係分析、クリティカルパス計算、開発者ロール割り当て、タイムライン作成を行う。「並列開発計画を作って」「複数人で同時開発したい」「worktree で分担したい」「開発を最大限並列化したい」などのリクエスト時に使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hiroshi75",
+    "github": "hiroshi75"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hiroshi75/ccplugins",
+    "skill_md": "https://raw.githubusercontent.com/hiroshi75/ccplugins/main/plan-parallel-dev-plugin/skills/plan-parallel-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.603Z",
+  "created_at": "2025-12-23T00:07:49.314Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hiroshi75%2Fccplugins/plan-parallel-dev-plugin%2Fskills%2Fplan-parallel-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.603Z",
+    "uniqueId": "sk_cbe690dd640b"
+  }
+}

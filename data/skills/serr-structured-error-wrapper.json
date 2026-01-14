@@ -1,0 +1,35 @@
+{
+  "id": "serr-structured-error-wrapper",
+  "name": "serr-structured-error-wrapper",
+  "version": "1.0.0",
+  "summary": "Serr allows us to enrich our Go application errors with location, etc, and bubble them up to the caller where we only have to log once",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rohanthewiz",
+    "github": "rohanthewiz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rohanthewiz/serr",
+    "skill_md": "https://raw.githubusercontent.com/rohanthewiz/serr/main/ai_docs/skill/serr_structured_error_wrapper/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:27.869Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rohanthewiz%2Fserr/ai_docs%2Fskill%2Fserr_structured_error_wrapper%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_ad72ea9687c4"
+  }
+}

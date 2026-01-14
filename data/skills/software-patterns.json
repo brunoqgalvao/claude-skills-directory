@@ -1,0 +1,35 @@
+{
+  "id": "software-patterns",
+  "name": "software-patterns",
+  "version": "1.0.0",
+  "summary": "Decision framework for architectural patterns including DI, SOA, Repository, Domain Events, Circuit Breaker, and Anti-Corruption Layer. Use when designing systems, choosing patt...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bobmatnyc",
+    "github": "bobmatnyc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bobmatnyc/termpilot",
+    "skill_md": "https://raw.githubusercontent.com/bobmatnyc/termpilot/main/.claude/skills/universal-architecture-software-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.511Z",
+  "created_at": "2025-12-23T01:29:16.471Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bobmatnyc%2Ftermpilot/.claude%2Fskills%2Funiversal-architecture-software-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_e53c8bbeb5c6"
+  }
+}

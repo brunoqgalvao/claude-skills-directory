@@ -1,0 +1,36 @@
+{
+  "id": "query-expert",
+  "name": "query-expert",
+  "version": "1.0.0",
+  "summary": "Master SQL and database queries across multiple systems. Generate optimized queries, analyze performance, design indexes, and troubleshoot slow queries for PostgreSQL, MySQL, Mo...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jamesrochabrun",
+    "github": "jamesrochabrun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jamesrochabrun/skills",
+    "skill_md": "https://raw.githubusercontent.com/jamesrochabrun/skills/main/skills/query-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:08:20.423Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jamesrochabrun%2Fskills/skills%2Fquery-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_6239b7d7f62e"
+  }
+}

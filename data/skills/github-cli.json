@@ -1,0 +1,35 @@
+{
+  "id": "github-cli",
+  "name": "github-cli",
+  "version": "1.0.0",
+  "summary": "Encourages proactive use of GitHub CLI (gh) for gathering context on PRs, issues, comments, and repository information when working with GitHub-related tasks.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BfdCampos",
+    "github": "BfdCampos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BfdCampos/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/BfdCampos/dotfiles/main/claude/skills/github-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.828Z",
+  "created_at": "2025-12-22T16:58:36.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BfdCampos%2Fdotfiles/claude%2Fskills%2Fgithub-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.828Z",
+    "uniqueId": "sk_694eba47bc6f"
+  }
+}

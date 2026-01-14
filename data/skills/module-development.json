@@ -1,0 +1,36 @@
+{
+  "id": "module-development",
+  "name": "module-development",
+  "version": "1.0.0",
+  "summary": "Guide for creating new Amplifier modules including protocol implementation, entry points, mount functions, and testing patterns. Use when creating new modules or understanding m...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "microsoft",
+    "github": "microsoft"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/microsoft/amplifier-module-tool-skills",
+    "skill_md": "https://raw.githubusercontent.com/microsoft/amplifier-module-tool-skills/main/tests/fixtures/skills/module-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:10:28.645Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/microsoft%2Famplifier-module-tool-skills/tests%2Ffixtures%2Fskills%2Fmodule-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_396d39e33f20"
+  }
+}

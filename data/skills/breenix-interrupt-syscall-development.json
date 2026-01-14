@@ -1,0 +1,36 @@
+{
+  "id": "breenix-interrupt-syscall-development",
+  "name": "breenix-interrupt-syscall-development",
+  "version": "1.0.0",
+  "summary": "Enforce pristine interrupt/syscall paths with no logging, diagnostics, or heavy operations. Use when developing interrupt handlers, syscall entry/exit, context switches, or time...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryanbreen",
+    "github": "ryanbreen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryanbreen/breenix",
+    "skill_md": "https://raw.githubusercontent.com/ryanbreen/breenix/main/breenix-interrupt-syscall-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:12.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryanbreen%2Fbreenix/breenix-interrupt-syscall-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_9ed08dd01c67"
+  }
+}

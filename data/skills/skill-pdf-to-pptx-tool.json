@@ -1,0 +1,35 @@
+{
+  "id": "skill-pdf-to-pptx-tool",
+  "name": "skill-pdf-to-pptx-tool",
+  "version": "1.0.0",
+  "summary": "Convert PDF to PowerPoint presentations",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dnvriend",
+    "github": "dnvriend"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dnvriend/pdf-to-pptx-tool",
+    "skill_md": "https://raw.githubusercontent.com/dnvriend/pdf-to-pptx-tool/main/plugins/pdf-to-pptx-tool/skills/pdf-to-pptx-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.694Z",
+  "created_at": "2025-12-22T22:03:56.902Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dnvriend%2Fpdf-to-pptx-tool/plugins%2Fpdf-to-pptx-tool%2Fskills%2Fpdf-to-pptx-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.694Z",
+    "uniqueId": "sk_d8a5ceae218a"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "jenkins-pipeline-generator",
+  "name": "jenkins-pipeline-generator",
+  "version": "1.0.0",
+  "summary": "Generate Jenkins pipeline files (Jenkinsfile) with declarative or scripted syntax. Triggers on \"create jenkinsfile\", \"generate jenkins pipeline\", \"jenkins ci config\", \"jenkins b...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ehtbanton",
+    "github": "ehtbanton"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ehtbanton/ClaudeSkillsRepo",
+    "skill_md": "https://raw.githubusercontent.com/ehtbanton/ClaudeSkillsRepo/main/jenkins-pipeline-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T17:17:56.000Z",
+  "created_at": "2025-12-23T01:28:18.566Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ehtbanton%2FClaudeSkillsRepo/jenkins-pipeline-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.580Z",
+    "uniqueId": "sk_8119afe21f2e"
+  }
+}

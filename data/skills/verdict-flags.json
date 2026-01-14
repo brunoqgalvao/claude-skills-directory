@@ -1,0 +1,35 @@
+{
+  "id": "verdict-flags",
+  "name": "verdict-flags",
+  "version": "1.0.0",
+  "summary": "a skill that contains all the best practices for using Verdict Flags in shopify codebases. It should be uses whenever the agent is creating, updating or removing flags",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pcasaretto",
+    "github": "pcasaretto"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pcasaretto/nix-home",
+    "skill_md": "https://raw.githubusercontent.com/pcasaretto/nix-home/main/home-manager/modules/profiles/shopify/skills/shopify-verdict-flags/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:53.188Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pcasaretto%2Fnix-home/home-manager%2Fmodules%2Fprofiles%2Fshopify%2Fskills%2Fshopify-verdict-flags%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_8b9a9e63cba3"
+  }
+}

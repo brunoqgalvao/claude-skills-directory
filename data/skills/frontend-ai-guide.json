@@ -1,0 +1,37 @@
+{
+  "id": "frontend-ai-guide",
+  "name": "frontend-ai-guide",
+  "version": "1.0.0",
+  "summary": "Frontend-specific technical decision criteria, anti-patterns, debugging techniques, and quality check workflow. Use when making frontend technical decisions or performing qualit...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shinpr",
+    "github": "shinpr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shinpr/claude-code-workflows",
+    "skill_md": "https://raw.githubusercontent.com/shinpr/claude-code-workflows/main/skills/frontend-ai-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T15:18:02.000Z",
+  "created_at": "2025-12-23T01:29:23.830Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shinpr%2Fclaude-code-workflows/skills%2Ffrontend-ai-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_a9a3768d4610"
+  }
+}

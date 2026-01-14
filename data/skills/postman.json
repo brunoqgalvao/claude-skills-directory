@@ -1,0 +1,36 @@
+{
+  "id": "postman",
+  "name": "postman",
+  "version": "1.0.0",
+  "summary": "Expert Postman specialist specializing in API testing, automation, and comprehensive API development workflows.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "theMickster",
+    "github": "theMickster"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/theMickster/claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/theMickster/claude-agents/main/plugins/fullstack-software-engineer/skills/postman/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T06:27:00.000Z",
+  "created_at": "2025-12-19T17:04:47.427Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/theMickster%2Fclaude-agents/plugins%2Ffullstack-software-engineer%2Fskills%2Fpostman%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_f86942cfa7e8"
+  }
+}

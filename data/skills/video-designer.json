@@ -1,0 +1,35 @@
+{
+  "id": "video-designer",
+  "name": "video-designer",
+  "version": "1.0.0",
+  "summary": "Expert video designer that generates comprehensive design specifications based on video direction. Creates precise JSON schemas for scenes including elements, animations, timing...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "outscal",
+    "github": "outscal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/outscal/test_release",
+    "skill_md": "https://raw.githubusercontent.com/outscal/test_release/main/.claude/skills/video-designer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T15:08:31.000Z",
+  "created_at": "2025-12-23T01:28:42.821Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/outscal%2Ftest_release/.claude%2Fskills%2Fvideo-designer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_869013da4188"
+  }
+}

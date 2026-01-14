@@ -1,0 +1,37 @@
+{
+  "id": "story-building",
+  "name": "story-building",
+  "version": "1.0.0",
+  "summary": "Use when user says \"build stories\", \"generate stories\", \"create stories\", or asks for new story ideas - combines story generation with duplicate detection in a single workflow. ...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Mharbulous",
+    "github": "Mharbulous"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Mharbulous/SyncoPaid",
+    "skill_md": "https://raw.githubusercontent.com/Mharbulous/SyncoPaid/main/.claude/skills/story-building/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:50.667Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Mharbulous%2FSyncoPaid/.claude%2Fskills%2Fstory-building%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_d8f011ac0aff"
+  }
+}

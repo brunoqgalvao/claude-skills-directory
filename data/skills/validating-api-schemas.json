@@ -1,0 +1,37 @@
+{
+  "id": "validating-api-schemas",
+  "name": "validating-api-schemas",
+  "version": "1.0.0",
+  "summary": "Validate API schemas against OpenAPI, JSON Schema, and GraphQL specifications.\nUse when validating API schemas and contracts.\nTrigger with phrases like \"validate API schema\", \"c...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/plugins/api-development/api-schema-validator/skills/api-schema-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.814Z",
+  "created_at": "2025-12-22T17:51:41.938Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/plugins%2Fapi-development%2Fapi-schema-validator%2Fskills%2Fapi-schema-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.814Z",
+    "uniqueId": "sk_dc1383b1f64b"
+  }
+}

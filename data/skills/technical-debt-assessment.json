@@ -1,0 +1,36 @@
+{
+  "id": "technical-debt-assessment",
+  "name": "technical-debt-assessment",
+  "version": "1.0.0",
+  "summary": "Assess, quantify, and prioritize technical debt using code analysis, metrics, and impact analysis. Use when planning refactoring, evaluating codebases, or making architectural d...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aj-geddes",
+    "github": "aj-geddes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aj-geddes/useful-ai-prompts",
+    "skill_md": "https://raw.githubusercontent.com/aj-geddes/useful-ai-prompts/main/skills/technical-debt-assessment/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.502Z",
+  "created_at": "2025-12-23T01:29:23.910Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aj-geddes%2Fuseful-ai-prompts/skills%2Ftechnical-debt-assessment%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.502Z",
+    "uniqueId": "sk_fc5ad4f75391"
+  }
+}

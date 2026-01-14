@@ -1,0 +1,37 @@
+{
+  "id": "testing-unit-integration",
+  "name": "testing-unit-integration",
+  "version": "1.0.0",
+  "summary": "Expert guidance for writing clean, simple, and effective unit, integration, component, microservice, and API tests. Use this skill when reviewing existing tests for violations, ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "agdev",
+    "github": "agdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/agdev/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/agdev/claude-code/main/skills/testing-unit-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.639Z",
+  "created_at": "2025-12-22T23:08:15.540Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/agdev%2Fclaude-code/skills%2Ftesting-unit-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.639Z",
+    "uniqueId": "sk_30123aa8e8fe"
+  }
+}

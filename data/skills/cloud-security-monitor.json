@@ -1,0 +1,35 @@
+{
+  "id": "cloud-security-monitor",
+  "name": "cloud-security-monitor",
+  "version": "1.0.0",
+  "summary": "Activate when users need help setting up cloud security monitoring for AWS, Azure, or GCP, including adapter configuration, detection rules, and threat response.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tekgrunt",
+    "github": "tekgrunt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tekgrunt/boot-test",
+    "skill_md": "https://raw.githubusercontent.com/tekgrunt/boot-test/main/.claude-plugin/plugins/limacharlie-skills/skills/cloud-security-monitor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:17.202Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tekgrunt%2Fboot-test/.claude-plugin%2Fplugins%2Flimacharlie-skills%2Fskills%2Fcloud-security-monitor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_9af2d57d03a9"
+  }
+}

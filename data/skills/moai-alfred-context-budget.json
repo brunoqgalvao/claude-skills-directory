@@ -1,0 +1,37 @@
+{
+  "id": "moai-alfred-context-budget",
+  "name": "moai-alfred-context-budget",
+  "version": "1.0.0",
+  "summary": "Claude Code context window optimization strategies, JIT retrieval, progressive loading, memory file patterns, and cleanup practices. Use when optimizing context usage, managing ...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kivo360",
+    "github": "kivo360"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kivo360/quickhooks",
+    "skill_md": "https://raw.githubusercontent.com/kivo360/quickhooks/main/.claude/skills/moai-alfred-context-budget/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:38.178Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kivo360%2Fquickhooks/.claude%2Fskills%2Fmoai-alfred-context-budget%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_e986b9da2b47"
+  }
+}

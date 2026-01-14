@@ -1,0 +1,36 @@
+{
+  "id": "boofuzz",
+  "name": "boofuzz",
+  "version": "1.0.0",
+  "summary": "Protocol fuzzer script development using boofuzz framework. Use when creating network protocol fuzzers, defining protocol PDUs (Protocol Data Units), writing mutation-based fuzz...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lawless-m",
+    "github": "lawless-m"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lawless-m/nfs-fuzzer",
+    "skill_md": "https://raw.githubusercontent.com/lawless-m/nfs-fuzzer/main/.claude/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T13:12:56.000Z",
+  "created_at": "2025-12-22T18:03:22.705Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lawless-m%2Fnfs-fuzzer/.claude%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_e529de84655f"
+  }
+}

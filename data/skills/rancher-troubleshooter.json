@@ -1,0 +1,36 @@
+{
+  "id": "rancher-troubleshooter",
+  "name": "rancher-troubleshooter",
+  "version": "1.0.0",
+  "summary": "Diagnose and troubleshoot Rancher Desktop on WSL2, focusing on Kubernetes/K3s issues including slow API operations, etcd health problems, cluster component failures, and pod net...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Lupus",
+    "github": "Lupus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Lupus/my-dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/Lupus/my-dot-claude/main/skills/rancher-troubleshooter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:11:02.899Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Lupus%2Fmy-dot-claude/skills%2Francher-troubleshooter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_8c48cbfbc68a"
+  }
+}

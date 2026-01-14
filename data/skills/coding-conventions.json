@@ -1,0 +1,35 @@
+{
+  "id": "coding-conventions",
+  "name": "coding-conventions",
+  "version": "1.0.0",
+  "summary": ".NET/C#의 코딩 규약, 명명 규칙, 레이아웃, C# 12/13/14의 최신 기능 활용 가이드라인을 정의합니다. C#/.NET 코드 작성 시, 클래스·메서드 명명 시, 코드 포맷팅 시, 또는 사용자가 코딩 규약, 명명 규칙, C# 모범 사례, Primary Constructors, Collection Expres...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "icartsh",
+    "github": "icartsh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/icartsh/icartsh_plugin",
+    "skill_md": "https://raw.githubusercontent.com/icartsh/icartsh_plugin/main/icartsh-plugin/skills/coding-conventions/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:45.881Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/icartsh%2Ficartsh_plugin/icartsh-plugin%2Fskills%2Fcoding-conventions%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_1f8dcc33a368"
+  }
+}

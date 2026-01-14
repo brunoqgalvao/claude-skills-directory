@@ -1,0 +1,36 @@
+{
+  "id": "idea-plugin-dev",
+  "name": "idea-plugin-dev",
+  "version": "1.0.0",
+  "summary": "Develop IntelliJ IDEA plugins with two templates, standard plugins and AI-integrated plugins. Use when creating new IntelliJ IDEA plugins, setting up plugin projects, implementi...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zeka-stack",
+    "github": "zeka-stack"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zeka-stack/zeka-idea-plugin",
+    "skill_md": "https://raw.githubusercontent.com/zeka-stack/zeka-idea-plugin/main/.claude/skills/idea-plugin-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:36.896Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zeka-stack%2Fzeka-idea-plugin/.claude%2Fskills%2Fidea-plugin-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_1283fc02b449"
+  }
+}

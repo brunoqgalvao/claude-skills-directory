@@ -1,0 +1,37 @@
+{
+  "id": "quality-code-check",
+  "name": "quality-code-check",
+  "version": "1.0.0",
+  "summary": "Code quality validation through linting, type checking, and build verification.\nMulti-language support for automated quality gates.\n\nUse when validating code quality:\n- After im...",
+  "verticals": [
+    "engineering",
+    "support",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phananhtuan09",
+    "github": "phananhtuan09"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phananhtuan09/ai-agent-workflow",
+    "skill_md": "https://raw.githubusercontent.com/phananhtuan09/ai-agent-workflow/main/.claude/skills/architecture/quality-code-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.519Z",
+  "created_at": "2025-12-23T01:29:10.924Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phananhtuan09%2Fai-agent-workflow/.claude%2Fskills%2Farchitecture%2Fquality-code-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.519Z",
+    "uniqueId": "sk_7ecea84e896e"
+  }
+}

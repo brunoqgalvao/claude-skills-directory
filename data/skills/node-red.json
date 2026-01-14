@@ -1,0 +1,35 @@
+{
+  "id": "node-red",
+  "name": "node-red",
+  "version": "1.0.0",
+  "summary": "Edit, analyze, and create Node-RED flows by working with flows.json files, understanding node types, and applying Node-RED best practices. Use when the user mentions Node-RED, f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jwiegley",
+    "github": "jwiegley"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jwiegley/claude-prompts",
+    "skill_md": "https://raw.githubusercontent.com/jwiegley/claude-prompts/main/skills/node-red/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.525Z",
+  "created_at": "2025-12-23T01:29:05.493Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jwiegley%2Fclaude-prompts/skills%2Fnode-red%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.525Z",
+    "uniqueId": "sk_7a23dbb20c2b"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "deployment-and-ops",
+  "name": "deployment-and-ops",
+  "version": "1.0.0",
+  "summary": "Deploy and operate the vehicle insurance data analysis platform. Use when user asks about local development setup, production deployment, server configuration, build process, se...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alongor666",
+    "github": "alongor666"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alongor666/daylyreport",
+    "skill_md": "https://raw.githubusercontent.com/alongor666/daylyreport/main/.claude/skills/deployment-and-ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.467Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alongor666%2Fdaylyreport/.claude%2Fskills%2Fdeployment-and-ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_742fc1df605d"
+  }
+}

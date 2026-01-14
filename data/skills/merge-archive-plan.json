@@ -1,0 +1,35 @@
+{
+  "id": "merge-archive-plan",
+  "name": "merge-archive-plan",
+  "version": "1.0.0",
+  "summary": "Archive completed implementation plans after PR merge. Use when a plan's implementation has been merged to main, or after plan-execute completes on main branch.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dopsonbr",
+    "github": "dopsonbr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dopsonbr/agent-kit",
+    "skill_md": "https://raw.githubusercontent.com/dopsonbr/agent-kit/main/content/skills/merge-archive-plan/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.523Z",
+  "created_at": "2025-12-23T01:29:07.641Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dopsonbr%2Fagent-kit/content%2Fskills%2Fmerge-archive-plan%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_1677fa00c643"
+  }
+}

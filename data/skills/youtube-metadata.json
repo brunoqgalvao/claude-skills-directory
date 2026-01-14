@@ -1,0 +1,35 @@
+{
+  "id": "youtube-metadata",
+  "name": "youtube-metadata",
+  "version": "1.0.0",
+  "summary": "Generate YouTube title, description, and tags for bilingual audiobook videos. Use when user asks to upload video, generate youtube metadata, or prepare video for upload.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smoreg",
+    "github": "smoreg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smoreg/biLangGen",
+    "skill_md": "https://raw.githubusercontent.com/smoreg/biLangGen/main/.claude/skills/youtube-metadata/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T20:13:00.000Z",
+  "created_at": "2025-12-23T01:29:04.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smoreg%2FbiLangGen/.claude%2Fskills%2Fyoutube-metadata%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_fe0509b09461"
+  }
+}

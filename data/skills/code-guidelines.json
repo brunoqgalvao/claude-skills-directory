@@ -1,0 +1,36 @@
+{
+  "id": "code-guidelines",
+  "name": "code-guidelines",
+  "version": "1.0.0",
+  "summary": "Apply this repository's coding conventions and patterns. Use when writing or reviewing code in this codebase to ensure consistency with established patterns for DI, logging, err...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nikola-Milovic",
+    "github": "Nikola-Milovic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nikola-Milovic/frm-stack",
+    "skill_md": "https://raw.githubusercontent.com/Nikola-Milovic/frm-stack/main/.skills/code-guidelines/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:51.020Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nikola-Milovic%2Ffrm-stack/.skills%2Fcode-guidelines%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_babd3f5410fd"
+  }
+}

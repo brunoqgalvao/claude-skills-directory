@@ -1,0 +1,36 @@
+{
+  "id": "cli-design",
+  "name": "cli-design",
+  "version": "1.0.0",
+  "summary": "Ink.jsを使用したターミナルCLI UIの設計・実装ガイド。\n以下の場合に使用:\n(1) Ink.jsコンポーネントの新規作成・改修\n(2) useInput/useApp等のInk固有フックの実装\n(3) 絵文字/アイコンの幅管理問題への対応（string-width対策）\n(4) ターミナルサイズ対応・レスポンシブレイアウト\n(5) Enter...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "akiojin",
+    "github": "akiojin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/akiojin/skills",
+    "skill_md": "https://raw.githubusercontent.com/akiojin/skills/main/cli-design/skills/cli-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:50.561Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/akiojin%2Fskills/cli-design%2Fskills%2Fcli-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_615983a67018"
+  }
+}

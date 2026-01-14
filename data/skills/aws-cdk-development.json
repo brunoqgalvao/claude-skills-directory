@@ -1,0 +1,37 @@
+{
+  "id": "aws-cdk-development",
+  "name": "aws-cdk-development",
+  "version": "1.0.0",
+  "summary": "AWS Cloud Development Kit (CDK) expert for building cloud infrastructure with TypeScript/Python. Use when creating CDK stacks, defining CDK constructs, implementing infrastructu...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zxkane",
+    "github": "zxkane"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zxkane/aws-skills",
+    "skill_md": "https://raw.githubusercontent.com/zxkane/aws-skills/main/skills/aws-cdk-development/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T07:50:18.000Z",
+  "created_at": "2025-12-23T01:29:25.367Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zxkane%2Faws-skills/skills%2Faws-cdk-development%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.499Z",
+    "uniqueId": "sk_25fa09b9b766"
+  }
+}

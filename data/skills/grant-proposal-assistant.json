@@ -1,0 +1,36 @@
+{
+  "id": "grant-proposal-assistant",
+  "name": "grant-proposal-assistant",
+  "version": "1.0.0",
+  "summary": "Use when writing or reviewing NIH, NSF, or foundation grant proposals. Invoke when user mentions specific aims, R01, R21, K-series, significance, innovation, approach section, g...",
+  "verticals": [
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lyndonkl",
+    "github": "lyndonkl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lyndonkl/claude",
+    "skill_md": "https://raw.githubusercontent.com/lyndonkl/claude/main/skills/grant-proposal-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:44.670Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lyndonkl%2Fclaude/skills%2Fgrant-proposal-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_a6d8467a25a0"
+  }
+}

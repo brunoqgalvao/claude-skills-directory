@@ -1,0 +1,37 @@
+{
+  "id": "codex-cli-docs",
+  "name": "codex-cli-docs",
+  "version": "1.0.0",
+  "summary": "Single source of truth and librarian for ALL OpenAI Codex CLI documentation. Manages local documentation storage, scraping, discovery, and resolution. Use when finding, locating...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/openai-ecosystem/skills/codex-cli-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:18:55.008Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fopenai-ecosystem%2Fskills%2Fcodex-cli-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_5697047ba61a"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "drf-serializer",
+  "name": "drf-serializer",
+  "version": "1.0.0",
+  "summary": "Generate Django REST Framework serializers with validation, nested relationships, and best practices. Use when creating or updating API serializers, especially for complex model...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gizix",
+    "github": "gizix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gizix/cc_projects",
+    "skill_md": "https://raw.githubusercontent.com/gizix/cc_projects/main/django-template/.claude/skills/drf-serializer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.658Z",
+  "created_at": "2025-12-22T22:58:05.619Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gizix%2Fcc_projects/django-template%2F.claude%2Fskills%2Fdrf-serializer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.658Z",
+    "uniqueId": "sk_099a81b52384"
+  }
+}

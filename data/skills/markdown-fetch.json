@@ -1,0 +1,35 @@
+{
+  "id": "markdown-fetch",
+  "name": "markdown-fetch",
+  "version": "1.0.0",
+  "summary": "Fetches web content using Cloudflare Browser rendering and converts it to markdown",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "craigsdennis",
+    "github": "craigsdennis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/craigsdennis/skill-tutorial-checker-anthropic",
+    "skill_md": "https://raw.githubusercontent.com/craigsdennis/skill-tutorial-checker-anthropic/main/.claude/skills/markdown-fetch/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.854Z",
+  "created_at": "2025-12-22T15:53:34.064Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/craigsdennis%2Fskill-tutorial-checker-anthropic/.claude%2Fskills%2Fmarkdown-fetch%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_b29e553e4c82"
+  }
+}

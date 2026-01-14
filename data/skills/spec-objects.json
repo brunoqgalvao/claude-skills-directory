@@ -1,0 +1,36 @@
+{
+  "id": "spec-objects",
+  "name": "spec-objects",
+  "version": "1.0.0",
+  "summary": "Extract type definitions from requirements. Identifies primitives, products (×),\ncoproducts (+), and refined types as categorical objects. Use when: starting\nnew system, adding ...",
+  "verticals": [
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BellaBe",
+    "github": "BellaBe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BellaBe/ideas-os",
+    "skill_md": "https://raw.githubusercontent.com/BellaBe/ideas-os/main/.claude/skills/engineering-spec-objects/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.781Z",
+  "created_at": "2025-12-22T19:13:57.749Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BellaBe%2Fideas-os/.claude%2Fskills%2Fengineering-spec-objects%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_ef903d277f82"
+  }
+}

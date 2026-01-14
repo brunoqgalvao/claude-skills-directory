@@ -1,0 +1,36 @@
+{
+  "id": "coaching-materials-creator",
+  "name": "coaching-materials-creator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating coaching guides, peer learning structures, and post-workshop support materials. Use this skill to design coaching conversations using Kol...",
+  "verticals": [
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bailejl",
+    "github": "bailejl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bailejl/AI-Enablement-Resources",
+    "skill_md": "https://raw.githubusercontent.com/bailejl/AI-Enablement-Resources/main/.claude/skills/coaching-materials-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.853Z",
+  "created_at": "2025-12-22T15:54:28.801Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bailejl%2FAI-Enablement-Resources/.claude%2Fskills%2Fcoaching-materials-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_070e30d9c5f4"
+  }
+}

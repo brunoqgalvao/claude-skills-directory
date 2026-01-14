@@ -1,0 +1,36 @@
+{
+  "id": "document-fetcher",
+  "name": "document-fetcher",
+  "version": "1.0.0",
+  "summary": "Fetch documents from codex knowledge base with cache-first strategy.\nDelegates to fractary CLI for actual retrieval operations.",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fractary",
+    "github": "fractary"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fractary/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/fractary/claude-plugins/main/plugins/codex/skills/document-fetcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T13:32:43.000Z",
+  "created_at": "2025-12-22T19:14:31.138Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fractary%2Fclaude-plugins/plugins%2Fcodex%2Fskills%2Fdocument-fetcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_a2f5ed3f9082"
+  }
+}

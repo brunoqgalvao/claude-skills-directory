@@ -1,0 +1,36 @@
+{
+  "id": "dependency-injection-review",
+  "name": "dependency-injection-review",
+  "version": "1.0.0",
+  "summary": "Review code for proper DI patterns using DryIoc. Ensures no static singletons, validates constructor injection and service lifetimes. Use when reviewing code, refactoring static...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kateusz",
+    "github": "kateusz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kateusz/GameEngine",
+    "skill_md": "https://raw.githubusercontent.com/kateusz/GameEngine/main/.claude/skills/dependency-injection-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:24.590Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kateusz%2FGameEngine/.claude%2Fskills%2Fdependency-injection-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_643d4e0100a7"
+  }
+}

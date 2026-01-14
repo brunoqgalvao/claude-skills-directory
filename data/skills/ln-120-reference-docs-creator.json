@@ -1,0 +1,36 @@
+{
+  "id": "ln-120-reference-docs-creator",
+  "name": "ln-120-reference-docs-creator",
+  "version": "1.0.0",
+  "summary": "Creates reference documentation structure + smart documents (ADRs/Guides/Manuals) based on TECH_STACK. Only creates justified documents (nontrivial technology choices). L2 Worke...",
+  "verticals": [
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "levnikolaevich",
+    "github": "levnikolaevich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/levnikolaevich/claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/levnikolaevich/claude-code-skills/main/ln-120-reference-docs-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.479Z",
+  "created_at": "2025-12-23T01:29:44.885Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/levnikolaevich%2Fclaude-code-skills/ln-120-reference-docs-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.479Z",
+    "uniqueId": "sk_854aa07a642c"
+  }
+}

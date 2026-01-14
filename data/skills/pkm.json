@@ -1,0 +1,35 @@
+{
+  "id": "pkm",
+  "name": "pkm",
+  "version": "1.0.0",
+  "summary": "Use pkm for personal knowledge management with temporal awareness, quality filtering, hybrid search, and relationship tracking with LSP and MCP server integration.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lanej",
+    "github": "lanej"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lanej/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/lanej/dotfiles/main/claude/skills/pkm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:11:44.267Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lanej%2Fdotfiles/claude%2Fskills%2Fpkm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_f2f65a860196"
+  }
+}

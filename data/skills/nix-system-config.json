@@ -1,0 +1,37 @@
+{
+  "id": "nix-system-config",
+  "name": "nix-system-config",
+  "version": "1.0.0",
+  "summary": "Nix flake configuration for macOS (nix-darwin), NixOS, and Home Manager systems.\nUse when working with: (1) Building or applying system configurations, (2) Adding/modifying \npac...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnallen3d",
+    "github": "johnallen3d"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnallen3d/system-config",
+    "skill_md": "https://raw.githubusercontent.com/johnallen3d/system-config/main/.opencode/skills/nix-system-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:29:55.381Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnallen3d%2Fsystem-config/.opencode%2Fskills%2Fnix-system-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_5977b9c6cf33"
+  }
+}

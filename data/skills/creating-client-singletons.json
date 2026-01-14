@@ -1,0 +1,35 @@
+{
+  "id": "creating-client-singletons",
+  "name": "creating-client-singletons",
+  "version": "1.0.0",
+  "summary": "Prevent multiple PrismaClient instances that exhaust connection pools causing P1017 errors. Use when creating PrismaClient, exporting database clients, setting up Prisma in new ...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/prisma-6/skills/creating-client-singletons/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-25T00:43:54.000Z",
+  "created_at": "2025-12-23T01:29:20.577Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/prisma-6%2Fskills%2Fcreating-client-singletons%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_f163bca684b3"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "registry-adapter",
+  "name": "registry-adapter",
+  "version": "1.0.0",
+  "summary": "Generate a new package registry adapter for the worker service. Creates schema, client, mapper, and index files following the npm adapter pattern. Use when adding support for a ...",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Hortashaorg",
+    "github": "Hortashaorg"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Hortashaorg/skills",
+    "skill_md": "https://raw.githubusercontent.com/Hortashaorg/skills/main/.claude/skills/registry-adapter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T16:17:07.000Z",
+  "created_at": "2025-12-22T19:57:18.124Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Hortashaorg%2Fskills/.claude%2Fskills%2Fregistry-adapter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_74bda2fbcbb8"
+  }
+}

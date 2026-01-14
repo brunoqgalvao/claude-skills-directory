@@ -1,0 +1,35 @@
+{
+  "id": "semantic-intelligence",
+  "name": "semantic-intelligence",
+  "version": "1.0.0",
+  "summary": "Use Miller's semantic search capabilities for conceptual code understanding. Activates when searching for concepts, cross-language patterns, business logic, or exploring unfamil...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anortham",
+    "github": "anortham"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anortham/miller",
+    "skill_md": "https://raw.githubusercontent.com/anortham/miller/main/.claude/skills/semantic-intelligence/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:12.470Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anortham%2Fmiller/.claude%2Fskills%2Fsemantic-intelligence%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_612b8f523838"
+  }
+}

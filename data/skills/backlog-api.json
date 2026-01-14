@@ -1,0 +1,36 @@
+{
+  "id": "backlog-api",
+  "name": "backlog-api",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user asks to \"create issue\", \"search issues\", \"update ticket\", \"check notifications\", mentions \"Backlog\", \"バックログ\", \"課題\", \"チケット\", discusses pro...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "abekdwight",
+    "github": "abekdwight"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/abekdwight/claude-code-plugin",
+    "skill_md": "https://raw.githubusercontent.com/abekdwight/claude-code-plugin/main/plugins/backlog-skill/skills/backlog-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:13:00.616Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/abekdwight%2Fclaude-code-plugin/plugins%2Fbacklog-skill%2Fskills%2Fbacklog-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_b3caf87f5062"
+  }
+}

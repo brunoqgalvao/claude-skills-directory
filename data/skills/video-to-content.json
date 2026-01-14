@@ -1,0 +1,35 @@
+{
+  "id": "video-to-content",
+  "name": "video-to-content",
+  "version": "1.0.0",
+  "summary": "Convert video transcripts, podcasts, and SRT files into blog posts, social clips, and other content formats. Use for repurposing video content.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mattppal",
+    "github": "mattppal"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mattppal/prompts",
+    "skill_md": "https://raw.githubusercontent.com/mattppal/prompts/main/.claude/skills/video-to-content/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:07:11.115Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mattppal%2Fprompts/.claude%2Fskills%2Fvideo-to-content%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_5a8424d16c9f"
+  }
+}

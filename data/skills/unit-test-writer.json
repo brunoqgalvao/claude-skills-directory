@@ -1,0 +1,35 @@
+{
+  "id": "unit-test-writer",
+  "name": "unit-test-writer",
+  "version": "1.0.0",
+  "summary": "Spring Boot 프로젝트의 유닛테스트를 작성합니다.\nJUnit, Mockito를 사용하며 Fixtures 패턴으로 테스트 객체를 관리합니다.\n사용 시점: 서비스 로직, 컨트롤러, 리포지토리 테스트 작성",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jo-minjun",
+    "github": "jo-minjun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jo-minjun/ai-setting-example",
+    "skill_md": "https://raw.githubusercontent.com/jo-minjun/ai-setting-example/main/skills/unit-test-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.692Z",
+  "created_at": "2025-12-22T22:04:18.698Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jo-minjun%2Fai-setting-example/skills%2Funit-test-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.692Z",
+    "uniqueId": "sk_a88f7669ab18"
+  }
+}

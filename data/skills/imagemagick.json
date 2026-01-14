@@ -1,0 +1,36 @@
+{
+  "id": "imagemagick",
+  "name": "imagemagick",
+  "version": "1.0.0",
+  "summary": "Process and manipulate images with format conversion (PNG→JPG→WebP→GIF), resizing, cropping, filtering, batch operations, and image metadata extraction. Use for thumbnail genera...",
+  "verticals": [
+    "operations",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pacphi",
+    "github": "pacphi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pacphi/sindri",
+    "skill_md": "https://raw.githubusercontent.com/pacphi/sindri/main/docker/lib/extensions/vf-imagemagick/resources/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T03:15:03.000Z",
+  "created_at": "2025-12-23T01:28:40.027Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pacphi%2Fsindri/docker%2Flib%2Fextensions%2Fvf-imagemagick%2Fresources%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.562Z",
+    "uniqueId": "sk_56bb89373984"
+  }
+}

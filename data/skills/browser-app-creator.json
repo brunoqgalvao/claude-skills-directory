@@ -1,0 +1,37 @@
+{
+  "id": "browser-app-creator",
+  "name": "browser-app-creator",
+  "version": "1.0.0",
+  "summary": "Creates complete single-file HTML/CSS/JS web apps with localStorage persistence, ADHD-optimized UI (60px+ buttons), dark mode, and offline functionality. Use when user says \"cre...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Toowiredd",
+    "github": "Toowiredd"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Toowiredd/claude-skills-automation",
+    "skill_md": "https://raw.githubusercontent.com/Toowiredd/claude-skills-automation/main/skills/browser-app-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:04:58.537Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Toowiredd%2Fclaude-skills-automation/skills%2Fbrowser-app-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_9f637ffa114a"
+  }
+}

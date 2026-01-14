@@ -1,0 +1,35 @@
+{
+  "id": "orchestrator-designer",
+  "name": "orchestrator-designer",
+  "version": "1.0.0",
+  "summary": "UI/UX Designer for Claude Orchestrator. Creates design specifications with design tokens (colors, fonts, spacing) and component specs. Use when asked to create design specificat...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JunHyuk-Kang",
+    "github": "JunHyuk-Kang"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JunHyuk-Kang/ai-co-learner",
+    "skill_md": "https://raw.githubusercontent.com/JunHyuk-Kang/ai-co-learner/main/.claude/skills/orchestrator-designer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.449Z",
+  "created_at": "2025-12-22T16:05:58.848Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JunHyuk-Kang%2Fai-co-learner/.claude%2Fskills%2Forchestrator-designer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.449Z",
+    "uniqueId": "sk_afce099e9b92"
+  }
+}

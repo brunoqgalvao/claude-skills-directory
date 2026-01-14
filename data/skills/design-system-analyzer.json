@@ -1,0 +1,36 @@
+{
+  "id": "design-system-analyzer",
+  "name": "design-system-analyzer",
+  "version": "1.0.0",
+  "summary": "Use when analyzing UI screenshots or designs to extract and document design system elements. Analyzes images to identify colors, typography, spacing, components, and patterns, t...",
+  "verticals": [
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pastjean",
+    "github": "pastjean"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pastjean/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/pastjean/dotfiles/main/.claude/skills/design-system-analyzer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.644Z",
+  "created_at": "2025-12-22T23:06:37.614Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pastjean%2Fdotfiles/.claude%2Fskills%2Fdesign-system-analyzer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.644Z",
+    "uniqueId": "sk_3d04bdf8c014"
+  }
+}

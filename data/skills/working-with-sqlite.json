@@ -1,0 +1,35 @@
+{
+  "id": "working-with-sqlite",
+  "name": "working-with-sqlite",
+  "version": "1.0.0",
+  "summary": "Preferences and tricks for working with SQLite databases",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "williballenthin",
+    "github": "williballenthin"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/williballenthin/aiwilli",
+    "skill_md": "https://raw.githubusercontent.com/williballenthin/aiwilli/main/claude/skills/working-with-sqlite/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T10:15:33.000Z",
+  "created_at": "2025-12-22T14:20:05.697Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/williballenthin%2Faiwilli/claude%2Fskills%2Fworking-with-sqlite%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_63f7fbc81b50"
+  }
+}

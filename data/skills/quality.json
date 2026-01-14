@@ -1,0 +1,35 @@
+{
+  "id": "quality",
+  "name": "quality",
+  "version": "1.0.0",
+  "summary": "コード品質チェックスキル。ビルド、リント、フォーマット、テストを実行してエラーがないことを確認する。\n使用ケース：コーディング完了後の品質確認",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canpok1",
+    "github": "canpok1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canpok1/maze-runner",
+    "skill_md": "https://raw.githubusercontent.com/canpok1/maze-runner/main/.claude/skills/quality/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.883Z",
+  "created_at": "2025-12-22T14:52:12.385Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canpok1%2Fmaze-runner/.claude%2Fskills%2Fquality%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.883Z",
+    "uniqueId": "sk_a492a8aa4591"
+  }
+}

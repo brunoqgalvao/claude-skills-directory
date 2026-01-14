@@ -1,0 +1,37 @@
+{
+  "id": "breathofnow-dev",
+  "name": "breathofnow-dev",
+  "version": "1.0.0",
+  "summary": "Master skill for Breath of Now development. Provides comprehensive project context, architecture guidelines, and development workflows. Auto-invoked for all development tasks in...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "diogo-heleno",
+    "github": "diogo-heleno"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/diogo-heleno/breathofnow",
+    "skill_md": "https://raw.githubusercontent.com/diogo-heleno/breathofnow/main/.claude/skills/breathofnow-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.801Z",
+  "created_at": "2025-12-22T18:10:27.536Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/diogo-heleno%2Fbreathofnow/.claude%2Fskills%2Fbreathofnow-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.801Z",
+    "uniqueId": "sk_9af696f466ce"
+  }
+}

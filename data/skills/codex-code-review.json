@@ -1,0 +1,36 @@
+{
+  "id": "codex-code-review",
+  "name": "codex-code-review",
+  "version": "1.0.0",
+  "summary": "Perform comprehensive code reviews using OpenAI Codex CLI. This skill should be used when users request code reviews, want to analyze diffs/PRs, need security audits, performanc...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "noobmastercn",
+    "github": "noobmastercn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/noobmastercn/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/noobmastercn/claude-skills/main/codex-code-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.458Z",
+  "created_at": "2025-12-22T22:03:21.454Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/noobmastercn%2Fclaude-skills/codex-code-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.458Z",
+    "uniqueId": "sk_ff1c3bd13a76"
+  }
+}

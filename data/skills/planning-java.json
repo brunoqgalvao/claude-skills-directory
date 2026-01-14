@@ -1,0 +1,37 @@
+{
+  "id": "planning-java",
+  "name": "planning-java",
+  "version": "1.0.0",
+  "summary": "Project planning and architecture decision workflow for Java/Spring. Use when starting new projects, designing microservices, or making architectural decisions. Emphasizes simpl...",
+  "verticals": [
+    "support",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PedroSantiagoDev",
+    "github": "PedroSantiagoDev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PedroSantiagoDev/buildup",
+    "skill_md": "https://raw.githubusercontent.com/PedroSantiagoDev/buildup/main/.claude/skills/planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.842Z",
+  "created_at": "2025-12-22T16:06:21.051Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PedroSantiagoDev%2Fbuildup/.claude%2Fskills%2Fplanning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.842Z",
+    "uniqueId": "sk_72b11136430f"
+  }
+}

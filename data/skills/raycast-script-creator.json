@@ -1,0 +1,37 @@
+{
+  "id": "raycast-script-creator",
+  "name": "raycast-script-creator",
+  "version": "1.0.0",
+  "summary": "Create valid Raycast script-commands that integrate with the Raycast launcher. Use this skill when users request creating Raycast scripts, automation commands for Raycast, or wo...",
+  "verticals": [
+    "operations",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "drpedapati",
+    "github": "drpedapati"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/drpedapati/raycast-script-creator",
+    "skill_md": "https://raw.githubusercontent.com/drpedapati/raycast-script-creator/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.775Z",
+  "created_at": "2025-12-22T19:58:03.146Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/drpedapati%2Fraycast-script-creator/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.775Z",
+    "uniqueId": "sk_35c00edaa7a4"
+  }
+}

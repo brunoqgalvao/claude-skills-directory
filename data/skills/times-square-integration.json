@@ -1,0 +1,36 @@
+{
+  "id": "times-square-integration",
+  "name": "times-square-integration",
+  "version": "1.0.0",
+  "summary": "Times Square notebook execution system integration patterns. Use this skill when working with Times Square pages, implementing SSE updates, handling URL parameters, setting up G...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lsst-sqre",
+    "github": "lsst-sqre"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lsst-sqre/squareone",
+    "skill_md": "https://raw.githubusercontent.com/lsst-sqre/squareone/main/.claude/skills/times-square-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:57.040Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lsst-sqre%2Fsquareone/.claude%2Fskills%2Ftimes-square-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_8f6f857ef2fd"
+  }
+}

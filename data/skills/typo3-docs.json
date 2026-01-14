@@ -1,0 +1,37 @@
+{
+  "id": "typo3-docs",
+  "name": "typo3-docs",
+  "version": "1.0.0",
+  "summary": "Create and maintain TYPO3 extension documentation following official TYPO3 13.x standards. Use when creating/editing Documentation/*.rst files or README.md, using TYPO3 directiv...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "netresearch",
+    "github": "netresearch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/netresearch/typo3-docs-skill",
+    "skill_md": "https://raw.githubusercontent.com/netresearch/typo3-docs-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.613Z",
+  "created_at": "2025-12-22T23:56:44.337Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/netresearch%2Ftypo3-docs-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.613Z",
+    "uniqueId": "sk_b99c0e71868d"
+  }
+}

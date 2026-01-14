@@ -1,0 +1,36 @@
+{
+  "id": "rastreando-odoo",
+  "name": "rastreando-odoo",
+  "version": "1.0.0",
+  "summary": "Rastreia fluxos documentais completos no Odoo a partir de qualquer ponto de entrada.\n\nUSAR QUANDO:\n- Rastrear NF de compra/venda: \"rastreie NF 12345\", \"fluxo da nota 54321\"\n- Ra...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Rafael-2109",
+    "github": "Rafael-2109"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Rafael-2109/frete-sistema",
+    "skill_md": "https://raw.githubusercontent.com/Rafael-2109/frete-sistema/main/.claude/skills/rastreando-odoo/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T00:40:54.000Z",
+  "created_at": "2025-12-23T01:29:13.149Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Rafael-2109%2Ffrete-sistema/.claude%2Fskills%2Frastreando-odoo%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_14eee070d443"
+  }
+}

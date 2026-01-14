@@ -1,0 +1,36 @@
+{
+  "id": "figma-design-tokens",
+  "name": "figma-design-tokens",
+  "version": "1.0.0",
+  "summary": "Extracts design tokens from Figma files and generates production-ready CSS, SCSS, JSON, TypeScript, and W3C DTCG format files using the Figma MCP server",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shawn-sandy",
+    "github": "shawn-sandy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shawn-sandy/skills",
+    "skill_md": "https://raw.githubusercontent.com/shawn-sandy/skills/main/figma-design-tokens/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.487Z",
+  "created_at": "2025-12-23T01:29:37.491Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shawn-sandy%2Fskills/figma-design-tokens%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.487Z",
+    "uniqueId": "sk_0a65180de279"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "figlet-typography",
+  "name": "figlet-typography",
+  "version": "1.0.0",
+  "summary": "Generate ASCII art typography using pyfiglet. Use when user asks for ASCII art text, banners, headers, logo text, terminal art, or decorative typography. Curated whitelist of 24...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "j-greig",
+    "github": "j-greig"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/j-greig/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/j-greig/claude-skills/main/skills/figlet-typography/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.837Z",
+  "created_at": "2025-12-22T16:51:02.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/j-greig%2Fclaude-skills/skills%2Ffiglet-typography%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.837Z",
+    "uniqueId": "sk_61bb2db04caf"
+  }
+}

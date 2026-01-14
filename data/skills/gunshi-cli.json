@@ -1,0 +1,36 @@
+{
+  "id": "gunshi-cli",
+  "name": "gunshi-cli",
+  "version": "1.0.0",
+  "summary": "Build TypeScript CLIs with gunshi. Use when creating command-line tools, parsing arguments, or implementing subcommands in TypeScript.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "aster-void",
+    "github": "aster-void"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/aster-void/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/aster-void/dotfiles/main/modules/home/profile-dev/programs/claude-code/skills/gunshi-cli/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-11T12:55:56.000Z",
+  "created_at": "2025-12-22T19:30:35.543Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/aster-void%2Fdotfiles/modules%2Fhome%2Fprofile-dev%2Fprograms%2Fclaude-code%2Fskills%2Fgunshi-cli%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.778Z",
+    "uniqueId": "sk_8bb7ed9321d4"
+  }
+}

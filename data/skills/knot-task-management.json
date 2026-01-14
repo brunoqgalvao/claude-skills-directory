@@ -1,0 +1,36 @@
+{
+  "id": "knot-task-management",
+  "name": "knot-task-management",
+  "version": "1.0.0",
+  "summary": "Comprehensive task management workflow using KNOT CLI tool. This skill provides systematic guidance for project and task management, ensuring every piece of work is documented, ...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "denkhaus",
+    "github": "denkhaus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/denkhaus/knot",
+    "skill_md": "https://raw.githubusercontent.com/denkhaus/knot/main/.claude-plugin/skills/knot-task-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.686Z",
+  "created_at": "2025-12-22T22:09:28.167Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/denkhaus%2Fknot/.claude-plugin%2Fskills%2Fknot-task-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.686Z",
+    "uniqueId": "sk_4f19611893b2"
+  }
+}

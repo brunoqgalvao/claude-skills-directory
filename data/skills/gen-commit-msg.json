@@ -1,0 +1,35 @@
+{
+  "id": "gen-commit-msg",
+  "name": "gen-commit-msg",
+  "version": "1.0.0",
+  "summary": "Generate concise commit messages based on conversation context and minimal git inspection.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "acking-you",
+    "github": "acking-you"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/acking-you/myclaude-skills",
+    "skill_md": "https://raw.githubusercontent.com/acking-you/myclaude-skills/main/skills/gen-commit-msg/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:42.060Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/acking-you%2Fmyclaude-skills/skills%2Fgen-commit-msg%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_9e6f797127ca"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "delaying-tasks",
+  "name": "delaying-tasks",
+  "version": "1.0.0",
+  "summary": "Schedule a delayed or interval-based action with minimal heartbeats. Use to wait before running a check (e.g., GH Actions, PR status, CI pipeline) or to poll on a bounded interv...",
+  "verticals": [
+    "sales"
+  ],
+  "tags": [],
+  "author": {
+    "name": "randlee",
+    "github": "randlee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/randlee/synaptic-canvas",
+    "skill_md": "https://raw.githubusercontent.com/randlee/synaptic-canvas/main/packages/sc-delay-tasks/skills/sc-delaying-tasks/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T19:08:55.000Z",
+  "created_at": "2025-12-22T15:58:52.807Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/randlee%2Fsynaptic-canvas/packages%2Fsc-delay-tasks%2Fskills%2Fsc-delaying-tasks%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_cb95412364f9"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "polkadot-api-patterns",
+  "name": "polkadot-api-patterns",
+  "version": "1.0.0",
+  "summary": "Essential patterns for polkadot-api (PAPI) development. Use when implementing blockchain interactions with Polkadot/Substrate chains including transactions (signing, batching, w...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "QuantumFusion-network",
+    "github": "QuantumFusion-network"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/QuantumFusion-network/w3zard-gen",
+    "skill_md": "https://raw.githubusercontent.com/QuantumFusion-network/w3zard-gen/main/.claude/skills/polkadot-api-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.514Z",
+  "created_at": "2025-12-23T01:29:14.395Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/QuantumFusion-network%2Fw3zard-gen/.claude%2Fskills%2Fpolkadot-api-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.514Z",
+    "uniqueId": "sk_d2d9d9875c13"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tech-stack-config",
+  "name": "tech-stack-config",
+  "version": "1.0.0",
+  "summary": "Spring Boot 3.4.4 and Java 17 tech stack configuration, package structure conventions, and coding patterns for consistent API development. Use this when generating designs, impl...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phamtiendatbg92",
+    "github": "phamtiendatbg92"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phamtiendatbg92/ai-gent-for-java",
+    "skill_md": "https://raw.githubusercontent.com/phamtiendatbg92/ai-gent-for-java/main/.claude/skills/tech-stack-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:00.212Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phamtiendatbg92%2Fai-gent-for-java/.claude%2Fskills%2Ftech-stack-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_6b999c6c4e0f"
+  }
+}

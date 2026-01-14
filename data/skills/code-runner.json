@@ -1,0 +1,36 @@
+{
+  "id": "code-runner",
+  "name": "code-runner",
+  "version": "1.0.0",
+  "summary": "Run code snippets in 30+ programming languages including JavaScript, Python, TypeScript, Java, C, C++, Go, Rust, Ruby, PHP, and more. Use when the user wants to execute code, te...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "formulahendry",
+    "github": "formulahendry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/formulahendry/agent-skill-code-runner",
+    "skill_md": "https://raw.githubusercontent.com/formulahendry/agent-skill-code-runner/main/.github/skills/code-runner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:58:20.090Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/formulahendry%2Fagent-skill-code-runner/.github%2Fskills%2Fcode-runner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_db4c2c115393"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "task-wrapup",
+  "name": "task-wrapup",
+  "version": "1.0.0",
+  "summary": "Comprehensive work session wrap-up orchestrator that generates summaries, sends notifications across multiple channels (email, SMS, Slack), logs work time, and updates project d...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "arlenagreer",
+    "github": "arlenagreer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/arlenagreer/claude_configuration_docs",
+    "skill_md": "https://raw.githubusercontent.com/arlenagreer/claude_configuration_docs/main/skills/task-wrapup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:03:27.538Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/arlenagreer%2Fclaude_configuration_docs/skills%2Ftask-wrapup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_6e92fe074b7a"
+  }
+}

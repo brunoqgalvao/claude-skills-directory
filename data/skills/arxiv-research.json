@@ -1,0 +1,35 @@
+{
+  "id": "arxiv-research",
+  "name": "arxiv-research",
+  "version": "1.0.0",
+  "summary": "Download and analyze academic papers from arXiv. Use when users want to download a specific paper by ID (e.g., \"download paper arxiv:1234.5678\") or read/analyze papers they've a...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "syz51",
+    "github": "syz51"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/syz51/claude-code-settings",
+    "skill_md": "https://raw.githubusercontent.com/syz51/claude-code-settings/main/skills/arxiv-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-06T10:00:15.000Z",
+  "created_at": "2025-12-23T01:28:27.644Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/syz51%2Fclaude-code-settings/skills%2Farxiv-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.574Z",
+    "uniqueId": "sk_74b4f4cab05f"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "validating-pci-dss-compliance",
+  "name": "validating-pci-dss-compliance",
+  "version": "1.0.0",
+  "summary": "This skill uses the pci-dss-validator plugin to assess codebases and infrastructure configurations for compliance with the Payment Card Industry Data Security Standard (PCI DSS)...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/backups/skills-batch-20251204-000554/plugins/security/pci-dss-validator/skills/pci-dss-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-04T06:09:39.000Z",
+  "created_at": "2025-12-19T16:03:14.121Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/backups%2Fskills-batch-20251204-000554%2Fplugins%2Fsecurity%2Fpci-dss-validator%2Fskills%2Fpci-dss-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_ec8d4b706968"
+  }
+}

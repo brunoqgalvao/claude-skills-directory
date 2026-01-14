@@ -1,0 +1,35 @@
+{
+  "id": "assign-to-sprint",
+  "name": "assign-to-sprint",
+  "version": "1.0.0",
+  "summary": "Task를 Sprint(Iteration)에 할당. Use when (1) Sprint 계획 시 Task 선정,\n(2) Task 추가 할당, (3) /SAX:sprint add 커맨드.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-pm",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-pm/main/skills/assign-to-sprint/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:46.252Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-pm/skills%2Fassign-to-sprint%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_14c1862b592e"
+  }
+}

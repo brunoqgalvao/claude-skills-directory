@@ -1,0 +1,37 @@
+{
+  "id": "java-ddd-hexagonal",
+  "name": "java-ddd-hexagonal",
+  "version": "1.0.0",
+  "summary": "Guide Claude to create domain modules following DDD principles and hexagonal architecture for Java + Spring Boot projects.\nUse when user requests:\n(1) \"Create a new module\" / \"새...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "swyp-web-11-team-4",
+    "github": "swyp-web-11-team-4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/swyp-web-11-team-4/airoad-backend",
+    "skill_md": "https://raw.githubusercontent.com/swyp-web-11-team-4/airoad-backend/main/.claude/skills/java-ddd-hexagonal/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.638Z",
+  "created_at": "2025-12-22T23:08:40.507Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/swyp-web-11-team-4%2Fairoad-backend/.claude%2Fskills%2Fjava-ddd-hexagonal%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.638Z",
+    "uniqueId": "sk_cc0633ceca3a"
+  }
+}

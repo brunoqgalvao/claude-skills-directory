@@ -1,0 +1,35 @@
+{
+  "id": "scienceworld-act",
+  "name": "scienceworld-act",
+  "version": "1.0.0",
+  "summary": "Take a ScienceWorld action in the active session. Returns observation, reward, done. No session_id needed - uses active session from executive_node.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bdambrosio",
+    "github": "bdambrosio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bdambrosio/Cognitive_workbench",
+    "skill_md": "https://raw.githubusercontent.com/bdambrosio/Cognitive_workbench/main/src/tools/scienceworld-act/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:22:01.032Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bdambrosio%2FCognitive_workbench/src%2Ftools%2Fscienceworld-act%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_6ecc2a797f3f"
+  }
+}

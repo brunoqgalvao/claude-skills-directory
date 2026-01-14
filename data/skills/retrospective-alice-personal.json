@@ -1,0 +1,35 @@
+{
+  "id": "retrospective-alice-personal",
+  "name": "retrospective-alice-personal",
+  "version": "1.0.0",
+  "summary": "Alice's couch-to-5K retrospective with training reflections and progress tracking.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ZachBeta",
+    "github": "ZachBeta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ZachBeta/claude-as-coach",
+    "skill_md": "https://raw.githubusercontent.com/ZachBeta/claude-as-coach/main/examples/alice-the-athlete/skills/retrospective-alice-personal/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.536Z",
+  "created_at": "2025-12-23T01:28:56.467Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ZachBeta%2Fclaude-as-coach/examples%2Falice-the-athlete%2Fskills%2Fretrospective-alice-personal%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.536Z",
+    "uniqueId": "sk_4a441a1b09f0"
+  }
+}

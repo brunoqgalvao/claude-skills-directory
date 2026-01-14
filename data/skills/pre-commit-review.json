@@ -1,0 +1,36 @@
+{
+  "id": "pre-commit-review",
+  "name": "pre-commit-review",
+  "version": "1.0.0",
+  "summary": "ADVISORY validation of code against design principles that linters cannot enforce. Use after linter passes and tests pass to validate design quality. Categorizes findings as Des...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "buzzdan",
+    "github": "buzzdan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/buzzdan/ai-coding-rules",
+    "skill_md": "https://raw.githubusercontent.com/buzzdan/ai-coding-rules/main/go-linter-driven-development/skills/pre-commit-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:11:39.875Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/buzzdan%2Fai-coding-rules/go-linter-driven-development%2Fskills%2Fpre-commit-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_3f7bbf8f8b94"
+  }
+}

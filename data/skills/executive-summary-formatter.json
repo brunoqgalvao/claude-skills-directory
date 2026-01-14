@@ -1,0 +1,35 @@
+{
+  "id": "executive-summary-formatter",
+  "name": "executive-summary-formatter",
+  "version": "1.0.0",
+  "summary": "Transform poorly formatted executive summaries into professionally formatted documents matching a specific brand template. Use when the user provides an executive summary (text,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mjpensa",
+    "github": "mjpensa"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mjpensa/force",
+    "skill_md": "https://raw.githubusercontent.com/mjpensa/force/main/docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.686Z",
+  "created_at": "2025-12-22T22:09:44.006Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mjpensa%2Fforce/docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.686Z",
+    "uniqueId": "sk_1927843e4a75"
+  }
+}

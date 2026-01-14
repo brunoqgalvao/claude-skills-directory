@@ -1,0 +1,37 @@
+{
+  "id": "js-worker-multithreading",
+  "name": "js-worker-multithreading",
+  "version": "1.0.0",
+  "summary": "Implement, refactor, or review worker-based multithreading in TypeScript/JavaScript apps (browser or Node). Use when offloading CPU-heavy loops to Web Workers, setting up a work...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "deadronos",
+    "github": "deadronos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/deadronos/RobotSpaceBattler",
+    "skill_md": "https://raw.githubusercontent.com/deadronos/RobotSpaceBattler/main/.github/skills/js-worker-multithreading/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.836Z",
+  "created_at": "2025-12-22T16:51:32.959Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/deadronos%2FRobotSpaceBattler/.github%2Fskills%2Fjs-worker-multithreading%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.836Z",
+    "uniqueId": "sk_32f61722fa50"
+  }
+}

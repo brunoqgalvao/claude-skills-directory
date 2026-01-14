@@ -1,0 +1,36 @@
+{
+  "id": "notification-system-builder",
+  "name": "notification-system-builder",
+  "version": "1.0.0",
+  "summary": "Expert notification system for Mek Tycoon. Handles NotificationBell with unread badge (9+ display), 5-item dropdown, 10-per-page lightbox, deep linking to destinations, notifica...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hugio55",
+    "github": "hugio55"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hugio55/mek-tycoon-react",
+    "skill_md": "https://raw.githubusercontent.com/hugio55/mek-tycoon-react/main/.claude/skills/notification-system-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.511Z",
+  "created_at": "2025-12-23T01:29:17.673Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hugio55%2Fmek-tycoon-react/.claude%2Fskills%2Fnotification-system-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.511Z",
+    "uniqueId": "sk_cdb24a9e947e"
+  }
+}

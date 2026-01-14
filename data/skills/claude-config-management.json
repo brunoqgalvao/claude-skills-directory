@@ -1,0 +1,35 @@
+{
+  "id": "claude-config-management",
+  "name": "claude-config-management",
+  "version": "1.0.0",
+  "summary": "Use when configuring, maintaining, troubleshooting, or optimizing Claude Code extensions including skills, commands, hooks, MCP servers, or agents. Provides best practices and p...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "apassuello",
+    "github": "apassuello"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/apassuello/multimodal_insight_engine",
+    "skill_md": "https://raw.githubusercontent.com/apassuello/multimodal_insight_engine/main/.claude/skills/claude-config-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T15:59:26.927Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/apassuello%2Fmultimodal_insight_engine/.claude%2Fskills%2Fclaude-config-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_93b20256c428"
+  }
+}

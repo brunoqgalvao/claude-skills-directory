@@ -1,0 +1,35 @@
+{
+  "id": "bump-version",
+  "name": "bump-version",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the user wants to bump the version number in the workspace. It updates versions across all pyproject.toml files (root, tde, and tda packages) and ...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NikiforovAll",
+    "github": "NikiforovAll"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NikiforovAll/dotnet-format-agent",
+    "skill_md": "https://raw.githubusercontent.com/NikiforovAll/dotnet-format-agent/main/.claude/skills/bump-version/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T10:16:22.000Z",
+  "created_at": "2025-12-23T01:29:02.656Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NikiforovAll%2Fdotnet-format-agent/.claude%2Fskills%2Fbump-version%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.528Z",
+    "uniqueId": "sk_4de510978920"
+  }
+}

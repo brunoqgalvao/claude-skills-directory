@@ -1,0 +1,35 @@
+{
+  "id": "traefik-swarm",
+  "name": "traefik-swarm",
+  "version": "1.0.0",
+  "summary": "Auditar labels Traefik v3.5.x, networks e secrets em stacks Docker Swarm para garantir roteamento seguro do backend de resultados.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Wibson82",
+    "github": "Wibson82"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Wibson82/conexao-de-sorte-backend-resultados",
+    "skill_md": "https://raw.githubusercontent.com/Wibson82/conexao-de-sorte-backend-resultados/main/.claude/skills/traefik-swarm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.860Z",
+  "created_at": "2025-12-22T15:09:18.389Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Wibson82%2Fconexao-de-sorte-backend-resultados/.claude%2Fskills%2Ftraefik-swarm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_100d598ff525"
+  }
+}

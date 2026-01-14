@@ -1,0 +1,35 @@
+{
+  "id": "jest-testing",
+  "name": "jest-testing",
+  "version": "1.0.0",
+  "summary": "Use when writing Jest tests - covers testing patterns for interpreters, parsers, and async code",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/lea",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/lea/main/.claude/skills/jest-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.567Z",
+  "created_at": "2025-12-23T01:28:35.323Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Flea/.claude%2Fskills%2Fjest-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.567Z",
+    "uniqueId": "sk_8f8407087b21"
+  }
+}

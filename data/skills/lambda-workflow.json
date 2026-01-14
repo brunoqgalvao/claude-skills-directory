@@ -1,0 +1,35 @@
+{
+  "id": "lambda-workflow",
+  "name": "lambda-workflow",
+  "version": "1.0.0",
+  "summary": "One lifecycle for Lambda repos: choose a bd task, start work, land the PR, and watch GitHub via Dumbwaiter MCP until it merges.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lambdamechanic",
+    "github": "lambdamechanic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lambdamechanic/tooltest",
+    "skill_md": "https://raw.githubusercontent.com/lambdamechanic/tooltest/main/skills/lambda-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.515Z",
+  "created_at": "2025-12-23T01:29:13.760Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lambdamechanic%2Ftooltest/skills%2Flambda-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.515Z",
+    "uniqueId": "sk_9ad2a27c1e6f"
+  }
+}

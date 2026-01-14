@@ -1,0 +1,37 @@
+{
+  "id": "frontend-design-assistant",
+  "name": "frontend-design-assistant",
+  "version": "1.0.0",
+  "summary": "Frontend design assistant for users with zero/low-code background. This skill should be used when users request creating web interfaces, landing pages, dashboards, or any fronte...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "waylon256yhw",
+    "github": "waylon256yhw"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/waylon256yhw/frontend_designer",
+    "skill_md": "https://raw.githubusercontent.com/waylon256yhw/frontend_designer/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:01:29.588Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/waylon256yhw%2Ffrontend_designer/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_08ea700edbe2"
+  }
+}

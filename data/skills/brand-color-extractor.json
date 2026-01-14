@@ -1,0 +1,35 @@
+{
+  "id": "brand-color-extractor",
+  "name": "brand-color-extractor",
+  "version": "1.0.0",
+  "summary": "🎨 品牌配色提取專家 - 當需要為 VS Code 主題提取品牌官方配色時使用此 skill。從官方網站提取品牌配色並生成 VS Code 主題色彩方案 (project)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vivalalova",
+    "github": "vivalalova"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vivalalova/vscode-theme",
+    "skill_md": "https://raw.githubusercontent.com/vivalalova/vscode-theme/main/.claude/skills/brand-color-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.599Z",
+  "created_at": "2025-12-23T00:17:37.606Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vivalalova%2Fvscode-theme/.claude%2Fskills%2Fbrand-color-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.599Z",
+    "uniqueId": "sk_8e3a9e9281e0"
+  }
+}

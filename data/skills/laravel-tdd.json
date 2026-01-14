@@ -1,0 +1,35 @@
+{
+  "id": "laravel-tdd",
+  "name": "laravel-tdd",
+  "version": "1.0.0",
+  "summary": "Test-Driven Development specifically for Laravel applications using Pest PHP. Use when implementing any Laravel feature or bugfix - write the test first, watch it fail, write mi...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "iSerter",
+    "github": "iSerter"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/iSerter/laravel-claude-agents",
+    "skill_md": "https://raw.githubusercontent.com/iSerter/laravel-claude-agents/main/.claude/skills/laravel-tdd/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.841Z",
+  "created_at": "2025-12-22T16:07:08.193Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/iSerter%2Flaravel-claude-agents/.claude%2Fskills%2Flaravel-tdd%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.841Z",
+    "uniqueId": "sk_76b2d8c4aead"
+  }
+}

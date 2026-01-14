@@ -1,0 +1,35 @@
+{
+  "id": "test-blocked-fixture",
+  "name": "test-blocked-fixture",
+  "version": "1.0.0",
+  "summary": "This is a test fixture with intentional violations for regression testing. It contains <angle brackets> which trigger B5, and has an unexpected frontmatter property which trigge...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "basher83",
+    "github": "basher83"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/basher83/agent-auditor",
+    "skill_md": "https://raw.githubusercontent.com/basher83/agent-auditor/main/skills/test-blocked-fixture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-29T07:13:44.000Z",
+  "created_at": "2025-12-23T01:28:22.384Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/basher83%2Fagent-auditor/skills%2Ftest-blocked-fixture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.578Z",
+    "uniqueId": "sk_17a81f0af0f6"
+  }
+}

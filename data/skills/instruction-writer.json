@@ -1,0 +1,35 @@
+{
+  "id": "instruction-writer",
+  "name": "instruction-writer",
+  "version": "1.0.0",
+  "summary": "Write and optimize instructions for Claude Code (skills, slash commands, memory files, CLAUDE.md). **ALWAYS use before creating or modifying any CLAUDE.md file, SKILL.md file, c...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "appaquet",
+    "github": "appaquet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/appaquet/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/appaquet/dotfiles/main/home-manager/modules/claude/skills/instruction-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-20T02:17:49.000Z",
+  "created_at": "2025-12-23T01:28:32.965Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/appaquet%2Fdotfiles/home-manager%2Fmodules%2Fclaude%2Fskills%2Finstruction-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_890a6189eeee"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pytest",
+  "name": "pytest",
+  "version": "1.0.0",
+  "summary": "Python testing framework for writing simple, scalable, and powerful tests",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SlanyCukr",
+    "github": "SlanyCukr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SlanyCukr/riot-api-project",
+    "skill_md": "https://raw.githubusercontent.com/SlanyCukr/riot-api-project/main/.claude/skills/backend/pytest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-19T15:58:45.000Z",
+  "created_at": "2025-12-22T19:03:04.475Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SlanyCukr%2Friot-api-project/.claude%2Fskills%2Fbackend%2Fpytest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_e32bde49201a"
+  }
+}

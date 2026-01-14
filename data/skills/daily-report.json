@@ -1,0 +1,35 @@
+{
+  "id": "daily-report",
+  "name": "daily-report",
+  "version": "1.0.0",
+  "summary": "日報（daily report）を作成するスキル。GitHub上での活動内容をまとめて下書きを作成し、Issue投稿まで行う。\n以下の場合に使用:\n- 「日報を作成して」「日報書いて」と言われたとき\n- 「今日の活動をまとめて」と言われたとき\n- daily reportやdaily journalの作成を依頼されたとき",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "i9wa4",
+    "github": "i9wa4"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/i9wa4/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/i9wa4/dotfiles/main/dot.config/claude/skills/daily-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.815Z",
+  "created_at": "2025-12-22T17:12:56.683Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/i9wa4%2Fdotfiles/dot.config%2Fclaude%2Fskills%2Fdaily-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.815Z",
+    "uniqueId": "sk_5de56d73e35f"
+  }
+}

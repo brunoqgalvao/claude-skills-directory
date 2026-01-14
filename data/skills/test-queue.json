@@ -1,0 +1,35 @@
+{
+  "id": "test-queue",
+  "name": "test-queue",
+  "version": "1.0.0",
+  "summary": "테스트 대기 이슈 목록 관리. Use when:\n(1) \"테스트중\" 상태 이슈 조회, (2) 테스트 우선순위 확인,\n(3) 테스트 대기열 모니터링, (4) 오래된 테스트 대기 이슈 알림.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/semo",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/semo/main/packages/ops/qa/skills/test-queue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:43.559Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsemo/packages%2Fops%2Fqa%2Fskills%2Ftest-queue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_55d1f0b715db"
+  }
+}

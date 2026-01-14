@@ -1,0 +1,37 @@
+{
+  "id": "app-localization",
+  "name": "app-localization",
+  "version": "1.0.0",
+  "summary": "iOS/macOS app localization management for Tuist-based projects with .strings files.\nUse when: (1) Adding new translation keys to modules, (2) Validating .strings files for missi...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tddworks",
+    "github": "tddworks"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tddworks/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/tddworks/claude-skills/main/skills/tuist-app-localization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T04:06:21.000Z",
+  "created_at": "2025-12-23T01:29:16.404Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tddworks%2Fclaude-skills/skills%2Ftuist-app-localization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.512Z",
+    "uniqueId": "sk_9c0666ec6319"
+  }
+}

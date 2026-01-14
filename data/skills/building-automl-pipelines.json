@@ -1,0 +1,37 @@
+{
+  "id": "building-automl-pipelines",
+  "name": "building-automl-pipelines",
+  "version": "1.0.0",
+  "summary": "Build automated machine learning pipelines with feature engineering, model selection, and hyperparameter tuning.\nUse when automating ML workflows from data preparation through m...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/ai-ml/automl-pipeline-builder/skills/automl-pipeline-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T20:34:12.385Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fai-ml%2Fautoml-pipeline-builder%2Fskills%2Fautoml-pipeline-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.886Z",
+    "uniqueId": "sk_8f5da7c5afe5"
+  }
+}

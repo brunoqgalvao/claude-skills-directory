@@ -1,0 +1,36 @@
+{
+  "id": "aws-prescriptive-guidance",
+  "name": "aws-prescriptive-guidance",
+  "version": "1.0.0",
+  "summary": "AWS Prescriptive Guidance for best practices and architectural patterns. Use for AWS architecture recommendations, SageMaker AI endpoints guidance, deployment patterns, and AWS ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rish2jain",
+    "github": "rish2jain"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rish2jain/paperresearchagent",
+    "skill_md": "https://raw.githubusercontent.com/rish2jain/paperresearchagent/main/.claude/skills/aws-prescriptive-guidance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.626Z",
+  "created_at": "2025-12-22T23:16:17.618Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rish2jain%2Fpaperresearchagent/.claude%2Fskills%2Faws-prescriptive-guidance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.626Z",
+    "uniqueId": "sk_3fa81942dbde"
+  }
+}

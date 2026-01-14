@@ -1,0 +1,37 @@
+{
+  "id": "datasette-plugin-writer",
+  "name": "datasette-plugin-writer",
+  "version": "1.0.0",
+  "summary": "Guide for writing Datasette plugins. This skill should be used when users want to create or develop plugins for Datasette, including information about plugin hooks, the cookiecu...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pepito-911",
+    "github": "pepito-911"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pepito-911/research",
+    "skill_md": "https://raw.githubusercontent.com/pepito-911/research/main/datasette-plugin-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-25T02:13:30.000Z",
+  "created_at": "2025-12-22T21:11:29.024Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pepito-911%2Fresearch/datasette-plugin-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.458Z",
+    "uniqueId": "sk_8507a702402c"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "dev-workflow",
+  "name": "dev-workflow",
+  "version": "1.0.0",
+  "summary": "Orchestrates full development workflow with git worktrees and Codex CLI code review. Use when implementing features across issues, starting structured development, or when user ...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "beshkenadze",
+    "github": "beshkenadze"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/beshkenadze/claude-skills-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/beshkenadze/claude-skills-marketplace/main/skills/development/dev-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.830Z",
+  "created_at": "2025-12-22T16:56:20.547Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/beshkenadze%2Fclaude-skills-marketplace/skills%2Fdevelopment%2Fdev-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.830Z",
+    "uniqueId": "sk_29163c2399cf"
+  }
+}

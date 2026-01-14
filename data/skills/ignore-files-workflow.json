@@ -1,0 +1,37 @@
+{
+  "id": "ignore-files-workflow",
+  "name": "ignore-files-workflow",
+  "version": "1.0.0",
+  "summary": "Ignore file management for .gitignore, .dockerignore, and .specstory directories. Includes synchronization, alphabetical ordering, organization, best practices, and testing guid...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ilude",
+    "github": "ilude"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ilude/claude-code-config",
+    "skill_md": "https://raw.githubusercontent.com/ilude/claude-code-config/main/skills/ignore-files-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:04:09.985Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ilude%2Fclaude-code-config/skills%2Fignore-files-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_a2fb867b2fc2"
+  }
+}

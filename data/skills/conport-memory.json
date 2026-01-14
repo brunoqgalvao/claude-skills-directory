@@ -1,0 +1,35 @@
+{
+  "id": "conport-memory",
+  "name": "conport-memory",
+  "version": "1.0.0",
+  "summary": "Access Context Portal (ConPort) as persistent project memory via MCPorter. Load/update project context, log decisions and progress, track patterns. Use PROACTIVELY at session st...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nicobailon",
+    "github": "nicobailon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nicobailon/conport-mcporter-skills",
+    "skill_md": "https://raw.githubusercontent.com/nicobailon/conport-mcporter-skills/main/skills/conport-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.523Z",
+  "created_at": "2025-12-23T01:29:07.550Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nicobailon%2Fconport-mcporter-skills/skills%2Fconport-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_bd1d5b80af9b"
+  }
+}

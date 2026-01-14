@@ -1,0 +1,35 @@
+{
+  "id": "code-style-enforcer",
+  "name": "code-style-enforcer",
+  "version": "1.0.0",
+  "summary": "Analyzes code for style consistency and applies project-specific formatting conventions beyond what linters catch. Use when reviewing code, ensuring style consistency, or when u...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "CrazyDubya",
+    "github": "CrazyDubya"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/CrazyDubya/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/CrazyDubya/claude-skills/main/code-style-enforcer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T02:10:32.000Z",
+  "created_at": "2025-12-23T01:29:19.909Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/CrazyDubya%2Fclaude-skills/code-style-enforcer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.507Z",
+    "uniqueId": "sk_6b6fa74ca859"
+  }
+}

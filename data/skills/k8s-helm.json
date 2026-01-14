@@ -1,0 +1,37 @@
+{
+  "id": "k8s-helm",
+  "name": "k8s-helm",
+  "version": "1.0.0",
+  "summary": "Kubernetes and Helm patterns - use for deployment configs, service definitions, ConfigMaps, Secrets, and Helm chart management",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ashchupliak",
+    "github": "ashchupliak"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ashchupliak/dream-team",
+    "skill_md": "https://raw.githubusercontent.com/ashchupliak/dream-team/main/skills/k8s-helm/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T14:36:36.000Z",
+  "created_at": "2025-12-23T01:29:20.624Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ashchupliak%2Fdream-team/skills%2Fk8s-helm%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_8cb83de0ff91"
+  }
+}

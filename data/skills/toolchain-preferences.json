@@ -1,0 +1,36 @@
+{
+  "id": "toolchain-preferences",
+  "name": "toolchain-preferences",
+  "version": "1.0.0",
+  "summary": "Apply preferred toolchain and technology stack defaults: pnpm, Next.js, TypeScript, Convex, Vercel, Tailwind, shadcn/ui, Zustand, TanStack, Vitest. Use when setting up new proje...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phrazzld",
+    "github": "phrazzld"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phrazzld/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/phrazzld/claude-config/main/skills/toolchain-preferences/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:09:43.012Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phrazzld%2Fclaude-config/skills%2Ftoolchain-preferences%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_f0f6057c531b"
+  }
+}

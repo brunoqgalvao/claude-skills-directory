@@ -1,0 +1,37 @@
+{
+  "id": "spring-boot-backend",
+  "name": "spring-boot-backend",
+  "version": "1.0.0",
+  "summary": "Build and implement Spring Boot 3 backend with Java 17 - REST APIs, JPA entities, services, repositories, security (JWT), and database migrations for Photo Map MVP. This skill s...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kojder",
+    "github": "kojder"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kojder/photo-map-app",
+    "skill_md": "https://raw.githubusercontent.com/kojder/photo-map-app/main/.claude/skills/spring-boot-backend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.518Z",
+  "created_at": "2025-12-23T01:29:11.734Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kojder%2Fphoto-map-app/.claude%2Fskills%2Fspring-boot-backend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.518Z",
+    "uniqueId": "sk_d6f843f53dbc"
+  }
+}

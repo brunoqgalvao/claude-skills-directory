@@ -1,0 +1,35 @@
+{
+  "id": "factory-validator",
+  "name": "factory-validator",
+  "version": "1.0.0",
+  "summary": "생성된 컴포넌트 검증 및 품질 보증 스킬",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "m16khb",
+    "github": "m16khb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/m16khb/claude-integration",
+    "skill_md": "https://raw.githubusercontent.com/m16khb/claude-integration/main/plugins/automation-tools/skills/factory-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:21.873Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/m16khb%2Fclaude-integration/plugins%2Fautomation-tools%2Fskills%2Ffactory-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_f11adea7de73"
+  }
+}

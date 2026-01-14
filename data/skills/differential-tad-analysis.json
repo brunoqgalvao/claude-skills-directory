@@ -1,0 +1,35 @@
+{
+  "id": "differential-tad-analysis",
+  "name": "differential-tad-analysis",
+  "version": "1.0.0",
+  "summary": "This skill performs differential topologically associating domain (TAD) analysis using HiCExplorer's hicDifferentialTAD tool. It compares Hi-C contact matrices between two condi...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BIsnake2001",
+    "github": "BIsnake2001"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BIsnake2001/ChromSkills",
+    "skill_md": "https://raw.githubusercontent.com/BIsnake2001/ChromSkills/main/20_toolBased.differential-tad-analysis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.660Z",
+  "created_at": "2025-12-22T22:18:08.239Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BIsnake2001%2FChromSkills/20_toolBased.differential-tad-analysis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.660Z",
+    "uniqueId": "sk_7e3388d6c74a"
+  }
+}

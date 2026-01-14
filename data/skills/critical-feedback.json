@@ -1,0 +1,35 @@
+{
+  "id": "critical-feedback",
+  "name": "critical-feedback",
+  "version": "1.0.0",
+  "summary": "This skill enables honest, pressure-tested feedback on ideas, decisions, and proposals. Use this skill when prompted for an opinion on whether something is a good idea, should b...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexisbeaulieu97",
+    "github": "alexisbeaulieu97"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexisbeaulieu97/home",
+    "skill_md": "https://raw.githubusercontent.com/alexisbeaulieu97/home/main/agents/claude/skills/critical-feedback/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.816Z",
+  "created_at": "2025-12-22T17:12:35.943Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexisbeaulieu97%2Fhome/agents%2Fclaude%2Fskills%2Fcritical-feedback%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.816Z",
+    "uniqueId": "sk_b4f3aad964c5"
+  }
+}

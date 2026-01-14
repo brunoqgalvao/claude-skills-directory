@@ -1,0 +1,35 @@
+{
+  "id": "tech",
+  "name": "tech",
+  "version": "1.0.0",
+  "summary": "Research, validate, and set up technology profiles in content/technologies. Handles both new entries and updates to existing ones.",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rawkode-academy",
+    "github": "rawkode-academy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rawkode-academy/rawkode-academy",
+    "skill_md": "https://raw.githubusercontent.com/rawkode-academy/rawkode-academy/main/.claude/skills/tech/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T01:09:51.000Z",
+  "created_at": "2025-12-23T01:28:46.880Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rawkode-academy%2Frawkode-academy/.claude%2Fskills%2Ftech%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_181987d84955"
+  }
+}

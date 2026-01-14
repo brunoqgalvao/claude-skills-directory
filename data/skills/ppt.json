@@ -1,0 +1,35 @@
+{
+  "id": "ppt",
+  "name": "ppt",
+  "version": "1.0.0",
+  "summary": "PPT 演示文稿创建、编辑和分析。当需要处理演示文稿时使用，支持：(1) 创建新演示文稿，(2) 修改和编辑内容，(3) 处理布局和样式，(4) 添加图表和表格",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tsaol",
+    "github": "tsaol"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tsaol/awesome-claude",
+    "skill_md": "https://raw.githubusercontent.com/tsaol/awesome-claude/main/skills/ppt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.490Z",
+  "created_at": "2025-12-23T01:29:34.774Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tsaol%2Fawesome-claude/skills%2Fppt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_70ce3d0e8b1b"
+  }
+}

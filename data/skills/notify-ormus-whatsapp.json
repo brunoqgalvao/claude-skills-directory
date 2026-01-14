@@ -1,0 +1,35 @@
+{
+  "id": "notify-ormus-whatsapp",
+  "name": "notify-ormus-whatsapp",
+  "version": "1.0.0",
+  "summary": "Send WhatsApp notification to Ormus about completed work, errors, or important updates",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "HermeticOrmus",
+    "github": "HermeticOrmus"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/HermeticOrmus/personal-claude-setup",
+    "skill_md": "https://raw.githubusercontent.com/HermeticOrmus/personal-claude-setup/main/.claude/skills/notify-ormus-whatsapp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T20:04:21.000Z",
+  "created_at": "2025-12-23T01:29:07.651Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/HermeticOrmus%2Fpersonal-claude-setup/.claude%2Fskills%2Fnotify-ormus-whatsapp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.523Z",
+    "uniqueId": "sk_915fe6db74dc"
+  }
+}

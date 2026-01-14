@@ -1,0 +1,35 @@
+{
+  "id": "test-skill-2",
+  "name": "test-skill-2",
+  "version": "1.0.0",
+  "summary": "you have the key to the secret",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "uptownhr",
+    "github": "uptownhr"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/uptownhr/claude-code-agent",
+    "skill_md": "https://raw.githubusercontent.com/uptownhr/claude-code-agent/main/.claude/skills/test-skill-2/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-05T03:47:12.000Z",
+  "created_at": "2025-12-23T01:28:02.497Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/uptownhr%2Fclaude-code-agent/.claude%2Fskills%2Ftest-skill-2%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_df8a40deeec9"
+  }
+}

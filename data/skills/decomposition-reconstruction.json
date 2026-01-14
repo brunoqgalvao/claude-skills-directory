@@ -1,0 +1,37 @@
+{
+  "id": "decomposition-reconstruction",
+  "name": "decomposition-reconstruction",
+  "version": "1.0.0",
+  "summary": "Use when dealing with complex systems that need simplification, identifying bottlenecks or critical failure points, redesigning architecture or processes for better performance,...",
+  "verticals": [
+    "sales",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lyndonkl",
+    "github": "lyndonkl"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lyndonkl/claude",
+    "skill_md": "https://raw.githubusercontent.com/lyndonkl/claude/main/skills/decomposition-reconstruction/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.490Z",
+  "created_at": "2025-12-23T01:29:34.761Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lyndonkl%2Fclaude/skills%2Fdecomposition-reconstruction%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_e747c97b34f8"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "web-backend-debugger",
+  "name": "web-backend-debugger",
+  "version": "1.0.0",
+  "summary": "Debug voicelite-web backend including Supabase PostgreSQL, Prisma ORM, license validation API, and Stripe webhooks. Activates when working in voicelite-web directory or debuggin...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mikha08-rgb",
+    "github": "mikha08-rgb"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mikha08-rgb/VoiceLite",
+    "skill_md": "https://raw.githubusercontent.com/mikha08-rgb/VoiceLite/main/.claude/skills/web-backend-debugger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:21.059Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mikha08-rgb%2FVoiceLite/.claude%2Fskills%2Fweb-backend-debugger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_7dd2ac116fae"
+  }
+}

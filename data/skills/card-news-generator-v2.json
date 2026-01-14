@@ -1,0 +1,35 @@
+{
+  "id": "card-news-generator-v2",
+  "name": "card-news-generator-v2",
+  "version": "1.0.0",
+  "summary": "Create 600x600 Instagram-style card news series automatically with optional background images. User provides topic, colors, and optional images - Claude generates content and cr...",
+  "verticals": [
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "robinade",
+    "github": "robinade"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/robinade/persona-theater",
+    "skill_md": "https://raw.githubusercontent.com/robinade/persona-theater/main/.claude/skills/card-news-generator-v2/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.445Z",
+  "created_at": "2025-12-22T20:01:25.900Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/robinade%2Fpersona-theater/.claude%2Fskills%2Fcard-news-generator-v2%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.445Z",
+    "uniqueId": "sk_80a8e9d2a50c"
+  }
+}

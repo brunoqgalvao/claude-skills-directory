@@ -1,0 +1,36 @@
+{
+  "id": "backend-api",
+  "name": "backend-api",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating or modifying backend API endpoints, service layer classes, or integrating external APIs (Reddit, OpenAI) in the ClaudeCode Sentiment Moni...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TheKeithStewart",
+    "github": "TheKeithStewart"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TheKeithStewart/data-dashboard",
+    "skill_md": "https://raw.githubusercontent.com/TheKeithStewart/data-dashboard/main/.claude/skills/backend-api/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:13.175Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TheKeithStewart%2Fdata-dashboard/.claude%2Fskills%2Fbackend-api%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_b83912a76f2d"
+  }
+}

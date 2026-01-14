@@ -1,0 +1,37 @@
+{
+  "id": "analyzing-customers",
+  "name": "analyzing-customers",
+  "version": "1.0.0",
+  "summary": "Analyzes customer behavior, needs, pain points, and sentiment through review mining, social listening, buyer persona development, and jobs-to-be-done framework. Use when the use...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jesseotremblay",
+    "github": "jesseotremblay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jesseotremblay/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/jesseotremblay/claude-skills/main/analyzing-customers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.475Z",
+  "created_at": "2025-12-23T01:29:54.000Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jesseotremblay%2Fclaude-skills/analyzing-customers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.475Z",
+    "uniqueId": "sk_73986f196497"
+  }
+}

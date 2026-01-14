@@ -1,0 +1,35 @@
+{
+  "id": "optimizing-cache-performance",
+  "name": "optimizing-cache-performance",
+  "version": "1.0.0",
+  "summary": "This skill enables Claude to analyze and improve application caching strategies. It optimizes cache hit rates, TTL configurations, cache key design, and invalidation strategies....",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus-skills/main/backups/skills-migration-20251108-070147/plugins/performance/cache-performance-optimizer/skills/cache-performance-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-08T07:07:39.000Z",
+  "created_at": "2025-12-22T15:52:53.336Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus-skills/backups%2Fskills-migration-20251108-070147%2Fplugins%2Fperformance%2Fcache-performance-optimizer%2Fskills%2Fcache-performance-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_29d563356476"
+  }
+}

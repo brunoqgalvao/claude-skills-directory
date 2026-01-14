@@ -1,0 +1,37 @@
+{
+  "id": "microsim-screen-capture",
+  "name": "microsim-screen-capture",
+  "version": "1.0.0",
+  "summary": "This skill automates the capture of high-quality screenshots for MicroSim visualizations using Chrome headless mode. Use this skill when working with MicroSims that need preview...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vishalsachdev",
+    "github": "vishalsachdev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vishalsachdev/database-management",
+    "skill_md": "https://raw.githubusercontent.com/vishalsachdev/database-management/main/.claude-skills/skills/microsim-screen-capture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-22T17:12:40.000Z",
+  "created_at": "2025-12-23T01:29:19.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vishalsachdev%2Fdatabase-management/.claude-skills%2Fskills%2Fmicrosim-screen-capture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_cadc2403f5fe"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "gemini-ai-integration",
+  "name": "gemini-ai-integration",
+  "version": "1.0.0",
+  "summary": "Integrate Google Gemini API for AI-powered QA checklist generation and structured output. Use when working with Gemini API calls, generating QA checklists from design specs, par...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jhlee0409",
+    "github": "jhlee0409"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jhlee0409/eureka",
+    "skill_md": "https://raw.githubusercontent.com/jhlee0409/eureka/main/.claude/skills/gemini-ai-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:46.294Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jhlee0409%2Feureka/.claude%2Fskills%2Fgemini-ai-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_a2ef8a9129df"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "code-review-wasp",
+  "name": "code-review-wasp",
+  "version": "1.0.0",
+  "summary": "Comprehensive code review skill for Wasp applications. Use when reviewing code, PRs, or architectural changes. Covers Wasp-specific patterns, import rules, auth checks, TDD comp...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ToonVos",
+    "github": "ToonVos"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ToonVos/empty-opensaas",
+    "skill_md": "https://raw.githubusercontent.com/ToonVos/empty-opensaas/main/.claude/skills/code-review-wasp/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:08:42.950Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ToonVos%2Fempty-opensaas/.claude%2Fskills%2Fcode-review-wasp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_4ae37680a710"
+  }
+}

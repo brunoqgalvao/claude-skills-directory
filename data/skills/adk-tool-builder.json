@@ -1,0 +1,37 @@
+{
+  "id": "adk-tool-builder",
+  "name": "adk-tool-builder",
+  "version": "1.0.0",
+  "summary": "Guide for creating custom ADK tools. Use when adding new function tools, working with ToolContext, saving artifacts, or integrating external APIs into the agent pipeline.",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lavinigam-gcp",
+    "github": "lavinigam-gcp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lavinigam-gcp/build-with-adk",
+    "skill_md": "https://raw.githubusercontent.com/lavinigam-gcp/build-with-adk/main/retail-ai-location-strategy/.ai/.claude/skills/adk-tool-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T07:19:19.000Z",
+  "created_at": "2025-12-22T15:09:33.777Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lavinigam-gcp%2Fbuild-with-adk/retail-ai-location-strategy%2F.ai%2F.claude%2Fskills%2Fadk-tool-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_8ec68a6c6af6"
+  }
+}

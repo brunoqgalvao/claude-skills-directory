@@ -1,0 +1,36 @@
+{
+  "id": "obsidian-query",
+  "name": "obsidian-query",
+  "version": "1.0.0",
+  "summary": "Query Obsidian vault using local HTTP API. Use when user asks about tasks, goals, experiments, journals, people, or any vault data.",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ArtemXTech",
+    "github": "ArtemXTech"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ArtemXTech/obsidian-bases-demo",
+    "skill_md": "https://raw.githubusercontent.com/ArtemXTech/obsidian-bases-demo/main/.claude/skills/obsidian-query/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T17:40:26.000Z",
+  "created_at": "2025-12-22T16:00:51.940Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ArtemXTech%2Fobsidian-bases-demo/.claude%2Fskills%2Fobsidian-query%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_b0fba069b12f"
+  }
+}

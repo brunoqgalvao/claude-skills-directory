@@ -1,0 +1,35 @@
+{
+  "id": "doc-update",
+  "name": "doc-update",
+  "version": "1.0.0",
+  "summary": "Update and clean up project documentation files (primarily .ai/features/, but also README.md, PROGRESS_TRACKER.md, CLAUDE.md, and other .md files). Use when user requests docume...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kojder",
+    "github": "kojder"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kojder/photo-map-app",
+    "skill_md": "https://raw.githubusercontent.com/kojder/photo-map-app/main/.claude/skills/doc-update/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.627Z",
+  "created_at": "2025-12-22T23:16:03.072Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kojder%2Fphoto-map-app/.claude%2Fskills%2Fdoc-update%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.627Z",
+    "uniqueId": "sk_6e527585c836"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "refactoring-to-patterns",
+  "name": "refactoring-to-patterns",
+  "version": "1.0.0",
+  "summary": "Use when refactoring code with duplication, complex conditionals, or long methods - applies proven design patterns from Martin Fowler's \"Refactoring to Patterns\" to improve code...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bostonaholic",
+    "github": "bostonaholic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bostonaholic/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/bostonaholic/dotfiles/main/claude/skills/refactoring-to-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.673Z",
+  "created_at": "2025-12-22T22:15:23.504Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bostonaholic%2Fdotfiles/claude%2Fskills%2Frefactoring-to-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.673Z",
+    "uniqueId": "sk_7e012352f608"
+  }
+}

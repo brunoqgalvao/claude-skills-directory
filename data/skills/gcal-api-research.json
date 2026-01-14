@@ -1,0 +1,37 @@
+{
+  "id": "gcal-api-research",
+  "name": "gcal-api-research",
+  "version": "1.0.0",
+  "summary": "Expert research tool for Google Calendar API implementations. PROACTIVELY use when (1) reviewing PRs adding calendar features, (2) planning new event/attendee/recurring event fu...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nspady",
+    "github": "nspady"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nspady/google-calendar-mcp",
+    "skill_md": "https://raw.githubusercontent.com/nspady/google-calendar-mcp/main/.claude/skills/gcal-api-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T20:07:11.000Z",
+  "created_at": "2025-12-23T01:29:35.581Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nspady%2Fgoogle-calendar-mcp/.claude%2Fskills%2Fgcal-api-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.488Z",
+    "uniqueId": "sk_4978a6463e36"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "writing-hashql-diagnostics",
+  "name": "writing-hashql-diagnostics",
+  "version": "1.0.0",
+  "summary": "HashQL diagnostic writing patterns using hashql-diagnostics crate. Use when creating error messages, warnings, Labels, Messages, Severity levels, Patches, Suggestions, or improv...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hashintel",
+    "github": "hashintel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hashintel/hash",
+    "skill_md": "https://raw.githubusercontent.com/hashintel/hash/main/.claude/skills/writing-hashql-diagnostics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T14:59:19.000Z",
+  "created_at": "2025-12-23T01:28:43.517Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hashintel%2Fhash/.claude%2Fskills%2Fwriting-hashql-diagnostics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.557Z",
+    "uniqueId": "sk_222aefe07262"
+  }
+}

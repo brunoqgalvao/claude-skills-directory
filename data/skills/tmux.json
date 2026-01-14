@@ -1,0 +1,37 @@
+{
+  "id": "tmux",
+  "name": "tmux",
+  "version": "1.0.0",
+  "summary": "Tmux terminal multiplexer commands and workflows. Use when managing tmux sessions, windows, panes, or capturing terminal output for debugging.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "laulauland",
+    "github": "laulauland"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/laulauland/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/laulauland/dotfiles/main/shared/.claude/skills/tmux/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:15.698Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/laulauland%2Fdotfiles/shared%2F.claude%2Fskills%2Ftmux%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_3d4fc5c22786"
+  }
+}

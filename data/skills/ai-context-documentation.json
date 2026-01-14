@@ -1,0 +1,35 @@
+{
+  "id": "ai-context-documentation",
+  "name": "ai-context-documentation",
+  "version": "1.0.0",
+  "summary": "Use when working on ai/ documentation (MEMORY.md, WORKFLOW.md, CRITICAL-RULES.md, etc.), TODOs (backlog planning, active work, completed records), .claude/ files (skills, comman...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ProteoWizard",
+    "github": "ProteoWizard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ProteoWizard/pwiz",
+    "skill_md": "https://raw.githubusercontent.com/ProteoWizard/pwiz/main/.claude/skills/ai-context-documentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T17:37:24.000Z",
+  "created_at": "2025-12-22T15:12:17.517Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ProteoWizard%2Fpwiz/.claude%2Fskills%2Fai-context-documentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.857Z",
+    "uniqueId": "sk_208837e6242f"
+  }
+}

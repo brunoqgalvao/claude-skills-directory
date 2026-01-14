@@ -1,0 +1,36 @@
+{
+  "id": "openai-apps-sdk-builder",
+  "name": "openai-apps-sdk-builder",
+  "version": "1.0.0",
+  "summary": "Build OpenAI Apps SDK applications - interactive ChatGPT apps with MCP servers, React widgets, and rich UI components for conversational experiences",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hollaugo",
+    "github": "hollaugo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hollaugo/tutorials",
+    "skill_md": "https://raw.githubusercontent.com/hollaugo/tutorials/main/claude-skills/custom-skills/openai-apps-sdk/openai-apps-sdk-skill-package/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.476Z",
+  "created_at": "2025-12-23T01:29:51.492Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hollaugo%2Ftutorials/claude-skills%2Fcustom-skills%2Fopenai-apps-sdk%2Fopenai-apps-sdk-skill-package%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.476Z",
+    "uniqueId": "sk_761b5ba39c70"
+  }
+}

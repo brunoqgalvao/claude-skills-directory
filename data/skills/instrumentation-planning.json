@@ -1,0 +1,35 @@
+{
+  "id": "instrumentation-planning",
+  "name": "instrumentation-planning",
+  "version": "1.0.0",
+  "summary": "Plan what to measure in mobile apps. Use when starting observability, prioritizing instrumentation, or asking \"what should I track?\"",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "calube",
+    "github": "calube"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/calube/mobile-observability",
+    "skill_md": "https://raw.githubusercontent.com/calube/mobile-observability/main/skills/instrumentation-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.566Z",
+  "created_at": "2025-12-23T01:28:36.716Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/calube%2Fmobile-observability/skills%2Finstrumentation-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_c64f6914489f"
+  }
+}

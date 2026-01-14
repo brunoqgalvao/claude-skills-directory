@@ -1,0 +1,35 @@
+{
+  "id": "quest-manager",
+  "name": "quest-manager",
+  "version": "1.0.0",
+  "summary": "Create, manage, and track quests for Ezra. Use when adding quests, checking progress, updating categories, or managing prerequisites.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dragonbornjedi-code",
+    "github": "dragonbornjedi-code"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dragonbornjedi-code/phoenix-forge-ecosystem",
+    "skill_md": "https://raw.githubusercontent.com/dragonbornjedi-code/phoenix-forge-ecosystem/main/.claude-shared/skills/quest-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T04:43:14.000Z",
+  "created_at": "2025-12-22T15:55:38.237Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dragonbornjedi-code%2Fphoenix-forge-ecosystem/.claude-shared%2Fskills%2Fquest-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_92d723f9d30a"
+  }
+}

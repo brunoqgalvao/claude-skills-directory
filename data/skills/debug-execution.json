@@ -1,0 +1,36 @@
+{
+  "id": "debug-execution",
+  "name": "debug-execution",
+  "version": "1.0.0",
+  "summary": "Execute browser debug steps using Chrome DevTools MCP. Navigate to URL, capture baseline snapshots/screenshots, perform interactions (click, fill, hover, press_key), collect con...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "metasaver",
+    "github": "metasaver"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/metasaver/metasaver-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/metasaver/metasaver-marketplace/main/plugins/metasaver-core/skills/workflow-steps/debug-execution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T00:33:39.000Z",
+  "created_at": "2025-12-22T20:12:23.859Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/metasaver%2Fmetasaver-marketplace/plugins%2Fmetasaver-core%2Fskills%2Fworkflow-steps%2Fdebug-execution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.759Z",
+    "uniqueId": "sk_dd2a7ba4022e"
+  }
+}

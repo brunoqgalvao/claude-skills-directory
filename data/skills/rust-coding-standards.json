@@ -1,0 +1,35 @@
+{
+  "id": "rust-coding-standards",
+  "name": "rust-coding-standards",
+  "version": "1.0.0",
+  "summary": "// Immutable borrow (multiple allowed) let s = String::from(\"hello\"); let r1 = &s; let r2 = &s; println!(\"{} and {}\", r1, r2); // ✓ OK",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "williamzujkowski",
+    "github": "williamzujkowski"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/williamzujkowski/standards",
+    "skill_md": "https://raw.githubusercontent.com/williamzujkowski/standards/main/skills/coding-standards/rust/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.597Z",
+  "created_at": "2025-12-23T00:19:34.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/williamzujkowski%2Fstandards/skills%2Fcoding-standards%2Frust%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.597Z",
+    "uniqueId": "sk_1eeceab0af3c"
+  }
+}

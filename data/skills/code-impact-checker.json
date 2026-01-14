@@ -1,0 +1,35 @@
+{
+  "id": "code-impact-checker",
+  "name": "code-impact-checker",
+  "version": "1.0.0",
+  "summary": "破壊的変更に基づいてプロジェクト内のコードを検索し、影響を受けるファイルと行を特定する。テストカバレッジも確認する",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "snhrm",
+    "github": "snhrm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/snhrm/claude-plugin",
+    "skill_md": "https://raw.githubusercontent.com/snhrm/claude-plugin/main/plugin/skills/code-impact-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T07:45:00.000Z",
+  "created_at": "2025-12-23T01:28:38.663Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/snhrm%2Fclaude-plugin/plugin%2Fskills%2Fcode-impact-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_e334b0fbdb98"
+  }
+}

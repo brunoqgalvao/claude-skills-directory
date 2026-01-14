@@ -1,0 +1,37 @@
+{
+  "id": "twitter-poster",
+  "name": "twitter-poster",
+  "version": "1.0.0",
+  "summary": "Posts business news, reports, and insights to Twitter/X with intelligent formatting, thread support, and media attachments",
+  "verticals": [
+    "support",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rkreddyp",
+    "github": "rkreddyp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rkreddyp/investrecipes",
+    "skill_md": "https://raw.githubusercontent.com/rkreddyp/investrecipes/main/.claude/skills/twitter_poster/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:41.973Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rkreddyp%2Finvestrecipes/.claude%2Fskills%2Ftwitter_poster%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_c3efc490651a"
+  }
+}

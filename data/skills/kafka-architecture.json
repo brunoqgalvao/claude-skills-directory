@@ -1,0 +1,35 @@
+{
+  "id": "kafka-architecture",
+  "name": "kafka-architecture",
+  "version": "1.0.0",
+  "summary": "Expert knowledge of Apache Kafka architecture, cluster design, capacity planning, partitioning strategies, replication, and high availability. Auto-activates on keywords kafka a...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave-kafka/skills/kafka-architecture/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.661Z",
+  "created_at": "2025-12-22T22:17:45.719Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave-kafka%2Fskills%2Fkafka-architecture%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.661Z",
+    "uniqueId": "sk_1a52cc42c3d8"
+  }
+}

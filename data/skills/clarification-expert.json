@@ -1,0 +1,36 @@
+{
+  "id": "clarification-expert",
+  "name": "clarification-expert",
+  "version": "1.0.0",
+  "summary": "Clarification protocol for ambiguous requests, \"build/optimize/make it better\" prompts, or unclear goals; use to research first, ask only judgment questions, and hard-stop befor...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tkersey",
+    "github": "tkersey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tkersey/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/tkersey/dotfiles/main/codex/skills/clarification-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:57:39.533Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tkersey%2Fdotfiles/codex%2Fskills%2Fclarification-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_abacaf71c327"
+  }
+}

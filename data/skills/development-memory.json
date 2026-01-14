@@ -1,0 +1,37 @@
+{
+  "id": "development-memory",
+  "name": "development-memory",
+  "version": "1.0.0",
+  "summary": "Build persistent project knowledge using checkpoint/recall. Activates when fixing bugs, making decisions, or investigating past work. Creates automatic knowledge base through sy...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anortham",
+    "github": "anortham"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anortham/miller",
+    "skill_md": "https://raw.githubusercontent.com/anortham/miller/main/.claude/skills/development-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:27.341Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anortham%2Fmiller/.claude%2Fskills%2Fdevelopment-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_ba790389984f"
+  }
+}

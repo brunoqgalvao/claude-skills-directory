@@ -1,0 +1,35 @@
+{
+  "id": "doc-research-improvements",
+  "name": "doc-research-improvements",
+  "version": "1.0.0",
+  "summary": "Research-driven critique and enhancement of Amelia architecture or ideas docs. Use with GPT-5.2 when given a design/architecture doc to analyze concepts, find sources, and propo...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "existential-birds",
+    "github": "existential-birds"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/existential-birds/amelia",
+    "skill_md": "https://raw.githubusercontent.com/existential-birds/amelia/main/.claude/skills/doc-research-improvements/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.550Z",
+  "created_at": "2025-12-23T01:28:49.674Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/existential-birds%2Famelia/.claude%2Fskills%2Fdoc-research-improvements%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_735c8fc77c6d"
+  }
+}

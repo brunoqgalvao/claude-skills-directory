@@ -1,0 +1,35 @@
+{
+  "id": "writing-requirements-documents",
+  "name": "writing-requirements-documents",
+  "version": "1.0.0",
+  "summary": "Use when creating requirements documents, PRDs, or epics with user stories - ensures Obsidian block anchors, wiki links for traceability, and citation-manager validation for lin...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "WesleyMFrederick",
+    "github": "WesleyMFrederick"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/WesleyMFrederick/cc-workflows",
+    "skill_md": "https://raw.githubusercontent.com/WesleyMFrederick/cc-workflows/main/.claude/skills/writing-requirements-documents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T04:49:39.000Z",
+  "created_at": "2025-12-22T19:13:53.779Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/WesleyMFrederick%2Fcc-workflows/.claude%2Fskills%2Fwriting-requirements-documents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.781Z",
+    "uniqueId": "sk_44ef646a6add"
+  }
+}

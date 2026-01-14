@@ -1,0 +1,35 @@
+{
+  "id": "slack-proactive-intervention-patterns",
+  "name": "slack-proactive-intervention-patterns",
+  "version": "1.0.0",
+  "summary": "메모리에서 7가지 개입 기회 패턴을 감지하는 지식 베이스. 조사 제안, 스케줄링, 문서화, 초안 작성, 연결 조율, 예측적 제안, 루틴 자동화 패턴의 시그널과 점수 계산 방법.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krafton-ai",
+    "github": "krafton-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krafton-ai/KIRA",
+    "skill_md": "https://raw.githubusercontent.com/krafton-ai/KIRA/main/.claude/skills/slack-proactive-intervention-patterns/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:20.490Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krafton-ai%2FKIRA/.claude%2Fskills%2Fslack-proactive-intervention-patterns%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_c94dc47e9eb9"
+  }
+}

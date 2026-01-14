@@ -1,0 +1,35 @@
+{
+  "id": "cli-tools",
+  "name": "cli-tools",
+  "version": "1.0.0",
+  "summary": "CLI tool management for coding agents. Use when a command fails with 'command not found', installing/updating CLI tools, setting up project environments, or checking dependencie...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "netresearch",
+    "github": "netresearch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/netresearch/cli-tools-skill",
+    "skill_md": "https://raw.githubusercontent.com/netresearch/cli-tools-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:57.524Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/netresearch%2Fcli-tools-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_1a8aaa41a089"
+  }
+}

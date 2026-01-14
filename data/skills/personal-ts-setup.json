@@ -1,0 +1,37 @@
+{
+  "id": "personal-ts-setup",
+  "name": "personal-ts-setup",
+  "version": "1.0.0",
+  "summary": "Personal/opinionated TypeScript setup for Nuxt apps, Vite apps, TS libraries, and monorepos. Covers pnpm catalogs, @antfu/eslint-config, bumpp/changelogen releases, CI workflows...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "onmax",
+    "github": "onmax"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/onmax/nuxt-skills",
+    "skill_md": "https://raw.githubusercontent.com/onmax/nuxt-skills/main/skills/personal-ts-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T21:14:44.000Z",
+  "created_at": "2025-12-22T15:52:39.599Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/onmax%2Fnuxt-skills/skills%2Fpersonal-ts-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_63fab6b91e9f"
+  }
+}

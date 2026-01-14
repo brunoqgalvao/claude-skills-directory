@@ -1,0 +1,36 @@
+{
+  "id": "orchestrating-agents",
+  "name": "orchestrating-agents",
+  "version": "1.0.0",
+  "summary": "Orchestrates parallel API instances, delegated sub-tasks, and multi-agent workflows with streaming and tool-enabled delegation patterns. Use for parallel analysis, multi-perspec...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "oaustegard",
+    "github": "oaustegard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/oaustegard/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/oaustegard/claude-skills/main/orchestrating-agents/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:09.059Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/oaustegard%2Fclaude-skills/orchestrating-agents%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_832856073790"
+  }
+}

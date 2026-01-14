@@ -1,0 +1,35 @@
+{
+  "id": "debug-issues",
+  "name": "debug-issues",
+  "version": "1.0.0",
+  "summary": "Debug bugs and errors using intel-first approach with systematic root cause analysis. Use proactively when errors occur, tests fail, or unexpected behavior appears. MUST trace f...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yangsi7",
+    "github": "yangsi7"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yangsi7/fine-tuning-exercise-generation",
+    "skill_md": "https://raw.githubusercontent.com/yangsi7/fine-tuning-exercise-generation/main/.claude/skills/debug-issues/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.685Z",
+  "created_at": "2025-12-22T22:09:50.185Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yangsi7%2Ffine-tuning-exercise-generation/.claude%2Fskills%2Fdebug-issues%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.685Z",
+    "uniqueId": "sk_fab095191b23"
+  }
+}

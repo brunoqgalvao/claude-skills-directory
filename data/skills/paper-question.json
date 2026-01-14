@@ -1,0 +1,35 @@
+{
+  "id": "paper-question",
+  "name": "paper-question",
+  "version": "1.0.0",
+  "summary": "論文のプレーンテキストを読み込み、ユーザーの質問に研究のプロとして分かりやすく回答するスキル。ユーザーが「この論文について質問」「論文の内容を教えて」「この研究の目的は？」などと指示した時に使用。Claude自身が直接回答する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "daishir0",
+    "github": "daishir0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/daishir0/Papernote",
+    "skill_md": "https://raw.githubusercontent.com/daishir0/Papernote/main/.claude/skills/paper-question/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:04:55.466Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/daishir0%2FPapernote/.claude%2Fskills%2Fpaper-question%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_ad5391f2a4ed"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "testing-guide",
+  "name": "testing-guide",
+  "version": "1.0.0",
+  "summary": "Testing pyramid and test writing standards for UT/IT/ST/E2E.\nUse when: writing tests, discussing test coverage, test strategy, or test naming.\nKeywords: test, unit, integration,...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AsiaOstrich",
+    "github": "AsiaOstrich"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AsiaOstrich/universal-dev-skills",
+    "skill_md": "https://raw.githubusercontent.com/AsiaOstrich/universal-dev-skills/main/skills/testing-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T01:47:36.000Z",
+  "created_at": "2025-12-22T17:08:18.014Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AsiaOstrich%2Funiversal-dev-skills/skills%2Ftesting-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_cc6b92fc51f8"
+  }
+}

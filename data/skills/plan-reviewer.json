@@ -1,0 +1,35 @@
+{
+  "id": "plan-reviewer",
+  "name": "plan-reviewer",
+  "version": "1.0.0",
+  "summary": "Review a development plan before implementation to identify risks, missing considerations, and better alternatives. Use for plans involving auth changes, migrations, integration...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ogprotege",
+    "github": "ogprotege"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ogprotege/Skills",
+    "skill_md": "https://raw.githubusercontent.com/ogprotege/Skills/main/Categories/Planning/plan-reviewer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.822Z",
+  "created_at": "2025-12-22T17:06:12.568Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ogprotege%2FSkills/Categories%2FPlanning%2Fplan-reviewer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.822Z",
+    "uniqueId": "sk_06f6ad866025"
+  }
+}

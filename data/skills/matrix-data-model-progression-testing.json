@@ -1,0 +1,36 @@
+{
+  "id": "matrix-data-model-progression-testing",
+  "name": "matrix-data-model-progression-testing",
+  "version": "1.0.0",
+  "summary": "Matrix data model verification using ASCII diagrams. Use when working with *Progressions.ts files, defineProgression(), or testing how 2D numeric grids evolve over time. Auto-ap...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "surfdeeper",
+    "github": "surfdeeper"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/surfdeeper/surfing-game",
+    "skill_md": "https://raw.githubusercontent.com/surfdeeper/surfing-game/main/.claude/skills/matrix-data-model-progression-testing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-30T00:04:40.000Z",
+  "created_at": "2025-12-23T01:29:21.352Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/surfdeeper%2Fsurfing-game/.claude%2Fskills%2Fmatrix-data-model-progression-testing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.505Z",
+    "uniqueId": "sk_3e2c69e752e3"
+  }
+}

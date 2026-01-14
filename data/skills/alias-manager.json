@@ -1,0 +1,35 @@
+{
+  "id": "alias-manager",
+  "name": "alias-manager",
+  "version": "1.0.0",
+  "summary": "Manage shell aliases in the .aliases file for this dotfiles repository. Use when the user wants to add, remove, update, or search for shell aliases and shortcuts. Triggers inclu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ruchernchong",
+    "github": "ruchernchong"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ruchernchong/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/ruchernchong/dotfiles/main/.claude/skills/alias-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T19:11:09.000Z",
+  "created_at": "2025-12-23T01:28:55.038Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ruchernchong%2Fdotfiles/.claude%2Fskills%2Falias-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.543Z",
+    "uniqueId": "sk_e05b9ebc4583"
+  }
+}

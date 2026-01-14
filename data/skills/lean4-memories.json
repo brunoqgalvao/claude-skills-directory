@@ -1,0 +1,35 @@
+{
+  "id": "lean4-memories",
+  "name": "lean4-memories",
+  "version": "1.0.0",
+  "summary": "This skill should be used when working on Lean 4 formalization projects to maintain persistent memory of successful proof patterns, failed approaches, project conventions, and u...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cameronfreer",
+    "github": "cameronfreer"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cameronfreer/lean4-skills",
+    "skill_md": "https://raw.githubusercontent.com/cameronfreer/lean4-skills/main/plugins/lean4-memories/skills/lean4-memories/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.701Z",
+  "created_at": "2025-12-22T21:59:32.327Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cameronfreer%2Flean4-skills/plugins%2Flean4-memories%2Fskills%2Flean4-memories%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.701Z",
+    "uniqueId": "sk_2113e4af519e"
+  }
+}

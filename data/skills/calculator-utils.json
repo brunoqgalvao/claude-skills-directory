@@ -1,0 +1,35 @@
+{
+  "id": "calculator-utils",
+  "name": "calculator-utils",
+  "version": "1.0.0",
+  "summary": "Performs basic arithmetic calculations including addition, subtraction, multiplication, and division. Use when the user needs to calculate numbers, perform math operations, or c...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thangchung",
+    "github": "thangchung"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thangchung/agent-skill-experiment",
+    "skill_md": "https://raw.githubusercontent.com/thangchung/agent-skill-experiment/main/.github/skills/calculator-utils/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.866Z",
+  "created_at": "2025-12-22T15:04:49.952Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thangchung%2Fagent-skill-experiment/.github%2Fskills%2Fcalculator-utils%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.866Z",
+    "uniqueId": "sk_4ce5436f21c7"
+  }
+}

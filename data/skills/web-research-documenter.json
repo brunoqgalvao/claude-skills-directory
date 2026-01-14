@@ -1,0 +1,35 @@
+{
+  "id": "web-research-documenter",
+  "name": "web-research-documenter",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users request research on a topic with the intent to save findings to a document. It provides a systematic workflow for conducting web research, s...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "windowh1",
+    "github": "windowh1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/windowh1/wbl_residency",
+    "skill_md": "https://raw.githubusercontent.com/windowh1/wbl_residency/main/papers/skills-vs-mcp/extended_agent/results/20251114_125747/web-research-documenter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.795Z",
+  "created_at": "2025-12-22T18:17:13.750Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/windowh1%2Fwbl_residency/papers%2Fskills-vs-mcp%2Fextended_agent%2Fresults%2F20251114_125747%2Fweb-research-documenter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.795Z",
+    "uniqueId": "sk_cca2e0aa25e5"
+  }
+}

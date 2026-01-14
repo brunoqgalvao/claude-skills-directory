@@ -1,0 +1,35 @@
+{
+  "id": "unnamed-mcp-server",
+  "name": "unnamed-mcp-server",
+  "version": "1.0.0",
+  "summary": "Dynamic access to unnamed-mcp-server MCP server (1 tools)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hbohlen",
+    "github": "hbohlen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hbohlen/opencode-sdk",
+    "skill_md": "https://raw.githubusercontent.com/hbohlen/opencode-sdk/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.852Z",
+  "created_at": "2025-12-22T15:55:03.640Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hbohlen%2Fopencode-sdk/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.852Z",
+    "uniqueId": "sk_44e155dedc1d"
+  }
+}

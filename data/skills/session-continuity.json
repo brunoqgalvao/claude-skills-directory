@@ -1,0 +1,35 @@
+{
+  "id": "session-continuity",
+  "name": "session-continuity",
+  "version": "1.0.0",
+  "summary": "Aggressive session accountability via Obsidian timeline. PROACTIVELY log decisions, commits, ideas, and blockers AS THEY HAPPEN. Triggers on any significant action.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cameronsjo",
+    "github": "cameronsjo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cameronsjo/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/cameronsjo/claude-marketplace/main/plugins/session-sync/skills/session-continuity/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T03:07:37.000Z",
+  "created_at": "2025-12-23T01:28:42.724Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cameronsjo%2Fclaude-marketplace/plugins%2Fsession-sync%2Fskills%2Fsession-continuity%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.559Z",
+    "uniqueId": "sk_44238fa96647"
+  }
+}

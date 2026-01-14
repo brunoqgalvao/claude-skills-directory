@@ -1,0 +1,35 @@
+{
+  "id": "pr-review-assistant",
+  "name": "pr-review-assistant",
+  "version": "1.0.0",
+  "summary": "Philosophy-aware PR reviews checking alignment with amplihack principles.\nUse when reviewing PRs to ensure ruthless simplicity, modular design, and zero-BS implementation.\nSugge...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rysweet",
+    "github": "rysweet"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rysweet/azure-tenant-grapher",
+    "skill_md": "https://raw.githubusercontent.com/rysweet/azure-tenant-grapher/main/.claude/skills/pr-review-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:11:49.012Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rysweet%2Fazure-tenant-grapher/.claude%2Fskills%2Fpr-review-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_5fee76c47f37"
+  }
+}

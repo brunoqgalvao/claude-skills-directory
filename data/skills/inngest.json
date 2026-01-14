@@ -1,0 +1,35 @@
+{
+  "id": "inngest",
+  "name": "inngest",
+  "version": "1.0.0",
+  "summary": "このスキルは、ユーザーが「Inngest 関数を作成」「バックグラウンドジョブを実装」「ステップ関数を書く」「Inngest をセットアップ」「イベント駆動処理を実装」「耐久実行を実装」「Cron ジョブを作成」「Fan-out パターンを実装」「サガパターン」「ワークフローオーケストレーション」「step.run」「step.waitForEvent...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tadokoro-ryusuke",
+    "github": "tadokoro-ryusuke"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tadokoro-ryusuke/cc-plugins",
+    "skill_md": "https://raw.githubusercontent.com/tadokoro-ryusuke/cc-plugins/main/dev-core/skills/inngest/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T10:28:02.000Z",
+  "created_at": "2025-12-22T20:13:51.325Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tadokoro-ryusuke%2Fcc-plugins/dev-core%2Fskills%2Finngest%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_79ff2d93a8d4"
+  }
+}

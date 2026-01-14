@@ -1,0 +1,35 @@
+{
+  "id": "kobo-translation-srt",
+  "name": "kobo-translation-srt",
+  "version": "1.0.0",
+  "summary": "Extension to kobo-translation skill specifically for translating video subtitles and transcripts in SRT format. Adds subtitle-specific guidelines for character limits, spoken la...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joshuaberetta",
+    "github": "joshuaberetta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joshuaberetta/kobo-translation-test",
+    "skill_md": "https://raw.githubusercontent.com/joshuaberetta/kobo-translation-test/main/skills/kobo-translation-srt/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.697Z",
+  "created_at": "2025-12-22T22:02:21.882Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joshuaberetta%2Fkobo-translation-test/skills%2Fkobo-translation-srt%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.697Z",
+    "uniqueId": "sk_8e0bff05d20b"
+  }
+}

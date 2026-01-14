@@ -1,0 +1,36 @@
+{
+  "id": "design-critique",
+  "name": "design-critique",
+  "version": "1.0.0",
+  "summary": "Simulates the professional design critique process. Forces questioning of every design decision, validates intentionality, checks optical balance, and ensures designs serve spec...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vinzenz",
+    "github": "vinzenz"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vinzenz/jules-agentic-software-builder-for-claude",
+    "skill_md": "https://raw.githubusercontent.com/vinzenz/jules-agentic-software-builder-for-claude/main/.claude/skills/design-critique/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:34.972Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vinzenz%2Fjules-agentic-software-builder-for-claude/.claude%2Fskills%2Fdesign-critique%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_aecc6d5b940a"
+  }
+}

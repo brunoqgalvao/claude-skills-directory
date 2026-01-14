@@ -1,0 +1,36 @@
+{
+  "id": "secure-container-build",
+  "name": "secure-container-build",
+  "version": "1.0.0",
+  "summary": "Build secure container images with Wolfi runtime, non-root users, and multi-stage builds. Templates for Python/uv, Bun, Node.js/pnpm, Golang (static/CGO), and Rust (glibc/musl) ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pigfoot",
+    "github": "pigfoot"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pigfoot/claude-code-hubs",
+    "skill_md": "https://raw.githubusercontent.com/pigfoot/claude-code-hubs/main/plugins/secure-container-build/skills/secure-container-build/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T02:07:37.000Z",
+  "created_at": "2025-12-22T19:30:04.246Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pigfoot%2Fclaude-code-hubs/plugins%2Fsecure-container-build%2Fskills%2Fsecure-container-build%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.779Z",
+    "uniqueId": "sk_dbd7c4c8ba34"
+  }
+}

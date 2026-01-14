@@ -1,0 +1,36 @@
+{
+  "id": "markdown-presentation",
+  "name": "markdown-presentation",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating markdown-based presentations with expandable sections, timing guides, and speaker-friendly formatting. Use for team onboarding, technical...",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "plinde",
+    "github": "plinde"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/plinde/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/plinde/claude-plugins/main/markdown-presentation/skills/markdown-presentation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:36.070Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/plinde%2Fclaude-plugins/markdown-presentation%2Fskills%2Fmarkdown-presentation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_585371892504"
+  }
+}

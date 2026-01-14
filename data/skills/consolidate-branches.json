@@ -1,0 +1,35 @@
+{
+  "id": "consolidate-branches",
+  "name": "consolidate-branches",
+  "version": "1.0.0",
+  "summary": "Consolidate multiple PR branches onto a target branch using jj multi-parent rebase with intelligent AI-powered conflict resolution",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ohare93",
+    "github": "ohare93"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ohare93/claude-setup",
+    "skill_md": "https://raw.githubusercontent.com/ohare93/claude-setup/main/skills/consolidate-branches/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.790Z",
+  "created_at": "2025-12-22T18:59:26.944Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ohare93%2Fclaude-setup/skills%2Fconsolidate-branches%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.790Z",
+    "uniqueId": "sk_9cd0904dee6a"
+  }
+}

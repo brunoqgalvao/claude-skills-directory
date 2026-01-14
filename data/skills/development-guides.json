@@ -1,0 +1,37 @@
+{
+  "id": "development-guides",
+  "name": "development-guides",
+  "version": "1.0.0",
+  "summary": "Comprehensive development guides for advanced Kailash SDK features including custom node development, MCP development, async patterns, testing strategies, production deployment,...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Integrum-Global",
+    "github": "Integrum-Global"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Integrum-Global/rr_helpdesk",
+    "skill_md": "https://raw.githubusercontent.com/Integrum-Global/rr_helpdesk/main/.claude/skills/07-development-guides/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.821Z",
+  "created_at": "2025-12-22T17:06:53.201Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Integrum-Global%2Frr_helpdesk/.claude%2Fskills%2F07-development-guides%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.821Z",
+    "uniqueId": "sk_c5c596fe4256"
+  }
+}

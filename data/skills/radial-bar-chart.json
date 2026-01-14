@@ -1,0 +1,35 @@
+{
+  "id": "radial-bar-chart",
+  "name": "radial-bar-chart",
+  "version": "1.0.0",
+  "summary": "Configure radial bar charts in drizzle-cube dashboards for circular progress and gauge visualizations. Use when creating radial bars, circular progress indicators, or gauge charts.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cliftonc",
+    "github": "cliftonc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cliftonc/drizzle-cube-skills",
+    "skill_md": "https://raw.githubusercontent.com/cliftonc/drizzle-cube-skills/main/charts/radial-bar-chart/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T04:47:11.000Z",
+  "created_at": "2025-12-23T01:28:33.971Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cliftonc%2Fdrizzle-cube-skills/charts%2Fradial-bar-chart%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_a6abd31e0bb4"
+  }
+}

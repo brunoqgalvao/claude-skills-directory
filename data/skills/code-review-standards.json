@@ -1,0 +1,35 @@
+{
+  "id": "code-review-standards",
+  "name": "code-review-standards",
+  "version": "1.0.0",
+  "summary": "Code review framework and criteria. References security-sentinel for security checks. Use when performing code reviews or defining review standards.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Barnhardt-Enterprises-Inc",
+    "github": "Barnhardt-Enterprises-Inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Barnhardt-Enterprises-Inc/quetrex-plugin",
+    "skill_md": "https://raw.githubusercontent.com/Barnhardt-Enterprises-Inc/quetrex-plugin/main/templates/skills/code-review-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.757Z",
+  "created_at": "2025-12-22T20:15:10.431Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Barnhardt-Enterprises-Inc%2Fquetrex-plugin/templates%2Fskills%2Fcode-review-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.757Z",
+    "uniqueId": "sk_50a078a3700d"
+  }
+}

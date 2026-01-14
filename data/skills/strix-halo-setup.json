@@ -1,0 +1,36 @@
+{
+  "id": "strix-halo-setup",
+  "name": "strix-halo-setup",
+  "version": "1.0.0",
+  "summary": "Complete setup for AMD Strix Halo (Ryzen AI MAX+ 395) PyTorch environments. Handles ROCm installation verification, PyTorch community builds (official wheels don't work with gfx...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ianbarber",
+    "github": "ianbarber"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ianbarber/strix-halo-skills",
+    "skill_md": "https://raw.githubusercontent.com/ianbarber/strix-halo-skills/main/.claude/skills/strix-halo-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.745Z",
+  "created_at": "2025-12-22T21:06:04.087Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ianbarber%2Fstrix-halo-skills/.claude%2Fskills%2Fstrix-halo-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.745Z",
+    "uniqueId": "sk_a972802c07b5"
+  }
+}

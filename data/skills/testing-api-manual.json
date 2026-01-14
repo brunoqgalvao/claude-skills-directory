@@ -1,0 +1,36 @@
+{
+  "id": "testing-api-manual",
+  "name": "testing-api-manual",
+  "version": "1.0.0",
+  "summary": "Manual API testing commands for pharmaceutical test generation workflow. Use when testing Docker-based FastAPI endpoints with Clerk JWT authentication, submitting URS files, and...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Danik911",
+    "github": "Danik911"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Danik911/thesis_project",
+    "skill_md": "https://raw.githubusercontent.com/Danik911/thesis_project/main/.claude/skills/testing-api-manual/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.706Z",
+  "created_at": "2025-12-22T21:19:44.961Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Danik911%2Fthesis_project/.claude%2Fskills%2Ftesting-api-manual%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.706Z",
+    "uniqueId": "sk_ed438b9fd016"
+  }
+}

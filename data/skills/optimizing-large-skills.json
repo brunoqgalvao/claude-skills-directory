@@ -1,0 +1,36 @@
+{
+  "id": "optimizing-large-skills",
+  "name": "optimizing-large-skills",
+  "version": "1.0.0",
+  "summary": "Use when skills exceed 300 lines or contain excessive inline code -\nsystematic methodology to reduce context usage through externalization,\nconsolidation, and progressive loadin...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/conservation/skills/optimizing-large-skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T20:20:50.000Z",
+  "created_at": "2025-12-23T01:29:22.471Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fconservation%2Fskills%2Foptimizing-large-skills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_02594274d907"
+  }
+}

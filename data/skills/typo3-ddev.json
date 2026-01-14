@@ -1,0 +1,35 @@
+{
+  "id": "typo3-ddev",
+  "name": "typo3-ddev",
+  "version": "1.0.0",
+  "summary": "Automate DDEV environment setup for TYPO3 extension development. Use when setting up local development environment, configuring DDEV for TYPO3 extensions, or creating multi-vers...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "netresearch",
+    "github": "netresearch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/netresearch/typo3-ddev-skill",
+    "skill_md": "https://raw.githubusercontent.com/netresearch/typo3-ddev-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T09:16:04.000Z",
+  "created_at": "2025-12-23T01:29:04.796Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/netresearch%2Ftypo3-ddev-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_5944548d9021"
+  }
+}

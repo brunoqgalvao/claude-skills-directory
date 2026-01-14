@@ -1,0 +1,35 @@
+{
+  "id": "color-tools",
+  "name": "color-tools",
+  "version": "1.0.0",
+  "summary": "Color palette generation, contrast checking (WCAG), color space conversion, and color harmony tools. Ensures accessible and visually appealing color systems. Use when designing ...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andronics",
+    "github": "andronics"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andronics/claude-plugin-css-pro",
+    "skill_md": "https://raw.githubusercontent.com/andronics/claude-plugin-css-pro/main/skills/color-tools/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.763Z",
+  "created_at": "2025-12-22T20:08:33.921Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andronics%2Fclaude-plugin-css-pro/skills%2Fcolor-tools%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.763Z",
+    "uniqueId": "sk_79818ba05c12"
+  }
+}

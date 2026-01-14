@@ -1,0 +1,35 @@
+{
+  "id": "github-pages-docs",
+  "name": "github-pages-docs",
+  "version": "1.0.0",
+  "summary": "Create and maintain GitHub Pages documentation for administrative guides, ubiquitous language definitions, and domain-driven design artifacts. Use when writing or updating docum...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bowlneba",
+    "github": "bowlneba"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bowlneba/neba-management",
+    "skill_md": "https://raw.githubusercontent.com/bowlneba/neba-management/main/.claude/skills/github-pages-docs/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.783Z",
+  "created_at": "2025-12-22T19:11:44.353Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bowlneba%2Fneba-management/.claude%2Fskills%2Fgithub-pages-docs%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.783Z",
+    "uniqueId": "sk_0da67f0d1ac2"
+  }
+}

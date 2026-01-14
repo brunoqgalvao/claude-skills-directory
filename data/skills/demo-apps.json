@@ -1,0 +1,35 @@
+{
+  "id": "demo-apps",
+  "name": "demo-apps",
+  "version": "1.0.0",
+  "summary": "Research and scaffold demo applications. Use when starting a new demo app, analyzing UI patterns from real apps, or setting up demo app structure.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sernstberger",
+    "github": "sernstberger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sernstberger/base-joy",
+    "skill_md": "https://raw.githubusercontent.com/sernstberger/base-joy/main/.claude/skills/demo-apps/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.751Z",
+  "created_at": "2025-12-22T21:00:33.802Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sernstberger%2Fbase-joy/.claude%2Fskills%2Fdemo-apps%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.751Z",
+    "uniqueId": "sk_2690ef89ed18"
+  }
+}

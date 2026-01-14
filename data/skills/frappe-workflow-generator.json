@@ -1,0 +1,35 @@
+{
+  "id": "frappe-workflow-generator",
+  "name": "frappe-workflow-generator",
+  "version": "1.0.0",
+  "summary": "Generate Frappe Workflows for document state management and approvals. Use when creating approval workflows, state transitions, or multi-step document processes.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Venkateshvenki404224",
+    "github": "Venkateshvenki404224"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Venkateshvenki404224/frappe-apps-manager",
+    "skill_md": "https://raw.githubusercontent.com/Venkateshvenki404224/frappe-apps-manager/main/frappe-apps-manager/skills/frappe-workflow-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:12.342Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Venkateshvenki404224%2Ffrappe-apps-manager/frappe-apps-manager%2Fskills%2Ffrappe-workflow-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_6dfb2268fc25"
+  }
+}

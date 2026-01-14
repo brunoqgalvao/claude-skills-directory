@@ -1,0 +1,35 @@
+{
+  "id": "evaluation",
+  "name": "evaluation",
+  "version": "1.0.0",
+  "summary": "Use when creating or updating agent evaluation suites. Defines eval structure, rubrics, and validation patterns.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "craigtkhill",
+    "github": "craigtkhill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/craigtkhill/stdd-agents",
+    "skill_md": "https://raw.githubusercontent.com/craigtkhill/stdd-agents/main/skills/evaluation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-03T18:15:40.000Z",
+  "created_at": "2025-12-22T15:54:17.196Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/craigtkhill%2Fstdd-agents/skills%2Fevaluation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.853Z",
+    "uniqueId": "sk_7ce26f0c1437"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "executive-briefing",
+  "name": "executive-briefing",
+  "version": "1.0.0",
+  "summary": "Transforms research findings into executive-ready briefings. Automatically activated when user mentions 'executive', 'briefing', 'C-suite', 'board', 'leadership', or 'presentati...",
+  "verticals": [
+    "legal",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dobeutech",
+    "github": "dobeutech"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dobeutech/dobeu-agents-sdk",
+    "skill_md": "https://raw.githubusercontent.com/dobeutech/dobeu-agents-sdk/main/research-agent/.claude/skills/executive-briefing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T01:31:48.000Z",
+  "created_at": "2025-12-22T16:58:28.310Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dobeutech%2Fdobeu-agents-sdk/research-agent%2F.claude%2Fskills%2Fexecutive-briefing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.462Z",
+    "uniqueId": "sk_a27aa94dc64f"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "rest-api-design",
+  "name": "rest-api-design",
+  "version": "1.0.0",
+  "summary": "RESTful API design and OpenAPI specification generation. Use when: (1) Designing new REST API endpoints, (2) Creating OpenAPI/Swagger specifications, (3) Choosing HTTP methods, ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MUmerRazzaq",
+    "github": "MUmerRazzaq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MUmerRazzaq/fast-next-todo",
+    "skill_md": "https://raw.githubusercontent.com/MUmerRazzaq/fast-next-todo/main/.claude/skills/rest-api-design/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:53:13.893Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MUmerRazzaq%2Ffast-next-todo/.claude%2Fskills%2Frest-api-design%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_6f27dca4aaf4"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tmux-playwright-dev",
+  "name": "tmux-playwright-dev",
+  "version": "1.0.0",
+  "summary": "Live UI development workflow using tmux panes + Playwright for visual feedback. Start dev server in one pane, use Playwright for testing, screenshots, and mobile/responsive veri...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "prassanna-ravishankar",
+    "github": "prassanna-ravishankar"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/prassanna-ravishankar/torale",
+    "skill_md": "https://raw.githubusercontent.com/prassanna-ravishankar/torale/main/.claude/skills/tmux-playwright-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T07:30:26.000Z",
+  "created_at": "2025-12-23T01:28:56.340Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/prassanna-ravishankar%2Ftorale/.claude%2Fskills%2Ftmux-playwright-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.537Z",
+    "uniqueId": "sk_b36c92d8f7e3"
+  }
+}

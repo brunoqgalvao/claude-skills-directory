@@ -1,0 +1,35 @@
+{
+  "id": "agent-database-optimizer",
+  "name": "agent-database-optimizer",
+  "version": "1.0.0",
+  "summary": "Expert database optimizer specializing in query optimization, performance tuning, and scalability across multiple database systems. Masters execution plan analysis, index strate...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Tony363",
+    "github": "Tony363"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Tony363/SuperClaude",
+    "skill_md": "https://raw.githubusercontent.com/Tony363/SuperClaude/main/.claude/skills/agent-database-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.575Z",
+  "created_at": "2025-12-23T01:28:26.980Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Tony363%2FSuperClaude/.claude%2Fskills%2Fagent-database-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.575Z",
+    "uniqueId": "sk_11be8ab892fe"
+  }
+}

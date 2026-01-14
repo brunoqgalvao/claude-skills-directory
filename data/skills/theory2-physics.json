@@ -1,0 +1,36 @@
+{
+  "id": "theory2-physics",
+  "name": "theory2-physics",
+  "version": "1.0.0",
+  "summary": "Use when performing mathematical physics computations - Lie algebras, quantum chemistry, neural operators, theorem proving, or scientific validation. Provides guidance on Theory...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "slapglif",
+    "github": "slapglif"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/slapglif/theory2-physics-plugin",
+    "skill_md": "https://raw.githubusercontent.com/slapglif/theory2-physics-plugin/main/theory2-physics/skills/theory2-physics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:57:15.786Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/slapglif%2Ftheory2-physics-plugin/theory2-physics%2Fskills%2Ftheory2-physics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_8c1ce7a5d5da"
+  }
+}

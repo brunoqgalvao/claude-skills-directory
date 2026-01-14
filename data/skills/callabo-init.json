@@ -1,0 +1,35 @@
+{
+  "id": "callabo-init",
+  "name": "callabo-init",
+  "version": "1.0.0",
+  "summary": "Callabo 서비스 워크스페이스를 초기화합니다. 새 워크스페이스 생성, 브랜치 생성, 서비스 컴포넌트(callabo-server, callabo-webapp, magi) 선택 및 포트 설정, 서비스 간 연동 설정을 지원합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/callabo/callabo-init/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.761Z",
+  "created_at": "2025-12-22T20:11:01.116Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/callabo%2Fcallabo-init%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.761Z",
+    "uniqueId": "sk_bdb32a66fc24"
+  }
+}

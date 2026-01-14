@@ -1,0 +1,36 @@
+{
+  "id": "rust-developer",
+  "name": "rust-developer",
+  "version": "1.0.0",
+  "summary": "Comprehensive Rust development guidelines based on 6 months of code reviews. Use when writing Rust code, debugging Rust issues, or reviewing Rust PRs. Covers error handling, fil...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dwalleck",
+    "github": "dwalleck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dwalleck/mental-health-bar-rs",
+    "skill_md": "https://raw.githubusercontent.com/dwalleck/mental-health-bar-rs/main/.claude/skills/rust-developer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.457Z",
+  "created_at": "2025-12-22T22:09:34.034Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dwalleck%2Fmental-health-bar-rs/.claude%2Fskills%2Frust-developer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.457Z",
+    "uniqueId": "sk_9211d91b09b0"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "whoami",
+  "name": "whoami",
+  "version": "1.0.0",
+  "summary": "사용자의 개발 프로필 정보를 관리합니다. 사용자의 기술 스택, 선호도, 경험 수준에 대한 질문이 필요할 때 자동으로 활성화되며, ~/.agents/WHOAMI.md 파일에서 정보를 읽습니다. 파일이 없으면 대화형으로 프로필을 생성합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jiunbae",
+    "github": "jiunbae"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jiunbae/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/jiunbae/agent-skills/main/context/whoami/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.521Z",
+  "created_at": "2025-12-23T01:29:09.445Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jiunbae%2Fagent-skills/context%2Fwhoami%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.521Z",
+    "uniqueId": "sk_b332e604f1db"
+  }
+}

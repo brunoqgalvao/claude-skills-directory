@@ -1,0 +1,36 @@
+{
+  "id": "moai-cc-memory",
+  "name": "moai-cc-memory",
+  "version": "1.0.0",
+  "summary": "Managing Claude Code Session Memory & Context. Understand session context limits, use just-in-time retrieval, cache insights, manage memory files. Use when optimizing context us...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kivo360",
+    "github": "kivo360"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kivo360/quickhooks",
+    "skill_md": "https://raw.githubusercontent.com/kivo360/quickhooks/main/.claude/skills/moai-cc-memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-18T22:57:22.000Z",
+  "created_at": "2025-12-22T19:15:15.986Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kivo360%2Fquickhooks/.claude%2Fskills%2Fmoai-cc-memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_72e1d385c16b"
+  }
+}

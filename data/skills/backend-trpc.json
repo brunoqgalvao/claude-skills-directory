@@ -1,0 +1,37 @@
+{
+  "id": "backend-trpc",
+  "name": "backend-trpc",
+  "version": "1.0.0",
+  "summary": "Type-safe API layer for TypeScript full-stack applications. Use when building APIs that need end-to-end type safety between client and server WITHOUT code generation. Ideal for ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "petbrains",
+    "github": "petbrains"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/petbrains/mvp-builder",
+    "skill_md": "https://raw.githubusercontent.com/petbrains/mvp-builder/main/.claude/skills/backend-trpc/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.452Z",
+  "created_at": "2025-12-23T01:29:16.395Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/petbrains%2Fmvp-builder/.claude%2Fskills%2Fbackend-trpc%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.452Z",
+    "uniqueId": "sk_afdc8b19201d"
+  }
+}

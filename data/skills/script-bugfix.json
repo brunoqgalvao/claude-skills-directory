@@ -1,0 +1,35 @@
+{
+  "id": "script-bugfix",
+  "name": "script-bugfix",
+  "version": "1.0.0",
+  "summary": "Debug and fix complex scripts by isolating side effects, extracting core logic into a controlled environment, validating behavior there, then reintegrating with minimal changes....",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tizee",
+    "github": "tizee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tizee/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/tizee/dotfiles/main/claude/skills/script-bugfix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T16:20:54.000Z",
+  "created_at": "2025-12-22T15:52:34.318Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tizee%2Fdotfiles/claude%2Fskills%2Fscript-bugfix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.855Z",
+    "uniqueId": "sk_04b8e11c28a5"
+  }
+}

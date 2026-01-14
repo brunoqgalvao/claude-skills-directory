@@ -1,0 +1,36 @@
+{
+  "id": "distributed-workers",
+  "name": "distributed-workers",
+  "version": "1.0.0",
+  "summary": "Use when working on worker implementation, ServiceOrchestrator patterns, WorkerAPIBase, operation dispatch, progress tracking, cancellation, backend-to-worker communication, or ...",
+  "verticals": [
+    "engineering",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kpiteira",
+    "github": "kpiteira"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kpiteira/ktrdr",
+    "skill_md": "https://raw.githubusercontent.com/kpiteira/ktrdr/main/.claude/skills/distributed-workers/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:38.541Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kpiteira%2Fktrdr/.claude%2Fskills%2Fdistributed-workers%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_595b2c2f4690"
+  }
+}

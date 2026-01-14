@@ -1,0 +1,36 @@
+{
+  "id": "markdown-optimizer",
+  "name": "markdown-optimizer",
+  "version": "1.0.0",
+  "summary": "Optimize markdown files for LLM consumption by adding YAML front-matter with metadata and TOC, normalizing heading hierarchy, removing noise and redundancy, converting verbose p...",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mvdmakesthings",
+    "github": "mvdmakesthings"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mvdmakesthings/skills",
+    "skill_md": "https://raw.githubusercontent.com/mvdmakesthings/skills/main/markdown-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:44.546Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mvdmakesthings%2Fskills/markdown-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_1ed8ae971d15"
+  }
+}

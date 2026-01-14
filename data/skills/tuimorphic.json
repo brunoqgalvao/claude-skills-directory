@@ -1,0 +1,36 @@
+{
+  "id": "tuimorphic",
+  "name": "tuimorphic",
+  "version": "1.0.0",
+  "summary": "Teach agents to design TUIs in the tuimorphic style (Bagels/Calcure/Claude Code/Droid-inspired).",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Smarty-Pants-Inc",
+    "github": "Smarty-Pants-Inc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Smarty-Pants-Inc/tui-skill",
+    "skill_md": "https://raw.githubusercontent.com/Smarty-Pants-Inc/tui-skill/main/skills/tuimorphic/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.684Z",
+  "created_at": "2025-12-22T22:10:11.047Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Smarty-Pants-Inc%2Ftui-skill/skills%2Ftuimorphic%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.684Z",
+    "uniqueId": "sk_7d9523fd8e70"
+  }
+}

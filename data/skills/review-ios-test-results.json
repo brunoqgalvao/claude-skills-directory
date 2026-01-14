@@ -1,0 +1,36 @@
+{
+  "id": "review-ios-test-results",
+  "name": "review-ios-test-results",
+  "version": "1.0.0",
+  "summary": "Analyzes iOS test results from xcodebuild test runs. Use immediately after running xcodebuild test, when tests fail, when the user asks to check test results/failures, or when i...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ddpi",
+    "github": "ddpi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ddpi/PublicArticles",
+    "skill_md": "https://raw.githubusercontent.com/ddpi/PublicArticles/main/claude_code/skills/review-ios-test-results/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-30T22:44:10.000Z",
+  "created_at": "2025-12-23T01:28:36.026Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ddpi%2FPublicArticles/claude_code%2Fskills%2Freview-ios-test-results%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.566Z",
+    "uniqueId": "sk_e9a80e0132d3"
+  }
+}

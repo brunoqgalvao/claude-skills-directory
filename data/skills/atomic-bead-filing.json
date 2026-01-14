@@ -1,0 +1,36 @@
+{
+  "id": "atomic-bead-filing",
+  "name": "atomic-bead-filing",
+  "version": "1.0.0",
+  "summary": "Use when noticing something off (code smell, design smell, workaround) while working and want to capture it without losing flow - grounds observation in codebase and files a pro...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "delightful-ai",
+    "github": "delightful-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/delightful-ai/beads-rs",
+    "skill_md": "https://raw.githubusercontent.com/delightful-ai/beads-rs/main/.claude/skills/atomic-bead-filing/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T04:58:39.000Z",
+  "created_at": "2025-12-23T01:28:57.042Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/delightful-ai%2Fbeads-rs/.claude%2Fskills%2Fatomic-bead-filing%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.534Z",
+    "uniqueId": "sk_5891672c78c8"
+  }
+}

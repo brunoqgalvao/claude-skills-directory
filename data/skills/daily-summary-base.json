@@ -1,0 +1,37 @@
+{
+  "id": "daily-summary-base",
+  "name": "daily-summary-base",
+  "version": "1.0.0",
+  "summary": "Framework for creating end-of-day summary documents. Use when user says \"daily summary\", \"generate summary\", or similar at end of day. Provides structured markdown template with...",
+  "verticals": [
+    "marketing",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ZachBeta",
+    "github": "ZachBeta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ZachBeta/claude-as-coach",
+    "skill_md": "https://raw.githubusercontent.com/ZachBeta/claude-as-coach/main/skills/daily-summary-base/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.811Z",
+  "created_at": "2025-12-22T17:54:13.668Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ZachBeta%2Fclaude-as-coach/skills%2Fdaily-summary-base%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_992717a654c3"
+  }
+}

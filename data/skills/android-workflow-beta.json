@@ -1,0 +1,36 @@
+{
+  "id": "android-workflow-beta",
+  "name": "android-workflow-beta",
+  "version": "1.0.0",
+  "summary": "Generate GitHub Actions workflow for beta testing track deployment",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hitoshura25",
+    "github": "hitoshura25"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hitoshura25/claude-devtools",
+    "skill_md": "https://raw.githubusercontent.com/hitoshura25/claude-devtools/main/skills/android-workflow-beta/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:40.371Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hitoshura25%2Fclaude-devtools/skills%2Fandroid-workflow-beta%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_3ea90a338d89"
+  }
+}

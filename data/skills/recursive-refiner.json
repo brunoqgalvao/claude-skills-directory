@@ -1,0 +1,36 @@
+{
+  "id": "recursive-refiner",
+  "name": "recursive-refiner",
+  "version": "1.0.0",
+  "summary": "Self-improvement engine. Implements generate-critique-iterate loops for enhanced reasoning. Use when working through complex problems, synthesizing across domains, or when initi...",
+  "verticals": [
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "agentgptsmith",
+    "github": "agentgptsmith"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/agentgptsmith/MonadFramework",
+    "skill_md": "https://raw.githubusercontent.com/agentgptsmith/MonadFramework/main/.claude/skills/recursive-refiner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-16T11:42:56.000Z",
+  "created_at": "2025-12-22T17:54:46.520Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/agentgptsmith%2FMonadFramework/.claude%2Fskills%2Frecursive-refiner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_c1d2541deeee"
+  }
+}

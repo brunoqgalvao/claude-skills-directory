@@ -1,0 +1,36 @@
+{
+  "id": "building-ai-agent-on-cloudflare",
+  "name": "building-ai-agent-on-cloudflare",
+  "version": "1.0.0",
+  "summary": "Builds AI agents on Cloudflare using the Agents SDK with state management,\nreal-time WebSockets, scheduled tasks, tool integration, and chat capabilities.\nGenerates production-r...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cloudflare",
+    "github": "cloudflare"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cloudflare/skills",
+    "skill_md": "https://raw.githubusercontent.com/cloudflare/skills/main/building-ai-agent-on-cloudflare/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.460Z",
+  "created_at": "2025-12-22T20:06:04.833Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cloudflare%2Fskills/building-ai-agent-on-cloudflare%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.460Z",
+    "uniqueId": "sk_0262d3e3a74b"
+  }
+}

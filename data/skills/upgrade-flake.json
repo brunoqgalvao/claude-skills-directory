@@ -1,0 +1,36 @@
+{
+  "id": "upgrade-flake",
+  "name": "upgrade-flake",
+  "version": "1.0.0",
+  "summary": "Update flake.lock to get latest packages within the current NixOS release - runs nix flake update, checks build, and optionally applies",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "richardgill",
+    "github": "richardgill"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/richardgill/nix",
+    "skill_md": "https://raw.githubusercontent.com/richardgill/nix/main/.claude/skills/upgrade-flake/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.576Z",
+  "created_at": "2025-12-23T01:28:25.036Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/richardgill%2Fnix/.claude%2Fskills%2Fupgrade-flake%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.576Z",
+    "uniqueId": "sk_9f1b2f616943"
+  }
+}

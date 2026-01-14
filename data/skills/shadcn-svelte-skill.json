@@ -1,0 +1,36 @@
+{
+  "id": "shadcn-svelte-skill",
+  "name": "shadcn-svelte-skill",
+  "version": "1.0.0",
+  "summary": "Build accessible, customizable UI components for Svelte/SvelteKit projects using shadcn-svelte CLI, Tailwind CSS v4.1, and TypeScript. Use when creating component-based Svelte a...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "linehaul-ai",
+    "github": "linehaul-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/linehaul-ai/linehaulai-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/linehaul-ai/linehaulai-claude-marketplace/main/.claude-plugin/shadcn-svelte-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.595Z",
+  "created_at": "2025-12-23T00:21:40.944Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/linehaul-ai%2Flinehaulai-claude-marketplace/.claude-plugin%2Fshadcn-svelte-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.595Z",
+    "uniqueId": "sk_e1ba395075bc"
+  }
+}

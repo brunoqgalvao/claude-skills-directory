@@ -1,0 +1,36 @@
+{
+  "id": "release-automation",
+  "name": "release-automation",
+  "version": "1.0.0",
+  "summary": "Automate library releases, NuGet package publishing, and API versioning. Use when working with NuGet releases, package versioning, API compatibility checks, library releases, or...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "RicherTunes",
+    "github": "RicherTunes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/RicherTunes/Lidarr.Plugin.Common",
+    "skill_md": "https://raw.githubusercontent.com/RicherTunes/Lidarr.Plugin.Common/main/.claude/skills/release-automation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.764Z",
+  "created_at": "2025-12-22T20:07:22.126Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/RicherTunes%2FLidarr.Plugin.Common/.claude%2Fskills%2Frelease-automation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.764Z",
+    "uniqueId": "sk_a4903f0f676d"
+  }
+}

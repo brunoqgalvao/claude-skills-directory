@@ -1,0 +1,36 @@
+{
+  "id": "claude-skill-manager",
+  "name": "claude-skill-manager",
+  "version": "1.0.0",
+  "summary": "Guide for creating valid skills. This skill should be ALWAYS used when users want to create a new skill or update an existing skill that extends Claude's capabilities with speci...",
+  "verticals": [
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "shredbx",
+    "github": "shredbx"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/shredbx/demo-3d-model",
+    "skill_md": "https://raw.githubusercontent.com/shredbx/demo-3d-model/main/.claude/skills/claude-skill-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.489Z",
+  "created_at": "2025-12-23T01:29:35.477Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/shredbx%2Fdemo-3d-model/.claude%2Fskills%2Fclaude-skill-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.489Z",
+    "uniqueId": "sk_6ce9d909a285"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "add-sensor",
+  "name": "add-sensor",
+  "version": "1.0.0",
+  "summary": "Use when user wants to add a new sensor to the Enviro+ monitoring system, or asks to monitor a new data point. Guides through importing libraries, initialization, reading sensor...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kleinmatic",
+    "github": "kleinmatic"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kleinmatic/enviroplus-logger",
+    "skill_md": "https://raw.githubusercontent.com/kleinmatic/enviroplus-logger/main/.claude/skills/add-sensor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.804Z",
+  "created_at": "2025-12-22T18:02:15.812Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kleinmatic%2Fenviroplus-logger/.claude%2Fskills%2Fadd-sensor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_091bf6507661"
+  }
+}

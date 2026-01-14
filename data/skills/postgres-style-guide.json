@@ -1,0 +1,37 @@
+{
+  "id": "postgres-style-guide",
+  "name": "postgres-style-guide",
+  "version": "1.0.0",
+  "summary": "PostgreSQL SQL style guide for consistent, readable database code. Use when writing SQL queries, creating tables, defining constraints, or reviewing PostgreSQL code for style co...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "linehaul-ai",
+    "github": "linehaul-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/linehaul-ai/linehaulai-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/linehaul-ai/linehaulai-claude-marketplace/main/.claude-plugin/supabase/skills/postgres-style-guide/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.606Z",
+  "created_at": "2025-12-23T00:03:40.183Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/linehaul-ai%2Flinehaulai-claude-marketplace/.claude-plugin%2Fsupabase%2Fskills%2Fpostgres-style-guide%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.606Z",
+    "uniqueId": "sk_f532b0ae2798"
+  }
+}

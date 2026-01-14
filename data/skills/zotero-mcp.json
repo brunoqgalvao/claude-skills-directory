@@ -1,0 +1,37 @@
+{
+  "id": "zotero-mcp",
+  "name": "zotero-mcp",
+  "version": "1.0.0",
+  "summary": "Interface with Zotero's MCP server to search and retrieve bibliographic data using advanced semantic search and multi-strategy approaches. Designed for output as a plain markdow...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kerim",
+    "github": "kerim"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kerim/zotero-mcp-skill",
+    "skill_md": "https://raw.githubusercontent.com/kerim/zotero-mcp-skill/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.474Z",
+  "created_at": "2025-12-23T01:29:57.004Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kerim%2Fzotero-mcp-skill/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.474Z",
+    "uniqueId": "sk_d2a518f7aedb"
+  }
+}

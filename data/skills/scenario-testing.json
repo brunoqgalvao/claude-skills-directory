@@ -1,0 +1,36 @@
+{
+  "id": "scenario-testing",
+  "name": "scenario-testing",
+  "version": "1.0.0",
+  "summary": "Use when writing tests, validating features, or tempted to use mocks - enforces scenario-driven end-to-end testing with real dependencies; mocks are lies that hide bugs; scenari...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "2389-research",
+    "github": "2389-research"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/2389-research/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/2389-research/claude-plugins/main/scenario-testing/skills/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:23.240Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/2389-research%2Fclaude-plugins/scenario-testing%2Fskills%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_6327c12ca35e"
+  }
+}

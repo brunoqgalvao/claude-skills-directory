@@ -1,0 +1,37 @@
+{
+  "id": "create-skill",
+  "name": "create-skill",
+  "version": "1.0.0",
+  "summary": "Automatically invoked when user wants to create, improve, update, or review Claude Code skills. Use when user mentions creating new skills, improving skill metadata, fixing YAML...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "finance"
+  ],
+  "tags": [],
+  "author": {
+    "name": "DieGopherLT",
+    "github": "DieGopherLT"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/DieGopherLT/claude-kit",
+    "skill_md": "https://raw.githubusercontent.com/DieGopherLT/claude-kit/main/skills/create-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-20T04:52:55.000Z",
+  "created_at": "2025-12-19T20:36:33.309Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/DieGopherLT%2Fclaude-kit/skills%2Fcreate-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.885Z",
+    "uniqueId": "sk_cfe0e109a6c7"
+  }
+}

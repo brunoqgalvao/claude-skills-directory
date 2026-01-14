@@ -1,0 +1,35 @@
+{
+  "id": "code-flow-viz",
+  "name": "code-flow-viz",
+  "version": "1.0.0",
+  "summary": "用于梳理和可视化代码流程，生成清晰的 ASCII 流程图、数据流图和表格分析。适用于已有代码的梳理、新功能设计的说明、以及技术文档的编写。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "MMorit00",
+    "github": "MMorit00"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/MMorit00/fund-portfolio-bot",
+    "skill_md": "https://raw.githubusercontent.com/MMorit00/fund-portfolio-bot/main/.claude/skills/code-flow-viz/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.686Z",
+  "created_at": "2025-12-22T22:09:28.876Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/MMorit00%2Ffund-portfolio-bot/.claude%2Fskills%2Fcode-flow-viz%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.686Z",
+    "uniqueId": "sk_cbb0c6d94cb8"
+  }
+}

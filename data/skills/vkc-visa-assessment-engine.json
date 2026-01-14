@@ -1,0 +1,36 @@
+{
+  "id": "vkc-visa-assessment-engine",
+  "name": "vkc-visa-assessment-engine",
+  "version": "1.0.0",
+  "summary": "Design and implement the Viet K-Connect visa assessment engine (DB-driven ruleset JSON schema + versioning + effective dates). No hardcoded rules in code. Use for building /api/...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LEE-SANG-BOK",
+    "github": "LEE-SANG-BOK"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LEE-SANG-BOK/VKC-2-",
+    "skill_md": "https://raw.githubusercontent.com/LEE-SANG-BOK/VKC-2-/main/.codex/skills/vkc-visa-assessment-engine/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.864Z",
+  "created_at": "2025-12-22T15:05:37.832Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LEE-SANG-BOK%2FVKC-2-/.codex%2Fskills%2Fvkc-visa-assessment-engine%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.864Z",
+    "uniqueId": "sk_9e076a0d4224"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "devops",
+  "name": "devops",
+  "version": "1.0.0",
+  "summary": "DevOps essentials: Docker, CI/CD pipelines, deployment strategies.\nUse when: containerizing apps, setting up CI/CD, deploying to production.\nTriggers: \"docker\", \"dockerfile\", \"c...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/vibe-coder",
+    "skill_md": "https://raw.githubusercontent.com/timequity/vibe-coder/main/skills/devops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T14:51:48.000Z",
+  "created_at": "2025-12-22T18:13:11.366Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fvibe-coder/skills%2Fdevops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_24c0763d79d3"
+  }
+}

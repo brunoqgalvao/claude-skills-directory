@@ -1,0 +1,35 @@
+{
+  "id": "anthropic-prompt-engineer",
+  "name": "anthropic-prompt-engineer",
+  "version": "1.0.0",
+  "summary": "Master Anthropic's prompt engineering techniques to generate new prompts or improve existing ones using best practices for Claude AI models.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zircote",
+    "github": "zircote"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zircote/.claude",
+    "skill_md": "https://raw.githubusercontent.com/zircote/.claude/main/skills/anthropic-prompt-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.462Z",
+  "created_at": "2025-12-22T17:02:00.865Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zircote%2F.claude/skills%2Fanthropic-prompt-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.462Z",
+    "uniqueId": "sk_fb99e69314c6"
+  }
+}

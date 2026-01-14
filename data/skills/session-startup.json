@@ -1,0 +1,35 @@
+{
+  "id": "session-startup",
+  "name": "session-startup",
+  "version": "1.0.0",
+  "summary": "Session initialization sequence for community-patterns development. Use at the start of every Claude Code session. Checks for upstream updates, loads workspace configuration, an...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkomoros",
+    "github": "jkomoros"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkomoros/community-patterns",
+    "skill_md": "https://raw.githubusercontent.com/jkomoros/community-patterns/main/.claude/skills/session-startup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T21:15:56.000Z",
+  "created_at": "2025-12-23T01:29:20.631Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkomoros%2Fcommunity-patterns/.claude%2Fskills%2Fsession-startup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.506Z",
+    "uniqueId": "sk_96829a6888b1"
+  }
+}

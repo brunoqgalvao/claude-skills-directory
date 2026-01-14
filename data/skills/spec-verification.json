@@ -1,0 +1,35 @@
+{
+  "id": "spec-verification",
+  "name": "spec-verification",
+  "version": "1.0.0",
+  "summary": "Use during Phase 5 of spec creation to verify completeness and accuracy before implementation - checks requirements accuracy, visual integration, reusability leverage, task spec...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcos-abreu",
+    "github": "marcos-abreu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcos-abreu/connect_kit",
+    "skill_md": "https://raw.githubusercontent.com/marcos-abreu/connect_kit/main/.claude/skills/spec-verification/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-11T17:47:03.000Z",
+  "created_at": "2025-12-22T19:06:34.414Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcos-abreu%2Fconnect_kit/.claude%2Fskills%2Fspec-verification%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.785Z",
+    "uniqueId": "sk_e789d67137fb"
+  }
+}

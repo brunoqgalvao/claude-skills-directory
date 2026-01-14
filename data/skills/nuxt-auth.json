@@ -1,0 +1,35 @@
+{
+  "id": "nuxt-auth",
+  "name": "nuxt-auth",
+  "version": "1.0.0",
+  "summary": "Authentication with Laravel Sanctum and permission-based authorization. Use when implementing login/logout, protecting pages with permissions, checking permissions in components...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leeovery",
+    "github": "leeovery"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leeovery/claude-nuxt",
+    "skill_md": "https://raw.githubusercontent.com/leeovery/claude-nuxt/main/skills/nuxt-auth/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:57:40.830Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leeovery%2Fclaude-nuxt/skills%2Fnuxt-auth%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_09c3896bcda1"
+  }
+}

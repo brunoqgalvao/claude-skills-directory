@@ -1,0 +1,37 @@
+{
+  "id": "manage-campaign",
+  "name": "manage-campaign",
+  "version": "1.0.0",
+  "summary": "Retrieve and manage advertising campaign state throughout the campaign lifecycle. Use when checking campaign status, retrieving campaign data by ID, understanding campaign compl...",
+  "verticals": [
+    "marketing",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "feed-mob",
+    "github": "feed-mob"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/feed-mob/feedmob-adpilot-mcp",
+    "skill_md": "https://raw.githubusercontent.com/feed-mob/feedmob-adpilot-mcp/main/src/plugins/manage-campaign/skills/manage-campaign/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-28T15:29:59.000Z",
+  "created_at": "2025-12-23T01:28:49.562Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/feed-mob%2Ffeedmob-adpilot-mcp/src%2Fplugins%2Fmanage-campaign%2Fskills%2Fmanage-campaign%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.551Z",
+    "uniqueId": "sk_25a4c2c46136"
+  }
+}

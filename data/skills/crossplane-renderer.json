@@ -1,0 +1,36 @@
+{
+  "id": "crossplane-renderer",
+  "name": "crossplane-renderer",
+  "version": "1.0.0",
+  "summary": "Renders and validates Crossplane compositions with security and policy checks. Automatically activates when testing compositions, rendering examples, or validating resources wit...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Smana",
+    "github": "Smana"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Smana/cloud-native-ref",
+    "skill_md": "https://raw.githubusercontent.com/Smana/cloud-native-ref/main/.claude/skills/crossplane-renderer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-27T22:34:54.000Z",
+  "created_at": "2025-12-23T01:29:41.558Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Smana%2Fcloud-native-ref/.claude%2Fskills%2Fcrossplane-renderer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.482Z",
+    "uniqueId": "sk_dbd11b9e2068"
+  }
+}

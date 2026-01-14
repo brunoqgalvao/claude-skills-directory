@@ -1,0 +1,35 @@
+{
+  "id": "mimir-prometheus-troubleshoot",
+  "name": "mimir-prometheus-troubleshoot",
+  "version": "1.0.0",
+  "summary": "Help craft efficient Mimir/Prometheus queries, troubleshoot metric issues, avoid high-cardinality problems, and recommend best practices for aggregation, recording rules, and pe...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timbuchinger",
+    "github": "timbuchinger"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timbuchinger/loadout",
+    "skill_md": "https://raw.githubusercontent.com/timbuchinger/loadout/main/skills/mimir-prometheus-troubleshoot/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.874Z",
+  "created_at": "2025-12-22T15:03:12.138Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timbuchinger%2Floadout/skills%2Fmimir-prometheus-troubleshoot%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.874Z",
+    "uniqueId": "sk_f6b7bebb2438"
+  }
+}

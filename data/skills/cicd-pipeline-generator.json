@@ -1,0 +1,37 @@
+{
+  "id": "cicd-pipeline-generator",
+  "name": "cicd-pipeline-generator",
+  "version": "1.0.0",
+  "summary": "This skill should be used when creating or configuring CI/CD pipeline files for automated testing, building, and deployment. Use this for generating GitHub Actions workflows, Gi...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tmoody1973",
+    "github": "tmoody1973"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tmoody1973/hakivo-v2",
+    "skill_md": "https://raw.githubusercontent.com/tmoody1973/hakivo-v2/main/hakivo-api/.claude/skills/cicd-pipeline-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.448Z",
+  "created_at": "2025-12-22T21:03:26.794Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tmoody1973%2Fhakivo-v2/hakivo-api%2F.claude%2Fskills%2Fcicd-pipeline-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.448Z",
+    "uniqueId": "sk_05196a01b574"
+  }
+}

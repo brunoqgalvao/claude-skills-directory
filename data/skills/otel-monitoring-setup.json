@@ -1,0 +1,36 @@
+{
+  "id": "otel-monitoring-setup",
+  "name": "otel-monitoring-setup",
+  "version": "1.0.0",
+  "summary": "Use PROACTIVELY when setting up OpenTelemetry monitoring for Claude Code usage tracking, cost analysis, or productivity metrics. Provides local PoC mode (full Docker stack with ...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cskiro",
+    "github": "cskiro"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cskiro/claudex",
+    "skill_md": "https://raw.githubusercontent.com/cskiro/claudex/main/skills/otel-monitoring-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:40.241Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cskiro%2Fclaudex/skills%2Fotel-monitoring-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_5dd8400da921"
+  }
+}

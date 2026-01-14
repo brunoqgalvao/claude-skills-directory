@@ -1,0 +1,35 @@
+{
+  "id": "dev-checker",
+  "name": "dev-checker",
+  "version": "1.0.0",
+  "summary": "Runs pre-commit checks and validates code quality. Use when preparing commits, running pre-deploy checks, or validating code before deployment.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "amo-tech-ai",
+    "github": "amo-tech-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/amo-tech-ai/medellin-spark",
+    "skill_md": "https://raw.githubusercontent.com/amo-tech-ai/medellin-spark/main/.claude/archive/skills/dev-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:26.636Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/amo-tech-ai%2Fmedellin-spark/.claude%2Farchive%2Fskills%2Fdev-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_4920cd96ac36"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "cursor-explorer-mcp",
+  "name": "cursor-explorer-mcp",
+  "version": "1.0.0",
+  "summary": "Use for token-expensive operations requiring multi-file analysis - codebase exploration, broad searches, architecture understanding, tracing flows, finding implementations acros...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sepiabrown",
+    "github": "sepiabrown"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sepiabrown/.claude",
+    "skill_md": "https://raw.githubusercontent.com/sepiabrown/.claude/main/skills/cursor-explorer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.876Z",
+  "created_at": "2025-12-22T15:00:41.264Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sepiabrown%2F.claude/skills%2Fcursor-explorer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.876Z",
+    "uniqueId": "sk_a23227574829"
+  }
+}

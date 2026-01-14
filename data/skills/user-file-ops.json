@@ -1,0 +1,35 @@
+{
+  "id": "user-file-ops",
+  "name": "user-file-ops",
+  "version": "1.0.0",
+  "summary": "Simple operations on user-provided text files including summarization.",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trpc-group",
+    "github": "trpc-group"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trpc-group/trpc-agent-go",
+    "skill_md": "https://raw.githubusercontent.com/trpc-group/trpc-agent-go/main/examples/skillrun/skills/user_file_ops/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-21T02:53:35.000Z",
+  "created_at": "2025-12-23T01:28:28.230Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trpc-group%2Ftrpc-agent-go/examples%2Fskillrun%2Fskills%2Fuser_file_ops%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.455Z",
+    "uniqueId": "sk_07afd1e8a948"
+  }
+}

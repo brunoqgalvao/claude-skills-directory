@@ -1,0 +1,37 @@
+{
+  "id": "ruby-skill-creator",
+  "name": "ruby-skill-creator",
+  "version": "1.0.0",
+  "summary": "Create new Claude Code Skills using Ruby as the control flow language. Use this skill when users want to author Skills with programmatic logic, conditionals, loops, and dynamic ...",
+  "verticals": [
+    "engineering",
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "natekratchman",
+    "github": "natekratchman"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/natekratchman/.dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/natekratchman/.dotfiles/main/.claude/skills/ruby-skills-creator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:16:55.636Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/natekratchman%2F.dotfiles/.claude%2Fskills%2Fruby-skills-creator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_18e81d1ecd10"
+  }
+}

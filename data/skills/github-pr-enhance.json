@@ -1,0 +1,35 @@
+{
+  "id": "github-pr-enhance",
+  "name": "github-pr-enhance",
+  "version": "1.0.0",
+  "summary": "Enhance an existing PR by analyzing the diff against the description and updating with examples, diagrams, and context",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leighmcculloch",
+    "github": "leighmcculloch"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leighmcculloch/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/leighmcculloch/dotfiles/main/files/claude/skills/github-pr-enhance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T03:33:01.000Z",
+  "created_at": "2025-12-23T01:28:46.869Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leighmcculloch%2Fdotfiles/files%2Fclaude%2Fskills%2Fgithub-pr-enhance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.554Z",
+    "uniqueId": "sk_53014b898aed"
+  }
+}

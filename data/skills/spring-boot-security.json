@@ -1,0 +1,35 @@
+{
+  "id": "spring-boot-security",
+  "name": "spring-boot-security",
+  "version": "1.0.0",
+  "summary": "Spring Security 7 implementation for Spring Boot 4. Use when configuring authentication, authorization, OAuth2/JWT resource servers, method security, or CORS/CSRF. Covers the ma...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "joaquimscosta",
+    "github": "joaquimscosta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/joaquimscosta/arkhe-claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/joaquimscosta/arkhe-claude-plugins/main/spring-boot/skills/spring-boot-security/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:05:23.924Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/joaquimscosta%2Farkhe-claude-plugins/spring-boot%2Fskills%2Fspring-boot-security%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_78df42cad8b9"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "cicd-audit-optimizer",
+  "name": "cicd-audit-optimizer",
+  "version": "1.0.0",
+  "summary": "Comprehensive CI/CD and automation audit skill. Catalogs all pipelines, assesses operational health, identifies gaps, and provides prioritized recommendations for optimization. ...",
+  "verticals": [
+    "sales",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jgtolentino",
+    "github": "jgtolentino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jgtolentino/insightpulse-odoo",
+    "skill_md": "https://raw.githubusercontent.com/jgtolentino/insightpulse-odoo/main/docs/claude-code-skills/community/cicd-audit-optimizer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:11:38.427Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jgtolentino%2Finsightpulse-odoo/docs%2Fclaude-code-skills%2Fcommunity%2Fcicd-audit-optimizer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_ad66e7db58c9"
+  }
+}

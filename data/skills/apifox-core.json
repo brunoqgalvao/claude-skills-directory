@@ -1,0 +1,35 @@
+{
+  "id": "apifox-core",
+  "name": "apifox-core",
+  "version": "1.0.0",
+  "summary": "Apifox 生成器核心工具（由 Agent 内部使用，不对外暴露）",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "LcpMarvel",
+    "github": "LcpMarvel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/LcpMarvel/apifox-generator-plugin",
+    "skill_md": "https://raw.githubusercontent.com/LcpMarvel/apifox-generator-plugin/main/skills/apifox-core/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-26T01:44:20.000Z",
+  "created_at": "2025-12-23T01:28:24.327Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/LcpMarvel%2Fapifox-generator-plugin/skills%2Fapifox-core%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.577Z",
+    "uniqueId": "sk_e4502d798514"
+  }
+}

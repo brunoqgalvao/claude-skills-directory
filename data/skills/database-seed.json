@@ -1,0 +1,35 @@
+{
+  "id": "database-seed",
+  "name": "database-seed",
+  "version": "1.0.0",
+  "summary": "Create robust, error-proof Prisma seed scripts with comprehensive error handling and validation.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "xmark168",
+    "github": "xmark168"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/xmark168/VibeSDLC",
+    "skill_md": "https://raw.githubusercontent.com/xmark168/VibeSDLC/main/backend/app/agents/developer/src/skills/nextjs/database-seed/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T09:34:56.000Z",
+  "created_at": "2025-12-22T20:05:23.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/xmark168%2FVibeSDLC/backend%2Fapp%2Fagents%2Fdeveloper%2Fsrc%2Fskills%2Fnextjs%2Fdatabase-seed%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_9a2db1c6e7ea"
+  }
+}

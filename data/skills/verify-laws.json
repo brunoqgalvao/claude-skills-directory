@@ -1,0 +1,35 @@
+{
+  "id": "verify-laws",
+  "name": "verify-laws",
+  "version": "1.0.0",
+  "summary": "Generate and verify proofs for categorical laws. Produces Lean 4 files\nfor category, monad, functor, and transformation laws. Use when: proving\nlaws, verifying correctness, form...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BellaBe",
+    "github": "BellaBe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BellaBe/ideas-os",
+    "skill_md": "https://raw.githubusercontent.com/BellaBe/ideas-os/main/.claude/skills/engineering-verify-laws/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:03.893Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BellaBe%2Fideas-os/.claude%2Fskills%2Fengineering-verify-laws%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_febf3089fa8c"
+  }
+}

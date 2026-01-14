@@ -1,0 +1,36 @@
+{
+  "id": "web-reference-fetcher",
+  "name": "web-reference-fetcher",
+  "version": "1.0.0",
+  "summary": "Fetch web content from URLs, extract specific topics using subagents, and save structured summaries as markdown. This skill should be used when other skills or workflows need to...",
+  "verticals": [
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dakesan",
+    "github": "dakesan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dakesan/la-bench2025",
+    "skill_md": "https://raw.githubusercontent.com/dakesan/la-bench2025/main/.claude/skills/web-reference-fetcher/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.780Z",
+  "created_at": "2025-12-22T19:15:16.339Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dakesan%2Fla-bench2025/.claude%2Fskills%2Fweb-reference-fetcher%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.780Z",
+    "uniqueId": "sk_bc0d72896980"
+  }
+}

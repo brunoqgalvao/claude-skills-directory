@@ -1,0 +1,35 @@
+{
+  "id": "find-related-work",
+  "name": "find-related-work",
+  "version": "1.0.0",
+  "summary": "Searches journal for past work related to current task, finding relevant context, solutions, and decisions",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "chrismbryant",
+    "github": "chrismbryant"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/chrismbryant/claude-journal-mcp",
+    "skill_md": "https://raw.githubusercontent.com/chrismbryant/claude-journal-mcp/main/skills/find-related-work/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.806Z",
+  "created_at": "2025-12-22T18:00:45.101Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/chrismbryant%2Fclaude-journal-mcp/skills%2Ffind-related-work%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.806Z",
+    "uniqueId": "sk_b6b92a9d7986"
+  }
+}

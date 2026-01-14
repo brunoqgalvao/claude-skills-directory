@@ -1,0 +1,35 @@
+{
+  "id": "sbt-benchmark",
+  "name": "sbt-benchmark",
+  "version": "1.0.0",
+  "summary": "Use PROACTIVELY for JMH benchmarks in this Spark protobuf project. Handles sbt commands, always cleans before benchmarking, saves output to /tmp logs, and uses log-reader agent ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "bumfo",
+    "github": "bumfo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/bumfo/spark-protobuf-backport",
+    "skill_md": "https://raw.githubusercontent.com/bumfo/spark-protobuf-backport/main/.claude/skills/sbt-benchmark/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-21T09:42:52.000Z",
+  "created_at": "2025-12-23T01:28:38.609Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/bumfo%2Fspark-protobuf-backport/.claude%2Fskills%2Fsbt-benchmark%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.563Z",
+    "uniqueId": "sk_c339b7e4685a"
+  }
+}

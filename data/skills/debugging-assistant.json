@@ -1,0 +1,35 @@
+{
+  "id": "debugging-assistant",
+  "name": "debugging-assistant",
+  "version": "1.0.0",
+  "summary": "Proactively diagnose and fix code bugs. Use when errors occur, tests fail, or performance issues arise. Analyzes stack traces, identifies root causes, and provides working fixes.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jk278",
+    "github": "jk278"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jk278/veld",
+    "skill_md": "https://raw.githubusercontent.com/jk278/veld/main/.claude/skills/debugging-assistant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.560Z",
+  "created_at": "2025-12-23T01:28:41.451Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jk278%2Fveld/.claude%2Fskills%2Fdebugging-assistant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_080c7dfb4dbc"
+  }
+}

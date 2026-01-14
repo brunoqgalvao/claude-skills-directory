@@ -1,0 +1,35 @@
+{
+  "id": "gemini-session-management",
+  "name": "gemini-session-management",
+  "version": "1.0.0",
+  "summary": "Central authority for Gemini CLI session management. Covers session resume, retention policies, session browser, and cleanup. Use when resuming Gemini sessions, configuring rete...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/google-ecosystem/skills/gemini-session-management/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.535Z",
+  "created_at": "2025-12-23T01:28:57.020Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Fgoogle-ecosystem%2Fskills%2Fgemini-session-management%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.535Z",
+    "uniqueId": "sk_ac4105f22010"
+  }
+}

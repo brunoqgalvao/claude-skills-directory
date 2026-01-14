@@ -1,0 +1,37 @@
+{
+  "id": "ddd-api-generator",
+  "name": "ddd-api-generator",
+  "version": "1.0.0",
+  "summary": "Generate REST API endpoints with class-validator DTOs, routing-controllers decorators, and complete Swagger docs. Use when creating API endpoints for existing use cases, adding ...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "moasadi",
+    "github": "moasadi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/moasadi/ddd-bun-api-boilerplate",
+    "skill_md": "https://raw.githubusercontent.com/moasadi/ddd-bun-api-boilerplate/main/.claude/skills/ddd-api-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:36.834Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/moasadi%2Fddd-bun-api-boilerplate/.claude%2Fskills%2Fddd-api-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_29df12b2b702"
+  }
+}

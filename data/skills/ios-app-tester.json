@@ -1,0 +1,37 @@
+{
+  "id": "ios-app-tester",
+  "name": "ios-app-tester",
+  "version": "1.0.0",
+  "summary": "Test iOS apps using AXe CLI for accessibility auditing, UI automation, and simulator control. Use when testing iOS Simulator apps, automating UI interactions, recording test vid...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ckorhonen",
+    "github": "ckorhonen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ckorhonen/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/ckorhonen/claude-skills/main/skills/ios-app-tester/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.799Z",
+  "created_at": "2025-12-22T18:14:07.045Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ckorhonen%2Fclaude-skills/skills%2Fios-app-tester%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.799Z",
+    "uniqueId": "sk_0fc63f9acac6"
+  }
+}

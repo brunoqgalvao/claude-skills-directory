@@ -1,0 +1,35 @@
+{
+  "id": "go-best-practices",
+  "name": "go-best-practices",
+  "version": "1.0.0",
+  "summary": "Provides Go patterns for type-first development with custom types, interfaces, functional options, and error handling. Must use when reading or writing Go files.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "0xBigBoss",
+    "github": "0xBigBoss"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/0xBigBoss/claude-code",
+    "skill_md": "https://raw.githubusercontent.com/0xBigBoss/claude-code/main/.claude/skills/go-best-practices/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T18:34:44.000Z",
+  "created_at": "2025-12-22T19:00:19.055Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/0xBigBoss%2Fclaude-code/.claude%2Fskills%2Fgo-best-practices%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.789Z",
+    "uniqueId": "sk_36cdb4e08d4a"
+  }
+}

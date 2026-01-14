@@ -1,0 +1,37 @@
+{
+  "id": "docker-health",
+  "name": "docker-health",
+  "version": "1.0.0",
+  "summary": "Docker health checks and troubleshooting. Use when building Docker images, running containers, or debugging deployment issues. Validates backend API and worker services.",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Plabrum",
+    "github": "Plabrum"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Plabrum/arive",
+    "skill_md": "https://raw.githubusercontent.com/Plabrum/arive/main/.claude/skills/docker-health/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.513Z",
+  "created_at": "2025-12-23T01:29:15.700Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Plabrum%2Farive/.claude%2Fskills%2Fdocker-health%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.513Z",
+    "uniqueId": "sk_49b35becc830"
+  }
+}

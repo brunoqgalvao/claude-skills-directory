@@ -1,0 +1,36 @@
+{
+  "id": "controller-expert",
+  "name": "controller-expert",
+  "version": "1.0.0",
+  "summary": "REST Controller 전문가. Thin Controller 패턴, CQRS Command/Query Controller 분리,\nResponseEntity<ApiResponse<T>> 래핑, @Valid 검증 필수. DELETE 금지(PATCH 사용).\nTestRestTemplate 필수 (MockMvc 금지)...",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ryu-qqq",
+    "github": "ryu-qqq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ryu-qqq/setof-commerce",
+    "skill_md": "https://raw.githubusercontent.com/ryu-qqq/setof-commerce/main/.claude/skills/controller-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.601Z",
+  "created_at": "2025-12-23T00:10:18.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ryu-qqq%2Fsetof-commerce/.claude%2Fskills%2Fcontroller-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.601Z",
+    "uniqueId": "sk_b70c0c84ec71"
+  }
+}

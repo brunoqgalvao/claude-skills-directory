@@ -1,0 +1,37 @@
+{
+  "id": "security-requirement-extraction",
+  "name": "security-requirement-extraction",
+  "version": "1.0.0",
+  "summary": "Derive security requirements from threat models and business context. Use when translating threats into actionable requirements, creating security user stories, or building secu...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "wshobson",
+    "github": "wshobson"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/wshobson/agents",
+    "skill_md": "https://raw.githubusercontent.com/wshobson/agents/main/plugins/security-scanning/skills/security-requirement-extraction/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.603Z",
+  "created_at": "2025-12-23T00:07:42.925Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/wshobson%2Fagents/plugins%2Fsecurity-scanning%2Fskills%2Fsecurity-requirement-extraction%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.603Z",
+    "uniqueId": "sk_9662671cc372"
+  }
+}

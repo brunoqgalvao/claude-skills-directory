@@ -1,0 +1,35 @@
+{
+  "id": "claimify",
+  "name": "claimify",
+  "version": "1.0.0",
+  "summary": "Extract and structure claims from discourse into analyzable argument maps with logical relationships and assumptions. Use when analyzing arguments, red-teaming reasoning, synthe...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "leegonzales",
+    "github": "leegonzales"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/leegonzales/AISkills",
+    "skill_md": "https://raw.githubusercontent.com/leegonzales/AISkills/main/Claimify/claimify/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-10T20:22:46.000Z",
+  "created_at": "2025-12-22T18:02:14.591Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/leegonzales%2FAISkills/Claimify%2Fclaimify%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.804Z",
+    "uniqueId": "sk_784145242155"
+  }
+}

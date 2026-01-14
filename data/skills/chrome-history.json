@@ -1,0 +1,35 @@
+{
+  "id": "chrome-history",
+  "name": "chrome-history",
+  "version": "1.0.0",
+  "summary": "Query Chrome browsing history with natural language. Filter by date range, article type, keywords, and specific sites.",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "glebis",
+    "github": "glebis"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/glebis/claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/glebis/claude-skills/main/chrome-history/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.558Z",
+  "created_at": "2025-12-23T01:28:42.787Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/glebis%2Fclaude-skills/chrome-history%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_45d4999845f6"
+  }
+}

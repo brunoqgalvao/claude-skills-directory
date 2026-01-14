@@ -1,0 +1,37 @@
+{
+  "id": "designing-apis",
+  "name": "designing-apis",
+  "version": "1.0.0",
+  "summary": "Design clean, consistent APIs. Use when creating new endpoints, defining contracts, or improving API ergonomics. Covers REST, versioning, and error handling.",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dralgorhythm",
+    "github": "dralgorhythm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dralgorhythm/claude-agentic-framework",
+    "skill_md": "https://raw.githubusercontent.com/dralgorhythm/claude-agentic-framework/main/.claude/skills/architecture/designing-apis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-17T02:25:52.000Z",
+  "created_at": "2025-12-22T15:09:21.073Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dralgorhythm%2Fclaude-agentic-framework/.claude%2Fskills%2Farchitecture%2Fdesigning-apis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.859Z",
+    "uniqueId": "sk_47449e6da21d"
+  }
+}

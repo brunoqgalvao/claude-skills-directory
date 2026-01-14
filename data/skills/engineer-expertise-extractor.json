@@ -1,0 +1,35 @@
+{
+  "id": "engineer-expertise-extractor",
+  "name": "engineer-expertise-extractor",
+  "version": "1.0.0",
+  "summary": "Research and extract an engineer's coding style, patterns, and best practices from their GitHub contributions. Creates structured knowledge base for replicating their expertise.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jamesrochabrun",
+    "github": "jamesrochabrun"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jamesrochabrun/skills",
+    "skill_md": "https://raw.githubusercontent.com/jamesrochabrun/skills/main/skills/engineer-expertise-extractor/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.480Z",
+  "created_at": "2025-12-23T01:29:44.160Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jamesrochabrun%2Fskills/skills%2Fengineer-expertise-extractor%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.480Z",
+    "uniqueId": "sk_913b23b48a56"
+  }
+}

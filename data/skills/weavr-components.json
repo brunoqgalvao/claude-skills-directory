@@ -1,0 +1,37 @@
+{
+  "id": "weavr-components",
+  "name": "weavr-components",
+  "version": "1.0.0",
+  "summary": "Use when building applications with Weavr for payments, cards, accounts, and identity verification. Covers both API integration and secure UI components.",
+  "verticals": [
+    "engineering",
+    "finance",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/weavr-sdk-react",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/weavr-sdk-react/main/.claude/skills/weavr-components/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T17:09:40.000Z",
+  "created_at": "2025-12-23T01:28:50.433Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fweavr-sdk-react/.claude%2Fskills%2Fweavr-components%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.549Z",
+    "uniqueId": "sk_f3056b02fd02"
+  }
+}

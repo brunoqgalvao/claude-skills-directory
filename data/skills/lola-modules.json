@@ -1,0 +1,37 @@
+{
+  "id": "lola-modules",
+  "name": "lola-modules",
+  "version": "1.0.0",
+  "summary": "Create and manage Lola modules for multi-assistant AI context distribution. Use when building portable AI skills with multi-assistant support (Claude Code, Cursor, Gemini CLI). ...",
+  "verticals": [
+    "engineering",
+    "support",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "SecKatie",
+    "github": "SecKatie"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/SecKatie/kmtools",
+    "skill_md": "https://raw.githubusercontent.com/SecKatie/kmtools/main/lola-modules/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.758Z",
+  "created_at": "2025-12-22T20:13:24.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/SecKatie%2Fkmtools/lola-modules%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.758Z",
+    "uniqueId": "sk_dcded4f27d91"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "github-wayback-recovery",
+  "name": "github-wayback-recovery",
+  "version": "1.0.0",
+  "summary": "Recover deleted GitHub content using the Wayback Machine and Archive.org APIs. Use when repositories, files, issues, PRs, or wiki pages have been deleted from GitHub but may per...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gadievron",
+    "github": "gadievron"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gadievron/raptor",
+    "skill_md": "https://raw.githubusercontent.com/gadievron/raptor/main/.claude/skills/oss-forensics/github-wayback-recovery/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.676Z",
+  "created_at": "2025-12-22T22:13:21.462Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gadievron%2Fraptor/.claude%2Fskills%2Foss-forensics%2Fgithub-wayback-recovery%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.676Z",
+    "uniqueId": "sk_c355550116cf"
+  }
+}

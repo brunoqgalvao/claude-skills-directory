@@ -1,0 +1,35 @@
+{
+  "id": "spec-initialization",
+  "name": "spec-initialization",
+  "version": "1.0.0",
+  "summary": "Use at start of spec creation to initialize folder structure with dated naming and save raw feature idea - creates planning, implementation, and verification folders ready for s...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcos-abreu",
+    "github": "marcos-abreu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcos-abreu/connect_kit",
+    "skill_md": "https://raw.githubusercontent.com/marcos-abreu/connect_kit/main/.claude/skills/spec-initialization/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:09.616Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcos-abreu%2Fconnect_kit/.claude%2Fskills%2Fspec-initialization%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_7749841a2855"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "verdex-playwright-complete",
+  "name": "verdex-playwright-complete",
+  "version": "1.0.0",
+  "summary": "Complete Playwright test authoring workflow with Verdex MCP tools. Three phases - explore apps interactively to map user journeys, build stable role-first selectors via progress...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "verdexhq",
+    "github": "verdexhq"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/verdexhq/verdex-mcp",
+    "skill_md": "https://raw.githubusercontent.com/verdexhq/verdex-mcp/main/.claude/skills/verdex-playwright-complete/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.744Z",
+  "created_at": "2025-12-22T21:07:08.962Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/verdexhq%2Fverdex-mcp/.claude%2Fskills%2Fverdex-playwright-complete%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.744Z",
+    "uniqueId": "sk_067614c1dc87"
+  }
+}

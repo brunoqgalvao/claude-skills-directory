@@ -1,0 +1,35 @@
+{
+  "id": "arxiv-search",
+  "name": "arxiv-search",
+  "version": "1.0.0",
+  "summary": "Search arXiv preprint repository for papers in physics, mathematics, computer science, quantitative biology, and related fields",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "langchain-samples",
+    "github": "langchain-samples"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/langchain-samples/deepagent-coder",
+    "skill_md": "https://raw.githubusercontent.com/langchain-samples/deepagent-coder/main/src/agent/skills/arxiv-search/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.845Z",
+  "created_at": "2025-12-22T16:04:38.375Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/langchain-samples%2Fdeepagent-coder/src%2Fagent%2Fskills%2Farxiv-search%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.845Z",
+    "uniqueId": "sk_30edf0c1c0a7"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ctx-planning",
+  "name": "ctx-planning",
+  "version": "1.0.0",
+  "summary": "Generate daily and weekly planning reports from backlog and carryover state, applying WIP limits and priority rules from BaseContext.yaml, with automatic git commit/push.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Real-AI-Engineering",
+    "github": "Real-AI-Engineering"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Real-AI-Engineering/context-planning-system",
+    "skill_md": "https://raw.githubusercontent.com/Real-AI-Engineering/context-planning-system/main/.claude/skills/ctx-planning/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T06:21:06.000Z",
+  "created_at": "2025-12-23T01:29:22.503Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Real-AI-Engineering%2Fcontext-planning-system/.claude%2Fskills%2Fctx-planning%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.504Z",
+    "uniqueId": "sk_dcc39637cab5"
+  }
+}

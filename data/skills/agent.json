@@ -1,0 +1,36 @@
+{
+  "id": "agent",
+  "name": "agent",
+  "version": "1.0.0",
+  "summary": "Use for PR/code reviews and any task that benefits from a dedicated tmux sub-agent with per-task git worktrees; default path for reviewing diffs (read diff → summarize → run che...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gakonst",
+    "github": "gakonst"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gakonst/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/gakonst/dotfiles/main/.codex/skills/agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.769Z",
+  "created_at": "2025-12-22T20:03:37.838Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gakonst%2Fdotfiles/.codex%2Fskills%2Fagent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.769Z",
+    "uniqueId": "sk_0588fb48be5f"
+  }
+}

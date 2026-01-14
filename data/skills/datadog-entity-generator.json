@@ -1,0 +1,37 @@
+{
+  "id": "datadog-entity-generator",
+  "name": "datadog-entity-generator",
+  "version": "1.0.0",
+  "summary": "Generate exhaustively complete and accurate Datadog Software Catalog entity YAML files (v3 schema) by examining project source code and interviewing engineers. Use when engineer...",
+  "verticals": [
+    "engineering",
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "zircote",
+    "github": "zircote"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/zircote/.claude",
+    "skill_md": "https://raw.githubusercontent.com/zircote/.claude/main/skills/datadog-entity-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:02:27.724Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/zircote%2F.claude/skills%2Fdatadog-entity-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_fc4feac26f25"
+  }
+}

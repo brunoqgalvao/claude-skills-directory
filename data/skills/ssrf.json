@@ -1,0 +1,35 @@
+{
+  "id": "ssrf",
+  "name": "ssrf",
+  "version": "1.0.0",
+  "summary": "服务端请求伪造漏洞检测与利用。当目标存在 URL 参数、远程文件加载、Webhook、PDF 生成、URL 预览功能时使用。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "yhy0",
+    "github": "yhy0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/yhy0/CHYing-agent",
+    "skill_md": "https://raw.githubusercontent.com/yhy0/CHYing-agent/main/chying_agent/skills/ssrf/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.787Z",
+  "created_at": "2025-12-22T19:03:14.563Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/yhy0%2FCHYing-agent/chying_agent%2Fskills%2Fssrf%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.787Z",
+    "uniqueId": "sk_7ffd778dc871"
+  }
+}

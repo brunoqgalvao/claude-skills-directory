@@ -1,0 +1,35 @@
+{
+  "id": "feature-spec-moderator",
+  "name": "feature-spec-moderator",
+  "version": "1.0.0",
+  "summary": "Apply critic feedback to improve an engineering spec. Use when revising a spec based on review comments to address issues and improve quality scores.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pcortes",
+    "github": "pcortes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pcortes/swarm-attack",
+    "skill_md": "https://raw.githubusercontent.com/pcortes/swarm-attack/main/default-skills/feature-spec-moderator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-09T21:36:33.000Z",
+  "created_at": "2025-12-22T17:02:14.163Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pcortes%2Fswarm-attack/default-skills%2Ffeature-spec-moderator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_85f5bcdb2687"
+  }
+}

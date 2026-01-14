@@ -1,0 +1,35 @@
+{
+  "id": "template-structure",
+  "name": "template-structure",
+  "version": "1.0.0",
+  "summary": "Implement proper directory structure for project templates following established patterns. Use when creating new templates or organizing template directories.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "gizix",
+    "github": "gizix"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/gizix/cc_projects",
+    "skill_md": "https://raw.githubusercontent.com/gizix/cc_projects/main/.claude/skills/template-structure/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-04T04:47:44.000Z",
+  "created_at": "2025-12-23T01:29:28.090Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/gizix%2Fcc_projects/.claude%2Fskills%2Ftemplate-structure%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.495Z",
+    "uniqueId": "sk_65e443f62bab"
+  }
+}

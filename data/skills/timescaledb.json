@@ -1,0 +1,36 @@
+{
+  "id": "timescaledb",
+  "name": "timescaledb",
+  "version": "1.0.0",
+  "summary": "TimescaleDB - PostgreSQL extension for high-performance time-series and event data analytics, hypertables, continuous aggregates, compression, and real-time analytics",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "2025Emma",
+    "github": "2025Emma"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/2025Emma/vibe-coding-cn",
+    "skill_md": "https://raw.githubusercontent.com/2025Emma/vibe-coding-cn/main/i18n/zh/skills/timescaledb/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.848Z",
+  "created_at": "2025-12-22T16:00:00.095Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/2025Emma%2Fvibe-coding-cn/i18n%2Fzh%2Fskills%2Ftimescaledb%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.848Z",
+    "uniqueId": "sk_de9edba40b78"
+  }
+}

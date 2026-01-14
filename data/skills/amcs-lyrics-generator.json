@@ -1,0 +1,35 @@
+{
+  "id": "amcs-lyrics-generator",
+  "name": "amcs-lyrics-generator",
+  "version": "1.0.0",
+  "summary": "Generate song lyrics with citations from pinned sources. Enforces rhyme scheme, meter, syllable counts, hook strategy, and profanity filter while retrieving from MCP sources wit...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "miethe",
+    "github": "miethe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/miethe/MeatyMusic",
+    "skill_md": "https://raw.githubusercontent.com/miethe/MeatyMusic/main/.claude/skills/workflow/lyrics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T02:02:17.000Z",
+  "created_at": "2025-12-22T19:13:51.280Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/miethe%2FMeatyMusic/.claude%2Fskills%2Fworkflow%2Flyrics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.782Z",
+    "uniqueId": "sk_89939a582f0b"
+  }
+}

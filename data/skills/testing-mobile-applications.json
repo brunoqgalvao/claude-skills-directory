@@ -1,0 +1,35 @@
+{
+  "id": "testing-mobile-applications",
+  "name": "testing-mobile-applications",
+  "version": "1.0.0",
+  "summary": "Pentest Android and iOS mobile applications including APK analysis, dynamic analysis, SSL pinning bypass, root/jailbreak detection bypass, and mobile-specific vulnerabilities. U...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trilwu",
+    "github": "trilwu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trilwu/secskills",
+    "skill_md": "https://raw.githubusercontent.com/trilwu/secskills/main/secskills/skills/mobile-pentesting/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.770Z",
+  "created_at": "2025-12-22T20:01:32.332Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trilwu%2Fsecskills/secskills%2Fskills%2Fmobile-pentesting%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.770Z",
+    "uniqueId": "sk_994605cce6c4"
+  }
+}

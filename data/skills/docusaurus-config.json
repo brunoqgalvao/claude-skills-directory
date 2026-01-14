@@ -1,0 +1,35 @@
+{
+  "id": "docusaurus-config",
+  "name": "docusaurus-config",
+  "version": "1.0.0",
+  "summary": "Use when working with docusaurus.config.js/ts files to validate or modify Docusaurus configuration",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/claude-docusaurus-skills",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/claude-docusaurus-skills/main/docusaurus-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.877Z",
+  "created_at": "2025-12-22T14:58:03.150Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fclaude-docusaurus-skills/docusaurus-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_d3d7fd2e5040"
+  }
+}

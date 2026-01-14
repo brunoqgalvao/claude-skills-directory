@@ -1,0 +1,37 @@
+{
+  "id": "nextjs-stripe-integration",
+  "name": "nextjs-stripe-integration",
+  "version": "1.0.0",
+  "summary": "Add Stripe payment processing to Next.js projects. Implement checkout sessions, payment handling, subscriptions, webhooks, and customer management. Use when adding Stripe to a N...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_categorized/payment/nextjs-stripe-integration/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T20:36:35.000Z",
+  "created_at": "2025-12-23T01:29:31.563Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_categorized%2Fpayment%2Fnextjs-stripe-integration%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.451Z",
+    "uniqueId": "sk_a59b794bd663"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fullstory-capture-control",
+  "name": "fullstory-capture-control",
+  "version": "1.0.0",
+  "summary": "Comprehensive guide for implementing Fullstory's Capture Control APIs (shutdown/restart) for web applications. Teaches proper session management, capture pausing, and resource o...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fullstorydev",
+    "github": "fullstorydev"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fullstorydev/fs-skills",
+    "skill_md": "https://raw.githubusercontent.com/fullstorydev/fs-skills/main/core/fullstory-capture-control/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.608Z",
+  "created_at": "2025-12-23T00:01:05.083Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fullstorydev%2Ffs-skills/core%2Ffullstory-capture-control%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.608Z",
+    "uniqueId": "sk_13147fd04ec4"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "council-debug",
+  "name": "council-debug",
+  "version": "1.0.0",
+  "summary": "Use for systematic debugging and root cause analysis with both Codex and Gemini. Triggers on \"council debug\", \"council root cause\", \"have council investigate this bug\", \"council...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "kanlanc",
+    "github": "kanlanc"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/kanlanc/Claude-Code-Kanlanc-Marketplace",
+    "skill_md": "https://raw.githubusercontent.com/kanlanc/Claude-Code-Kanlanc-Marketplace/main/ai-council/skills/council-debug/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.570Z",
+  "created_at": "2025-12-23T01:28:32.386Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/kanlanc%2FClaude-Code-Kanlanc-Marketplace/ai-council%2Fskills%2Fcouncil-debug%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.570Z",
+    "uniqueId": "sk_4b148377c988"
+  }
+}

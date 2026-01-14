@@ -1,0 +1,35 @@
+{
+  "id": "documentation-rulebook",
+  "name": "documentation-rulebook",
+  "version": "1.0.0",
+  "summary": "Standard deployment procedures for production",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stakpak",
+    "github": "stakpak"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stakpak/community-paks",
+    "skill_md": "https://raw.githubusercontent.com/stakpak/community-paks/main/documentation-rulebook/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T00:28:32.541Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stakpak%2Fcommunity-paks/documentation-rulebook%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_5536e9911af1"
+  }
+}

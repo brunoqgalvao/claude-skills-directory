@@ -1,0 +1,35 @@
+{
+  "id": "security-flutter",
+  "name": "security-flutter",
+  "version": "1.0.0",
+  "summary": "Flutter Security. Use when reviewing security, implementing auth, or hardening code.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TheBeardedBearSAS",
+    "github": "TheBeardedBearSAS"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TheBeardedBearSAS/claude-craft",
+    "skill_md": "https://raw.githubusercontent.com/TheBeardedBearSAS/claude-craft/main/Dev/i18n/de/Flutter/skills/security-flutter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T01:28:06.652Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TheBeardedBearSAS%2Fclaude-craft/Dev%2Fi18n%2Fde%2FFlutter%2Fskills%2Fsecurity-flutter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_4e4ec5b065ca"
+  }
+}

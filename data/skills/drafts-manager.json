@@ -1,0 +1,35 @@
+{
+  "id": "drafts-manager",
+  "name": "drafts-manager",
+  "version": "1.0.0",
+  "summary": "Triage Drafts inbox and route notes to OmniFocus tasks or Obsidian documents",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "krishagel",
+    "github": "krishagel"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/krishagel/geoffrey",
+    "skill_md": "https://raw.githubusercontent.com/krishagel/geoffrey/main/skills/drafts-manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.693Z",
+  "created_at": "2025-12-22T22:04:10.966Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/krishagel%2Fgeoffrey/skills%2Fdrafts-manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.693Z",
+    "uniqueId": "sk_df596223ca26"
+  }
+}

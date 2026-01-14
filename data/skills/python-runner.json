@@ -1,0 +1,35 @@
+{
+  "id": "python-runner",
+  "name": "python-runner",
+  "version": "1.0.0",
+  "summary": "Python 프로젝트 실행, 테스트, 문법 검사, 임포트 검증을 위한 스킬. `scripts\\python-runner.bat`를 사용합니다.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TakSung",
+    "github": "TakSung"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TakSung/python-katas",
+    "skill_md": "https://raw.githubusercontent.com/TakSung/python-katas/main/platforms/windows/.claude/skills/python-runner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.822Z",
+  "created_at": "2025-12-22T17:06:31.497Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TakSung%2Fpython-katas/platforms%2Fwindows%2F.claude%2Fskills%2Fpython-runner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.822Z",
+    "uniqueId": "sk_53faa7a37585"
+  }
+}

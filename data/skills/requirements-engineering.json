@@ -1,0 +1,37 @@
+{
+  "id": "requirements-engineering",
+  "name": "requirements-engineering",
+  "version": "1.0.0",
+  "summary": "Transform vague feature ideas into clear, testable requirements using EARS format. Capture user stories, define acceptance criteria, identify edge cases, and validate completene...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jasonkneen",
+    "github": "jasonkneen"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jasonkneen/kiro",
+    "skill_md": "https://raw.githubusercontent.com/jasonkneen/kiro/main/skills/requirements-engineering/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.776Z",
+  "created_at": "2025-12-22T19:57:42.139Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jasonkneen%2Fkiro/skills%2Frequirements-engineering%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_afddf24726c6"
+  }
+}

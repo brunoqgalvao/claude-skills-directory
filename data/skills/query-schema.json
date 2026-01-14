@@ -1,0 +1,37 @@
+{
+  "id": "query-schema",
+  "name": "query-schema",
+  "version": "1.0.0",
+  "summary": "Query game configuration table schemas and analyze table relationships using HTTP API and CFG syntax. This skill should be used when Claude needs to understand table structures ...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stallboy",
+    "github": "stallboy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stallboy/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/stallboy/claude-code-marketplace/main/plugins/config-gen/skills/query_schema/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.843Z",
+  "created_at": "2025-12-22T16:05:38.187Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stallboy%2Fclaude-code-marketplace/plugins%2Fconfig-gen%2Fskills%2Fquery_schema%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.843Z",
+    "uniqueId": "sk_f428737786aa"
+  }
+}

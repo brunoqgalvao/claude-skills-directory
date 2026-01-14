@@ -1,0 +1,37 @@
+{
+  "id": "geopandas",
+  "name": "geopandas",
+  "version": "1.0.0",
+  "summary": "Python library for working with geospatial vector data including shapefiles, GeoJSON, and GeoPackage files. Use when working with geographic data for spatial analysis, geometric...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ricable",
+    "github": "ricable"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ricable/ultimate-ai-agent",
+    "skill_md": "https://raw.githubusercontent.com/ricable/ultimate-ai-agent/main/sources/ricable/claude-scientific-skills/scientific-skills/geopandas/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.443Z",
+  "created_at": "2025-12-23T01:29:03.342Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ricable%2Fultimate-ai-agent/sources%2Fricable%2Fclaude-scientific-skills%2Fscientific-skills%2Fgeopandas%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.443Z",
+    "uniqueId": "sk_93cf936e4fcd"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fstar",
+  "name": "fstar",
+  "version": "1.0.0",
+  "summary": "F* proof-oriented programming language for verified software development.\nUse when: (1) writing or verifying F* code (.fst/.fsti files), (2) understanding\nverification errors fr...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "asimihsan",
+    "github": "asimihsan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/asimihsan/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/asimihsan/dotfiles/main/chezmoi/dot_claude/skills/fstar/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.740Z",
+  "created_at": "2025-12-22T21:14:25.084Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/asimihsan%2Fdotfiles/chezmoi%2Fdot_claude%2Fskills%2Ffstar%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.740Z",
+    "uniqueId": "sk_dbe5d5daee30"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "filament-widgets",
+  "name": "filament-widgets",
+  "version": "1.0.0",
+  "summary": "Create FilamentPHP v4 dashboard widgets - stats overviews, charts, and custom components",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mwguerra",
+    "github": "mwguerra"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mwguerra/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/mwguerra/claude-code-plugins/main/filament-specialist/skills/filament-widgets/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.681Z",
+  "created_at": "2025-12-22T22:10:48.163Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mwguerra%2Fclaude-code-plugins/filament-specialist%2Fskills%2Ffilament-widgets%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.681Z",
+    "uniqueId": "sk_df2f9478c975"
+  }
+}

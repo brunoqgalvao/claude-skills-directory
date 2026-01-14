@@ -1,0 +1,35 @@
+{
+  "id": "dependency-guardian",
+  "name": "dependency-guardian",
+  "version": "1.0.0",
+  "summary": "Automated dependency management with security scanning, update orchestration, and compatibility validation",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "nikhillinit",
+    "github": "nikhillinit"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/nikhillinit/Updog_restore",
+    "skill_md": "https://raw.githubusercontent.com/nikhillinit/Updog_restore/main/.claude/skills/workflow-engine/dependency-guardian/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:05:11.762Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/nikhillinit%2FUpdog_restore/.claude%2Fskills%2Fworkflow-engine%2Fdependency-guardian%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_e8f8430aa05e"
+  }
+}

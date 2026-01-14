@@ -1,0 +1,35 @@
+{
+  "id": "constitution",
+  "name": "constitution",
+  "version": "1.0.0",
+  "summary": "Create and manage project constitution - defines project-wide principles, patterns, and standards that guide all specs and implementations",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rhuss",
+    "github": "rhuss"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rhuss/cc-superpowers-sdd",
+    "skill_md": "https://raw.githubusercontent.com/rhuss/cc-superpowers-sdd/main/skills/constitution/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.746Z",
+  "created_at": "2025-12-22T21:04:59.815Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rhuss%2Fcc-superpowers-sdd/skills%2Fconstitution%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.746Z",
+    "uniqueId": "sk_41f8558a9729"
+  }
+}

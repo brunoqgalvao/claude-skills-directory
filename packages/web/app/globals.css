@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 17, 17, 17;
+  --background-start-rgb: 255, 255, 255;
+  --background-end-rgb: 255, 255, 255;
+}
+
+body {
+  color: theme('colors.foreground');
+  background: theme('colors.background');
+  font-feature-settings: "rlig" 1, "calt" 1;
+}
+
+::selection {
+  background-color: theme('colors.accent-dim');
+  color: theme('colors.accent');
+}
+
+/* Minimalist utilities */
+.border-thin {
+  border: 1px solid theme('colors.border');
+}
+
+.hover-glow:hover {
+  box-shadow: 0 0 15px theme('colors.accent-dim');
+  border-color: theme('colors.accent');
+}
+
+/* Scrollbar hiding */
+.scrollbar-none::-webkit-scrollbar { display: none; }
+.scrollbar-none { -ms-overflow-style: none; scrollbar-width: none; }

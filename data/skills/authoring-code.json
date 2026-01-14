@@ -1,0 +1,35 @@
+{
+  "id": "authoring-code",
+  "name": "authoring-code",
+  "version": "1.0.0",
+  "summary": "Code quality standards for writing and reviewing. Use when writing new code, reviewing PRs, refactoring, or making architectural decisions.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jkappers",
+    "github": "jkappers"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jkappers/claude-code-software-delivery-plugin",
+    "skill_md": "https://raw.githubusercontent.com/jkappers/claude-code-software-delivery-plugin/main/.claude/skills/authoring-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.825Z",
+  "created_at": "2025-12-22T17:02:26.377Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jkappers%2Fclaude-code-software-delivery-plugin/.claude%2Fskills%2Fauthoring-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.825Z",
+    "uniqueId": "sk_4a8f8e87e2ef"
+  }
+}

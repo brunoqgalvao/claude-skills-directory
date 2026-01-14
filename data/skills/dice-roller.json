@@ -1,0 +1,35 @@
+{
+  "id": "dice-roller",
+  "name": "dice-roller",
+  "version": "1.0.0",
+  "summary": "This skill should be used when the GM needs to roll dice or when the user asks to \"roll dice\", \"make a dice roll\", \"roll for initiative\", \"roll a skill check\", \"roll damage\", or...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rjroy",
+    "github": "rjroy"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rjroy/adventure-engine-corvran",
+    "skill_md": "https://raw.githubusercontent.com/rjroy/adventure-engine-corvran/main/corvran/skills/dice-roller/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.564Z",
+  "created_at": "2025-12-23T01:28:37.396Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rjroy%2Fadventure-engine-corvran/corvran%2Fskills%2Fdice-roller%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_635ed99a8f34"
+  }
+}

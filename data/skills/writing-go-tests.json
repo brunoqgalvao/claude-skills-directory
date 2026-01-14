@@ -1,0 +1,35 @@
+{
+  "id": "writing-go-tests",
+  "name": "writing-go-tests",
+  "version": "1.0.0",
+  "summary": "Applies current Go testing best practices. Use when writing or modifying Go test files or advising on Go testing strategies.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "torosent",
+    "github": "torosent"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/torosent/crankfire",
+    "skill_md": "https://raw.githubusercontent.com/torosent/crankfire/main/.claude/skills/writing-go-tests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:26.477Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/torosent%2Fcrankfire/.claude%2Fskills%2Fwriting-go-tests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_cf440e22d352"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "creating-packages",
+  "name": "creating-packages",
+  "version": "1.0.0",
+  "summary": "Creates new packages in the @kouka monorepo with proper structure, configuration, and workspace integration. Handles package.json, tsconfigs, source files, and runs necessary sy...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jasonkuhrt",
+    "github": "jasonkuhrt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jasonkuhrt/kit",
+    "skill_md": "https://raw.githubusercontent.com/jasonkuhrt/kit/main/.claude/skills/creating-packages/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.879Z",
+  "created_at": "2025-12-22T14:56:21.711Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jasonkuhrt%2Fkit/.claude%2Fskills%2Fcreating-packages%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.879Z",
+    "uniqueId": "sk_eb7be1fe7520"
+  }
+}

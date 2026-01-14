@@ -1,0 +1,35 @@
+{
+  "id": "woocommerce-backend-dev",
+  "name": "woocommerce-backend-dev",
+  "version": "1.0.0",
+  "summary": "Add or modify WooCommerce backend PHP code following project conventions. Use when creating new classes, methods, hooks, or modifying existing backend code. **MUST be invoked be...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "woocommerce",
+    "github": "woocommerce"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/woocommerce/woocommerce",
+    "skill_md": "https://raw.githubusercontent.com/woocommerce/woocommerce/main/.ai/skills/woocommerce-backend-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T11:41:18.000Z",
+  "created_at": "2025-12-22T15:51:41.234Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/woocommerce%2Fwoocommerce/.ai%2Fskills%2Fwoocommerce-backend-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.856Z",
+    "uniqueId": "sk_8eff9f895ea2"
+  }
+}

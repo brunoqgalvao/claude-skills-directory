@@ -1,0 +1,36 @@
+{
+  "id": "graphite-skill",
+  "name": "graphite-skill",
+  "version": "1.0.0",
+  "summary": "Context-efficient Git and Graphite workflows for Claude Code. Automatically delegates verbose git/Graphite CLI operations to isolated subagents, reducing context pollution by 22...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "slamb2k",
+    "github": "slamb2k"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/slamb2k/mad-skills",
+    "skill_md": "https://raw.githubusercontent.com/slamb2k/mad-skills/main/graphite-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.692Z",
+  "created_at": "2025-12-22T22:04:24.511Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/slamb2k%2Fmad-skills/graphite-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.692Z",
+    "uniqueId": "sk_0c6c65d4f754"
+  }
+}

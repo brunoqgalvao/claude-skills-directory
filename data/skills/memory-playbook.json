@@ -1,0 +1,35 @@
+{
+  "id": "memory-playbook",
+  "name": "memory-playbook",
+  "version": "1.0.0",
+  "summary": "Cross-session persistence for user preferences, implementation guide for Memory feature.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sigridjineth",
+    "github": "sigridjineth"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sigridjineth/interview-copilot-with-skills",
+    "skill_md": "https://raw.githubusercontent.com/sigridjineth/interview-copilot-with-skills/main/skills/cdp_memory/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-15T13:10:26.000Z",
+  "created_at": "2025-12-22T14:59:20.377Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sigridjineth%2Finterview-copilot-with-skills/skills%2Fcdp_memory%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.877Z",
+    "uniqueId": "sk_e967f016da71"
+  }
+}

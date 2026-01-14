@@ -1,0 +1,37 @@
+{
+  "id": "professional-commit-workflow",
+  "name": "professional-commit-workflow",
+  "version": "1.0.0",
+  "summary": "Erstellt professionelle Git-Commits mit automatischen Pre-Commit-Checks für Java, Python, React und Dokumentation. Generiert Emoji Conventional Commit-Nachrichten und analysiert...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "talent-factory",
+    "github": "talent-factory"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/talent-factory/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/talent-factory/dotfiles/main/agents/claude/skills/professional-commit-workflow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-21T09:15:47.000Z",
+  "created_at": "2025-12-23T01:29:04.046Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/talent-factory%2Fdotfiles/agents%2Fclaude%2Fskills%2Fprofessional-commit-workflow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.527Z",
+    "uniqueId": "sk_cc645d15d4d5"
+  }
+}

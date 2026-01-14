@@ -1,0 +1,36 @@
+{
+  "id": "insightpulse-connection-manager",
+  "name": "insightpulse-connection-manager",
+  "version": "1.0.0",
+  "summary": "Supabase-style connection UI for managing InsightPulse AI infrastructure (Supabase, Odoo, Superset, MCP servers, PostgreSQL, APIs). Self-hosted connection manager module for Odo...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jgtolentino",
+    "github": "jgtolentino"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jgtolentino/insightpulse-odoo",
+    "skill_md": "https://raw.githubusercontent.com/jgtolentino/insightpulse-odoo/main/docs/claude-code-skills/community/insightpulse_connection_manager/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.628Z",
+  "created_at": "2025-12-22T23:15:00.028Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jgtolentino%2Finsightpulse-odoo/docs%2Fclaude-code-skills%2Fcommunity%2Finsightpulse_connection_manager%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.628Z",
+    "uniqueId": "sk_bd8c375b9f8a"
+  }
+}

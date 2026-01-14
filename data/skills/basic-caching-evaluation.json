@@ -1,0 +1,35 @@
+{
+  "id": "basic-caching-evaluation",
+  "name": "basic-caching-evaluation",
+  "version": "1.0.0",
+  "summary": "Evaluation of BaSiC illumination correction caching - NOT RECOMMENDED for sparse markers. Trigger: optimizing BaSiC, caching illumination correction",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "smith6jt-cop",
+    "github": "smith6jt-cop"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/smith6jt-cop/Skills_Registry",
+    "skill_md": "https://raw.githubusercontent.com/smith6jt-cop/Skills_Registry/main/plugins/kintsugi/basic-caching-evaluation/skills/basic-caching-evaluation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.818Z",
+  "created_at": "2025-12-22T17:09:52.303Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/smith6jt-cop%2FSkills_Registry/plugins%2Fkintsugi%2Fbasic-caching-evaluation%2Fskills%2Fbasic-caching-evaluation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.818Z",
+    "uniqueId": "sk_bcf1a1d459a2"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "cortex-operations",
+  "name": "cortex-operations",
+  "version": "1.0.0",
+  "summary": "Operate the Agent Hive Cortex orchestration engine. Use this skill when running Cortex commands, analyzing project dependencies, finding ready work, understanding the orchestrat...",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "intertwine",
+    "github": "intertwine"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/intertwine/hive-orchestrator",
+    "skill_md": "https://raw.githubusercontent.com/intertwine/hive-orchestrator/main/.claude/skills/cortex-operations/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:55:01.531Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/intertwine%2Fhive-orchestrator/.claude%2Fskills%2Fcortex-operations%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_73185e025541"
+  }
+}

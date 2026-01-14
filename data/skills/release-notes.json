@@ -1,0 +1,35 @@
+{
+  "id": "release-notes",
+  "name": "release-notes",
+  "version": "1.0.0",
+  "summary": "Generate clear, skimmable GitHub release notes with **⚠️ Breaking Changes prominently displayed FIRST** (if any exist), followed by Highlights and detailed categorized sections....",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "NASA-PDS",
+    "github": "NASA-PDS"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/NASA-PDS/pds-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/NASA-PDS/pds-claude-skills/main/release-notes/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:56:58.798Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/NASA-PDS%2Fpds-claude-skills/release-notes%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_4dc93293a49b"
+  }
+}

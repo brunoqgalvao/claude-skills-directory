@@ -1,0 +1,35 @@
+{
+  "id": "safe-file-removal",
+  "name": "safe-file-removal",
+  "version": "1.0.0",
+  "summary": "Use safe-rm command to safely 'remove' files by renaming them to .obsolete instead of permanent deletion. Reversible, collision-safe, hook-compliant.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "phamhung075",
+    "github": "phamhung075"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/phamhung075/4genthub-hooks",
+    "skill_md": "https://raw.githubusercontent.com/phamhung075/4genthub-hooks/main/skills/safe-file-removal/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-09T12:31:11.000Z",
+  "created_at": "2025-12-23T01:28:49.689Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/phamhung075%2F4genthub-hooks/skills%2Fsafe-file-removal%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.550Z",
+    "uniqueId": "sk_07f935e58d93"
+  }
+}

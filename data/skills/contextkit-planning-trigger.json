@@ -1,0 +1,35 @@
+{
+  "id": "contextkit-planning-trigger",
+  "name": "contextkit-planning-trigger",
+  "version": "1.0.0",
+  "summary": "Natural language wrapper for ContextKit planning commands - automatically triggers /ctxk:plan commands when users request planning assistance",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "grandinh",
+    "github": "grandinh"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/grandinh/claude-chaos-express",
+    "skill_md": "https://raw.githubusercontent.com/grandinh/claude-chaos-express/main/.claude/skills/contextkit-planning-trigger/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-17T00:03:37.000Z",
+  "created_at": "2025-12-23T01:28:34.575Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/grandinh%2Fclaude-chaos-express/.claude%2Fskills%2Fcontextkit-planning-trigger%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.568Z",
+    "uniqueId": "sk_008f27f6e04d"
+  }
+}

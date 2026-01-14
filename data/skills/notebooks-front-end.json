@@ -1,0 +1,35 @@
+{
+  "id": "notebooks-front-end",
+  "name": "notebooks-front-end",
+  "version": "1.0.0",
+  "summary": "Use when editing Observable notebooks (docs/index.html), creating charts with Plot, adding SQL cells, loading data with FileAttachment, or working with DuckDB. Triggers on noteb...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "data-desk-eco",
+    "github": "data-desk-eco"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/data-desk-eco/uscg-incidents",
+    "skill_md": "https://raw.githubusercontent.com/data-desk-eco/uscg-incidents/main/.claude/skills/notebooks-front-end/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.803Z",
+  "created_at": "2025-12-22T18:03:25.410Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/data-desk-eco%2Fuscg-incidents/.claude%2Fskills%2Fnotebooks-front-end%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.803Z",
+    "uniqueId": "sk_49f88efa71a0"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "workflow-interactive-dev",
+  "name": "workflow-interactive-dev",
+  "version": "1.0.0",
+  "summary": "用于开发 FastGPT 工作流中的交互响应。详细说明了交互节点的架构、开发流程和需要修改的文件。",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Microck",
+    "github": "Microck"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Microck/ordinary-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/Microck/ordinary-claude-skills/main/skills_categorized/llm-ai/workflow-interactive-dev/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-02T20:36:35.000Z",
+  "created_at": "2025-12-23T01:29:40.200Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Microck%2Fordinary-claude-skills/skills_categorized%2Fllm-ai%2Fworkflow-interactive-dev%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.450Z",
+    "uniqueId": "sk_d5a89ba9d765"
+  }
+}

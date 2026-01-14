@@ -1,0 +1,36 @@
+{
+  "id": "mvp-help",
+  "name": "mvp-help",
+  "version": "1.0.0",
+  "summary": "Help and documentation for Idea to MVP plugin.\nUse when: user asks about building MVPs, vibe coding, or available commands.\nTriggers: \"help\", \"what can you do\", \"mvp help\", \"how...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/vibe-coder/help/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.854Z",
+  "created_at": "2025-12-22T15:53:17.926Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/vibe-coder%2Fhelp%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.854Z",
+    "uniqueId": "sk_6819813dbafa"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wezterm-config",
+  "name": "wezterm-config",
+  "version": "1.0.0",
+  "summary": "Complete WezTerm terminal emulator configuration assistant. Use for any WezTerm configuration task including appearance, fonts, colors, keybindings, mouse bindings, tabs, panes,...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alexfazio",
+    "github": "alexfazio"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alexfazio/cc-skills",
+    "skill_md": "https://raw.githubusercontent.com/alexfazio/cc-skills/main/skills/wezterm-config/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.755Z",
+  "created_at": "2025-12-22T20:16:45.672Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alexfazio%2Fcc-skills/skills%2Fwezterm-config%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.755Z",
+    "uniqueId": "sk_6a6961541267"
+  }
+}

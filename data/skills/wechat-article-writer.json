@@ -1,0 +1,35 @@
+{
+  "id": "wechat-article-writer",
+  "name": "wechat-article-writer",
+  "version": "1.0.0",
+  "summary": "专业的微信公众号文章创作助手。当用户提供网站链接、文本素材或图像，需要创作微信公众号文章时使用。支持通过搜索工具丰富内容、优化标题、调整语气为官方文案风格，帮助创作高质量的公众号推文。适用于企业宣传、品牌推广、资讯报道等官方内容创作场景。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "staruhub",
+    "github": "staruhub"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/staruhub/ClaudeSkills",
+    "skill_md": "https://raw.githubusercontent.com/staruhub/ClaudeSkills/main/skills/wechat-article-writer/wechat-article-writer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-31T09:46:29.000Z",
+  "created_at": "2025-12-23T01:29:26.714Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/staruhub%2FClaudeSkills/skills%2Fwechat-article-writer%2Fwechat-article-writer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.451Z",
+    "uniqueId": "sk_251b0a0e27d7"
+  }
+}

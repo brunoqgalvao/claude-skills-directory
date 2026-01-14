@@ -1,0 +1,35 @@
+{
+  "id": "text-cleanup",
+  "name": "text-cleanup",
+  "version": "1.0.0",
+  "summary": "Comprehensive patterns and techniques for removing AI-generated verbosity and slop",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "v1truv1us",
+    "github": "v1truv1us"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/v1truv1us/ai-eng-system",
+    "skill_md": "https://raw.githubusercontent.com/v1truv1us/ai-eng-system/main/skills/text-cleanup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.496Z",
+  "created_at": "2025-12-23T01:29:27.341Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/v1truv1us%2Fai-eng-system/skills%2Ftext-cleanup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.496Z",
+    "uniqueId": "sk_8e283caf6d67"
+  }
+}

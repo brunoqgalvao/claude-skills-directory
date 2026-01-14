@@ -1,0 +1,35 @@
+{
+  "id": "checking-code-formatting",
+  "name": "checking-code-formatting",
+  "version": "1.0.0",
+  "summary": "Check code formatting, detect style issues, and identify inconsistencies. Use when the user asks to check formatting, code style, linting, format issues, or code formatting prob...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "meirm",
+    "github": "meirm"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/meirm/askGPT",
+    "skill_md": "https://raw.githubusercontent.com/meirm/askGPT/main/src/askGPT/data/builtin_skills/code-formatting-checker/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-01T07:48:25.000Z",
+  "created_at": "2025-12-23T01:29:05.361Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/meirm%2FaskGPT/src%2FaskGPT%2Fdata%2Fbuiltin_skills%2Fcode-formatting-checker%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.526Z",
+    "uniqueId": "sk_ee966b2efa0e"
+  }
+}

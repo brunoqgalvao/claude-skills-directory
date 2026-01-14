@@ -1,0 +1,35 @@
+{
+  "id": "helm-scaffold",
+  "name": "helm-scaffold",
+  "version": "1.0.0",
+  "summary": "Generate production-ready Helm charts for Kubernetes applications. Use when users need to create new Helm charts, convert Kubernetes manifests to Helm templates, scaffold charts...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "vukhanhtruong",
+    "github": "vukhanhtruong"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/vukhanhtruong/claude-rock",
+    "skill_md": "https://raw.githubusercontent.com/vukhanhtruong/claude-rock/main/plugins/devops/skills/helm-scaffold/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-10-23T10:51:26.000Z",
+  "created_at": "2025-12-23T01:29:34.748Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/vukhanhtruong%2Fclaude-rock/plugins%2Fdevops%2Fskills%2Fhelm-scaffold%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.490Z",
+    "uniqueId": "sk_4b0f2b4842f5"
+  }
+}

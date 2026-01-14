@@ -1,0 +1,35 @@
+{
+  "id": "add-awesome-tool",
+  "name": "add-awesome-tool",
+  "version": "1.0.0",
+  "summary": "This skill should be used when analyzing a link to an AI tool and adding it to the awesome-ai-tools readme with proper categorization",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "johnhenry",
+    "github": "johnhenry"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/johnhenry/awesome-ai-tools",
+    "skill_md": "https://raw.githubusercontent.com/johnhenry/awesome-ai-tools/main/.claude/skills/add-awesome-tool/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.807Z",
+  "created_at": "2025-12-22T17:59:29.120Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/johnhenry%2Fawesome-ai-tools/.claude%2Fskills%2Fadd-awesome-tool%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.807Z",
+    "uniqueId": "sk_b810452875ab"
+  }
+}

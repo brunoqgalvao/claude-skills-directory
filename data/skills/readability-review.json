@@ -1,0 +1,37 @@
+{
+  "id": "readability-review",
+  "name": "readability-review",
+  "version": "1.0.0",
+  "summary": "Code readability review based on \"The Art of Readable Code\" and Miller's Law (7±2 cognitive limits). Use when reviewing readability (可読性), understandability (理解しやすい/わかりやすい), cla...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "thkt",
+    "github": "thkt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/thkt/claude-config",
+    "skill_md": "https://raw.githubusercontent.com/thkt/claude-config/main/skills/readability-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T18:05:48.000Z",
+  "created_at": "2025-12-19T17:55:45.101Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/thkt%2Fclaude-config/skills%2Freadability-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_2f7e47222d37"
+  }
+}

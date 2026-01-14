@@ -1,0 +1,35 @@
+{
+  "id": "message-bus",
+  "name": "message-bus",
+  "version": "1.0.0",
+  "summary": "Use when implementing cross-service communication via RabbitMQ message bus, entity event producers, or message consumers.",
+  "verticals": [
+    "support"
+  ],
+  "tags": [],
+  "author": {
+    "name": "duc01226",
+    "github": "duc01226"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/duc01226/EasyPlatform",
+    "skill_md": "https://raw.githubusercontent.com/duc01226/EasyPlatform/main/.github/skills/backend-message-bus/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.709Z",
+  "created_at": "2025-12-22T21:17:25.912Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/duc01226%2FEasyPlatform/.github%2Fskills%2Fbackend-message-bus%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.709Z",
+    "uniqueId": "sk_36aef1371ac6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "gpu-graphics-research",
+  "name": "gpu-graphics-research",
+  "version": "1.0.0",
+  "summary": "Research and explain GPU-driven rendering techniques, find academic papers on graphics algorithms (APV, Spherical Harmonics, BVH), explain complex rendering concepts, and bridge...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "fazil47",
+    "github": "fazil47"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/fazil47/wgpu-renderer",
+    "skill_md": "https://raw.githubusercontent.com/fazil47/wgpu-renderer/main/.claude/skills/gpu-graphics-research/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.797Z",
+  "created_at": "2025-12-22T18:15:12.010Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/fazil47%2Fwgpu-renderer/.claude%2Fskills%2Fgpu-graphics-research%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.797Z",
+    "uniqueId": "sk_1163b31706e8"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "conditional-docs-setup",
+  "name": "conditional-docs-setup",
+  "version": "1.0.0",
+  "summary": "Set up conditional documentation loading to prevent context pollution. Use when organizing project docs, implementing progressive disclosure, or reducing CLAUDE.md token consump...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "melodic-software",
+    "github": "melodic-software"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/melodic-software/claude-code-plugins",
+    "skill_md": "https://raw.githubusercontent.com/melodic-software/claude-code-plugins/main/plugins/tac/skills/conditional-docs-setup/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T01:23:53.000Z",
+  "created_at": "2025-12-22T17:54:17.599Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/melodic-software%2Fclaude-code-plugins/plugins%2Ftac%2Fskills%2Fconditional-docs-setup%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.811Z",
+    "uniqueId": "sk_24c89da7fc6e"
+  }
+}

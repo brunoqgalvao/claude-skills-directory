@@ -1,0 +1,37 @@
+{
+  "id": "testing-quality-standards",
+  "name": "testing-quality-standards",
+  "version": "1.0.0",
+  "summary": "Shared testing quality metrics and standards for cross-plugin use. Referenced\nby pensive:test-review and parseltongue:python-testing.\n\nTriggers: testing standards, quality metri...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "athola",
+    "github": "athola"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/athola/claude-night-market",
+    "skill_md": "https://raw.githubusercontent.com/athola/claude-night-market/main/plugins/leyline/skills/testing-quality-standards/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.564Z",
+  "created_at": "2025-12-23T01:28:38.016Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/athola%2Fclaude-night-market/plugins%2Fleyline%2Fskills%2Ftesting-quality-standards%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.564Z",
+    "uniqueId": "sk_515280515b29"
+  }
+}

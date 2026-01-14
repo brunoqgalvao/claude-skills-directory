@@ -1,0 +1,35 @@
+{
+  "id": "recover-context",
+  "name": "recover-context",
+  "version": "1.0.0",
+  "summary": "Extract full context of the last task from the most recent parent session shown in the session lineage. Strategically uses sub-agents to avoid bloating your own context.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pchalasani",
+    "github": "pchalasani"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pchalasani/claude-code-tools",
+    "skill_md": "https://raw.githubusercontent.com/pchalasani/claude-code-tools/main/plugins/aichat/skills/recover-context/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T17:32:09.000Z",
+  "created_at": "2025-12-22T15:08:45.531Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pchalasani%2Fclaude-code-tools/plugins%2Faichat%2Fskills%2Frecover-context%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.860Z",
+    "uniqueId": "sk_bd763a29bee1"
+  }
+}

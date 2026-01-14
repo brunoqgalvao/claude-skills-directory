@@ -1,0 +1,35 @@
+{
+  "id": "nav-stats",
+  "name": "nav-stats",
+  "version": "1.0.0",
+  "summary": "Display session efficiency report showing token savings, cache performance, and optimization recommendations. Use when user asks \"show my stats\", \"how efficient am I?\", \"show se...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "alekspetrov",
+    "github": "alekspetrov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/alekspetrov/navigator",
+    "skill_md": "https://raw.githubusercontent.com/alekspetrov/navigator/main/skills/nav-stats/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-27T15:29:35.000Z",
+  "created_at": "2025-12-22T20:04:30.618Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/alekspetrov%2Fnavigator/skills%2Fnav-stats%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_7729f0c1290e"
+  }
+}

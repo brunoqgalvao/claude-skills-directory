@@ -1,0 +1,35 @@
+{
+  "id": "aerospace",
+  "name": "aerospace",
+  "version": "1.0.0",
+  "summary": "Help with AeroSpace window manager configuration, keybindings, and workspace management. Use when the user asks about AeroSpace, window management, workspaces, or tiling configu...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "trentshaines",
+    "github": "trentshaines"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/trentshaines/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/trentshaines/dotfiles/main/dot_claude/skills/aerospace/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.878Z",
+  "created_at": "2025-12-22T14:57:43.424Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/trentshaines%2Fdotfiles/dot_claude%2Fskills%2Faerospace%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.878Z",
+    "uniqueId": "sk_d302c471e86b"
+  }
+}

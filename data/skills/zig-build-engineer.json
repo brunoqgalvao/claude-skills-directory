@@ -1,0 +1,36 @@
+{
+  "id": "zig-build-engineer",
+  "name": "zig-build-engineer",
+  "version": "1.0.0",
+  "summary": "Expert guidance for Zig build system engineering. Use when working with build.zig files, including creating new build configurations, adding executables/libraries/tests, managin...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dennypenta",
+    "github": "dennypenta"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dennypenta/home",
+    "skill_md": "https://raw.githubusercontent.com/dennypenta/home/main/.claude/skills/zig-build-engineer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.798Z",
+  "created_at": "2025-12-22T18:14:25.347Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dennypenta%2Fhome/.claude%2Fskills%2Fzig-build-engineer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.798Z",
+    "uniqueId": "sk_b5dcb05f9370"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tdd-cycle",
+  "name": "tdd-cycle",
+  "version": "1.0.0",
+  "summary": "Use when implementing any feature or bugfix, before writing implementation code. Execute strict Red-Green-Refactor TDD cycle following industry testing standards. Write the test...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Fortiz2305",
+    "github": "Fortiz2305"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Fortiz2305/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/Fortiz2305/dotfiles/main/claude/.claude/skills/tdd-cycle/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.844Z",
+  "created_at": "2025-12-22T16:05:10.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Fortiz2305%2Fdotfiles/claude%2F.claude%2Fskills%2Ftdd-cycle%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.844Z",
+    "uniqueId": "sk_2219428af890"
+  }
+}

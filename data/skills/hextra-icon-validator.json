@@ -1,0 +1,35 @@
+{
+  "id": "hextra-icon-validator",
+  "name": "hextra-icon-validator",
+  "version": "1.0.0",
+  "summary": "Use this skill when working with Hextra icons to validate icon names against the available icon list. This skill should be invoked whenever you're about to use icon names in Hug...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "toiee-lab",
+    "github": "toiee-lab"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/toiee-lab/hextra-tailwind-starter",
+    "skill_md": "https://raw.githubusercontent.com/toiee-lab/hextra-tailwind-starter/main/.claude/skills/hextra-icon-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.820Z",
+  "created_at": "2025-12-22T17:07:55.408Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/toiee-lab%2Fhextra-tailwind-starter/.claude%2Fskills%2Fhextra-icon-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.820Z",
+    "uniqueId": "sk_8509aa77fc9d"
+  }
+}

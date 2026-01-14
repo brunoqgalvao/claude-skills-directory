@@ -1,0 +1,35 @@
+{
+  "id": "starwards-ci-debugging",
+  "name": "starwards-ci-debugging",
+  "version": "1.0.0",
+  "summary": "Debug Starwards GitHub Actions CI failures - analyze logs for ESLint/TypeScript/E2E/Docker errors, identify root causes, and apply fixes locally before pushing",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "starwards",
+    "github": "starwards"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/starwards/starwards",
+    "skill_md": "https://raw.githubusercontent.com/starwards/starwards/main/.claude/skills/starwards-ci-debugging/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.696Z",
+  "created_at": "2025-12-22T22:03:08.696Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/starwards%2Fstarwards/.claude%2Fskills%2Fstarwards-ci-debugging%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.696Z",
+    "uniqueId": "sk_e8f68d497ce7"
+  }
+}

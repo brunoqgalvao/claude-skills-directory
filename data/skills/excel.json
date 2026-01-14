@@ -1,0 +1,35 @@
+{
+  "id": "excel",
+  "name": "excel",
+  "version": "1.0.0",
+  "summary": "Create, read, edit, and analyze Microsoft Excel spreadsheets (.xlsx files). Use for spreadsheet data, calculations, formulas, charts, and tabular data analysis.",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Fergana-Labs",
+    "github": "Fergana-Labs"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Fergana-Labs/claude_agent_desktop",
+    "skill_md": "https://raw.githubusercontent.com/Fergana-Labs/claude_agent_desktop/main/.claude/skills/excel/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:05:50.480Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Fergana-Labs%2Fclaude_agent_desktop/.claude%2Fskills%2Fexcel%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_f81b6a79e434"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rule-making-skill",
+  "name": "rule-making-skill",
+  "version": "1.0.0",
+  "summary": "Analyze a specific directory (e.g. frontend/, backend/, e2e/) and generate .claude/rules/ markdown files for it. Use when asked to create rules, analyze a folder for Claude Code...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "andersnygaard",
+    "github": "andersnygaard"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/andersnygaard/ettsted2",
+    "skill_md": "https://raw.githubusercontent.com/andersnygaard/ettsted2/main/.claude/skills/rule-making-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-12T09:45:34.000Z",
+  "created_at": "2025-12-23T01:29:23.887Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/andersnygaard%2Fettsted2/.claude%2Fskills%2Frule-making-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.503Z",
+    "uniqueId": "sk_807cda48004f"
+  }
+}

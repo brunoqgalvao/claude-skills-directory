@@ -1,0 +1,35 @@
+{
+  "id": "rocketindex",
+  "name": "rocketindex",
+  "version": "1.0.0",
+  "summary": "Code navigation and indexing (F#, Ruby)",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rocket-tycoon",
+    "github": "rocket-tycoon"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rocket-tycoon/rocket-index",
+    "skill_md": "https://raw.githubusercontent.com/rocket-tycoon/rocket-index/main/integrations/claude-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.884Z",
+  "created_at": "2025-12-22T14:26:11.171Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rocket-tycoon%2Frocket-index/integrations%2Fclaude-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.884Z",
+    "uniqueId": "sk_4af0b217596c"
+  }
+}

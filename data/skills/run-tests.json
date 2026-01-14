@@ -1,0 +1,35 @@
+{
+  "id": "run-tests",
+  "name": "run-tests",
+  "version": "1.0.0",
+  "summary": "Project-specific test execution commands. Customize for your project.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Clouder0",
+    "github": "Clouder0"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Clouder0/dotagent",
+    "skill_md": "https://raw.githubusercontent.com/Clouder0/dotagent/main/.claude/skills/project/run-tests/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-01T21:31:34.000Z",
+  "created_at": "2025-12-22T14:53:32.666Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Clouder0%2Fdotagent/.claude%2Fskills%2Fproject%2Frun-tests%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.882Z",
+    "uniqueId": "sk_2e6bf01711ea"
+  }
+}

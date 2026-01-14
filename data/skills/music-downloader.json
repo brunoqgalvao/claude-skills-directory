@@ -1,0 +1,36 @@
+{
+  "id": "music-downloader",
+  "name": "music-downloader",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to download audio or music from online platforms like YouTube, SoundCloud, Spotify, or other streaming services. It provides yt-dlp and...",
+  "verticals": [
+    "support",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Nymbo",
+    "github": "Nymbo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Nymbo/Skills",
+    "skill_md": "https://raw.githubusercontent.com/Nymbo/Skills/main/music-downloader/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.493Z",
+  "created_at": "2025-12-23T01:29:30.817Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Nymbo%2FSkills/music-downloader%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.493Z",
+    "uniqueId": "sk_c0bdacd9b99c"
+  }
+}

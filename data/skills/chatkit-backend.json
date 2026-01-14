@@ -1,0 +1,36 @@
+{
+  "id": "chatkit-backend",
+  "name": "chatkit-backend",
+  "version": "1.0.0",
+  "summary": "Build FastAPI backend for OpenAI ChatKit with SSE streaming, conversation persistence, and AI agent integration. Handles /chatkit endpoint, ChatKit-compatible SSE format, conver...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "maneeshanif",
+    "github": "maneeshanif"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/maneeshanif/todo-spec-driven",
+    "skill_md": "https://raw.githubusercontent.com/maneeshanif/todo-spec-driven/main/.claude/skills/chatkit-backend/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.624Z",
+  "created_at": "2025-12-22T23:17:14.197Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/maneeshanif%2Ftodo-spec-driven/.claude%2Fskills%2Fchatkit-backend%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.624Z",
+    "uniqueId": "sk_cd3ae850e7b8"
+  }
+}

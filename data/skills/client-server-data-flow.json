@@ -1,0 +1,37 @@
+{
+  "id": "client-server-data-flow",
+  "name": "client-server-data-flow",
+  "version": "1.0.0",
+  "summary": "Implement type-safe client-server data flows in Next.js applications using Supabase, TanStack Query, React Hook Form, and Zod validation. Use when building CRUD features, handli...",
+  "verticals": [
+    "engineering",
+    "data",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Reodor-Studios",
+    "github": "Reodor-Studios"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Reodor-Studios/create-reodor-app",
+    "skill_md": "https://raw.githubusercontent.com/Reodor-Studios/create-reodor-app/main/.claude/skills/client-server-data-flow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.688Z",
+  "created_at": "2025-12-22T22:07:23.980Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Reodor-Studios%2Fcreate-reodor-app/.claude%2Fskills%2Fclient-server-data-flow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.688Z",
+    "uniqueId": "sk_324ae4e6714e"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nextjs-client-cookie-pattern",
+  "name": "nextjs-client-cookie-pattern",
+  "version": "1.0.0",
+  "summary": "Pattern for client components calling server actions to set cookies in Next.js. Covers the two-file pattern of a client component with user interaction (onClick, form submission...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "mcclowes",
+    "github": "mcclowes"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/mcclowes/vague-playground",
+    "skill_md": "https://raw.githubusercontent.com/mcclowes/vague-playground/main/.claude/skills/nextjs-client-cookie-pattern/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:48.442Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/mcclowes%2Fvague-playground/.claude%2Fskills%2Fnextjs-client-cookie-pattern%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_e40053167b56"
+  }
+}

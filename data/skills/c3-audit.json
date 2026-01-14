@@ -1,0 +1,36 @@
+{
+  "id": "c3-audit",
+  "name": "c3-audit",
+  "version": "1.0.0",
+  "summary": "Use when verifying C3 documentation quality - checks methodology compliance (layer rules, structure, diagrams) and implementation conformance (docs vs code drift)",
+  "verticals": [
+    "engineering",
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lagz0ne",
+    "github": "lagz0ne"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lagz0ne/c3-skill",
+    "skill_md": "https://raw.githubusercontent.com/lagz0ne/c3-skill/main/skills/c3-audit/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.812Z",
+  "created_at": "2025-12-22T17:53:41.472Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lagz0ne%2Fc3-skill/skills%2Fc3-audit%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.812Z",
+    "uniqueId": "sk_9bfc295cbfd9"
+  }
+}

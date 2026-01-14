@@ -1,0 +1,35 @@
+{
+  "id": "ai-chapter-consolidate",
+  "name": "ai-chapter-consolidate",
+  "version": "1.0.0",
+  "summary": "Use AI to merge individual page HTML files into a unified chapter document. Creates continuous document format for improved reading experience and semantic consistency.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AbeJitsu",
+    "github": "AbeJitsu"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AbeJitsu/Game-Settings-Panel",
+    "skill_md": "https://raw.githubusercontent.com/AbeJitsu/Game-Settings-Panel/main/.claude/skills/calypso/ai-chapter-consolidate/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.738Z",
+  "created_at": "2025-12-22T21:15:35.040Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AbeJitsu%2FGame-Settings-Panel/.claude%2Fskills%2Fcalypso%2Fai-chapter-consolidate%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.738Z",
+    "uniqueId": "sk_e2c38ed5d6c9"
+  }
+}

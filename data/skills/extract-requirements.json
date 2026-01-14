@@ -1,0 +1,37 @@
+{
+  "id": "extract-requirements",
+  "name": "extract-requirements",
+  "version": "1.0.0",
+  "summary": "Use this when user needs to document business requirements from undocumented legacy code. Provides systematic 6-phase extraction: automated analysis, validation rules, use cases...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "PearlThoughts",
+    "github": "PearlThoughts"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/PearlThoughts/CodeCompass",
+    "skill_md": "https://raw.githubusercontent.com/PearlThoughts/CodeCompass/main/.claude/skills/extract-requirements/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.759Z",
+  "created_at": "2025-12-22T20:12:12.135Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/PearlThoughts%2FCodeCompass/.claude%2Fskills%2Fextract-requirements%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.759Z",
+    "uniqueId": "sk_4d185d7bace9"
+  }
+}

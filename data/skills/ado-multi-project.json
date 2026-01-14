@@ -1,0 +1,37 @@
+{
+  "id": "ado-multi-project",
+  "name": "ado-multi-project",
+  "version": "1.0.0",
+  "summary": "Expert at organizing specs and splitting tasks across multiple Azure DevOps projects. Handles project-per-team, area-path-based, and team-based architectures. Intelligently maps...",
+  "verticals": [
+    "engineering",
+    "marketing",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "anton-abyzov",
+    "github": "anton-abyzov"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/anton-abyzov/specweave",
+    "skill_md": "https://raw.githubusercontent.com/anton-abyzov/specweave/main/plugins/specweave-ado/skills/ado-multi-project/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.705Z",
+  "created_at": "2025-12-22T21:20:02.138Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/anton-abyzov%2Fspecweave/plugins%2Fspecweave-ado%2Fskills%2Fado-multi-project%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.705Z",
+    "uniqueId": "sk_f2aaf775c238"
+  }
+}

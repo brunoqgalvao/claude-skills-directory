@@ -1,0 +1,35 @@
+{
+  "id": "example",
+  "name": "example",
+  "version": "1.0.0",
+  "summary": "Use this skill when required to run the example script.",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stbenjam",
+    "github": "stbenjam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stbenjam/claude-code-bug-reproducers",
+    "skill_md": "https://raw.githubusercontent.com/stbenjam/claude-code-bug-reproducers/main/plugins/command-skill-name-conflation/skills/example/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T01:28:03.809Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stbenjam%2Fclaude-code-bug-reproducers/plugins%2Fcommand-skill-name-conflation%2Fskills%2Fexample%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_d9987f7e5dba"
+  }
+}

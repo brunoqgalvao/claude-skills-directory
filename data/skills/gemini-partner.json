@@ -1,0 +1,36 @@
+{
+  "id": "gemini-partner",
+  "name": "gemini-partner",
+  "version": "1.0.0",
+  "summary": "Invoke Gemini CLI as a partner AI developer for tasks benefiting from its 1M token context window or a second opinion. Use when analyzing large codebases, generating documentati...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cdrury526",
+    "github": "cdrury526"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cdrury526/Mangetagent-Agents",
+    "skill_md": "https://raw.githubusercontent.com/cdrury526/Mangetagent-Agents/main/.claude/skills/gemini-partner/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.810Z",
+  "created_at": "2025-12-22T17:54:49.025Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cdrury526%2FMangetagent-Agents/.claude%2Fskills%2Fgemini-partner%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.810Z",
+    "uniqueId": "sk_48f432930c09"
+  }
+}

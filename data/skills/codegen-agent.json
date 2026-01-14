@@ -1,0 +1,35 @@
+{
+  "id": "codegen-agent",
+  "name": "codegen-agent",
+  "version": "1.0.0",
+  "summary": "CodeGenAgent スキル - Claude Sonnet 4によるAI駆動コード生成。\nGitHub Issueの内容を解析し、TypeScriptコード・ユニットテスト・型定義を自動生成。\n\nUse when:\n- 新しいコードを生成する時\n- Issue内容からコード実装が必要な時\n- TypeScript/Vitestテストの自動生成が必...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "ShunsukeHayashi",
+    "github": "ShunsukeHayashi"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/ShunsukeHayashi/omakase-ai",
+    "skill_md": "https://raw.githubusercontent.com/ShunsukeHayashi/omakase-ai/main/.claude/skills/codegen-agent/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-05T09:46:13.000Z",
+  "created_at": "2025-12-23T01:28:46.139Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/ShunsukeHayashi%2Fomakase-ai/.claude%2Fskills%2Fcodegen-agent%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.555Z",
+    "uniqueId": "sk_0737ed67c726"
+  }
+}

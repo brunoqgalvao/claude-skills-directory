@@ -1,0 +1,35 @@
+{
+  "id": "git-commit-push",
+  "name": "git-commit-push",
+  "version": "1.0.0",
+  "summary": "git add, commit, pushの定型操作を実行。レビュー対応や軽微な修正後のコミット・プッシュに使用。メインエージェントのコンテキスト節約のため、定型的なgit操作をこのSkillに委譲する。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "a-tak",
+    "github": "a-tak"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/a-tak/bf-copy",
+    "skill_md": "https://raw.githubusercontent.com/a-tak/bf-copy/main/.claude/skills/git-commit-push/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.847Z",
+  "created_at": "2025-12-22T16:00:29.467Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/a-tak%2Fbf-copy/.claude%2Fskills%2Fgit-commit-push%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.847Z",
+    "uniqueId": "sk_7ba439de6ffc"
+  }
+}

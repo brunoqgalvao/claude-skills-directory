@@ -1,0 +1,37 @@
+{
+  "id": "a11y",
+  "name": "a11y",
+  "version": "1.0.0",
+  "summary": "Production-grade accessibility skill for WCAG 2.2 AA compliance.\nCovers auditing, remediation, component authoring, and validation workflows.\nAuto-invoked for UI implementation,...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Higashi-Kota",
+    "github": "Higashi-Kota"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Higashi-Kota/drawing-explorer",
+    "skill_md": "https://raw.githubusercontent.com/Higashi-Kota/drawing-explorer/main/.claude/skills/a11y/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-14T22:50:25.000Z",
+  "created_at": "2025-12-22T20:04:38.712Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Higashi-Kota%2Fdrawing-explorer/.claude%2Fskills%2Fa11y%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_ed0f77b71854"
+  }
+}

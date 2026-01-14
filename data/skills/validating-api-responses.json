@@ -1,0 +1,37 @@
+{
+  "id": "validating-api-responses",
+  "name": "validating-api-responses",
+  "version": "1.0.0",
+  "summary": "Validate API responses against schemas to ensure contract compliance and data integrity.\nUse when ensuring API response correctness.\nTrigger with phrases like \"validate response...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "jeremylongshore",
+    "github": "jeremylongshore"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/jeremylongshore/claude-code-plugins-plus",
+    "skill_md": "https://raw.githubusercontent.com/jeremylongshore/claude-code-plugins-plus/main/plugins/api-development/api-response-validator/skills/api-response-validator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T16:40:47.000Z",
+  "created_at": "2025-12-19T17:55:37.276Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/jeremylongshore%2Fclaude-code-plugins-plus/plugins%2Fapi-development%2Fapi-response-validator%2Fskills%2Fapi-response-validator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.889Z",
+    "uniqueId": "sk_4a9dd5b570e0"
+  }
+}

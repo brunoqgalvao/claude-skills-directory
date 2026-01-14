@@ -1,0 +1,37 @@
+{
+  "id": "specification-compliance",
+  "name": "specification-compliance",
+  "version": "1.0.0",
+  "summary": "Validate implementation against specifications (PRD/SDD/PLAN). Use when\nverifying specification compliance, checking interface contracts, validating\narchitecture decisions, dete...",
+  "verticals": [
+    "engineering",
+    "legal",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "rsmdt",
+    "github": "rsmdt"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/rsmdt/the-startup",
+    "skill_md": "https://raw.githubusercontent.com/rsmdt/the-startup/main/plugins/start/skills/specification-compliance/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:12:42.377Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/rsmdt%2Fthe-startup/plugins%2Fstart%2Fskills%2Fspecification-compliance%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_251ce20869a6"
+  }
+}

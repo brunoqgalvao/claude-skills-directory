@@ -1,0 +1,36 @@
+{
+  "id": "package-npm-nix",
+  "name": "package-npm-nix",
+  "version": "1.0.0",
+  "summary": "Package npm/TypeScript/Bun CLI tools for Nix. Use when creating Nix derivations for JavaScript/TypeScript tools from npm registry or GitHub sources, handling pre-built packages ...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "YPares",
+    "github": "YPares"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/YPares/agent-skills",
+    "skill_md": "https://raw.githubusercontent.com/YPares/agent-skills/main/package-npm-nix/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.486Z",
+  "created_at": "2025-12-23T01:29:38.898Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/YPares%2Fagent-skills/package-npm-nix%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.486Z",
+    "uniqueId": "sk_222019e9bda8"
+  }
+}

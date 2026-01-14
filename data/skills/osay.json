@@ -1,0 +1,35 @@
+{
+  "id": "osay",
+  "name": "osay",
+  "version": "1.0.0",
+  "summary": "AI-powered text-to-speech CLI tool. Use for pronunciation queries, reading text aloud, generating audio files, or language practice. Triggers on \"how to pronounce\", \"say this\", ...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tizee",
+    "github": "tizee"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tizee/dotfiles",
+    "skill_md": "https://raw.githubusercontent.com/tizee/dotfiles/main/claude/skills/osay/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-10T14:17:24.000Z",
+  "created_at": "2025-12-23T01:28:59.347Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tizee%2Fdotfiles/claude%2Fskills%2Fosay%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.532Z",
+    "uniqueId": "sk_3696324a0279"
+  }
+}

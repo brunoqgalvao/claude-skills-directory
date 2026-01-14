@@ -1,0 +1,37 @@
+{
+  "id": "source-control-hygiene",
+  "name": "source-control-hygiene",
+  "version": "1.0.0",
+  "summary": "MUST use before any commit operation. Detects VCS type (prefers jujutsu over git), enforces atomic commits, validates messages, runs tests. Required before: 'git commit', 'jj co...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebnow",
+    "github": "sebnow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebnow/configs",
+    "skill_md": "https://raw.githubusercontent.com/sebnow/configs/main/home-manager/agentic/skills/source-control-hygiene/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-24T16:51:56.000Z",
+  "created_at": "2025-12-22T19:57:30.849Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebnow%2Fconfigs/home-manager%2Fagentic%2Fskills%2Fsource-control-hygiene%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.776Z",
+    "uniqueId": "sk_c7ef165e74a9"
+  }
+}

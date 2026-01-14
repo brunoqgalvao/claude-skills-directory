@@ -1,0 +1,35 @@
+{
+  "id": "ultrathink",
+  "name": "ultrathink",
+  "version": "1.0.0",
+  "summary": "Invoke deep sequential thinking for complex problem-solving. Use when the user says 'use ultrathink', 'ultrathink', or when tackling problems that require careful step-by-step r...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "dashed",
+    "github": "dashed"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/dashed/claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/dashed/claude-marketplace/main/plugins/ultrathink/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.835Z",
+  "created_at": "2025-12-22T16:52:06.668Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/dashed%2Fclaude-marketplace/plugins%2Fultrathink%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.835Z",
+    "uniqueId": "sk_f1a25e166081"
+  }
+}

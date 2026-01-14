@@ -1,0 +1,37 @@
+{
+  "id": "deep-research-prompt-builder",
+  "name": "deep-research-prompt-builder",
+  "version": "1.0.0",
+  "summary": "Interactive prompt builder for creating high-quality deep research prompts through adaptive interviewing. Use when users need to transform a basic research topic into a comprehe...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "lejoe",
+    "github": "lejoe"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/lejoe/claude-plugins",
+    "skill_md": "https://raw.githubusercontent.com/lejoe/claude-plugins/main/skills/deep-research-prompt-builder/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.765Z",
+  "created_at": "2025-12-22T20:06:54.032Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/lejoe%2Fclaude-plugins/skills%2Fdeep-research-prompt-builder%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.765Z",
+    "uniqueId": "sk_6b50da91fa3b"
+  }
+}

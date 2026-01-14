@@ -1,0 +1,35 @@
+{
+  "id": "add-resource",
+  "name": "add-resource",
+  "version": "1.0.0",
+  "summary": "Add new learning resources (books, articles, courses, papers) to the appropriate resources.md file. Use when user mentions adding, saving, or tracking learning materials.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "whanyu1212",
+    "github": "whanyu1212"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/whanyu1212/artifact-foundry",
+    "skill_md": "https://raw.githubusercontent.com/whanyu1212/artifact-foundry/main/.claude/skills/add-resource/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.561Z",
+  "created_at": "2025-12-23T01:28:40.061Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/whanyu1212%2Fartifact-foundry/.claude%2Fskills%2Fadd-resource%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.561Z",
+    "uniqueId": "sk_1f3a465908e9"
+  }
+}

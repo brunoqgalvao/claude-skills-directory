@@ -1,0 +1,36 @@
+{
+  "id": "prompt-injection-testing",
+  "name": "prompt-injection-testing",
+  "version": "1.0.0",
+  "summary": "Master prompt injection attacks, jailbreak techniques, input manipulation, and payload crafting. Use when testing LLM prompt vulnerability or designing attack scenarios.",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pluginagentmarketplace",
+    "github": "pluginagentmarketplace"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pluginagentmarketplace/custom-plugin-ai-red-teaming",
+    "skill_md": "https://raw.githubusercontent.com/pluginagentmarketplace/custom-plugin-ai-red-teaming/main/custom-plugin-ai-red-teaming/skills/prompt-injection/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-18T22:23:06.000Z",
+  "created_at": "2025-12-23T01:28:42.755Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pluginagentmarketplace%2Fcustom-plugin-ai-red-teaming/custom-plugin-ai-red-teaming%2Fskills%2Fprompt-injection%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.558Z",
+    "uniqueId": "sk_9a387de7fec0"
+  }
+}

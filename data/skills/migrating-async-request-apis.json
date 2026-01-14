@@ -1,0 +1,36 @@
+{
+  "id": "migrating-async-request-apis",
+  "name": "migrating-async-request-apis",
+  "version": "1.0.0",
+  "summary": "Teach async request APIs in Next.js 16 - params, searchParams, cookies(), headers(), draftMode() are now async. Use when migrating from Next.js 15, fixing type errors, or workin...",
+  "verticals": [
+    "engineering",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/nextjs-16/skills/migrating-async-request-apis/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.754Z",
+  "created_at": "2025-12-22T20:56:57.843Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/nextjs-16%2Fskills%2Fmigrating-async-request-apis%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.754Z",
+    "uniqueId": "sk_a1d0bf422d82"
+  }
+}

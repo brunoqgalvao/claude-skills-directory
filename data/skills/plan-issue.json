@@ -1,0 +1,35 @@
+{
+  "id": "plan-issue",
+  "name": "plan-issue",
+  "version": "1.0.0",
+  "summary": "GitHub issue情報を取得し、対応用のタスクファイル作成をサポートします。スクリプトがissue情報を取得し、Claude Codeがその情報を元にtmp/todoフォルダにタスクファイルを作成します。",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "canpok1",
+    "github": "canpok1"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/canpok1/ai-feed",
+    "skill_md": "https://raw.githubusercontent.com/canpok1/ai-feed/main/.claude/skills/plan-issue/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:58:39.029Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/canpok1%2Fai-feed/.claude%2Fskills%2Fplan-issue%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_9d95eec8d339"
+  }
+}

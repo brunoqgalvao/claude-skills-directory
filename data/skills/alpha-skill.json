@@ -1,0 +1,35 @@
+{
+  "id": "alpha-skill",
+  "name": "alpha-skill",
+  "version": "1.0.0",
+  "summary": "Alpha fixture skill card.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "holaymolay",
+    "github": "holaymolay"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/holaymolay/context-engineering-framework",
+    "skill_md": "https://raw.githubusercontent.com/holaymolay/context-engineering-framework/main/skills/skillcard-index/fixtures/repo/skill-a/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.588Z",
+  "created_at": "2025-12-23T01:28:08.249Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/holaymolay%2Fcontext-engineering-framework/skills%2Fskillcard-index%2Ffixtures%2Frepo%2Fskill-a%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.588Z",
+    "uniqueId": "sk_bc66eb84a484"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pwa-assets-generator",
+  "name": "pwa-assets-generator",
+  "version": "1.0.0",
+  "summary": "Generate all required PWA assets from a single 1024x1024px image. This skill creates app icons, favicons, Apple touch icons, maskable icons, badge icons, and placeholder screens...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "laststance",
+    "github": "laststance"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/laststance/claude-code-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/laststance/claude-code-marketplace/main/pwa-assets-generator/skills/pwa-assets-generator/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.838Z",
+  "created_at": "2025-12-22T16:30:32.344Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/laststance%2Fclaude-code-marketplace/pwa-assets-generator%2Fskills%2Fpwa-assets-generator%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.838Z",
+    "uniqueId": "sk_ce19e9e74e1b"
+  }
+}

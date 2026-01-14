@@ -1,0 +1,35 @@
+{
+  "id": "waiver-agreement-expert",
+  "name": "waiver-agreement-expert",
+  "version": "1.0.0",
+  "summary": "Expert in waiver agreements where a landlord waives conditions in an offer to lease (often adding new conditions as the price of acceptance). Use when landlord is accepting tena...",
+  "verticals": [
+    "legal"
+  ],
+  "tags": [],
+  "author": {
+    "name": "reggiechan74",
+    "github": "reggiechan74"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/reggiechan74/vp-real-estate",
+    "skill_md": "https://raw.githubusercontent.com/reggiechan74/vp-real-estate/main/.claude/skills/waiver-agreement-expert/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.687Z",
+  "created_at": "2025-12-22T22:09:25.049Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/reggiechan74%2Fvp-real-estate/.claude%2Fskills%2Fwaiver-agreement-expert%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.687Z",
+    "uniqueId": "sk_06fc52b4e3c6"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "migrating-bitnami-to-bitnami-legacy",
+  "name": "migrating-bitnami-to-bitnami-legacy",
+  "version": "1.0.0",
+  "summary": "This rule book helps you migrate Bitnami Helm charts and container images from the bitnami repository to the bitnamilegacy repository.\n\nThis migration is necessary due to Bitnam...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stakpak",
+    "github": "stakpak"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stakpak/community-paks",
+    "skill_md": "https://raw.githubusercontent.com/stakpak/community-paks/main/migrating-bitnami-to-bitnami-legacy/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.530Z",
+  "created_at": "2025-12-23T01:29:00.872Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stakpak%2Fcommunity-paks/migrating-bitnami-to-bitnami-legacy%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.530Z",
+    "uniqueId": "sk_d84b3bd8cb1e"
+  }
+}

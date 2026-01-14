@@ -1,0 +1,35 @@
+{
+  "id": "debugging-auto",
+  "name": "debugging-auto",
+  "version": "1.0.0",
+  "summary": "Hidden automatic debugging when something breaks - user sees simple question or \"fixing...\" not stack traces or technical errors",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "timequity",
+    "github": "timequity"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/timequity/plugins",
+    "skill_md": "https://raw.githubusercontent.com/timequity/plugins/main/vibe-coder/skills/debugging-auto/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-08T08:01:28.000Z",
+  "created_at": "2025-12-23T01:28:42.074Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/timequity%2Fplugins/vibe-coder%2Fskills%2Fdebugging-auto%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.560Z",
+    "uniqueId": "sk_77809a9a4672"
+  }
+}

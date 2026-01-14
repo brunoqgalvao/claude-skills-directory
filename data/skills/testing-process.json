@@ -1,0 +1,37 @@
+{
+  "id": "testing-process",
+  "name": "testing-process",
+  "version": "1.0.0",
+  "summary": "Guidelines describing how to test the code. Use whenever writing new or updating existing code, for example after implementing a new feature or fixing a bug.",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "serpro69",
+    "github": "serpro69"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/serpro69/claude-starter-kit",
+    "skill_md": "https://raw.githubusercontent.com/serpro69/claude-starter-kit/main/.claude/skills/testing-process/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.572Z",
+  "created_at": "2025-12-23T01:28:29.609Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/serpro69%2Fclaude-starter-kit/.claude%2Fskills%2Ftesting-process%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.572Z",
+    "uniqueId": "sk_ab2b8d4ebe5d"
+  }
+}

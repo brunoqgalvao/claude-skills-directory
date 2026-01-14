@@ -1,0 +1,37 @@
+{
+  "id": "svelte-flow",
+  "name": "svelte-flow",
+  "version": "1.0.0",
+  "summary": "Build node-based editors, interactive diagrams, and flow visualizations using Svelte Flow. Use when creating workflow editors, data flow diagrams, organizational charts, mindmap...",
+  "verticals": [
+    "engineering",
+    "support",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "linehaul-ai",
+    "github": "linehaul-ai"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/linehaul-ai/linehaulai-claude-marketplace",
+    "skill_md": "https://raw.githubusercontent.com/linehaul-ai/linehaulai-claude-marketplace/main/.claude-plugin/svelte-flow/skills/svelte-flow/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.671Z",
+  "created_at": "2025-12-22T22:16:01.156Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/linehaul-ai%2Flinehaulai-claude-marketplace/.claude-plugin%2Fsvelte-flow%2Fskills%2Fsvelte-flow%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.671Z",
+    "uniqueId": "sk_e7ac6d1c69dc"
+  }
+}

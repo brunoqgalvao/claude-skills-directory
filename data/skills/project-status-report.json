@@ -1,0 +1,37 @@
+{
+  "id": "project-status-report",
+  "name": "project-status-report",
+  "version": "1.0.0",
+  "summary": "Generate comprehensive project health and status reports for rapid developer onboarding. Use when starting sessions, checking project health mid-work, or needing overview of git...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "AnthemFlynn",
+    "github": "AnthemFlynn"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/AnthemFlynn/ccmp",
+    "skill_md": "https://raw.githubusercontent.com/AnthemFlynn/ccmp/main/plugins/project-status-report/skills/project-status-report/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-11-13T05:33:56.000Z",
+  "created_at": "2025-12-23T01:28:44.184Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/AnthemFlynn%2Fccmp/plugins%2Fproject-status-report%2Fskills%2Fproject-status-report%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.556Z",
+    "uniqueId": "sk_0fe17aaef607"
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "document-generation",
+  "name": "document-generation",
+  "version": "1.0.0",
+  "summary": "A powerful skill for generating and processing professional documents (Word, PowerPoint, Excel, PDF).",
+  "verticals": [
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "BOHUYESHAN-APB",
+    "github": "BOHUYESHAN-APB"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/BOHUYESHAN-APB/N-T-AI",
+    "skill_md": "https://raw.githubusercontent.com/BOHUYESHAN-APB/N-T-AI/main/backend/app/skills/common/document_skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.863Z",
+  "created_at": "2025-12-22T15:05:51.146Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/BOHUYESHAN-APB%2FN-T-AI/backend%2Fapp%2Fskills%2Fcommon%2Fdocument_skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.863Z",
+    "uniqueId": "sk_5459b496fa16"
+  }
+}

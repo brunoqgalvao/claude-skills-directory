@@ -1,0 +1,36 @@
+{
+  "id": "maintaining-design-system",
+  "name": "maintaining-design-system",
+  "version": "1.0.0",
+  "summary": "Design system maintenance for the site. Consult when modifying colours, typography, spacing, or themes. Covers token architecture, theme synchronisation, and CSS layers.",
+  "verticals": [
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samfolo",
+    "github": "samfolo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samfolo/personal-site",
+    "skill_md": "https://raw.githubusercontent.com/samfolo/personal-site/main/.claude/skills/maintaining-design-system/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.777Z",
+  "created_at": "2025-12-22T19:57:02.826Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samfolo%2Fpersonal-site/.claude%2Fskills%2Fmaintaining-design-system%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.777Z",
+    "uniqueId": "sk_d1c4ff098168"
+  }
+}

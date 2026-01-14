@@ -1,0 +1,37 @@
+{
+  "id": "user-onboarding",
+  "name": "user-onboarding",
+  "version": "1.0.0",
+  "summary": "Guide new users through setting up a Kurt project - understand their goals, map content sources, discover topics with clustering, and organize their knowledge base.",
+  "verticals": [
+    "marketing",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "boringdata",
+    "github": "boringdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/boringdata/kurt-demo",
+    "skill_md": "https://raw.githubusercontent.com/boringdata/kurt-demo/main/_archived/onboard-user-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.647Z",
+  "created_at": "2025-12-22T23:03:53.364Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/boringdata%2Fkurt-demo/_archived%2Fonboard-user-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.647Z",
+    "uniqueId": "sk_75f70a52bfc4"
+  }
+}

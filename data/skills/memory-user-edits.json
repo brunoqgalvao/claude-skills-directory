@@ -1,0 +1,35 @@
+{
+  "id": "memory-user-edits",
+  "name": "memory-user-edits",
+  "version": "1.0.0",
+  "summary": "Expert guidance for Claude's memory_user_edits tool. Helps users understand how to effectively use memory edits for persistent facts across conversations. Key insight - memory e...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "frmoretto",
+    "github": "frmoretto"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/frmoretto/claude-memory-user-edits-guide",
+    "skill_md": "https://raw.githubusercontent.com/frmoretto/claude-memory-user-edits-guide/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:58:17.627Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/frmoretto%2Fclaude-memory-user-edits-guide/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_699622f26871"
+  }
+}

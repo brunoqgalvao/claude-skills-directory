@@ -1,0 +1,35 @@
+{
+  "id": "maceff-delegation",
+  "name": "maceff-delegation",
+  "version": "1.0.0",
+  "summary": "Use when preparing to delegate to MacEff subagents. Read policies to discover current delegation patterns through timeless questions that extract details without prescribing ans...",
+  "verticals": [
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "cversek",
+    "github": "cversek"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/cversek/MacEff",
+    "skill_md": "https://raw.githubusercontent.com/cversek/MacEff/main/framework/skills/maceff-delegation/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.861Z",
+  "created_at": "2025-12-22T15:07:36.473Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/cversek%2FMacEff/framework%2Fskills%2Fmaceff-delegation%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.861Z",
+    "uniqueId": "sk_280b2d0fc4ea"
+  }
+}

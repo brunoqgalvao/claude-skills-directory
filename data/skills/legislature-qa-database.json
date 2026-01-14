@@ -1,0 +1,35 @@
+{
+  "id": "legislature-qa-database",
+  "name": "legislature-qa-database",
+  "version": "1.0.0",
+  "summary": "Query and analyze the Legislature (M2) QA database using PowerShell functions. Use when working with committees, committee meetings, bills, legislators, or any Legislature/M2 ap...",
+  "verticals": [
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "marcusshepp",
+    "github": "marcusshepp"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/marcusshepp/useful",
+    "skill_md": "https://raw.githubusercontent.com/marcusshepp/useful/main/network/.github/skills/legislature-qa-database/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.834Z",
+  "created_at": "2025-12-22T16:53:32.169Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/marcusshepp%2Fuseful/network%2F.github%2Fskills%2Flegislature-qa-database%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.834Z",
+    "uniqueId": "sk_0b6107963898"
+  }
+}

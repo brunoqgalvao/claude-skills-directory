@@ -1,0 +1,35 @@
+{
+  "id": "seer-code-review",
+  "name": "seer-code-review",
+  "version": "1.0.0",
+  "summary": "Analyze, validate, and fix issues identified by sentry bot in GitHub Pull Request reviews. Use this when asked to review or address sentry bot comments on PRs. Can review specif...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "codyde",
+    "github": "codyde"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/codyde/sentry-claude-code-skills",
+    "skill_md": "https://raw.githubusercontent.com/codyde/sentry-claude-code-skills/main/seer-code-review/seer-code-review/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:06:10.753Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/codyde%2Fsentry-claude-code-skills/seer-code-review%2Fseer-code-review%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_396103281064"
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "product-definition",
+  "name": "product-definition",
+  "version": "1.0.0",
+  "summary": "Use when creating Product Requirements Documents. Enforces clarification-first workflow, junior-dev-friendly language, and standard PRD structure. Triggers: 'create PRD', 'write...",
+  "verticals": [
+    "engineering",
+    "operations",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sebnow",
+    "github": "sebnow"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sebnow/configs",
+    "skill_md": "https://raw.githubusercontent.com/sebnow/configs/main/home-manager/agentic/skills/product-definition/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.813Z",
+  "created_at": "2025-12-22T17:52:26.519Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sebnow%2Fconfigs/home-manager%2Fagentic%2Fskills%2Fproduct-definition%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.813Z",
+    "uniqueId": "sk_5e483ef28e38"
+  }
+}

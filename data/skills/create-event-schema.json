@@ -1,0 +1,35 @@
+{
+  "id": "create-event-schema",
+  "name": "create-event-schema",
+  "version": "1.0.0",
+  "summary": "이벤트 스키마 TypeScript 타입 생성. Use when: 이벤트 봉투 및 Zod 스키마 자동 생성 필요 시",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-ms",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-ms/main/skills/create-event-schema/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.831Z",
+  "created_at": "2025-12-22T16:55:04.017Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-ms/skills%2Fcreate-event-schema%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.831Z",
+    "uniqueId": "sk_23dfb35e542d"
+  }
+}

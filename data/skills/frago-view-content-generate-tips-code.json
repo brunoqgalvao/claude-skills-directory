@@ -1,0 +1,36 @@
+{
+  "id": "frago-view-content-generate-tips-code",
+  "name": "frago-view-content-generate-tips-code",
+  "version": "1.0.0",
+  "summary": "代码文件内容生成指南。当需要创建可通过 `frago view` 预览的代码文件时使用此 skill。涵盖支持的语言、主题选择、最佳实践。",
+  "verticals": [
+    "engineering",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tsaijamey",
+    "github": "tsaijamey"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tsaijamey/frago",
+    "skill_md": "https://raw.githubusercontent.com/tsaijamey/frago/main/src/frago/resources/skills/frago-view-content-generate-tips-code/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2025-12-19T09:53:24.000Z",
+  "created_at": "2025-12-23T01:28:47.560Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tsaijamey%2Ffrago/src%2Ffrago%2Fresources%2Fskills%2Ffrago-view-content-generate-tips-code%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.553Z",
+    "uniqueId": "sk_02dad14208d5"
+  }
+}

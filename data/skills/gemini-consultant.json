@@ -1,0 +1,35 @@
+{
+  "id": "gemini-consultant",
+  "name": "gemini-consultant",
+  "version": "1.0.0",
+  "summary": "Get a second opinion from Gemini 3 Pro with Google Search grounding and vision. Use when you need real-time web information, want to verify facts, need a different perspective o...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "stared",
+    "github": "stared"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/stared/gemini-claude-skills",
+    "skill_md": "https://raw.githubusercontent.com/stared/gemini-claude-skills/main/skills/gemini-consultant/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.849Z",
+  "created_at": "2025-12-22T15:59:08.031Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/stared%2Fgemini-claude-skills/skills%2Fgemini-consultant%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.849Z",
+    "uniqueId": "sk_67184289d017"
+  }
+}

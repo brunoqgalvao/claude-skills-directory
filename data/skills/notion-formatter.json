@@ -1,0 +1,37 @@
+{
+  "id": "notion-formatter",
+  "name": "notion-formatter",
+  "version": "1.0.0",
+  "summary": "Format markdown content for Notion import with proper syntax for toggles, code blocks, and tables. Use when formatting responses for Notion, creating Notion-compatible documenta...",
+  "verticals": [
+    "engineering",
+    "finance",
+    "marketing"
+  ],
+  "tags": [],
+  "author": {
+    "name": "TrevorS",
+    "github": "TrevorS"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/TrevorS/dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/TrevorS/dot-claude/main/skills/notion-formatter/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.840Z",
+  "created_at": "2025-12-22T16:07:30.397Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/TrevorS%2Fdot-claude/skills%2Fnotion-formatter%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.840Z",
+    "uniqueId": "sk_386bcd6d995a"
+  }
+}

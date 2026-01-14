@@ -1,0 +1,35 @@
+{
+  "id": "assign-task",
+  "name": "assign-task",
+  "version": "1.0.0",
+  "summary": "작업자에게 Task 할당 + 작업 포인트 설정 + Slack 알림의 통합 워크플로우.\nUse when (1) Task 할당 시, (2) 담당자 지정 + 포인트 설정 + 알림 한 번에 처리,\n(3) /SAX:pm assign 커맨드.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "semicolon-devteam",
+    "github": "semicolon-devteam"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/semicolon-devteam/sax-pm",
+    "skill_md": "https://raw.githubusercontent.com/semicolon-devteam/sax-pm/main/skills/assign-task/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.766Z",
+  "created_at": "2025-12-22T20:05:54.598Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/semicolon-devteam%2Fsax-pm/skills%2Fassign-task%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.766Z",
+    "uniqueId": "sk_3482e02ecd01"
+  }
+}

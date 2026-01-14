@@ -1,0 +1,36 @@
+{
+  "id": "import-content",
+  "name": "import-content",
+  "version": "1.0.0",
+  "summary": "Import existing markdown files into Kurt database. Fix ERROR records, bulk import files, link content to database.",
+  "verticals": [
+    "marketing",
+    "data"
+  ],
+  "tags": [],
+  "author": {
+    "name": "boringdata",
+    "github": "boringdata"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/boringdata/kurt-demo",
+    "skill_md": "https://raw.githubusercontent.com/boringdata/kurt-demo/main/_archived/import-content-skill/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.756Z",
+  "created_at": "2025-12-22T20:15:44.349Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/boringdata%2Fkurt-demo/_archived%2Fimport-content-skill%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.756Z",
+    "uniqueId": "sk_5c826a839a67"
+  }
+}

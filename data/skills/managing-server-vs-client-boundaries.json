@@ -1,0 +1,35 @@
+{
+  "id": "managing-server-vs-client-boundaries",
+  "name": "managing-server-vs-client-boundaries",
+  "version": "1.0.0",
+  "summary": "Teaches when to use Server Components vs Client Components in React 19, including the 'use client' directive and boundary patterns. Use when architecting components, choosing co...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "djankies",
+    "github": "djankies"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/djankies/claude-configs",
+    "skill_md": "https://raw.githubusercontent.com/djankies/claude-configs/main/react-19/skills/managing-server-vs-client-boundaries/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.786Z",
+  "created_at": "2025-12-22T19:05:01.743Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/djankies%2Fclaude-configs/react-19%2Fskills%2Fmanaging-server-vs-client-boundaries%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.786Z",
+    "uniqueId": "sk_d061b669b494"
+  }
+}

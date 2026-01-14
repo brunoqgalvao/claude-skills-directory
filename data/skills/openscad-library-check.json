@@ -1,0 +1,35 @@
+{
+  "id": "openscad-library-check",
+  "name": "openscad-library-check",
+  "version": "1.0.0",
+  "summary": "Verify OpenSCAD libraries (BOSL2, Round-Anything) are installed, troubleshoot common issues, understand best practices for spiral generation, and evaluate designs against profes...",
+  "verticals": [
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Euda1mon1a",
+    "github": "Euda1mon1a"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Euda1mon1a/parametric_projects",
+    "skill_md": "https://raw.githubusercontent.com/Euda1mon1a/parametric_projects/main/docs/skills/openscad-library-check/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.773Z",
+  "created_at": "2025-12-22T19:58:19.463Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Euda1mon1a%2Fparametric_projects/docs%2Fskills%2Fopenscad-library-check%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.773Z",
+    "uniqueId": "sk_6c931a450ecf"
+  }
+}

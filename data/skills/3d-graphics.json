@@ -1,0 +1,37 @@
+{
+  "id": "3d-graphics",
+  "name": "3d-graphics",
+  "version": "1.0.0",
+  "summary": "3D web graphics with Three.js (WebGL/WebGPU). Capabilities: scenes, cameras, geometries, materials, lights, animations, model loading (GLTF/FBX), PBR materials, shadows, post-pr...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "samhvw8",
+    "github": "samhvw8"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/samhvw8/dot-claude",
+    "skill_md": "https://raw.githubusercontent.com/samhvw8/dot-claude/main/skills/3d-graphics/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.829Z",
+  "created_at": "2025-12-22T16:57:59.432Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/samhvw8%2Fdot-claude/skills%2F3d-graphics%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.829Z",
+    "uniqueId": "sk_507d8e60d2b3"
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "conversation-logger",
+  "name": "conversation-logger",
+  "version": "1.0.0",
+  "summary": "This skill should be used when users need to save, search, or retrieve Claude Code conversation transcripts. Use this skill when users ask to save the current conversation, sear...",
+  "verticals": [
+    "engineering",
+    "hr"
+  ],
+  "tags": [],
+  "author": {
+    "name": "sirkitree",
+    "github": "sirkitree"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/sirkitree/conversation-logger",
+    "skill_md": "https://raw.githubusercontent.com/sirkitree/conversation-logger/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.800Z",
+  "created_at": "2025-12-22T18:13:09.420Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/sirkitree%2Fconversation-logger/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.800Z",
+    "uniqueId": "sk_db6b018574a6"
+  }
+}

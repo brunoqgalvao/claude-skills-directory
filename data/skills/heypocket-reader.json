@@ -1,0 +1,35 @@
+{
+  "id": "heypocket-reader",
+  "name": "heypocket-reader",
+  "version": "1.0.0",
+  "summary": "Read transcripts and summaries from Pocket AI (heypocket.com) recording devices. Use when users want to retrieve, search, or analyze their Pocket recordings, transcripts, summar...",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "tmustier",
+    "github": "tmustier"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/tmustier/heypocket-reader",
+    "skill_md": "https://raw.githubusercontent.com/tmustier/heypocket-reader/main/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.862Z",
+  "created_at": "2025-12-22T15:06:33.659Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/tmustier%2Fheypocket-reader/SKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.862Z",
+    "uniqueId": "sk_521dacd29acf"
+  }
+}

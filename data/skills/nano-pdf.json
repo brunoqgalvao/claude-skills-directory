@@ -1,0 +1,35 @@
+{
+  "id": "nano-pdf",
+  "name": "nano-pdf",
+  "version": "1.0.0",
+  "summary": "Edit PDFs with natural-language instructions using the nano-pdf CLI.",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "steipete",
+    "github": "steipete"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/steipete/clawdis",
+    "skill_md": "https://raw.githubusercontent.com/steipete/clawdis/main/skills/nano-pdf/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.579Z",
+  "created_at": "2025-12-23T01:28:21.168Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/steipete%2Fclawdis/skills%2Fnano-pdf%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.579Z",
+    "uniqueId": "sk_4dbd349ff549"
+  }
+}

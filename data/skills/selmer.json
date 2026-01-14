@@ -1,0 +1,35 @@
+{
+  "id": "selmer",
+  "name": "selmer",
+  "version": "1.0.0",
+  "summary": "Django-inspired HTML templating system for Clojure with filters, tags, and template inheritance",
+  "verticals": [
+    "engineering"
+  ],
+  "tags": [],
+  "author": {
+    "name": "hugoduncan",
+    "github": "hugoduncan"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/hugoduncan/library-skills",
+    "skill_md": "https://raw.githubusercontent.com/hugoduncan/library-skills/main/plugins/clojure-libraries/skills/selmer/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.635Z",
+  "created_at": "2025-12-22T23:11:55.260Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/hugoduncan%2Flibrary-skills/plugins%2Fclojure-libraries%2Fskills%2Fselmer%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.635Z",
+    "uniqueId": "sk_5b9a0fb5e909"
+  }
+}

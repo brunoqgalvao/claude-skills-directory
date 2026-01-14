@@ -1,0 +1,37 @@
+{
+  "id": "architecture-discovery",
+  "name": "architecture-discovery",
+  "version": "1.0.0",
+  "summary": "Guide users through discovering and defining system architecture through structured conversation. Triggers on \"I want to build\", \"design a system\", \"architect\", \"planning a new ...",
+  "verticals": [
+    "engineering",
+    "hr",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "JustAnotherRepo",
+    "github": "JustAnotherRepo"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/JustAnotherRepo/JustAnotherClaudeMdFile",
+    "skill_md": "https://raw.githubusercontent.com/JustAnotherRepo/JustAnotherClaudeMdFile/main/src/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.466Z",
+  "created_at": "2025-12-23T01:30:56.948Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/JustAnotherRepo%2FJustAnotherClaudeMdFile/src%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.466Z",
+    "uniqueId": "sk_99383ae668a7"
+  }
+}

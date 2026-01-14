@@ -1,0 +1,36 @@
+{
+  "id": "install-sections",
+  "name": "install-sections",
+  "version": "1.0.0",
+  "summary": "Build pages by installing shadcnblocks sections and implementing i18n. Use for each page after branding is defined. Takes page route and list of sections to install. Installs se...",
+  "verticals": [
+    "engineering",
+    "design"
+  ],
+  "tags": [],
+  "author": {
+    "name": "Manuelvillarvieites",
+    "github": "Manuelvillarvieites"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/Manuelvillarvieites/energy-company",
+    "skill_md": "https://raw.githubusercontent.com/Manuelvillarvieites/energy-company/main/.claude/skills/install-sections/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.822Z",
+  "created_at": "2025-12-22T17:05:48.828Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/Manuelvillarvieites%2Fenergy-company/.claude%2Fskills%2Finstall-sections%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.822Z",
+    "uniqueId": "sk_64c68624d053"
+  }
+}

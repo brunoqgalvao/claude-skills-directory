@@ -1,0 +1,36 @@
+{
+  "id": "output-style-to-plugin",
+  "name": "output-style-to-plugin",
+  "version": "1.0.0",
+  "summary": "This skill should be used when converting deprecated Claude Code output styles (.md files) into the new plugin format. It automates the entire conversion process including creat...",
+  "verticals": [
+    "engineering",
+    "operations"
+  ],
+  "tags": [],
+  "author": {
+    "name": "pc035860",
+    "github": "pc035860"
+  },
+  "status": "ready",
+  "verified": false,
+  "visibility": "public",
+  "license": "MIT",
+  "links": {
+    "repo": "https://github.com/pc035860/skill-output-style-to-plugin",
+    "skill_md": "https://raw.githubusercontent.com/pc035860/skill-output-style-to-plugin/main/output-style-to-plugin/SKILL.md"
+  },
+  "stats": {
+    "stars": 0,
+    "forks": 0,
+    "installs": 0
+  },
+  "last_updated": "2026-01-07T16:59:54.767Z",
+  "created_at": "2025-12-22T20:04:36.569Z",
+  "meta": {
+    "source": "skillsdirectory.org",
+    "sourceUrl": "https://www.skillsdirectory.org/skill/pc035860%2Fskill-output-style-to-plugin/output-style-to-plugin%2FSKILL.md",
+    "harvestedAt": "2026-01-07T16:59:54.767Z",
+    "uniqueId": "sk_82ec0e20c4df"
+  }
+}
